@@ -46,6 +46,92 @@ const crypto = require('crypto');
 const VAULT = path.join(__dirname, 'vault');
 const OUT = path.join(__dirname, 'build', 'system', 'garden-data.js');
 const BODY_DIR = path.join(__dirname, 'build');
+const CONFIG_FILE = path.join(__dirname, 'config.yml');
+const INDEX_FILE = path.join(__dirname, 'index.html');
+
+/* ---- minimal YAML reader for config.yml ----
+ * Handles top-level `key: value` scalars and one level of nested maps
+ * (2-space indent), quoted or bare strings, `#` comments, and blank lines.
+ * Purpose-built for config.yml — not a general YAML parser.                  */
+function parseSimpleYaml(text) {
+  const root = {};
+  let cur = root;
+  const stripComment = (s) => {
+    let inS = false, inD = false;
+    for (let i = 0; i < s.length; i++) {
+      const c = s[i];
+      if (c === "'" && !inD) inS = !inS;
+      else if (c === '"' && !inS) inD = !inD;
+      else if (c === '#' && !inS && !inD && (i === 0 || /\s/.test(s[i - 1]))) return s.slice(0, i);
+    }
+    return s;
+  };
+  const unquote = (v) => {
+    v = v.trim();
+    if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+      const q = v[0];
+      v = v.slice(1, -1);
+      if (q === '"' && v.indexOf('\\') >= 0) { try { v = JSON.parse('"' + v.replace(/"/g, '\\"') + '"'); } catch (e) {} }
+    }
+    return v;
+  };
+  for (const raw of String(text).split(/\r?\n/)) {
+    const line = stripComment(raw);
+    if (!line.trim()) continue;
+    const indent = (line.match(/^(\s*)/)[1] || '').length;
+    const m = line.trim().match(/^([\w-]+):\s*(.*)$/);
+    if (!m) continue;
+    const key = m[1], val = m[2];
+    if (val === '') { cur = root[key] = {}; }
+    else if (indent === 0) { cur = root; root[key] = unquote(val); }
+    else { cur[key] = unquote(val); }
+  }
+  return root;
+}
+
+/* ---- read config.yml -> the KG_CONFIG object the app reads at runtime ---- */
+function loadConfig() {
+  let c = {};
+  try { c = parseSimpleYaml(fs.readFileSync(CONFIG_FILE, 'utf8')); }
+  catch (e) { console.warn('⚠  No readable config.yml (' + e.message + '); using existing index.html values.'); return null; }
+  const sig = c.signature || {};
+  const gis = c.giscus || {};
+  return {
+    title: c.title || '',
+    brand: c.brand || '',
+    subtitle: c.subtitle || '',
+    siteUrl: c.site_url || '',
+    signature: { trigger: sig.trigger || '', text: sig.text || '', url: sig.url || '' },
+    giscus: {
+      enabled: String(gis.enabled).toLowerCase() === 'true',
+      repo: gis.repo || '', repoId: gis.repo_id || '', category: gis.category || '',
+      categoryId: gis.category_id || '', theme: gis.theme || 'transparent_dark',
+    },
+  };
+}
+
+/* ---- inject KG_CONFIG (and the <title>) into index.html, idempotently ---- */
+function injectConfig() {
+  const KG = loadConfig();
+  if (!KG) return;
+  let html;
+  try { html = fs.readFileSync(INDEX_FILE, 'utf8'); }
+  catch (e) { console.warn('⚠  Could not read index.html: ' + e.message); return; }
+  const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  const block = '<!-- KG-CONFIG-START — generated from config.yml by build.js; edit config.yml, not this block -->\n' +
+    '<script>\nwindow.KG_CONFIG = ' + JSON.stringify(KG, null, 2) + ';\n</script>\n' +
+    '<!-- KG-CONFIG-END -->';
+  if (/<!-- KG-CONFIG-START[\s\S]*?KG-CONFIG-END -->/.test(html)) {
+    html = html.replace(/<!-- KG-CONFIG-START[\s\S]*?KG-CONFIG-END -->/, () => block);
+  } else {
+    console.warn('⚠  KG-CONFIG markers not found in index.html; skipping config injection.');
+    return;
+  }
+  html = html.replace(/<title>[\s\S]*?<\/title>/, () => '<title>' + esc(KG.title) + '</title>');
+  fs.writeFileSync(INDEX_FILE, html);
+  console.log('Injected config.yml into index.html.');
+}
+
 
 /* ---- recursively collect every .md file under the vault ---- */
 function walk(dir, acc = []) {
@@ -388,3 +474,6 @@ const hidden = Object.keys(recs).length - survivors.length;
 console.log(`Built ${path.basename(OUT)}: ${nodes.length} notes kept, ${hidden} hidden by private subtrees.`);
 console.log(`Wrote ${nodes.length} body files to bodies/.`);
 console.log(`Copied ${imagesCopied} image(s) into bodies/<id>/.`);
+
+/* ---- inject personal config (config.yml) into index.html ---- */
+injectConfig();

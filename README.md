@@ -44,7 +44,17 @@ Wikilinks (`[[Note Title]]`), embeds (`![[Note#Heading]]`), images
 (`![[Note/pic.png|400]]`), callouts, LaTeX, and tables all work — see
 [Markdown support](#markdown-support).
 
-## 2. Build
+## 2. Personalize (optional)
+
+Edit `config.yml` to set the site title, header wordmark, subtitle, and giscus
+comments. These are the only personal values baked into the site; `node build.js`
+injects them into `index.html` for you.
+
+To turn things off: set `giscus.enabled` to `false` to hide the comments section
+(it's off by default), and leave `signature.trigger` empty to disable the hidden
+credit easter egg.
+
+## 3. Build
 
 You need [Node.js](https://nodejs.org) (any recent version). From the project folder:
 
@@ -52,10 +62,11 @@ You need [Node.js](https://nodejs.org) (any recent version). From the project fo
 node build.js
 ```
 
-This walks `vault/`, skips `private` notes, and writes everything the site needs into
-`build/`. Re‑run it whenever you change your notes.
+This walks `vault/`, skips `private` notes, writes everything the site needs into
+`build/`, and injects `config.yml` into `index.html`. Re‑run it whenever you change
+your notes or config.
 
-## 3. View it
+## 4. View it
 
 Pick whichever fits:
 
@@ -113,8 +124,9 @@ callouts, and tabs):
 ## Project layout
 
 ```
-index.html                    The app (do not edit)
-build.js                      Builds the site from your vault
+index.html                    The app (generated values injected by build.js)
+config.yml                    Your site title, brand, and giscus settings
+build.js                      Builds the site from your vault + config.yml
 vault/                        Your Obsidian notes (source of truth)
 build/system/garden-data.js   Generated graph metadata
 build/system/search-data.js   Generated search corpus

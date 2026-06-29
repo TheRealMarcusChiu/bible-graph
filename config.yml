@@ -1,0 +1,37 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  Knowledge Garden — site configuration
+#
+#  Edit the values below, then run `node build.js`. The build injects them into
+#  index.html. These are the only "personal" values in the site — everything
+#  else is generated from your vault.
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Browser tab title.
+title: "/var/log"
+
+# Wordmark shown top-left in the header.
+brand: "/var/log"
+
+# Small caption beside the wordmark.
+subtitle: "knowledge garden"
+
+# Your site's public URL (used internally; safe to leave blank).
+site_url: "https://git.marcuschiu.com/var-log/"
+
+# Hidden signature easter egg: typing the `trigger` word anywhere flashes a
+# credit overlay. Leave `trigger` empty ("") to disable it entirely.
+signature:
+  trigger: "marcus"
+  text: "✦ tended by Marcus Chiu ✦"
+  url: "git.marcuschiu.com"
+
+# giscus comments (https://giscus.app). Set `enabled: false` to hide the
+# discussion section. To turn it on, set `enabled: true` and fill repo / repo_id
+# / category / category_id from giscus.
+giscus:
+  enabled: false
+  repo: "therealmarcuschiu/var-log"
+  repo_id: "R_kgDOSxZkzQ"
+  category: "General"
+  category_id: "DIC_kwDOSxZkzc4C-tDZ"
+  theme: "transparent_dark"
