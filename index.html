@@ -457,6 +457,7 @@
       <div style="min-width: 196px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
         <button type="button" onClick="{{ tabMenuDup }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⧉ duplicate tab</button>
         <button type="button" onClick="{{ tabMenuSplit }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊟ split and move right</button>
+        <button type="button" onClick="{{ tabMenuCloseOthers }}" disabled="{{ tabMenuCloseOthersDisabled }}" style="{{ tabMenuCloseOthersStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✕ close other tabs</button>
       </div>
     </div>
   </sc-if>
@@ -1235,13 +1236,13 @@ class Component extends DCLogic {
       const hov = n.id === this.hoverId;
       const fr = this.nodeRadius(n) * (hov ? 1.6 : 1);
       ctx.beginPath(); ctx.arc(n.x, n.y, fr, 0, 2 * Math.PI);
-      ctx.fillStyle = n.id === this.selectedId ? this.accentBright : (hov ? '#ffe08a' : this.color(n));
+      ctx.fillStyle = this.isAnchored(n.id) ? this.accentBright : (hov ? '#ffe08a' : this.color(n));
       ctx.fill();
       return;
     }
     const baseR = this.nodeRadius(n);
     const col = this.color(n);
-    const selected = n.id === this.selectedId;
+    const selected = this.isAnchored(n.id);
     const hovered = n.id === this.hoverId;
     const hasChildren = n.children && n.children.length;
     const zone = hovered ? this.hoverZoneFor(n) : 'node';
@@ -1369,8 +1370,16 @@ class Component extends DCLogic {
       const s = hb[key] || (hb[key] = { hist: [], idx: -1 });
       if (s.hist[s.idx] !== id) { s.hist = s.hist.slice(0, s.idx + 1); s.hist.push(id); s.idx = s.hist.length - 1; }
     }
+    // Anchor the node in the graph too — reveal its path, refresh the graph, then center the
+    // camera on it and highlight it (selectedIdR). The left pane's note is left untouched.
+    if (this.revealPath) this.revealPath(id);
+    if (this.graph) this.graph.graphData(this.getVisible());
     this.setState({ tabNode: tn, selectedIdR: id });
+    const n = this.nodeById[id];
+    if (n) { this.focusNode(n, false); this.startGlow(id); }
   }
+  // A node is "anchored" in the graph if it's the left selection OR (in split view) the right pane's note.
+  isAnchored(id) { return id === this.selectedId || (!!(this.state.tabsR && this.state.tabsR.length) && id === this.state.selectedIdR); }
   navStateR() { return (this.navHistByKey || (this.navHistByKey = {}))[this.state.selectedKeyR] || { hist: [], idx: -1 }; }
   navBackR = () => { const s = this.navStateR(); if (s.idx > 0) { s.idx--; this.navRight(s.hist[s.idx], true); } };
   navForwardR = () => { const s = this.navStateR(); if (s.idx < s.hist.length - 1) { s.idx++; this.navRight(s.hist[s.idx], true); } };
@@ -1914,6 +1923,23 @@ class Component extends DCLogic {
       this.setState({ tabsR, selectedKeyR: nextKey, selectedIdR: this.nodeOf(nextKey) });
     } else {
       this.setState({ tabsR });
+    }
+  };
+  // Close every tab in this section except `key`.
+  closeOtherTabs = (key, side) => {
+    this.setState({ tabMenu: null });
+    if (side === 'right') {
+      const tabsR = (this.state.tabsR || []);
+      if (!tabsR.includes(key) || tabsR.length <= 1) return;
+      this.lockTabWidths('right');
+      this.ensureBody(this.nodeOf(key));
+      this.setState({ tabsR: [key], selectedKeyR: key, selectedIdR: this.nodeOf(key) });
+    } else {
+      const tabs = (this.state.tabs || []);
+      if (!tabs.includes(key) || tabs.length <= 1) return;
+      this.lockTabWidths('left');
+      this.setState({ tabs: [key] });
+      this.openTab(key);
     }
   };
 
@@ -2661,9 +2687,11 @@ class Component extends DCLogic {
     const toolbarEl = e.currentTarget;
     if (toolbarEl) toolbarEl.style.pointerEvents = 'none';   // block button :hover while dragging
     const startDock = this.state.dock || 'right';
+    const wasFull = !!this.state.fullPage;
     const r0 = aside.getBoundingClientRect();
     const startX = e.clientX, startY = e.clientY;
-    const grabOffX = startX - r0.left, grabOffY = startY - r0.top;
+    let grabOffX = startX - r0.left;
+    const grabOffY = startY - r0.top;
     const winW = window.innerWidth, winH = window.innerHeight, hh = (this.state.headerH || 64);
     document.body.style.userSelect = 'none';
     document.body.style.cursor = 'grabbing';
@@ -2672,13 +2700,14 @@ class Component extends DCLogic {
     if (this.graphEl) this.graphEl.style.cursor = 'grabbing';
     if (this.hoverId != null) { this.hoverId = null; this.setState({ hoverId: null }); }
     this.hideTip();
-    let popped = (startDock === 'undock');
+    let popped = (startDock === 'undock' && !wasFull);   // from full page: always tear off (exit full) on first move
     const floatW = Math.min(Math.max(320, this.state.sidebarW || 452), winW * 0.94);
     const floatH = (startDock === 'undock')
       ? Math.min(this.state.sidebarH || 520, winH - hh - 40)
       : Math.round((winH - hh) * 0.68);
     const EDGE = 60;   // proximity (px) to a screen edge that arms a dock snap
     const previewFor = (x, y) => {
+      if (y < hh + 20) return 'full';   // dragged up to the very top → maximize to full page
       if (y > winH - EDGE) return 'bottom';
       if (x < EDGE) return 'left';
       if (x > winW - EDGE) return 'right';
@@ -2695,7 +2724,8 @@ class Component extends DCLogic {
       if (!popped) {
         if (Math.abs(x - startX) < 6 && Math.abs(y - startY) < 6) return;
         popped = true;
-        this.setState(Object.assign({ dock: 'undock', sidebarW: Math.round(floatW), sidebarH: Math.round(floatH) }, place(x, y)));
+        if (wasFull) grabOffX = Math.min(grabOffX, Math.round(floatW / 2));   // re-grab under the cursor when tearing off a full-page panel
+        this.setState(Object.assign({ dock: 'undock', fullPage: false, sidebarW: Math.round(floatW), sidebarH: Math.round(floatH) }, place(x, y)));
         try { sessionStorage.setItem('kg-dock', 'undock'); } catch (e2) {}
       }
       this.setState(Object.assign(place(x, y), { dockPreview: previewFor(x, y) }));
@@ -2709,7 +2739,8 @@ class Component extends DCLogic {
       if (this.graphEl) this.graphEl.style.cursor = '';
       const preview = this.state.dockPreview;
       this.setState({ dockPreview: null });
-      if (preview) this.setDock(preview);
+      if (preview === 'full') this.setState({ fullPage: true });
+      else if (preview) this.setDock(preview);
       window.removeEventListener('mousemove', move);
       window.removeEventListener('mouseup', up);
       document.removeEventListener('mouseleave', up);
@@ -3068,6 +3099,7 @@ class Component extends DCLogic {
       if (dp === 'left') dockPreviewStyle = Object.assign(base, { left: 0, top: hhPx + 'px', width: lwPx + 'px', bottom: 0 });
       else if (dp === 'right') dockPreviewStyle = Object.assign(base, { right: 0, top: hhPx + 'px', width: rwPx + 'px', bottom: 0 });
       else if (dp === 'bottom') dockPreviewStyle = Object.assign(base, { left: 0, right: 0, bottom: 0, height: hPx + 'px' });
+      else if (dp === 'full') dockPreviewStyle = Object.assign(base, { left: 0, right: 0, top: hhPx + 'px', bottom: 0 });
     }
 
     // ---- Sidebar tabs ----
@@ -3134,6 +3166,9 @@ class Component extends DCLogic {
       tabMenuShow, tabMenuStyle,
       tabMenuSplit: tm ? () => this.splitMoveRight(tm.key) : () => {},
       tabMenuDup: tm ? () => this.duplicateTab(tm.key, tm.side) : () => {},
+      tabMenuCloseOthers: tm ? () => this.closeOtherTabs(tm.key, tm.side) : () => {},
+      tabMenuCloseOthersDisabled: tm ? ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) <= 1) : true,
+      tabMenuCloseOthersStyle: Object.assign({}, menuBtn, (tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
       setGraphEl: this.setGraphEl,
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
@@ -3233,7 +3268,7 @@ class Component extends DCLogic {
       sidebarOverflow: (dock === 'undock') ? 'hidden' : 'visible',
       onToolbarDown: this.startUndockDrag,
       toolbarCursor: sel ? 'grab' : 'default',
-      gripDisplay: this.state.fullPage ? 'none' : 'flex',
+      gripDisplay: 'flex',
       dockPreviewShow: !!dp,
       dockPreviewStyle,
       undockHandles,
@@ -3295,7 +3330,7 @@ class Component extends DCLogic {
       menuRoot: mNode ? () => ((mNode.id === this.actingRoot && mNode.id !== this.rootId) ? this.menuUnmake() : this.menuMakeRoot(mNode.id)) : () => {},
       menuNewTab: mNode ? () => this.openInNewTab(mNode.id) : () => {},
       showTabs, tabItems,
-      leftTabsWrapStyle: splitOn ? { flex: '0 0 calc(' + Math.round((this.state.splitRatio || 0.5) * 100) + '% - ' + (this.state.fullPage ? 0 : 28) + 'px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
+      leftTabsWrapStyle: splitOn ? { flex: '0 0 calc(' + Math.round((this.state.splitRatio || 0.5) * 100) + '% - 28px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
       leftPaneStyle: splitOn ? { flex: '0 0 ' + Math.round((this.state.splitRatio || 0.5) * 100) + '%', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 } : { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 },
       startSplitResize: this.startSplitResize,
       splitHoverOn: () => { if (!this.state.splitHover) this.setState({ splitHover: true }); },
