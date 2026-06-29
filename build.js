@@ -46,92 +46,6 @@ const crypto = require('crypto');
 const VAULT = path.join(__dirname, 'vault');
 const OUT = path.join(__dirname, 'build', 'system', 'garden-data.js');
 const BODY_DIR = path.join(__dirname, 'build');
-const CONFIG_FILE = path.join(__dirname, 'config.yml');
-const INDEX_FILE = path.join(__dirname, 'index.html');
-
-/* ---- minimal YAML reader for config.yml ----
- * Handles top-level `key: value` scalars and one level of nested maps
- * (2-space indent), quoted or bare strings, `#` comments, and blank lines.
- * Purpose-built for config.yml — not a general YAML parser.                  */
-function parseSimpleYaml(text) {
-  const root = {};
-  let cur = root;
-  const stripComment = (s) => {
-    let inS = false, inD = false;
-    for (let i = 0; i < s.length; i++) {
-      const c = s[i];
-      if (c === "'" && !inD) inS = !inS;
-      else if (c === '"' && !inS) inD = !inD;
-      else if (c === '#' && !inS && !inD && (i === 0 || /\s/.test(s[i - 1]))) return s.slice(0, i);
-    }
-    return s;
-  };
-  const unquote = (v) => {
-    v = v.trim();
-    if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
-      const q = v[0];
-      v = v.slice(1, -1);
-      if (q === '"' && v.indexOf('\\') >= 0) { try { v = JSON.parse('"' + v.replace(/"/g, '\\"') + '"'); } catch (e) {} }
-    }
-    return v;
-  };
-  for (const raw of String(text).split(/\r?\n/)) {
-    const line = stripComment(raw);
-    if (!line.trim()) continue;
-    const indent = (line.match(/^(\s*)/)[1] || '').length;
-    const m = line.trim().match(/^([\w-]+):\s*(.*)$/);
-    if (!m) continue;
-    const key = m[1], val = m[2];
-    if (val === '') { cur = root[key] = {}; }
-    else if (indent === 0) { cur = root; root[key] = unquote(val); }
-    else { cur[key] = unquote(val); }
-  }
-  return root;
-}
-
-/* ---- read config.yml -> the KG_CONFIG object the app reads at runtime ---- */
-function loadConfig() {
-  let c = {};
-  try { c = parseSimpleYaml(fs.readFileSync(CONFIG_FILE, 'utf8')); }
-  catch (e) { console.warn('⚠  No readable config.yml (' + e.message + '); using existing index.html values.'); return null; }
-  const sig = c.signature || {};
-  const gis = c.giscus || {};
-  return {
-    title: c.title || '',
-    brand: c.brand || '',
-    subtitle: c.subtitle || '',
-    siteUrl: c.site_url || '',
-    signature: { trigger: sig.trigger || '', text: sig.text || '', url: sig.url || '' },
-    giscus: {
-      enabled: String(gis.enabled).toLowerCase() === 'true',
-      repo: gis.repo || '', repoId: gis.repo_id || '', category: gis.category || '',
-      categoryId: gis.category_id || '', theme: gis.theme || 'transparent_dark',
-    },
-  };
-}
-
-/* ---- inject KG_CONFIG (and the <title>) into index.html, idempotently ---- */
-function injectConfig() {
-  const KG = loadConfig();
-  if (!KG) return;
-  let html;
-  try { html = fs.readFileSync(INDEX_FILE, 'utf8'); }
-  catch (e) { console.warn('⚠  Could not read index.html: ' + e.message); return; }
-  const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  const block = '<!-- KG-CONFIG-START — generated from config.yml by build.js; edit config.yml, not this block -->\n' +
-    '<script>\nwindow.KG_CONFIG = ' + JSON.stringify(KG, null, 2) + ';\n</script>\n' +
-    '<!-- KG-CONFIG-END -->';
-  if (/<!-- KG-CONFIG-START[\s\S]*?KG-CONFIG-END -->/.test(html)) {
-    html = html.replace(/<!-- KG-CONFIG-START[\s\S]*?KG-CONFIG-END -->/, () => block);
-  } else {
-    console.warn('⚠  KG-CONFIG markers not found in index.html; skipping config injection.');
-    return;
-  }
-  html = html.replace(/<title>[\s\S]*?<\/title>/, () => '<title>' + esc(KG.title) + '</title>');
-  fs.writeFileSync(INDEX_FILE, html);
-  console.log('Injected config.yml into index.html.');
-}
-
 
 /* ---- recursively collect every .md file under the vault ---- */
 function walk(dir, acc = []) {
@@ -475,5 +389,99 @@ console.log(`Built ${path.basename(OUT)}: ${nodes.length} notes kept, ${hidden} 
 console.log(`Wrote ${nodes.length} body files to bodies/.`);
 console.log(`Copied ${imagesCopied} image(s) into bodies/<id>/.`);
 
-/* ---- inject personal config (config.yml) into index.html ---- */
+/* ─────────────────────────────────────────────────────────────────────────────
+ *  Inject config.yml into index.html
+ *  ---------------------------------
+ *  Reads config.yml (the only file holding personal values) and bakes those
+ *  values into index.html between marker comments, so the published page ships
+ *  with real literals (fast paint, no runtime config fetch). Re-runnable: each
+ *  run replaces the marked regions in place.
+ * ───────────────────────────────────────────────────────────────────────── */
+
+/* ---- minimal YAML reader: scalars, booleans, and one level of nested maps ---- */
+function parseYaml(text) {
+  const root = {};
+  const stack = [{ indent: -1, obj: root }];
+  for (const raw of text.split(/\r?\n/)) {
+    const line = raw.replace(/\t/g, '  ');
+    if (!line.trim() || line.trim().startsWith('#')) continue;
+    const indent = line.length - line.trimStart().length;
+    const m = line.trim().match(/^([\w-]+):\s*(.*)$/);
+    if (!m) continue;
+    const key = m[1];
+    let val = m[2];
+    // strip trailing inline comment on unquoted values
+    if (val && !/^["']/.test(val)) val = val.replace(/\s+#.*$/, '').trim();
+    while (stack.length > 1 && indent <= stack[stack.length - 1].indent) stack.pop();
+    const parent = stack[stack.length - 1].obj;
+    if (val === '') {
+      const child = {};
+      parent[key] = child;
+      stack.push({ indent, obj: child });
+    } else {
+      parent[key] = parseScalar(val);
+    }
+  }
+  return root;
+}
+function parseScalar(v) {
+  v = v.trim();
+  if ((v.startsWith('"') && v.endsWith('"')) || (v.startsWith("'") && v.endsWith("'"))) {
+    return v.slice(1, -1).replace(/\\"/g, '"').replace(/\\'/g, "'");
+  }
+  if (v === 'true') return true;
+  if (v === 'false') return false;
+  if (v === 'null' || v === '~') return null;
+  if (/^-?\d+(\.\d+)?$/.test(v)) return Number(v);
+  return v;
+}
+
+/* ---- escapers ---- */
+const htmlEsc = (s) => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+const jsStr = (s) => "'" + String(s == null ? '' : s).replace(/\\/g, '\\\\').replace(/'/g, "\\'").replace(/\r?\n/g, '\\n') + "'";
+
+function injectConfig() {
+  const CFG_PATH = path.join(__dirname, 'config.yml');
+  const HTML_PATH = path.join(__dirname, 'index.html');
+  if (!fs.existsSync(CFG_PATH)) { console.log('No config.yml — skipping config injection.'); return; }
+  const cfg = parseYaml(fs.readFileSync(CFG_PATH, 'utf8'));
+  const sig = cfg.signature || {};
+  const g = cfg.giscus || {};
+
+  const giscusObj =
+    '{\n' +
+    '    enabled: ' + (g.enabled === false ? 'false' : 'true') + ',\n' +
+    '    repo: ' + jsStr(g.repo || '') + ',\n' +
+    '    repoId: ' + jsStr(g.repo_id || '') + ',\n' +
+    '    category: ' + jsStr(g.category || '') + ',\n' +
+    '    categoryId: ' + jsStr(g.category_id || '') + ',\n' +
+    '    theme: ' + jsStr(g.theme || 'transparent_dark') + ',\n' +
+    '  }';
+
+  // key -> replacement string for the region between markers
+  const repl = {
+    title: { type: 'html', val: htmlEsc(cfg.title) },
+    brand: { type: 'html', val: htmlEsc(cfg.brand) },
+    subtitle: { type: 'html', val: htmlEsc(cfg.subtitle) },
+    sig_text: { type: 'html', val: htmlEsc(sig.text) },
+    sig_url: { type: 'html', val: htmlEsc(sig.url) },
+    site_url: { type: 'js', val: jsStr(cfg.site_url || '') },
+    trigger: { type: 'js', val: jsStr(sig.trigger || '') },
+    giscus: { type: 'js', val: giscusObj },
+  };
+
+  let html = fs.readFileSync(HTML_PATH, 'utf8');
+  const missing = [];
+  for (const [key, { type, val }] of Object.entries(repl)) {
+    const re = type === 'html'
+      ? new RegExp('(<!--KG:' + key + '-->)[\\s\\S]*?(<!--/KG:' + key + '-->)')
+      : new RegExp('(/\\*KG:' + key + '\\*/)[\\s\\S]*?(/\\*/KG:' + key + '\\*/)');
+    if (!re.test(html)) { missing.push(key); continue; }
+    html = html.replace(re, (mm, open, close) => open + val + close);
+  }
+  fs.writeFileSync(HTML_PATH, html);
+  console.log(`Injected config.yml into index.html (${Object.keys(repl).length - missing.length}/${Object.keys(repl).length} markers).`);
+  if (missing.length) console.warn('⚠  Markers not found for: ' + missing.join(', '));
+}
+
 injectConfig();

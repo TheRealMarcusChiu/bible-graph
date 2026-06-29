@@ -2,20 +2,17 @@
 <html>
 <head>
 <meta charset="utf-8">
-<!-- KG-CONFIG-START — generated from config.yml by build.js; edit config.yml, not this block -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WKSFZQ4K6F"></script>
 <script>
-window.KG_CONFIG = {
-  "title": "/var/log",
-  "brand": "/var/log",
-  "subtitle": "knowledge garden",
-  "siteUrl": "https://git.marcuschiu.com/var-log/",
-  "signature": { "trigger": "marcus", "text": "\u2726 tended by Marcus Chiu \u2726", "url": "git.marcuschiu.com" },
-  "giscus": { "enabled": false, "repo": "therealmarcuschiu/var-log", "repoId": "R_kgDOSxZkzQ", "category": "General", "categoryId": "DIC_kwDOSxZkzc4C-tDZ", "theme": "transparent_dark" }
-};
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WKSFZQ4K6F');
 </script>
-<!-- KG-CONFIG-END -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>/var/log</title>
+<title><!--KG:title-->/var/log<!--/KG:title--></title>
 <link rel="icon" href="favicon.ico">
 <script src="./support.js"></script>
 </head>
@@ -114,8 +111,8 @@ window.KG_CONFIG = {
   <!-- ===== TOP BAR ===== -->
   <header ref="{{ setHeaderEl }}" style="position: absolute; top: 0; left: 0; right: 0; z-index: 60; box-sizing: border-box; min-height: 62px; display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; padding: 10px 10px 10px 17px; background: linear-gradient(180deg, rgba(15,12,9,0.96) 0%, rgba(15,12,9,0.86) 64%, rgba(15,12,9,0.66) 100%); backdrop-filter: blur(3px); border-bottom: 1px solid #2a2218;">
     <div onClick="{{ reloadPage }}" title="Reset to root" style="display: {{ brandDisplay }}; align-items: baseline; gap: 13px; cursor: pointer;">
-      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;">{{ brandName }}</span>
-      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};">{{ brandSub }}</span>
+      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;"><!--KG:brand-->/var/log<!--/KG:brand--></span>
+      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};"><!--KG:subtitle-->knowledge garden<!--/KG:subtitle--></span>
     </div>
 
     <div style="{{ searchWrapStyle }}">
@@ -213,8 +210,8 @@ window.KG_CONFIG = {
     <div style="position: fixed; inset: 0; z-index: 92; pointer-events: none; overflow: hidden;">
       <div style="position: absolute; left: 50%; top: 50%; width: 44px; height: 44px; border-radius: 50%; border: 2px solid #f4cf6a; box-shadow: 0 0 44px rgba(216,169,66,0.75); animation: eggRing 1.7s ease-out forwards;"></div>
       <div style="position: absolute; left: 50%; bottom: 64px; transform: translateX(-50%); animation: eggFade 4.2s ease both; text-align: center; background: rgba(20,16,11,0.92); border: 1px solid #d8a942; border-radius: 11px; padding: 16px 28px; box-shadow: 0 18px 50px -18px rgba(216,169,66,0.55);">
-        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;">{{ eggText }}</div>
-        <div style="margin-top: 6px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.3em; text-transform: uppercase; color: #b78f3a;">{{ eggUrl }}</div>
+        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;"><!--KG:sig_text-->✦ tended by Marcus Chiu ✦<!--/KG:sig_text--></div>
+        <div style="margin-top: 6px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.3em; text-transform: uppercase; color: #b78f3a;"><!--KG:sig_url-->git.marcuschiu.com<!--/KG:sig_url--></div>
       </div>
     </div>
   </sc-if>
@@ -222,10 +219,14 @@ window.KG_CONFIG = {
   <!-- legend -->
   <div ref="{{ setLegendEl }}" style="position: absolute; left: 22px; bottom: 20px; z-index: 15; pointer-events: none; display: flex; flex-direction: column; gap: 9px;">
     <div style="display: flex; align-items: center; gap: 18px; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: #8c8170;">
-      <span style="display: inline-flex; align-items: center; gap: 8px;"><span style="display: inline-block; width: 22px; height: 0; border-top: 2px solid #d8a942;"></span> child → parent</span>
-      <span style="display: inline-flex; align-items: center; gap: 8px;"><span style="display: inline-block; width: 22px; height: 0; border-top: 2px dashed #8fd0db;"></span> wikilink</span>
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.13em; text-transform: uppercase; color: #6c6354; pointer-events: auto; display: flex; align-items: baseline; gap: 5px; white-space: nowrap;">
+        <span>powered by</span>
+        <a href="https://github.com/TheRealMarcusChiu/stardust.git" target="_blank" rel="noopener" style="color: #b78f3a; text-decoration: none; border-bottom: 1px dotted #6e5a2e; transition: color .15s, border-color .15s;" style-hover="color: #f4cf6a; border-bottom-color: #f4cf6a;">stardust</a>
+      </div>
     </div>
-    <div style="font-size: 10px; letter-spacing: 0.1em; color: #5f574a; display: {{ hintDisplay }};">click a node to read it · scroll to zoom · drag to pan · arrows: ↑ parent  ↓ child  ← → siblings</div>
+    <div style="display: flex; align-items: baseline; gap: 14px;">
+      <div style="font-size: 10px; letter-spacing: 0.1em; color: #5f574a; display: {{ hintDisplay }};">click a node to read it · scroll to zoom · drag to pan · arrows: ↑ parent  ↓ child  ← → siblings</div>
+    </div>
   </div>
 
   <!-- ===== SIDEBAR ===== -->
@@ -567,11 +568,22 @@ class Component extends DCLogic {
   }
 
   GLOW_MS = 2000;
-  SITE = (window.KG_CONFIG && window.KG_CONFIG.siteUrl) || '';
+  SITE = /*KG:site_url*/'https://git.marcuschiu.com/var-log/'/*/KG:site_url*/;
 
-  // giscus comments — configured in config.yml (values come from https://giscus.app).
-  // Leave the giscus.repo field empty in config.yml to hide the discussion section.
-  GISCUS = (window.KG_CONFIG && window.KG_CONFIG.giscus) || {};
+  // Hidden signature easter egg: typing this word flashes a credit overlay.
+  // Empty string disables it. Injected from config.yml by build.js.
+  EGG_TRIGGER = /*KG:trigger*/'marcus'/*/KG:trigger*/;
+
+  // giscus comments — fill these from https://giscus.app for YOUR GitHub repo.
+  // Set enabled:false to hide the discussion section. Injected from config.yml.
+  GISCUS = /*KG:giscus*/{
+    enabled: false,
+    repo: 'therealmarcuschiu/var-log',
+    repoId: 'R_kgDOSxZkzQ',
+    category: 'General',
+    categoryId: 'DIC_kwDOSxZkzc4C-tDZ',
+    theme: 'transparent_dark',
+  }/*/KG:giscus*/;
 
   PAL = {
     root: '#f4cf6a', sys: '#d8a942', net: '#7fb0b8', lang: '#cf9a46', web: '#c98f5a',
@@ -624,8 +636,7 @@ class Component extends DCLogic {
   onEggKey = (e) => {
     const inInput = document.activeElement && /input|textarea/i.test(document.activeElement.tagName);
     const k = (e.key || '').toLowerCase();
-    const _sigTrig = ((window.KG_CONFIG && window.KG_CONFIG.signature && window.KG_CONFIG.signature.trigger) || '').toLowerCase();
-    if (!inInput && _sigTrig && /^[a-z]$/.test(k)) { this._kbuf = ((this._kbuf || '') + k).slice(-_sigTrig.length); if (this._kbuf === _sigTrig) { this._kbuf = ''; this.triggerEgg('sig'); } }
+    if (!inInput && /^[a-z]$/.test(k)) { const trig = (this.EGG_TRIGGER || '').toLowerCase(); if (trig) { this._kbuf = ((this._kbuf || '') + k).slice(-trig.length); if (this._kbuf === trig) { this._kbuf = ''; this.triggerEgg('marcus'); } } }
     const seq = ['arrowup', 'arrowup', 'arrowdown', 'arrowdown', 'arrowleft', 'arrowright', 'arrowleft', 'arrowright', 'b', 'a'];
     this._kidx = this._kidx || 0;
     if (k === seq[this._kidx]) { this._kidx++; if (this._kidx === seq.length) { this._kidx = 0; this.blackHole(); } }
@@ -1418,6 +1429,21 @@ class Component extends DCLogic {
       if (isFirst || this._suppressHistory) window.history.replaceState(null, '', full);
       else window.history.pushState(null, '', full);
     } catch (e) {}
+    // Google Analytics: track which node is anchored (distinct per node).
+    if (n && typeof window.gtag === 'function') {
+      try {
+        const pagePath = (window.location.pathname + (n.id !== this.rootId ? ('#node=' + encodeURIComponent(n.title)) : ''));
+        window.gtag('event', 'anchor_node', {
+          node_id: n.id,
+          node_title: n.title,
+          node_group: n.group || '',
+          node_depth: n.depth == null ? -1 : n.depth,
+          page_path: pagePath,
+          page_title: n.title,
+        });
+        window.gtag('config', 'G-WKSFZQ4K6F', { page_path: pagePath, page_title: n.title });
+      } catch (e) {}
+    }
   }
   anchorFromUrl() {
     const title = this.urlTitleParam();
@@ -2434,7 +2460,7 @@ class Component extends DCLogic {
     if (this.state.fullPage && this.selectedId) { this.locateInGraph(); return; }
     this.setState((s) => ({ fullPage: !s.fullPage }));
   };
-  giscusReady() { return !!(this.GISCUS && this.GISCUS.enabled && this.GISCUS.repo && this.GISCUS.repoId && this.GISCUS.categoryId); }
+  giscusReady() { return !!(this.GISCUS && this.GISCUS.enabled !== false && this.GISCUS.repo && this.GISCUS.repoId && this.GISCUS.categoryId); }
   syncGiscus() {
     if (!this.giscusReady()) return;
     this._syncGiscusHost('kg-giscus', this.state.selectedId, '_giscusTerm');
@@ -3098,11 +3124,7 @@ class Component extends DCLogic {
       setTipEl: this.setTipEl,
       showBoot: !this.state.ready,
       eggKonami: this.state.egg === 'konami',
-      eggMarcus: this.state.egg === 'sig',
-      eggText: (window.KG_CONFIG && window.KG_CONFIG.signature && window.KG_CONFIG.signature.text) || '',
-      eggUrl: (window.KG_CONFIG && window.KG_CONFIG.signature && window.KG_CONFIG.signature.url) || '',
-      brandName: (window.KG_CONFIG && window.KG_CONFIG.brand) || '',
-      brandSub: (window.KG_CONFIG && window.KG_CONFIG.subtitle) || '',
+      eggMarcus: this.state.egg === 'marcus',
       bootText: this.state.bootMsg || 'loading \u2026',
       bootOpacity: this.state.ready ? 0 : 1,
       bootPE: this.state.ready ? 'none' : 'auto',
