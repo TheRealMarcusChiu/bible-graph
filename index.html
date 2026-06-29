@@ -436,12 +436,6 @@
               <div style="margin-top: 11px; font-size: 10.5px; letter-spacing: 0.03em; color: #6c6354;">{{ rDateLine }}</div>
               <hr style="border: none; border-top: 1px solid #221c14; margin: 20px 0;">
               {{ rMdNode }}
-              <sc-if value="{{ rShowGiscus }}" hint-placeholder-val="{{ false }}">
-                <div style="margin-top: 30px; padding-top: 22px; border-top: 1px solid #221c14;">
-                  <div style="font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a; margin-bottom: 14px;">Discussion</div>
-                  <div id="kg-giscus-r"></div>
-                </div>
-              </sc-if>
               <div style="margin-top: 28px; padding-top: 16px;"></div>
             </div>
           </sc-if>
@@ -929,7 +923,6 @@ class Component extends DCLogic {
   async componentDidMount() {
     this._mounted = true;
     this._tabScroll = {};
-    if (this.giscusReady && this.giscusReady()) this._setupGiscusResize();
     this.navHist = []; this.navIdx = -1; this.navHistByKey = {};
     try { const v = parseFloat(sessionStorage.getItem('kg-split-ratio')); if (v >= 0.2 && v <= 0.8) this.setState({ splitRatio: v }); } catch (e) {}
     window.__kgBody = (id, md) => this.__receiveBody(id, md);
@@ -2549,93 +2542,38 @@ class Component extends DCLogic {
   giscusReady() { return !!(this.GISCUS && this.GISCUS.enabled !== false && this.GISCUS.repo && this.GISCUS.repoId && this.GISCUS.categoryId); }
   syncGiscus() {
     if (!this.giscusReady()) return;
-    this._syncGiscusHost('kg-giscus', this.state.selectedId, '_giscusTerm');
-    this._syncGiscusHost('kg-giscus-r', this.state.selectedIdR, '_giscusTermR');
-  }
-  _syncGiscusHost(hostId, sel, cacheKey) {
-    const host = document.getElementById(hostId);
+    // Only the left pane hosts comments; the official client.js loader handles resize, session and
+    // theme on its own, so a single instance keeps this simple.
+    const host = document.getElementById('kg-giscus');
+    const sel = this.state.selectedId;
     if (!host || !sel || !this.nodeById[sel]) return;
     const term = this.nodeById[sel].title;
+    if (this._giscusTerm === term) return;
+    this._giscusTerm = term;
     const frame = host.querySelector('iframe.giscus-frame');
-    // Cache hit AND the frame is still mounted in this host: just update the term in place.
-    if (this[cacheKey] === term && frame) {
-      if (frame.contentWindow) frame.contentWindow.postMessage({ giscus: { setConfig: { term: term } } }, 'https://giscus.app');
-      return;
-    }
-    // Term changed but the frame still exists → reconfigure it in place (no reload).
     if (frame && frame.contentWindow) {
-      this[cacheKey] = term;
       frame.contentWindow.postMessage({ giscus: { setConfig: { term: term } } }, 'https://giscus.app');
       return;
     }
-    // No frame here yet (first mount, or the host div was recreated when the layout changed): build one.
-    this[cacheKey] = term;
     host.innerHTML = '';
-    // Build the giscus widget iframe directly for EVERY pane. We deliberately avoid the official
-    // client.js loader: its resize handler does `document.querySelector('iframe.giscus-frame')` and
-    // only ever sizes the FIRST giscus frame on the page, so with a split view the two frames fight
-    // over heights and one ends up clipped. Our own listener (below) sizes each frame by message
-    // source, so both panes grow to fit their content.
-    this._setupGiscusResize();
     const G = this.GISCUS;
-    const p = new URLSearchParams({
-      origin: location.href,
-      session: this._giscusSession(),
-      theme: G.theme || 'transparent_dark',
-      reactionsEnabled: '1', emitMetadata: '0', inputPosition: 'top',
-      repo: G.repo, repoId: G.repoId, category: G.category || '', categoryId: G.categoryId,
-      strict: '1', description: '', backLink: location.href, term: term,
-    });
-    const ifr = document.createElement('iframe');
-    ifr.className = 'giscus-frame';
-    ifr.title = 'Comments';
-    ifr.setAttribute('scrolling', 'no');
-    ifr.src = 'https://giscus.app/' + (G.lang || 'en') + '/widget?' + p.toString();
-    ifr.style.cssText = 'width:100%;min-height:150px;border:none;color-scheme:light dark;';
-    host.appendChild(ifr);
-  }
-  // Replicates client.js's session handling: capture the one-time `?giscus=<token>` GitHub returns
-  // after OAuth, stash it in localStorage, then feed it to the widget so the user stays signed in.
-  _giscusSession() {
-    let session = '';
-    try {
-      const url = new URL(location.href);
-      const fromUrl = url.searchParams.get('giscus');
-      if (fromUrl) {
-        localStorage.setItem('giscus-session', JSON.stringify(fromUrl));
-        url.searchParams.delete('giscus');
-        history.replaceState(undefined, document.title, url.toString());
-        session = fromUrl;
-      } else {
-        const saved = localStorage.getItem('giscus-session');
-        if (saved) { try { session = JSON.parse(saved); } catch (e) { localStorage.removeItem('giscus-session'); } }
-      }
-    } catch (e) {}
-    return session || '';
-  }
-  // Global giscus message listener: giscus posts {giscus:{resize:{height}}} from its iframe; size
-  // whichever frame actually sent it (matched by message source), so multiple panes each fit.
-  _setupGiscusResize() {
-    if (this._giscusResizeBound) return;
-    this._giscusResizeBound = true;
-    window.addEventListener('message', (e) => {
-      if (e.origin !== 'https://giscus.app') return;
-      const d = e.data;
-      if (!d || !d.giscus) return;
-      // Persist the signed-in session token giscus emits so it survives reloads.
-      if (typeof d.giscus.signOut !== 'undefined') { try { localStorage.removeItem('giscus-session'); } catch (er) {} }
-      if (!d.giscus.resize || typeof d.giscus.resize.height !== 'number') return;
-      const h = d.giscus.resize.height + 'px';
-      const frames = Array.prototype.slice.call(document.querySelectorAll('iframe.giscus-frame'));
-      if (!frames.length) return;
-      // Prefer the frame that actually sent the message (needed when two panes are open)...
-      let target = null;
-      for (let i = 0; i < frames.length; i++) { if (frames[i].contentWindow === e.source) { target = frames[i]; break; } }
-      // ...but cross-origin WindowProxy identity isn't always reliable; with a single frame on the
-      // page there's no ambiguity, so size it regardless (this is what giscus's own client.js does).
-      if (!target && frames.length === 1) target = frames[0];
-      if (target) target.style.height = h;
-    });
+    const s = document.createElement('script');
+    s.src = 'https://giscus.app/client.js';
+    s.async = true; s.crossOrigin = 'anonymous';
+    s.setAttribute('data-repo', G.repo);
+    s.setAttribute('data-repo-id', G.repoId);
+    s.setAttribute('data-category', G.category || '');
+    s.setAttribute('data-category-id', G.categoryId);
+    s.setAttribute('data-mapping', 'specific');
+    s.setAttribute('data-term', term);
+    s.setAttribute('data-strict', '1');
+    s.setAttribute('data-reactions-enabled', '1');
+    s.setAttribute('data-emit-metadata', '0');
+    s.setAttribute('data-input-position', 'top');
+    s.setAttribute('data-theme', G.theme || 'transparent_dark');
+    s.setAttribute('data-lang', G.lang || 'en');
+    s.setAttribute('data-loading', 'lazy');
+    host.appendChild(s);
   }
   sidebarScrollEl() { return document.getElementById('kg-sidebar-scroll'); }
   onSidebarScroll = () => {
@@ -3451,7 +3389,6 @@ class Component extends DCLogic {
       popBackR: () => { clearTimeout(this._popTR); this.setState({ metaPopR: 'backlinks' }); },
       popKeepR: () => { clearTimeout(this._popTR); },
       popLeaveR: () => { if (this.state.linkMenu) return; clearTimeout(this._popTR); this._popTR = setTimeout(() => this.setState({ metaPopR: null }), 200); },
-      rShowGiscus: !!(rNodeEarly && this.giscusReady()),
       addTabLeft: () => this.addRootTab('left'),
       addTabRight: () => this.addRootTab('right'),
       menuKeep: this.menuKeep,
