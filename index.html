@@ -929,6 +929,7 @@ class Component extends DCLogic {
   async componentDidMount() {
     this._mounted = true;
     this._tabScroll = {};
+    if (this.giscusReady && this.giscusReady()) this._setupGiscusResize();
     this.navHist = []; this.navIdx = -1; this.navHistByKey = {};
     try { const v = parseFloat(sessionStorage.getItem('kg-split-ratio')); if (v >= 0.2 && v <= 0.8) this.setState({ splitRatio: v }); } catch (e) {}
     window.__kgBody = (id, md) => this.__receiveBody(id, md);
