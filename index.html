@@ -586,6 +586,14 @@ class Component extends DCLogic {
     tools: 'tooling & editors', crypto: 'cryptography',
   };
   setGraphEl = (el) => { if (el) this.graphEl = el; };
+  // The force-graph <canvas> sets its OWN cursor on hover and freezes it once the layout cools
+  // (its render loop stops), so updating only the wrapper div leaves a stale 'pointer' over empty
+  // space. Set the cursor on both the div AND the canvas so our live mousemove stays authoritative.
+  setGraphCursor(c) {
+    const el = this.graphEl; if (!el) return;
+    el.style.cursor = c;
+    const cv = el.querySelector('canvas'); if (cv) cv.style.cursor = c;
+  }
   // Legend offset is set imperatively (not via a template style hole, which the DC runtime
   // wouldn't apply reliably here). React doesn't manage `transform` on this node, so it sticks.
   setLegendEl = (el) => { if (el) { this.legendEl = el; this.updateLegendPos(); } };
@@ -816,7 +824,7 @@ class Component extends DCLogic {
       this._edgeOther = null;
       const newHover = best.id;
       if (newHover !== this.hoverId) { this.hoverId = newHover; this.setState({ hoverId: newHover }); }
-      if (this.graphEl) this.graphEl.style.cursor = 'pointer';
+      this.setGraphCursor('pointer');
       if (best.id !== this.selectedId) this.showTip(this.nodeHintHtml(best), e.offsetX, e.offsetY); else this.showTip(this.nodeHintHtml(best, !!this.selectedId), e.offsetX, e.offsetY);
       return;
     }
@@ -826,10 +834,10 @@ class Component extends DCLogic {
     const newHover = edgeOther ? edgeOther.id : null;
     if (newHover !== this.hoverId) { this.hoverId = newHover; this.setState({ hoverId: newHover }); }
     if (edgeOther) {
-      if (this.graphEl) this.graphEl.style.cursor = 'pointer';
+      this.setGraphCursor('pointer');
       this.showTip('<div style="display:flex;align-items:center;gap:7px;line-height:1.6;"><span style="color:#b78f3a;">\u2022</span><span>click to center connected node</span></div>', e.offsetX, e.offsetY);
     } else {
-      if (this.graphEl) this.graphEl.style.cursor = 'grab';
+      this.setGraphCursor('grab');
       this.hideTip();
     }
   };
@@ -855,8 +863,8 @@ class Component extends DCLogic {
     const best = this.nearestNode(pt);
     if (!best) {
       // Empty space: panning the background — show the closed-hand cursor until release.
-      if (this.graphEl) this.graphEl.style.cursor = 'grabbing';
-      const up = () => { if (this.graphEl) this.graphEl.style.cursor = 'grab'; window.removeEventListener('mouseup', up, true); };
+      this.setGraphCursor('grabbing');
+      const up = () => { this.setGraphCursor('grab'); window.removeEventListener('mouseup', up, true); };
       window.addEventListener('mouseup', up, true);
       return;
     }
@@ -2733,7 +2741,7 @@ class Component extends DCLogic {
     document.body.style.cursor = 'grabbing';
     this._dragging = true;
     if (this.state.dragging !== true) this.setState({ dragging: true });
-    if (this.graphEl) this.graphEl.style.cursor = 'grabbing';
+    if (this.graphEl) this.setGraphCursor('grabbing');
     if (this.hoverId != null) { this.hoverId = null; this.setState({ hoverId: null }); }
     this.hideTip();
     let popped = (startDock === 'undock' && !wasFull);   // from full page: always tear off (exit full) on first move
@@ -2772,7 +2780,7 @@ class Component extends DCLogic {
       document.body.style.cursor = '';
       if (toolbarEl) toolbarEl.style.pointerEvents = '';
       if (this.state.dragging) this.setState({ dragging: false });
-      if (this.graphEl) this.graphEl.style.cursor = '';
+      if (this.graphEl) this.setGraphCursor('');
       const preview = this.state.dockPreview;
       this.setState({ dockPreview: null });
       if (preview === 'full') this.setState({ fullPage: true });
