@@ -107,12 +107,12 @@
 
   <div ref="{{ setGraphEl }}" style="position: absolute; inset: 0; z-index: 1; cursor: grab;"></div>
 
-  <canvas ref="{{ setMinimapEl }}" width="170" height="120" onMouseDown="{{ onMinimapDown }}" title="Minimap — click or drag to navigate" style="position: absolute; right: 16px; bottom: 16px; z-index: 16; width: 170px; height: 120px; border-radius: 8px; border: 1px solid #2a2218; box-shadow: 0 10px 30px -12px rgba(0,0,0,0.7); cursor: pointer; display: none;"></canvas>
+  <canvas ref="{{ setMinimapEl }}" width="170" height="120" onMouseDown="{{ onMinimapDown }}" onContextMenu="{{ onMinimapMenu }}" title="Minimap — click or drag to navigate" style="position: absolute; right: 16px; bottom: 16px; z-index: 16; width: 170px; height: 120px; border-radius: 8px; border: 1px solid #2a2218; box-shadow: 0 10px 30px -12px rgba(0,0,0,0.7); cursor: pointer; display: none;"></canvas>
 
   <div style="position: absolute; inset: 0; z-index: 2; pointer-events: none; box-shadow: inset 0 0 240px 40px rgba(0,0,0,0.72);"></div>
 
   <!-- hover tooltip -->
-  <div ref="{{ setTipEl }}" style="position: absolute; z-index: 12; pointer-events: none; opacity: 0; transition: opacity .12s ease; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.06em; color: #f0c560; background: #16120c; border: 1px solid #2a2218; padding: 5px 9px; border-radius: 5px; white-space: nowrap; box-shadow: 0 8px 22px -10px rgba(0,0,0,0.85);"></div>
+  <div ref="{{ setTipEl }}" style="position: absolute; z-index: 65; pointer-events: none; opacity: 0; transition: opacity .12s ease; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.06em; color: #f0c560; background: #16120c; border: 1px solid #2a2218; padding: 5px 9px; border-radius: 5px; white-space: nowrap; box-shadow: 0 8px 22px -10px rgba(0,0,0,0.85);"></div>
 
   <sc-if value="{{ linkPeekShow }}" hint-placeholder-val="{{ false }}">
     <div style="{{ linkPeekStyle }}">
@@ -199,8 +199,8 @@
           <div id="kg-controls-menu" style="{{ controlsMenuStyle }}">
             <button type="button" onClick="{{ menuFit }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⤢ Fit view</span></button>
             <button type="button" onClick="{{ menuReset }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>↺ Reset</span></button>
-            <button type="button" onClick="{{ menuToggleMinimap }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ minimapToggleLabel }}</span></button>
             <button type="button" onClick="{{ menuToggleLegend }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ legendToggleLabel }}</span></button>
+            <button type="button" onClick="{{ menuToggleMinimap }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ minimapToggleLabel }}</span></button>
             <button type="button" onClick="{{ menuExportPng }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⤓ Export graph as PNG</span></button>
             <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
             <button type="button" onClick="{{ toggleTree }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: inline-flex; align-items: center; gap: 6px;">— Tree edges<span onClick="{{ infoStop }}" onMouseEnter="{{ infoTreeOn }}" onMouseLeave="{{ infoOff }}" style="cursor: help; color: #6c6354; display: inline-flex; align-items: center; position: relative;" style-hover="color: #d8a942;"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="6.5"></circle><line x1="8" y1="7" x2="8" y2="11.4"></line><circle cx="8" cy="4.6" r="0.75" fill="currentColor" stroke="none"></circle></svg><sc-if value="{{ infoTreeShow }}" hint-placeholder-val="{{ false }}"><span style="{{ infoTipStyle }}">Solid lines that trace each note's parent–child place in the hierarchy — every note links down to those nested beneath it. The backbone tree of the garden.</span></sc-if></span></span><span style="{{ treeChkStyle }}">{{ treeChk }}</span></button>
@@ -247,9 +247,9 @@
 
   <!-- legend (top-left) -->
   <sc-if value="{{ legendShow }}" hint-placeholder-val="{{ false }}">
-    <div style="position: absolute; left: 22px; top: {{ legendTop }}; z-index: 15; pointer-events: auto; display: flex; flex-direction: column; gap: 3px;">
+    <div onContextMenu="{{ onLegendMenu }}" style="position: absolute; left: {{ legendLeft }}; top: {{ legendTop }}; z-index: 15; pointer-events: auto; display: flex; flex-direction: column; gap: 3px;">
       <sc-for list="{{ legendGroups }}" as="g" hint-placeholder-count="3">
-        <button type="button" onClick="{{ g.onClick }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="color: #ece1cf;"><span style="{{ g.dot }}"></span><span style="{{ g.labelStyle }}">{{ g.label }}</span></button>
+        <button type="button" onClick="{{ g.onClick }}" onMouseDown="{{ g.onDown }}" onMouseEnter="{{ g.onHover }}" onMouseLeave="{{ g.onLeave }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="background: rgba(216,169,66,0.16); color: #ece1cf; box-shadow: inset 0 0 0 1px rgba(216,169,66,0.35);"><span style="{{ g.dot }}"></span><span data-tablabel="1" style="{{ g.labelStyle }}">{{ g.titleText }}</span><span style="{{ g.countStyle }}">· {{ g.count }}</span></button>
       </sc-for>
     </div>
   </sc-if>
@@ -549,6 +549,22 @@
       <div style="min-width: 188px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
         <button type="button" onClick="{{ barUnsplit }}" disabled="{{ barUnsplitDisabled }}" style="{{ barUnsplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊟ unsplit panels</button>
         <button type="button" onClick="{{ barCloseDupes }}" disabled="{{ barCloseDupesDisabled }}" style="{{ barCloseDupesStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⧉ close all duplicate tabs</button>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ miniMenuShow }}" hint-placeholder-val="{{ false }}">
+    <div data-minimenu="1" style="{{ miniMenuStyle }}">
+      <div style="min-width: 170px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
+        <button type="button" onClick="{{ miniHide }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊟ Hide minimap</button>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ legendMenuShow }}" hint-placeholder-val="{{ false }}">
+    <div data-legendmenu="1" style="{{ legendMenuStyle }}">
+      <div style="min-width: 170px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
+        <button type="button" onClick="{{ legendHideMenu }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">▤ Hide legend</button>
       </div>
     </div>
   </sc-if>
@@ -1181,6 +1197,8 @@ class Component extends DCLogic {
     this.measureHeader();
     await this.buildGraph();
     try { if (localStorage.getItem('kg-theme') === 'light') { this.applyTheme('light'); this.setState({ theme: 'light' }); } } catch (e) {}
+    try { const p = {}; const mh = sessionStorage.getItem('kg-minimap'); if (mh === 'hidden') p.minimapForce = false; else if (mh === 'shown') p.minimapForce = true; const lh = sessionStorage.getItem('kg-legend'); if (lh != null) p.legendHidden = (lh === '1'); const te = sessionStorage.getItem('kg-tree-edges'); if (te != null) p.showTree = (te !== '0'); const we = sessionStorage.getItem('kg-wiki-edges'); if (we != null) p.showWiki = (we !== '0'); if (Object.keys(p).length) this.setState(p); } catch (e) {}
+    this._prefsReady = true;
     this._suppressUrl = true;
     this.selectNode(this.rootId);
     this._suppressUrl = false;
@@ -1767,6 +1785,7 @@ class Component extends DCLogic {
   }
   onMinimapDown = (e) => {
     if (!this._miniXf || !this.graph) return;
+    if (e.button !== 0) return;   // right/middle click → no navigation (right-click opens the menu)
     e.preventDefault();
     const cv = this.miniEl;
     const toGraph = (ev) => { const r = cv.getBoundingClientRect(); const mx = (ev.clientX - r.left) * (cv.width / r.width), my = (ev.clientY - r.top) * (cv.height / r.height); const x = this._miniXf, gx = (mx - x.ox) / x.sc, gy = (my - x.oy) / x.sc; try { this.graph.centerAt(gx, gy, 120); } catch (_) {} };
@@ -2170,12 +2189,13 @@ class Component extends DCLogic {
   // A pointer that doesn't move past a small threshold is treated as a click (activate).
   // Marquee a hovered tab's title if it's truncated (scrolls to reveal the full name, ping-pongs).
   // Driven by rAF (not CSS transition) so the graph's render loop can't freeze it.
-  startTabMarquee = (tabEl) => {
+  startTabMarquee = (tabEl, pad) => {
     if (!tabEl) return;
     if (tabEl._marqueeRAF) return;     // already marqueeing — don't restart (would reset to start)
     const lab = tabEl.querySelector('[data-tablabel]');
     if (!lab) return;
-    lab.style.paddingRight = '22px';   // reserve room so the scrolled tail clears the close button overlay
+    const pr = (pad == null ? 22 : pad);
+    lab.style.paddingRight = pr + 'px';   // reserve room so the scrolled tail clears the close button overlay
     const max = lab.scrollWidth - lab.clientWidth;
     if (max <= 1) { lab.style.paddingRight = ''; return; }
     lab.style.textOverflow = 'clip';   // ellipsis would stay pinned at the edge and hide the end
@@ -3196,8 +3216,22 @@ class Component extends DCLogic {
       } catch (e) {}
     });
   }
+  _persistPrefs() {
+    if (!this._prefsReady) return;
+    const sig = [this.state.minimapForce, this.state.legendHidden, this.state.showTree, this.state.showWiki, this.state.nodeColorMode].join('|');
+    if (sig === this._prefSig) return; this._prefSig = sig;
+    try {
+      const mf = this.state.minimapForce;
+      sessionStorage.setItem('kg-minimap', mf === false ? 'hidden' : (mf === true ? 'shown' : ''));
+      sessionStorage.setItem('kg-legend', this.state.legendHidden ? '1' : '0');
+      sessionStorage.setItem('kg-tree-edges', this.state.showTree === false ? '0' : '1');
+      sessionStorage.setItem('kg-wiki-edges', this.state.showWiki === false ? '0' : '1');
+      if (this.state.nodeColorMode) sessionStorage.setItem('kg-node-color', this.state.nodeColorMode);
+    } catch (e) {}
+  }
   componentDidUpdate(prevProps, prevState) {
     window.__KG = this;
+    this._persistPrefs();
     this.updateLegendPos();
     this.measureTabCollapse();
     this.typesetMath();
@@ -3285,6 +3319,8 @@ class Component extends DCLogic {
     if (this.state.tabMenu && !(el && el.closest && el.closest('[data-tabmenu]'))) this.setState({ tabMenu: null });
     if (this.state.barMenu && !(el && el.closest && el.closest('[data-barmenu]'))) this.setState({ barMenu: null });
     if (this.state.bgMenu && !(el && el.closest && el.closest('[data-bgmenu]'))) this.setState({ bgMenu: null });
+    if (this.state.miniMenu && !(el && el.closest && el.closest('[data-minimenu]'))) this.setState({ miniMenu: null });
+    if (this.state.legendMenu && !(el && el.closest && el.closest('[data-legendmenu]'))) this.setState({ legendMenu: null });
     if (this.state.linkMenu && !(el && el.closest && el.closest('[data-linkmenu]'))) this.setState({ linkMenu: null });
     // Click anywhere outside the open node context menu closes it (right-click that opens a
     // new menu re-sets menuNodeId immediately afterwards, so this doesn't fight it).
@@ -3312,7 +3348,8 @@ class Component extends DCLogic {
   // Toggle the minimap on/off (overrides the auto-show-for-large-vaults default).
   toggleMinimap = () => { this.setState({ bgMenu: null, minimapForce: this._miniVisible ? false : true }); };
   // Legend group solo/filter: toggling a domain dims everything not in the focused set.
-  toggleGroup = (key) => { const fg = this._focusGroups || (this._focusGroups = new Set()); if (fg.has(key)) fg.delete(key); else fg.add(key); this.setState((s) => ({ tick: (s.tick || 0) + 1 })); };
+  toggleGroup = (key) => { const fg = this._focusGroups || (this._focusGroups = new Set()); if (fg.has(key)) fg.delete(key); else fg.add(key); this.setState((s) => ({ tick: (s.tick || 0) + 1 })); this._kickGraph(); };
+  _addLegendFocus = (id) => { const fg = this._focusGroups || (this._focusGroups = new Set()); const has = fg.has(id); if (this._legAdd && !has) fg.add(id); else if (!this._legAdd && has) fg.delete(id); else return; this.setState((s) => ({ tick: (s.tick || 0) + 1 })); this._kickGraph(); };
   // Export the current graph canvas as a PNG (with the theme background painted behind it).
   exportGraphPNG = () => {
     const cv = this.graphEl && this.graphEl.querySelector('canvas'); if (!cv) return;
@@ -3538,7 +3575,7 @@ class Component extends DCLogic {
     if (this.state.fullPage) this.setState({ fullPage: false }, center);
     else center();
   };
-  onSearchInput = (e) => this.setState({ query: e.target.value, searchIdx: 0 });
+  onSearchInput = (e) => { this.setState({ query: e.target.value, searchIdx: 0 }); this._kickGraph(); };
   // The node that scopes search (acting root, when it isn't the whole-garden root). Drives the
   // custom "Search under “title”" placeholder overlay.
   _searchScopedRoot() { return (this.actingRoot != null && this.actingRoot !== this.rootId && this.nodeById && this.nodeById[this.actingRoot]) ? this.nodeById[this.actingRoot] : null; }
@@ -3809,7 +3846,7 @@ class Component extends DCLogic {
       if (sp) {
         const rr = this.nodeRadius(mNode) * (this.graph.zoom() || 1);
         menuShow = true;
-        menuStyle = { position: 'absolute', left: (sp.x + rr + 4) + 'px', top: (sp.y - rr - 12) + 'px', zIndex: 28 };
+        menuStyle = { position: 'absolute', left: (sp.x + rr + 4) + 'px', top: (sp.y - rr - 12) + 'px', zIndex: 65 };
         const hasCh = mNode.children && mNode.children.length;
         menuExpandDisabled = !hasCh;
         menuExpandLabel = !hasCh ? 'no children' : (!this.collapsed.has(mNode.id) ? '\u2296 collapse children' : ('\u2295 expand ' + mNode.children.length + ' children'));
@@ -4015,6 +4052,14 @@ class Component extends DCLogic {
       setGraphEl: this.setGraphEl,
       setMinimapEl: this.setMinimapEl,
       onMinimapDown: this.onMinimapDown,
+      onMinimapMenu: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); this.setState({ miniMenu: { x: e.clientX, y: e.clientY } }); },
+      miniMenuShow: !!this.state.miniMenu,
+      miniMenuStyle: this.state.miniMenu ? { position: 'fixed', top: Math.min(this.state.miniMenu.y, winH - 60) + 'px', left: Math.min(this.state.miniMenu.x, winW - 190) + 'px', zIndex: 70 } : { display: 'none' },
+      miniHide: () => { this.setState({ miniMenu: null, minimapForce: false }); },
+      onLegendMenu: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); this.setState({ legendMenu: { x: e.clientX, y: e.clientY } }); },
+      legendMenuShow: !!this.state.legendMenu,
+      legendMenuStyle: this.state.legendMenu ? { position: 'fixed', top: Math.min(this.state.legendMenu.y, winH - 60) + 'px', left: Math.min(this.state.legendMenu.x, winW - 190) + 'px', zIndex: 70 } : { display: 'none' },
+      legendHideMenu: () => { this.setState({ legendMenu: null, legendHidden: true, nodeColorMode: (this._prevColorMode || 'recent') }); this._kickGraph(); },
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
       setTipEl: this.setTipEl,
@@ -4099,6 +4144,7 @@ class Component extends DCLogic {
       hintDisplay: compact ? 'none' : 'block',
       setLegendEl: this.setLegendEl,
       legendTop: ((this.state.headerH || 64) + 14) + 'px',
+      legendLeft: (this.state.dock === 'left' && this.selectedId != null && !this.state.fullPage) ? ((this.state.sidebarW || 452) + 10) + 'px' : '12px',
       menuToggleLegend: () => { const willShow = !!this.state.legendHidden; if (willShow) this._prevColorMode = this.state.nodeColorMode || 'recent'; const mode = willShow ? 'category' : (this._prevColorMode || 'recent'); this.setState({ legendHidden: !this.state.legendHidden, menuOpen: false, nodeColorMode: mode }); this._kickGraph(); },
       legendToggleLabel: this.state.legendHidden ? '▤ Show legend' : '▤ Hide legend',
       legendShow: (function(self){ const ar = self.nodeById ? self.nodeById[self.actingRoot] : null; return !!(ar && (ar.children || []).length > 1) && !self.state.fullPage && !self.state.legendHidden; })(this),
@@ -4107,12 +4153,17 @@ class Component extends DCLogic {
         const kids = ar ? (ar.children || []).slice() : [];
         kids.sort((a, b) => self.subtreeCount(b) - self.subtreeCount(a));
         return kids.map((c) => { const on = !!(fg && fg.has(c.id)); const dim = !!(fg && fg.size && !on); const col = c.col || self.PAL[c.group] || '#d8a942'; return {
-          label: (c.name || c.title) + ' \u00b7 ' + (self.subtreeCount(c) + 1),
+          titleText: (c.name || c.title),
+          count: (self.subtreeCount(c) + 1),
           title: on ? 'Showing this branch \u2014 click to clear' : 'Solo this branch',
-          onClick: () => self.toggleGroup(c.id),
-          style: { display: 'flex', alignItems: 'center', gap: '7px', maxWidth: '230px', background: 'transparent', border: 'none', padding: '1px 0', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.04em', textAlign: 'left', color: dim ? '#5f574a' : (on ? '#ece1cf' : '#8c8170') },
+          onClick: () => { if (self._legMoved) { self._legMoved = false; return; } self.toggleGroup(c.id); },
+          onDown: (e) => { if (e && e.preventDefault) e.preventDefault(); self._legDrag = true; self._legMoved = false; self._legStart = c.id; self._legAdd = !(self._focusGroups && self._focusGroups.has(c.id)); const up = () => { self._legDrag = false; window.removeEventListener('mouseup', up); }; window.addEventListener('mouseup', up); },
+          onHover: (e) => { self.startTabMarquee(e && e.currentTarget, 0); if (self._legDrag) { self._legMoved = true; self._addLegendFocus(self._legStart); self._addLegendFocus(c.id); } },
+          onLeave: (e) => self.stopTabMarquee(e && e.currentTarget),
+          style: { display: 'flex', alignItems: 'center', gap: '7px', maxWidth: '220px', overflow: 'hidden', background: 'transparent', border: 'none', padding: '2px 6px', borderRadius: '5px', cursor: 'pointer', userSelect: 'none', WebkitUserSelect: 'none', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.04em', textAlign: 'left', color: dim ? '#5f574a' : (on ? '#ece1cf' : '#8c8170') },
           dot: { width: '8px', height: '8px', borderRadius: '50%', flex: '0 0 auto', background: col, opacity: dim ? 0.4 : 1, boxShadow: on ? ('0 0 5px ' + col) : 'none' },
-          labelStyle: { overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' },
+          labelStyle: { flex: '1 1 0', minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', display: 'block' },
+          countStyle: { flex: '0 0 auto', marginLeft: '1px', color: dim ? '#5f574a' : '#6c6354' },
         }; });
       })(this),      slashDisplay: (compact || this.state.searchFocus) ? 'none' : 'inline-block',
       searchCloseDisplay: (this.state.searchFocus || (compact && this.state.searchExpanded)) ? 'flex' : 'none',
