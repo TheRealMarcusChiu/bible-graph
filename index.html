@@ -195,12 +195,15 @@
     </div>
   </header>
 
-  <div style="position: absolute; top: {{ floatTop }}; right: {{ floatRight }}; z-index: 61; display: {{ floatDisplay }}; align-items: center; gap: 10px;">
+  <div style="position: absolute; top: {{ floatTop }}; right: {{ floatRight }}; z-index: 40; display: {{ floatDisplay }}; align-items: center; gap: 10px;">
     <span style="font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: #8c8170; white-space: nowrap;">{{ statusShown }}<span onClick="{{ showAll }}" title="Show all notes" style="cursor: pointer; color: #b78f3a; border-bottom: 1px dotted #6e5a2e; transition: color .15s;" style-hover="color: #f4cf6a; border-bottom-color: #f4cf6a;">{{ showAllLabel }}</span></span>
       <div data-controlsmenu="1" style="position: relative; flex-shrink: 0;">
         <button type="button" onClick="{{ toggleMenu }}" title="Controls" style="{{ gearBtnStyle }}" style-hover="color: #f4cf6a; transform: scale(1.18);"><span style="font-size: 17px; line-height: 1; display: block; transform: translateY(-1px);">⚙</span></button>
-        <sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
-          <div id="kg-controls-menu" style="{{ controlsMenuStyle }}">
+      </div>
+  </div>
+
+  <sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
+          <div data-controlsmenu="1" id="kg-controls-menu" style="{{ controlsMenuStyle }}">
             <button type="button" onClick="{{ menuFit }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⤢ Fit view</span></button>
             <button type="button" onClick="{{ menuReset }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>↺ Reset</span></button>
             <button type="button" onClick="{{ menuToggleLegend }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ legendToggleLabel }}</span></button>
@@ -214,7 +217,7 @@
             <button type="button" onClick="{{ toggleTheme }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ themeLabel }}</span></button>
             <div style="padding: 6px 8px 3px;">
               <div style="display: flex; justify-content: space-between; font-size: 10.5px; color: #8c8170; margin-bottom: 6px;"><span>Node size</span><span style="color: #6c6354;">{{ nodeSizeLabel }}</span></div>
-              <input type="range" min="0.4" max="2.2" step="0.1" value="{{ nodeSizeMul }}" onInput="{{ setNodeSize }}" style="width: 100%; accent-color: #d8a942; cursor: pointer; height: 4px;">
+              <input type="range" min="0.4" max="3" step="0.1" value="{{ nodeSizeMul }}" onInput="{{ setNodeSize }}" style="width: 100%; accent-color: #d8a942; cursor: pointer; height: 4px;">
             </div>
             <div style="padding: 6px 8px 3px;">
               <div style="display: flex; justify-content: space-between; font-size: 10.5px; color: #8c8170; margin-bottom: 6px;"><span>Edge thickness</span><span style="color: #6c6354;">{{ edgeWidthLabel }}</span></div>
@@ -236,8 +239,6 @@
             </div>
           </div>
         </sc-if>
-      </div>
-  </div>
 
   <sc-if value="{{ eggMarcus }}" hint-placeholder-val="{{ false }}">
     <div style="position: fixed; inset: 0; z-index: 92; pointer-events: none; overflow: hidden;">
@@ -254,7 +255,7 @@
     <div onContextMenu="{{ onLegendMenu }}" style="position: absolute; left: {{ legendLeft }}; top: {{ legendTop }}; z-index: 15; pointer-events: auto; display: flex; flex-direction: column; gap: 3px;">
       <div style="font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a; margin-bottom: 4px; text-align: center;">Legend</div>
       <sc-for list="{{ legendGroups }}" as="g" hint-placeholder-count="3">
-        <button type="button" onClick="{{ g.onClick }}" onMouseDown="{{ g.onDown }}" onMouseEnter="{{ g.onHover }}" onMouseLeave="{{ g.onLeave }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="background: rgba(216,169,66,0.16); color: #ece1cf; box-shadow: inset 0 0 0 1px rgba(216,169,66,0.35);"><span style="{{ g.dot }}"></span><span data-tablabel="1" style="{{ g.labelStyle }}">{{ g.titleText }}</span><span style="{{ g.countStyle }}">· {{ g.count }}</span></button>
+        <button type="button" onClick="{{ g.onClick }}" onContextMenu="{{ g.onContext }}" onMouseDown="{{ g.onDown }}" onMouseEnter="{{ g.onHover }}" onMouseLeave="{{ g.onLeave }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="background: rgba(216,169,66,0.16); color: #ece1cf; box-shadow: inset 0 0 0 1px rgba(216,169,66,0.35);"><span style="{{ g.dot }}"></span><span data-tablabel="1" style="{{ g.labelStyle }}">{{ g.titleText }}</span><span style="{{ g.countStyle }}">· {{ g.count }}</span></button>
       </sc-for>
     </div>
   </sc-if>
@@ -272,6 +273,7 @@
   <sc-if value="{{ menuShow }}" hint-placeholder-val="{{ false }}">
     <div data-nodemenu="1" onMouseEnter="{{ menuKeep }}" onMouseLeave="{{ menuLeave }}" style="{{ menuStyle }}">
       <div style="display: flex; flex-direction: column; gap: 2px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8);">
+        <div style="padding: 4px 9px 6px; margin-bottom: 1px; border-bottom: 1px solid #2a2218;"><span data-tablabel="1" onMouseEnter="{{ menuTitleHover }}" style="display: block; max-width: 222px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 14px; color: #ece1cf;">{{ menuNodeTitle }}</span></div>
         <button type="button" onClick="{{ menuOpenHere }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">↳ open in current active tab</button>
         <button type="button" onClick="{{ menuNewTab }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊞ open as new tab in side panel</button>
         <div style="height: 1px; background: #2a2218; margin: 3px 4px;"></div>
@@ -698,11 +700,11 @@
   <sc-if value="{{ paletteOpen }}" hint-placeholder-val="{{ false }}">
     <div onClick="{{ closePalette }}" style="position: fixed; inset: 0; z-index: 140; background: rgba(8,6,4,0.6); backdrop-filter: blur(2px); display: flex; align-items: flex-start; justify-content: center; padding-top: 12vh; font-family: 'JetBrains Mono', monospace;">
       <div onClick="{{ stopProp }}" style="width: min(560px, 94vw); background: #14100b; border: 1px solid #2a2218; border-radius: 12px; box-shadow: 0 30px 70px -20px rgba(0,0,0,0.85); overflow: hidden;">
-        <input value="{{ paletteQuery }}" onInput="{{ onPaletteInput }}" onKeyDown="{{ onPaletteKey }}" ref="{{ setPaletteEl }}" placeholder="Jump to a note or run a command…" style="width: 100%; box-sizing: border-box; background: transparent; border: none; border-bottom: 1px solid #2a2218; padding: 15px 18px; color: #ece1cf; font-family: 'JetBrains Mono', monospace; font-size: 14px; outline: none;" />
-        <div style="max-height: 52vh; overflow-y: auto; padding: 6px;">
+        <input value="{{ paletteQuery }}" onInput="{{ onPaletteInput }}" onKeyDown="{{ onPaletteKey }}" ref="{{ setPaletteEl }}" placeholder="Run a command…" style="width: 100%; box-sizing: border-box; background: transparent; border: none; border-bottom: 1px solid #2a2218; padding: 15px 18px; color: #ece1cf; font-family: 'JetBrains Mono', monospace; font-size: 14px; outline: none;" />
+        <div id="kg-palette-list" style="position: relative; max-height: 52vh; overflow-y: auto; padding: 6px;">
           <sc-for list="{{ paletteItems }}" as="it" hint-placeholder-count="6">
-            <button type="button" onClick="{{ it.onRun }}" onMouseEnter="{{ it.onHover }}" style="{{ it.style }}">
-              <span style="flex: 0 0 auto; width: 18px; text-align: center; color: #b78f3a;">{{ it.icon }}</span>
+            <button type="button" data-pal-item="1" onClick="{{ it.onRun }}" onMouseEnter="{{ it.onHover }}" style="{{ it.style }}">
+              <span style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; text-align: center; color: #b78f3a;">{{ it.icon }}</span>
               <span style="flex: 1 1 0; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #ece1cf;">{{ it.label }}</span>
               <span style="flex: 0 0 auto; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: #6c6354;">{{ it.kind }}</span>
             </button>
@@ -723,7 +725,7 @@
   &quot;edgeFlow&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot; }
 }">
 class Component extends DCLogic {
-  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, legendHidden: true, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'recent'; } catch(e){ return 'recent'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
+  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, legendHidden: false, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'recent'; } catch(e){ return 'recent'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
 
   MD_CONFIG = [
     { key: 'math', label: 'LaTeX math ($…$)', ex: 'Mass–energy: $E = mc^2$' },
@@ -933,7 +935,7 @@ class Component extends DCLogic {
 
   onKey = (e) => {
     const mod = e.metaKey || e.ctrlKey;
-    if (mod && (e.key === 'k' || e.key === 'K')) { e.preventDefault(); this.setState((s) => ({ paletteOpen: !s.paletteOpen, paletteQuery: '', paletteIdx: 0 })); return; }
+    if (mod && (e.key === 'k' || e.key === 'K')) { e.preventDefault(); this._palPrevIdx = 0; this.setState((s) => ({ paletteOpen: !s.paletteOpen, paletteQuery: '', paletteIdx: 0 })); return; }
     if (e.key === 'Escape') {
       if (this.state.statsOpen) { this.setState({ statsOpen: false }); return; }
       if (this.state.paletteOpen) { this.setState({ paletteOpen: false }); return; }
@@ -972,6 +974,19 @@ class Component extends DCLogic {
   };
   onResize = () => { if (this.graph && this.graphEl) this.graph.width(this.graphEl.clientWidth).height(this.graphEl.clientHeight); this.measureHeader(); this.setState({ winW: window.innerWidth, winH: window.innerHeight }); };
   // Command palette: note matches (when typing) + a fixed set of view/panel commands.
+  // SVG dock icons matching the sidebar toolbar's "more options" dock-side buttons.
+  dockIconEl(kind) {
+    const h = React.createElement, ns = 'http://www.w3.org/2000/svg';
+    const svg = (children) => h('svg', { width: 14, height: 14, viewBox: '0 0 16 16', xmlns: ns }, children);
+    const frame = h('rect', { key: 'f', x: 2, y: 3, width: 12, height: 10, rx: 1.5, fill: 'none', stroke: 'currentColor', strokeWidth: 1.2 });
+    if (kind === 'undock') return svg([
+      h('rect', { key: 'a', x: 2, y: 4.5, width: 8.5, height: 7, rx: 1.3, fill: 'none', stroke: 'currentColor', strokeWidth: 1.25 }),
+      h('rect', { key: 'b', x: 6.5, y: 2.5, width: 7.5, height: 6.5, rx: 1.3, fill: '#16120c', stroke: 'currentColor', strokeWidth: 1.25 }),
+    ]);
+    if (kind === 'left') return svg([frame, h('rect', { key: 's', x: 2.8, y: 3.8, width: 4, height: 8.4, rx: 0.6, fill: 'currentColor' })]);
+    if (kind === 'bottom') return svg([frame, h('rect', { key: 's', x: 2.8, y: 8.6, width: 10.4, height: 3.6, rx: 0.6, fill: 'currentColor' })]);
+    return svg([frame, h('rect', { key: 's', x: 9.2, y: 3.8, width: 4, height: 8.4, rx: 0.6, fill: 'currentColor' })]);
+  }
   paletteList() {
     const q = (this.state.paletteQuery || '').trim().toLowerCase();
     const cmds = [
@@ -987,21 +1002,13 @@ class Component extends DCLogic {
       { kind: 'action', icon: '↺', label: 'Reset / collapse all', run: () => this.collapseAll() },
       { kind: 'action', icon: '✦', label: 'Show all notes', run: () => this.expandAll() },
       { kind: 'action', icon: '⌨', label: 'Keyboard shortcuts', run: () => this.setState({ shortcutsOpen: true }) },
-      { kind: 'action', icon: '◧', label: 'Dock panel left', run: () => this.setDock('left') },
-      { kind: 'action', icon: '◨', label: 'Dock panel right', run: () => this.setDock('right') },
-      { kind: 'action', icon: '▭', label: 'Dock panel bottom', run: () => this.setDock('bottom') },
-      { kind: 'action', icon: '❒', label: 'Float panel', run: () => this.setDock('undock') },
+      { kind: 'action', icon: this.dockIconEl('left'), label: 'Dock panel left', run: () => this.setDock('left') },
+      { kind: 'action', icon: this.dockIconEl('right'), label: 'Dock panel right', run: () => this.setDock('right') },
+      { kind: 'action', icon: this.dockIconEl('bottom'), label: 'Dock panel bottom', run: () => this.setDock('bottom') },
+      { kind: 'action', icon: this.dockIconEl('undock'), label: 'Float panel', run: () => this.setDock('undock') },
     ];
-    const matchedCmds = q ? cmds.filter((c) => c.label.toLowerCase().indexOf(q) >= 0) : cmds.slice(0, 7);
-    let notes = [];
-    if (q && this.nodeById) {
-      notes = Object.values(this.nodeById)
-        .filter((n) => (n.title || '').toLowerCase().indexOf(q) >= 0)
-        .sort((a, b) => { const ai = a.title.toLowerCase().indexOf(q), bi = b.title.toLowerCase().indexOf(q); return ai - bi || a.title.length - b.title.length; })
-        .slice(0, 10)
-        .map((n) => ({ kind: 'note', icon: '◍', label: n.title, run: () => this.navigateTo(n.id) }));
-    }
-    return notes.concat(matchedCmds);
+    const matchedCmds = q ? cmds.filter((c) => c.label.toLowerCase().indexOf(q) >= 0) : cmds;
+    return matchedCmds;
   }
 
   nodeRadius(n) { return (Math.sqrt(this.val(n)) * 3 + 2) * (this.state.nodeSizeMul || 1); }
@@ -3286,7 +3293,12 @@ class Component extends DCLogic {
       el.scrollTop = 0;
     }
   }
-  toggleMenu = () => this.setState((s) => ({ menuOpen: !s.menuOpen, menuAt: null }));
+  toggleMenu = () => this.setState((s) => {
+    if (s.menuOpen) return { menuOpen: false };
+    let at = null;
+    try { const b = document.querySelector('[data-controlsmenu] button[title="Controls"]'); if (b) { const r = b.getBoundingClientRect(); at = { x: Math.round(r.right - 250), y: Math.round(r.bottom + 8) }; } } catch (e) {}
+    return { menuOpen: true, menuAt: at };
+  });
   closeMenu = () => this.setState({ menuOpen: false });
   menuFit = () => { this.fitView(); this.setState({ menuOpen: false }); };
   menuShowAll = () => { this.expandAll(); this.setState({ menuOpen: false }); };
@@ -3673,6 +3685,20 @@ class Component extends DCLogic {
     if (top < c.scrollTop) c.scrollTop = top;
     else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
   };
+  scrollPaletteActive = () => {
+    const c = document.getElementById('kg-palette-list'); if (!c) return;
+    const idx = this.state.paletteIdx || 0;
+    const btn = c.querySelectorAll('[data-pal-item]')[idx]; if (!btn) { this._palPrevIdx = idx; return; }
+    const top = btn.offsetTop, h = btn.offsetHeight, bot = top + h;
+    const prev = (this._palPrevIdx == null) ? idx : this._palPrevIdx;
+    this._palPrevIdx = idx;
+    const max = c.scrollHeight - c.clientHeight;
+    let st = c.scrollTop;
+    if (idx > prev) { if (bot > st + c.clientHeight) st = bot - c.clientHeight; }   // moving down → only scroll once the active reaches the bottom edge
+    else if (idx < prev) { if (top < st) st = top; }                                // moving up → only scroll once the active reaches the top edge
+    else { if (bot > st + c.clientHeight) st = bot - c.clientHeight; else if (top < st) st = top; }
+    c.scrollTop = Math.max(0, Math.min(st, max));
+  };
   scrollSearchActive = () => {
     const c = document.getElementById('kg-search-results'); if (!c) return;    const btn = c.children[this.state.searchIdx || 0]; if (!btn) return;
     const top = btn.offsetTop, bot = top + btn.offsetHeight;
@@ -3867,16 +3893,29 @@ class Component extends DCLogic {
     const pItemsRaw = this.state.paletteOpen ? this.paletteList() : [];
     const pIdx = Math.min(this.state.paletteIdx || 0, Math.max(0, pItemsRaw.length - 1));
     let menuShow = false, menuStyle = {}, menuExpandLabel = '', menuExpandDisabled = true, menuExpandStyle = menuBtn;
-    if (mNode && this.graph && mNode.x != null) {
-      let sp; try { sp = this.graph.graph2ScreenCoords(mNode.x, mNode.y); } catch (e) { sp = null; }
-      if (sp) {
-        const rr = this.nodeRadius(mNode) * (this.graph.zoom() || 1);
+    if (mNode) {
+      const hasCh = mNode.children && mNode.children.length;
+      menuExpandDisabled = !hasCh;
+      menuExpandLabel = !hasCh ? 'no children' : (!this.collapsed.has(mNode.id) ? '\u2296 collapse children' : ('\u2295 expand ' + mNode.children.length + ' children'));
+      menuExpandStyle = Object.assign({}, menuBtn, hasCh ? null : { color: '#4a4337', cursor: 'default' });
+      const MW = 232, MH = 372;   // approx node-menu footprint, used to keep it fully on-screen
+      if (this.state.menuNodeAt) {
+        // Opened from the legend (or another off-graph affordance): anchor at the cursor.
         menuShow = true;
-        menuStyle = { position: 'absolute', left: (sp.x + rr + 4) + 'px', top: (sp.y - rr - 12) + 'px', zIndex: 65 };
-        const hasCh = mNode.children && mNode.children.length;
-        menuExpandDisabled = !hasCh;
-        menuExpandLabel = !hasCh ? 'no children' : (!this.collapsed.has(mNode.id) ? '\u2296 collapse children' : ('\u2295 expand ' + mNode.children.length + ' children'));
-        menuExpandStyle = Object.assign({}, menuBtn, hasCh ? null : { color: '#4a4337', cursor: 'default' });
+        const lx = Math.max(8, Math.min(this.state.menuNodeAt.x, winW - MW - 8));
+        const ty = Math.max(8, Math.min(this.state.menuNodeAt.y, winH - MH - 8));
+        menuStyle = { position: 'fixed', top: ty + 'px', left: lx + 'px', zIndex: 65 };
+      } else if (this.graph && mNode.x != null) {
+        let sp; try { sp = this.graph.graph2ScreenCoords(mNode.x, mNode.y); } catch (e) { sp = null; }
+        if (sp) {
+          const rr = this.nodeRadius(mNode) * (this.graph.zoom() || 1);
+          menuShow = true;
+          let lx = sp.x + rr + 4;
+          if (lx + MW + 8 > winW) lx = sp.x - rr - 4 - MW;        // flip to the node's left if it would overflow right
+          lx = Math.max(8, Math.min(lx, winW - MW - 8));
+          let ty = Math.max(8, Math.min(sp.y - rr - 12, winH - MH - 8));   // keep top & bottom in view
+          menuStyle = { position: 'fixed', left: lx + 'px', top: ty + 'px', zIndex: 65 };
+        }
       }
     }
     const sideRootIsActing = !!(sel && sel.id === this.actingRoot && sel.id !== this.rootId);
@@ -4177,15 +4216,16 @@ class Component extends DCLogic {
       legendGroups: (function(self){
         const fg = self._focusGroups, ar = self.nodeById ? self.nodeById[self.actingRoot] : null;
         const kids = ar ? (ar.children || []).slice() : [];
-        kids.sort((a, b) => self.subtreeCount(b) - self.subtreeCount(a));
+        // Keep natural child order — assignColors maps each child's index to its hue, so this is color order.
         return kids.map((c) => { const on = !!(fg && fg.has(c.id)); const dim = !!(fg && fg.size && !on); const col = c.col || self.PAL[c.group] || '#d8a942'; return {
           titleText: (c.name || c.title),
           count: (self.subtreeCount(c) + 1),
           title: on ? 'Showing this branch \u2014 click to clear' : 'Solo this branch',
           onClick: () => { if (self._legMoved) { self._legMoved = false; return; } self.toggleGroup(c.id); },
+          onContext: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); self._legDrag = false; self.setState({ menuNodeId: c.id, menuNodeAt: { x: e.clientX, y: e.clientY }, menuOpen: false, legendMenu: null }); },
           onDown: (e) => { if (e && e.preventDefault) e.preventDefault(); self._legDrag = true; self._legMoved = false; self._legStart = c.id; self._legAdd = !(self._focusGroups && self._focusGroups.has(c.id)); const up = () => { self._legDrag = false; window.removeEventListener('mouseup', up); }; window.addEventListener('mouseup', up); },
-          onHover: (e) => { self.startTabMarquee(e && e.currentTarget, 0); if (self._legDrag) { self._legMoved = true; self._addLegendFocus(self._legStart); self._addLegendFocus(c.id); } },
-          onLeave: (e) => self.stopTabMarquee(e && e.currentTarget),
+          onHover: (e) => { self.startTabMarquee(e && e.currentTarget, 0); if (self.nodeById && self.nodeById[c.id] && self.hoverId !== c.id) { self.hoverId = c.id; self._kickGraph && self._kickGraph(); } if (self._legDrag) { self._legMoved = true; self._addLegendFocus(self._legStart); self._addLegendFocus(c.id); } },
+          onLeave: (e) => { self.stopTabMarquee(e && e.currentTarget); if (self.hoverId === c.id) { self.hoverId = null; self._kickGraph && self._kickGraph(); } },
           style: { display: 'flex', alignItems: 'center', gap: '7px', maxWidth: '220px', overflow: 'hidden', background: 'transparent', border: 'none', padding: '2px 6px', borderRadius: '5px', cursor: 'pointer', userSelect: 'none', WebkitUserSelect: 'none', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.04em', textAlign: 'left', color: dim ? '#5f574a' : (on ? '#ece1cf' : '#8c8170') },
           dot: { width: '8px', height: '8px', borderRadius: '50%', flex: '0 0 auto', background: col, opacity: dim ? 0.4 : 1, boxShadow: on ? ('0 0 5px ' + col) : 'none' },
           labelStyle: { flex: '1 1 0', minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', display: 'block' },
@@ -4314,6 +4354,8 @@ class Component extends DCLogic {
       menuRoot: mNode ? () => ((mNode.id === this.actingRoot && mNode.id !== this.rootId) ? this.menuUnmake() : this.menuMakeRoot(mNode.id)) : () => {},
       menuNewTab: mNode ? () => this.openInNewTab(mNode.id) : () => {},
       menuOpenHere: mNode ? () => { this.setState({ menuNodeId: null }); this.navigateTo(mNode.id); } : () => {},
+      menuNodeTitle: mNode ? (mNode.name || mNode.title) : '',
+      menuTitleHover: (e) => { const span = e && e.currentTarget; if (span && span.parentElement) this.startTabMarquee(span.parentElement, 0); },
       showTabs, showToolbarTabs, splitToolbar, vertSplit, primaryInPane, secondaryInPane, tbTabItems, tbSide, tbAddTab, tabItems,
       leftTabsWrapStyle: (splitOn && !spVert) ? { flex: '0 0 calc(' + Math.round((spRev ? (1 - (this.state.splitRatio || 0.5)) : (this.state.splitRatio || 0.5)) * 100) + '% - ' + (spRev ? 37 : 28) + 'px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
       leftPaneStyle: splitOn ? { flex: '0 0 ' + Math.round((this.state.splitRatio || 0.5) * 100) + '%', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 } : { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 },
@@ -4389,14 +4431,14 @@ class Component extends DCLogic {
       paletteOpen: !!this.state.paletteOpen,
       paletteQuery: this.state.paletteQuery || '',
       closePalette: () => this.setState({ paletteOpen: false }),
-      onPaletteInput: (e) => this.setState({ paletteQuery: e.target.value, paletteIdx: 0 }),
+      onPaletteInput: (e) => { this._palPrevIdx = 0; this.setState({ paletteQuery: e.target.value, paletteIdx: 0 }); },
       setPaletteEl: (el) => { if (el && el !== this._paletteEl) { this._paletteEl = el; setTimeout(() => { try { el.focus(); } catch (e) {} }, 0); } },
       onPaletteKey: (e) => {
         const items = this.paletteList();
-        if (e.key === 'ArrowDown') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.min((s.paletteIdx || 0) + 1, items.length - 1) })); }
-        else if (e.key === 'ArrowUp') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.max((s.paletteIdx || 0) - 1, 0) })); }
+        if (e.key === 'ArrowDown') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.min((s.paletteIdx || 0) + 1, items.length - 1) }), this.scrollPaletteActive); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.max((s.paletteIdx || 0) - 1, 0) }), this.scrollPaletteActive); }
         else if (e.key === 'Enter') { e.preventDefault(); const it = items[Math.min(this.state.paletteIdx || 0, items.length - 1)]; if (it) { this.setState({ paletteOpen: false }); it.run(); } }
-        else if (e.key === 'Escape') { e.preventDefault(); this.setState({ paletteOpen: false }); }
+        else if (e.key === 'Escape') { e.preventDefault(); e.stopPropagation(); this.setState({ paletteOpen: false }); }
       },
       paletteItems: pItemsRaw.map((it, i) => ({
         icon: it.icon, label: it.label, kind: it.kind,
