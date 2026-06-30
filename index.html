@@ -255,7 +255,7 @@
   <sc-if value="{{ legendShow }}" hint-placeholder-val="{{ false }}">
     <div onContextMenu="{{ onLegendMenu }}" style="position: absolute; left: {{ legendLeft }}; top: {{ legendTop }}; z-index: 15; pointer-events: auto; display: flex; flex-direction: column; background: rgba(16,13,9,0.85); border: 1px solid #2a2218; border-radius: 8px; padding: 8px 8px 6px;">
       <div style="font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a; margin-bottom: 4px; text-align: center;">Legend</div>
-      <div class="gx-scroll" style="display: flex; flex-direction: column; gap: 3px; max-height: {{ legendMaxH }}; overflow-y: auto; overflow-x: hidden; padding-right: 2px;">
+      <div class="gx-scroll" style="display: flex; flex-direction: column; gap: 0; max-height: {{ legendMaxH }}; overflow-y: auto; overflow-x: hidden; padding-right: 2px;">
         <sc-for list="{{ legendGroups }}" as="g" hint-placeholder-count="3">
           <button type="button" onClick="{{ g.onClick }}" onContextMenu="{{ g.onContext }}" onMouseDown="{{ g.onDown }}" onMouseEnter="{{ g.onHover }}" onMouseLeave="{{ g.onLeave }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="background: rgba(216,169,66,0.16); color: #ece1cf; box-shadow: inset 0 0 0 1px rgba(216,169,66,0.35);"><span style="{{ g.dot }}"></span><span data-tablabel="1" style="{{ g.labelStyle }}">{{ g.titleText }}</span><span style="{{ g.countStyle }}">· {{ g.count }}</span></button>
         </sc-for>
@@ -4348,13 +4348,13 @@ class Component extends DCLogic {
         return kids.map((c) => { const on = !!(fg && fg.has(c.id)); const dim = !!(fg && fg.size && !on); const col = c.col || self.PAL[c.group] || '#d8a942'; return {
           titleText: (c.name || c.title),
           count: (self.subtreeCount(c) + 1),
-          title: on ? 'Showing this branch \u2014 click to clear' : 'Solo this branch',
-          onClick: () => { if (self._legMoved) { self._legMoved = false; return; } self.toggleGroup(c.id); },
-          onContext: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); self._legDrag = false; self.setState({ menuNodeId: c.id, menuNodeAt: { x: e.clientX, y: e.clientY }, menuOpen: false, legendMenu: null }); },
-          onDown: (e) => { if (e && e.preventDefault) e.preventDefault(); self._legDrag = true; self._legMoved = false; self._legStart = c.id; self._legAdd = !(self._focusGroups && self._focusGroups.has(c.id)); const up = () => { self._legDrag = false; window.removeEventListener('mouseup', up); }; window.addEventListener('mouseup', up); },
-          onHover: (e) => { self.startTabMarquee(e && e.currentTarget, 0); if (self.nodeById && self.nodeById[c.id] && self.hoverId !== c.id) { self.hoverId = c.id; self._kickGraph && self._kickGraph(); } if (self._legDrag) { self._legMoved = true; self._addLegendFocus(self._legStart); self._addLegendFocus(c.id); } },
-          onLeave: (e) => { self.stopTabMarquee(e && e.currentTarget); if (self.hoverId === c.id) { self.hoverId = null; self._kickGraph && self._kickGraph(); } },
-          style: { display: 'flex', flexShrink: 0, alignItems: 'center', gap: '7px', maxWidth: '220px', overflow: 'hidden', background: 'transparent', border: 'none', padding: '2px 6px', borderRadius: '5px', cursor: 'pointer', userSelect: 'none', WebkitUserSelect: 'none', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.04em', textAlign: 'left', color: dim ? '#5f574a' : (on ? '#ece1cf' : '#8c8170') },
+          title: 'Hover to solo this branch \u2014 click to open',
+          onClick: () => { self.navigateTo(c.id); },
+          onContext: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); self.setState({ menuNodeId: c.id, menuNodeAt: { x: e.clientX, y: e.clientY }, menuOpen: false, legendMenu: null }); },
+          onDown: (e) => { if (e && e.preventDefault) e.preventDefault(); },
+          onHover: (e) => { self.startTabMarquee(e && e.currentTarget, 0); self._legendSolo = c.id; self._focusGroups = new Set([c.id]); self.setState((s) => ({ tick: (s.tick || 0) + 1 })); self._kickGraph && self._kickGraph(); },
+          onLeave: (e) => { self.stopTabMarquee(e && e.currentTarget); if (self._legendSolo === c.id) { self._legendSolo = null; self._focusGroups = null; } self.setState((s) => ({ tick: (s.tick || 0) + 1 })); self._kickGraph && self._kickGraph(); },
+          style: { display: 'flex', flexShrink: 0, alignItems: 'center', gap: '7px', maxWidth: '220px', overflow: 'hidden', background: 'transparent', border: 'none', padding: '3px 6px', borderRadius: '5px', cursor: 'pointer', userSelect: 'none', WebkitUserSelect: 'none', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.04em', textAlign: 'left', color: dim ? '#5f574a' : (on ? '#ece1cf' : '#8c8170') },
           dot: { width: '8px', height: '8px', borderRadius: '50%', flex: '0 0 auto', background: col, opacity: dim ? 0.4 : 1, boxShadow: on ? ('0 0 5px ' + col) : 'none' },
           labelStyle: { flex: '1 1 0', minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', display: 'block' },
           countStyle: { flex: '0 0 auto', marginLeft: '1px', color: dim ? '#5f574a' : '#6c6354' },
