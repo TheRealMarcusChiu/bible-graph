@@ -281,6 +281,7 @@
         <div style="height: 1px; background: #2a2218; margin: 3px 4px;"></div>
         <button type="button" onClick="{{ menuCenter }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⌖ center node</button>
         <button type="button" onClick="{{ menuExpand }}" disabled="{{ menuExpandDisabled }}" style="{{ menuExpandStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ menuExpandLabel }}</button>
+        <button type="button" onClick="{{ menuExpandAllDesc }}" disabled="{{ menuExpandAllDisabled }}" style="{{ menuExpandAllStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⬚ expand all descendants</button>
         <button type="button" onClick="{{ menuHide }}" disabled="{{ menuHideDisabled }}" style="{{ menuHideStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⦸ hide node</button>
         <sc-if value="{{ menuRootShow }}" hint-placeholder-val="{{ true }}">
           <button type="button" onClick="{{ menuRoot }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ menuRootLabel }}</button>
@@ -3329,7 +3330,18 @@ class Component extends DCLogic {
     if (this.graph) this.graph.graphData(this.getVisible());
     this.setState((s) => ({ tick: (s.tick || 0) + 1 }));
   };
-  // Hide a node's whole branch: remove the right-clicked node itself AND its entire subtree from
+  // Expand the node AND its entire subtree (un-collapse every descendant at once).
+  menuExpandDescendants = (id) => {
+    const root = this.nodeById[id]; if (!root) return;
+    const stack = [root];
+    while (stack.length) {
+      const n = stack.pop();
+      if (this.collapsed.has(n.id)) { this.collapsed.delete(n.id); n.fx = null; n.fy = null; n.fz = null; }
+      (n.children || []).forEach((c) => stack.push(c));
+    }
+    if (this.graph) this.graph.graphData(this.getVisible());
+    this.setState((s) => ({ tick: (s.tick || 0) + 1 }));
+  };
   // the graph (a 'show all' / reset brings them back). The branch is also collapsed so it stays
   // folded one level at a time if later revealed.
   menuHide = (id) => {
@@ -4359,6 +4371,9 @@ class Component extends DCLogic {
       sideRoot: sel ? () => { this.setState({ sideMenu: false }); if (sideRootIsActing) this.menuUnmake(); else this.menuMakeRoot(sel.id); } : () => {},
       menuCenter: mNode ? () => { this.setState({ menuNodeId: null }); this.selectNode(mNode.id); this.focusNode(mNode, false); } : () => {},
       menuExpand: mNode ? () => this.menuToggle(mNode.id) : () => {},
+      menuExpandAllDesc: mNode ? () => { this.setState({ menuNodeId: null }); this.menuExpandDescendants(mNode.id); } : () => {},
+      menuExpandAllDisabled: !(mNode && mNode.children && mNode.children.length),
+      menuExpandAllStyle: Object.assign({}, menuBtn, (mNode && mNode.children && mNode.children.length) ? null : { color: '#4a4337', cursor: 'default' }),
       menuHide: mNode ? () => this.menuHide(mNode.id) : () => {},
       menuHideDisabled: !(mNode && mNode.id !== (this.actingRoot || this.rootId)),
       menuHideStyle: Object.assign({}, menuBtn, (mNode && mNode.id !== (this.actingRoot || this.rootId)) ? null : { color: '#4a4337', cursor: 'default' }),
