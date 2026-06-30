@@ -255,6 +255,7 @@
   <sc-if value="{{ legendShow }}" hint-placeholder-val="{{ false }}">
     <div onContextMenu="{{ onLegendMenu }}" style="position: absolute; left: {{ legendLeft }}; top: {{ legendTop }}; z-index: 15; pointer-events: auto; display: flex; flex-direction: column; background: rgba(16,13,9,0.85); border: 1px solid #2a2218; border-radius: 8px; padding: 8px 3px 6px 8px;">
       <div style="font-family: 'JetBrains Mono', monospace; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a; margin-bottom: 4px; text-align: center;">Legend</div>
+      <div style="height: 1px; background: #2a2218; margin: 0 -3px 7px -8px;"></div>
       <div id="kg-legend-scroll" class="gx-scroll" style="display: flex; flex-direction: column; gap: 0; max-height: {{ legendMaxH }}; overflow-y: auto; overflow-x: hidden; padding-right: 2px;">
         <sc-for list="{{ legendGroups }}" as="g" hint-placeholder-count="3">
           <button type="button" onClick="{{ g.onClick }}" onContextMenu="{{ g.onContext }}" onMouseDown="{{ g.onDown }}" onMouseEnter="{{ g.onHover }}" onMouseLeave="{{ g.onLeave }}" title="{{ g.title }}" style="{{ g.style }}" style-hover="background: rgba(216,169,66,0.16); color: #ece1cf; box-shadow: inset 0 0 0 1px rgba(216,169,66,0.35);"><span style="{{ g.dot }}"></span><span data-tablabel="1" style="{{ g.labelStyle }}">{{ g.titleText }}</span><span style="{{ g.countStyle }}">· {{ g.count }}</span></button>
@@ -298,7 +299,7 @@
 
   <aside onMouseEnter="{{ onSidebarEnter }}" style="position: absolute; top: {{ sidebarTop }}; left: {{ sidebarLeft }}; right: {{ sidebarRight }}; bottom: {{ sidebarBottom }}; height: {{ sidebarHeight }}; width: {{ sidebarWidth }}; z-index: 50; pointer-events: {{ sidebarPE }}; display: flex; flex-direction: column; overflow: {{ sidebarOverflow }}; transform: {{ sidebarTransform }}; opacity: {{ sidebarOpacity }}; transition: {{ sidebarTransition }}; background: linear-gradient(180deg, rgba(20,16,11,0.97), rgba(16,13,9,0.985)); border: 1px solid #2a2218; border-top: {{ sidebarBorderTop }}; border-radius: {{ sidebarRadius }}; box-shadow: {{ sidebarShadow }};">
     <sc-if value="{{ showResize }}" hint-placeholder-val="{{ true }}">
-      <div onMouseDown="{{ startResize }}" title="Drag to resize" style="{{ resizeHandleStyle }}" style-hover="background: rgba(216,169,66,0.18);">
+      <div onMouseDown="{{ startResize }}" onMouseEnter="{{ onResizeEnter }}" onMouseLeave="{{ onResizeLeave }}" title="Drag to resize" style="{{ resizeHandleStyle }}" style-hover="background: rgba(216,169,66,0.18);">
         <div style="{{ resizeBarStyle }}"></div>
       </div>
     </sc-if>
@@ -325,7 +326,7 @@
         <sc-if value="{{ splitToolbar }}" hint-placeholder-val="{{ false }}">
           <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="flex: 0 0 9px; align-self: stretch; margin: -4px 0; cursor: ew-resize; position: relative; display: flex; align-items: center; justify-content: center;">
             <div style="{{ splitHighlightStyle }}"></div>
-            <div style="position: relative; width: 1px; height: 100%; background: #2a2218;"></div>
+            <div style="{{ splitBarStyle }}"></div>
           </div>
         </sc-if>
         <div style="{{ rightHalfStyle }}">
@@ -343,10 +344,10 @@
             </div>
           </sc-if>
           <div style="display: flex; align-items: center; gap: 3px; flex-shrink: 0; margin-left: 8px; margin-right: 4px;">
-          <div data-sidemenu="1" style="position: relative;">
-            <button type="button" onClick="{{ toggleSideMenu }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transform: translateY(1px); transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
+          <div data-sidemenu="1" style="position: relative;" onMouseEnter="{{ openSideMenu }}" onMouseLeave="{{ closeSideMenuSoon }}">
+            <button type="button" onClick="{{ toggleFull }}" title="Toggle full-page reading view" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">{{ fullIcon }}</button>
             <sc-if value="{{ sideMenuOpen }}" hint-placeholder-val="{{ false }}">
-              <div style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
+              <div onMouseEnter="{{ keepSideMenu }}" onMouseLeave="{{ closeSideMenuSoon }}" style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
                 <div style="display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 7px 9px 8px;">
                   <span style="font-size: 10px; letter-spacing: 0.06em; text-transform: uppercase; color: #8c8170; white-space: nowrap;">Dock side</span>
                   <div style="display: flex; align-items: center; gap: 4px;">
@@ -356,13 +357,9 @@
                     <button type="button" onClick="{{ dockRight }}" title="Dock to right" style="{{ dockRightStyle }}" style-hover="background: #241c12; border-color: #d8a942; color: #f4cf6a; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);"><svg width="15" height="15" viewBox="0 0 16 16"><rect x="2" y="3" width="12" height="10" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.2"></rect><rect x="9.2" y="3.8" width="4" height="8.4" rx="0.6" fill="currentColor"></rect></svg></button>
                   </div>
                 </div>
-                <div style="height: 1px; background: #2a2218; margin: 3px 4px;"></div>
-                <button type="button" onClick="{{ sideRaw }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ sideRawLabel }}</button>
-                <button type="button" onClick="{{ openMdConfig }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✎ edit markdown renderer</button>
               </div>
             </sc-if>
           </div>
-          <button type="button" onClick="{{ toggleFull }}" title="Toggle full-page reading view" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">{{ fullIcon }}</button>
           <button type="button" onClick="{{ closeSidebar }}" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 13px; transition: all .15s;" style-hover="color: #f0b6a3; background: #2e1a16; box-shadow: 0 0 0 1px rgba(201,127,99,0.35);">✕</button>
         </div>
         </div>
@@ -385,7 +382,7 @@
         </div>
       </div>
     </sc-if>
-    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 12px; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
+    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 6px 0 12px; margin-right: {{ leftBarMR }}; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
       <button type="button" onClick="{{ navBack }}" title="Back" style="{{ navBackStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
       <button type="button" onClick="{{ navForward }}" title="Forward" style="{{ navFwdStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
       <button type="button" onClick="{{ locateInGraph }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; padding: 0; border: none; border-radius: 6px; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
@@ -402,6 +399,15 @@
                 {{ r.snippet }}
               </button>
             </sc-for>
+          </div>
+        </sc-if>
+      </div>
+      <div data-sbmenu="1" style="position: relative; flex: 0 0 auto;">
+        <button type="button" onClick="{{ toggleSbL }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border: none; border-radius: 6px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
+        <sc-if value="{{ sbMenuOpenL }}" hint-placeholder-val="{{ false }}">
+          <div style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
+            <button type="button" onClick="{{ sideRaw }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ sideRawLabel }}</button>
+            <button type="button" onClick="{{ openMdConfig }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✎ edit markdown renderer</button>
           </div>
         </sc-if>
       </div>
@@ -489,7 +495,7 @@
             </div>
           </div>
         </sc-if>
-    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 12px; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
+    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 6px 0 12px; margin-left: {{ rightBarML }}; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
       <button type="button" onClick="{{ navBackR }}" title="Back" style="{{ navBackStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
       <button type="button" onClick="{{ navForwardR }}" title="Forward" style="{{ navFwdStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
       <button type="button" onClick="{{ locateInGraphR }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; padding: 0; border: none; border-radius: 6px; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
@@ -506,6 +512,15 @@
                 {{ r.snippet }}
               </button>
             </sc-for>
+          </div>
+        </sc-if>
+      </div>
+      <div data-sbmenu="1" style="position: relative; flex: 0 0 auto;">
+        <button type="button" onClick="{{ toggleSbR }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border: none; border-radius: 6px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
+        <sc-if value="{{ sbMenuOpenR }}" hint-placeholder-val="{{ false }}">
+          <div style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
+            <button type="button" onClick="{{ sideRaw }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ sideRawLabel }}</button>
+            <button type="button" onClick="{{ openMdConfig }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✎ edit markdown renderer</button>
           </div>
         </sc-if>
       </div>
@@ -3514,6 +3529,7 @@ class Component extends DCLogic {
   onDocDown = (e) => {
     const el = e.target;
     if (this.state.sideMenu && !(el && el.closest && el.closest('[data-sidemenu]'))) this.setState({ sideMenu: false });
+    if (this.state.sbMenu && !(el && el.closest && el.closest('[data-sbmenu]'))) this.setState({ sbMenu: null });
     if (this.state.recentOpen && !(el && el.closest && el.closest('[data-recent]'))) this.setState({ recentOpen: false });
     if (this.state.pinOpen && !(el && el.closest && el.closest('[data-pins]'))) this.setState({ pinOpen: false });
     if (this.state.menuOpen && !(el && el.closest && el.closest('[data-controlsmenu]'))) this.setState({ menuOpen: false });
@@ -4147,14 +4163,16 @@ class Component extends DCLogic {
       : resizeAxis === 'h'
       ? { position: 'absolute', top: '-3px', left: 0, width: '100%', height: '5px', cursor: 'ns-resize', zIndex: 25 }
       : { position: 'absolute', top: '50%', transform: 'translateY(-50%)', height: '72px', width: '14px', cursor: 'ew-resize', zIndex: 6, display: 'flex', alignItems: 'center', justifyContent: 'center', borderRadius: '7px', left: handleSide === 'left' ? '0' : 'auto', right: handleSide === 'right' ? '0' : 'auto' };
+    const _edgeBar = { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '2px', background: this.state.resizeHover ? '#f4cf6a' : 'transparent', pointerEvents: 'none', transition: 'background .12s' };
+    const _edgeBarH = { position: 'absolute', left: 0, right: 0, top: '50%', transform: 'translateY(-50%)', height: '2px', background: this.state.resizeHover ? '#f4cf6a' : 'transparent', pointerEvents: 'none', transition: 'background .12s' };
     const resizeBarStyle = resizeAxis === 'leftedge'
-      ? { width: '0', height: '0' }
+      ? _edgeBar
       : resizeAxis === 'rightedge'
-      ? { width: '0', height: '0' }
+      ? _edgeBar
       : resizeAxis === 'corner'
       ? { width: '11px', height: '11px', borderLeft: '2px solid #5a4a24', borderBottom: '2px solid #5a4a24', borderBottomLeftRadius: '4px' }
       : resizeAxis === 'h'
-      ? { width: '0', height: '0' }
+      ? _edgeBarH
       : { width: '2px', height: '50px', borderRadius: '2px', background: '#3a2f1a' };
 
     const uW0 = Math.min(sbW, winW * 0.94);
@@ -4471,6 +4489,8 @@ class Component extends DCLogic {
       undockResizeShow,
       showResize: showResizeV,
       resizeHandleStyle, resizeBarStyle,
+      onResizeEnter: () => { if (!this.state.resizeHover) this.setState({ resizeHover: true }); },
+      onResizeLeave: () => { if (this.state.resizeHover) this.setState({ resizeHover: false }); },
       scrollMargin: splitOn ? '3px 0 3px 0' : '3px 3px 3px 0',
       startResize: this.startResize,
       onSidebarEnter: this.onSidebarEnter,
@@ -4537,11 +4557,16 @@ class Component extends DCLogic {
       onSideSearchFocus: this.onSideSearchFocus,
       onSideSearchFocusR: this.onSideSearchFocusR,
       sideSearchH: ((this.state.sideToolbarH || 38)) + 'px',
+      leftBarMR: (splitOn && !spVert) ? '-4px' : '0px',
+      rightBarML: (splitOn && !spVert) ? '-4px' : '0px',
       sideSearchCloseDisplay: (this.state.searchFocus && (this.state.searchWhich || 'top') === 'side') ? 'flex' : 'none',
       menuShow, menuStyle, menuExpandLabel, menuExpandDisabled, menuExpandStyle,
       menuItemBtnStyle: menuBtn,
       sideMenuOpen: !!this.state.sideMenu,
       toggleSideMenu: () => this.setState((s) => ({ sideMenu: !s.sideMenu })),
+      openSideMenu: () => { clearTimeout(this._sideMenuT); if (!this.state.sideMenu) this.setState({ sideMenu: true }); },
+      keepSideMenu: () => { clearTimeout(this._sideMenuT); },
+      closeSideMenuSoon: () => { clearTimeout(this._sideMenuT); this._sideMenuT = setTimeout(() => { if (this.state.sideMenu) this.setState({ sideMenu: false }); }, 160); },
       closeSideMenu: () => this.setState({ sideMenu: false }),
       dockUndock: () => { this.setState({ fullPage: false }); this.setDock('undock'); },
       dockLeft: () => { this.setState({ fullPage: false }); this.setDock('left'); },
@@ -4583,8 +4608,8 @@ class Component extends DCLogic {
       splitHoverOff: () => { if (this.state.splitHover) this.setState({ splitHover: false }); },
       splitHighlightStyle: { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
       splitAreaStyle: { flex: '1', minHeight: 0, display: 'flex', overflow: 'hidden', flexDirection: splitFlexDir },
-      splitHandleStyle: { flex: spVert ? '0 0 0px' : '0 0 9px', cursor: spVert ? 'ns-resize' : 'ew-resize', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center' },
-      splitBarStyle: spVert ? { position: 'relative', height: '1px', width: '100%', background: '#2a2218' } : { position: 'relative', width: '1px', height: '100%', background: '#2a2218' },
+      splitHandleStyle: { flex: spVert ? '0 0 0px' : '0 0 9px', cursor: spVert ? 'ns-resize' : 'ew-resize', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#14100b' },
+      splitBarStyle: spVert ? { position: 'relative', height: '1px', width: '100%', background: '#2a2218' } : { position: 'relative', width: '1px', height: '100%', background: this.state.splitHover ? '#f4cf6a' : '#2a2218', zIndex: 20 },
       splitHighlightStyleC: spVert ? { position: 'absolute', left: 0, right: 0, top: '50%', transform: 'translateY(-50%)', height: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' } : { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
       rightHalfStyle: (splitOn && !spVert) ? { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '0 0 auto', display: 'flex', alignItems: 'center' },
       rHasSel: rPane.hasSel, rCrumbs: rPane.crumbs || [], rSelName: rPane.selName || '', rDateLine: rPane.dateLine || '',
@@ -4641,10 +4666,14 @@ class Component extends DCLogic {
           ? React.createElement('pre', { className: 'md-raw', style: { whiteSpace: 'pre-wrap', wordBreak: 'break-word', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', lineHeight: '1.6', color: '#b3a48c', margin: 0 } }, this.genMarkdown(sel))
           : React.createElement('div', { className: this.mc('math') ? 'md-body' : 'md-body kg-no-math', onClick: this.onMdClick, onContextMenu: this.onMdContext, onMouseOver: this.onMdOver, onMouseOut: this.onMdOut, dangerouslySetInnerHTML: { __html: this.mdHtml(this.genMarkdown(sel)) } }))
         : React.createElement('div', { className: 'md-body' }, React.createElement('div', { style: { color: '#6c6354', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', letterSpacing: '0.06em', padding: '6px 0', opacity: 0.85 } }, 'loading note \u2026'))) : null,
-      sideRaw: () => { this.setState((s) => ({ sideMenu: false, rawMd: !s.rawMd })); },
+      sideRaw: () => { this.setState((s) => ({ sideMenu: false, sbMenu: null, rawMd: !s.rawMd })); },
       sideRawLabel: this.state.rawMd ? '\u25a4 show rendered markdown' : '\u25a4 show raw markdown',
       mdConfigOpen: !!this.state.mdConfigOpen,
-      openMdConfig: () => this.setState({ sideMenu: false, mdConfigOpen: true }),
+      openMdConfig: () => this.setState({ sideMenu: false, sbMenu: null, mdConfigOpen: true }),
+      sbMenuOpenL: this.state.sbMenu === 'left',
+      sbMenuOpenR: this.state.sbMenu === 'right',
+      toggleSbL: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.setState((s) => ({ sbMenu: s.sbMenu === 'left' ? null : 'left' })); },
+      toggleSbR: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.setState((s) => ({ sbMenu: s.sbMenu === 'right' ? null : 'right' })); },
       closeMdConfig: () => this.setState({ mdConfigOpen: false }),
       stopProp: (e) => e.stopPropagation(),
       paletteOpen: !!this.state.paletteOpen,
