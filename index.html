@@ -1128,13 +1128,28 @@ class Component extends DCLogic {
       else this.showTip(null, e.offsetX, e.offsetY);
       return;
     }
-    // Not over a node: plain background (edges are not interactive).
-    this._edgeOther = null;
+    // Not over a node: highlight an edge connected to the anchored node, if the cursor is near one.
+    const edgeOther = this.edgeHitOther(mg);
+    if (edgeOther) {
+      if (this.hoverId !== null) { this.hoverId = null; this.setState({ hoverId: null }); }
+      if (this._edgeOther !== edgeOther.id) { this._edgeOther = edgeOther.id; this._kickGraph(); }
+      this.setGraphCursor('pointer');
+      const key = 'e:' + edgeOther.id;
+      if (this._tipKey !== key) { this._tipKey = key; this.showTip(this._edgeHintHtml(edgeOther), e.offsetX, e.offsetY); this._setupTipMarquee(); }
+      else this.showTip(null, e.offsetX, e.offsetY);
+      return;
+    }
+    if (this._edgeOther !== null) { this._edgeOther = null; this._kickGraph(); }
     if (this.hoverId !== null) { this.hoverId = null; this.setState({ hoverId: null }); }
     this._tipKey = null;
     this.setGraphCursor('grab');
     this.hideTip();
   };
+  // Tooltip shown when hovering an anchor-connected edge: the other node's title + "click to open".
+  _edgeHintHtml(n) {
+    const head = this._tipTitleHead(n.name || n.title || '');
+    return head + '<div style="display:flex;align-items:center;gap:7px;line-height:1.6;"><span style="color:#b78f3a;">\u2022</span><span>click to open</span></div>';
+  }
   // Title header for hover tooltips (matches the right-click menu style); marquees if it overflows.
   _tipTitleHead(title) {
     const safe = (title || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -1181,9 +1196,19 @@ class Component extends DCLogic {
     const pt = this.evtGraphPt(e); if (!pt) return;
     const best = this.nearestNode(pt);
     if (!best) {
-      // Empty space: panning the background — show the closed-hand cursor until release.
-      this.setGraphCursor('grabbing');
-      const up = () => { this.setGraphCursor('grab'); window.removeEventListener('mouseup', up, true); };
+      // Empty space: either click an anchor-connected edge, or pan the background.
+      const edgeOther = this.edgeHitOther(pt);
+      const sx = e.clientX, sy = e.clientY; let moved = false;
+      this.setGraphCursor(edgeOther ? 'pointer' : 'grabbing');
+      const mv = (ev) => { if (!moved && Math.abs(ev.clientX - sx) + Math.abs(ev.clientY - sy) > 7) moved = true; };
+      const up = () => {
+        this.setGraphCursor('grab');
+        window.removeEventListener('mousemove', mv, true);
+        window.removeEventListener('mouseup', up, true);
+        // A clean (non-drag) click on the edge acts as if its far node was clicked.
+        if (edgeOther && !moved) { this.hideTip(); this._edgeOther = null; this.activateNode(edgeOther); }
+      };
+      window.addEventListener('mousemove', mv, true);
       window.addEventListener('mouseup', up, true);
       return;
     }
