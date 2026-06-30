@@ -114,6 +114,13 @@
   <!-- hover tooltip -->
   <div ref="{{ setTipEl }}" style="position: absolute; z-index: 12; pointer-events: none; opacity: 0; transition: opacity .12s ease; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.06em; color: #f0c560; background: #16120c; border: 1px solid #2a2218; padding: 5px 9px; border-radius: 5px; white-space: nowrap; box-shadow: 0 8px 22px -10px rgba(0,0,0,0.85);"></div>
 
+  <sc-if value="{{ linkPeekShow }}" hint-placeholder-val="{{ false }}">
+    <div style="{{ linkPeekStyle }}">
+      <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 15px; color: #ece1cf; margin-bottom: 5px;">{{ linkPeekTitle }}</div>
+      <div style="font-family: 'JetBrains Mono', monospace; font-size: 10.5px; line-height: 1.55; color: #b3a48c;">{{ linkPeekBody }}</div>
+    </div>
+  </sc-if>
+
 
   <!-- ===== TOP BAR ===== -->
   <header ref="{{ setHeaderEl }}" style="position: absolute; top: 0; left: 0; right: 0; z-index: 60; box-sizing: border-box; min-height: 62px; display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; padding: 10px 10px 10px 17px; background: linear-gradient(180deg, rgba(15,12,9,0.96) 0%, rgba(15,12,9,0.86) 64%, rgba(15,12,9,0.66) 100%); backdrop-filter: blur(3px); border-bottom: 1px solid #2a2218;">
@@ -396,7 +403,7 @@
               <sc-if value="{{ showBackPop }}" hint-placeholder-val="{{ false }}">
                 <div onMouseEnter="{{ popKeep }}" onMouseLeave="{{ popLeave }}" style="{{ popStyle }}">
                   <sc-for list="{{ backList }}" as="it" hint-placeholder-count="2">
-                    <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" onMouseEnter="{{ it.onHover }}" onMouseLeave="{{ it.onLeave }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
+                    <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" onMouseEnter="{{ it.onHover }}" onMouseLeave="{{ it.onLeave }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: block;">{{ it.label }}</span><sc-if value="{{ it.snip }}" hint-placeholder-val="{{ false }}"><span style="display: block; margin-top: 3px; font-size: 9.5px; line-height: 1.45; color: #6c6354; white-space: normal;">{{ it.snip }}</span></sc-if></button>
                   </sc-for>
                 </div>
               </sc-if>
@@ -1194,6 +1201,29 @@ class Component extends DCLogic {
       html = html.replace(re, '<mark style="background:rgba(216,169,66,0.30); color:#f4cf6a; border-radius:2px; padding:0 1px;">$1</mark>');
     }
     return html;
+  }
+  // Strip markdown/wikilink syntax to readable plaintext (for peek previews + backlink snippets).
+  _plain(md) {
+    return String(md || '')
+      .replace(/```[\s\S]*?```/g, ' ')
+      .replace(/!\[\[[^\]]*\]\]/g, ' ')
+      .replace(/\[\[([^\]|#]+)(?:[#|][^\]]*)?\]\]/g, '$1')
+      .replace(/!?\[([^\]]*)\]\([^)]*\)/g, '$1')
+      .replace(/^[>#\-*\s]+/gm, ' ')
+      .replace(/[`*_~]/g, '')
+      .replace(/\s+/g, ' ').trim();
+  }
+  _backSnippet(backNode, targetTitle) {
+    if (!backNode) return null;
+    if (!backNode._bodyLoaded) { this.ensureBody(backNode.id); return null; }
+    const plain = this._plain(backNode.body);
+    const low = plain.toLowerCase(), at = low.indexOf(String(targetTitle || '').toLowerCase());
+    if (at < 0) return plain.slice(0, 120) + (plain.length > 120 ? '\u2026' : '');
+    const start = Math.max(0, at - 50);
+    let s = plain.slice(start, start + 150);
+    if (start > 0) s = '\u2026' + s;
+    if (start + 150 < plain.length) s = s + '\u2026';
+    return s;
   }
 
   // ---- On-demand note bodies (split out of garden-data.js) ----------------
@@ -3015,11 +3045,18 @@ class Component extends DCLogic {
     if (this.isVisibleId(id)) {
       if (this.hoverId !== id) { this.hoverId = id; }
     }
+    if (this.nodeById && this.nodeById[id]) {
+      const r = a.getBoundingClientRect();
+      clearTimeout(this._peekTimer);
+      this._peekTimer = setTimeout(() => { this.ensureBody(id); this.setState({ linkPeek: { id: id, x: r.left, y: r.bottom } }); }, 320);
+    }
   };
   onMdOut = (e) => {
     const a = e.target && e.target.closest ? e.target.closest('.wikilink') : null;
     if (!a) return;
     if (this.hoverId != null) { this.hoverId = null; }
+    clearTimeout(this._peekTimer);
+    if (this.state.linkPeek) this.setState({ linkPeek: null });
   };
 
   toggleFull = () => {
@@ -3577,6 +3614,7 @@ class Component extends DCLogic {
       if (!arr.length) return [{ label: '\u2014 none \u2014', onClick: () => {}, onHover: () => {}, onLeave: () => {}, style: Object.assign({}, popItem, { color: '#5f574a', cursor: 'default' }) }];
       return arr.map((nn) => ({
         label: nn.title,
+        snip: opts.snippetFor ? this._backSnippet(nn, opts.snippetFor) : null,
         onClick: () => { this.setState({ [opts.popKey]: null }); opts.nav(nn.id); },
         onHover: opts.hover ? () => { this.hoverId = nn.id; } : () => {},
         onLeave: opts.hover ? () => { this.hoverId = null; } : () => {},
@@ -3584,9 +3622,9 @@ class Component extends DCLogic {
         style: popItem,
       }));
     };
-    const mkPopList = (ids) => makePopList(ids, { popKey: 'metaPop', nav: (id) => this.navigateTo(id), hover: true });
+    const mkPopList = (ids, snipTitle) => makePopList(ids, { popKey: 'metaPop', nav: (id) => this.navigateTo(id), hover: true, snippetFor: snipTitle || null });
     const linkedList = sel ? mkPopList((sel.links || []).filter((id) => this.nodeById[id])) : [];
-    const backList = sel ? mkPopList(this.incoming[sel.id] || []) : [];
+    const backList = sel ? mkPopList(this.incoming[sel.id] || [], this.state.metaPop === 'backlinks' ? sel.title : null) : [];
     const childList = sel ? mkPopList((sel.children || []).map((c) => c.id)) : [];
 
     // Build the full per-pane value set (crumbs, meta lists, title, body) for ANY node, so the
@@ -4115,6 +4153,10 @@ class Component extends DCLogic {
       tags: sel ? (sel.tags || []) : [],
       outCount, inCount,
       popStyle, linkedList, backList, childList,
+      linkPeekShow: !!(this.state.linkPeek && this.nodeById && this.nodeById[this.state.linkPeek.id]),
+      linkPeekTitle: (this.state.linkPeek && this.nodeById && this.nodeById[this.state.linkPeek.id]) ? this.nodeById[this.state.linkPeek.id].name : '',
+      linkPeekBody: (function(self){ const lp = self.state.linkPeek; const n = lp && self.nodeById ? self.nodeById[lp.id] : null; if (!n) return ''; if (!n._bodyLoaded) return 'loading \u2026'; const p = self._plain(n.body); return p ? (p.slice(0, 240) + (p.length > 240 ? '\u2026' : '')) : '(no preview)'; })(this),
+      linkPeekStyle: this.state.linkPeek ? { position: 'fixed', top: Math.min(this.state.linkPeek.y + 8, winH - 150) + 'px', left: Math.min(this.state.linkPeek.x, winW - 300) + 'px', width: '280px', maxHeight: '150px', overflow: 'hidden', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '11px 13px', boxShadow: '0 18px 40px -16px rgba(0,0,0,0.85)', zIndex: 80, pointerEvents: 'none' } : { display: 'none' },
       showLinkedPop: this.state.metaPop === 'linked',
       showBackPop: this.state.metaPop === 'backlinks',
       showChildPop: this.state.metaPop === 'children',
