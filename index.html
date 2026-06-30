@@ -256,14 +256,14 @@
       </div>
     </sc-if>
     <div style="flex-shrink: 0; background: rgba(16,13,9,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); z-index: 20;">
-      <div onMouseDown="{{ onToolbarDown }}" style="max-width: 100%; margin: 0 auto; width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 0; padding: 4px 0; cursor: {{ toolbarCursor }};">
+      <div onMouseDown="{{ onToolbarDown }}" onContextMenu="{{ openBarMenu }}" style="max-width: 100%; margin: 0 auto; width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 0; padding: 4px 0; cursor: {{ toolbarCursor }};">
         <div title="Drag to move / undock the panel" style="flex: 0 0 auto; width: 28px; height: 28px; display: {{ gripDisplay }}; align-items: center; justify-content: center; cursor: grab; color: #6c6354; transition: color .15s;" style-hover="color: #d8a942;">
           <svg width="11" height="16" viewBox="0 0 11 16" fill="currentColor" aria-hidden="true"><circle cx="2.5" cy="3" r="1.4"></circle><circle cx="8.5" cy="3" r="1.4"></circle><circle cx="2.5" cy="8" r="1.4"></circle><circle cx="8.5" cy="8" r="1.4"></circle><circle cx="2.5" cy="13" r="1.4"></circle><circle cx="8.5" cy="13" r="1.4"></circle></svg>
         </div>
         <div style="{{ leftTabsWrapStyle }}">
-          <sc-if value="{{ showTabs }}" hint-placeholder-val="{{ false }}">
-            <div data-tabstrip="left" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
-              <sc-for list="{{ tabItems }}" as="t" hint-placeholder-count="2">
+          <sc-if value="{{ showToolbarTabs }}" hint-placeholder-val="{{ false }}">
+            <div data-tabstrip="{{ tbSide }}" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
+              <sc-for list="{{ tbTabItems }}" as="t" hint-placeholder-count="2">
                 <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
                   <span style="{{ t.dotStyle }}"></span>
                   <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
@@ -271,18 +271,18 @@
                   <span style="{{ t.sepStyle }}"></span>
                 </div>
               </sc-for>
-              <button type="button" onClick="{{ addTabLeft }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, transform .15s;" style-hover="color: #f4cf6a; transform: scale(1.2);">+</button>
+              <button type="button" onClick="{{ tbAddTab }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, transform .15s;" style-hover="color: #f4cf6a; transform: scale(1.2);">+</button>
             </div>
           </sc-if>
         </div>
-        <sc-if value="{{ splitOn }}" hint-placeholder-val="{{ false }}">
+        <sc-if value="{{ splitToolbar }}" hint-placeholder-val="{{ false }}">
           <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="flex: 0 0 9px; align-self: stretch; margin: -4px 0; cursor: ew-resize; position: relative; display: flex; align-items: center; justify-content: center;">
             <div style="{{ splitHighlightStyle }}"></div>
             <div style="position: relative; width: 1px; height: 100%; background: #2a2218;"></div>
           </div>
         </sc-if>
         <div style="{{ rightHalfStyle }}">
-          <sc-if value="{{ splitOn }}" hint-placeholder-val="{{ false }}">
+          <sc-if value="{{ splitToolbar }}" hint-placeholder-val="{{ false }}">
             <div data-tabstrip="right" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
               <sc-for list="{{ tabItemsR }}" as="t" hint-placeholder-count="1">
                 <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
@@ -321,8 +321,23 @@
         </div>
       </div>
     </div>
-    <div style="flex: 1; min-height: 0; display: flex; overflow: hidden;">
+    <div id="kg-splitarea" style="{{ splitAreaStyle }}">
     <div style="{{ leftPaneStyle }}">
+    <sc-if value="{{ primaryInPane }}" hint-placeholder-val="{{ false }}">
+      <div onMouseLeave="{{ releaseTabLock }}" onContextMenu="{{ openBarMenu }}" style="flex-shrink: 0; display: flex; align-items: center; padding: 5px; border-bottom: 1px solid rgba(42,34,24,0.55); background: rgba(16,13,9,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);">
+        <div data-tabstrip="left" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
+          <sc-for list="{{ tabItems }}" as="t" hint-placeholder-count="2">
+            <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
+              <span style="{{ t.dotStyle }}"></span>
+              <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
+              <button type="button" onClick="{{ t.onClose }}" onMouseEnter="{{ t.onCloseEnter }}" onMouseLeave="{{ t.onCloseLeave }}" title="Close tab" style="{{ t.closeStyle }}">✕</button>
+              <span style="{{ t.sepStyle }}"></span>
+            </div>
+          </sc-for>
+          <button type="button" onClick="{{ addTabLeft }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, transform .15s;" style-hover="color: #f4cf6a; transform: scale(1.2);">+</button>
+        </div>
+      </div>
+    </sc-if>
     <div id="kg-sidebar-scroll" class="gx-scroll" style="flex: 1; min-height: 0; overflow-y: auto; scrollbar-gutter: stable; padding: 0 17px 40px 26px; margin: {{ scrollMargin }};">
       <div style="max-width: {{ contentMax }}; margin: 0 auto; width: 100%;">
       <sc-if value="{{ hasSel }}" hint-placeholder-val="{{ false }}">
@@ -389,11 +404,26 @@
     </div>
     </div>
     <sc-if value="{{ splitOn }}" hint-placeholder-val="{{ false }}">
-      <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="flex: 0 0 9px; cursor: ew-resize; position: relative; display: flex; align-items: center; justify-content: center;">
-        <div style="{{ splitHighlightStyle }}"></div>
-        <div style="position: relative; width: 1px; height: 100%; background: #2a2218;"></div>
+      <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="{{ splitHandleStyle }}">
+        <div style="{{ splitHighlightStyleC }}"></div>
+        <div style="{{ splitBarStyle }}"></div>
       </div>
       <div style="flex: 1 1 0; min-width: 0; display: flex; flex-direction: column; min-height: 0;">
+        <sc-if value="{{ secondaryInPane }}" hint-placeholder-val="{{ false }}">
+          <div onMouseLeave="{{ releaseTabLock }}" onContextMenu="{{ openBarMenu }}" style="flex-shrink: 0; display: flex; align-items: center; padding: 5px; border-bottom: 1px solid rgba(42,34,24,0.55); background: rgba(16,13,9,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);">
+            <div data-tabstrip="right" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
+              <sc-for list="{{ tabItemsR }}" as="t" hint-placeholder-count="1">
+                <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
+                  <span style="{{ t.dotStyle }}"></span>
+                  <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
+                  <button type="button" onClick="{{ t.onClose }}" onMouseEnter="{{ t.onCloseEnter }}" onMouseLeave="{{ t.onCloseLeave }}" title="Close tab" style="{{ t.closeStyle }}">✕</button>
+                  <span style="{{ t.sepStyle }}"></span>
+                </div>
+              </sc-for>
+              <button type="button" onClick="{{ addTabRight }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, transform .15s;" style-hover="color: #f4cf6a; transform: scale(1.2);">+</button>
+            </div>
+          </div>
+        </sc-if>
         <div id="kg-sidebar-scroll-r" class="gx-scroll" style="flex: 1; min-height: 0; overflow-y: auto; scrollbar-gutter: stable; padding: 0 17px 40px 26px; margin: 3px 3px 3px 0;">
           <div style="max-width: 100%; margin: 0 auto; width: 100%;">
           <sc-if value="{{ rHasSel }}" hint-placeholder-val="{{ false }}">
@@ -455,8 +485,28 @@
     <div data-tabmenu="1" style="{{ tabMenuStyle }}">
       <div style="min-width: 196px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
         <button type="button" onClick="{{ tabMenuDup }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⧉ duplicate tab</button>
-        <button type="button" onClick="{{ tabMenuSplit }}" disabled="{{ tabMenuSplitDisabled }}" style="{{ tabMenuSplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ tabMenuSplitLabel }}</button>
         <button type="button" onClick="{{ tabMenuCloseOthers }}" disabled="{{ tabMenuCloseOthersDisabled }}" style="{{ tabMenuCloseOthersStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✕ close other tabs</button>
+        <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
+        <button type="button" onClick="{{ subMoveRight }}" disabled="{{ tabMenuSplitDisabled }}" style="{{ tabMenuSplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">→ split and move right</button>
+        <div onMouseEnter="{{ splitSubOn }}" onMouseLeave="{{ splitSubOff }}" style="position: relative;">
+          <button type="button" disabled="{{ tabMenuSplitDisabled }}" style="{{ tabMenuSplitTriggerStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>◫ split and move</span><span>▸</span></button>
+          <sc-if value="{{ splitSubShow }}" hint-placeholder-val="{{ false }}">
+            <div style="{{ splitSubStyle }}">
+              <button type="button" onClick="{{ subMoveUp }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">↑ split and move up</button>
+              <button type="button" onClick="{{ subMoveDown }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">↓ split and move down</button>
+              <button type="button" onClick="{{ subMoveLeft }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">← split and move left</button>
+              <button type="button" onClick="{{ subMoveRight }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">→ split and move right</button>
+            </div>
+          </sc-if>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ barMenuShow }}" hint-placeholder-val="{{ false }}">
+    <div data-barmenu="1" style="{{ barMenuStyle }}">
+      <div style="min-width: 188px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
+        <button type="button" onClick="{{ barUnsplit }}" disabled="{{ barUnsplitDisabled }}" style="{{ barUnsplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊟ unsplit panels</button>
       </div>
     </div>
   </sc-if>
@@ -520,7 +570,7 @@
   &quot;edgeFlow&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot; }
 }">
 class Component extends DCLogic {
-  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, metaPopR: null, splitRatio: 0.5, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'category'; } catch(e){ return 'category'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
+  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'category'; } catch(e){ return 'category'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
 
   MD_CONFIG = [
     { key: 'math', label: 'LaTeX math ($…$)', ex: 'Mass–energy: $E = mc^2$' },
@@ -1746,6 +1796,7 @@ class Component extends DCLogic {
     const leftStrip = aside.querySelector('[data-tabstrip="left"]');
     const rightStrip = aside.querySelector('[data-tabstrip="right"]');
     const strips = { left: leftStrip, right: rightStrip };
+    const splitVert = (function(p){ return p === 'up' || p === 'down'; })(this.state.splitPos);
     const leftItems = leftStrip ? [...leftStrip.children] : [];
     const rightItems = rightStrip ? [...rightStrip.children] : [];
     const allItems = leftItems.concat(rightItems);
@@ -1757,8 +1808,20 @@ class Component extends DCLogic {
     document.body.style.userSelect = 'none';
     const prevOverflow = {};
     Object.keys(strips).forEach((k) => { if (strips[k]) { prevOverflow[k] = strips[k].style.overflow; strips[k].style.overflow = 'visible'; } });
+    // Let the lifted tab float out of the bottom pane and over the top toolbar (vertical split):
+    // clear the split area's clip and lift the tab above the toolbar's stacking layer.
+    const splitArea = document.getElementById('kg-splitarea');
+    const prevSplitOverflow = splitArea ? splitArea.style.overflow : null;
+    if (splitArea) splitArea.style.overflow = 'visible';
+    // The in-pane strip's backdrop-filter makes its wrapper a stacking context that would otherwise
+    // trap the tab beneath the toolbar (z-index:20). Lift ONLY the source strip's wrapper above the
+    // toolbar so the grabbed tab floats over everything — including the destination strip — whichever
+    // direction it travels. (Lifting the destination too would let it cover a tab dragged from the top.)
+    const srcWrap = strips[side] ? strips[side].parentElement : null;
+    const prevSrcWrapZ = srcWrap ? srcWrap.style.zIndex : null;
+    if (srcWrap) srcWrap.style.zIndex = '60';
     dragEl.style.transition = 'none';
-    dragEl.style.zIndex = '8';
+    dragEl.style.zIndex = '60';
     dragEl.style.cursor = 'grabbing';
     dragEl.style.opacity = '0.92';
     // Slide the *other* tabs aside to preview where the grabbed tab will land.
@@ -1769,15 +1832,34 @@ class Component extends DCLogic {
       const dx = ev.clientX - startX, dy = ev.clientY - startY;
       if (Math.abs(dx) > 4 || Math.abs(dy) > 4) moved = true;
       dragEl.style.transform = 'translate(' + dx + 'px,' + dy + 'px)';
-      // Which pane is the pointer over? (only 'left' exists when not split)
-      let tSide = 'left';
-      if (rightStrip) { const rr = rightStrip.getBoundingClientRect(); tSide = (ev.clientX >= rr.left) ? 'right' : 'left'; }
-      const tItems = (tSide === 'left' ? leftItems : rightItems).filter((el) => el !== dragEl);
-      let idx = 0;
-      tItems.forEach((el) => { const r = rectOf.get(el); if (ev.clientX > r.left + r.width / 2) idx++; });
-      target = { side: tSide, idx };
+      // Which strip is the pointer over? You count as "over" a strip only while the cursor is within
+      // its toolbar band — drift into the pane body and you're over nothing, so nothing rearranges.
+      // Vertical splits stack the strips (discriminate by Y; X stays free to reach either end);
+      // horizontal splits sit them side by side (discriminate by X, but Y must be in the toolbar row).
       const shiftW = w + gap;
-      if (tSide === side) {
+      let tSide = null;
+      if (splitVert && leftStrip && rightStrip) {
+        const inBand = (strip) => { const r = strip.getBoundingClientRect(); return ev.clientY >= r.top - 8 && ev.clientY <= r.bottom + 8; };
+        if (inBand(strips[side])) tSide = side;
+        else { const o = side === 'left' ? 'right' : 'left'; if (strips[o] && inBand(strips[o])) tSide = o; }
+      } else {
+        const ref = strips[side] || leftStrip || rightStrip;
+        const r = ref ? ref.getBoundingClientRect() : null;
+        const inY = r ? (ev.clientY >= r.top - 14 && ev.clientY <= r.bottom + 14) : false;
+        if (inY) {
+          if (rightStrip) { const rr = rightStrip.getBoundingClientRect(); tSide = (ev.clientX >= rr.left) ? 'right' : 'left'; }
+          else tSide = side;
+        }
+      }
+      const otherSide = side === 'left' ? 'right' : 'left';
+      const closeSrc = () => srcItems.forEach((el) => { if (el !== dragEl) el.style.transform = 'translateX(' + (srcItems.indexOf(el) > srcSlot ? -shiftW : 0) + 'px)'; });
+      const clearStrip = (s) => { (s === 'left' ? leftItems : rightItems).forEach((el) => { if (el !== dragEl) el.style.transform = ''; }); };
+      if (tSide === null) {
+        // Floating over the pane body: nothing rearranges; the source just reads the tab as removed.
+        closeSrc();
+        clearStrip(otherSide);
+        target = { side: side, idx: srcSlot };
+      } else if (tSide === side) {
         // Reorder within the same strip: neighbours the cursor passes slide aside to open a gap.
         const center = ev.clientX;
         srcItems.forEach((el) => {
@@ -1789,14 +1871,20 @@ class Component extends DCLogic {
           else if (slot < srcSlot && center < c) shift = shiftW;
           el.style.transform = 'translateX(' + shift + 'px)';
         });
+        clearStrip(otherSide);
+        let idx = 0;
+        srcItems.forEach((el) => { if (el !== dragEl) { const r = rectOf.get(el); if (ev.clientX > r.left + r.width / 2) idx++; } });
+        target = { side: side, idx };
       } else {
-        // Cross-pane: source strip closes the gap behind the lifted tab; target opens one at idx.
-        srcItems.forEach((el) => {
-          if (el === dragEl) return;
-          el.style.transform = 'translateX(' + (srcItems.indexOf(el) > srcSlot ? -shiftW : 0) + 'px)';
-        });
+        // Over the OTHER toolbar: the source closes its gap (tab reads as removed) and the destination
+        // opens a gap where the tab would land — animating the arrangement as if it were dropped there.
+        const tItems = (tSide === 'left' ? leftItems : rightItems).filter((el) => el !== dragEl);
+        let idx = 0;
+        tItems.forEach((el) => { const r = rectOf.get(el); if (ev.clientX > r.left + r.width / 2) idx++; });
+        closeSrc();
         let ns = 0;
         tItems.forEach((el) => { el.style.transform = 'translateX(' + (ns >= idx ? shiftW : 0) + 'px)'; ns++; });
+        target = { side: tSide, idx };
       }
     };
     const cleanup = () => {
@@ -1805,6 +1893,8 @@ class Component extends DCLogic {
       // so it won't re-apply them after we mutate the DOM directly (would lose position:relative).
       dragEl.style.zIndex = ''; dragEl.style.cursor = (side === 'right' ? 'pointer' : 'grab'); dragEl.style.opacity = '';
       Object.keys(strips).forEach((k) => { if (strips[k]) strips[k].style.overflow = prevOverflow[k] || ''; });
+      if (splitArea) splitArea.style.overflow = prevSplitOverflow || '';
+      if (srcWrap) srcWrap.style.zIndex = prevSrcWrapZ || '';
       document.body.style.userSelect = '';
     };
     const up = () => {
@@ -1853,9 +1943,25 @@ class Component extends DCLogic {
   // ---- Tab right-click menu + split pane (VS Code style) ----
   openTabMenu = (key, side) => (e) => {
     e.preventDefault(); e.stopPropagation();
-    this.setState({ tabMenu: { key, side, x: e.clientX, y: e.clientY } });
+    this.setState({ tabMenu: { key, side, x: e.clientX, y: e.clientY }, splitSubOpen: false });
   };
-  closeTabMenu = () => { if (this.state.tabMenu) this.setState({ tabMenu: null }); };
+  closeTabMenu = () => { if (this.state.tabMenu || this.state.splitSubOpen) this.setState({ tabMenu: null, splitSubOpen: false }); };
+  // Right-click the sidebar toolbar (away from a tab) → a small menu offering to unsplit.
+  openBarMenu = (e) => {
+    if (e.target && e.target.closest && (e.target.closest('[data-tab-item]') || e.target.closest('[data-sidemenu]'))) return;
+    e.preventDefault(); e.stopPropagation();
+    this.setState({ barMenu: { x: e.clientX, y: e.clientY }, tabMenu: null, splitSubOpen: false });
+  };
+  // Collapse a split back to a single pane: fold every secondary tab into the primary group.
+  unsplitPanels = () => {
+    let tabs = (this.state.tabs || []).slice();
+    const tabsR = (this.state.tabsR || []).slice();
+    if (tabsR.length === 0) { this.setState({ barMenu: null }); return; }
+    tabsR.forEach((k) => { if (tabs.indexOf(k) < 0) tabs.push(k); });
+    const act = this.state.selectedKey || tabs[0];
+    this.setState({ barMenu: null, tabs, tabsR: [], selectedKeyR: null, selectedIdR: null });
+    if (act) this.openTab(act);
+  };
   // Right-click menu for any node link (meta-row lists, breadcrumbs, in-body wikilinks).
   openLinkMenu = (id, side) => (e) => {
     if (!id || !this.nodeById || !this.nodeById[id]) return;
@@ -1888,17 +1994,24 @@ class Component extends DCLogic {
       this.focusNodeGraph(id); this._switchingTab = false;
     }
   };
-  // Move a tab out of the left group into a second reading pane on the right.
-  splitMoveRight = (key) => {
+  // Move a tab into the secondary reading pane and place that pane at `pos`
+  // (right | left | up | down). The data model stays primary(tabs) + secondary(tabsR);
+  // `splitPos` only controls how the two panes are arranged on screen.
+  splitMove = (key, pos) => {
+    pos = ['right','left','up','down'].indexOf(pos) >= 0 ? pos : 'right';
     let tabs = (this.state.tabs || []).slice();
     let tabsR = (this.state.tabsR || []).slice();
     const li = tabs.indexOf(key);
+    const ri = tabsR.indexOf(key);
     if (li >= 0) tabs.splice(li, 1);
-    if (!tabsR.includes(key)) tabsR.push(key);
+    if (ri < 0) tabsR.push(key);
+    const vert = (pos === 'up' || pos === 'down');
     const savedR = (() => { try { const v = parseFloat(sessionStorage.getItem('kg-split-ratio')); return (v >= 0.2 && v <= 0.8) ? v : 0.5; } catch (e) { return 0.5; } })();
-    const patch = { tabMenu: null, tabsR, selectedKeyR: key, selectedIdR: this.nodeOf(key), splitRatio: savedR };
+    const ratio = vert ? 0.5 : savedR;   // vertical (up/down) splits start at equal height
+    try { sessionStorage.setItem('kg-split-pos', pos); } catch (e) {}
+    const patch = { tabMenu: null, splitSubOpen: false, tabsR, selectedKeyR: key, selectedIdR: this.nodeOf(key), splitRatio: ratio, splitPos: pos };
     if (tabs.length === 0) {
-      // Left group emptied → collapse the split back to a single group on the (former) right.
+      // Left group emptied → collapse the split back to a single group.
       patch.tabs = tabsR; patch.tabsR = []; patch.selectedKeyR = null; patch.selectedIdR = null;
       this.setState(patch);
       this.openTab(key);
@@ -1906,7 +2019,7 @@ class Component extends DCLogic {
     }
     patch.tabs = tabs;
     if (this.state.selectedKey === key) {
-      const nextKey = tabs[Math.min(li, tabs.length - 1)];
+      const nextKey = tabs[Math.min(Math.max(li, 0), tabs.length - 1)];
       this.setState(patch);
       this.openTab(nextKey);
     } else {
@@ -1914,6 +2027,7 @@ class Component extends DCLogic {
     }
     this.ensureBody(this.nodeOf(key));
   };
+  splitMoveRight = (key) => this.splitMove(key, 'right');
   // Move a right-section tab back into the left section as its last tab (collapses the split if the
   // right section empties).
   moveTabLeft = (key) => {
@@ -2679,6 +2793,7 @@ class Component extends DCLogic {
     if (this.state.recentOpen && !(el && el.closest && el.closest('[data-recent]'))) this.setState({ recentOpen: false });
     if (this.state.menuOpen && !(el && el.closest && el.closest('[data-controlsmenu]'))) this.setState({ menuOpen: false });
     if (this.state.tabMenu && !(el && el.closest && el.closest('[data-tabmenu]'))) this.setState({ tabMenu: null });
+    if (this.state.barMenu && !(el && el.closest && el.closest('[data-barmenu]'))) this.setState({ barMenu: null });
     if (this.state.linkMenu && !(el && el.closest && el.closest('[data-linkmenu]'))) this.setState({ linkMenu: null });
     // Click anywhere outside the open node context menu closes it (right-click that opens a
     // new menu re-sets menuNodeId immediately afterwards, so this doesn't fight it).
@@ -2716,12 +2831,17 @@ class Component extends DCLogic {
   // Drag the divider between the two split panes to change their width ratio.
   startSplitResize = (e) => {
     e.preventDefault(); e.stopPropagation();
-    const row = e.currentTarget.parentElement;
-    if (!row) return;
-    const rect = row.getBoundingClientRect();
+    const area = document.getElementById('kg-splitarea');
+    if (!area) return;
+    const pos = this.state.splitPos || 'right';
+    const vert = (pos === 'up' || pos === 'down');
+    const rev = (pos === 'left' || pos === 'up');
+    const rect = area.getBoundingClientRect();
     document.body.style.userSelect = 'none';
     const move = (ev) => {
-      let r = (ev.clientX - rect.left) / rect.width;
+      let r;
+      if (vert) r = rev ? (rect.bottom - ev.clientY) / rect.height : (ev.clientY - rect.top) / rect.height;
+      else r = rev ? (rect.right - ev.clientX) / rect.width : (ev.clientX - rect.left) / rect.width;
       r = Math.max(0.2, Math.min(0.8, r));
       this.setState({ splitRatio: r });
     };
@@ -2729,6 +2849,7 @@ class Component extends DCLogic {
     window.addEventListener('mousemove', move); window.addEventListener('mouseup', up); document.addEventListener('mouseleave', up); window.addEventListener('blur', up);
   };
   startUndockDrag = (e) => {
+    if (e.button !== 0) return;                                                        // ignore right/middle click (right-click opens the toolbar menu)
     if (e.target && e.target.closest && e.target.closest('button')) return;
     if (e.target && e.target.closest && e.target.closest('[data-tab-item]')) return;   // dragging a tab, not the panel
     e.preventDefault();
@@ -2765,7 +2886,7 @@ class Component extends DCLogic {
     };
     const place = (x, y) => {
       const nl = Math.max(0, Math.min(winW - floatW, x - grabOffX));
-      const nt = Math.max(hh - 4, Math.min(winH - 60, y - Math.min(grabOffY, 30)));
+      const nt = Math.max(hh - 4, Math.min(winH - 60, y - Math.min(grabOffY, Math.max(20, floatH - 24))));
       return { undockLeft: Math.round(nl), undockTop: Math.round(nt) };
     };
     const move = (ev) => {
@@ -3254,8 +3375,27 @@ class Component extends DCLogic {
 
     // Tab right-click menu
     const tm = this.state.tabMenu;
+    const bm = this.state.barMenu;
     const tabMenuShow = !!tm;
     const tabMenuStyle = tm ? { position: 'fixed', top: Math.min(tm.y, winH - 70) + 'px', left: Math.min(tm.x, winW - 220) + 'px', zIndex: 70 } : { display: 'none' };
+    // Split orientation derived from splitPos: which side the secondary pane sits on.
+    const sp = ['right','left','up','down'].indexOf(this.state.splitPos) >= 0 ? this.state.splitPos : 'right';
+    const spVert = (sp === 'up' || sp === 'down');
+    const spRev = (sp === 'left' || sp === 'up');
+    const splitFlexDir = spVert ? (spRev ? 'column-reverse' : 'column') : (spRev ? 'row-reverse' : 'row');
+    const splitDisabled = tm ? (((this.state.tabsR || []).length === 0) && ((this.state.tabs || []).length <= 1)) : true;
+    // In a vertical (up/down) split the TOP pane's tabs stay in the shared toolbar
+    // (exactly as if unsplit); only the BOTTOM pane gets its own in-pane tab row.
+    // 'up' is column-reverse → secondary pane on top, primary pane on the bottom;
+    // 'down' → primary on top, secondary on the bottom.
+    const vertSplit = splitOn && spVert;
+    const showToolbarTabs = showTabs;
+    const splitToolbar = splitOn && !spVert;
+    const primaryInPane = vertSplit && spRev;      // up → primary pane is the bottom one
+    const secondaryInPane = vertSplit && !spRev;   // down → secondary pane is the bottom one
+    const tbTabItems = (vertSplit && spRev) ? tabItemsR : tabItems;
+    const tbSide = (vertSplit && spRev) ? 'right' : 'left';
+    const tbAddTab = (vertSplit && spRev) ? (() => this.addRootTab('right')) : (() => this.addRootTab('left'));
 
     return {
       tabItemsR, splitOn, rightBody,
@@ -3266,10 +3406,25 @@ class Component extends DCLogic {
       tabMenuSplitLabel: !tm ? '' : (((this.state.tabsR || []).length > 0) ? (tm.side === 'right' ? '\u2190 move left' : '\u2192 move right') : '\u25EB split and move right'),
       tabMenuSplitDisabled: tm ? (((this.state.tabsR || []).length === 0) && ((this.state.tabs || []).length <= 1)) : true,
       tabMenuSplitStyle: Object.assign({}, menuBtn, (tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
+      tabMenuSplitTriggerStyle: Object.assign({}, menuBtn, { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }, (tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
+      splitSubStyle: Object.assign({ position: 'absolute', top: '-5px', minWidth: '184px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '7px', padding: '5px', boxShadow: '0 14px 30px -14px rgba(0,0,0,0.8)', fontFamily: "'JetBrains Mono', monospace", zIndex: 80 }, (tm && (Math.min(tm.x, winW - 220) + 388 > winW)) ? { right: '100%', marginRight: '0px' } : { left: '100%', marginLeft: '0px' }),
       tabMenuDup: tm ? () => this.duplicateTab(tm.key, tm.side) : () => {},
       tabMenuCloseOthers: tm ? () => this.closeOtherTabs(tm.key, tm.side) : () => {},
       tabMenuCloseOthersDisabled: tm ? ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) <= 1) : true,
       tabMenuCloseOthersStyle: Object.assign({}, menuBtn, (tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
+      splitSubOn: () => { clearTimeout(this._splitSubT); if (!this.state.splitSubOpen) this.setState({ splitSubOpen: true }); },
+      splitSubOff: () => { clearTimeout(this._splitSubT); this._splitSubT = setTimeout(() => { if (this.state.splitSubOpen) this.setState({ splitSubOpen: false }); }, 260); },
+      splitSubShow: !!this.state.splitSubOpen && !splitDisabled,
+      subMoveUp: tm ? () => this.splitMove(tm.key, 'up') : () => {},
+      subMoveDown: tm ? () => this.splitMove(tm.key, 'down') : () => {},
+      subMoveLeft: tm ? () => this.splitMove(tm.key, 'left') : () => {},
+      subMoveRight: tm ? () => this.splitMove(tm.key, 'right') : () => {},
+      openBarMenu: this.openBarMenu,
+      barMenuShow: !!bm,
+      barMenuStyle: bm ? { position: 'fixed', top: Math.min(bm.y, winH - 60) + 'px', left: Math.min(bm.x, winW - 210) + 'px', zIndex: 70 } : { display: 'none' },
+      barUnsplit: () => this.unsplitPanels(),
+      barUnsplitDisabled: !splitOn,
+      barUnsplitStyle: Object.assign({}, menuBtn, splitOn ? null : { color: '#4a4337', cursor: 'default' }),
       setGraphEl: this.setGraphEl,
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
@@ -3433,14 +3588,18 @@ class Component extends DCLogic {
       menuRootLabel: (mNode && mNode.id === this.actingRoot && mNode.id !== this.rootId) ? '\u21ba unmake acting root' : '\u2693 make acting root',
       menuRoot: mNode ? () => ((mNode.id === this.actingRoot && mNode.id !== this.rootId) ? this.menuUnmake() : this.menuMakeRoot(mNode.id)) : () => {},
       menuNewTab: mNode ? () => this.openInNewTab(mNode.id) : () => {},
-      showTabs, tabItems,
-      leftTabsWrapStyle: splitOn ? { flex: '0 0 calc(' + Math.round((this.state.splitRatio || 0.5) * 100) + '% - 28px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
+      showTabs, showToolbarTabs, splitToolbar, vertSplit, primaryInPane, secondaryInPane, tbTabItems, tbSide, tbAddTab, tabItems,
+      leftTabsWrapStyle: (splitOn && !spVert) ? { flex: '0 0 calc(' + Math.round((spRev ? (1 - (this.state.splitRatio || 0.5)) : (this.state.splitRatio || 0.5)) * 100) + '% - ' + (spRev ? 37 : 28) + 'px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
       leftPaneStyle: splitOn ? { flex: '0 0 ' + Math.round((this.state.splitRatio || 0.5) * 100) + '%', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 } : { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 },
       startSplitResize: this.startSplitResize,
       splitHoverOn: () => { if (!this.state.splitHover) this.setState({ splitHover: true }); },
       splitHoverOff: () => { if (this.state.splitHover) this.setState({ splitHover: false }); },
       splitHighlightStyle: { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
-      rightHalfStyle: splitOn ? { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '0 0 auto', display: 'flex', alignItems: 'center' },
+      splitAreaStyle: { flex: '1', minHeight: 0, display: 'flex', overflow: 'hidden', flexDirection: splitFlexDir },
+      splitHandleStyle: { flex: spVert ? '0 0 0px' : '0 0 9px', cursor: spVert ? 'ns-resize' : 'ew-resize', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center' },
+      splitBarStyle: spVert ? { position: 'relative', height: '1px', width: '100%', background: '#2a2218' } : { position: 'relative', width: '1px', height: '100%', background: '#2a2218' },
+      splitHighlightStyleC: spVert ? { position: 'absolute', left: 0, right: 0, top: '50%', transform: 'translateY(-50%)', height: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' } : { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
+      rightHalfStyle: (splitOn && !spVert) ? { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '0 0 auto', display: 'flex', alignItems: 'center' },
       rHasSel: rPane.hasSel, rCrumbs: rPane.crumbs || [], rSelName: rPane.selName || '', rDateLine: rPane.dateLine || '',
       rOutCount: rPane.outCount || 0, rInCount: rPane.inCount || 0, rChildCountLabel: rPane.childCountLabel || '',
       rHasParent: !!rPane.hasParent, rParentClick: rPane.parentClick || (() => {}),
