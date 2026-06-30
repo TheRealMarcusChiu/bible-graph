@@ -2637,7 +2637,8 @@ class Component extends DCLogic {
     this.collapsed = new Set();
     Object.values(this.nodeById).forEach((n) => { if (n.depth >= 2 && n.children.length) this.collapsed.add(n.id); });
     if (this.graph) this.graph.graphData(this.getVisible());
-    this.setState({ fullPage: false });
+    this.setState({ fullPage: false, legendHidden: false, minimapForce: true, nodeColorMode: 'category' });
+    try { sessionStorage.setItem('kg-node-color', 'category'); } catch (e) {}
     this.selectNode(this.rootId);
     setTimeout(() => this.fitView(), 60);
   }
@@ -4146,7 +4147,7 @@ class Component extends DCLogic {
       onLegendMenu: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); this.setState({ legendMenu: { x: e.clientX, y: e.clientY } }); },
       legendMenuShow: !!this.state.legendMenu,
       legendMenuStyle: this.state.legendMenu ? { position: 'fixed', top: Math.min(this.state.legendMenu.y, winH - 60) + 'px', left: Math.min(this.state.legendMenu.x, winW - 190) + 'px', zIndex: 70 } : { display: 'none' },
-      legendHideMenu: () => { this.setState({ legendMenu: null, legendHidden: true, nodeColorMode: (this._prevColorMode || 'recent') }); this._kickGraph(); },
+      legendHideMenu: () => { this.setState({ legendMenu: null, legendHidden: true }); this._kickGraph(); },
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
       setTipEl: this.setTipEl,
@@ -4233,7 +4234,7 @@ class Component extends DCLogic {
       legendTop: ((this.state.headerH || 64) + 14) + 'px',
       legendMaxH: (function(self){ var legTop = (self.state.headerH || 64) + 14; var wh = self.state.winH || (typeof window !== 'undefined' ? window.innerHeight : 800); var areaBottom = wh; if ((self.state.dock || 'right') === 'bottom' && self.selectedId != null && !self.state.fullPage) areaBottom = wh - Math.round(self.state.sidebarH || 360); return Math.max(90, areaBottom - legTop - 64) + 'px'; })(this),
       legendLeft: (this.state.dock === 'left' && this.selectedId != null && !this.state.fullPage) ? ((this.state.sidebarW || 452) + 10) + 'px' : '12px',
-      menuToggleLegend: () => { const willShow = !!this.state.legendHidden; if (willShow) this._prevColorMode = this.state.nodeColorMode || 'recent'; const mode = willShow ? 'category' : (this._prevColorMode || 'recent'); this.setState({ legendHidden: !this.state.legendHidden, menuOpen: false, nodeColorMode: mode }); this._kickGraph(); },
+      menuToggleLegend: () => { const willShow = !!this.state.legendHidden; const patch = { legendHidden: !this.state.legendHidden, menuOpen: false }; if (willShow) { patch.nodeColorMode = 'category'; try { sessionStorage.setItem('kg-node-color', 'category'); } catch (e) {} } this.setState(patch); this._kickGraph(); },
       legendToggleLabel: this.state.legendHidden ? '▤ Show legend' : '▤ Hide legend',
       legendShow: (function(self){ const ar = self.nodeById ? self.nodeById[self.actingRoot] : null; return !!(ar && (ar.children || []).length > 1) && !self.state.fullPage && !self.state.legendHidden; })(this),
       legendGroups: (function(self){
