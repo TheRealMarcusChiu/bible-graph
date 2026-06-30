@@ -32,13 +32,13 @@
   @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: .9; } }
   @keyframes eggRing { 0% { transform: translate(-50%,-50%) scale(0); opacity: .85; } 100% { transform: translate(-50%,-50%) scale(16); opacity: 0; } }
   @keyframes eggFade { 0% { opacity: 0; } 12% { opacity: 1; } 82% { opacity: 1; } 100% { opacity: 0; } }
-  .gx-scroll::-webkit-scrollbar { width: 9px; height: 9px; }
-  .gx-scroll::-webkit-scrollbar-thumb { background: #2a2218; border-radius: 5px; }
+  .gx-scroll::-webkit-scrollbar { width: 5px; height: 5px; }
+  .gx-scroll::-webkit-scrollbar-thumb { background: #2a2218; border-radius: 3px; }
   .gx-scroll::-webkit-scrollbar-thumb:hover { background: #3a2f1a; }
   .gx-scroll::-webkit-scrollbar-track { background: transparent; }
   .gx-scroll::-webkit-scrollbar-corner { background: transparent; }
-  .md-body ::-webkit-scrollbar { width: 9px; height: 9px; }
-  .md-body ::-webkit-scrollbar-thumb { background: #2a2218; border-radius: 5px; }
+  .md-body ::-webkit-scrollbar { width: 5px; height: 5px; }
+  .md-body ::-webkit-scrollbar-thumb { background: #2a2218; border-radius: 3px; }
   .md-body ::-webkit-scrollbar-thumb:hover { background: #3a2f1a; }
   .md-body ::-webkit-scrollbar-track { background: transparent; }
   .md-body ::-webkit-scrollbar-corner { background: transparent; }
@@ -144,7 +144,7 @@
       <span style="position: absolute; right: 9px; top: 50%; transform: translateY(-50%); pointer-events: none; border: 1px solid #2a2218; border-radius: 4px; padding: 0 6px; font-size: 11px; line-height: 17px; color: #6c6354; background: #14100b; display: {{ slashDisplay }};" title="Press / to search">/</span>
       <button type="button" onMouseDown="{{ closeSearch }}" title="Close search" style="position: absolute; right: 7px; top: 50%; transform: translateY(-50%); display: {{ searchCloseDisplay }}; align-items: center; justify-content: center; width: 22px; height: 22px; border: 1px solid #2a2218; border-radius: 5px; background: #14100b; color: #8c8170; cursor: pointer; font-size: 12px; line-height: 1; padding: 0;" style-hover="border-color: #d8a942; color: #ece1cf;">✕</button>
       <sc-if value="{{ searchOpen }}" hint-placeholder-val="{{ false }}">
-        <div id="kg-search-results" style="position: absolute; top: calc(100% + 8px); left: 0; right: 0; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 6px; box-shadow: 0 22px 46px -18px rgba(0,0,0,0.75); max-height: 320px; overflow-y: auto; z-index: 60;">
+        <div id="kg-search-results" class="gx-scroll" style="position: absolute; top: calc(100% + 8px); left: 0; right: 0; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 6px; box-shadow: 0 22px 46px -18px rgba(0,0,0,0.75); max-height: 320px; overflow-y: auto; scrollbar-gutter: stable; z-index: 60;">
           <sc-for list="{{ searchResults }}" as="r" hint-placeholder-count="6">
             <button type="button" onMouseDown="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" style="{{ r.style }}" style-hover="background: #1d1710;">
               <span style="display: block; color: #ece1cf; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ r.title }}</span>
@@ -3389,8 +3389,9 @@ class Component extends DCLogic {
     this._focusGroups = null;   // stale group-solo would blank the new subtree
     this.actingRoot = id;
     this.assignColors(id);
-    this.collapsed = new Set();
-    Object.values(this.nodeById).forEach((x) => { if (x.children && x.children.length) this.collapsed.add(x.id); });
+    // Keep the existing expand/collapse state of the subtree (don't fold descendants); just make
+    // sure the new root's depth-2 descendants are visible — un-collapse the root and its children
+    // (a no-op if they were already open).
     this.collapsed.delete(id);
     (n.children || []).forEach((c) => this.collapsed.delete(c.id));
     if (this.graph) this.graph.graphData(this.getVisible());
@@ -3666,7 +3667,7 @@ class Component extends DCLogic {
     if (this.state.fullPage) this.setState({ fullPage: false }, center);
     else center();
   };
-  onSearchInput = (e) => { this.setState({ query: e.target.value, searchIdx: 0 }); this._kickGraph(); };
+  onSearchInput = (e) => { this._searchPrevIdx = 0; this.setState({ query: e.target.value, searchIdx: 0 }); this._kickGraph(); };
   // The node that scopes search (acting root, when it isn't the whole-garden root). Drives the
   // custom "Search under “title”" placeholder overlay.
   _searchScopedRoot() { return (this.actingRoot != null && this.actingRoot !== this.rootId && this.nodeById && this.nodeById[this.actingRoot]) ? this.nodeById[this.actingRoot] : null; }
@@ -3753,10 +3754,18 @@ class Component extends DCLogic {
     c.scrollTop = Math.max(0, Math.min(st, max));
   };
   scrollSearchActive = () => {
-    const c = document.getElementById('kg-search-results'); if (!c) return;    const btn = c.children[this.state.searchIdx || 0]; if (!btn) return;
+    const c = document.getElementById('kg-search-results'); if (!c) return;
+    const idx = this.state.searchIdx || 0;
+    const btn = c.children[idx]; if (!btn) { this._searchPrevIdx = idx; return; }
     const top = btn.offsetTop, bot = top + btn.offsetHeight;
-    if (top < c.scrollTop) c.scrollTop = top;
-    else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
+    const prev = (this._searchPrevIdx == null) ? idx : this._searchPrevIdx;
+    this._searchPrevIdx = idx;
+    const max = c.scrollHeight - c.clientHeight;
+    let st = c.scrollTop;
+    if (idx > prev) { if (bot > st + c.clientHeight) st = bot - c.clientHeight; }   // down → scroll only at bottom edge
+    else if (idx < prev) { if (top < st) st = top; }                                // up → scroll only at top edge, item rides the top
+    else { if (bot > st + c.clientHeight) st = bot - c.clientHeight; else if (top < st) st = top; }
+    c.scrollTop = Math.max(0, Math.min(st, max));
   };
   // Highlight the graph node for the dropdown row at `idx`, exactly like hovering it with the mouse.
   hoverFromList = (list, idx) => {
@@ -4267,7 +4276,7 @@ class Component extends DCLogic {
       setLegendEl: this.setLegendEl,
       legendTop: ((this.state.headerH || 64) + 16) + 'px',
       legendMaxH: (function(self){ var legTop = (self.state.headerH || 64) + 16; var wh = self.state.winH || (typeof window !== 'undefined' ? window.innerHeight : 800); var areaBottom = wh; if ((self.state.dock || 'right') === 'bottom' && self.selectedId != null && !self.state.fullPage) areaBottom = wh - Math.round(self.state.sidebarH || 360); return Math.max(90, areaBottom - legTop - 64) + 'px'; })(this),
-      legendLeft: (this.state.dock === 'left' && this.selectedId != null && !this.state.fullPage) ? ((this.state.sidebarW || 452) + 16) + 'px' : '16px',
+      legendLeft: (this.state.dock === 'left' && this.selectedId != null && !this.state.fullPage) ? ((this.state.sidebarW || 452) + 9) + 'px' : '16px',
       menuToggleLegend: () => { const willShow = !!this.state.legendHidden; const patch = { legendHidden: !this.state.legendHidden, menuOpen: false }; if (willShow) { patch.nodeColorMode = 'category'; try { sessionStorage.setItem('kg-node-color', 'category'); } catch (e) {} } this.setState(patch); this._kickGraph(); },
       legendToggleLabel: this.state.legendHidden ? '▤ Show legend' : '▤ Hide legend',
       legendShow: (function(self){ const ar = self.nodeById ? self.nodeById[self.actingRoot] : null; return !!(ar && (ar.children || []).length > 1) && !self.state.fullPage && !self.state.legendHidden; })(this),
@@ -4295,8 +4304,8 @@ class Component extends DCLogic {
       recentTextDisplay: compact ? 'none' : 'inline',
       recentIconChar: (compact && this.state.recentOpen) ? '✕' : '◷',
       recentDropStyle: (compact && portrait)
-        ? { position: 'fixed', top: ((this.state.headerH || 64) + 8) + 'px', left: '14px', right: '14px', maxHeight: '60vh', overflowY: 'auto', overflowX: 'hidden', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.8)', zIndex: 62 }
-        : { position: 'absolute', top: 'calc(100% + 8px)', right: 0, width: '300px', maxHeight: '380px', overflowY: 'auto', overflowX: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.8)', zIndex: 60 },
+        ? { position: 'fixed', top: ((this.state.headerH || 64) + 8) + 'px', left: '14px', right: '14px', maxHeight: '60vh', overflowY: 'auto', overflowX: 'hidden', scrollbarGutter: 'stable', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.8)', zIndex: 62 }
+        : { position: 'absolute', top: 'calc(100% + 8px)', right: 0, width: '300px', maxHeight: '380px', overflowY: 'auto', overflowX: 'auto', scrollbarGutter: 'stable', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.8)', zIndex: 60 },
       searchWrapStyle: (compact && this.state.searchExpanded)
         ? { position: 'absolute', left: '14px', right: '14px', top: '50%', transform: 'translateY(-50%)', width: 'auto', zIndex: 62 }
         : (searchIcon
