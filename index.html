@@ -1608,12 +1608,12 @@ class Component extends DCLogic {
   }
 
   // Active focus filter (search-as-you-type and/or legend group solo) → dim non-matching nodes.
-  _filterActive() { const q = (this.state.query || '').trim(); return q.length >= 2 || !!(this._focusGroups && this._focusGroups.size); }
+  _filterActive() { const q = (this.state.query || '').trim(); return (q.length >= 2 && this.state.searchFocus) || !!(this._focusGroups && this._focusGroups.size); }
   _dimAlphaId(id) { const n = this.nodeById && this.nodeById[id]; return n ? this._dimAlpha(n) : 1; }
   _dimAlpha(n) {
     if (this.isAnchored(n.id)) return 1;
     const q = (this.state.query || '').trim().toLowerCase();
-    const searchOn = q.length >= 2;
+    const searchOn = q.length >= 2 && this.state.searchFocus;
     const fg = this._focusGroups, groupsOn = !!(fg && fg.size);
     if (!searchOn && !groupsOn) return 1;
     let lit = true;
@@ -3668,7 +3668,7 @@ class Component extends DCLogic {
     this._scopedRAF = requestAnimationFrame(step);
   }
   onSearchFocus = () => { if (this.searchEl && this.searchEl.value) { const el = this.searchEl; setTimeout(() => { try { el.select(); } catch (e) {} }, 0); } this.setState((s) => ({ searchFocus: true, searchExpanded: ((s.winW || 1280) <= 760 || (s.winH || 800) <= 500) ? true : s.searchExpanded })); };
-  onSearchBlur = () => setTimeout(() => this.setState({ searchFocus: false, searchExpanded: false }), 170);
+  onSearchBlur = () => setTimeout(() => { this.setState({ searchFocus: false, searchExpanded: false }); this._kickGraph(); }, 170);
   onSearchKey = (e) => {
     const res = this._results || [];
     if (e.key === 'ArrowDown') { e.preventDefault(); if (res.length) this.setState((s) => ({ searchIdx: Math.min((s.searchIdx || 0) + 1, res.length - 1) }), () => this.scrollSearchActive()); }
