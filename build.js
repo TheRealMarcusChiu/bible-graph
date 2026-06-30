@@ -447,6 +447,16 @@ function injectConfig() {
   const cfg = parseYaml(fs.readFileSync(CFG_PATH, 'utf8'));
   const sig = cfg.signature || {};
   const g = cfg.giscus || {};
+  const ogMeta = [
+    '<meta property="og:type" content="website">',
+    '<meta property="og:site_name" content="' + htmlEsc(cfg.title) + '">',
+    '<meta property="og:title" content="' + htmlEsc(cfg.title) + '">',
+    '<meta property="og:description" content="' + htmlEsc(cfg.subtitle) + '">',
+    (cfg.site_url ? '<meta property="og:url" content="' + htmlEsc(cfg.site_url) + '">' : ''),
+    '<meta name="twitter:card" content="summary">',
+    '<meta name="twitter:title" content="' + htmlEsc(cfg.title) + '">',
+    '<meta name="twitter:description" content="' + htmlEsc(cfg.subtitle) + '">',
+  ].filter(Boolean).join('\n');
 
   const giscusObj =
     '{\n' +
@@ -461,6 +471,7 @@ function injectConfig() {
   // key -> replacement string for the region between markers
   const repl = {
     title: { type: 'html', val: '<title>' + htmlEsc(cfg.title) + '</title>' },
+    og: { type: 'html', val: ogMeta },
     brand: { type: 'html', val: htmlEsc(cfg.brand) },
     subtitle: { type: 'html', val: htmlEsc(cfg.subtitle) },
     sig_text: { type: 'html', val: htmlEsc(sig.text) },
@@ -485,3 +496,69 @@ function injectConfig() {
 }
 
 injectConfig();
+
+/* ─────────────────────────────────────────────────────────────────────────────
+ *  SEO: per-note Open-Graph share pages + sitemap.xml + rss.xml
+ *  Each note gets share/<slug>.html carrying OG/Twitter meta and an instant
+ *  redirect into the app (#node=Title), so shared links preview correctly while
+ *  still opening the live graph. sitemap.xml / rss.xml index those share pages.
+ * ───────────────────────────────────────────────────────────────────────── */
+function generateSeo() {
+  const cfg = fs.existsSync(path.join(__dirname, 'config.yml')) ? parseYaml(fs.readFileSync(path.join(__dirname, 'config.yml'), 'utf8')) : {};
+  const base = String(cfg.site_url || '').replace(/\/+$/, '');
+  const siteTitle = cfg.title || 'Knowledge Garden';
+  const SHARE_DIR = path.join(__dirname, 'share');
+  fs.mkdirSync(SHARE_DIR, { recursive: true });
+  const slugify = (s) => (String(s || '').toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-').replace(/-+/g, '-').slice(0, 80) || 'note');
+  const seen = {};
+  const pages = survivors.map((k) => {
+    const r = recs[k];
+    let slug = slugify(r.title);
+    if (seen[slug]) slug = slug + '-' + String(idByKey[k] || '').slice(0, 6);
+    seen[slug] = true;
+    const desc = (stripToText(r.body || '').slice(0, 155) || siteTitle).replace(/\s+/g, ' ').trim();
+    const appRel = '../index.html#node=' + encodeURIComponent(r.title);
+    const appAbs = base ? (base + '/#node=' + encodeURIComponent(r.title)) : appRel;
+    const shareAbs = base ? (base + '/share/' + slug + '.html') : ('share/' + slug + '.html');
+    return { title: r.title, slug, desc, modified: r.fm.modified || r.fm.created || '', appRel, appAbs, shareAbs };
+  });
+  pages.forEach((p) => {
+    const h = '<!doctype html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n'
+      + '<meta name="viewport" content="width=device-width, initial-scale=1">\n'
+      + '<title>' + htmlEsc(p.title) + ' \u00b7 ' + htmlEsc(siteTitle) + '</title>\n'
+      + '<meta name="description" content="' + htmlEsc(p.desc) + '">\n'
+      + '<link rel="canonical" href="' + htmlEsc(p.appAbs) + '">\n'
+      + '<meta property="og:type" content="article">\n'
+      + '<meta property="og:site_name" content="' + htmlEsc(siteTitle) + '">\n'
+      + '<meta property="og:title" content="' + htmlEsc(p.title) + '">\n'
+      + '<meta property="og:description" content="' + htmlEsc(p.desc) + '">\n'
+      + '<meta property="og:url" content="' + htmlEsc(p.shareAbs) + '">\n'
+      + '<meta name="twitter:card" content="summary">\n'
+      + '<meta name="twitter:title" content="' + htmlEsc(p.title) + '">\n'
+      + '<meta name="twitter:description" content="' + htmlEsc(p.desc) + '">\n'
+      + '<meta http-equiv="refresh" content="0; url=' + htmlEsc(p.appRel) + '">\n'
+      + '<script>location.replace(' + jsStr(p.appRel) + ');</script>\n'
+      + '</head>\n<body style="font-family:system-ui,sans-serif;background:#0f0c09;color:#ece1cf;padding:40px;">\n'
+      + 'Redirecting to <a style="color:#d8a942" href="' + htmlEsc(p.appRel) + '">' + htmlEsc(p.title) + '</a>\u2026\n'
+      + '</body>\n</html>\n';
+    fs.writeFileSync(path.join(SHARE_DIR, p.slug + '.html'), h);
+  });
+  console.log('Wrote ' + pages.length + ' OG share page(s) to share/.');
+  if (!base) { console.warn('\u26a0  site_url is blank \u2014 skipping sitemap.xml / rss.xml (need an absolute base URL).'); return; }
+  const isoDate = (d) => { const t = Date.parse(d); return isNaN(t) ? '' : new Date(t).toISOString().slice(0, 10); };
+  const sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'];
+  sm.push('  <url><loc>' + htmlEsc(base + '/') + '</loc></url>');
+  pages.forEach((p) => { const lm = isoDate(p.modified); sm.push('  <url><loc>' + htmlEsc(p.shareAbs) + '</loc>' + (lm ? '<lastmod>' + lm + '</lastmod>' : '') + '</url>'); });
+  sm.push('</urlset>\n');
+  fs.writeFileSync(path.join(__dirname, 'sitemap.xml'), sm.join('\n'));
+  const recent = pages.filter((p) => !isNaN(Date.parse(p.modified))).sort((a, b) => Date.parse(b.modified) - Date.parse(a.modified)).slice(0, 40);
+  const rfc = (d) => { const t = Date.parse(d); return isNaN(t) ? '' : new Date(t).toUTCString(); };
+  const rss = ['<?xml version="1.0" encoding="UTF-8"?>', '<rss version="2.0"><channel>',
+    '<title>' + htmlEsc(siteTitle) + '</title>', '<link>' + htmlEsc(base + '/') + '</link>',
+    '<description>' + htmlEsc(cfg.subtitle || siteTitle) + '</description>'];
+  recent.forEach((p) => { rss.push('<item><title>' + htmlEsc(p.title) + '</title><link>' + htmlEsc(p.shareAbs) + '</link><guid isPermaLink="true">' + htmlEsc(p.shareAbs) + '</guid>' + (rfc(p.modified) ? '<pubDate>' + rfc(p.modified) + '</pubDate>' : '') + '<description>' + htmlEsc(p.desc) + '</description></item>'); });
+  rss.push('</channel></rss>\n');
+  fs.writeFileSync(path.join(__dirname, 'rss.xml'), rss.join('\n'));
+  console.log('Wrote sitemap.xml (' + (pages.length + 1) + ' urls) and rss.xml (' + recent.length + ' items).');
+}
+generateSeo();

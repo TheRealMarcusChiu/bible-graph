@@ -13,6 +13,7 @@
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--KG:title--><title>/var/log</title><!--/KG:title-->
+<!--KG:og--><!--/KG:og-->
 <link rel="icon" href="favicon.ico">
 <script src="./support.js"></script>
 </head>
@@ -53,6 +54,10 @@
   .md-body h3:not(:first-child) { margin-top: 19px; }
   .md-body h4:not(:first-child) { margin-top: 14px; }
   .md-body p { margin: 0 0 13px; }
+  .md-body :is(h1,h2,h3,h4,h5,h6) { cursor: pointer; }
+  .md-body :is(h1,h2,h3,h4,h5,h6):hover::after { content: ' #'; color: #6c6354; font-weight: 400; font-style: normal; }
+  body.kg-light #kg-app-root { filter: invert(1) hue-rotate(180deg); }
+  body.kg-light #kg-app-root img { filter: invert(1) hue-rotate(180deg); }
   .md-body strong { color: #ece1cf; font-weight: 600; }
   .md-body em { color: #d8c6a0; }
   .md-body a { color: #d8a942; text-decoration: none; border-bottom: 1px solid rgba(216,169,66,.35); }
@@ -93,7 +98,7 @@
 <script src="https://unpkg.com/force-graph"></script>
 </helmet>
 
-<div data-screen-label="Knowledge Garden" style="position: fixed; inset: 0; background: #0f0c09; overflow: hidden; font-family: 'JetBrains Mono', monospace; color: #ece1cf; -webkit-font-smoothing: antialiased;">
+<div id="kg-app-root" data-screen-label="Knowledge Garden" style="position: fixed; inset: 0; background: #0f0c09; overflow: hidden; font-family: 'JetBrains Mono', monospace; color: #ece1cf; -webkit-font-smoothing: antialiased;">
 
   <div style="position: absolute; inset: -10%; z-index: 0; pointer-events: none; background: radial-gradient(1100px 800px at 70% 20%, rgba(216,169,66,0.10), transparent 60%), radial-gradient(900px 700px at 18% 78%, rgba(127,176,184,0.08), transparent 62%), radial-gradient(700px 700px at 50% 50%, rgba(178,146,201,0.05), transparent 60%);"></div>
 
@@ -101,6 +106,8 @@
   <div style="position: absolute; inset: 0; z-index: 0; pointer-events: none; opacity: .35; background-image: linear-gradient(rgba(216,169,66,0.04) 1px, transparent 1px), linear-gradient(90deg, rgba(216,169,66,0.04) 1px, transparent 1px); background-size: 64px 64px; mask-image: radial-gradient(circle at 50% 50%, #000 30%, transparent 78%);"></div>
 
   <div ref="{{ setGraphEl }}" style="position: absolute; inset: 0; z-index: 1; cursor: grab;"></div>
+
+  <canvas ref="{{ setMinimapEl }}" width="170" height="120" onMouseDown="{{ onMinimapDown }}" title="Minimap — click or drag to navigate" style="position: absolute; right: 16px; bottom: 16px; z-index: 16; width: 170px; height: 120px; border-radius: 8px; border: 1px solid #2a2218; box-shadow: 0 10px 30px -12px rgba(0,0,0,0.7); cursor: pointer; display: none;"></canvas>
 
   <div style="position: absolute; inset: 0; z-index: 2; pointer-events: none; box-shadow: inset 0 0 240px 40px rgba(0,0,0,0.72);"></div>
 
@@ -140,13 +147,33 @@
 
     <div style="display: {{ rightClusterDisplay }}; align-items: center; gap: 12px; flex-shrink: 0;">
       <button type="button" onClick="{{ toggleSearchExpand }}" title="Search" style="{{ searchIconBtnStyle }}" style-hover="background: #241c12; border-color: #d8a942; color: #f4cf6a; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);"><span style="font-size: 17px; line-height: 1;">⌕</span></button>
+      <div data-pins="1" style="position: relative; flex-shrink: 0;">
+        <button type="button" onClick="{{ togglePins }}" onKeyDown="{{ onPinKey }}" title="Pinned notes" style="box-sizing: border-box; display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 1px solid #29221a; border-radius: 7px; background: #14100b; color: {{ pinBtnColor }}; cursor: pointer; transition: all .2s;" style-hover="border-color: #d8a942; background: #1b150d; color: #f4cf6a; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);"><span style="font-size: 15px; line-height: 1;">{{ pinBtnIcon }}</span></button>
+        <sc-if value="{{ pinOpen }}" hint-placeholder-val="{{ false }}">
+          <div id="kg-pin-list" class="gx-scroll" style="{{ recentDropStyle }}">
+            <div style="padding: 6px 9px 8px; font-size: 9.5px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a;">Pinned</div>
+            <sc-if value="{{ pinEmpty }}" hint-placeholder-val="{{ false }}">
+              <div style="padding: 2px 10px 12px; font-size: 11px; color: #6c6354; line-height: 1.55;">No pinned notes yet. Open a note and click the ☆ beside its title to pin it.</div>
+            </sc-if>
+            <sc-for list="{{ pinList }}" as="r" hint-placeholder-count="3">
+              <div data-pin-item="1" style="{{ r.rowStyle }}">
+                <button type="button" onClick="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" style="{{ r.style }}">
+                  <span style="display: block; color: #ece1cf; font-size: 11.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ r.title }}</span>
+                  <span style="display: block; margin-top: 3px; font-size: 9.5px; letter-spacing: 0.04em; color: #6c6354;">{{ r.domain }}</span>
+                </button>
+                <button type="button" onClick="{{ r.onUnpin }}" onMouseEnter="{{ r.onHover }}" title="Remove from favorites" style="{{ pinUnpinStyle }}" style-hover="color: #f4b9a8; background: #3a2016; box-shadow: inset 0 0 0 1px rgba(201,127,99,0.4);">✕</button>
+              </div>
+            </sc-for>
+          </div>
+        </sc-if>
+      </div>
       <div data-recent="1" style="position: relative; flex-shrink: 0;">
         <button type="button" onClick="{{ toggleRecent }}" onKeyDown="{{ onRecentKey }}" title="Recently updated" style="box-sizing: border-box; display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border: 1px solid #29221a; border-radius: 7px; background: #14100b; color: #8c8170; cursor: pointer; transition: all .2s;" style-hover="border-color: #d8a942; background: #1b150d; color: #f4cf6a; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);"><span style="font-size: 18px; line-height: 1;">{{ recentIconChar }}</span></button>
         <sc-if value="{{ recentOpen }}" hint-placeholder-val="{{ false }}">
           <div id="kg-recent-list" class="gx-scroll" onScroll="{{ onRecentScroll }}" style="{{ recentDropStyle }}">
             <div style="padding: 6px 9px 8px; font-size: 9.5px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a;">Recently modified</div>
             <sc-for list="{{ recentList }}" as="r" hint-placeholder-count="6">
-              <button type="button" onClick="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" onMouseLeave="{{ r.onLeave }}" style="{{ r.style }}" style-hover="background: #2c2316; box-shadow: inset 2px 0 0 #d8a942;">
+              <button type="button" onClick="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" onMouseLeave="{{ r.onLeave }}" style="{{ r.style }}">
                 <span style="display: block; color: #ece1cf; font-size: 11.5px; white-space: nowrap;">{{ r.title }}</span>
                 <span style="display: flex; gap: 8px; margin-top: 3px; font-size: 9.5px; letter-spacing: 0.04em; color: #6c6354;"><span style="color: #8fb0b8;">{{ r.when }}</span><span>{{ r.domain }}</span></span>
               </button>
@@ -162,14 +189,16 @@
       <div data-controlsmenu="1" style="position: relative; flex-shrink: 0;">
         <button type="button" onClick="{{ toggleMenu }}" title="Controls" style="{{ gearBtnStyle }}" style-hover="color: #f4cf6a; transform: scale(1.18);"><span style="font-size: 17px; line-height: 1; display: block; transform: translateY(-1px);">⚙</span></button>
         <sc-if value="{{ menuOpen }}" hint-placeholder-val="{{ false }}">
-          <div style="position: absolute; top: calc(100% + 8px); right: 0; min-width: 250px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 6px; box-shadow: 0 22px 46px -18px rgba(0,0,0,0.78); z-index: 60; display: flex; flex-direction: column; gap: 2px;">
+          <div id="kg-controls-menu" style="{{ controlsMenuStyle }}">
             <button type="button" onClick="{{ menuFit }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⤢ Fit view</span></button>
             <button type="button" onClick="{{ menuReset }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>↺ Reset</span></button>
+            <button type="button" onClick="{{ menuToggleMinimap }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ minimapToggleLabel }}</span></button>
             <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
-            <button type="button" onClick="{{ toggleTree }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>— Tree edges</span><span style="{{ treeChkStyle }}">{{ treeChk }}</span></button>
-            <button type="button" onClick="{{ toggleWiki }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⋯ Wikilink edges</span><span style="{{ wikiChkStyle }}">{{ wikiChk }}</span></button>
+            <button type="button" onClick="{{ toggleTree }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: inline-flex; align-items: center; gap: 6px;">— Tree edges<span onClick="{{ infoStop }}" onMouseEnter="{{ infoTreeOn }}" onMouseLeave="{{ infoOff }}" style="cursor: help; color: #6c6354; display: inline-flex; align-items: center; position: relative;" style-hover="color: #d8a942;"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="6.5"></circle><line x1="8" y1="7" x2="8" y2="11.4"></line><circle cx="8" cy="4.6" r="0.75" fill="currentColor" stroke="none"></circle></svg><sc-if value="{{ infoTreeShow }}" hint-placeholder-val="{{ false }}"><span style="position: absolute; right: calc(100% + 9px); top: 50%; transform: translateY(-50%); width: 196px; background: #16120c; border: 1px solid #2a2218; border-radius: 6px; padding: 8px 10px; font-size: 10.5px; line-height: 1.55; letter-spacing: 0; text-transform: none; white-space: normal; color: #cdbfa6; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.85); z-index: 60; pointer-events: none;">Solid lines that trace each note's parent–child place in the hierarchy — every note links down to those nested beneath it. The backbone tree of the garden.</span></sc-if></span></span><span style="{{ treeChkStyle }}">{{ treeChk }}</span></button>
+            <button type="button" onClick="{{ toggleWiki }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: inline-flex; align-items: center; gap: 6px;">⋯ Wikilink edges<span onClick="{{ infoStop }}" onMouseEnter="{{ infoWikiOn }}" onMouseLeave="{{ infoOff }}" style="cursor: help; color: #6c6354; display: inline-flex; align-items: center; position: relative;" style-hover="color: #7fb0b8;"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="6.5"></circle><line x1="8" y1="7" x2="8" y2="11.4"></line><circle cx="8" cy="4.6" r="0.75" fill="currentColor" stroke="none"></circle></svg><sc-if value="{{ infoWikiShow }}" hint-placeholder-val="{{ false }}"><span style="position: absolute; right: calc(100% + 9px); top: 50%; transform: translateY(-50%); width: 196px; background: #16120c; border: 1px solid #2a2218; border-radius: 6px; padding: 8px 10px; font-size: 10.5px; line-height: 1.55; letter-spacing: 0; text-transform: none; white-space: normal; color: #cdbfa6; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.85); z-index: 60; pointer-events: none;">Dashed lines for [[wikilink]] references written inside notes — direct links between any two notes, independent of the tree, so related notes in different branches stay connected.</span></sc-if></span></span><span style="{{ wikiChkStyle }}">{{ wikiChk }}</span></button>
             <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
             <div style="padding: 4px 8px 2px; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a;">Appearance</div>
+            <button type="button" onClick="{{ toggleTheme }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ themeLabel }}</span></button>
             <div style="padding: 6px 8px 3px;">
               <div style="display: flex; justify-content: space-between; font-size: 10.5px; color: #8c8170; margin-bottom: 6px;"><span>Node size</span><span style="color: #6c6354;">{{ nodeSizeLabel }}</span></div>
               <input type="range" min="0.4" max="2.2" step="0.1" value="{{ nodeSizeMul }}" onInput="{{ setNodeSize }}" style="width: 100%; accent-color: #d8a942; cursor: pointer; height: 4px;">
@@ -178,27 +207,17 @@
               <div style="display: flex; justify-content: space-between; font-size: 10.5px; color: #8c8170; margin-bottom: 6px;"><span>Edge thickness</span><span style="color: #6c6354;">{{ edgeWidthLabel }}</span></div>
               <input type="range" min="0.3" max="3" step="0.1" value="{{ edgeWidthMul }}" onInput="{{ setEdgeWidth }}" style="width: 100%; accent-color: #d8a942; cursor: pointer; height: 4px;">
             </div>
-            <div style="padding: 6px 8px 3px;">
-              <div style="font-size: 10.5px; color: #8c8170; margin-bottom: 7px;">Node color</div>
-              <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                <sc-for list="{{ nodeColorSwatches }}" as="s" hint-placeholder-count="6">
-                  <button type="button" onClick="{{ s.onClick }}" title="{{ s.title }}" style="{{ s.sw }}"></button>
-                </sc-for>
-              </div>
-            </div>
-            <div style="padding: 6px 8px 3px;">
-              <div style="font-size: 10.5px; color: #8c8170; margin-bottom: 7px;">Tree edge color</div>
-              <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                <sc-for list="{{ treeColorSwatches }}" as="s" hint-placeholder-count="5">
-                  <button type="button" onClick="{{ s.onClick }}" title="{{ s.title }}" style="{{ s.sw }}"></button>
-                </sc-for>
-              </div>
-            </div>
-            <div style="padding: 6px 8px 6px;">
-              <div style="font-size: 10.5px; color: #8c8170; margin-bottom: 7px;">Wikilink color</div>
-              <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-                <sc-for list="{{ wikiColorSwatches }}" as="s" hint-placeholder-count="4">
-                  <button type="button" onClick="{{ s.onClick }}" title="{{ s.title }}" style="{{ s.sw }}"></button>
+            <div style="padding: 6px 8px 8px;">
+              <div style="font-size: 10.5px; color: #8c8170; margin-bottom: 8px;">Node color</div>
+              <div style="display: flex; flex-direction: column; gap: 3px;">
+                <sc-for list="{{ nodeColorSwatches }}" as="s" hint-placeholder-count="2">
+                  <button type="button" onClick="{{ s.onClick }}" style="{{ s.row }}" style-hover="background: #2c2316;">
+                    <span style="{{ s.sw }}"></span>
+                    <span style="display: flex; flex-direction: column; gap: 1px; min-width: 0;">
+                      <span style="font-size: 11.5px; color: #ece1cf;">{{ s.title }}</span>
+                      <span style="font-size: 9.5px; color: #6c6354;">{{ s.desc }}</span>
+                    </span>
+                  </button>
                 </sc-for>
               </div>
             </div>
@@ -219,14 +238,11 @@
 
   <!-- legend -->
   <div ref="{{ setLegendEl }}" style="position: absolute; left: 22px; bottom: 20px; z-index: 15; pointer-events: none; display: flex; flex-direction: column; gap: 9px;">
-    <div style="display: flex; align-items: center; gap: 18px; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: #8c8170;">
-      <div style="font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.13em; text-transform: uppercase; color: #6c6354; pointer-events: auto; display: flex; align-items: baseline; gap: 5px; white-space: nowrap;">
-        <span>powered by</span>
-        <a href="https://github.com/TheRealMarcusChiu/stardust.git" target="_blank" rel="noopener" style="color: #b78f3a; text-decoration: none; border-bottom: 1px dotted #6e5a2e; transition: color .15s, border-color .15s;" style-hover="color: #f4cf6a; border-bottom-color: #f4cf6a;">stardust</a>
-      </div>
-    </div>
-    <div style="display: flex; align-items: baseline; gap: 14px;">
-      <div style="font-size: 10px; letter-spacing: 0.1em; color: #5f574a; display: {{ hintDisplay }};">click a node to read it · scroll to zoom · drag to pan · arrows: ↑ parent  ↓ child  ← → siblings</div>
+    <div style="display: flex; align-items: center; gap: 8px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.13em; text-transform: uppercase; color: #6c6354; pointer-events: auto; white-space: nowrap;">
+      <span>powered by</span>
+      <a href="https://github.com/TheRealMarcusChiu/stardust.git" target="_blank" rel="noopener" style="color: #b78f3a; text-decoration: none; border-bottom: 1px dotted #6e5a2e; transition: color .15s, border-color .15s;" style-hover="color: #f4cf6a; border-bottom-color: #f4cf6a;">stardust</a>
+      <span style="color: #4a4337; display: {{ hintDisplay }};">·</span>
+      <span onClick="{{ openShortcuts }}" title="Keyboard shortcuts" style="color: #5f574a; display: {{ hintDisplay }}; cursor: pointer;" style-hover="color: #b78f3a;">press <span style="color: #b78f3a;">?</span> for keyboard shortcuts</span>
     </div>
   </div>
 
@@ -234,10 +250,12 @@
   <sc-if value="{{ menuShow }}" hint-placeholder-val="{{ false }}">
     <div data-nodemenu="1" onMouseEnter="{{ menuKeep }}" onMouseLeave="{{ menuLeave }}" style="{{ menuStyle }}">
       <div style="display: flex; flex-direction: column; gap: 2px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8);">
+        <button type="button" onClick="{{ menuOpenHere }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">↳ open in current active tab</button>
         <button type="button" onClick="{{ menuNewTab }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊞ open as new tab in side panel</button>
         <div style="height: 1px; background: #2a2218; margin: 3px 4px;"></div>
         <button type="button" onClick="{{ menuCenter }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⌖ center node</button>
         <button type="button" onClick="{{ menuExpand }}" disabled="{{ menuExpandDisabled }}" style="{{ menuExpandStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ menuExpandLabel }}</button>
+        <button type="button" onClick="{{ menuHide }}" disabled="{{ menuHideDisabled }}" style="{{ menuHideStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⦸ hide node</button>
         <sc-if value="{{ menuRootShow }}" hint-placeholder-val="{{ true }}">
           <button type="button" onClick="{{ menuRoot }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ menuRootLabel }}</button>
         </sc-if>
@@ -342,10 +360,14 @@
       <div style="max-width: {{ contentMax }}; margin: 0 auto; width: 100%;">
       <sc-if value="{{ hasSel }}" hint-placeholder-val="{{ false }}">
         <div style="margin-top: 18px;">
-          <div style="display: flex; align-items: center; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-bottom: 16px;">
+          <div style="display: flex; align-items: center; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-top: -8px; margin-left: -8px; margin-bottom: 10px;">
             <button type="button" onClick="{{ navBack }}" title="Back" style="{{ navBackStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
             <button type="button" onClick="{{ navForward }}" title="Forward" style="{{ navFwdStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
-            <button type="button" onClick="{{ locateInGraph }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; margin-left: -10px; margin-right: -4px; padding: 0; border: none; background: transparent; color: #d8a942; cursor: pointer; font-size: 16px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
+            <button type="button" onClick="{{ locateInGraph }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; margin-left: -10px; margin-right: -4px; padding: 0; border: none; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
+            <button type="button" onClick="{{ copyLink }}" title="{{ copyLinkTitle }}" style="{{ copyLinkStyle }}" style-hover="color: #ffe9a8; transform: scale(1.18);"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"></path><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"></path></svg></button>
+            <button type="button" onClick="{{ togglePinCur }}" title="{{ pinTitleCur }}" style="{{ pinStarStyleCur }}" style-hover="color: #ffe9a8; transform: scale(1.18);">{{ pinStarCur }}</button>
+          </div>
+          <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-bottom: 16px;">
             <sc-if value="{{ hasParent }}" hint-placeholder-val="{{ false }}">
               <button type="button" onClick="{{ parentClick }}" onContextMenu="{{ parentContext }}" onMouseEnter="{{ parentHover }}" onMouseLeave="{{ parentLeave }}" title="Anchor to parent note" style="background: none; border: none; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;" style-hover="color: #ece1cf;">↑ parent</button>
             </sc-if>
@@ -431,7 +453,9 @@
               <div style="display: flex; align-items: center; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-bottom: 16px;">
                 <button type="button" onClick="{{ navBackR }}" title="Back" style="{{ navBackStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
                 <button type="button" onClick="{{ navForwardR }}" title="Forward" style="{{ navFwdStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
-                <button type="button" onClick="{{ locateInGraphR }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; margin-left: -10px; margin-right: -4px; padding: 0; border: none; background: transparent; color: #d8a942; cursor: pointer; font-size: 16px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
+                <button type="button" onClick="{{ locateInGraphR }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; margin-left: -10px; margin-right: -4px; padding: 0; border: none; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
+                <button type="button" onClick="{{ copyLinkR }}" title="{{ copyLinkTitle }}" style="{{ copyLinkStyle }}" style-hover="color: #ffe9a8; transform: scale(1.18);"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"></path><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"></path></svg></button>
+                <button type="button" onClick="{{ togglePinR }}" title="{{ pinTitleR }}" style="{{ pinStarStyleR }}" style-hover="color: #ffe9a8; transform: scale(1.18);">{{ pinStarR }}</button>
                 <sc-if value="{{ rHasParent }}" hint-placeholder-val="{{ false }}">
                   <button type="button" onClick="{{ rParentClick }}" onContextMenu="{{ rParentContext }}" title="Open parent note" style="background: none; border: none; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;" style-hover="color: #ece1cf;">↑ parent</button>
                 </sc-if>
@@ -485,7 +509,7 @@
     <div data-tabmenu="1" style="{{ tabMenuStyle }}">
       <div style="min-width: 196px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
         <button type="button" onClick="{{ tabMenuDup }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⧉ duplicate tab</button>
-        <button type="button" onClick="{{ tabMenuCloseOthers }}" disabled="{{ tabMenuCloseOthersDisabled }}" style="{{ tabMenuCloseOthersStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✕ close other tabs</button>
+        <button type="button" onClick="{{ tabMenuCloseOthers }}" disabled="{{ tabMenuCloseOthersDisabled }}" style="{{ tabMenuCloseOthersStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✕ close all other tabs</button>
         <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
         <button type="button" onClick="{{ subMoveRight }}" disabled="{{ tabMenuSplitDisabled }}" style="{{ tabMenuSplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">→ split and move right</button>
         <div onMouseEnter="{{ splitSubOn }}" onMouseLeave="{{ splitSubOff }}" style="position: relative;">
@@ -507,6 +531,15 @@
     <div data-barmenu="1" style="{{ barMenuStyle }}">
       <div style="min-width: 188px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
         <button type="button" onClick="{{ barUnsplit }}" disabled="{{ barUnsplitDisabled }}" style="{{ barUnsplitStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⊟ unsplit panels</button>
+        <button type="button" onClick="{{ barCloseDupes }}" disabled="{{ barCloseDupesDisabled }}" style="{{ barCloseDupesStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">⧉ close all duplicate tabs</button>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ bgMenuShow }}" hint-placeholder-val="{{ false }}">
+    <div data-bgmenu="1" style="{{ bgMenuStyle }}">
+      <div style="min-width: 180px; background: #16120c; border: 1px solid #2a2218; border-radius: 7px; padding: 5px; box-shadow: 0 14px 30px -14px rgba(0,0,0,0.8); font-family: 'JetBrains Mono', monospace;">
+        <button type="button" onClick="{{ toggleMinimap }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ minimapToggleLabel }}</button>
       </div>
     </div>
   </sc-if>
@@ -562,6 +595,43 @@
     </div>
   </sc-if>
 
+  <sc-if value="{{ shortcutsOpen }}" hint-placeholder-val="{{ false }}">
+    <div onClick="{{ closeShortcuts }}" style="position: fixed; inset: 0; z-index: 130; background: rgba(8,6,4,0.66); backdrop-filter: blur(2px); display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace;">
+      <div onClick="{{ stopProp }}" style="width: min(460px, 92vw); max-height: 84vh; overflow-y: auto; background: #14100b; border: 1px solid #2a2218; border-radius: 12px; box-shadow: 0 30px 70px -20px rgba(0,0,0,0.85); padding: 20px 22px 22px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px;">
+          <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 21px; color: #ece1cf;">Keyboard shortcuts</span>
+          <button type="button" onClick="{{ closeShortcuts }}" style="display: inline-flex; align-items: center; justify-content: center; width: 28px; height: 28px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 13px;" style-hover="color: #f0b6a3; background: #2e1a16;">✕</button>
+        </div>
+        <sc-for list="{{ shortcutRows }}" as="r" hint-placeholder-count="7">
+          <div style="display: flex; align-items: center; justify-content: space-between; gap: 18px; padding: 8px 2px; border-bottom: 1px solid #1d1710;">
+            <span style="font-size: 12px; color: #cdbfa6;">{{ r.label }}</span>
+            <span style="flex: 0 0 auto; font-size: 11px; color: #f4cf6a; white-space: nowrap;">{{ r.keys }}</span>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </sc-if>
+
+  <sc-if value="{{ paletteOpen }}" hint-placeholder-val="{{ false }}">
+    <div onClick="{{ closePalette }}" style="position: fixed; inset: 0; z-index: 140; background: rgba(8,6,4,0.6); backdrop-filter: blur(2px); display: flex; align-items: flex-start; justify-content: center; padding-top: 12vh; font-family: 'JetBrains Mono', monospace;">
+      <div onClick="{{ stopProp }}" style="width: min(560px, 94vw); background: #14100b; border: 1px solid #2a2218; border-radius: 12px; box-shadow: 0 30px 70px -20px rgba(0,0,0,0.85); overflow: hidden;">
+        <input value="{{ paletteQuery }}" onInput="{{ onPaletteInput }}" onKeyDown="{{ onPaletteKey }}" ref="{{ setPaletteEl }}" placeholder="Jump to a note or run a command…" style="width: 100%; box-sizing: border-box; background: transparent; border: none; border-bottom: 1px solid #2a2218; padding: 15px 18px; color: #ece1cf; font-family: 'JetBrains Mono', monospace; font-size: 14px; outline: none;" />
+        <div style="max-height: 52vh; overflow-y: auto; padding: 6px;">
+          <sc-for list="{{ paletteItems }}" as="it" hint-placeholder-count="6">
+            <button type="button" onClick="{{ it.onRun }}" onMouseEnter="{{ it.onHover }}" style="{{ it.style }}">
+              <span style="flex: 0 0 auto; width: 18px; text-align: center; color: #b78f3a;">{{ it.icon }}</span>
+              <span style="flex: 1 1 0; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: #ece1cf;">{{ it.label }}</span>
+              <span style="flex: 0 0 auto; font-size: 9px; letter-spacing: 0.14em; text-transform: uppercase; color: #6c6354;">{{ it.kind }}</span>
+            </button>
+          </sc-for>
+          <sc-if value="{{ paletteEmpty }}" hint-placeholder-val="{{ false }}">
+            <div style="padding: 18px; text-align: center; color: #6c6354; font-size: 12px;">No matches</div>
+          </sc-if>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
 </div>
 </x-dc>
 <script type="text/x-dc" data-dc-script data-props="{
@@ -570,7 +640,7 @@
   &quot;edgeFlow&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot; }
 }">
 class Component extends DCLogic {
-  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'category'; } catch(e){ return 'category'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
+  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'recent'; } catch(e){ return 'recent'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
 
   MD_CONFIG = [
     { key: 'math', label: 'LaTeX math ($…$)', ex: 'Mass–energy: $E = mc^2$' },
@@ -779,7 +849,15 @@ class Component extends DCLogic {
   }
 
   onKey = (e) => {
+    const mod = e.metaKey || e.ctrlKey;
+    if (mod && (e.key === 'k' || e.key === 'K')) { e.preventDefault(); this.setState((s) => ({ paletteOpen: !s.paletteOpen, paletteQuery: '', paletteIdx: 0 })); return; }
+    if (e.key === 'Escape') {
+      if (this.state.paletteOpen) { this.setState({ paletteOpen: false }); return; }
+      if (this.state.shortcutsOpen) { this.setState({ shortcutsOpen: false }); return; }
+    }
     if (document.activeElement && document.activeElement.tagName === 'INPUT') return;
+    if (e.key === '?') { e.preventDefault(); this.setState((s) => ({ shortcutsOpen: !s.shortcutsOpen })); return; }
+    if ((this.state.recentOpen || this.state.pinOpen) && (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight')) return;   // let the open dropdown own the arrows
     if (e.key === '/') { e.preventDefault(); if (this.searchEl) { this.searchEl.focus(); this.searchEl.select(); } return; }
     if (e.key === 'Escape') { this.clearSelection(); return; }
     if (!this.selectedId) return;
@@ -809,6 +887,36 @@ class Component extends DCLogic {
     if (target) { e.preventDefault(); this.arrowTo(target); }
   };
   onResize = () => { if (this.graph && this.graphEl) this.graph.width(this.graphEl.clientWidth).height(this.graphEl.clientHeight); this.measureHeader(); this.setState({ winW: window.innerWidth, winH: window.innerHeight }); };
+  // Command palette: note matches (when typing) + a fixed set of view/panel commands.
+  paletteList() {
+    const q = (this.state.paletteQuery || '').trim().toLowerCase();
+    const cmds = [
+      { kind: 'action', icon: '⌖', label: 'Locate current note in graph', run: () => this.locateInGraph() },
+      { kind: 'action', icon: '◎', label: 'Toggle local graph (neighbors only)', run: () => this.toggleLocalGraph() },
+      { kind: 'action', icon: '◐', label: 'Toggle light / dark theme', run: () => this.toggleTheme() },
+      { kind: 'action', icon: '⤢', label: 'Toggle full-page reading', run: () => this.toggleFull() },
+      { kind: 'action', icon: '—', label: 'Toggle tree edges', run: () => this.toggleTree() },
+      { kind: 'action', icon: '⋯', label: 'Toggle wikilink edges', run: () => this.toggleWiki() },
+      { kind: 'action', icon: '⤿', label: 'Fit view to screen', run: () => this.fitView() },
+      { kind: 'action', icon: '↺', label: 'Reset / collapse all', run: () => this.collapseAll() },
+      { kind: 'action', icon: '✦', label: 'Show all notes', run: () => this.expandAll() },
+      { kind: 'action', icon: '⌨', label: 'Keyboard shortcuts', run: () => this.setState({ shortcutsOpen: true }) },
+      { kind: 'action', icon: '◧', label: 'Dock panel left', run: () => this.setDock('left') },
+      { kind: 'action', icon: '◨', label: 'Dock panel right', run: () => this.setDock('right') },
+      { kind: 'action', icon: '▭', label: 'Dock panel bottom', run: () => this.setDock('bottom') },
+      { kind: 'action', icon: '❒', label: 'Float panel', run: () => this.setDock('undock') },
+    ];
+    const matchedCmds = q ? cmds.filter((c) => c.label.toLowerCase().indexOf(q) >= 0) : cmds.slice(0, 7);
+    let notes = [];
+    if (q && this.nodeById) {
+      notes = Object.values(this.nodeById)
+        .filter((n) => (n.title || '').toLowerCase().indexOf(q) >= 0)
+        .sort((a, b) => { const ai = a.title.toLowerCase().indexOf(q), bi = b.title.toLowerCase().indexOf(q); return ai - bi || a.title.length - b.title.length; })
+        .slice(0, 10)
+        .map((n) => ({ kind: 'note', icon: '◍', label: n.title, run: () => this.navigateTo(n.id) }));
+    }
+    return notes.concat(matchedCmds);
+  }
 
   nodeRadius(n) { return (Math.sqrt(this.val(n)) * 3 + 2) * (this.state.nodeSizeMul || 1); }
   clickGraphPt(ev) {
@@ -992,6 +1100,8 @@ class Component extends DCLogic {
     if (window.__kgBodyQ && window.__kgBodyQ.length) { const q = window.__kgBodyQ.splice(0); q.forEach((d) => this.__receiveBody(d[0], d[1])); }
     this.accent = this.props.accent || '#d8a942';
     this.accentBright = '#f4cf6a';
+    this.ROOT_COLOR = '#fff1cf';
+    this.ANCHOR_COLOR = '#fff1cf';
     this.wikiColor = '#8fd0db';
     this.highlightLinkSet = new Set();
     this.pathLinkSet = new Set();
@@ -1013,6 +1123,7 @@ class Component extends DCLogic {
     { const sc = this.sidebarScrollEl(); if (sc) sc.addEventListener('scroll', this.onSidebarScroll); }
     this.measureHeader();
     await this.buildGraph();
+    try { if (localStorage.getItem('kg-theme') === 'light') { this.applyTheme('light'); this.setState({ theme: 'light' }); } } catch (e) {}
     this._suppressUrl = true;
     this.selectNode(this.rootId);
     this._suppressUrl = false;
@@ -1171,17 +1282,21 @@ class Component extends DCLogic {
     raw.forEach((r) => { (r.links || []).forEach((tid) => { (this.incoming[tid] = this.incoming[tid] || []).push(r.id); }); });
     this.idByTitle = {};
     raw.forEach((r) => { this.idByTitle[r.title] = r.id; });
+    try { this.pinned = new Set((JSON.parse(localStorage.getItem('kg-pins') || '[]') || []).filter((id) => this.nodeById[id])); } catch (e) { this.pinned = new Set(); }
     this.collapsed = new Set();
     Object.values(this.nodeById).forEach((n) => { if (n.depth >= 2 && n.children.length) this.collapsed.add(n.id); });
     this.total = raw.length;
   }
 
   getVisible() {
+    if (this.state.localGraph && this.selectedId != null && this.nodeById && this.nodeById[this.selectedId]) return this.getLocalVisible(this.selectedId, 1);
     const nodes = [], links = [], visible = new Set();
+    const hidden = this.hidden || (this.hidden = new Set());
     const walk = (id) => {
+      if (hidden.has(id)) return;                          // manually hidden node → skip it and its subtree
       const n = this.nodeById[id]; if (!n) return;
       nodes.push(n); visible.add(id);
-      if (!this.collapsed.has(id)) n.children.forEach((ch) => { if (this.state.showTree !== false) links.push({ source: ch.id, target: id, type: 'tree' }); walk(ch.id); });
+      if (!this.collapsed.has(id)) n.children.forEach((ch) => { if (hidden.has(ch.id)) return; if (this.state.showTree !== false) links.push({ source: ch.id, target: id, type: 'tree' }); walk(ch.id); });
     };
     walk(this.actingRoot || this.rootId);
     if (this.state.showWiki !== false) nodes.forEach((n) => { (n.links || []).forEach((tid) => { if (visible.has(tid)) links.push({ source: n.id, target: tid, type: 'wiki' }); }); });
@@ -1189,6 +1304,71 @@ class Component extends DCLogic {
     this._visNodes = nodes.length;
     return { nodes, links };
   }
+  // Local graph: only the selected node and everything within `hops` of it (tree parent/children +
+  // wikilinks, in either direction). Lets you focus on one note's immediate neighborhood.
+  getLocalVisible(centerId, hops) {
+    const inc = this.incoming || {};
+    const visible = new Set([centerId]);
+    let frontier = [centerId];
+    for (let h = 0; h < hops; h++) {
+      const next = [];
+      frontier.forEach((id) => {
+        const n = this.nodeById[id]; if (!n) return;
+        const neigh = [];
+        if (n.parent) neigh.push(n.parent);
+        (n.children || []).forEach((c) => neigh.push(c.id));
+        (n.links || []).forEach((t) => neigh.push(t));
+        (inc[id] || []).forEach((s) => neigh.push(s));
+        neigh.forEach((m) => { if (this.nodeById[m] && !visible.has(m)) { visible.add(m); next.push(m); } });
+      });
+      frontier = next;
+    }
+    const nodes = [];
+    visible.forEach((id) => { const n = this.nodeById[id]; if (n) nodes.push(n); });
+    const links = [];
+    if (this.state.showTree !== false) nodes.forEach((n) => { (n.children || []).forEach((c) => { if (visible.has(c.id)) links.push({ source: c.id, target: n.id, type: 'tree' }); }); });
+    if (this.state.showWiki !== false) nodes.forEach((n) => { (n.links || []).forEach((t) => { if (visible.has(t)) links.push({ source: n.id, target: t, type: 'wiki' }); }); });
+    this._visLinks = links.length;
+    this._visNodes = nodes.length;
+    return { nodes, links };
+  }
+  toggleLocalGraph = () => {
+    this.setState((s) => ({ localGraph: !s.localGraph }), () => {
+      if (this.graph) this.graph.graphData(this.getVisible());
+      if (this.state.localGraph && this.selectedId != null && this.nodeById[this.selectedId]) { this.focusNode(this.nodeById[this.selectedId], false); }
+      else setTimeout(() => this.fitView(), 80);
+    });
+  };
+  // Light / dark theme. The whole app is dark with inline colors, so light mode is a reversible
+  // invert + hue-rotate over the app root, with real images counter-inverted so they stay true.
+  applyTheme = (t) => { try { document.body.classList.toggle('kg-light', t === 'light'); } catch (e) {} };
+  toggleTheme = () => {
+    const t = (this.state.theme === 'light') ? 'dark' : 'light';
+    this.applyTheme(t);
+    try { localStorage.setItem('kg-theme', t); } catch (e) {}
+    this.setState({ theme: t });
+  };
+  _fallbackCopy = (text, done) => {
+    try { const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); if (done) done(); } catch (e) {}
+  };
+  // Pin / unpin a note (favorites), persisted in localStorage across sessions.
+  togglePin = (id) => {
+    if (id == null || !this.nodeById || !this.nodeById[id]) return;
+    this.pinned = this.pinned || new Set();
+    if (this.pinned.has(id)) this.pinned.delete(id); else this.pinned.add(id);
+    try { localStorage.setItem('kg-pins', JSON.stringify([...this.pinned])); } catch (e) {}
+    this.setState((s) => ({ tick: (s.tick || 0) + 1 }));
+  };
+  _copyText = (url) => {
+    const done = () => { this.setState({ linkCopied: true }); clearTimeout(this._linkCopiedT); this._linkCopiedT = setTimeout(() => this.setState({ linkCopied: false }), 1500); };
+    try { if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(done, () => this._fallbackCopy(url, done)); else this._fallbackCopy(url, done); } catch (e) { this._fallbackCopy(url, done); }
+  };
+  copyPermalink = (id) => {
+    if (id == null || !this.nodeById || !this.nodeById[id]) return;
+    const n = this.nodeById[id];
+    const base = window.location.origin + window.location.pathname;
+    this._copyText((id === this.rootId) ? base : (base + '#node=' + encodeURIComponent(n.title)));
+  };
 
   hsl(n) { return 'hsl(' + Math.round(n.h) + ',' + Math.round(n.s) + '%,' + Math.round(n.l) + '%)'; }
   assignColors(startId) {
@@ -1209,7 +1389,22 @@ class Component extends DCLogic {
       this.colorChildren(c, depth + 1);
     });
   }
-  color(n) { const m = this.state.nodeColorMode; if (m && m !== 'category') return m; return n.col || this.PAL[n.group] || '#d8a942'; }
+  color(n) { const m = this.state.nodeColorMode; if (m === 'recent') return this.recencyColor(n); if (m && m !== 'category') return m; return n.col || this.PAL[n.group] || '#d8a942'; }
+  // 0..1 recency of a node's `modified` across the whole vault (1 = newest); null if undated.
+  _recencyT(n) {
+    const t = Date.parse(n && n.modified); if (isNaN(t)) return null;
+    if (!this._recRange) { let mn = Infinity, mx = -Infinity; Object.values(this.nodeById || {}).forEach((x) => { const d = Date.parse(x.modified); if (!isNaN(d)) { if (d < mn) mn = d; if (d > mx) mx = d; } }); this._recRange = { mn, mx }; }
+    const r = this._recRange; if (!isFinite(r.mn) || r.mx <= r.mn) return 1;
+    return (t - r.mn) / (r.mx - r.mn);
+  }
+  // Heatmap: old notes are a dim blue-grey, recent notes are bright gold; undated stay dim.
+  recencyColor(n) {
+    const u = this._recencyT(n); if (u == null) return '#4a4337';
+    const e = Math.pow(u, 0.6);   // bias so only genuinely recent notes glow hot
+    const c0 = [58, 70, 84], c1 = [255, 207, 90];
+    const v = (i) => Math.round(c0[i] + (c1[i] - c0[i]) * e);
+    return 'rgb(' + v(0) + ',' + v(1) + ',' + v(2) + ')';
+  }
   val(n) {
     if (n.depth === 0) return 22;
     if (n.depth === 1) return 13;
@@ -1290,13 +1485,14 @@ class Component extends DCLogic {
       const hov = n.id === this.hoverId;
       const fr = this.nodeRadius(n) * (hov ? 1.6 : 1);
       ctx.beginPath(); ctx.arc(n.x, n.y, fr, 0, 2 * Math.PI);
-      ctx.fillStyle = this.isAnchored(n.id) ? this.accentBright : (hov ? '#ffe08a' : this.color(n));
+      ctx.fillStyle = (n.id === (this.actingRoot != null ? this.actingRoot : this.rootId)) ? this.ROOT_COLOR : (this.isAnchored(n.id) ? this.ANCHOR_COLOR : (hov ? '#ffe08a' : this.color(n)));
       ctx.fill();
       return;
     }
     const baseR = this.nodeRadius(n);
     const col = this.color(n);
     const selected = this.isAnchored(n.id);
+    const fill = (n.id === (this.actingRoot != null ? this.actingRoot : this.rootId)) ? this.ROOT_COLOR : (selected ? this.ANCHOR_COLOR : col);
     const hovered = n.id === this.hoverId;
     const hasChildren = n.children && n.children.length;
     const zone = hovered ? this.hoverZoneFor(n) : 'node';
@@ -1325,14 +1521,25 @@ class Component extends DCLogic {
       ctx.strokeStyle = this.accentBright; ctx.globalAlpha = 0.2 + 0.4 * (1 - p); ctx.lineWidth = 1.4 / scale; ctx.stroke(); ctx.globalAlpha = 1;
     }
 
+    const isRoot = n.id === (this.actingRoot != null ? this.actingRoot : this.rootId);
     ctx.save();
-    ctx.shadowColor = col;
-    ctx.shadowBlur = (selected ? 30 : nodeHover ? 22 : 11);
+    ctx.shadowColor = fill;
+    ctx.shadowBlur = (isRoot ? 34 : selected ? 30 : nodeHover ? 22 : 11);
     ctx.beginPath(); ctx.arc(n.x, n.y, r, 0, 2 * Math.PI);
-    ctx.fillStyle = selected ? this.accentBright : col; ctx.fill();
+    ctx.fillStyle = fill; ctx.fill();
     ctx.shadowBlur = 0;
-    ctx.beginPath(); ctx.arc(n.x, n.y, r * 0.42, 0, 2 * Math.PI);
-    ctx.fillStyle = '#0f0c09'; ctx.globalAlpha = 0.55; ctx.fill(); ctx.globalAlpha = 1;
+    if (isRoot) {
+      // Root emblem: a 12-point grayish star on the bright fill, encased by a faint bright ring.
+      ctx.fillStyle = '#6c6354';
+      const pts = 12, Ro = r * 0.74, Ri = r * 0.42;
+      ctx.beginPath();
+      for (let i = 0; i < pts * 2; i++) { const a = i * Math.PI / pts - Math.PI / 2; const rad = (i % 2 === 0) ? Ro : Ri; const px = n.x + Math.cos(a) * rad, py = n.y + Math.sin(a) * rad; if (i) ctx.lineTo(px, py); else ctx.moveTo(px, py); }
+      ctx.closePath(); ctx.fill();
+      ctx.beginPath(); ctx.arc(n.x, n.y, r + 3.5, 0, 2 * Math.PI); ctx.strokeStyle = this.ROOT_COLOR; ctx.globalAlpha = 0.5; ctx.lineWidth = 1.5 / scale; ctx.stroke(); ctx.globalAlpha = 1;
+    } else {
+      ctx.beginPath(); ctx.arc(n.x, n.y, r * 0.42, 0, 2 * Math.PI);
+      ctx.fillStyle = '#0f0c09'; ctx.globalAlpha = 0.55; ctx.fill(); ctx.globalAlpha = 1;
+    }
 
     // expandable dotted ring — only for nodes that HAVE children (never on leaves)
     if (hasChildren) {
@@ -1350,7 +1557,7 @@ class Component extends DCLogic {
       for (let i = 0; i < 2; i++) {
         const p = ((t / 1400) + i * 0.5) % 1;
         ctx.beginPath(); ctx.arc(n.x, n.y, r + 2 + p * 16, 0, 2 * Math.PI);
-        ctx.strokeStyle = this.accentBright; ctx.globalAlpha = (1 - p) * 0.6; ctx.lineWidth = 1.6 / scale; ctx.stroke();
+        ctx.strokeStyle = this.ANCHOR_COLOR; ctx.globalAlpha = (1 - p) * 0.6; ctx.lineWidth = 1.6 / scale; ctx.stroke();
       }
       ctx.globalAlpha = 1;
     }
@@ -1401,6 +1608,68 @@ class Component extends DCLogic {
         if (this.graph.d3ReheatSimulation) this.graph.d3ReheatSimulation();
       }
     }
+    this.drawMinimap();
+  };
+  setMinimapEl = (el) => { if (el) this.miniEl = el; };
+  // Minimap: a small overview of the graph with a viewport box. Auto-shows for large vaults.
+  drawMinimap() {
+    const cv = this.miniEl; if (!cv || !this.graph || !this.graph.graphData) return;
+    const now = performance.now();
+    if (now - (this._miniT || 0) < 60) return;   // throttle ~16fps
+    this._miniT = now;
+    const nodes = this.graph.graphData().nodes || [];
+    const force = this.state.minimapForce;
+    const show = !this.state.fullPage && (force === true || (force !== false && nodes.length >= 40));
+    this._miniVisible = show;
+    if (!show) { if (cv.style.display !== 'none') cv.style.display = 'none'; return; }
+    if (cv.style.display === 'none') cv.style.display = 'block';
+    // Keep the minimap clear of a docked sidebar: left of a right-dock, above a bottom-dock.
+    let right = 16, bottom = 16;
+    const aside = document.querySelector('aside');
+    if (aside && this.selectedId != null) {
+      const ar = aside.getBoundingClientRect();
+      if (this.state.dock === 'right') right = Math.round(window.innerWidth - ar.left) + 16;
+      else if (this.state.dock === 'bottom') bottom = Math.round(window.innerHeight - ar.top) + 16;
+    }
+    if (cv.style.right !== right + 'px') cv.style.right = right + 'px';
+    if (cv.style.bottom !== bottom + 'px') cv.style.bottom = bottom + 'px';
+    const W = cv.width, H = cv.height, ctx = cv.getContext('2d');
+    let minx = Infinity, miny = Infinity, maxx = -Infinity, maxy = -Infinity;
+    for (const n of nodes) { if (n.x == null) continue; if (n.x < minx) minx = n.x; if (n.x > maxx) maxx = n.x; if (n.y < miny) miny = n.y; if (n.y > maxy) maxy = n.y; }
+    if (!isFinite(minx)) return;
+    const pad = 9, gw = Math.max(1, maxx - minx), gh = Math.max(1, maxy - miny);
+    const sc = Math.min((W - 2 * pad) / gw, (H - 2 * pad) / gh);
+    const ox = (W - gw * sc) / 2 - minx * sc, oy = (H - gh * sc) / 2 - miny * sc;
+    this._miniXf = { sc, ox, oy };
+    ctx.clearRect(0, 0, W, H);
+    ctx.fillStyle = 'rgba(16,13,9,0.85)'; ctx.fillRect(0, 0, W, H);
+    for (const n of nodes) {
+      if (n.x == null) continue;
+      const x = n.x * sc + ox, y = n.y * sc + oy;
+      const special = (n.id === (this.actingRoot != null ? this.actingRoot : this.rootId)) || this.isAnchored(n.id);
+      ctx.beginPath(); ctx.arc(x, y, special ? 2.6 : 1.3, 0, 2 * Math.PI);
+      ctx.fillStyle = special ? this.ROOT_COLOR : this.color(n);
+      ctx.globalAlpha = special ? 1 : 0.65; ctx.fill();
+    }
+    ctx.globalAlpha = 1;
+    try {
+      const el = this.graphEl, cw = el.clientWidth, ch = el.clientHeight;
+      const tl = this.graph.screen2GraphCoords(0, 0), br = this.graph.screen2GraphCoords(cw, ch);
+      if (tl && br) {
+        const rx = tl.x * sc + ox, ry = tl.y * sc + oy, rw = (br.x - tl.x) * sc, rh = (br.y - tl.y) * sc;
+        ctx.fillStyle = 'rgba(216,169,66,0.10)'; ctx.fillRect(rx, ry, rw, rh);
+        ctx.strokeStyle = '#d8a942'; ctx.lineWidth = 1.2; ctx.strokeRect(rx, ry, rw, rh);
+      }
+    } catch (e) {}
+  }
+  onMinimapDown = (e) => {
+    if (!this._miniXf || !this.graph) return;
+    e.preventDefault();
+    const cv = this.miniEl;
+    const toGraph = (ev) => { const r = cv.getBoundingClientRect(); const mx = (ev.clientX - r.left) * (cv.width / r.width), my = (ev.clientY - r.top) * (cv.height / r.height); const x = this._miniXf, gx = (mx - x.ox) / x.sc, gy = (my - x.oy) / x.sc; try { this.graph.centerAt(gx, gy, 120); } catch (_) {} };
+    toGraph(e);
+    const up = () => { window.removeEventListener('mousemove', toGraph); window.removeEventListener('mouseup', up); };
+    window.addEventListener('mousemove', toGraph); window.addEventListener('mouseup', up);
   };
 
   onClick(n) {
@@ -1438,7 +1707,7 @@ class Component extends DCLogic {
   // Shared style for the ‹ back / › forward buttons in either pane; greys out when there's nowhere to go.
   navBtnStyle(st, isFwd) {
     const enabled = isFwd ? (st.idx < st.hist.length - 1) : (st.idx > 0);
-    const s = { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', padding: '3px 5px', borderRadius: '7px', border: 'none', background: 'transparent', color: enabled ? '#8c8170' : '#433c30', cursor: enabled ? 'pointer' : 'default', fontSize: '20px', lineHeight: 1, transition: 'color .15s, background .15s, transform .15s' };
+    const s = { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', padding: '0', borderRadius: '7px', border: 'none', background: 'transparent', color: enabled ? '#8c8170' : '#433c30', cursor: enabled ? 'pointer' : 'default', fontSize: '17px', lineHeight: 1, transition: 'color .15s, background .15s, transform .15s' };
     if (isFwd) s.marginLeft = '-10px';
     return s;
   }
@@ -1485,6 +1754,7 @@ class Component extends DCLogic {
     }
     this.setState(patch);
     this.writeUrl(id);
+    if (this.state.localGraph && this.graph) this.graph.graphData(this.getVisible());
   }
 
   // --- URL anchoring: identify the targeted node by its title in the hash ---
@@ -1534,13 +1804,40 @@ class Component extends DCLogic {
     const id = this.idByTitle[title];
     if (!id || !this.nodeById[id]) return false;
     this.navigateTo(id);
+    const hp = this.urlHeadingParam();
+    if (hp) this.scrollToHeading(hp, 0);
     return true;
+  }
+  // --- Deep-link to a heading within a note: #node=Title&h=heading-slug ---
+  _slug(s) { return String(s || '').toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-'); }
+  urlHeadingParam() {
+    const h = window.location.hash || '';
+    const m = h.match(/[#&]h=([^&]*)/);
+    if (!m) return null;
+    try { return decodeURIComponent(m[1].replace(/\+/g, ' ')); } catch (e) { return m[1]; }
+  }
+  // Scroll the left reading pane to the heading whose slug matches; retries until the body loads.
+  scrollToHeading(slug, attempt) {
+    if (!slug) return;
+    attempt = attempt || 0;
+    const cont = document.getElementById('kg-sidebar-scroll');
+    if (cont) {
+      const heads = cont.querySelectorAll('.md-body h1, .md-body h2, .md-body h3, .md-body h4, .md-body h5, .md-body h6');
+      let found = null;
+      heads.forEach((h) => { if (!found && this._slug(h.textContent) === slug) found = h; });
+      if (found) { const top = found.getBoundingClientRect().top - cont.getBoundingClientRect().top + cont.scrollTop - 12; try { cont.scrollTop = Math.max(0, top); } catch (e) {} return; }
+    }
+    if (attempt < 25) setTimeout(() => this.scrollToHeading(slug, attempt + 1), 120);
   }
   onHashChange = () => {
     const title = this.urlTitleParam();
     if (!title) { return; }
     const id = this.idByTitle ? this.idByTitle[title] : null;
-    if (id && this.nodeById[id] && id !== this.selectedId) this.navigateTo(id);
+    if (id && this.nodeById[id]) {
+      if (id !== this.selectedId) this.navigateTo(id);
+      const hp = this.urlHeadingParam();
+      if (hp) this.scrollToHeading(hp, 0);
+    }
   };
   onPopState = () => {
     // Browser Back/Forward: re-anchor to whatever node the URL now names
@@ -1669,7 +1966,10 @@ class Component extends DCLogic {
     this._addingTab = true;
     this._restoreTabScroll = 'L:' + key;
     this.setState({ menuNodeId: null, tabs, tabNode, selectedKey: key }, () => { this._addingTab = false; });
-    this.focusNodeGraph(id);
+    // Center the node like "center node" / "locate in graph"; reflow only if its branch is collapsed.
+    const changed = this.revealPath ? this.revealPath(id) : false;
+    if (changed && this.graph) this.graph.graphData(this.getVisible());
+    const n = this.nodeById[id]; this.selectNode(id); if (n) this.focusNode(n, false);
   };
   // Open a node as a fresh tab in the RIGHT split section (mirrors openInNewTab).
   openInNewTabR = (id) => {
@@ -1702,7 +2002,15 @@ class Component extends DCLogic {
     this._restoreTabScroll = 'L:' + key;
     this._switchingTab = true;
     this.setState({ selectedKey: key });
-    this.focusNodeGraph(id);
+    // Center the tab's node in the graph using the exact same logic as the node's "center node"
+    // menu action and the sidebar "locate in graph" crosshair: re-select + soft focus. Reveal its
+    // branch only if it's collapsed — skipping a needless graphData reflow keeps the centering
+    // accurate (a reflow would jostle the layout out from under the camera).
+    const changed = this.revealPath ? this.revealPath(id) : false;
+    if (changed && this.graph) this.graph.graphData(this.getVisible());
+    const n = this.nodeById[id];
+    this.selectNode(id);
+    if (n) this.focusNode(n, false);
     this._switchingTab = false;
   };
   // Chrome-style: when a tab is closed, freeze the remaining tabs at their current width so the
@@ -1963,6 +2271,26 @@ class Component extends DCLogic {
     this.setState({ barMenu: null, tabs, tabsR: [], selectedKeyR: null, selectedIdR: null });
     if (act) this.openTab(act);
   };
+  // Close duplicate tabs: within each pane, keep one tab per node (the active one if it's a dup,
+  // else the first occurrence) and drop the rest. Panes are deduped independently, so a note kept
+  // open in both panes of a split is left alone.
+  closeDuplicateTabs = () => {
+    const dedupe = (arr, activeKey) => {
+      const byId = {};
+      (arr || []).forEach((k) => { if (k === activeKey) byId[this.nodeOf(k)] = k; });   // prefer the active tab as its node's survivor
+      (arr || []).forEach((k) => { const id = this.nodeOf(k); if (byId[id] == null) byId[id] = k; });
+      const keep = [], used = {};
+      (arr || []).forEach((k) => { const id = this.nodeOf(k); if (!used[id]) { used[id] = true; keep.push(byId[id]); } });
+      let act = activeKey;
+      if (act && keep.indexOf(act) < 0) act = byId[this.nodeOf(act)] || keep[0] || null;
+      return { keep, act };
+    };
+    const L = dedupe(this.state.tabs || [], this.state.selectedKey);
+    const R = dedupe(this.state.tabsR || [], this.state.selectedKeyR);
+    const prevSel = this.state.selectedKey;
+    this.setState({ barMenu: null, tabs: L.keep, selectedKey: L.act, tabsR: R.keep, selectedKeyR: R.act, selectedIdR: R.act ? this.nodeOf(R.act) : null });
+    if (L.act && L.act !== prevSel) this.openTab(L.act);
+  };
   // Right-click menu for any node link (meta-row lists, breadcrumbs, in-body wikilinks).
   openLinkMenu = (id, side) => (e) => {
     if (!id || !this.nodeById || !this.nodeById[id]) return;
@@ -2104,6 +2432,30 @@ class Component extends DCLogic {
       this.lockTabWidths('left');
       this.setState({ tabs: [key] });
       this.openTab(key);
+    }
+  };
+  // Close only the OTHER tabs in this pane that point to the same node as `key` (keep `key`).
+  closeOtherDuplicateTabs = (key, side) => {
+    this.setState({ tabMenu: null });
+    const id = this.nodeOf(key);
+    if (side === 'right') {
+      const tabsR = (this.state.tabsR || []);
+      if (!tabsR.includes(key)) return;
+      const keep = tabsR.filter((k) => k === key || this.nodeOf(k) !== id);
+      if (keep.length === tabsR.length) return;
+      this.lockTabWidths('right');
+      const selKR = keep.indexOf(this.state.selectedKeyR) >= 0 ? this.state.selectedKeyR : key;
+      this.ensureBody(this.nodeOf(selKR));
+      this.setState({ tabsR: keep, selectedKeyR: selKR, selectedIdR: this.nodeOf(selKR) });
+    } else {
+      const tabs = (this.state.tabs || []);
+      if (!tabs.includes(key)) return;
+      const keep = tabs.filter((k) => k === key || this.nodeOf(k) !== id);
+      if (keep.length === tabs.length) return;
+      this.lockTabWidths('left');
+      const selK = keep.indexOf(this.state.selectedKey) >= 0 ? this.state.selectedKey : key;
+      this.setState({ tabs: keep });
+      this.openTab(selK);
     }
   };
 
@@ -2635,6 +2987,16 @@ class Component extends DCLogic {
     }
     const a = e.target && e.target.closest ? e.target.closest('.wikilink') : null;
     if (a) { e.preventDefault(); const id = a.getAttribute('data-wikilink'); this.navigateTo(id); return; }
+    const head = e.target && e.target.closest ? e.target.closest('.md-body h1, .md-body h2, .md-body h3, .md-body h4, .md-body h5, .md-body h6') : null;
+    if (head && this.selectedId != null && this.nodeById[this.selectedId]) {
+      const selc = window.getSelection && window.getSelection();
+      if (selc && !selc.isCollapsed) return;   // don't hijack text selection
+      const n = this.nodeById[this.selectedId];
+      const base = window.location.origin + window.location.pathname;
+      const slug = encodeURIComponent(this._slug(head.textContent));
+      this._copyText(this.selectedId === this.rootId ? (base + '#h=' + slug) : (base + '#node=' + encodeURIComponent(n.title) + '&h=' + slug));
+      return;
+    }
     const link = e.target && e.target.closest ? e.target.closest('a[href]') : null;
     if (link && !link.classList.contains('wikilink')) {
       const href = link.getAttribute('href');
@@ -2755,7 +3117,7 @@ class Component extends DCLogic {
       el.scrollTop = 0;
     }
   }
-  toggleMenu = () => this.setState((s) => ({ menuOpen: !s.menuOpen }));
+  toggleMenu = () => this.setState((s) => ({ menuOpen: !s.menuOpen, menuAt: null }));
   closeMenu = () => this.setState({ menuOpen: false });
   menuFit = () => { this.fitView(); this.setState({ menuOpen: false }); };
   menuShowAll = () => { this.expandAll(); this.setState({ menuOpen: false }); };
@@ -2773,6 +3135,21 @@ class Component extends DCLogic {
     }
     if (this.graph) this.graph.graphData(this.getVisible());
     this.setState((s) => ({ tick: (s.tick || 0) + 1 }));
+  };
+  // Hide a node's whole branch: remove the right-clicked node itself AND its entire subtree from
+  // the graph (a 'show all' / reset brings them back). The branch is also collapsed so it stays
+  // folded one level at a time if later revealed.
+  menuHide = (id) => {
+    const n = this.nodeById[id]; if (!n) return;
+    if (id === (this.actingRoot || this.rootId)) { this.setState({ menuNodeId: null }); return; }   // never hide the root
+    (this.hidden || (this.hidden = new Set())).add(id);
+    const stack = [n];
+    while (stack.length) {
+      const cur = stack.pop();
+      if (cur.children && cur.children.length) { this.collapsed.add(cur.id); cur.children.forEach((c) => stack.push(c)); }
+    }
+    if (this.graph) this.graph.graphData(this.getVisible());
+    this.setState({ menuNodeId: null });
   };
   menuMakeRoot = (id) => {
     const n = this.nodeById[id]; if (!n) return;
@@ -2792,9 +3169,11 @@ class Component extends DCLogic {
     const el = e.target;
     if (this.state.sideMenu && !(el && el.closest && el.closest('[data-sidemenu]'))) this.setState({ sideMenu: false });
     if (this.state.recentOpen && !(el && el.closest && el.closest('[data-recent]'))) this.setState({ recentOpen: false });
+    if (this.state.pinOpen && !(el && el.closest && el.closest('[data-pins]'))) this.setState({ pinOpen: false });
     if (this.state.menuOpen && !(el && el.closest && el.closest('[data-controlsmenu]'))) this.setState({ menuOpen: false });
     if (this.state.tabMenu && !(el && el.closest && el.closest('[data-tabmenu]'))) this.setState({ tabMenu: null });
     if (this.state.barMenu && !(el && el.closest && el.closest('[data-barmenu]'))) this.setState({ barMenu: null });
+    if (this.state.bgMenu && !(el && el.closest && el.closest('[data-bgmenu]'))) this.setState({ bgMenu: null });
     if (this.state.linkMenu && !(el && el.closest && el.closest('[data-linkmenu]'))) this.setState({ linkMenu: null });
     // Click anywhere outside the open node context menu closes it (right-click that opens a
     // new menu re-sets menuNodeId immediately afterwards, so this doesn't fight it).
@@ -2804,9 +3183,23 @@ class Component extends DCLogic {
     if (!this.graph) return;
     const pt = this.evtGraphPt(e);
     const best = pt ? this.nearestNode(pt) : null;
-    if (best) { e.preventDefault(); clearTimeout(this._menuHideT); this.setState({ menuNodeId: best.id }); }
-    else this.setState({ menuNodeId: null });
+    if (best) { e.preventDefault(); clearTimeout(this._menuHideT); this.setState({ menuNodeId: best.id, menuOpen: false }); }
+    else { e.preventDefault(); this.setState({ menuNodeId: null, menuOpen: true, menuAt: { x: e.clientX, y: e.clientY } }, () => requestAnimationFrame(this._clampControlsMenu)); }
   };
+  // After a right-click opens the controls menu at the cursor, nudge it fully on-screen.
+  _clampControlsMenu = () => {
+    const el = document.getElementById('kg-controls-menu'); if (!el) return;
+    const r = el.getBoundingClientRect(), pad = 8;
+    let nx = r.left, ny = r.top;
+    if (r.right > window.innerWidth - pad) nx = window.innerWidth - pad - r.width;
+    if (r.bottom > window.innerHeight - pad) ny = window.innerHeight - pad - r.height;
+    if (nx < pad) nx = pad;
+    if (ny < pad) ny = pad;
+    el.style.left = Math.round(nx) + 'px';
+    el.style.top = Math.round(ny) + 'px';
+  };
+  // Toggle the minimap on/off (overrides the auto-show-for-large-vaults default).
+  toggleMinimap = () => { this.setState({ bgMenu: null, minimapForce: this._miniVisible ? false : true }); };
   toggleTree = () => this.setState((s) => ({ showTree: !s.showTree }), () => { if (this.graph) this.graph.graphData(this.getVisible()); });  toggleWiki = () => this.setState((s) => ({ showWiki: !s.showWiki }), () => { if (this.graph) this.graph.graphData(this.getVisible()); });
   _kickGraph = () => { if (!this.graph) return; try { this.graph.linkColor(this.graph.linkColor()); this.graph.linkWidth(this.graph.linkWidth()); this.graph.nodeRelSize(this.graph.nodeRelSize()); } catch (e) {} };
   setNodeSize = (e) => { const v = parseFloat(e.target.value); this.setState({ nodeSizeMul: v }); try { sessionStorage.setItem('kg-node-size', v); } catch (_) {} this._kickGraph(); };
@@ -3053,10 +3446,11 @@ class Component extends DCLogic {
   onRecentKey = (e) => {
     if (!this.state.recentOpen) return;
     const list = this._recentList || [];
-    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.min((s.recentIdx || 0) + 1, list.length - 1) }), () => this.scrollRecentActive()); }
-    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.max((s.recentIdx || 0) - 1, 0) }), () => this.scrollRecentActive()); }
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') this._guardHover();
+    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.min((s.recentIdx || 0) + 1, list.length - 1) }), () => { this.scrollRecentActive(); this.hoverFromList(this._recentList, this.state.recentIdx); }); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.max((s.recentIdx || 0) - 1, 0) }), () => { this.scrollRecentActive(); this.hoverFromList(this._recentList, this.state.recentIdx); }); }
     else if (e.key === 'Enter') { e.preventDefault(); const it = list[this.state.recentIdx || 0]; if (it) it.onClick(); }
-    else if (e.key === 'Escape') { this.setState({ recentOpen: false }); }
+    else if (e.key === 'Escape') { this.setState({ recentOpen: false }); this.hoverId = null; }
   };
   scrollRecentActive = () => {
     const c = document.getElementById('kg-recent-list'); if (!c) return;
@@ -3065,13 +3459,35 @@ class Component extends DCLogic {
     if (top < c.scrollTop) c.scrollTop = top;
     else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
   };
-  scrollSearchActive = () => {
-    const c = document.getElementById('kg-search-results'); if (!c) return;
-    const btn = c.children[this.state.searchIdx || 0]; if (!btn) return;
+  onPinKey = (e) => {
+    if (!this.state.pinOpen) return;
+    const list = this._pinList || [];
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') this._guardHover();
+    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ pinIdx: Math.min((s.pinIdx || 0) + 1, list.length - 1) }), () => { this.scrollPinActive(); this.hoverFromList(this._pinList, this.state.pinIdx); }); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ pinIdx: Math.max((s.pinIdx || 0) - 1, 0) }), () => { this.scrollPinActive(); this.hoverFromList(this._pinList, this.state.pinIdx); }); }
+    else if (e.key === 'Enter') { e.preventDefault(); const it = list[this.state.pinIdx || 0]; if (it) it.onClick(); }
+    else if (e.key === 'Escape') { this.setState({ pinOpen: false }); this.hoverId = null; }
+  };
+  scrollPinActive = () => {
+    const c = document.getElementById('kg-pin-list'); if (!c) return;    const btn = c.querySelectorAll('[data-pin-item]')[this.state.pinIdx || 0]; if (!btn) return;
     const top = btn.offsetTop, bot = top + btn.offsetHeight;
     if (top < c.scrollTop) c.scrollTop = top;
     else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
   };
+  scrollSearchActive = () => {
+    const c = document.getElementById('kg-search-results'); if (!c) return;    const btn = c.children[this.state.searchIdx || 0]; if (!btn) return;
+    const top = btn.offsetTop, bot = top + btn.offsetHeight;
+    if (top < c.scrollTop) c.scrollTop = top;
+    else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
+  };
+  // Highlight the graph node for the dropdown row at `idx`, exactly like hovering it with the mouse.
+  hoverFromList = (list, idx) => {
+    const it = (list || [])[idx || 0]; const id = it && it.id;
+    if (id != null && this.nodeById && this.nodeById[id]) { if (this.hoverId !== id) { this.hoverId = id; this.setState((s) => ({ tick: (s.tick || 0) + 1 })); } }
+  };
+  // After keyboard nav, the list scrolls under a stationary cursor and fires a spurious mouseenter
+  // that would yank the highlight to wherever the mouse sits. Ignore hover briefly so keys win.
+  _guardHover = () => { this._ignoreHover = true; clearTimeout(this._ignoreHoverT); this._ignoreHoverT = setTimeout(() => { this._ignoreHover = false; }, 320); };
   onSearchPick = (id) => { this.setState({ query: '', searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); this.navigateTo(id); };
 
   pathLabel(n) { let c = n, g = 0; while (c && c.depth > 1 && g < 40) { c = this.nodeById[c.parent]; g++; } return c ? c.title : ''; }
@@ -3230,11 +3646,26 @@ class Component extends DCLogic {
     recentAll.sort((a, b) => (Date.parse(b.modified) || 0) - (Date.parse(a.modified) || 0));
     const recentLimit = this.state.recentLimit || 14;
     const recentActive = this.state.recentIdx || 0;
-    const recentList = recentAll.slice(0, recentLimit).map((n, i) => ({ title: n.title, when: this.relativeDate(n.modified), domain: (this.DOMAIN_NAME && this.DOMAIN_NAME[n.group]) || '', style: Object.assign({}, recentItemStyle, i === recentActive ? { background: '#2c2316', boxShadow: 'inset 2px 0 0 #d8a942' } : null), onClick: () => { this.setState({ recentOpen: false }); this.navigateTo(n.id); }, onContext: this.openLinkMenu(n.id), onHover: () => { this.hoverId = n.id; this.setState({ recentIdx: i }); }, onLeave: () => { this.hoverId = null; } }));
+    const recentList = recentAll.slice(0, recentLimit).map((n, i) => ({ id: n.id, title: n.title, when: this.relativeDate(n.modified), domain: (this.DOMAIN_NAME && this.DOMAIN_NAME[n.group]) || '', style: Object.assign({}, recentItemStyle, i === recentActive ? { background: '#2c2316', boxShadow: 'inset 2px 0 0 #d8a942' } : null), onClick: () => { this.setState({ recentOpen: false }); this.navigateTo(n.id); }, onContext: this.openLinkMenu(n.id), onHover: () => { if (this._ignoreHover) return; this.hoverId = n.id; this.setState({ recentIdx: i }); }, onLeave: () => { this.hoverId = null; } }));
     this._recentList = recentList;
+    const pinActive = this.state.pinIdx || 0;
+    const pinnedNodes = (this.pinned ? [...this.pinned] : []).map((id) => this.nodeById && this.nodeById[id]).filter(Boolean);
+    const pinList = pinnedNodes.map((n, i) => ({
+      id: n.id,
+      title: n.name || n.title, domain: (this.DOMAIN_NAME && this.DOMAIN_NAME[n.group]) || n.group || '',
+      rowStyle: { display: 'flex', alignItems: 'center', borderRadius: '7px', background: i === pinActive ? '#2c2316' : 'transparent', boxShadow: i === pinActive ? 'inset 2px 0 0 #d8a942' : 'none' },
+      style: { flex: '1 1 0', minWidth: 0, textAlign: 'left', background: 'transparent', border: 'none', cursor: 'pointer', padding: '7px 4px 7px 9px' },
+      onClick: () => { this.setState({ pinOpen: false }); this.navigateTo(n.id); },
+      onContext: this.openLinkMenu(n.id, 'left'),
+      onHover: () => { if (this._ignoreHover) return; this.hoverId = n.id; if ((this.state.pinIdx || 0) !== i) this.setState({ pinIdx: i }); },
+      onUnpin: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.togglePin(n.id); },
+    }));
+    this._pinList = pinList;
     const recentHasMore = recentAll.length > recentLimit;
     const mNode = this.state.menuNodeId && this.nodeById ? this.nodeById[this.state.menuNodeId] : null;
     const menuBtn = { display: 'block', width: '100%', textAlign: 'left', whiteSpace: 'nowrap', background: 'transparent', border: 'none', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#c9bca6', padding: '6px 9px', borderRadius: '5px', transition: 'all .12s ease' };
+    const pItemsRaw = this.state.paletteOpen ? this.paletteList() : [];
+    const pIdx = Math.min(this.state.paletteIdx || 0, Math.max(0, pItemsRaw.length - 1));
     let menuShow = false, menuStyle = {}, menuExpandLabel = '', menuExpandDisabled = true, menuExpandStyle = menuBtn;
     if (mNode && this.graph && mNode.x != null) {
       let sp; try { sp = this.graph.graph2ScreenCoords(mNode.x, mNode.y); } catch (e) { sp = null; }
@@ -3380,6 +3811,10 @@ class Component extends DCLogic {
     // Tab right-click menu
     const tm = this.state.tabMenu;
     const bm = this.state.barMenu;
+    const bg = this.state.bgMenu;
+    const tmHasDupes = tm ? (function (self) { const arr = tm.side === 'right' ? (self.state.tabsR || []) : (self.state.tabs || []); const id = self.nodeOf(tm.key); return arr.filter((k) => self.nodeOf(k) === id).length > 1; })(this) : false;
+    const barDupCount = (arr) => { const s = new Set(); let d = 0; (arr || []).forEach((k) => { const id = this.nodeOf(k); if (s.has(id)) d++; else s.add(id); }); return d; };
+    const barHasDupes = (barDupCount(this.state.tabs) + barDupCount(this.state.tabsR)) > 0;
     const tabMenuShow = !!tm;
     const tabMenuStyle = tm ? { position: 'fixed', top: Math.min(tm.y, winH - 70) + 'px', left: Math.min(tm.x, winW - 220) + 'px', zIndex: 70 } : { display: 'none' };
     // Split orientation derived from splitPos: which side the secondary pane sits on.
@@ -3413,6 +3848,9 @@ class Component extends DCLogic {
       tabMenuSplitTriggerStyle: Object.assign({}, menuBtn, { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }, (tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
       splitSubStyle: Object.assign({ position: 'absolute', top: '-5px', minWidth: '184px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '7px', padding: '5px', boxShadow: '0 14px 30px -14px rgba(0,0,0,0.8)', fontFamily: "'JetBrains Mono', monospace", zIndex: 80 }, (tm && (Math.min(tm.x, winW - 220) + 388 > winW)) ? { right: '100%', marginRight: '0px' } : { left: '100%', marginLeft: '0px' }),
       tabMenuDup: tm ? () => this.duplicateTab(tm.key, tm.side) : () => {},
+      tabMenuCloseDupes: tm ? () => this.closeOtherDuplicateTabs(tm.key, tm.side) : () => {},
+      tabMenuCloseDupesDisabled: !tmHasDupes,
+      tabMenuCloseDupesStyle: Object.assign({}, menuBtn, tmHasDupes ? null : { color: '#4a4337', cursor: 'default' }),
       tabMenuCloseOthers: tm ? () => this.closeOtherTabs(tm.key, tm.side) : () => {},
       tabMenuCloseOthersDisabled: tm ? ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) <= 1) : true,
       tabMenuCloseOthersStyle: Object.assign({}, menuBtn, (tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
@@ -3425,11 +3863,21 @@ class Component extends DCLogic {
       subMoveRight: tm ? () => this.splitMove(tm.key, 'right') : () => {},
       openBarMenu: this.openBarMenu,
       barMenuShow: !!bm,
+      bgMenuShow: !!bg,
+      bgMenuStyle: bg ? { position: 'fixed', top: Math.min(bg.y, winH - 60) + 'px', left: Math.min(bg.x, winW - 210) + 'px', zIndex: 70 } : { display: 'none' },
+      toggleMinimap: this.toggleMinimap,
+      menuToggleMinimap: () => { this.setState({ menuOpen: false }); this.toggleMinimap(); },
+      minimapToggleLabel: this._miniVisible ? '◱ Hide minimap' : '◱ Show minimap',
       barMenuStyle: bm ? { position: 'fixed', top: Math.min(bm.y, winH - 60) + 'px', left: Math.min(bm.x, winW - 210) + 'px', zIndex: 70 } : { display: 'none' },
       barUnsplit: () => this.unsplitPanels(),
       barUnsplitDisabled: !splitOn,
       barUnsplitStyle: Object.assign({}, menuBtn, splitOn ? null : { color: '#4a4337', cursor: 'default' }),
+      barCloseDupes: () => this.closeDuplicateTabs(),
+      barCloseDupesDisabled: !barHasDupes,
+      barCloseDupesStyle: Object.assign({}, menuBtn, barHasDupes ? null : { color: '#4a4337', cursor: 'default' }),
       setGraphEl: this.setGraphEl,
+      setMinimapEl: this.setMinimapEl,
+      onMinimapDown: this.onMinimapDown,
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
       setTipEl: this.setTipEl,
@@ -3449,10 +3897,21 @@ class Component extends DCLogic {
       reloadPage: () => this.collapseAll(),
       expandAll: this.expandAll,
       toggleTree: this.toggleTree,
+      toggleTheme: () => { this.setState({ menuOpen: false }); this.toggleTheme(); },
+      themeLabel: this.state.theme === 'light' ? '◑ Switch to dark theme' : '◐ Switch to light theme',
       toggleWiki: this.toggleWiki,
+      infoStop: (e) => { if (e && e.stopPropagation) e.stopPropagation(); if (e && e.preventDefault) e.preventDefault(); },
+      infoTreeOn: () => { if (this.state.infoTip !== 'tree') this.setState({ infoTip: 'tree' }); },
+      infoWikiOn: () => { if (this.state.infoTip !== 'wiki') this.setState({ infoTip: 'wiki' }); },
+      infoOff: () => { if (this.state.infoTip) this.setState({ infoTip: null }); },
+      infoTreeShow: this.state.infoTip === 'tree',
+      infoWikiShow: this.state.infoTip === 'wiki',
       treeBtnStyle: Object.assign({}, ghostBtnStyle, { color: this.state.showTree === false ? '#5f574a' : '#d8a942', borderColor: this.state.showTree === false ? '#29221a' : '#4a3c1d' }),
       wikiBtnStyle: Object.assign({}, ghostBtnStyle, { color: this.state.showWiki === false ? '#5f574a' : '#7fb0b8', borderColor: this.state.showWiki === false ? '#29221a' : '#3a4a4d' }),
       menuOpen: this.state.menuOpen,
+      controlsMenuStyle: this.state.menuAt
+        ? { position: 'fixed', top: Math.min(this.state.menuAt.y, winH - 400) + 'px', left: Math.min(this.state.menuAt.x, winW - 264) + 'px', minWidth: '250px', maxHeight: 'calc(100vh - 16px)', overflowY: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.78)', zIndex: 70, display: 'flex', flexDirection: 'column', gap: '2px' }
+        : { position: 'absolute', top: 'calc(100% + 8px)', right: 0, minWidth: '250px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.78)', zIndex: 60, display: 'flex', flexDirection: 'column', gap: '2px' },
       toggleMenu: this.toggleMenu,
       closeMenu: this.closeMenu,
       menuFit: this.menuFit,
@@ -3471,10 +3930,11 @@ class Component extends DCLogic {
       setNodeSize: this.setNodeSize,
       setEdgeWidth: this.setEdgeWidth,
       nodeColorSwatches: (function(self){
-        var mk = function(c, active){ return { background: c === 'category' ? 'conic-gradient(from 90deg, #d8a942, #8fd0db, #9fb87f, #b06ad8, #c97f63, #d8a942)' : c, width: '20px', height: '20px', borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto', padding: 0, border: active ? '2px solid #f4cf6a' : '2px solid #2a2218', boxShadow: active ? '0 0 0 2px rgba(244,207,106,0.35)' : 'none', transition: 'border-color .15s, box-shadow .15s' }; };
-        var opts = [['category','By category'],['#d8a942','Gold'],['#8fd0db','Cyan'],['#9fb87f','Sage'],['#b06ad8','Violet'],['#c97f63','Coral']];
+        var swf = function(c, active){ return { display: 'inline-block', flex: '0 0 auto', background: c === 'category' ? 'conic-gradient(from 90deg, #d8a942, #8fd0db, #9fb87f, #b06ad8, #c97f63, #d8a942)' : 'linear-gradient(135deg, #3a4654, #b9923f 60%, #ffcf5a)', width: '20px', height: '20px', borderRadius: '50%', border: active ? '2px solid #f4cf6a' : '2px solid #2a2218', boxShadow: active ? '0 0 0 2px rgba(244,207,106,0.35)' : 'none' }; };
+        var rowf = function(active){ return { display: 'flex', alignItems: 'center', gap: '10px', width: '100%', textAlign: 'left', border: 'none', borderRadius: '7px', padding: '5px 7px', cursor: 'pointer', background: active ? '#241c12' : 'transparent', boxShadow: active ? 'inset 2px 0 0 #d8a942' : 'none', transition: 'background .12s' }; };
+        var opts = [['category','By category','Hue by knowledge domain'],['recent','Heatmap by recency','Newest notes glow gold, oldest dim']];
         var cur = self.state.nodeColorMode || 'category';
-        return opts.map(function(o){ return { onClick: self.setNodeColor(o[0]), title: o[1], sw: mk(o[0], cur === o[0]) }; });
+        return opts.map(function(o){ return { onClick: self.setNodeColor(o[0]), title: o[1], desc: o[2], sw: swf(o[0], cur === o[0]), row: rowf(cur === o[0]) }; });
       })(this),
       treeColorSwatches: (function(self){
         var mk = function(c, active){ return { background: c, width: '20px', height: '20px', borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto', padding: 0, border: active ? '2px solid #f4cf6a' : '2px solid #2a2218', boxShadow: active ? '0 0 0 2px rgba(244,207,106,0.35)' : 'none', transition: 'border-color .15s, box-shadow .15s' }; };
@@ -3544,6 +4004,10 @@ class Component extends DCLogic {
       fullIcon: this.state.fullPage ? '\u2212' : '⤢',
       closeSidebar: () => this.clearSelection(),
       locateInGraph: this.locateInGraph,
+      copyLink: () => this.copyPermalink(this.selectedId),
+      copyLinkR: () => this.copyPermalink(this.state.selectedIdR),
+      copyLinkTitle: this.state.linkCopied ? 'Link copied!' : 'Copy link to this note',
+      copyLinkStyle: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', marginRight: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', color: this.state.linkCopied ? '#9fb87f' : '#d8a942', transition: 'color .15s, transform .15s' },
       navBack: this.navBack, navForward: this.navForward,
       navBackR: this.navBackR, navForwardR: this.navForwardR,
       navBackStyleR: this.navBtnStyle(this.navStateR(), false),
@@ -3559,6 +4023,22 @@ class Component extends DCLogic {
       toggleRecent: () => this.setState((s) => ({ recentOpen: !s.recentOpen, recentIdx: 0 })),
       onRecentKey: this.onRecentKey,
       recentList, recentItemStyle,
+      pinOpen: !!this.state.pinOpen,
+      togglePins: () => this.setState((s) => ({ pinOpen: !s.pinOpen, pinIdx: 0 })),
+      onPinKey: this.onPinKey,
+      pinBtnIcon: (this.pinned && this.pinned.size) ? '★' : '☆',
+      pinBtnColor: '#b78f3a',
+      pinEmpty: !(this.pinned && this.pinned.size),
+      pinList,
+      pinUnpinStyle: { flex: '0 0 auto', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '24px', height: '24px', marginRight: '5px', border: 'none', borderRadius: '6px', background: 'transparent', color: '#6c6354', cursor: 'pointer', fontSize: '12px', lineHeight: 1, transition: 'color .12s, background .12s' },
+      togglePinCur: () => this.togglePin(this.selectedId),
+      togglePinR: () => this.togglePin(this.state.selectedIdR),
+      pinStarCur: (this.pinned && this.selectedId != null && this.pinned.has(this.selectedId)) ? '★' : '☆',
+      pinTitleCur: (this.pinned && this.selectedId != null && this.pinned.has(this.selectedId)) ? 'Unpin this note' : 'Pin this note',
+      pinStarStyleCur: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', fontSize: '13px', lineHeight: 1, color: (this.pinned && this.selectedId != null && this.pinned.has(this.selectedId)) ? '#f4cf6a' : '#7a7060', transition: 'color .15s, transform .15s' },
+      pinStarR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? '★' : '☆',
+      pinTitleR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? 'Unpin this note' : 'Pin this note',
+      pinStarStyleR: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', fontSize: '13px', lineHeight: 1, color: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? '#f4cf6a' : '#7a7060', transition: 'color .15s, transform .15s' },
       recentHasMore,
       onRecentScroll: (e) => { const el = e.target; if (recentHasMore && el && el.scrollTop + el.clientHeight >= el.scrollHeight - 60) this.setState((s) => ({ recentLimit: (s.recentLimit || 14) + 14 })); },
       onSearchFocus: this.onSearchFocus,
@@ -3588,10 +4068,14 @@ class Component extends DCLogic {
       sideRoot: sel ? () => { this.setState({ sideMenu: false }); if (sideRootIsActing) this.menuUnmake(); else this.menuMakeRoot(sel.id); } : () => {},
       menuCenter: mNode ? () => { this.setState({ menuNodeId: null }); this.selectNode(mNode.id); this.focusNode(mNode, false); } : () => {},
       menuExpand: mNode ? () => this.menuToggle(mNode.id) : () => {},
+      menuHide: mNode ? () => this.menuHide(mNode.id) : () => {},
+      menuHideDisabled: !(mNode && mNode.id !== (this.actingRoot || this.rootId)),
+      menuHideStyle: Object.assign({}, menuBtn, (mNode && mNode.id !== (this.actingRoot || this.rootId)) ? null : { color: '#4a4337', cursor: 'default' }),
       menuRootShow: !!(mNode && mNode.id !== this.rootId),
       menuRootLabel: (mNode && mNode.id === this.actingRoot && mNode.id !== this.rootId) ? '\u21ba unmake acting root' : '\u2693 make acting root',
       menuRoot: mNode ? () => ((mNode.id === this.actingRoot && mNode.id !== this.rootId) ? this.menuUnmake() : this.menuMakeRoot(mNode.id)) : () => {},
       menuNewTab: mNode ? () => this.openInNewTab(mNode.id) : () => {},
+      menuOpenHere: mNode ? () => { this.setState({ menuNodeId: null }); this.navigateTo(mNode.id); } : () => {},
       showTabs, showToolbarTabs, splitToolbar, vertSplit, primaryInPane, secondaryInPane, tbTabItems, tbSide, tbAddTab, tabItems,
       leftTabsWrapStyle: (splitOn && !spVert) ? { flex: '0 0 calc(' + Math.round((spRev ? (1 - (this.state.splitRatio || 0.5)) : (this.state.splitRatio || 0.5)) * 100) + '% - ' + (spRev ? 37 : 28) + 'px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
       leftPaneStyle: splitOn ? { flex: '0 0 ' + Math.round((this.state.splitRatio || 0.5) * 100) + '%', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 } : { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 },
@@ -3655,6 +4139,39 @@ class Component extends DCLogic {
       openMdConfig: () => this.setState({ sideMenu: false, mdConfigOpen: true }),
       closeMdConfig: () => this.setState({ mdConfigOpen: false }),
       stopProp: (e) => e.stopPropagation(),
+      paletteOpen: !!this.state.paletteOpen,
+      paletteQuery: this.state.paletteQuery || '',
+      closePalette: () => this.setState({ paletteOpen: false }),
+      onPaletteInput: (e) => this.setState({ paletteQuery: e.target.value, paletteIdx: 0 }),
+      setPaletteEl: (el) => { if (el && el !== this._paletteEl) { this._paletteEl = el; setTimeout(() => { try { el.focus(); } catch (e) {} }, 0); } },
+      onPaletteKey: (e) => {
+        const items = this.paletteList();
+        if (e.key === 'ArrowDown') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.min((s.paletteIdx || 0) + 1, items.length - 1) })); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); this.setState((s) => ({ paletteIdx: Math.max((s.paletteIdx || 0) - 1, 0) })); }
+        else if (e.key === 'Enter') { e.preventDefault(); const it = items[Math.min(this.state.paletteIdx || 0, items.length - 1)]; if (it) { this.setState({ paletteOpen: false }); it.run(); } }
+        else if (e.key === 'Escape') { e.preventDefault(); this.setState({ paletteOpen: false }); }
+      },
+      paletteItems: pItemsRaw.map((it, i) => ({
+        icon: it.icon, label: it.label, kind: it.kind,
+        onRun: () => { this.setState({ paletteOpen: false }); it.run(); },
+        onHover: () => { if ((this.state.paletteIdx || 0) !== i) this.setState({ paletteIdx: i }); },
+        style: { display: 'flex', alignItems: 'center', gap: '10px', width: '100%', textAlign: 'left', border: 'none', borderRadius: '7px', padding: '9px 11px', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '12.5px', background: i === pIdx ? '#241c12' : 'transparent', boxShadow: i === pIdx ? 'inset 2px 0 0 #d8a942' : 'none' },
+      })),
+      paletteEmpty: !!this.state.paletteOpen && pItemsRaw.length === 0,
+      shortcutsOpen: !!this.state.shortcutsOpen,
+      closeShortcuts: () => this.setState({ shortcutsOpen: false }),
+      openShortcuts: () => this.setState({ shortcutsOpen: true }),
+      shortcutRows: [
+        { keys: '\u2318K  /  Ctrl K', label: 'Open the command palette' },
+        { keys: '/', label: 'Focus search' },
+        { keys: '?', label: 'Toggle this shortcuts panel' },
+        { keys: '\u2191 / \u2193', label: 'Walk to parent / first child' },
+        { keys: '\u2190 / \u2192', label: 'Walk to previous / next sibling' },
+        { keys: 'Enter', label: 'Open the highlighted result' },
+        { keys: 'Esc', label: 'Close a panel, or clear the selection' },
+        { keys: 'Double-click', label: 'Expand / collapse a node\u2019s children' },
+        { keys: 'Right-click', label: 'Node, tab and toolbar menus' },
+      ],
       mdCfgRowStyle: { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '14px', width: '100%', textAlign: 'left', background: 'transparent', border: 'none', borderRadius: '7px', cursor: 'pointer', padding: '9px 12px', transition: 'background .15s' },
       mdConfigItems: this.MD_CONFIG.map((it) => {
         const on = this.mc(it.key);
