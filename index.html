@@ -14,7 +14,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!--KG:title--><title>/var/log</title><!--/KG:title-->
 <!--KG:og--><!--/KG:og-->
-<link rel="icon" href="favicon.ico">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
 <script src="./support.js"></script>
 </head>
 <body>
@@ -309,10 +309,10 @@
         <div title="Drag to move / undock the panel" style="flex: 0 0 auto; width: 28px; height: 28px; display: {{ gripDisplay }}; align-items: center; justify-content: center; cursor: grab; color: #6c6354; transition: color .15s;" style-hover="color: #d8a942;">
           <svg width="11" height="16" viewBox="0 0 11 16" fill="currentColor" aria-hidden="true"><circle cx="2.5" cy="3" r="1.4"></circle><circle cx="8.5" cy="3" r="1.4"></circle><circle cx="2.5" cy="8" r="1.4"></circle><circle cx="8.5" cy="8" r="1.4"></circle><circle cx="2.5" cy="13" r="1.4"></circle><circle cx="8.5" cy="13" r="1.4"></circle></svg>
         </div>
-        <div style="{{ leftTabsWrapStyle }}">
-          <sc-if value="{{ showToolbarTabs }}" hint-placeholder-val="{{ false }}">
-            <div data-tabstrip="{{ tbSide }}" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
-              <sc-for list="{{ tbTabItems }}" as="t" hint-placeholder-count="2">
+        <div style="flex: 1 1 0; min-width: 0; display: flex; align-items: center;">
+          <sc-for list="{{ toolbarStrips }}" as="s" hint-placeholder-count="1">
+            <div data-tabstrip="{{ s.id }}" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="{{ s.style }}">
+              <sc-for list="{{ s.tabItems }}" as="t" hint-placeholder-count="2">
                 <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
                   <span style="{{ t.dotStyle }}"></span>
                   <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
@@ -320,30 +320,11 @@
                   <span style="{{ t.sepStyle }}"></span>
                 </div>
               </sc-for>
-              <button type="button" onClick="{{ tbAddTab }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
+              <button type="button" onClick="{{ s.addTab }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
             </div>
-          </sc-if>
+          </sc-for>
         </div>
-        <sc-if value="{{ splitToolbar }}" hint-placeholder-val="{{ false }}">
-          <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="flex: 0 0 9px; align-self: stretch; margin: -4px 0; cursor: ew-resize; position: relative; display: flex; align-items: center; justify-content: center;">
-            <div style="{{ splitHighlightStyle }}"></div>
-            <div style="{{ splitBarStyle }}"></div>
-          </div>
-        </sc-if>
         <div style="{{ rightHalfStyle }}">
-          <sc-if value="{{ splitToolbar }}" hint-placeholder-val="{{ false }}">
-            <div data-tabstrip="right" onMouseLeave="{{ releaseTabLock }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
-              <sc-for list="{{ tabItemsR }}" as="t" hint-placeholder-count="1">
-                <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
-                  <span style="{{ t.dotStyle }}"></span>
-                  <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
-                  <button type="button" onClick="{{ t.onClose }}" onMouseEnter="{{ t.onCloseEnter }}" onMouseLeave="{{ t.onCloseLeave }}" title="Close tab" style="{{ t.closeStyle }}">✕</button>
-                  <span style="{{ t.sepStyle }}"></span>
-                </div>
-              </sc-for>
-              <button type="button" onClick="{{ addTabRight }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
-            </div>
-          </sc-if>
           <div style="display: flex; align-items: center; gap: 3px; flex-shrink: 0; margin-left: 8px; margin-right: 4px;">
           <div data-sidemenu="1" style="position: relative;" onMouseEnter="{{ openSideMenu }}" onMouseLeave="{{ closeSideMenuSoon }}">
             <button type="button" onClick="{{ toggleFull }}" title="Toggle full-page reading view" style="display: inline-flex; align-items: center; justify-content: center; width: 30px; height: 30px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">{{ fullIcon }}</button>
@@ -367,12 +348,13 @@
       </div>
     </div>
     <div id="kg-splitarea" style="{{ splitAreaStyle }}">
-    <div onMouseDownCapture="{{ setPaneLeft }}" style="{{ leftPaneStyle }}">
-      <div style="{{ paneGlowL }}"></div>
-<sc-if value="{{ primaryInPane }}" hint-placeholder-val="{{ false }}">
+    <sc-for list="{{ paneVals }}" as="p" hint-placeholder-count="1">
+    <div data-pane="{{ p.id }}" onMouseDownCapture="{{ p.activate }}" style="{{ p.style }}">
+      <div style="{{ p.glowStyle }}"></div>
+    <sc-if value="{{ p.showStrip }}" hint-placeholder-val="{{ false }}">
       <div onMouseLeave="{{ releaseTabLock }}" onContextMenu="{{ openBarMenu }}" style="flex-shrink: 0; display: flex; align-items: center; padding: 5px; border-bottom: 1px solid rgba(42,34,24,0.55); background: rgba(16,13,9,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);">
-        <div data-tabstrip="left" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
-          <sc-for list="{{ tabItems }}" as="t" hint-placeholder-count="2">
+        <div data-tabstrip="{{ p.id }}" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
+          <sc-for list="{{ p.tabItems }}" as="t" hint-placeholder-count="2">
             <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
               <span style="{{ t.dotStyle }}"></span>
               <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
@@ -380,19 +362,19 @@
               <span style="{{ t.sepStyle }}"></span>
             </div>
           </sc-for>
-          <button type="button" onClick="{{ addTabLeft }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
+          <button type="button" onClick="{{ p.addTab }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
         </div>
       </div>
     </sc-if>
-    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 6px 0 12px; margin-right: {{ leftBarMR }}; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
-      <button type="button" onClick="{{ navBack }}" title="Back" style="{{ navBackStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
-      <button type="button" onClick="{{ navForward }}" title="Forward" style="{{ navFwdStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
-      <button type="button" onClick="{{ locateInGraph }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; padding: 0; border: none; border-radius: 6px; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
-      <button type="button" onClick="{{ togglePinCur }}" title="{{ pinTitleCur }}" style="{{ pinStarStyleCur }}" style-hover="color: #ffe9a8; transform: scale(1.18);">{{ pinStarCur }}</button>
+    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 6px 0 12px; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
+      <button type="button" onClick="{{ p.navBack }}" title="Back" style="{{ p.navBackStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
+      <button type="button" onClick="{{ p.navForward }}" title="Forward" style="{{ p.navFwdStyle }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
+      <button type="button" onClick="{{ p.locate }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; padding: 0; border: none; border-radius: 6px; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
+      <button type="button" onClick="{{ p.togglePin }}" title="{{ p.pinTitle }}" style="{{ pinStarStyle }}" style-hover="color: #ffe9a8; transform: scale(1.18);">{{ p.pinStar }}</button>
       <div style="position: relative; flex: 1 1 auto; min-width: 0;">
-        <input type="text" value="{{ sideDisplayValue }}" onInput="{{ onSideSearchInput }}" onFocus="{{ onSideSearchFocus }}" onBlur="{{ onSearchBlur }}" onKeyDown="{{ onSearchKey }}" ref="{{ setSideSearchEl }}" placeholder="{{ sideSearchPlaceholder }}" style="box-sizing: border-box; width: 100%; height: 30px; padding: 0 32px 0 12px; border-radius: 7px; border: 1px solid #29221a; background: #14100b; color: #b9ac94; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.03em; outline: none; transition: all .2s;" style-focus="border-color: #d8a942;" style-hover="border-color: #d8a942; background: #1b150d; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);">
-        <button type="button" onClick="{{ copyLink }}" title="{{ copyLinkTitle }}" style="position: absolute; right: 6px; top: 50%; transform: translateY(-50%); display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; padding: 0; border: none; border-radius: 5px; background: transparent; color: #b78f3a; cursor: pointer; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: translateY(-50%) scale(1.18);"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"></path><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"></path></svg></button>
-        <sc-if value="{{ sideSearchOpen }}" hint-placeholder-val="{{ false }}">
+        <input type="text" value="{{ p.searchValue }}" onInput="{{ p.onSearchInput }}" onFocus="{{ p.onSearchFocus }}" onBlur="{{ onSearchBlur }}" onKeyDown="{{ onSearchKey }}" ref="{{ p.setSearchEl }}" placeholder="{{ sideSearchPlaceholder }}" style="box-sizing: border-box; width: 100%; height: 30px; padding: 0 32px 0 12px; border-radius: 7px; border: 1px solid #29221a; background: #14100b; color: #b9ac94; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.03em; outline: none; transition: all .2s;" style-focus="border-color: #d8a942;" style-hover="border-color: #d8a942; background: #1b150d; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);">
+        <button type="button" onClick="{{ p.copyLink }}" title="{{ copyLinkTitle }}" style="position: absolute; right: 6px; top: 50%; transform: translateY(-50%); display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; padding: 0; border: none; border-radius: 5px; background: transparent; color: #b78f3a; cursor: pointer; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: translateY(-50%) scale(1.18);"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"></path><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"></path></svg></button>
+        <sc-if value="{{ p.searchOpen }}" hint-placeholder-val="{{ false }}">
           <div class="gx-scroll" style="position: absolute; top: calc(100% + 8px); left: 0; right: 0; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 6px; box-shadow: 0 22px 46px -18px rgba(0,0,0,0.75); max-height: 320px; overflow-y: auto; scrollbar-gutter: stable; z-index: 60;">
             <sc-for list="{{ searchResults }}" as="r" hint-placeholder-count="6">
               <button type="button" onMouseDown="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" style="{{ r.style }}" style-hover="background: #1d1710;">
@@ -405,8 +387,8 @@
         </sc-if>
       </div>
       <div data-sbmenu="1" style="position: relative; flex: 0 0 auto;">
-        <button type="button" onClick="{{ toggleSbL }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border: none; border-radius: 6px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
-        <sc-if value="{{ sbMenuOpenL }}" hint-placeholder-val="{{ false }}">
+        <button type="button" onClick="{{ p.toggleSb }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border: none; border-radius: 6px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
+        <sc-if value="{{ p.sbOpen }}" hint-placeholder-val="{{ false }}">
           <div style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
             <button type="button" onClick="{{ sideRaw }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ sideRawLabel }}</button>
             <button type="button" onClick="{{ openMdConfig }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✎ edit markdown renderer</button>
@@ -414,39 +396,39 @@
         </sc-if>
       </div>
     </div>
-        <div id="kg-sidebar-scroll" class="gx-scroll" style="flex: 1; min-height: 0; overflow-y: auto; scrollbar-gutter: stable; padding: 0 17px 40px 26px; margin: {{ scrollMargin }};">
+        <div id="{{ p.scrollId }}" class="gx-scroll" onScroll="{{ p.onScroll }}" style="flex: 1; min-height: 0; overflow-y: auto; scrollbar-gutter: stable; padding: 0 17px 40px 26px; margin: {{ scrollMargin }};">
       <div style="max-width: {{ contentMax }}; margin: 0 auto; width: 100%;">
-      <sc-if value="{{ hasSel }}" hint-placeholder-val="{{ false }}">
+      <sc-if value="{{ p.hasSel }}" hint-placeholder-val="{{ false }}">
         <div style="margin-top: 18px;">
           <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-bottom: 16px;">
-            <sc-if value="{{ hasParent }}" hint-placeholder-val="{{ false }}">
-              <button type="button" onClick="{{ parentClick }}" onContextMenu="{{ parentContext }}" onMouseEnter="{{ parentHover }}" onMouseLeave="{{ parentLeave }}" title="Anchor to parent note" style="background: none; border: none; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;" style-hover="color: #ece1cf;">↑ parent</button>
+            <sc-if value="{{ p.hasParent }}" hint-placeholder-val="{{ false }}">
+              <button type="button" onClick="{{ p.parentClick }}" onContextMenu="{{ p.parentContext }}" onMouseEnter="{{ p.parentHover }}" onMouseLeave="{{ p.parentLeave }}" title="Anchor to parent note" style="background: none; border: none; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;" style-hover="color: #ece1cf;">↑ parent</button>
             </sc-if>
-            <div onMouseEnter="{{ popChild }}" onMouseLeave="{{ popLeave }}" style="position: relative;">
-              <span style="color: #9fb87f; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">{{ childCountLabel }}</span>
-              <sc-if value="{{ showChildPop }}" hint-placeholder-val="{{ false }}">
-                <div onMouseEnter="{{ popKeep }}" onMouseLeave="{{ popLeave }}" style="{{ popStyle }}">
-                  <sc-for list="{{ childList }}" as="it" hint-placeholder-count="2">
+            <div onMouseEnter="{{ p.popChild }}" onMouseLeave="{{ p.popLeave }}" style="position: relative;">
+              <span style="color: #9fb87f; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">{{ p.childCountLabel }}</span>
+              <sc-if value="{{ p.showChildPop }}" hint-placeholder-val="{{ false }}">
+                <div onMouseEnter="{{ p.popKeep }}" onMouseLeave="{{ p.popLeave }}" style="{{ popStyle }}">
+                  <sc-for list="{{ p.childList }}" as="it" hint-placeholder-count="2">
                     <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" onMouseEnter="{{ it.onHover }}" onMouseLeave="{{ it.onLeave }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
                   </sc-for>
                 </div>
               </sc-if>
             </div>
-            <div onMouseEnter="{{ popLinked }}" onMouseLeave="{{ popLeave }}" style="position: relative;">
-              <span style="color: #8fd0db; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">→ {{ outCount }} linked</span>
-              <sc-if value="{{ showLinkedPop }}" hint-placeholder-val="{{ false }}">
-                <div onMouseEnter="{{ popKeep }}" onMouseLeave="{{ popLeave }}" style="{{ popStyle }}">
-                  <sc-for list="{{ linkedList }}" as="it" hint-placeholder-count="2">
+            <div onMouseEnter="{{ p.popLinked }}" onMouseLeave="{{ p.popLeave }}" style="position: relative;">
+              <span style="color: #8fd0db; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">→ {{ p.outCount }} linked</span>
+              <sc-if value="{{ p.showLinkedPop }}" hint-placeholder-val="{{ false }}">
+                <div onMouseEnter="{{ p.popKeep }}" onMouseLeave="{{ p.popLeave }}" style="{{ popStyle }}">
+                  <sc-for list="{{ p.linkedList }}" as="it" hint-placeholder-count="2">
                     <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" onMouseEnter="{{ it.onHover }}" onMouseLeave="{{ it.onLeave }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
                   </sc-for>
                 </div>
               </sc-if>
             </div>
-            <div onMouseEnter="{{ popBack }}" onMouseLeave="{{ popLeave }}" style="position: relative;">
-              <span style="color: #b78f3a; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">← {{ inCount }} backlinks</span>
-              <sc-if value="{{ showBackPop }}" hint-placeholder-val="{{ false }}">
-                <div onMouseEnter="{{ popKeep }}" onMouseLeave="{{ popLeave }}" style="{{ popStyle }}">
-                  <sc-for list="{{ backList }}" as="it" hint-placeholder-count="2">
+            <div onMouseEnter="{{ p.popBack }}" onMouseLeave="{{ p.popLeave }}" style="position: relative;">
+              <span style="color: #b78f3a; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">← {{ p.inCount }} backlinks</span>
+              <sc-if value="{{ p.showBackPop }}" hint-placeholder-val="{{ false }}">
+                <div onMouseEnter="{{ p.popKeep }}" onMouseLeave="{{ p.popLeave }}" style="{{ popStyle }}">
+                  <sc-for list="{{ p.backList }}" as="it" hint-placeholder-count="2">
                     <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" onMouseEnter="{{ it.onHover }}" onMouseLeave="{{ it.onLeave }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: block;">{{ it.label }}</span><sc-if value="{{ it.snip }}" hint-placeholder-val="{{ false }}"><span style="display: block; margin-top: 3px; font-size: 9.5px; line-height: 1.45; color: #6c6354; white-space: normal;">{{ it.snip }}</span></sc-if></button>
                   </sc-for>
                 </div>
@@ -454,16 +436,16 @@
             </div>
           </div>
 
-          <div style="display: block; margin-bottom: 14px; font-size: 11px; line-height: 1.7;"><sc-for list="{{ crumbs }}" as="c" hint-placeholder-count="3"><span style="{{ c.leadStyle }}">{{ c.lead }}</span><span role="link" tabindex="0" onClick="{{ c.onClick }}" onContextMenu="{{ c.onContext }}" onMouseEnter="{{ c.onHover }}" onMouseLeave="{{ c.onLeave }}" style="{{ c.style }}" style-hover="color: #d8a942; text-decoration: underline; text-underline-offset: 3px; cursor: pointer;">{{ c.name }}</span></sc-for></div>
+          <div style="display: block; margin-bottom: 14px; font-size: 11px; line-height: 1.7;"><sc-for list="{{ p.crumbs }}" as="c" hint-placeholder-count="3"><span style="{{ c.leadStyle }}">{{ c.lead }}</span><span role="link" tabindex="0" onClick="{{ c.onClick }}" onContextMenu="{{ c.onContext }}" onMouseEnter="{{ c.onHover }}" onMouseLeave="{{ c.onLeave }}" style="{{ c.style }}" style-hover="color: #d8a942; text-decoration: underline; text-underline-offset: 3px; cursor: pointer;">{{ c.name }}</span></sc-for></div>
 
-          <h2 style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; color: #ece1cf; font-size: 29px; line-height: 1.08; letter-spacing: -0.015em; text-wrap: pretty;">{{ selName }}</h2>
+          <h2 style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; color: #ece1cf; font-size: 29px; line-height: 1.08; letter-spacing: -0.015em; text-wrap: pretty;">{{ p.selName }}</h2>
 
-          <div style="margin-top: 11px; font-size: 10.5px; letter-spacing: 0.03em; color: #6c6354;">{{ dateLine }}</div>
+          <div style="margin-top: 11px; font-size: 10.5px; letter-spacing: 0.03em; color: #6c6354;">{{ p.dateLine }}</div>
 
           <hr style="border: none; border-top: 1px solid #221c14; margin: 20px 0;">
-          {{ mdNode }}
+          {{ p.mdNode }}
 
-          <sc-if value="{{ showGiscus }}" hint-placeholder-val="{{ false }}">
+          <sc-if value="{{ p.showGiscus }}" hint-placeholder-val="{{ false }}">
             <div style="margin-top: 30px; padding-top: 22px; border-top: 1px solid #221c14;">
               <div style="font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: #b78f3a; margin-bottom: 14px;">Discussion</div>
               <div id="kg-giscus"></div>
@@ -475,110 +457,14 @@
       </sc-if>
       </div>
     </div>
-    </div>
-    <sc-if value="{{ splitOn }}" hint-placeholder-val="{{ false }}">
-      <div onMouseDown="{{ startSplitResize }}" onMouseEnter="{{ splitHoverOn }}" onMouseLeave="{{ splitHoverOff }}" title="Drag to resize" style="{{ splitHandleStyle }}">
-        <div style="{{ splitHighlightStyleC }}"></div>
-        <div style="{{ splitBarStyle }}"></div>
-      </div>
-      <div onMouseDownCapture="{{ setPaneRight }}" style="{{ rightPaneStyle }}">
-        <div style="{{ paneGlowR }}"></div>
-<sc-if value="{{ secondaryInPane }}" hint-placeholder-val="{{ false }}">
-          <div onMouseLeave="{{ releaseTabLock }}" onContextMenu="{{ openBarMenu }}" style="flex-shrink: 0; display: flex; align-items: center; padding: 5px; border-bottom: 1px solid rgba(42,34,24,0.55); background: rgba(16,13,9,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);">
-            <div data-tabstrip="right" class="gx-scroll" style="flex: 1 1 0; min-width: 0; display: flex; align-items: center; gap: 5px; overflow-x: auto; overflow-y: hidden;">
-              <sc-for list="{{ tabItemsR }}" as="t" hint-placeholder-count="1">
-                <div data-tab-item="1" onMouseDown="{{ t.onDown }}" onContextMenu="{{ t.onContext }}" onMouseEnter="{{ t.onHover }}" onMouseLeave="{{ t.onLeave }}" title="{{ t.title }}" style="{{ t.style }}">
-                  <span style="{{ t.dotStyle }}"></span>
-                  <span data-tablabel="1" style="{{ t.labelStyle }}">{{ t.label }}</span>
-                  <button type="button" onClick="{{ t.onClose }}" onMouseEnter="{{ t.onCloseEnter }}" onMouseLeave="{{ t.onCloseLeave }}" title="Close tab" style="{{ t.closeStyle }}">✕</button>
-                  <span style="{{ t.sepStyle }}"></span>
-                </div>
-              </sc-for>
-              <button type="button" onClick="{{ addTabRight }}" title="Open the root note in a new tab" style="flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border: none; border-radius: 7px; background: transparent; color: #8c8170; cursor: pointer; font-size: 17px; line-height: 1; transition: color .15s, background .15s, box-shadow .15s, transform .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: inset 0 0 0 1px #d8a942; transform: scale(1.12);">+</button>
-            </div>
-          </div>
-        </sc-if>
-    <div style="flex-shrink: 0; box-sizing: border-box; height: {{ sideSearchH }}; display: flex; align-items: center; gap: 7px; padding: 0 6px 0 12px; margin-left: {{ rightBarML }}; background: rgba(34,28,19,0.94); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid rgba(42,34,24,0.55); position: relative; z-index: 19;">
-      <button type="button" onClick="{{ navBackR }}" title="Back" style="{{ navBackStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">‹</button>
-      <button type="button" onClick="{{ navForwardR }}" title="Forward" style="{{ navFwdStyleR }}" style-hover="color: #f4cf6a; background: rgba(216,169,66,0.18); transform: scale(1.12);">›</button>
-      <button type="button" onClick="{{ locateInGraphR }}" title="Locate in graph" style="display: inline-flex; align-items: center; justify-content: center; flex: 0 0 auto; width: 24px; height: 24px; padding: 0; border: none; border-radius: 6px; background: transparent; color: #d8a942; cursor: pointer; font-size: 17px; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: scale(1.22);">⌖</button>
-      <button type="button" onClick="{{ togglePinR }}" title="{{ pinTitleR }}" style="{{ pinStarStyleR }}" style-hover="color: #ffe9a8; transform: scale(1.18);">{{ pinStarR }}</button>
-      <div style="position: relative; flex: 1 1 auto; min-width: 0;">
-        <input type="text" value="{{ sideDisplayValueR }}" onInput="{{ onSideSearchInputR }}" onFocus="{{ onSideSearchFocusR }}" onBlur="{{ onSearchBlur }}" onKeyDown="{{ onSearchKey }}" ref="{{ setSideSearchElR }}" placeholder="{{ sideSearchPlaceholder }}" style="box-sizing: border-box; width: 100%; height: 30px; padding: 0 32px 0 12px; border-radius: 7px; border: 1px solid #29221a; background: #14100b; color: #b9ac94; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 0.03em; outline: none; transition: all .2s;" style-focus="border-color: #d8a942;" style-hover="border-color: #d8a942; background: #1b150d; box-shadow: 0 0 0 1px rgba(216,169,66,0.25);">
-        <button type="button" onClick="{{ copyLinkR }}" title="{{ copyLinkTitle }}" style="position: absolute; right: 6px; top: 50%; transform: translateY(-50%); display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; padding: 0; border: none; border-radius: 5px; background: transparent; color: #b78f3a; cursor: pointer; transition: color .15s, transform .15s;" style-hover="color: #ffe9a8; transform: translateY(-50%) scale(1.18);"><svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7 0l3-3a5 5 0 0 0-7-7l-1.5 1.5"></path><path d="M14 11a5 5 0 0 0-7 0l-3 3a5 5 0 0 0 7 7l1.5-1.5"></path></svg></button>
-        <sc-if value="{{ sideSearchOpenR }}" hint-placeholder-val="{{ false }}">
-          <div class="gx-scroll" style="position: absolute; top: calc(100% + 8px); left: 0; right: 0; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 6px; box-shadow: 0 22px 46px -18px rgba(0,0,0,0.75); max-height: 320px; overflow-y: auto; scrollbar-gutter: stable; z-index: 60;">
-            <sc-for list="{{ searchResults }}" as="r" hint-placeholder-count="6">
-              <button type="button" onMouseDown="{{ r.onClick }}" onContextMenu="{{ r.onContext }}" onMouseEnter="{{ r.onHover }}" style="{{ r.style }}" style-hover="background: #1d1710;">
-                <span style="display: block; color: #ece1cf; font-size: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">{{ r.title }}</span>
-                <span style="display: block; color: #7a7060; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; margin-top: 2px;">{{ r.path }}</span>
-                {{ r.snippet }}
-              </button>
-            </sc-for>
-          </div>
-        </sc-if>
-      </div>
-      <div data-sbmenu="1" style="position: relative; flex: 0 0 auto;">
-        <button type="button" onClick="{{ toggleSbR }}" title="More options" style="display: inline-flex; align-items: center; justify-content: center; width: 26px; height: 26px; border: none; border-radius: 6px; background: transparent; color: #8c8170; cursor: pointer; font-size: 16px; transition: all .15s;" style-hover="color: #f4cf6a; background: #2c2316; box-shadow: 0 0 0 1px rgba(216,169,66,0.3);">⋮</button>
-        <sc-if value="{{ sbMenuOpenR }}" hint-placeholder-val="{{ false }}">
-          <div style="position: absolute; top: calc(100% + 6px); right: 0; left: auto; min-width: 212px; background: #16120c; border: 1px solid #2a2218; border-radius: 8px; padding: 5px; display: flex; flex-direction: column; gap: 2px; box-shadow: 0 18px 40px -18px rgba(0,0,0,0.85); z-index: 45;">
-            <button type="button" onClick="{{ sideRaw }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ sideRawLabel }}</button>
-            <button type="button" onClick="{{ openMdConfig }}" style="{{ menuItemBtnStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">✎ edit markdown renderer</button>
-          </div>
-        </sc-if>
-      </div>
-    </div>
-                <div id="kg-sidebar-scroll-r" class="gx-scroll" style="flex: 1; min-height: 0; overflow-y: auto; scrollbar-gutter: stable; padding: 0 17px 40px 26px; margin: 3px 3px 3px 0;">
-          <div style="max-width: 100%; margin: 0 auto; width: 100%;">
-          <sc-if value="{{ rHasSel }}" hint-placeholder-val="{{ false }}">
-            <div style="margin-top: 18px;">
-              <div style="display: flex; align-items: center; gap: 18px; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; margin-bottom: 16px;">
-                <sc-if value="{{ rHasParent }}" hint-placeholder-val="{{ false }}">
-                  <button type="button" onClick="{{ rParentClick }}" onContextMenu="{{ rParentContext }}" title="Open parent note" style="background: none; border: none; padding: 0; font-family: 'JetBrains Mono', monospace; font-size: 10.5px; letter-spacing: 0.08em; color: #7a7060; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;" style-hover="color: #ece1cf;">↑ parent</button>
-                </sc-if>
-                <div onMouseEnter="{{ popChildR }}" onMouseLeave="{{ popLeaveR }}" style="position: relative;">
-                  <span style="color: #9fb87f; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">{{ rChildCountLabel }}</span>
-                  <sc-if value="{{ rShowChildPop }}" hint-placeholder-val="{{ false }}">
-                    <div onMouseEnter="{{ popKeepR }}" onMouseLeave="{{ popLeaveR }}" style="{{ popStyle }}">
-                      <sc-for list="{{ rChildList }}" as="it" hint-placeholder-count="2">
-                        <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
-                      </sc-for>
-                    </div>
-                  </sc-if>
-                </div>
-                <div onMouseEnter="{{ popLinkedR }}" onMouseLeave="{{ popLeaveR }}" style="position: relative;">
-                  <span style="color: #8fd0db; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">→ {{ rOutCount }} linked</span>
-                  <sc-if value="{{ rShowLinkedPop }}" hint-placeholder-val="{{ false }}">
-                    <div onMouseEnter="{{ popKeepR }}" onMouseLeave="{{ popLeaveR }}" style="{{ popStyle }}">
-                      <sc-for list="{{ rLinkedList }}" as="it" hint-placeholder-count="2">
-                        <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
-                      </sc-for>
-                    </div>
-                  </sc-if>
-                </div>
-                <div onMouseEnter="{{ popBackR }}" onMouseLeave="{{ popLeaveR }}" style="position: relative;">
-                  <span style="color: #b78f3a; cursor: pointer; text-decoration: underline dotted; text-underline-offset: 3px;">← {{ rInCount }} backlinks</span>
-                  <sc-if value="{{ rShowBackPop }}" hint-placeholder-val="{{ false }}">
-                    <div onMouseEnter="{{ popKeepR }}" onMouseLeave="{{ popLeaveR }}" style="{{ popStyle }}">
-                      <sc-for list="{{ rBackList }}" as="it" hint-placeholder-count="2">
-                        <button type="button" onClick="{{ it.onClick }}" onContextMenu="{{ it.onContext }}" style="{{ it.style }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;">{{ it.label }}</button>
-                      </sc-for>
-                    </div>
-                  </sc-if>
-                </div>
-              </div>
-              <div style="display: block; margin-bottom: 14px; font-size: 11px; line-height: 1.7;"><sc-for list="{{ rCrumbs }}" as="c" hint-placeholder-count="3"><span style="{{ c.leadStyle }}">{{ c.lead }}</span><span role="link" tabindex="0" onClick="{{ c.onClick }}" onContextMenu="{{ c.onContext }}" style="{{ c.style }}" style-hover="color: #d8a942; text-decoration: underline; text-underline-offset: 3px; cursor: pointer;">{{ c.name }}</span></sc-for></div>
-              <h2 style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; color: #ece1cf; font-size: 29px; line-height: 1.08; letter-spacing: -0.015em; text-wrap: pretty;">{{ rSelName }}</h2>
-              <div style="margin-top: 11px; font-size: 10.5px; letter-spacing: 0.03em; color: #6c6354;">{{ rDateLine }}</div>
-              <hr style="border: none; border-top: 1px solid #221c14; margin: 20px 0;">
-              {{ rMdNode }}
-              <div style="margin-top: 28px; padding-top: 16px;"></div>
-            </div>
-          </sc-if>
-          </div>
-        </div>
-      </div>
+    <sc-if value="{{ p.dropShow }}" hint-placeholder-val="{{ false }}">
+      <div style="{{ p.dropStyle }}"></div>
     </sc-if>
+    </div>
+    </sc-for>
+    <sc-for list="{{ paneDividers }}" as="d" hint-placeholder-count="1">
+      <div onMouseDown="{{ d.onDown }}" title="Drag to resize" style="{{ d.style }}"></div>
+    </sc-for>
     </div>
   </aside>
 
@@ -778,7 +664,7 @@
   &quot;edgeFlow&quot;: { &quot;editor&quot;: &quot;boolean&quot;, &quot;default&quot;: true, &quot;tsType&quot;: &quot;boolean&quot; }
 }">
 class Component extends DCLogic {
-  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, tabs: [], tabsR: [], activePane: 'left', selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, barMenu: null, metaPopR: null, splitRatio: 0.5, splitPos: (function(){ try { var p = sessionStorage.getItem('kg-split-pos'); return ['right','left','up','down'].indexOf(p) >= 0 ? p : 'right'; } catch(e){ return 'right'; } })(), splitSubOpen: false, legendHidden: (typeof window !== 'undefined' && window.innerWidth < 700), minimapForce: (typeof window !== 'undefined' && window.innerWidth < 700) ? false : undefined, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsedL: false, tabsCollapsedR: false, lockTabWL: 0, lockTabWR: 0, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeSizeByDegree: (function(){ try { return sessionStorage.getItem('kg-node-degree') !== '0'; } catch(e){ return true; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'category'; } catch(e){ return 'category'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
+  state = { mode: '2d', selectedId: null, ready: false, anim: false, tick: 0, fullPage: false, query: '', searchFocus: false, searchIdx: 0, menuNodeId: null, linkMenu: null, layout: { pane: 'p1' }, panes: { p1: { tabs: [], selectedKey: null } }, activePane: 'p1', tabNode: {}, tabMenu: null, barMenu: null, metaPop: null, splitSubOpen: false, legendHidden: (typeof window !== 'undefined' && window.innerWidth < 700), minimapForce: (typeof window !== 'undefined' && window.innerWidth < 700) ? false : undefined, splitHover: false, hoverTab: null, closeHover: null, tabsCollapsed: {}, lockTabW: {}, winW: (typeof window !== 'undefined' ? window.innerWidth : 1280), winH: (typeof window !== 'undefined' ? window.innerHeight : 800), searchExpanded: false, headerH: 64, sidebarW: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-w')); return (v && v >= 320) ? v : 452; } catch(e){ return 452; } })(), mdConfig: this.loadMdConfig(), mdConfigOpen: false, mdCfgExpanded: {}, showTree: true, showWiki: true, menuOpen: false, hoverId: null, dragging: false, dockPreview: null, undockLeft: null, undockTop: null, dock: (function(){ try { var d = sessionStorage.getItem('kg-dock'); return ['right','left','bottom','undock'].indexOf(d) >= 0 ? d : 'right'; } catch(e){ return 'right'; } })(), sidebarH: (function(){ try { var v = parseFloat(sessionStorage.getItem('kg-sidebar-h')); return (v && v >= 200) ? v : Math.round((typeof window !== 'undefined' ? window.innerHeight : 800) * 0.46); } catch(e){ return 360; } })(), bootMsg: 'fetching the garden \u2026', nodeSizeMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-node-size')); return (v>0)?v:1; } catch(e){ return 1; } })(), edgeWidthMul: (function(){ try { var v=parseFloat(sessionStorage.getItem('kg-edge-width')); return (v>0)?v:1; } catch(e){ return 1; } })(), nodeSizeByDegree: (function(){ try { return sessionStorage.getItem('kg-node-degree') !== '0'; } catch(e){ return true; } })(), nodeColorMode: (function(){ try { return sessionStorage.getItem('kg-node-color')||'category'; } catch(e){ return 'category'; } })(), treeEdgeColor: (function(){ try { return sessionStorage.getItem('kg-tree-color')||'#d8a942'; } catch(e){ return '#d8a942'; } })(), wikiEdgeColor: (function(){ try { return sessionStorage.getItem('kg-wiki-color')||'#8fd0db'; } catch(e){ return '#8fd0db'; } })() };
 
   MD_CONFIG = [
     { key: 'math', label: 'LaTeX math ($…$)', ex: 'Mass–energy: $E = mc^2$' },
@@ -864,13 +750,14 @@ class Component extends DCLogic {
   // width, so a single measurement per side tells us the whole strip has collapsed. Gated by a
   // layout signature so it only runs when something that affects tab width actually changed.
   measureTabCollapse = () => {
-    const sig = [(this.state.tabs || []).length, (this.state.tabsR || []).length, Math.round(this.state.sidebarW || 0), this.state.dock, this.state.fullPage, this.state.winW, this.state.lockTabWL, this.state.lockTabWR].join('|');
+    const panes = this.state.panes || {};
+    const sig = [Object.keys(panes).map((k) => k + ':' + ((panes[k].tabs || []).length)).join(','), Math.round(this.state.sidebarW || 0), this.state.dock, this.state.fullPage, this.state.winW, JSON.stringify(this.state.lockTabW || {}), JSON.stringify(this.state.layout || {})].join('|');
     if (sig === this._tabSig) return;
     this._tabSig = sig;
     requestAnimationFrame(() => {
-      const meas = (s) => { const strip = document.querySelector('[data-tabstrip="' + s + '"]'); if (!strip || !strip.children.length) return false; return strip.children[0].getBoundingClientRect().width <= 48; };
-      const cl = meas('left'), cr = meas('right');
-      if (cl !== this.state.tabsCollapsedL || cr !== this.state.tabsCollapsedR) this.setState({ tabsCollapsedL: cl, tabsCollapsedR: cr });
+      const out = {};
+      document.querySelectorAll('[data-tabstrip]').forEach((strip) => { const it = strip.querySelector('[data-tab-item]'); if (it) out[strip.getAttribute('data-tabstrip')] = it.getBoundingClientRect().width <= 48; });
+      if (JSON.stringify(out) !== JSON.stringify(this.state.tabsCollapsed || {})) this.setState({ tabsCollapsed: out });
     });
   };
   updateLegendPos = () => {
@@ -1092,7 +979,13 @@ class Component extends DCLogic {
     const nodes = this.graph.graphData().nodes;
     let best = null, bestD = Infinity;
     for (let i = 0; i < nodes.length; i++) { const nd = nodes[i]; const d = Math.hypot(nd.x - pt.x, nd.y - pt.y); if (d < bestD) { bestD = d; best = nd; } }
-    if (best && bestD <= this.nodeRadius(best)) { this.selectNode(best.id); this.focusNode(best, false); }
+    if (best && bestD <= this.nodeRadius(best)) {
+      // Route to the active pane, exactly like a node click (activateNode) — never force the
+      // primary. Otherwise a library background-click on a near-miss anchors the primary while
+      // the app's own handler anchors the active pane, updating both.
+      if (!this.activeIsPrimary()) { this.navPane(this.activePaneEff(), best.id); return; }
+      this.selectNode(best.id); this.focusNode(best, false);
+    }
   }
   hoverZoneFor(n) {
     if (!n || !(n.children && n.children.length)) return 'node';
@@ -1298,7 +1191,7 @@ class Component extends DCLogic {
     }
     this._lastClickId = node.id; this._lastClickT = now;
     clearTimeout(this._clickTimer);
-    this._clickTimer = setTimeout(() => { this._clickTimer = null; if (this.paneIsRight()) { this.navRight(node.id); return; } this.selectNode(node.id); this.focusNode(node, false); }, 300);
+    this._clickTimer = setTimeout(() => { this._clickTimer = null; if (!this.activeIsPrimary()) { this.navPane(this.activePaneEff(), node.id); return; } this.selectNode(node.id); this.focusNode(node, false); }, 300);
   }
   runCollide() {
     if (!this.graph || this._egg) return;
@@ -1327,7 +1220,6 @@ class Component extends DCLogic {
     this._mounted = true;
     this._tabScroll = {};
     this.navHist = []; this.navIdx = -1; this.navHistByKey = {};
-    try { const v = parseFloat(sessionStorage.getItem('kg-split-ratio')); if (v >= 0.2 && v <= 0.8) this.setState({ splitRatio: v }); } catch (e) {}
     window.__kgBody = (id, md) => this.__receiveBody(id, md);
     if (window.__kgBodyQ && window.__kgBodyQ.length) { const q = window.__kgBodyQ.splice(0); q.forEach((d) => this.__receiveBody(d[0], d[1])); }
     this.accent = this.props.accent || '#d8a942';
@@ -1352,7 +1244,6 @@ class Component extends DCLogic {
     window.addEventListener('popstate', this.onPopState);
     document.addEventListener('mousedown', this.onDocDown, true);
     if (this.graphEl) { this.graphEl.addEventListener('mousemove', this.onMouseMove); this.graphEl.addEventListener('mousedown', this.onPointerDown, true); this.graphEl.addEventListener('contextmenu', this.onContextMenu); }
-    { const sc = this.sidebarScrollEl(); if (sc) sc.addEventListener('scroll', this.onSidebarScroll); }
     this.measureHeader();
     await this.buildGraph();
     try { if (localStorage.getItem('kg-theme') === 'light') { this.applyTheme('light'); this.setState({ theme: 'light' }); } } catch (e) {}
@@ -1739,14 +1630,12 @@ class Component extends DCLogic {
       this.graph = G;
   }
 
-  // The query of whichever search bar is currently active (top header bar vs sidebar bars).
-  _activeQuery() { const w = this.state.searchWhich || 'top'; if (w === 'side') return this._sideQ(); if (w === 'sideR') return this._sideQR(); return (this.state.query || ''); }
-  // Sidebar bar (left pane): URL of the node under the active tab (its default, non-search display text).
-  _sideUrl() { return (this.state.selectedId != null && this.nodeById && this.nodeById[this.state.selectedId]) ? this._nodeUrl(this.state.selectedId) : ''; }
-  _sideUrlR() { return (this.state.selectedIdR != null && this.nodeById && this.nodeById[this.state.selectedIdR]) ? this._nodeUrl(this.state.selectedIdR) : ''; }
-  // Effective sidebar search text: empty unless the user is editing and has changed it from the URL.
-  _sideQ() { if (!this.state.sideEditing) return ''; const sq = this.state.sideQuery || ''; return (sq === this._sideUrl()) ? '' : sq; }
-  _sideQR() { if (!this.state.sideEditingR) return ''; const sq = this.state.sideQueryR || ''; return (sq === this._sideUrlR()) ? '' : sq; }
+  // The query of whichever search bar is currently active (top header bar vs a pane's bar).
+  _activeQuery() { const w = this.state.searchWhich || 'top'; if (w.indexOf('pane:') === 0) return this._paneQ(w.slice(5)); return (this.state.query || ''); }
+  // A pane's search bar shows its note's permalink URL as its default, non-search display text.
+  _paneUrl(pid) { const id = this.paneNodeId(pid); return (id != null && this.nodeById && this.nodeById[id]) ? this._nodeUrl(id) : ''; }
+  // Effective pane search text: empty unless the user is editing and has changed it from the URL.
+  _paneQ(pid) { if (this.state.sideEditingPane !== pid) return ''; const sq = (this.state.sideQueryByPane || {})[pid] || ''; return (sq === this._paneUrl(pid)) ? '' : sq; }
   // Active focus filter (search-as-you-type and/or legend group solo) → dim non-matching nodes.
   _filterActive() { const q = (this._activeQuery() || '').trim(); return (q.length >= 2 && this.state.searchFocus) || !!(this._focusGroups && this._focusGroups.size); }
   _dimAlphaId(id) { const n = this.nodeById && this.nodeById[id]; return n ? this._dimAlpha(n) : 1; }
@@ -1845,7 +1734,9 @@ class Component extends DCLogic {
       ctx.stroke();
       ctx.setLineDash([]); ctx.globalAlpha = 1;
     }
-    if (selected) {
+    // Continuous pulsating anchor rings: ONLY the active pane's anchored node — never more than
+    // one node pulsates, even when several panes anchor different notes.
+    if (n.id === this.activeAnchorId()) {
       for (let i = 0; i < 2; i++) {
         const p = ((t / 1400) + i * 0.5) % 1;
         ctx.beginPath(); ctx.arc(n.x, n.y, r + 2 + p * 16, 0, 2 * Math.PI);
@@ -1969,16 +1860,132 @@ class Component extends DCLogic {
     this.activateNode(n);
   }
 
-  navTabKey() { return this._activeKey || this.state.selectedKey || '_'; }
+  navTabKey() { const pp = this.paneObj(this.primaryPaneId()); return this._activeKey || (pp && pp.selectedKey) || '_'; }
   navState() { return (this.navHistByKey || (this.navHistByKey = {}))[this.navTabKey()] || { hist: [], idx: -1 }; }
   navBack = () => { const s = this.navState(); if (s.idx > 0) { this._navJump = true; s.idx--; const id = s.hist[s.idx]; if (this.nodeById[id]) this.focusNodeGraph(id); this._navJump = false; } };
   navForward = () => { const s = this.navState(); if (s.idx < s.hist.length - 1) { this._navJump = true; s.idx++; const id = s.hist[s.idx]; if (this.nodeById[id]) this.focusNodeGraph(id); this._navJump = false; } };
-  // Right split pane: navigate + per-tab back/forward history (mirrors the left, but repoints
-  // the right pane instead of moving the graph).
-  navRight(id, isJump) {
+  // ---- Nested split layout ----------------------------------------------
+  // state.layout is a binary tree: { pane: id } | { dir: 'row'|'col', ratio, a, b }.
+  // state.panes maps pane id -> { tabs: [key...], selectedKey }. The FIRST pane in tree
+  // order is the "primary" pane: it drives the graph selection, the URL and comments.
+  MAX_PANES = 4;
+  newPaneId() { this._paneSeq = (this._paneSeq || 1) + 1; return 'p' + this._paneSeq; }
+  paneIdsList(node, out) {
+    node = node || this.state.layout; out = out || [];
+    if (!node) return out;
+    if (node.pane) out.push(node.pane); else { this.paneIdsList(node.a, out); this.paneIdsList(node.b, out); }
+    return out;
+  }
+  primaryPaneId() { return this.paneIdsList()[0] || 'p1'; }
+  paneObj(pid) { return (this.state.panes || {})[pid] || null; }
+  paneOfTab(key) { const ps = this.state.panes || {}; const ids = Object.keys(ps); for (let i = 0; i < ids.length; i++) { if ((ps[ids[i]].tabs || []).indexOf(key) >= 0) return ids[i]; } return null; }
+  // The note a pane is currently showing (the primary pane mirrors the graph selection).
+  paneNodeId(pid) { if (pid === this.primaryPaneId() && this.selectedId != null) return this.selectedId; const p = this.paneObj(pid); return p ? this.nodeOf(p.selectedKey) : null; }
+  activePaneEff() { const ap = this.state.activePane; return (ap && this.paneObj(ap)) ? ap : this.primaryPaneId(); }
+  activeIsPrimary() { return this.activePaneEff() === this.primaryPaneId(); }
+  cloneLayout(n) { return JSON.parse(JSON.stringify(n)); }
+  replacePaneNode(node, pid, repl) {
+    if (node.pane) return node.pane === pid ? repl : node;
+    return { dir: node.dir, ratio: node.ratio, a: this.replacePaneNode(node.a, pid, repl), b: this.replacePaneNode(node.b, pid, repl) };
+  }
+  removePaneNode(node, pid) {
+    if (node.pane) return node;
+    if (node.a.pane === pid) return this.removePaneNode(node.b, pid);
+    if (node.b.pane === pid) return this.removePaneNode(node.a, pid);
+    return { dir: node.dir, ratio: node.ratio, a: this.removePaneNode(node.a, pid), b: this.removePaneNode(node.b, pid) };
+  }
+  splitNodeAt(root, path) { let n = root; for (let i = 0; i < path.length; i++) { if (!n || n.pane) return null; n = path[i] === 'a' ? n.a : n.b; } return (n && !n.pane) ? n : null; }
+  // Pane rectangles (fractions of the split area) + divider handles, flattened from the tree.
+  computePaneLayout() {
+    const rects = {}, dividers = [];
+    const walk = (node, x, y, w, h, path) => {
+      if (node.pane) { rects[node.pane] = { x, y, w, h }; return; }
+      const r = node.ratio || 0.5;
+      if (node.dir === 'row') {
+        walk(node.a, x, y, w * r, h, path + 'a');
+        dividers.push({ path, dir: 'row', x: x + w * r, y, len: h, region: { x, y, w, h } });
+        walk(node.b, x + w * r, y, w * (1 - r), h, path + 'b');
+      } else {
+        walk(node.a, x, y, w, h * r, path + 'a');
+        dividers.push({ path, dir: 'col', x, y: y + h * r, len: w, region: { x, y, w, h } });
+        walk(node.b, x, y + h * r, w, h * (1 - r), path + 'b');
+      }
+    };
+    walk(this.state.layout || { pane: 'p1' }, 0, 0, 1, 1, '');
+    return { rects, dividers };
+  }
+  startDividerDrag = (path, dir, region) => (e) => {
+    e.preventDefault(); e.stopPropagation();
+    const area = document.getElementById('kg-splitarea'); if (!area) return;
+    const ar = area.getBoundingClientRect();
+    const x0 = ar.left + region.x * ar.width, y0 = ar.top + region.y * ar.height;
+    const pw = Math.max(1, region.w * ar.width), ph = Math.max(1, region.h * ar.height);
+    document.body.style.userSelect = 'none';
+    const move = (ev) => {
+      let r = dir === 'row' ? (ev.clientX - x0) / pw : (ev.clientY - y0) / ph;
+      r = Math.max(0.15, Math.min(0.85, r));
+      const layout = this.cloneLayout(this.state.layout);
+      const node = this.splitNodeAt(layout, path);
+      if (node) { node.ratio = r; this.setState({ layout }); }
+    };
+    this._onDrag(move, () => { document.body.style.userSelect = ''; });
+  };
+  // After any pane-structure change: normalize the active pane and keep the graph/URL selection
+  // (selectedId) in sync with the PRIMARY pane's note. `recenter` controls whether the camera
+  // pans to it (split passes false so it doesn't jump to the old pane's node).
+  syncPrimary(recenter) {
+    if (recenter === undefined) recenter = true;
+    if (this.state.activePane !== this.activePaneEff()) this.setState({ activePane: this.activePaneEff() });
+    this._kickGraph();
+    const pid = this.primaryPaneId();
+    const p = this.paneObj(pid);
+    const id = p ? this.nodeOf(p.selectedKey) : null;
+    if (id == null || !this.nodeById || !this.nodeById[id] || id === this.selectedId) return;
+    this._activeKey = p.selectedKey;
+    this._switchingTab = true;
+    const changed = this.revealPath ? this.revealPath(id) : false;
+    if (changed && this.graph) this.graph.graphData(this.getVisible());
+    this.selectNode(id);
+    if (recenter) { const n = this.nodeById[id]; if (n) this.focusNode(n, false); }
+    this._switchingTab = false;
+  }
+  // Fully anchor the ACTIVE pane's active-tab note: reveal it if it's off-screen (collapsed /
+  // hidden / outside the acting subtree), thicken its edges, center on it (waiting for coordinates
+  // if the reveal just added it), and glow. The graph anchor (isAnchored / gold fill / pulsing
+  // rings) tracks the active pane, so a redraw de-anchors the previously highlighted node. Stays
+  // stable — revealPath only reflows the graph when a reveal is actually necessary.
+  anchorActivePane() {
+    const id = this.activeAnchorId();
+    if (id == null || !this.nodeById || !this.nodeById[id]) { this.refreshHotEdges(); this._kickGraph(); return; }
+    const revealed = this.revealPath ? this.revealPath(id) : false;
+    this.refreshHotEdges();
+    this.startGlow(id);
+    const doFocus = () => { const n = this.nodeById[id]; if (n) this.focusNode(n, false); };
+    const run = () => { if (revealed || this.nodeById[id].x == null) this.waitForCoords(id, doFocus); else doFocus(); };
+    if (this.state.fullPage) this.setState({ fullPage: false }, run); else run();
+  }
+  // Navigate a pane to a note. The primary pane moves the graph selection (URL, strong focus,
+  // glow); secondary panes repoint their active tab and anchor the note in the graph.
+  navPane(pid, id, isJump) {
     if (!this.nodeById[id]) return;
+    if (pid === this.primaryPaneId()) {
+      const changed = this.revealPath(id);
+      this.selectNode(id);
+      const n = this.nodeById[id];
+      const focusPinned = () => {
+        if (n.x == null || this.selectedId !== id) return;
+        if (this._pinned && this._pinned !== n) { this._pinned.fx = undefined; this._pinned.fy = undefined; }
+        n.fx = n.x; n.fy = n.y;                 // keep the focused node put so the reheated layout can't drift it
+        this._pinned = n;
+        this.focusNode(n, true);
+        this.startGlow(id);
+      };
+      if (changed || n.x == null) this.waitForCoords(id, focusPinned); else focusPinned();
+      return;
+    }
     this.ensureBody(id);
-    const key = this.state.selectedKeyR;
+    const pane = this.paneObj(pid); if (!pane) return;
+    const key = pane.selectedKey;
     const tn = Object.assign({}, this.state.tabNode);
     if (key) tn[key] = id;
     if (!isJump && key) {
@@ -1986,23 +1993,50 @@ class Component extends DCLogic {
       const s = hb[key] || (hb[key] = { hist: [], idx: -1 });
       if (s.hist[s.idx] !== id) { s.hist = s.hist.slice(0, s.idx + 1); s.hist.push(id); s.idx = s.hist.length - 1; }
     }
-    // Anchor the node in the graph too — reveal its path, refresh the graph, then center the
-    // camera on it and highlight it (selectedIdR). The left pane's note is left untouched.
-    if (this.revealPath) this.revealPath(id);
+    const revealed = this.revealPath ? this.revealPath(id) : false;
     if (this.graph) this.graph.graphData(this.getVisible());
-    this.setState({ tabNode: tn, selectedIdR: id });
+    this.setState({ tabNode: tn });
+    this.refreshHotEdges();   // this pane is active → its edges thicken, the previous anchor's drop back
     const n = this.nodeById[id];
-    if (n) { this.focusNode(n, false); this.startGlow(id); }
+    if (n) {
+      this.startGlow(id);
+      const doFocus = () => { const nn = this.nodeById[id]; if (nn) this.focusNode(nn, false); };
+      if (revealed || n.x == null) this.waitForCoords(id, doFocus); else doFocus();   // wait for coords if just revealed
+    }
   }
-  // A node is "anchored" in the graph if it's the left selection OR (in split view) the right pane's note.
-  isAnchored(id) { return id === this.selectedId || (!!(this.state.tabsR && this.state.tabsR.length) && id === this.state.selectedIdR); }
-  // Which split pane is "active": clicking inside a pane (or its tab strip) marks it active.
-  // Graph interactions (node/edge clicks, open-in-current-tab, wikilink follows) target it.
-  setActivePane(side) { if ((this.state.activePane || 'left') !== side) this.setState({ activePane: side }); }
-  paneIsRight() { return !!(this.state.tabsR && this.state.tabsR.length) && this.state.activePane === 'right'; }
+  navBackPane = (pid) => { const s = this.navStatePane(pid); if (s.idx > 0) { s.idx--; this.navPane(pid, s.hist[s.idx], true); } };
+  navForwardPane = (pid) => { const s = this.navStatePane(pid); if (s.idx < s.hist.length - 1) { s.idx++; this.navPane(pid, s.hist[s.idx], true); } };
+  // A node is "anchored" in the graph only when it's the ACTIVE pane's active-tab note — exactly
+  // one node at a time. Switching the active pane (or its tab) moves the anchor.
+  isAnchored(id) { return id != null && id === this.activeAnchorId(); }
+  // Rebuild the highlighted/thickened edge sets around the CURRENT active anchor. Called whenever
+  // the anchor moves (select, secondary-pane nav, pane switch); the previous anchor's edges drop
+  // back to normal because the sets are rebuilt from scratch each time.
+  refreshHotEdges() {
+    const id = this.activeAnchorId();
+    const n = (id != null && this.nodeById) ? this.nodeById[id] : null;
+    const hs = new Set(), path = new Set();
+    if (n) {
+      let cur = n;
+      while (cur && cur.parent) { const key = cur.id + '->' + cur.parent; hs.add(key); path.add(key); cur = this.nodeById[cur.parent]; }
+      (n.children || []).forEach((c) => hs.add(c.id + '->' + n.id));
+      (n.links || []).forEach((tid) => hs.add(n.id + '->' + tid));
+      (this.incoming[id] || []).forEach((sid) => hs.add(sid + '->' + id));
+    }
+    this.pathLinkSet = path;
+    this.highlightLinkSet = hs;
+    this._kickGraph();
+  }
+  // Which pane is "active": clicking inside a pane (or its tab strip) marks it active.
+  // Graph interactions (node/edge clicks, open-in-tab, wikilink follows, hover previews) target it.
+  // Changing the active pane re-anchors (and centers) that pane's active-tab note.
+  setActivePane(pid) {
+    if ((this.state.activePane || '') === pid || !this.paneObj(pid)) return;
+    this.setState({ activePane: pid }, () => this.anchorActivePane());
+  }
   // The anchored node of the ACTIVE pane — what edge hover/click resolves against.
-  activeAnchorId() { return this.paneIsRight() ? this.state.selectedIdR : this.selectedId; }
-  navStateR() { return (this.navHistByKey || (this.navHistByKey = {}))[this.state.selectedKeyR] || { hist: [], idx: -1 }; }
+  activeAnchorId() { return this.paneNodeId(this.activePaneEff()); }
+  navStatePane(pid) { const p = this.paneObj(pid); return (this.navHistByKey || (this.navHistByKey = {}))[p && p.selectedKey] || { hist: [], idx: -1 }; }
   // Shared style for the ‹ back / › forward buttons in either pane; greys out when there's nowhere to go.
   navBtnStyle(st, isFwd, fontSize) {
     const enabled = isFwd ? (st.idx < st.hist.length - 1) : (st.idx > 0);
@@ -2010,37 +2044,31 @@ class Component extends DCLogic {
     if (isFwd) s.marginLeft = '-10px';
     return s;
   }
-  navBackR = () => { const s = this.navStateR(); if (s.idx > 0) { s.idx--; this.navRight(s.hist[s.idx], true); } };
-  navForwardR = () => { const s = this.navStateR(); if (s.idx < s.hist.length - 1) { s.idx++; this.navRight(s.hist[s.idx], true); } };
   selectNode(id) {
     const n = this.nodeById[id]; if (!n) return;
-    const hs = new Set();
-    let cur = n; const path = new Set();
-    while (cur && cur.parent) { const key = cur.id + '->' + cur.parent; hs.add(key); path.add(key); cur = this.nodeById[cur.parent]; }
-    this.pathLinkSet = path;
-    (n.children || []).forEach((c) => hs.add(c.id + '->' + n.id));
-    (n.links || []).forEach((tid) => hs.add(n.id + '->' + tid));
-    (this.incoming[id] || []).forEach((sid) => hs.add(sid + '->' + id));
-    this.highlightLinkSet = hs;
     const prevSel = this.selectedId;
     this.selectedId = id;
     this.hoverId = null;
+    this.refreshHotEdges();   // edges thicken around the active anchor (this node, when the primary pane is active)
     const patch = { selectedId: id, hoverId: null };
     // Tab mode: a normal navigation (graph click, link, breadcrumb, parent) repoints the ACTIVE
     // tab to the new node — like following a link in a browser tab. Switching/adding tabs set
     // their own flags so they don't trigger this repoint.
     if (!this._addingTab && !this._switchingTab) {
-      const sk = this.state.selectedKey;
-      const tabs = this.state.tabs;
-      if (tabs && tabs.length && sk && this.nodeOf(sk) !== id) {
+      const pid = this.primaryPaneId();
+      const p = this.state.panes[pid];
+      const sk = p && p.selectedKey;
+      if (p && p.tabs.length && sk && this.nodeOf(sk) !== id) {
         const tn = Object.assign({}, this.state.tabNode);
         tn[sk] = id;
         patch.tabNode = tn;
-      } else if (!tabs || tabs.length === 0) {
+      } else if (!p || p.tabs.length === 0) {
         // No tabs yet → open this note as the default single tab (so the tab bar always shows).
         const key = this.newTabKey();
         const tn = Object.assign({}, this.state.tabNode); tn[key] = id;
-        patch.tabs = [key]; patch.tabNode = tn; patch.selectedKey = key;
+        const panes = Object.assign({}, this.state.panes);
+        panes[pid] = { tabs: [key], selectedKey: key };
+        patch.panes = panes; patch.tabNode = tn;
         this._activeKey = key;
       }
     }
@@ -2119,7 +2147,7 @@ class Component extends DCLogic {
   scrollToHeading(slug, attempt) {
     if (!slug) return;
     attempt = attempt || 0;
-    const cont = document.getElementById('kg-sidebar-scroll');
+    const cont = this.sidebarScrollEl();
     if (cont) {
       const heads = cont.querySelectorAll('.md-body h1, .md-body h2, .md-body h3, .md-body h4, .md-body h5, .md-body h6');
       let found = null;
@@ -2150,10 +2178,34 @@ class Component extends DCLogic {
     this._suppressHistory = false;
   };
 
+  // Make `id` visible in the garden so it can be anchored/centered. Handles three reasons a node
+  // may be off-screen:
+  //   1. It lies outside the current acting-root subtree → reset the acting root back to the
+  //      original garden root (expand up from acting root to the real root, make that root again),
+  //      so a path down to the node exists.
+  //   2. An ancestor along that path is collapsed → un-collapse it (expand root → node).
+  //   3. The node or an ancestor was hidden → un-hide it.
+  // Returns true if anything changed (so callers reflow the graph).
   revealPath(id) {
-    let cur = this.nodeById[id]; const anc = [];
-    while (cur && cur.parent) { anc.push(cur.parent); cur = this.nodeById[cur.parent]; }
+    const target = this.nodeById[id];
+    if (!target) return false;
     let changed = false;
+    // (1) Outside the acting subtree: fall back to the whole-garden root.
+    if (this.actingRoot != null && this.actingRoot !== this.rootId && !this.inActingSubtree(target)) {
+      this.actingRoot = this.rootId;
+      this.assignColors(this.rootId);
+      this._focusGroups = null;   // a stale branch-solo from the old acting root would blank the tree
+      changed = true;
+    }
+    // Ancestor chain from the node up to the (now-effective) root.
+    let cur = target; const anc = [];
+    while (cur && cur.parent != null) { anc.push(cur.parent); cur = this.nodeById[cur.parent]; }
+    // (3) Un-hide the node + any hidden ancestor.
+    if (this.hidden && this.hidden.size) {
+      if (this.hidden.has(id)) { this.hidden.delete(id); changed = true; }
+      anc.forEach((pid) => { if (this.hidden.has(pid)) { this.hidden.delete(pid); changed = true; } });
+    }
+    // (2) Un-collapse every ancestor so the node renders.
     anc.forEach((pid) => { if (this.collapsed.has(pid)) { this.collapsed.delete(pid); changed = true; } });
     if (changed && this.graph) this.graph.graphData(this.getVisible());
     return changed;
@@ -2209,19 +2261,7 @@ class Component extends DCLogic {
 
   navigateTo(id) {
     if (!this.nodeById[id]) return;
-    if (this.paneIsRight()) { this.navRight(id); return; }   // split view: route to the active (right) pane
-    const changed = this.revealPath(id);
-    this.selectNode(id);
-    const n = this.nodeById[id];
-    const focusPinned = () => {
-      if (n.x == null || this.selectedId !== id) return;
-      if (this._pinned && this._pinned !== n) { this._pinned.fx = undefined; this._pinned.fy = undefined; }
-      n.fx = n.x; n.fy = n.y;                 // keep the focused node put so the reheated layout can't drift it
-      this._pinned = n;
-      this.focusNode(n, true);
-      this.startGlow(id);
-    };
-    if (changed || n.x == null) this.waitForCoords(id, focusPinned); else focusPinned();
+    this.navPane(this.activePaneEff(), id);
   }
 
   nodeHintHtml(n, skipOpen) {
@@ -2245,47 +2285,47 @@ class Component extends DCLogic {
 
   clearSelection() {
     this.selectedId = null; this.highlightLinkSet = new Set(); this.pathLinkSet = new Set();
-    this.setState({ selectedId: null, tabs: [], tabsR: [], selectedIdR: null, selectedKey: null, selectedKeyR: null, tabNode: {}, tabMenu: null, linkMenu: null });
+    this.setState({ selectedId: null, layout: { pane: 'p1' }, panes: { p1: { tabs: [], selectedKey: null } }, activePane: 'p1', tabNode: {}, tabMenu: null, linkMenu: null });
   }
 
   // ---- Sidebar tabs (Chrome-like) ----
   // Tabs are identified by opaque keys (so the same note can appear in several tabs); each key
-  // maps to a node id via state.tabNode. selectedKey / selectedKeyR are the active tab per pane.
+  // maps to a node id via state.tabNode. Each pane in state.panes tracks its own active tab.
   newTabKey() { this._tabSeq = (this._tabSeq || 0) + 1; return 't' + this._tabSeq; }
   nodeOf = (key) => (this.state.tabNode || {})[key];
-  openInNewTab = (id) => {
+  // Open a node as a fresh tab in a pane (dups allowed). The primary pane also anchors it.
+  openInNewTabInPane = (pid, id) => {
     if (!this.nodeById || !this.nodeById[id]) return;
-    let tabs = (this.state.tabs || []).slice();
+    const pane = this.paneObj(pid); if (!pane) return;
+    const primary = pid === this.primaryPaneId();
+    let tabs = pane.tabs.slice();
     const tabNode = Object.assign({}, this.state.tabNode);
     // Entering tab mode from a single open note: keep that note as the first tab.
-    if (tabs.length === 0 && this.selectedId && this.selectedId !== id && this.nodeById[this.selectedId]) {
+    if (primary && tabs.length === 0 && this.selectedId && this.selectedId !== id && this.nodeById[this.selectedId]) {
       const seed = this.newTabKey(); tabNode[seed] = this.selectedId; tabs.push(seed);
     }
     const key = this.newTabKey(); tabNode[key] = id; tabs.push(key);   // always a fresh tab (dups allowed)
-    this._activeKey = key;
     this.navHistByKey = this.navHistByKey || {}; this.navHistByKey[key] = { hist: [id], idx: 0 };
-    this._addingTab = true;
-    this._restoreTabScroll = 'L:' + key;
-    this.setState({ menuNodeId: null, tabs, tabNode, selectedKey: key }, () => { this._addingTab = false; });
-    // Center the node like "center node" / "locate in graph"; reflow only if its branch is collapsed.
-    const changed = this.revealPath ? this.revealPath(id) : false;
-    if (changed && this.graph) this.graph.graphData(this.getVisible());
-    const n = this.nodeById[id]; this.selectNode(id); if (n) this.focusNode(n, false);
+    const panes = Object.assign({}, this.state.panes);
+    panes[pid] = { tabs, selectedKey: key };
+    this._restoreTabScroll = pid + ':' + key;
+    if (primary) {
+      this._activeKey = key;
+      this._addingTab = true;
+      this.setState({ menuNodeId: null, panes, tabNode }, () => { this._addingTab = false; });
+      // Center the node like "center node" / "locate in graph"; reflow only if its branch is collapsed.
+      const changed = this.revealPath ? this.revealPath(id) : false;
+      if (changed && this.graph) this.graph.graphData(this.getVisible());
+      const n = this.nodeById[id]; this.selectNode(id); if (n) this.focusNode(n, false);
+    } else {
+      this.ensureBody(id);
+      this.setState({ menuNodeId: null, panes, tabNode });
+      if (this.revealPath) this.revealPath(id);
+      if (this.graph) this.graph.graphData(this.getVisible());
+      const n = this.nodeById[id]; if (n) { this.focusNode(n, false); this.startGlow(id); }
+    }
   };
-  // Open a node as a fresh tab in the RIGHT split section (mirrors openInNewTab).
-  openInNewTabR = (id) => {
-    if (!this.nodeById || !this.nodeById[id]) return;
-    const tabsR = (this.state.tabsR || []).slice();
-    const tabNode = Object.assign({}, this.state.tabNode);
-    const key = this.newTabKey(); tabNode[key] = id; tabsR.push(key);
-    this.navHistByKey = this.navHistByKey || {}; this.navHistByKey[key] = { hist: [id], idx: 0 };
-    this.ensureBody(id);
-    this._restoreTabScrollR = 'R:' + key;
-    this.setState({ menuNodeId: null, tabsR, tabNode, selectedKeyR: key, selectedIdR: id });
-    if (this.revealPath) this.revealPath(id);
-    if (this.graph) this.graph.graphData(this.getVisible());
-    const n = this.nodeById[id]; if (n) { this.focusNode(n, false); this.startGlow(id); }
-  };
+  openInNewTab = (id) => this.openInNewTabInPane(this.primaryPaneId(), id);
   // Reveal + select + focus a node in the graph (no tab-array mutation).
   focusNodeGraph = (id) => {
     if (!this.nodeById || !this.nodeById[id]) return;
@@ -2294,33 +2334,54 @@ class Component extends DCLogic {
     this.selectNode(id);
     const n = this.nodeById[id]; if (n) this.focusNode(n, false);
   };
-  openTab = (key) => {
+  paneScrollEl(pid) { return document.getElementById('kg-pane-scroll-' + pid); }
+  openTabInPane = (pid, key) => {
     const id = this.nodeOf(key);
     if (id == null) return;
-    this._activeKey = key;
+    const pane = this.paneObj(pid); if (!pane) return;
     // Remember the outgoing tab's scroll position so returning to it restores where you were.
-    if (this.state.selectedKey) { const oel = this.sidebarScrollEl(); if (oel) this._tabScroll['L:' + this.state.selectedKey] = oel.scrollTop; }
-    this._restoreTabScroll = 'L:' + key;
-    this._switchingTab = true;
-    this.setState({ selectedKey: key });
-    // Center the tab's node in the graph using the exact same logic as the node's "center node"
-    // menu action and the sidebar "locate in graph" crosshair: re-select + soft focus. Reveal its
-    // branch only if it's collapsed — skipping a needless graphData reflow keeps the centering
-    // accurate (a reflow would jostle the layout out from under the camera).
-    const changed = this.revealPath ? this.revealPath(id) : false;
-    if (changed && this.graph) this.graph.graphData(this.getVisible());
-    const n = this.nodeById[id];
-    this.selectNode(id);
-    if (n) this.focusNode(n, false);
-    this._switchingTab = false;
+    if (pane.selectedKey) { const oel = this.paneScrollEl(pid); if (oel) this._tabScroll[pid + ':' + pane.selectedKey] = oel.scrollTop; }
+    this._restoreTabScroll = pid + ':' + key;
+    const panes = Object.assign({}, this.state.panes);
+    panes[pid] = Object.assign({}, pane, { selectedKey: key });
+    if (pid === this.primaryPaneId()) {
+      this._activeKey = key;
+      this._switchingTab = true;
+      this.setState({ panes });
+      // Center the tab's node in the graph using the exact same logic as the node's "center node"
+      // menu action and the sidebar "locate in graph" crosshair: re-select + soft focus. Reveal its
+      // branch only if it's collapsed — skipping a needless graphData reflow keeps the centering
+      // accurate (a reflow would jostle the layout out from under the camera).
+      const changed = this.revealPath ? this.revealPath(id) : false;
+      if (changed && this.graph) this.graph.graphData(this.getVisible());
+      const n = this.nodeById[id];
+      this.selectNode(id);
+      if (n) this.focusNode(n, false);
+      this._switchingTab = false;
+    } else {
+      this.ensureBody(id);
+      // Reveal the node's branch if it's collapsed so centering has real coordinates to aim at.
+      const changed = this.revealPath ? this.revealPath(id) : false;
+      if (changed && this.graph) this.graph.graphData(this.getVisible());
+      this.setState({ panes }, () => { this.refreshHotEdges(); this._kickGraph(); });
+      // Anchoring always centers: bring the tab's node into view (soft focus, keeps zoom) + glow.
+      const n = this.nodeById[id];
+      if (n) {
+        this.startGlow(id);
+        const doFocus = () => { const nn = this.nodeById[id]; if (nn) this.focusNode(nn, false); };
+        if (changed || n.x == null) this.waitForCoords(id, doFocus); else doFocus();
+      }
+    }
   };
   // Chrome-style: when a tab is closed, freeze the remaining tabs at their current width so the
   // next close button stays under the cursor. The lock releases when the pointer leaves the strip.
-  lockTabWidths = (side) => {
-    const strip = document.querySelector('[data-tabstrip="' + side + '"]');
-    if (!strip || !strip.children.length) return;
-    const w = Math.round(strip.children[0].getBoundingClientRect().width);
-    if (w > 0) this.setState(side === 'left' ? { lockTabWL: w } : { lockTabWR: w });
+  lockTabWidths = (pid) => {
+    const strip = document.querySelector('[data-tabstrip="' + pid + '"]');
+    if (!strip) return;
+    const it = strip.querySelector('[data-tab-item]');
+    if (!it) return;
+    const w = Math.round(it.getBoundingClientRect().width);
+    if (w > 0) this.setState({ lockTabW: Object.assign({}, this.state.lockTabW, { [pid]: w }) });
     this.armLockRelease();
   };
   // Robustly release the width-lock the moment the pointer is no longer over a tab strip
@@ -2336,31 +2397,31 @@ class Component extends DCLogic {
     };
     document.addEventListener('mousemove', onMove, true);
   };
-  releaseTabLock = () => { if (this.state.lockTabWL || this.state.lockTabWR) this.setState({ lockTabWL: 0, lockTabWR: 0 }); };
-  closeTab = (key) => {
-    this.lockTabWidths('left');
-    let tabs = (this.state.tabs || []).slice();
-    const i = tabs.indexOf(key);
-    if (i < 0) return;
-    tabs.splice(i, 1);
+  releaseTabLock = () => { if (Object.keys(this.state.lockTabW || {}).length) this.setState({ lockTabW: {} }); };
+  closeTabInPane = (pid, key) => {
+    const pane = this.paneObj(pid); if (!pane) return;
+    const i = pane.tabs.indexOf(key); if (i < 0) return;
+    this.lockTabWidths(pid);
+    const tabs = pane.tabs.filter((k) => k !== key);
     if (tabs.length === 0) {
-      // Left group emptied: if a right split exists, promote it to the single group.
-      const tabsR = (this.state.tabsR || []).slice();
-      if (tabsR.length) {
-        const act = this.state.selectedKeyR || tabsR[0];
-        this.setState({ tabs: tabsR, tabsR: [], selectedKeyR: null });
-        this.openTab(act);
-        return;
-      }
+      // Pane emptied: drop it from the tree, or close the sidebar if it was the last one.
+      if (this.paneIdsList().length > 1) { this.removePane(pid); return; }
       this.clearSelection(); return;
     }
-    if (this.state.selectedKey === key) {
-      const nextKey = tabs[Math.min(i, tabs.length - 1)];
-      this.setState({ tabs });
-      this.openTab(nextKey);
-    } else {
-      this.setState({ tabs });
-    }
+    const sel = pane.selectedKey === key ? tabs[Math.min(i, tabs.length - 1)] : pane.selectedKey;
+    const panes = Object.assign({}, this.state.panes);
+    panes[pid] = { tabs, selectedKey: sel };
+    if (sel !== pane.selectedKey) { this._restoreTabScroll = pid + ':' + sel; this.ensureBody(this.nodeOf(sel)); }
+    this.setState({ panes }, () => this.syncPrimary());
+  };
+  // Drop an emptied pane from the tree; its sibling absorbs the space.
+  removePane = (pid) => {
+    const layout = this.removePaneNode(this.state.layout, pid);
+    const panes = Object.assign({}, this.state.panes);
+    delete panes[pid];
+    const patch = { layout, panes };
+    if (this.state.activePane === pid) patch.activePane = null;   // normalized by syncPrimary
+    this.setState(patch, () => this.syncPrimary());
   };
   // Grab a tab to reorder within its strip, or drag it across to the other split pane.
   // The dragged tab follows the cursor; an amber insertion line shows where it will land
@@ -2397,150 +2458,144 @@ class Component extends DCLogic {
     if (tabEl && tabEl._marqueeRAF) { cancelAnimationFrame(tabEl._marqueeRAF); tabEl._marqueeRAF = null; }
     if (tabEl) { const lab = tabEl.querySelector('[data-tablabel]'); if (lab) { lab.scrollLeft = 0; lab.style.textOverflow = 'ellipsis'; lab.style.paddingRight = ''; } }
   };
-  startTabDrag = (id, side) => (e) => {
+  startTabDrag = (id, srcPane) => (e) => {
     if (e.button !== 0) return;                                          // ignore right/middle click
     if (e.target && e.target.closest && e.target.closest('button')) return;  // close button
     e.preventDefault();
+    this.setActivePane(srcPane);
     const dragEl = e.currentTarget;
     const aside = dragEl.closest('aside');
     if (!aside) return;
-    const leftStrip = aside.querySelector('[data-tabstrip="left"]');
-    const rightStrip = aside.querySelector('[data-tabstrip="right"]');
-    const strips = { left: leftStrip, right: rightStrip };
-    const splitVert = (function(p){ return p === 'up' || p === 'down'; })(this.state.splitPos);
-    const leftItems = leftStrip ? [...leftStrip.children] : [];
-    const rightItems = rightStrip ? [...rightStrip.children] : [];
-    const allItems = leftItems.concat(rightItems);
+    const strips = {};
+    aside.querySelectorAll('[data-tabstrip]').forEach((s) => { strips[s.getAttribute('data-tabstrip')] = s; });
+    const itemsOf = {};
+    Object.keys(strips).forEach((k) => { itemsOf[k] = [...strips[k].children].filter((el) => el.hasAttribute && el.hasAttribute('data-tab-item')); });
+    const paneEls = {};
+    aside.querySelectorAll('[data-pane]').forEach((el) => { paneEls[el.getAttribute('data-pane')] = el; });
+    const allItems = [].concat.apply([], Object.keys(itemsOf).map((k) => itemsOf[k]));
     const rectOf = new Map(allItems.map((el) => [el, el.getBoundingClientRect()]));
     const w = (rectOf.get(dragEl) || {}).width || 120;
     const gap = 3;
     const startX = e.clientX, startY = e.clientY;
-    let moved = false, target = { side, idx: 0 };
+    let moved = false, target = { type: 'none' };
     document.body.style.userSelect = 'none';
     const prevOverflow = {};
-    Object.keys(strips).forEach((k) => { if (strips[k]) { prevOverflow[k] = strips[k].style.overflow; strips[k].style.overflow = 'visible'; } });
-    // Let the lifted tab float out of the bottom pane and over the top toolbar (vertical split):
-    // clear the split area's clip and lift the tab above the toolbar's stacking layer.
+    Object.keys(strips).forEach((k) => { prevOverflow[k] = strips[k].style.overflow; strips[k].style.overflow = 'visible'; });
+    // Let the lifted tab float out of its pane: clear the split area's clip and lift the
+    // source strip's wrapper + pane above sibling panes' stacking layers.
     const splitArea = document.getElementById('kg-splitarea');
     const prevSplitOverflow = splitArea ? splitArea.style.overflow : null;
     if (splitArea) splitArea.style.overflow = 'visible';
-    // The in-pane strip's backdrop-filter makes its wrapper a stacking context that would otherwise
-    // trap the tab beneath the toolbar (z-index:20). Lift ONLY the source strip's wrapper above the
-    // toolbar so the grabbed tab floats over everything — including the destination strip — whichever
-    // direction it travels. (Lifting the destination too would let it cover a tab dragged from the top.)
-    const srcWrap = strips[side] ? strips[side].parentElement : null;
+    const srcWrap = strips[srcPane] ? strips[srcPane].parentElement : null;
     const prevSrcWrapZ = srcWrap ? srcWrap.style.zIndex : null;
     if (srcWrap) srcWrap.style.zIndex = '60';
+    const srcPaneEl = paneEls[srcPane];
+    const prevSrcPaneZ = srcPaneEl ? srcPaneEl.style.zIndex : null;
+    const prevSrcPaneOverflow = srcPaneEl ? srcPaneEl.style.overflow : null;
+    // Lift the whole source pane above sibling panes, dividers (48), glow (49) and drop zones, and
+    // let it overflow its own bounds so the grabbed tab stays in the foreground as it crosses panes.
+    if (srcPaneEl) { srcPaneEl.style.zIndex = '90'; srcPaneEl.style.overflow = 'visible'; }
     dragEl.style.transition = 'none';
     dragEl.style.zIndex = '60';
     dragEl.style.cursor = 'grabbing';
     dragEl.style.opacity = '0.92';
     // Slide the *other* tabs aside to preview where the grabbed tab will land.
     allItems.forEach((el) => { if (el !== dragEl) el.style.transition = 'transform .16s cubic-bezier(.2,.7,.2,1)'; });
-    const srcItems = (side === 'left' ? leftItems : rightItems);
+    const srcItems = itemsOf[srcPane] || [];
     const srcSlot = srcItems.indexOf(dragEl);
+    const shiftW = w + gap;
+    const canAddPane = this.paneIdsList().length < this.MAX_PANES;
+    const srcTabCount = ((this.paneObj(srcPane) || {}).tabs || []).length;
+    const closeSrc = () => srcItems.forEach((el) => { if (el !== dragEl) el.style.transform = 'translateX(' + (srcItems.indexOf(el) > srcSlot ? -shiftW : 0) + 'px)'; });
+    const clearOtherStrips = (keep) => Object.keys(itemsOf).forEach((k) => { if (k !== keep && k !== srcPane) itemsOf[k].forEach((el) => { if (el !== dragEl) el.style.transform = ''; }); });
+    const setDrop = (dz) => { const cur = this.state.dropZone; const same = (!dz && !cur) || (dz && cur && dz.pane === cur.pane && dz.pos === cur.pos); if (!same) this.setState({ dropZone: dz }); };
     const move = (ev) => {
       const dx = ev.clientX - startX, dy = ev.clientY - startY;
       if (Math.abs(dx) > 4 || Math.abs(dy) > 4) moved = true;
       dragEl.style.transform = 'translate(' + dx + 'px,' + dy + 'px)';
-      // Which strip is the pointer over? You count as "over" a strip only while the cursor is within
-      // its toolbar band — drift into the pane body and you're over nothing, so nothing rearranges.
-      // Vertical splits stack the strips (discriminate by Y; X stays free to reach either end);
-      // horizontal splits sit them side by side (discriminate by X, but Y must be in the toolbar row).
-      const shiftW = w + gap;
-      let tSide = null;
-      if (splitVert && leftStrip && rightStrip) {
-        const inBand = (strip) => { const r = strip.getBoundingClientRect(); return ev.clientY >= r.top - 8 && ev.clientY <= r.bottom + 8; };
-        if (inBand(strips[side])) tSide = side;
-        else { const o = side === 'left' ? 'right' : 'left'; if (strips[o] && inBand(strips[o])) tSide = o; }
-      } else {
-        const ref = strips[side] || leftStrip || rightStrip;
-        const r = ref ? ref.getBoundingClientRect() : null;
-        const inY = r ? (ev.clientY >= r.top - 14 && ev.clientY <= r.bottom + 14) : false;
-        if (inY) {
-          if (rightStrip) { const rr = rightStrip.getBoundingClientRect(); tSide = (ev.clientX >= rr.left) ? 'right' : 'left'; }
-          else tSide = side;
-        }
-      }
-      const otherSide = side === 'left' ? 'right' : 'left';
-      const closeSrc = () => srcItems.forEach((el) => { if (el !== dragEl) el.style.transform = 'translateX(' + (srcItems.indexOf(el) > srcSlot ? -shiftW : 0) + 'px)'; });
-      const clearStrip = (s) => { (s === 'left' ? leftItems : rightItems).forEach((el) => { if (el !== dragEl) el.style.transform = ''; }); };
-      if (tSide === null) {
-        // Floating over the pane body: nothing rearranges; the source just reads the tab as removed.
-        closeSrc();
-        clearStrip(otherSide);
-        target = { side: side, idx: srcSlot };
-      } else if (tSide === side) {
-        // Reorder within the same strip: neighbours the cursor passes slide aside to open a gap.
-        const center = ev.clientX;
-        srcItems.forEach((el) => {
-          if (el === dragEl) return;
-          const slot = srcItems.indexOf(el);
-          const c = rectOf.get(el).left + rectOf.get(el).width / 2;
-          let shift = 0;
-          if (slot > srcSlot && center > c) shift = -shiftW;
-          else if (slot < srcSlot && center < c) shift = shiftW;
-          el.style.transform = 'translateX(' + shift + 'px)';
-        });
-        clearStrip(otherSide);
-        let idx = 0;
-        srcItems.forEach((el) => { if (el !== dragEl) { const r = rectOf.get(el); if (ev.clientX > r.left + r.width / 2) idx++; } });
-        target = { side: side, idx };
-      } else {
-        // Over the OTHER toolbar: the source closes its gap (tab reads as removed) and the destination
-        // opens a gap where the tab would land — animating the arrangement as if it were dropped there.
-        const tItems = (tSide === 'left' ? leftItems : rightItems).filter((el) => el !== dragEl);
+      // 1) Over a tab strip → reorder within it / move into it at the pointer's slot.
+      let overStrip = null;
+      Object.keys(strips).forEach((k) => { const r = strips[k].getBoundingClientRect(); if (ev.clientY >= r.top - 8 && ev.clientY <= r.bottom + 8 && ev.clientX >= r.left - 8 && ev.clientX <= r.right + 8) overStrip = k; });
+      if (overStrip) {
+        setDrop(null);
+        const tItems = itemsOf[overStrip].filter((el) => el !== dragEl);
         let idx = 0;
         tItems.forEach((el) => { const r = rectOf.get(el); if (ev.clientX > r.left + r.width / 2) idx++; });
-        closeSrc();
-        let ns = 0;
-        tItems.forEach((el) => { el.style.transform = 'translateX(' + (ns >= idx ? shiftW : 0) + 'px)'; ns++; });
-        target = { side: tSide, idx };
+        if (overStrip === srcPane) {
+          // Reorder within the same strip: neighbours the cursor passes slide aside to open a gap.
+          srcItems.forEach((el) => {
+            if (el === dragEl) return;
+            const slot = srcItems.indexOf(el);
+            const c = rectOf.get(el).left + rectOf.get(el).width / 2;
+            let shift = 0;
+            if (slot > srcSlot && ev.clientX > c) shift = -shiftW;
+            else if (slot < srcSlot && ev.clientX < c) shift = shiftW;
+            el.style.transform = 'translateX(' + shift + 'px)';
+          });
+        } else {
+          // Over ANOTHER strip: the source closes its gap and the destination opens one.
+          closeSrc();
+          let ns = 0;
+          tItems.forEach((el) => { el.style.transform = 'translateX(' + (ns >= idx ? shiftW : 0) + 'px)'; ns++; });
+        }
+        clearOtherStrips(overStrip);
+        target = { type: 'strip', pane: overStrip, idx };
+        return;
       }
+      // 2) Over a pane body → edge bands split that pane; the middle of another pane appends to it.
+      closeSrc();
+      clearOtherStrips(null);
+      let overPane = null, pr = null;
+      Object.keys(paneEls).forEach((k) => { const r = paneEls[k].getBoundingClientRect(); if (ev.clientX >= r.left && ev.clientX <= r.right && ev.clientY >= r.top && ev.clientY <= r.bottom) { overPane = k; pr = r; } });
+      if (!overPane) { setDrop(null); target = { type: 'none' }; return; }
+      const rx = (ev.clientX - pr.left) / pr.width, ry = (ev.clientY - pr.top) / pr.height;
+      let pos = null;
+      if (rx < 0.25) pos = 'left'; else if (rx > 0.75) pos = 'right'; else if (ry < 0.3) pos = 'up'; else if (ry > 0.7) pos = 'down';
+      const splitOk = pos && canAddPane && !(overPane === srcPane && srcTabCount < 2);
+      if (splitOk) { setDrop({ pane: overPane, pos }); target = { type: 'split', pane: overPane, pos }; return; }
+      if (overPane !== srcPane) { setDrop({ pane: overPane, pos: 'center' }); target = { type: 'center', pane: overPane }; return; }
+      setDrop(null); target = { type: 'none' };
     };
     const cleanup = () => {
       allItems.forEach((el) => { el.style.transition = ''; el.style.transform = ''; });
       // Restore base values rather than blanking — React's style model is unchanged for these,
       // so it won't re-apply them after we mutate the DOM directly (would lose position:relative).
-      dragEl.style.zIndex = ''; dragEl.style.cursor = (side === 'right' ? 'pointer' : 'grab'); dragEl.style.opacity = '';
-      Object.keys(strips).forEach((k) => { if (strips[k]) strips[k].style.overflow = prevOverflow[k] || ''; });
+      dragEl.style.zIndex = ''; dragEl.style.cursor = 'grab'; dragEl.style.opacity = '';
+      Object.keys(strips).forEach((k) => { strips[k].style.overflow = prevOverflow[k] || ''; });
       if (splitArea) splitArea.style.overflow = prevSplitOverflow || '';
       if (srcWrap) srcWrap.style.zIndex = prevSrcWrapZ || '';
+      if (srcPaneEl) { srcPaneEl.style.zIndex = prevSrcPaneZ || ''; srcPaneEl.style.overflow = prevSrcPaneOverflow || ''; }
       document.body.style.userSelect = '';
     };
     this._onDrag(move, () => {
       cleanup();
+      if (this.state.dropZone) this.setState({ dropZone: null });
       if (!moved) {
-        if (side === 'left') { if (id !== this.state.selectedKey) this.openTab(id); }
-        else { if (id !== this.state.selectedKeyR) this.openTabR(id); }
+        if (id !== (this.paneObj(srcPane) || {}).selectedKey) this.openTabInPane(srcPane, id);
         return;
       }
-      this.commitTabMove(id, target.side, target.idx);
+      if (target.type === 'strip') this.commitTabMove(id, target.pane, target.idx);
+      else if (target.type === 'split') this.splitPane(target.pane, target.pos, id);
+      else if (target.type === 'center') this.commitTabMove(id, target.pane, ((this.paneObj(target.pane) || {}).tabs || []).length);
     });
   };
-  // Move tab `key` into group `dst` ('left'|'right') at index `idx`, fixing up active tabs.
+  // Move tab `key` into pane `dst` at index `idx`; an emptied source pane collapses.
   commitTabMove = (key, dst, idx) => {
-    let tabs = (this.state.tabs || []).slice();
-    let tabsR = (this.state.tabsR || []).slice();
-    const inLeft = tabs.indexOf(key), inRight = tabsR.indexOf(key);
-    const wasLeftActive = this.state.selectedKey === key;
-    const wasRightActive = this.state.selectedKeyR === key;
-    if (inLeft >= 0) tabs.splice(inLeft, 1);
-    if (inRight >= 0) tabsR.splice(inRight, 1);
-    if (dst === 'left') tabs.splice(Math.max(0, Math.min(idx, tabs.length)), 0, key);
-    else tabsR.splice(Math.max(0, Math.min(idx, tabsR.length)), 0, key);
-    let selK = this.state.selectedKey, selKR = this.state.selectedKeyR;
-    if (dst === 'left') selK = key; else selKR = key;
-    if (dst !== 'left' && wasLeftActive) selK = tabs.length ? tabs[Math.min(inLeft, tabs.length - 1)] : null;
-    if (dst !== 'right' && wasRightActive) selKR = tabsR.length ? tabsR[Math.min(inRight, tabsR.length - 1)] : null;
-    if (selK && tabs.indexOf(selK) < 0) selK = tabs[0] || null;
-    if (selKR && tabsR.indexOf(selKR) < 0) selKR = tabsR[0] || null;
-    // Never leave the left (primary) group empty while a right split exists.
-    if (tabs.length === 0 && tabsR.length > 0) { tabs = tabsR; tabsR = []; selK = selKR || tabs[0]; selKR = null; }
-    if (tabsR.length === 0) selKR = null;
-    this.setState({ tabs, tabsR, selectedKeyR: selKR, selectedIdR: selKR ? this.nodeOf(selKR) : null });
-    if (selKR) this.ensureBody(this.nodeOf(selKR));
-    if (selK && selK !== this.state.selectedKey) this.openTab(selK);
+    const src = this.paneOfTab(key);
+    if (!src || !this.paneObj(dst)) return;
+    const panes = {};
+    this.paneIdsList().forEach((pid) => { const p = this.state.panes[pid]; panes[pid] = { tabs: p.tabs.slice(), selectedKey: p.selectedKey }; });
+    const sp = panes[src];
+    const si = sp.tabs.indexOf(key);
+    sp.tabs.splice(si, 1);
+    if (sp.selectedKey === key) sp.selectedKey = sp.tabs.length ? sp.tabs[Math.min(si, sp.tabs.length - 1)] : null;
+    const dp = panes[dst];
+    dp.tabs.splice(Math.max(0, Math.min(idx, dp.tabs.length)), 0, key);
+    dp.selectedKey = key;
+    let layout = this.state.layout;
+    if (!sp.tabs.length && src !== dst) { layout = this.removePaneNode(layout, src); delete panes[src]; }
+    this.ensureBody(this.nodeOf(key));
+    this.setState({ layout, panes, activePane: dst }, () => this.syncPrimary());
   };
 
   // ---- Tab right-click menu + split pane (VS Code style) ----
@@ -2555,15 +2610,15 @@ class Component extends DCLogic {
     e.preventDefault(); e.stopPropagation();
     this.setState({ barMenu: { x: e.clientX, y: e.clientY }, tabMenu: null, splitSubOpen: false });
   };
-  // Collapse a split back to a single pane: fold every secondary tab into the primary group.
+  // Collapse all splits: fold every pane's tabs into the primary pane, in layout order.
   unsplitPanels = () => {
-    let tabs = (this.state.tabs || []).slice();
-    const tabsR = (this.state.tabsR || []).slice();
-    if (tabsR.length === 0) { this.setState({ barMenu: null }); return; }
-    tabsR.forEach((k) => { if (tabs.indexOf(k) < 0) tabs.push(k); });
-    const act = this.state.selectedKey || tabs[0];
-    this.setState({ barMenu: null, tabs, tabsR: [], selectedKeyR: null, selectedIdR: null });
-    if (act) this.openTab(act);
+    const ids = this.paneIdsList();
+    if (ids.length <= 1) { this.setState({ barMenu: null }); return; }
+    const primary = ids[0];
+    const tabs = [];
+    ids.forEach((pid) => { ((this.state.panes[pid] || {}).tabs || []).forEach((k) => { if (tabs.indexOf(k) < 0) tabs.push(k); }); });
+    const selK = (this.state.panes[primary] && this.state.panes[primary].selectedKey) || tabs[0] || null;
+    this.setState({ barMenu: null, layout: { pane: primary }, panes: { [primary]: { tabs, selectedKey: selK } }, activePane: primary }, () => this.syncPrimary());
   };
   // Close duplicate tabs: within each pane, keep one tab per node (the active one if it's a dup,
   // else the first occurrence) and drop the rest. Panes are deduped independently, so a note kept
@@ -2579,148 +2634,100 @@ class Component extends DCLogic {
       if (act && keep.indexOf(act) < 0) act = byId[this.nodeOf(act)] || keep[0] || null;
       return { keep, act };
     };
-    const L = dedupe(this.state.tabs || [], this.state.selectedKey);
-    const R = dedupe(this.state.tabsR || [], this.state.selectedKeyR);
-    const prevSel = this.state.selectedKey;
-    this.setState({ barMenu: null, tabs: L.keep, selectedKey: L.act, tabsR: R.keep, selectedKeyR: R.act, selectedIdR: R.act ? this.nodeOf(R.act) : null });
-    if (L.act && L.act !== prevSel) this.openTab(L.act);
+    const panes = {};
+    this.paneIdsList().forEach((pid) => {
+      const p = this.state.panes[pid];
+      const d = dedupe(p.tabs || [], p.selectedKey);
+      panes[pid] = { tabs: d.keep, selectedKey: d.act };
+    });
+    this.setState({ barMenu: null, panes }, () => this.syncPrimary());
   };
-  // Right-click menu for any node link (meta-row lists, breadcrumbs, in-body wikilinks).
+  // Right-click menu for any node link. `side` is the owning pane's id (defaults to primary).
   openLinkMenu = (id, side) => (e) => {
     if (!id || !this.nodeById || !this.nodeById[id]) return;
     e.preventDefault(); e.stopPropagation();
-    this.setState({ linkMenu: { id: id, side: side || 'left', x: e.clientX, y: e.clientY } });
+    this.setState({ linkMenu: { id: id, side: side || this.primaryPaneId(), x: e.clientX, y: e.clientY } });
   };
-  _mdContextMenu(e, side) {
+  _mdContextMenu(e, pid) {
     const a = e.target && e.target.closest ? e.target.closest('.wikilink') : null;
     if (a) {
       const id = a.getAttribute('data-wikilink');
-      if (id && this.nodeById && this.nodeById[id]) { e.preventDefault(); e.stopPropagation(); this.setState({ linkMenu: { id: id, side: side || 'left', x: e.clientX, y: e.clientY } }); }
+      if (id && this.nodeById && this.nodeById[id]) { e.preventDefault(); e.stopPropagation(); this.setState({ linkMenu: { id: id, side: pid || this.primaryPaneId(), x: e.clientX, y: e.clientY } }); }
       return;
     }
     const head = e.target && e.target.closest ? e.target.closest('.md-body h1, .md-body h2, .md-body h3, .md-body h4, .md-body h5, .md-body h6') : null;
-    const selId = (side === 'right') ? this.state.selectedIdR : this.selectedId;
+    const selId = this.paneNodeId(pid || this.primaryPaneId());
     if (head && selId != null && this.nodeById[selId]) {
       e.preventDefault(); e.stopPropagation();
-      this.setState({ headerMenu: { side: side || 'left', slug: this._slug(head.textContent), text: head.textContent, x: e.clientX, y: e.clientY } });
+      this.setState({ headerMenu: { side: pid || this.primaryPaneId(), slug: this._slug(head.textContent), text: head.textContent, x: e.clientX, y: e.clientY } });
     }
   }
   copyHeaderLink = () => {
     const hm = this.state.headerMenu; if (!hm) return;
-    const selId = (hm.side === 'right') ? this.state.selectedIdR : this.selectedId;
+    const selId = this.paneNodeId(hm.side);
     const n = this.nodeById[selId]; if (!n) { this.setState({ headerMenu: null }); return; }
     const base = window.location.origin + window.location.pathname;
     const slug = encodeURIComponent(hm.slug);
     this._copyText(selId === this.rootId ? (base + '#h=' + slug) : (base + '#node=' + encodeURIComponent(n.title) + '&h=' + slug));
     this.setState({ headerMenu: null });
   };
-  onMdContext = (e) => this._mdContextMenu(e, 'left');
-  onMdContextR = (e) => this._mdContextMenu(e, 'right');
+  onMdContext = (e) => this._mdContextMenu(e, this.primaryPaneId());
   // Duplicate a tab: a fresh tab on the same node, copying its back/forward history.
-  duplicateTab = (key, side) => {
+  duplicateTab = (key, pid) => {
     const id = this.nodeOf(key); if (id == null) return;
+    const pane = this.paneObj(pid); if (!pane) return;
     const newKey = this.newTabKey();
     const tn = Object.assign({}, this.state.tabNode); tn[newKey] = id;
     const src = (this.navHistByKey || (this.navHistByKey = {}))[key];
     this.navHistByKey[newKey] = src ? { hist: src.hist.slice(), idx: src.idx } : { hist: [id], idx: 0 };
     this.ensureBody(id);
-    if (side === 'right') {
-      const tabsR = (this.state.tabsR || []).slice(); const i = tabsR.indexOf(key); tabsR.splice(i + 1, 0, newKey);
-      this.setState({ tabMenu: null, tabsR, tabNode: tn, selectedKeyR: newKey, selectedIdR: id });
-    } else {
-      const tabs = (this.state.tabs || []).slice(); const i = tabs.indexOf(key); tabs.splice(i + 1, 0, newKey);
-      this._activeKey = newKey; this._switchingTab = true;
-      this.setState({ tabMenu: null, tabs, tabNode: tn, selectedKey: newKey });
-      this.focusNodeGraph(id); this._switchingTab = false;
-    }
+    const tabs = pane.tabs.slice(); tabs.splice(tabs.indexOf(key) + 1, 0, newKey);
+    const panes = Object.assign({}, this.state.panes);
+    panes[pid] = { tabs, selectedKey: newKey };
+    if (pid === this.primaryPaneId()) this._activeKey = newKey;
+    this._switchingTab = true;
+    this.setState({ tabMenu: null, panes, tabNode: tn });
+    this._switchingTab = false;
   };
-  // Move a tab into the secondary reading pane and place that pane at `pos`
-  // (right | left | up | down). The data model stays primary(tabs) + secondary(tabsR);
-  // `splitPos` only controls how the two panes are arranged on screen.
-  splitMove = (key, pos) => {
+  // Split pane `targetPid` at `pos` (right | left | up | down), moving tab `key` into the
+  // new pane. Capped at MAX_PANES; an emptied source pane collapses out of the tree.
+  splitPane = (targetPid, pos, key) => {
     pos = ['right','left','up','down'].indexOf(pos) >= 0 ? pos : 'right';
-    let tabs = (this.state.tabs || []).slice();
-    let tabsR = (this.state.tabsR || []).slice();
-    const li = tabs.indexOf(key);
-    const ri = tabsR.indexOf(key);
-    if (li >= 0) tabs.splice(li, 1);
-    if (ri < 0) tabsR.push(key);
-    const vert = (pos === 'up' || pos === 'down');
-    const savedR = (() => { try { const v = parseFloat(sessionStorage.getItem('kg-split-ratio')); return (v >= 0.2 && v <= 0.8) ? v : 0.5; } catch (e) { return 0.5; } })();
-    const ratio = vert ? 0.5 : savedR;   // vertical (up/down) splits start at equal height
-    try { sessionStorage.setItem('kg-split-pos', pos); } catch (e) {}
-    const patch = { tabMenu: null, splitSubOpen: false, tabsR, selectedKeyR: key, selectedIdR: this.nodeOf(key), splitRatio: ratio, splitPos: pos, activePane: 'right' };
-    if (tabs.length === 0) {
-      // Left group emptied → collapse the split back to a single group.
-      patch.tabs = tabsR; patch.tabsR = []; patch.selectedKeyR = null; patch.selectedIdR = null;
-      this.setState(patch);
-      this.openTab(key);
-      return;
-    }
-    patch.tabs = tabs;
-    if (this.state.selectedKey === key) {
-      const nextKey = tabs[Math.min(Math.max(li, 0), tabs.length - 1)];
-      this.setState(patch);
-      this.openTab(nextKey);
-    } else {
-      this.setState(patch);
-    }
+    if (this.paneIdsList().length >= this.MAX_PANES) return;
+    const src = this.paneOfTab(key);
+    if (!src || !this.paneObj(targetPid)) return;
+    if (src === targetPid && (this.paneObj(src).tabs || []).length < 2) return;   // would collapse right back
+    const panes = {};
+    this.paneIdsList().forEach((pid) => { const p = this.state.panes[pid]; panes[pid] = { tabs: p.tabs.slice(), selectedKey: p.selectedKey }; });
+    const sp = panes[src];
+    const si = sp.tabs.indexOf(key); if (si < 0) return;
+    sp.tabs.splice(si, 1);
+    if (sp.selectedKey === key) sp.selectedKey = sp.tabs.length ? sp.tabs[Math.min(si, sp.tabs.length - 1)] : null;
+    const newId = this.newPaneId();
+    panes[newId] = { tabs: [key], selectedKey: key };
+    const dir = (pos === 'up' || pos === 'down') ? 'col' : 'row';
+    const first = (pos === 'up' || pos === 'left');
+    let layout = this.replacePaneNode(this.state.layout, targetPid, { dir, ratio: 0.5, a: first ? { pane: newId } : { pane: targetPid }, b: first ? { pane: targetPid } : { pane: newId } });
+    if (!sp.tabs.length && src !== targetPid) { layout = this.removePaneNode(layout, src); delete panes[src]; }
     this.ensureBody(this.nodeOf(key));
-  };
-  openTabR = (key) => {
-    const id = this.nodeOf(key);
-    if (id == null) return;
-    if (this.state.selectedKeyR) { const oel = document.getElementById('kg-sidebar-scroll-r'); if (oel) this._tabScroll['R:' + this.state.selectedKeyR] = oel.scrollTop; }
-    this._restoreTabScrollR = 'R:' + key;
-    this.ensureBody(id);
-    this.setState({ selectedKeyR: key, selectedIdR: id });
+    this.setState({ layout, panes, activePane: newId, tabMenu: null, splitSubOpen: false, dropZone: null }, () => { this.syncPrimary(false); this.anchorActivePane(); });
   };
   // The "+" button at the end of a strip opens the current (acting) root note in a new tab.
-  addRootTab = (side) => {
+  addRootTab = (pid) => {
     const rid = this.actingRoot || this.rootId;
     if (rid == null || !this.nodeById[rid]) return;
-    if (side === 'right') {
-      let tabsR = (this.state.tabsR || []).slice();
-      const tabNode = Object.assign({}, this.state.tabNode);
-      const key = this.newTabKey(); tabNode[key] = rid; tabsR.push(key);
-      this.ensureBody(rid);
-      this._restoreTabScrollR = 'R:' + key;
-      this.setState({ tabsR, tabNode, selectedKeyR: key, selectedIdR: rid });
-    } else {
-      this.openInNewTab(rid);
-    }
+    this.openInNewTabInPane(pid, rid);
   };
-  closeTabR = (key) => {
-    this.lockTabWidths('right');
-    let tabsR = (this.state.tabsR || []).slice();
-    const i = tabsR.indexOf(key);
-    if (i < 0) return;
-    tabsR.splice(i, 1);
-    if (tabsR.length === 0) { this.setState({ tabsR: [], selectedKeyR: null, selectedIdR: null }); return; }
-    if (this.state.selectedKeyR === key) {
-      const nextKey = tabsR[Math.min(i, tabsR.length - 1)];
-      this.ensureBody(this.nodeOf(nextKey));
-      this.setState({ tabsR, selectedKeyR: nextKey, selectedIdR: this.nodeOf(nextKey) });
-    } else {
-      this.setState({ tabsR });
-    }
-  };
-  // Close every tab in this section except `key`.
-  closeOtherTabs = (key, side) => {
+  // Close every tab in this pane except `key`.
+  closeOtherTabs = (key, pid) => {
     this.setState({ tabMenu: null });
-    if (side === 'right') {
-      const tabsR = (this.state.tabsR || []);
-      if (!tabsR.includes(key) || tabsR.length <= 1) return;
-      this.lockTabWidths('right');
-      this.ensureBody(this.nodeOf(key));
-      this.setState({ tabsR: [key], selectedKeyR: key, selectedIdR: this.nodeOf(key) });
-    } else {
-      const tabs = (this.state.tabs || []);
-      if (!tabs.includes(key) || tabs.length <= 1) return;
-      this.lockTabWidths('left');
-      this.setState({ tabs: [key] });
-      this.openTab(key);
-    }
+    const pane = this.paneObj(pid);
+    if (!pane || pane.tabs.indexOf(key) < 0 || pane.tabs.length <= 1) return;
+    this.lockTabWidths(pid);
+    const panes = Object.assign({}, this.state.panes);
+    panes[pid] = { tabs: [key], selectedKey: key };
+    this.ensureBody(this.nodeOf(key));
+    this.setState({ panes }, () => this.syncPrimary());
   };
   collapseAll() {
     if (!this.nodeById) return;
@@ -3227,8 +3234,19 @@ class Component extends DCLogic {
       + '</div>';
   }
 
-  // Variant of onMdClick whose wikilinks route through `nav` (used by the right split pane).
+  // Wikilink clicks route through `nav` (the owning pane); also handles in-note tab groups.
   onMdClickNav = (e, nav) => {
+    const tab = e.target && e.target.closest ? e.target.closest('.kg-tab-label') : null;
+    if (tab) {
+      e.preventDefault();
+      const wrap = tab.closest('.kg-tabs'); if (!wrap) return;
+      const i = tab.getAttribute('data-tab');
+      const row = tab.parentElement;
+      Array.prototype.forEach.call(row.children, (b) => b.classList.toggle('active', b.getAttribute('data-tab') === i));
+      const panels = wrap.querySelector('.kg-tab-panels');
+      if (panels) Array.prototype.forEach.call(panels.children, (p) => { p.hidden = p.getAttribute('data-tab') !== i; });
+      return;
+    }
     const a = e.target && e.target.closest ? e.target.closest('.wikilink') : null;
     if (a) { e.preventDefault(); this._dismissPeek(); nav(a.getAttribute('data-wikilink')); return; }
     const link = e.target && e.target.closest ? e.target.closest('a[href]') : null;
@@ -3272,7 +3290,7 @@ class Component extends DCLogic {
     if (this.nodeById && this.nodeById[id]) {
       const r = a.getBoundingClientRect();
       clearTimeout(this._peekTimer);
-      this._peekTimer = setTimeout(() => { this.ensureBody(id); this.setState({ linkPeek: { id: id, x: r.left, y: r.bottom } }); }, 320);
+      this._peekTimer = setTimeout(() => { this.ensureBody(id); this.setState({ linkPeek: { id: id, x: r.left, y: r.bottom, t: r.top } }); }, 320);
     }
   };
   onMdOut = (e) => {
@@ -3329,7 +3347,7 @@ class Component extends DCLogic {
     s.setAttribute('data-loading', 'lazy');
     host.appendChild(s);
   }
-  sidebarScrollEl() { return document.getElementById('kg-sidebar-scroll'); }
+  sidebarScrollEl() { return this.paneScrollEl(this.primaryPaneId()); }
   onSidebarScroll = () => {
     // While the anchored article is showing (no hover preview), remember its scroll position.
     if (!this.state.hoverId) { const el = this.sidebarScrollEl(); if (el) this._anchorScroll = el.scrollTop; }
@@ -3374,16 +3392,21 @@ class Component extends DCLogic {
     this.syncScopedMarquee();
     this.syncGiscus();
     const el = this.sidebarScrollEl();
-    // Restore the right pane's per-tab scroll on tab switch.
-    if (this._restoreTabScrollR) { const k = this._restoreTabScrollR; this._restoreTabScrollR = null; const rel = document.getElementById('kg-sidebar-scroll-r'); if (rel) rel.scrollTop = (this._tabScroll && this._tabScroll[k]) || 0; }
-    // Restore the left pane's per-tab scroll on tab switch (overrides the reset-to-top below).
-    if (this._restoreTabScroll) { const k = this._restoreTabScroll; this._restoreTabScroll = null; if (el) { const v = (this._tabScroll && this._tabScroll[k]) || 0; el.scrollTop = v; this._anchorScroll = v; this._prevSel = this.state.selectedId; this._prevHover = this.state.hoverId; return; } }
+    // Restore a pane's per-tab scroll on tab switch (key is "<paneId>:<tabKey>").
+    if (this._restoreTabScroll) {
+      const k = this._restoreTabScroll; this._restoreTabScroll = null;
+      const pid = k.slice(0, k.indexOf(':'));
+      const pel = this.paneScrollEl(pid);
+      const v = (this._tabScroll && this._tabScroll[k]) || 0;
+      if (pel) pel.scrollTop = v;
+      if (pel && pid === this.primaryPaneId()) { this._anchorScroll = v; this._prevSel = this.state.selectedId; this._prevHover = this.state.hoverId; return; }
+    }
     const hover = this.state.hoverId, sel = this.state.selectedId;
     const prevHover = this._prevHover, prevSel = this._prevSel;
     this._prevHover = hover; this._prevSel = sel;
     // Hover previews follow the active pane — do the enter/leave scroll bookkeeping on that pane.
-    const rightActive = this.paneIsRight();
-    const rel2 = rightActive ? document.getElementById('kg-sidebar-scroll-r') : null;
+    const secondaryActive = !this.activeIsPrimary();
+    const rel2 = secondaryActive ? this.paneScrollEl(this.activePaneEff()) : null;
     if (rel2) {
       if (hover && !prevHover) { this._anchorScrollR = rel2.scrollTop; rel2.scrollTop = 0; }
       else if (!hover && prevHover) { if (this._anchorScrollR != null) rel2.scrollTop = this._anchorScrollR; }
@@ -3394,7 +3417,7 @@ class Component extends DCLogic {
       // Anchored to a different node (clicked/navigated): start the new article at the top.
       this._anchorScroll = 0; el.scrollTop = 0; return;
     }
-    if (rightActive) return;   // hover preview is in the right pane; leave the left pane's scroll alone
+    if (secondaryActive) return;   // hover preview is in a secondary pane; leave the primary's scroll alone
     if (hover && !prevHover) {
       // Entering a hover preview: show it from the top (anchored scroll already saved on scroll).
       el.scrollTop = 0;
@@ -3577,25 +3600,6 @@ class Component extends DCLogic {
     document.addEventListener('mouseleave', up);
     window.addEventListener('blur', up);
   }
-  // Drag the divider between the two split panes to change their width ratio.
-  startSplitResize = (e) => {
-    e.preventDefault(); e.stopPropagation();
-    const area = document.getElementById('kg-splitarea');
-    if (!area) return;
-    const pos = this.state.splitPos || 'right';
-    const vert = (pos === 'up' || pos === 'down');
-    const rev = (pos === 'left' || pos === 'up');
-    const rect = area.getBoundingClientRect();
-    document.body.style.userSelect = 'none';
-    const move = (ev) => {
-      let r;
-      if (vert) r = rev ? (rect.bottom - ev.clientY) / rect.height : (ev.clientY - rect.top) / rect.height;
-      else r = rev ? (rect.right - ev.clientX) / rect.width : (ev.clientX - rect.left) / rect.width;
-      r = Math.max(0.2, Math.min(0.8, r));
-      this.setState({ splitRatio: r });
-    };
-    this._onDrag(move, () => { document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-split-ratio', String(this.state.splitRatio)); } catch (e2) {} });
-  };
   startUndockDrag = (e) => {
     if (e.button !== 0) return;                                                        // ignore right/middle click (right-click opens the toolbar menu)
     if (e.target && e.target.closest && e.target.closest('button')) return;
@@ -3743,8 +3747,20 @@ class Component extends DCLogic {
     if (this.state.fullPage) this.setState({ fullPage: false }, center);
     else center();
   };
+  // Crosshair for any pane: anchors that pane's active-tab note — makes the pane active (if it
+  // isn't) and runs the full anchor (reveal if off-screen, thicken edges, center + glow). Stable:
+  // the graph only reflows when a reveal is actually needed, so an already-visible node just centers.
+  locateInPane = (pid) => {
+    if (!this.paneObj(pid)) return;
+    if (this.activePaneEff() !== pid) this.setState({ activePane: pid }, () => this.anchorActivePane());
+    else this.anchorActivePane();
+  };
   onSearchInput = (e) => { this._searchPrevIdx = 0; this.setState({ query: e.target.value, searchIdx: 0 }); this._kickGraph(); };
-  onSideSearchInput = (e) => { this._searchPrevIdx = 0; this.setState({ sideQuery: e.target.value, searchIdx: 0 }); this._kickGraph(); };
+  // Per-pane search bar plumbing (curried by pane id).
+  onPaneSearchInput = (pid) => (e) => { this._searchPrevIdx = 0; this.setState({ sideQueryByPane: Object.assign({}, this.state.sideQueryByPane, { [pid]: e.target.value }), searchIdx: 0 }); this._kickGraph(); };
+  onPaneSearchFocus = (pid) => () => { const url = this._paneUrl(pid); this.setState({ searchFocus: true, searchWhich: 'pane:' + pid, sideEditingPane: pid, sideQueryByPane: Object.assign({}, this.state.sideQueryByPane, { [pid]: url }) }); const el = (this._paneSearchEls || {})[pid]; if (el) setTimeout(() => { try { el.focus(); el.select(); } catch (e) {} }, 0); };
+  setPaneSearchEl = (pid) => (el) => { if (el) (this._paneSearchEls || (this._paneSearchEls = {}))[pid] = el; };
+  onSearchPickPane = (pid) => (id) => { this.setState({ sideQueryByPane: {}, sideEditingPane: null, searchFocus: false }); const el = (this._paneSearchEls || {})[pid]; if (el) el.blur(); this.navPane(pid, id); };
   // The node that scopes search (acting root, when it isn't the whole-garden root). Drives the
   // custom "Search under “title”" placeholder overlay.
   _searchScopedRoot() { return (this.actingRoot != null && this.actingRoot !== this.rootId && this.nodeById && this.nodeById[this.actingRoot]) ? this.nodeById[this.actingRoot] : null; }
@@ -3777,26 +3793,20 @@ class Component extends DCLogic {
     this._scopedRAF = requestAnimationFrame(step);
   }
   onSearchFocus = () => { if (this.searchEl && this.searchEl.value) { const el = this.searchEl; setTimeout(() => { try { el.select(); } catch (e) {} }, 0); } this.setState((s) => ({ searchFocus: true, searchWhich: 'top', searchExpanded: ((s.winW || 1280) <= 760 || (s.winH || 800) <= 500) ? true : s.searchExpanded })); };
-  setSideSearchEl = (el) => { if (el) this.sideSearchEl = el; };
-  setSideSearchElR = (el) => { if (el) this.sideSearchElR = el; };
-  onSideSearchInputR = (e) => { this._searchPrevIdx = 0; this.setState({ sideQueryR: e.target.value, searchIdx: 0 }); this._kickGraph(); };
-  onSideSearchFocusR = () => { const url = this._sideUrlR(); this.setState({ searchFocus: true, searchWhich: 'sideR', sideEditingR: true, sideQueryR: url }); if (this.sideSearchElR) { const el = this.sideSearchElR; setTimeout(() => { try { el.focus(); el.select(); } catch (e) {} }, 0); } };
-  onSearchPickR = (id) => { this.setState({ sideQueryR: '', sideEditingR: false, searchFocus: false }); if (this.sideSearchElR) this.sideSearchElR.blur(); this.navRight(id); };
-  onSideSearchFocus = () => { const url = this._sideUrl(); this.setState({ searchFocus: true, searchWhich: 'side', sideEditing: true, sideQuery: url }); if (this.sideSearchEl) { const el = this.sideSearchEl; setTimeout(() => { try { el.focus(); el.select(); } catch (e) {} }, 0); } };
   setSideToolbarEl = (el) => {
     if (!el || el === this._sideToolbarEl) return;
     this._sideToolbarEl = el;
-    const measure = () => { const hh = el.offsetHeight; if (hh && hh !== this.state.sideToolbarH) this.setState({ sideToolbarH: hh }); };
+    const measure = () => { const hh = el.offsetHeight, ww = el.offsetWidth; const patch = {}; if (hh && hh !== this.state.sideToolbarH) patch.sideToolbarH = hh; if (ww && ww !== this.state.sideToolbarW) patch.sideToolbarW = ww; if (Object.keys(patch).length) this.setState(patch); };
     measure();
     try { if (this._sideToolbarRO) this._sideToolbarRO.disconnect(); this._sideToolbarRO = new ResizeObserver(measure); this._sideToolbarRO.observe(el); } catch (e) {}
   };
-  onSearchBlur = () => setTimeout(() => { this.setState({ searchFocus: false, searchExpanded: false, sideEditing: false, sideEditingR: false }); this._kickGraph(); }, 170);
+  onSearchBlur = () => setTimeout(() => { this.setState({ searchFocus: false, searchExpanded: false, sideEditingPane: null }); this._kickGraph(); }, 170);
   onSearchKey = (e) => {
     const res = this._results || [];
     if (e.key === 'ArrowDown') { e.preventDefault(); if (res.length) this.setState((s) => ({ searchIdx: Math.min((s.searchIdx || 0) + 1, res.length - 1) }), () => this.scrollSearchActive()); }
     else if (e.key === 'ArrowUp') { e.preventDefault(); if (res.length) this.setState((s) => ({ searchIdx: Math.max((s.searchIdx || 0) - 1, 0) }), () => this.scrollSearchActive()); }
-    else if (e.key === 'Enter') { const n = res[this.state.searchIdx || 0] || res[0]; if (n) { ((this.state.searchWhich === 'sideR') ? this.onSearchPickR : this.onSearchPick)(n.id); } }
-    else if (e.key === 'Escape') { this.setState({ query: '', sideQuery: '', sideQueryR: '', sideEditing: false, sideEditingR: false, searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); if (this.sideSearchEl) this.sideSearchEl.blur(); if (this.sideSearchElR) this.sideSearchElR.blur(); }
+    else if (e.key === 'Enter') { const n = res[this.state.searchIdx || 0] || res[0]; if (n) { const w = this.state.searchWhich || 'top'; if (w.indexOf('pane:') === 0) this.onSearchPickPane(w.slice(5))(n.id); else this.onSearchPick(n.id); } }
+    else if (e.key === 'Escape') { this.setState({ query: '', sideQueryByPane: {}, sideEditingPane: null, searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); Object.keys(this._paneSearchEls || {}).forEach((k) => { try { this._paneSearchEls[k].blur(); } catch (x) {} }); }
   };
   // Shared arrow-key navigation for the pinned/recent dropdowns: move the active row,
   // scroll it into view, mirror the highlight into the graph; Enter opens, Escape closes.
@@ -3854,7 +3864,7 @@ class Component extends DCLogic {
   // After keyboard nav, the list scrolls under a stationary cursor and fires a spurious mouseenter
   // that would yank the highlight to wherever the mouse sits. Ignore hover briefly so keys win.
   _guardHover = () => { this._ignoreHover = true; clearTimeout(this._ignoreHoverT); this._ignoreHoverT = setTimeout(() => { this._ignoreHover = false; }, 320); };
-  onSearchPick = (id) => { this.setState({ query: '', sideQuery: '', searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); if (this.sideSearchEl) this.sideSearchEl.blur(); this.navigateTo(id); };
+  onSearchPick = (id) => { this.setState({ query: '', sideQueryByPane: {}, searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); this.navigateTo(id); };
 
   pathLabel(n) { let c = n, g = 0; while (c && c.depth > 1 && g < 40) { c = this.nodeById[c.parent]; g++; } return c ? c.title : ''; }
   inActingSubtree(n) { let x = n, g = 0; while (x && g < 80) { if (x.id === this.actingRoot) return true; x = x.parent ? this.nodeById[x.parent] : null; g++; } return false; }
@@ -3903,7 +3913,7 @@ class Component extends DCLogic {
     const veryNarrow = winW <= 430;                      // drop the "knowledge garden" subtitle
     const compact = narrow || shortLandscape;            // collapse toolbar (text -> icons)
     const mobileSB = narrow || shortLandscape;           // mobile sidebar placement
-    const selId = this.state.selectedId ? (((this._resizing || this.paneIsRight()) ? null : this.state.hoverId) || this.state.selectedId) : null;
+    const selId = this.state.selectedId ? (((this._resizing || !this.activeIsPrimary()) ? null : this.state.hoverId) || this.state.selectedId) : null;
     const sel = selId && this.nodeById ? this.nodeById[selId] : null;
     if (sel) this.ensureBody(sel.id);
 
@@ -3928,15 +3938,10 @@ class Component extends DCLogic {
     };
     const crumbs = sel ? mkCrumbs(sel, (id) => this.navigateTo(id), undefined, true) : [];
 
-    const outCount = sel ? new Set((sel.links || []).filter((id) => this.nodeById[id])).size : 0;
-    const parentNode = (sel && sel.parent != null && sel.id !== this.actingRoot) ? this.nodeById[sel.parent] : null;
-    const inCount = sel ? new Set(this.incoming[sel.id] || []).size : 0;
-    const childN = sel ? new Set((sel.children || []).map((c) => c.id)).size : 0;
     const popItem = { display: 'block', width: '100%', textAlign: 'left', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', maxWidth: '320px', background: 'transparent', border: 'none', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.02em', textTransform: 'none', color: '#c9bca6', padding: '6px 9px', borderRadius: '5px', transition: 'all .12s ease' };
     const popStyle = { position: 'absolute', top: 'calc(100% + 7px)', left: 0, minWidth: '210px', maxWidth: '340px', maxHeight: '300px', overflowY: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '5px', zIndex: 35, boxShadow: '0 18px 40px -18px rgba(0,0,0,0.85)' };
-    // Build a sorted, de-duplicated dropdown list (children / linked / backlinks) for either pane.
-    // opts.popKey is the metaPop state key to clear on click; nav repoints the pane; side feeds the
-    // link context-menu; hover highlights the node in the graph (left pane only).
+    // Build a sorted, de-duplicated dropdown list (children / linked / backlinks) for a pane.
+    // nav repoints the pane; side feeds the link context-menu; hover highlights in the graph.
     const makePopList = (ids, opts) => {
       const seen = new Set();
       const arr = (ids || []).map((id) => this.nodeById[id]).filter((nn) => nn && !seen.has(nn.id) && seen.add(nn.id));
@@ -3945,49 +3950,51 @@ class Component extends DCLogic {
       return arr.map((nn) => ({
         label: nn.title,
         snip: opts.snippetFor ? this._backSnippet(nn, opts.snippetFor) : null,
-        onClick: () => { this.setState({ [opts.popKey]: null }); opts.nav(nn.id); },
+        onClick: () => { this.setState({ metaPop: null }); opts.nav(nn.id); },
         onHover: opts.hover ? () => { this.hoverId = nn.id; } : () => {},
         onLeave: opts.hover ? () => { this.hoverId = null; } : () => {},
         onContext: this.openLinkMenu(nn.id, opts.side),
         style: popItem,
       }));
     };
-    const mkPopList = (ids, snipTitle) => makePopList(ids, { popKey: 'metaPop', nav: (id) => this.navigateTo(id), hover: true, snippetFor: snipTitle || null });
-    const linkedList = sel ? mkPopList((sel.links || []).filter((id) => this.nodeById[id])) : [];
-    const backList = sel ? mkPopList(this.incoming[sel.id] || [], this.state.metaPop === 'backlinks' ? sel.title : null) : [];
-    const childList = sel ? mkPopList((sel.children || []).map((c) => c.id)) : [];
-
-    // Build the full per-pane value set (crumbs, meta lists, title, body) for ANY node, so the
-    // right split pane mirrors the left exactly. `nav` repoints that pane; `pp` is the metaPop prefix.
-    const mkPopList2 = (ids, nav) => makePopList(ids, { popKey: 'metaPopR', nav: nav, side: 'right', hover: false });
-    const buildPane = (node, nav) => {
+    // Build the full per-pane value set (crumbs, meta lists + popups, title, body) for a pane.
+    const mp = this.state.metaPop;
+    const buildPane = (pid, node) => {
       if (!node) return { hasSel: false };
-      const crumbsR = mkCrumbs(node, nav, 'right', false);
+      const nav = (id) => this.navPane(pid, id);
+      const mkList = (ids, snipTitle) => makePopList(ids, { nav, side: pid, hover: true, snippetFor: snipTitle || null });
+      const crumbsP = mkCrumbs(node, nav, pid, true);
       const pNode = (node.parent != null && node.id !== this.actingRoot) ? this.nodeById[node.parent] : null;
       const cN = new Set((node.children || []).map((c2) => c2.id)).size;
       const body = node._bodyLoaded
         ? (this.state.rawMd
           ? React.createElement('pre', { className: 'md-raw', style: { whiteSpace: 'pre-wrap', wordBreak: 'break-word', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', lineHeight: '1.6', color: '#b3a48c', margin: 0 } }, this.genMarkdown(node))
-          : React.createElement('div', { className: this.mc('math') ? 'md-body' : 'md-body kg-no-math', onClick: (e) => this.onMdClickNav(e, nav), onContextMenu: this.onMdContextR, onMouseOver: this.onMdOver, onMouseOut: this.onMdOut, dangerouslySetInnerHTML: { __html: this.mdHtml(this.genMarkdown(node)) } }))
+          : React.createElement('div', { className: this.mc('math') ? 'md-body' : 'md-body kg-no-math', onClick: (e) => this.onMdClickNav(e, nav), onContextMenu: (e) => this._mdContextMenu(e, pid), onMouseOver: this.onMdOver, onMouseOut: this.onMdOut, dangerouslySetInnerHTML: { __html: this.mdHtml(this.genMarkdown(node)) } }))
         : React.createElement('div', { className: 'md-body' }, React.createElement('div', { style: { color: '#6c6354', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', padding: '6px 0', opacity: 0.85 } }, 'loading note \u2026'));
       return {
-        hasSel: true, crumbs: crumbsR, selName: node.name, dateLine: this.formatDates(node),
+        hasSel: true, crumbs: crumbsP, selName: node.name, dateLine: this.formatDates(node),
         outCount: new Set((node.links || []).filter((id) => this.nodeById[id])).size,
         inCount: new Set(this.incoming[node.id] || []).size,
-        childCountLabel: cN ? ('⊕ ' + cN + ' children') : '· leaf',
-        hasParent: !!pNode, parentClick: pNode ? () => nav(pNode.id) : () => {},
-        childList: mkPopList2((node.children || []).map((c2) => c2.id), nav), linkedList: mkPopList2((node.links || []).filter((id) => this.nodeById[id]), nav), backList: mkPopList2(this.incoming[node.id] || [], nav),
-        mdNode: body, locate: () => nav(node.id),
+        childCountLabel: cN ? ('\u2295 ' + cN + ' children') : '\u00b7 leaf',
+        hasParent: !!pNode,
+        parentClick: pNode ? () => { this.hoverId = null; nav(pNode.id); } : () => {},
+        parentContext: pNode ? this.openLinkMenu(pNode.id, pid) : () => {},
+        parentHover: pNode ? () => { this.hoverId = pNode.id; } : () => {},
+        parentLeave: () => { this.hoverId = null; },
+        childList: mkList((node.children || []).map((c2) => c2.id)),
+        linkedList: mkList((node.links || []).filter((id) => this.nodeById[id])),
+        backList: mkList(this.incoming[node.id] || [], (mp && mp.pane === pid && mp.which === 'backlinks') ? node.title : null),
+        showChildPop: !!(mp && mp.pane === pid && mp.which === 'children'),
+        showLinkedPop: !!(mp && mp.pane === pid && mp.which === 'linked'),
+        showBackPop: !!(mp && mp.pane === pid && mp.which === 'backlinks'),
+        popChild: () => { clearTimeout(this._popT); this.setState({ metaPop: { pane: pid, which: 'children' } }); },
+        popLinked: () => { clearTimeout(this._popT); this.setState({ metaPop: { pane: pid, which: 'linked' } }); },
+        popBack: () => { clearTimeout(this._popT); this.setState({ metaPop: { pane: pid, which: 'backlinks' } }); },
+        popKeep: () => { clearTimeout(this._popT); },
+        popLeave: () => { if (this.state.linkMenu) return; clearTimeout(this._popT); this._popT = setTimeout(() => this.setState({ metaPop: null }), 200); },
+        mdNode: body,
       };
     };
-    const navR = (id) => this.navRight(id);
-    // Hover previews (graph nodes, legend, breadcrumbs) render in the ACTIVE pane: when the right
-    // pane is active, the hovered note temporarily replaces its content instead of the left pane's.
-    const rHoverId = (!this._resizing && this.paneIsRight() && this.state.hoverId && this.nodeById && this.nodeById[this.state.hoverId]) ? this.state.hoverId : null;
-    const rShowId = rHoverId || this.state.selectedIdR;
-    const rNodeEarly = ((this.state.tabsR || []).length && rShowId && this.nodeById) ? this.nodeById[rShowId] : null;
-    if (rNodeEarly) this.ensureBody(rNodeEarly.id);
-    const rPane = buildPane(rNodeEarly, navR);
 
     const resStyle = { display: 'block', width: '100%', textAlign: 'left', background: 'transparent', border: 'none', borderRadius: '5px', cursor: 'pointer', padding: '8px 10px', transition: 'background .15s' };
     const rawResults = this.computeResults();
@@ -4000,7 +4007,7 @@ class Component extends DCLogic {
         title: n.title,
         path: this.pathLabel(n),
         snippet: snip ? React.createElement('div', { style: { fontSize: '11px', lineHeight: '1.5', color: '#9a8f7c', marginTop: '3px', maxHeight: '32px', overflow: 'hidden', fontFamily: "'JetBrains Mono', monospace" }, dangerouslySetInnerHTML: { __html: snip } }) : null,
-        onClick: (e) => { if (e && e.button !== 0) { if (e.preventDefault) e.preventDefault(); return; } ((this.state.searchWhich === 'sideR') ? this.onSearchPickR : this.onSearchPick)(n.id); },
+        onClick: (e) => { if (e && e.button !== 0) { if (e.preventDefault) e.preventDefault(); return; } const w = this.state.searchWhich || 'top'; (w.indexOf('pane:') === 0 ? this.onSearchPickPane(w.slice(5)) : this.onSearchPick)(n.id); },
         onContext: this.openLinkMenu(n.id),
         onHover: () => this.setState({ searchIdx: i }),
         style: Object.assign({}, resStyle, i === activeIdx ? { background: '#1d1710', boxShadow: 'inset 2px 0 0 #d8a942' } : null),
@@ -4008,9 +4015,7 @@ class Component extends DCLogic {
     });
     const searchOpen = this.state.searchFocus && searchResults.length > 0;
     const _which = this.state.searchWhich || 'top';
-    const topSearchOpen = searchOpen && _which !== 'side' && _which !== 'sideR' && (this.state.query || '').trim().length >= 2;
-    const sideSearchOpen = searchOpen && _which === 'side' && this._sideQ().trim().length >= 2;
-    const sideSearchOpenR = searchOpen && _which === 'sideR' && this._sideQR().trim().length >= 2;
+    const topSearchOpen = searchOpen && _which === 'top' && (this.state.query || '').trim().length >= 2;
     const _scopedRoot = this._searchScopedRoot();
     const sideSearchPlaceholder = _scopedRoot ? ('Search under \u201C' + _scopedRoot.title + '\u201D') : 'Search notes\u2026';
     const recentItemStyle = { display: 'block', minWidth: '100%', width: 'max-content', textAlign: 'left', background: 'transparent', border: 'none', cursor: 'pointer', padding: '7px 9px', borderRadius: '6px' };
@@ -4147,30 +4152,27 @@ class Component extends DCLogic {
     }
 
     // ---- Sidebar tabs ----
-    const tabsArr = this.state.tabs || [];
-    const tabsRArr = this.state.tabsR || [];
-    const splitOn = tabsRArr.length > 0;
-    const showTabs = tabsArr.length >= 1 || splitOn;
     const tabBaseStyle = { position: 'relative', display: 'flex', alignItems: 'center', gap: '7px', flex: '1 1 0', maxWidth: '170px', minWidth: '30px', height: '28px', boxSizing: 'border-box', padding: '0 10px', borderRadius: '7px', border: 'none', cursor: 'grab', fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.01em', overflow: 'hidden' };
-    const mkTab = (key, side) => {
+    const mkTab = (key, pid) => {
       const tid = this.nodeOf(key);
       const tn = this.nodeById[tid];
-      const active = side === 'left' ? (key === this.state.selectedKey) : (key === this.state.selectedKeyR);
+      const pn = this.paneObj(pid) || {};
+      const active = key === pn.selectedKey;
       const dotCol = tn ? this.color(tn) : '#6c6354';
-      const showClose = active || this.state.hoverTab === (side + ':' + key);
-      const closeHovered = this.state.closeHover === (side + ':' + key);
+      const showClose = active || this.state.hoverTab === (pid + ':' + key);
+      const closeHovered = this.state.closeHover === (pid + ':' + key);
       const closeBg = closeHovered ? '#3a2218' : (active ? '#2c2115' : '#211a10');
-      const sideCollapsed = side === 'left' ? this.state.tabsCollapsedL : this.state.tabsCollapsedR;
+      const sideCollapsed = !!(this.state.tabsCollapsed || {})[pid];
       const dotIsClose = sideCollapsed && active;
       const showCloseAbs = !sideCollapsed && showClose;
-      const isHovered = this.state.hoverTab === (side + ':' + key);
-      const lockW = side === 'left' ? this.state.lockTabWL : this.state.lockTabWR;
+      const isHovered = this.state.hoverTab === (pid + ':' + key);
+      const lockW = (this.state.lockTabW || {})[pid] || 0;
       const lockStyle = lockW > 0 ? { flex: '0 0 ' + lockW + 'px', minWidth: lockW + 'px', maxWidth: lockW + 'px' } : null;
       return {
         id: key,
         title: tn ? tn.name : '(missing note)',
         label: tn ? tn.name : '(missing)',
-        style: Object.assign({}, tabBaseStyle, side === 'right' ? { cursor: 'pointer' } : null, sideCollapsed ? { padding: '0 5px' } : null, lockStyle, active
+        style: Object.assign({}, tabBaseStyle, sideCollapsed ? { padding: '0 5px' } : null, lockStyle, active
           ? { background: '#2c2115', border: '1px solid #4a3823', color: '#f4cf6a' }
           : { background: isHovered ? 'rgba(216,169,66,0.09)' : 'transparent', color: isHovered ? '#cdbfa6' : '#8c8170' }),
         sepStyle: { position: 'absolute', right: '0px', top: '50%', transform: 'translateY(-50%)', width: '1px', height: '13px', background: '#3a3026', pointerEvents: 'none', display: active ? 'none' : 'block' },
@@ -4179,72 +4181,139 @@ class Component extends DCLogic {
         closeStyle: dotIsClose
           ? { position: 'static', flex: '0 0 auto', margin: '0 auto', width: '18px', height: '18px', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', borderRadius: '5px', border: 'none', background: closeHovered ? '#3a2218' : 'transparent', color: closeHovered ? '#f0b6a3' : (active ? '#ece1cf' : '#cdbfa6'), cursor: 'pointer', fontSize: '11px', lineHeight: 1, opacity: 1, pointerEvents: 'auto' }
           : { position: 'absolute', right: '4px', top: '50%', transform: 'translateY(-50%)', width: '17px', height: '17px', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', borderRadius: '5px', border: 'none', background: closeBg, color: closeHovered ? '#f0b6a3' : (active ? '#9a8f7c' : '#8c8170'), cursor: 'pointer', fontSize: '9px', lineHeight: 1, opacity: showCloseAbs ? 1 : 0, pointerEvents: showCloseAbs ? 'auto' : 'none' },
-        onDown: (e) => { this.setActivePane(side); const h = this.startTabDrag(key, side); if (typeof h === 'function') h(e); },
-        onContext: this.openTabMenu(key, side),
-        onClose: (e) => { if (e && e.stopPropagation) e.stopPropagation(); (side === 'left' ? this.closeTab(key) : this.closeTabR(key)); },
-        onCloseEnter: () => { const k = side + ':' + key; if (this.state.closeHover !== k) this.setState({ closeHover: k }); },
-        onCloseLeave: () => { const k = side + ':' + key; if (this.state.closeHover === k) this.setState({ closeHover: null }); },
-        onHover: (e) => { const k = side + ':' + key; if (this.state.hoverTab !== k) this.setState({ hoverTab: k }); this.startTabMarquee(e && e.currentTarget); },
-        onLeave: (e) => { const k = side + ':' + key; if (this.state.hoverTab === k) this.setState({ hoverTab: null }); this.stopTabMarquee(e && e.currentTarget); },
+        onDown: (e) => { const h = this.startTabDrag(key, pid); if (typeof h === 'function') h(e); },
+        onContext: this.openTabMenu(key, pid),
+        onClose: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.closeTabInPane(pid, key); },
+        onCloseEnter: () => { const k = pid + ':' + key; if (this.state.closeHover !== k) this.setState({ closeHover: k }); },
+        onCloseLeave: () => { const k = pid + ':' + key; if (this.state.closeHover === k) this.setState({ closeHover: null }); },
+        onHover: (e) => { const k = pid + ':' + key; if (this.state.hoverTab !== k) this.setState({ hoverTab: k }); this.startTabMarquee(e && e.currentTarget); },
+        onLeave: (e) => { const k = pid + ':' + key; if (this.state.hoverTab === k) this.setState({ hoverTab: null }); this.stopTabMarquee(e && e.currentTarget); },
       };
     };
-    const tabItems = tabsArr.map((k) => mkTab(k, 'left'));
-    const tabItemsR = tabsRArr.map((k) => mkTab(k, 'right'));
 
     // Tab right-click menu
     const tm = this.state.tabMenu;
     const bm = this.state.barMenu;
     const bg = this.state.bgMenu;
     const barDupCount = (arr) => { const s = new Set(); let d = 0; (arr || []).forEach((k) => { const id = this.nodeOf(k); if (s.has(id)) d++; else s.add(id); }); return d; };
-    const barHasDupes = (barDupCount(this.state.tabs) + barDupCount(this.state.tabsR)) > 0;
+    const barHasDupes = this.paneIdsList().reduce((acc, pid) => acc + barDupCount((this.paneObj(pid) || {}).tabs), 0) > 0;
     const tabMenuShow = !!tm;
     const tabMenuStyle = ctxMenuStyle(tm, 220, 70);
-    // Split orientation derived from splitPos: which side the secondary pane sits on.
-    const sp = ['right','left','up','down'].indexOf(this.state.splitPos) >= 0 ? this.state.splitPos : 'right';
-    const spVert = (sp === 'up' || sp === 'down');
-    const spRev = (sp === 'left' || sp === 'up');
-    const splitFlexDir = spVert ? (spRev ? 'column-reverse' : 'column') : (spRev ? 'row-reverse' : 'row');
-    const splitDisabled = tm ? (((this.state.tabsR || []).length === 0) && ((this.state.tabs || []).length <= 1)) : true;
-    // In a vertical (up/down) split the TOP pane's tabs stay in the shared toolbar
-    // (exactly as if unsplit); only the BOTTOM pane gets its own in-pane tab row.
-    // 'up' is column-reverse → secondary pane on top, primary pane on the bottom;
-    // 'down' → primary on top, secondary on the bottom.
-    const vertSplit = splitOn && spVert;
-    const showToolbarTabs = showTabs;
-    const splitToolbar = splitOn && !spVert;
-    const primaryInPane = vertSplit && spRev;      // up → primary pane is the bottom one
-    const secondaryInPane = vertSplit && !spRev;   // down → secondary pane is the bottom one
-    const tbTabItems = (vertSplit && spRev) ? tabItemsR : tabItems;
-    const tbSide = (vertSplit && spRev) ? 'right' : 'left';
-    const tbAddTab = (vertSplit && spRev) ? (() => this.addRootTab('right')) : (() => this.addRootTab('left'));
+    // Splitting via the tab menu targets the tab's own pane; it needs a spare tab to leave
+    // behind, and the pane count is capped.
+    const splitDisabled = !(tm && this.paneIdsList().length < this.MAX_PANES && ((this.paneObj(tm.side) || { tabs: [] }).tabs || []).length > 1);
 
-    const paneSide = (this.state.activePane === 'right') ? 'right' : 'left';
-    // In a vertical split the bottom pane hosts the tab strip (~39px: 5+28+5 padding + 1px border);
-    // the active-pane glow starts below it so the highlight wraps only the search bar + content.
-    const paneGlow = (on, top) => ({ position: 'absolute', top: (top || 0) + 'px', left: 0, right: 0, bottom: 0, zIndex: 45, pointerEvents: 'none', opacity: on ? 1 : 0, transition: 'opacity .22s', boxShadow: 'inset 0 0 0 1px rgba(216,169,66,0.55), inset 0 0 28px -18px rgba(216,169,66,0.35)' });
+    // ---- Panes: flatten the split layout tree into positioned pane view-models ----
+    const paneLayout = this.computePaneLayout();
+    const paneIdsArr = this.paneIdsList();
+    const primaryId = this.primaryPaneId();
+    const multiPane = paneIdsArr.length > 1;
+    const activePid = this.activePaneEff();
+    const pct = (v) => (v * 100) + '%';
+    const dz = this.state.dropZone;
+    // Active-pane glow starts below the ~39px tab strip so it wraps only the toolbar + content.
+    const paneGlow = (on, top) => ({ position: 'absolute', top: (top || 0) + 'px', left: 0, right: 0, bottom: 0, zIndex: 49, pointerEvents: 'none', opacity: on ? 1 : 0, transition: 'opacity .22s', boxShadow: 'inset 0 0 0 1px rgba(216,169,66,0.55), inset 0 0 28px -18px rgba(216,169,66,0.35)' });
+    const paneVals = paneIdsArr.map((pid) => {
+      const isPrimary = pid === primaryId;
+      const pane = this.paneObj(pid) || { tabs: [], selectedKey: null };
+      const r = paneLayout.rects[pid] || { x: 0, y: 0, w: 1, h: 1 };
+      // Panes on the TOP row host their tab strip in the shared toolbar instead of an in-pane row.
+      const stripInToolbar = r.y < 0.001;
+      const baseNodeId = this.paneNodeId(pid);
+      // The active pane shows the hovered node as a temporary preview instead of its own note
+      // (the primary pane's `sel` already folds the hover in).
+      const hovId = (!this._resizing && !isPrimary && activePid === pid && this.state.hoverId != null && this.nodeById && this.nodeById[this.state.hoverId]) ? this.state.hoverId : null;
+      const node = isPrimary ? sel : (this.nodeById ? this.nodeById[hovId != null ? hovId : baseNodeId] : null);
+      if (node) this.ensureBody(node.id);
+      const content = buildPane(pid, node);
+      const navSt = isPrimary ? this.navState() : this.navStatePane(pid);
+      const pinned = this.pinned && baseNodeId != null && this.pinned.has(baseNodeId);
+      const editing = this.state.sideEditingPane === pid;
+      let dropStyle = null;
+      if (dz && dz.pane === pid) {
+        const dropBase = { position: 'absolute', zIndex: 46, pointerEvents: 'none', background: 'rgba(216,169,66,0.13)', border: '2px solid #d8a942', borderRadius: '4px', boxShadow: 'inset 0 0 40px rgba(216,169,66,0.18)' };
+        if (dz.pos === 'left') dropStyle = Object.assign(dropBase, { left: 0, top: 0, bottom: 0, width: '50%' });
+        else if (dz.pos === 'right') dropStyle = Object.assign(dropBase, { right: 0, top: 0, bottom: 0, width: '50%' });
+        else if (dz.pos === 'up') dropStyle = Object.assign(dropBase, { left: 0, right: 0, top: 0, height: '50%' });
+        else if (dz.pos === 'down') dropStyle = Object.assign(dropBase, { left: 0, right: 0, bottom: 0, height: '50%' });
+        else dropStyle = Object.assign(dropBase, { top: '6px', left: '6px', right: '6px', bottom: '6px' });
+      }
+      return Object.assign({
+        id: pid,
+        style: { position: 'absolute', left: pct(r.x), top: pct(r.y), width: pct(r.w), height: pct(r.h), display: 'flex', flexDirection: 'column', minWidth: 0, minHeight: 0, boxSizing: 'border-box', overflow: 'hidden' },
+        activate: () => this.setActivePane(pid),
+        glowStyle: paneGlow(multiPane && activePid === pid, (!stripInToolbar && pane.tabs.length >= 1) ? 39 : 0),
+        showStrip: !stripInToolbar && pane.tabs.length >= 1,
+        tabItems: pane.tabs.map((k) => mkTab(k, pid)),
+        addTab: () => this.addRootTab(pid),
+        navBack: isPrimary ? this.navBack : () => this.navBackPane(pid),
+        navForward: isPrimary ? this.navForward : () => this.navForwardPane(pid),
+        navBackStyle: Object.assign(this.navBtnStyle(navSt, false, '25px'), { marginLeft: '-6px' }),
+        navFwdStyle: this.navBtnStyle(navSt, true, '25px'),
+        locate: () => this.locateInPane(pid),
+        togglePin: () => this.togglePin(baseNodeId),
+        pinStar: pinned ? '★' : '☆',
+        pinTitle: pinned ? 'Unpin this note' : 'Pin this note',
+        searchValue: editing ? ((this.state.sideQueryByPane || {})[pid] || '') : this._paneUrl(pid),
+        onSearchInput: this.onPaneSearchInput(pid),
+        onSearchFocus: this.onPaneSearchFocus(pid),
+        setSearchEl: this.setPaneSearchEl(pid),
+        searchOpen: searchOpen && (this.state.searchWhich === 'pane:' + pid) && this._paneQ(pid).trim().length >= 2,
+        copyLink: () => this.copyPermalink(baseNodeId),
+        toggleSb: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.setState((s) => ({ sbMenu: s.sbMenu === pid ? null : pid })); },
+        sbOpen: this.state.sbMenu === pid,
+        scrollId: 'kg-pane-scroll-' + pid,
+        onScroll: isPrimary ? this.onSidebarScroll : (() => {}),
+        showGiscus: isPrimary && !!(sel && this.state.selectedId && this.giscusReady()),
+        dropShow: !!dropStyle,
+        dropStyle: dropStyle || { display: 'none' },
+      }, content);
+    });
+    const paneDividers = paneLayout.dividers.map((d) => ({
+      onDown: this.startDividerDrag(d.path, d.dir, d.region),
+      style: d.dir === 'row'
+        ? { position: 'absolute', left: 'calc(' + pct(d.x) + ' - 4px)', top: pct(d.y), height: pct(d.len), width: '9px', cursor: 'ew-resize', zIndex: 48, background: 'linear-gradient(to right, transparent 4px, #2a2218 4px, #2a2218 5px, transparent 5px)' }
+        : { position: 'absolute', top: 'calc(' + pct(d.y) + ' - 4px)', left: pct(d.x), width: pct(d.len), height: '9px', cursor: 'ns-resize', zIndex: 48, background: 'linear-gradient(to bottom, transparent 4px, #2a2218 4px, #2a2218 5px, transparent 5px)' },
+    }));
+    // Tab strips of the top row of panes, rendered inside the shared toolbar. Strip widths are
+    // computed in px from the measured toolbar width so each strip's left border lands exactly
+    // on the divider that splits the content below (the grip button offsets the first strip).
+    const tbW = this.state.sideToolbarW || 0;
+    const topPids = paneIdsArr.filter((pid) => (paneLayout.rects[pid] || { y: 0 }).y < 0.001);
+    let tbAcc = 28;   // width of the drag grip preceding the strips
+    const toolbarStrips = topPids.map((pid, i) => {
+      const r = paneLayout.rects[pid] || { x: 0, w: 1 };
+      const pv = paneVals[paneIdsArr.indexOf(pid)] || {};
+      const last = i === topPids.length - 1;
+      let flex = (Math.max(0.05, r.w) * 100) + ' 1 0%';
+      if (!last && tbW > 0) { const edge = (r.x + r.w) * tbW; const w = Math.max(40, Math.round(edge - tbAcc)); flex = '0 0 ' + w + 'px'; tbAcc = edge; }
+      return {
+        id: pid,
+        tabItems: pv.tabItems || [],
+        addTab: pv.addTab || (() => {}),
+        style: Object.assign({ flex, minWidth: 0, display: 'flex', alignItems: 'center', gap: '5px', overflowX: 'auto', overflowY: 'hidden' }, i > 0 ? { borderLeft: '1px solid #2a2218', paddingLeft: '5px' } : null),
+      };
+    });
     return {
-      tabItemsR, splitOn,
-      setPaneLeft: () => this.setActivePane('left'),
-      setPaneRight: () => this.setActivePane('right'),
-      paneGlowL: paneGlow(splitOn && paneSide === 'left', primaryInPane ? 39 : 0),
-      paneGlowR: paneGlow(splitOn && paneSide === 'right', secondaryInPane ? 39 : 0),
-      rightPaneStyle: { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0, position: 'relative' },
+      paneVals, paneDividers, toolbarStrips,
+      splitAreaStyle: { flex: '1', minHeight: 0, position: 'relative', overflow: 'hidden' },
+      pinStarStyle: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', color: '#d8a942', fontSize: '15px', lineHeight: 1, transition: 'color .15s, transform .15s' },
       tabMenuShow, tabMenuStyle,
-      tabMenuSplitDisabled: tm ? (((this.state.tabsR || []).length === 0) && ((this.state.tabs || []).length <= 1)) : true,
-      tabMenuSplitStyle: menuBtnIf(tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)),
-      tabMenuSplitTriggerStyle: Object.assign(menuBtnIf(tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)), { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }),
+      tabMenuSplitDisabled: splitDisabled,
+      tabMenuSplitStyle: menuBtnIf(!splitDisabled),
+      tabMenuSplitTriggerStyle: Object.assign(menuBtnIf(!splitDisabled), { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }),
       splitSubStyle: Object.assign({ position: 'absolute', top: '-5px', minWidth: '184px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '7px', padding: '5px', boxShadow: '0 14px 30px -14px rgba(0,0,0,0.8)', fontFamily: "'JetBrains Mono', monospace", zIndex: 80 }, (tm && (Math.min(tm.x, winW - 220) + 388 > winW)) ? { right: '100%', marginRight: '0px' } : { left: '100%', marginLeft: '0px' }),
       tabMenuDup: tm ? () => this.duplicateTab(tm.key, tm.side) : () => {},
       tabMenuCloseOthers: tm ? () => this.closeOtherTabs(tm.key, tm.side) : () => {},
-      tabMenuCloseOthersDisabled: tm ? ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) <= 1) : true,
-      tabMenuCloseOthersStyle: menuBtnIf(tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)),
+      tabMenuCloseOthersDisabled: tm ? (((this.paneObj(tm.side) || { tabs: [] }).tabs || []).length <= 1) : true,
+      tabMenuCloseOthersStyle: menuBtnIf(tm && ((this.paneObj(tm.side) || { tabs: [] }).tabs || []).length > 1),
       splitSubOn: () => { clearTimeout(this._splitSubT); if (!this.state.splitSubOpen) this.setState({ splitSubOpen: true }); },
       splitSubOff: () => { clearTimeout(this._splitSubT); this._splitSubT = setTimeout(() => { if (this.state.splitSubOpen) this.setState({ splitSubOpen: false }); }, 260); },
       splitSubShow: !!this.state.splitSubOpen && !splitDisabled,
-      subMoveUp: tm ? () => this.splitMove(tm.key, 'up') : () => {},
-      subMoveDown: tm ? () => this.splitMove(tm.key, 'down') : () => {},
-      subMoveLeft: tm ? () => this.splitMove(tm.key, 'left') : () => {},
-      subMoveRight: tm ? () => this.splitMove(tm.key, 'right') : () => {},
+      subMoveUp: tm ? () => this.splitPane(tm.side, 'up', tm.key) : () => {},
+      subMoveDown: tm ? () => this.splitPane(tm.side, 'down', tm.key) : () => {},
+      subMoveLeft: tm ? () => this.splitPane(tm.side, 'left', tm.key) : () => {},
+      subMoveRight: tm ? () => this.splitPane(tm.side, 'right', tm.key) : () => {},
       openBarMenu: this.openBarMenu,
       barMenuShow: !!bm,
       bgMenuShow: !!bg,
@@ -4254,8 +4323,8 @@ class Component extends DCLogic {
       minimapToggleLabel: this._miniVisible ? '◱ Hide minimap' : '◱ Show minimap',
       barMenuStyle: ctxMenuStyle(bm),
       barUnsplit: () => this.unsplitPanels(),
-      barUnsplitDisabled: !splitOn,
-      barUnsplitStyle: menuBtnIf(splitOn),
+      barUnsplitDisabled: !multiPane,
+      barUnsplitStyle: menuBtnIf(multiPane),
       barCloseDupes: () => this.closeDuplicateTabs(),
       barCloseDupesDisabled: !barHasDupes,
       barCloseDupesStyle: menuBtnIf(barHasDupes),
@@ -4395,24 +4464,14 @@ class Component extends DCLogic {
       resizeHandleStyle, resizeBarStyle,
       onResizeEnter: () => { if (!this.state.resizeHover) this.setState({ resizeHover: true }); },
       onResizeLeave: () => { if (this.state.resizeHover) this.setState({ resizeHover: false }); },
-      scrollMargin: splitOn ? '3px 0 3px 0' : '3px 3px 3px 0',
+      scrollMargin: '3px 0 3px 0',
       startResize: this.startResize,
       onSidebarEnter: this.onSidebarEnter,
       contentMax: this.state.fullPage ? '760px' : '100%',
-      showGiscus: !!(sel && this.state.selectedId && this.giscusReady()),
       toggleFull: this.toggleFull,
       fullIcon: this.state.fullPage ? '\u2212' : '⤢',
       closeSidebar: () => this.clearSelection(),
-      locateInGraph: this.locateInGraph,
-      copyLink: () => this.copyPermalink(this.selectedId),
-      copyLinkR: () => this.copyPermalink(this.state.selectedIdR),
       copyLinkTitle: this.state.linkCopied ? 'Link copied!' : 'Copy link to this note',
-      navBack: this.navBack, navForward: this.navForward,
-      navBackR: this.navBackR, navForwardR: this.navForwardR,
-      navBackStyleR: Object.assign(this.navBtnStyle(this.navStateR(), false, '25px'), { marginLeft: '-6px' }),
-      navFwdStyleR: this.navBtnStyle(this.navStateR(), true, '25px'),
-      navBackStyle: Object.assign(this.navBtnStyle(this.navState(), false, '25px'), { marginLeft: '-6px' }),
-      navFwdStyle: this.navBtnStyle(this.navState(), true, '25px'),
       query: this.state.query,
       searchPlaceholderNative: this._searchScopedRoot() ? '' : 'Search the garden\u2026',
       scopedRootTitle: this._searchScopedRoot() ? this._searchScopedRoot().title : '',
@@ -4430,14 +4489,6 @@ class Component extends DCLogic {
       pinEmpty: !(this.pinned && this.pinned.size),
       pinList,
       pinUnpinStyle: { flex: '0 0 auto', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '24px', height: '24px', marginRight: '5px', border: 'none', borderRadius: '6px', background: 'transparent', color: '#6c6354', cursor: 'pointer', fontSize: '12px', lineHeight: 1, transition: 'color .12s, background .12s' },
-      togglePinCur: () => this.togglePin(this.selectedId),
-      togglePinR: () => this.togglePin(this.state.selectedIdR),
-      pinStarCur: (this.pinned && this.selectedId != null && this.pinned.has(this.selectedId)) ? '★' : '☆',
-      pinTitleCur: (this.pinned && this.selectedId != null && this.pinned.has(this.selectedId)) ? 'Unpin this note' : 'Pin this note',
-      pinStarStyleCur: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', fontSize: '13px', lineHeight: 1, color: '#b78f3a', transition: 'color .15s, transform .15s' },
-      pinStarR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? '★' : '☆',
-      pinTitleR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? 'Unpin this note' : 'Pin this note',
-      pinStarStyleR: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', fontSize: '13px', lineHeight: 1, color: '#b78f3a', transition: 'color .15s, transform .15s' },
       onRecentScroll: (e) => { const el = e.target; if (recentHasMore && el && el.scrollTop + el.clientHeight >= el.scrollHeight - 60) this.setState((s) => ({ recentLimit: (s.recentLimit || 14) + 14 })); },
       onSearchFocus: this.onSearchFocus,
       onSearchBlur: this.onSearchBlur,
@@ -4445,23 +4496,10 @@ class Component extends DCLogic {
       searchResults,
       searchOpen,
       topSearchOpen,
-      sideSearchOpen,
-      sideSearchOpenR,
       sideSearchPlaceholder,
-      sideQuery: this.state.sideQuery || '',
-      sideDisplayValue: this.state.sideEditing ? (this.state.sideQuery || '') : this._sideUrl(),
-      sideDisplayValueR: this.state.sideEditingR ? (this.state.sideQueryR || '') : this._sideUrlR(),
-      onSideSearchInput: this.onSideSearchInput,
-      onSideSearchInputR: this.onSideSearchInputR,
-      setSideSearchEl: this.setSideSearchEl,
-      setSideSearchElR: this.setSideSearchElR,
       setSideToolbarEl: this.setSideToolbarEl,
-      onSideSearchFocus: this.onSideSearchFocus,
-      onSideSearchFocusR: this.onSideSearchFocusR,
       sideSearchH: ((this.state.sideToolbarH || 38)) + 'px',
-      leftBarMR: (splitOn && !spVert) ? '-4px' : '0px',
-      rightBarML: (splitOn && !spVert) ? '-4px' : '0px',
-      sideSearchCloseDisplay: (this.state.searchFocus && (this.state.searchWhich || 'top') === 'side') ? 'flex' : 'none',
+      sideSearchCloseDisplay: 'none',
       menuShow, menuStyle, menuExpandLabel, menuExpandDisabled, menuExpandStyle,
       menuItemBtnStyle: menuBtn,
       sideMenuOpen: !!this.state.sideMenu,
@@ -4482,7 +4520,7 @@ class Component extends DCLogic {
       dockLeftStyle: dockStyleFor('left'),
       dockBottomStyle: dockStyleFor('bottom'),
       dockRightStyle: dockStyleFor('right'),
-      menuCenter: mNode ? () => { this.setState({ menuNodeId: null }); this.selectNode(mNode.id); this.focusNode(mNode, false); } : () => {},
+      menuCenter: mNode ? () => { this.setState({ menuNodeId: null }); if (!this.activeIsPrimary()) { this.navPane(this.activePaneEff(), mNode.id); return; } this.selectNode(mNode.id); this.focusNode(mNode, false); } : () => {},
       menuSoloLabel: (mNode && this._focusGroups && this._focusGroups.size === 1 && this._focusGroups.has(mNode.id)) ? '\u25d0 show all nodes' : '\u25d0 dim all but this branch',
       menuSolo: mNode ? () => { const fg = this._focusGroups; const soloed = fg && fg.size === 1 && fg.has(mNode.id); this._focusGroups = soloed ? null : new Set([mNode.id]); this._legendSolo = null; this.setState({ menuNodeId: null }); this.setState((s) => ({ tick: (s.tick || 0) + 1 })); this._kickGraph(); } : () => {},
       menuExpand: mNode ? () => this.menuToggle(mNode.id) : () => {},
@@ -4502,78 +4540,35 @@ class Component extends DCLogic {
       menuOpenParentStyle: menuBtnIf(mNode && mNode.parent != null && this.nodeById[mNode.parent]),
       menuNodeTitle: mNode ? (mNode.name || mNode.title) : '',
       menuTitleHover: (e) => { const span = e && e.currentTarget; if (span && span.parentElement) this.startTabMarquee(span.parentElement, 0); },
-      showTabs, showToolbarTabs, splitToolbar, vertSplit, primaryInPane, secondaryInPane, tbTabItems, tbSide, tbAddTab, tabItems,
-      leftTabsWrapStyle: (splitOn && !spVert) ? { flex: '0 0 calc(' + Math.round((spRev ? (1 - (this.state.splitRatio || 0.5)) : (this.state.splitRatio || 0.5)) * 100) + '% - ' + (spRev ? 37 : 28) + 'px)', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' },
-      leftPaneStyle: splitOn ? { position: 'relative', flex: '0 0 ' + Math.round((this.state.splitRatio || 0.5) * 100) + '%', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 } : { position: 'relative', flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0 },
-      startSplitResize: this.startSplitResize,
-      splitHoverOn: () => { if (!this.state.splitHover) this.setState({ splitHover: true }); },
-      splitHoverOff: () => { if (this.state.splitHover) this.setState({ splitHover: false }); },
-      splitHighlightStyle: { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
-      splitAreaStyle: { flex: '1', minHeight: 0, display: 'flex', overflow: 'hidden', flexDirection: splitFlexDir },
-      splitHandleStyle: { flex: spVert ? '0 0 0px' : '0 0 9px', cursor: spVert ? 'ns-resize' : 'ew-resize', position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'center', background: '#14100b' },
-      splitBarStyle: spVert ? { position: 'relative', height: '1px', width: '100%', background: '#2a2218' } : { position: 'relative', width: '1px', height: '100%', background: this.state.splitHover ? '#f4cf6a' : '#2a2218', zIndex: 20 },
-      splitHighlightStyleC: spVert ? { position: 'absolute', left: 0, right: 0, top: '50%', transform: 'translateY(-50%)', height: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' } : { position: 'absolute', top: 0, bottom: 0, left: '50%', transform: 'translateX(-50%)', width: '5px', borderRadius: '2px', pointerEvents: 'none', background: this.state.splitHover ? 'rgba(216,169,66,0.20)' : 'transparent' },
-      rightHalfStyle: (splitOn && !spVert) ? { flex: '1 1 0', minWidth: 0, display: 'flex', alignItems: 'center' } : { flex: '0 0 auto', display: 'flex', alignItems: 'center' },
-      rHasSel: rPane.hasSel, rCrumbs: rPane.crumbs || [], rSelName: rPane.selName || '', rDateLine: rPane.dateLine || '',
-      rOutCount: rPane.outCount || 0, rInCount: rPane.inCount || 0, rChildCountLabel: rPane.childCountLabel || '',
-      rHasParent: !!rPane.hasParent, rParentClick: rPane.parentClick || (() => {}),
-      rChildList: rPane.childList || [], rLinkedList: rPane.linkedList || [], rBackList: rPane.backList || [],
-      rMdNode: rPane.mdNode || null, locateInGraphR: rPane.locate || (() => {}),
-      rShowChildPop: this.state.metaPopR === 'children', rShowLinkedPop: this.state.metaPopR === 'linked', rShowBackPop: this.state.metaPopR === 'backlinks',
-      popChildR: () => { clearTimeout(this._popTR); this.setState({ metaPopR: 'children' }); },
-      popLinkedR: () => { clearTimeout(this._popTR); this.setState({ metaPopR: 'linked' }); },
-      popBackR: () => { clearTimeout(this._popTR); this.setState({ metaPopR: 'backlinks' }); },
-      popKeepR: () => { clearTimeout(this._popTR); },
-      popLeaveR: () => { if (this.state.linkMenu) return; clearTimeout(this._popTR); this._popTR = setTimeout(() => this.setState({ metaPopR: null }), 200); },
-      addTabLeft: () => this.addRootTab('left'),
-      addTabRight: () => this.addRootTab('right'),
+      rightHalfStyle: { flex: '0 0 auto', display: 'flex', alignItems: 'center' },
       menuKeep: this.menuKeep,
       menuLeave: this.menuLeave,
-      crumbs,
-      selName: sel ? sel.name : '',
-      outCount, inCount,
-      popStyle, linkedList, backList, childList,
+      popStyle,
       linkPeekShow: !!(this.state.linkPeek && this.nodeById && this.nodeById[this.state.linkPeek.id]),
       linkPeekTitle: (this.state.linkPeek && this.nodeById && this.nodeById[this.state.linkPeek.id]) ? this.nodeById[this.state.linkPeek.id].name : '',
       linkPeekBodyEl: (function(self){ const lp = self.state.linkPeek; const n = lp && self.nodeById ? self.nodeById[lp.id] : null; if (!n) return null; const base = { fontFamily: "'JetBrains Mono', monospace", fontSize: '10.5px', lineHeight: '1.55', color: '#b3a48c' }; if (!n._bodyLoaded) return React.createElement('div', { style: base }, 'loading \u2026'); let md = ''; try { md = self.genMarkdown(n) || ''; } catch (e) { md = ''; } if (!md.trim()) return React.createElement('div', { style: base }, '(no preview)'); if (md.length > 1100) md = md.slice(0, 1100); let html = ''; try { html = self.mdHtml(md); } catch (e) { html = ''; } return React.createElement('div', { className: 'md-body kg-no-math kg-peek-body', style: base, onClick: self.onMdClick, dangerouslySetInnerHTML: { __html: html } }); })(this),
-      linkPeekStyle: this.state.linkPeek ? { position: 'fixed', top: Math.min(this.state.linkPeek.y + 8, winH - 230) + 'px', left: Math.min(this.state.linkPeek.x, winW - 340) + 'px', width: '320px', maxHeight: '230px', overflowY: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '11px 13px', boxShadow: '0 18px 40px -16px rgba(0,0,0,0.85)', zIndex: 80 } : { display: 'none' },
+      linkPeekStyle: (function(self){
+        const lp = self.state.linkPeek;
+        if (!lp) return { display: 'none' };
+        const st = { position: 'fixed', left: Math.min(lp.x, winW - 340) + 'px', width: '320px', maxHeight: '230px', overflowY: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '11px 13px', boxShadow: '0 18px 40px -16px rgba(0,0,0,0.85)', zIndex: 80 };
+        // Keep the popup clear of the wikilink itself (it must stay clickable): open below the
+        // link when there's room, otherwise flip ABOVE it, anchored by its bottom edge.
+        if (lp.y + 8 + 230 > winH) st.bottom = (winH - (lp.t != null ? lp.t : lp.y) + 8) + 'px';
+        else st.top = (lp.y + 8) + 'px';
+        return st;
+      })(this),
       onPeekEnter: this.onPeekEnter,
       onPeekLeave: this.onPeekLeave,
-      showLinkedPop: this.state.metaPop === 'linked',
-      showBackPop: this.state.metaPop === 'backlinks',
-      showChildPop: this.state.metaPop === 'children',
-      popLinked: () => { clearTimeout(this._popT); this.setState({ metaPop: 'linked' }); },
-      popBack: () => { clearTimeout(this._popT); this.setState({ metaPop: 'backlinks' }); },
-      popChild: () => { clearTimeout(this._popT); this.setState({ metaPop: 'children' }); },
-      popKeep: () => { clearTimeout(this._popT); },
-      popLeave: () => { if (this.state.linkMenu) return; clearTimeout(this._popT); this._popT = setTimeout(() => this.setState({ metaPop: null }), 200); },
-      childCountLabel: childN ? ('⊕ ' + childN + ' children') : '· leaf',
-      hasParent: !!parentNode,
-      parentClick: parentNode ? () => { this.hoverId = null; this.navigateTo(parentNode.id); } : () => {},
-      parentContext: parentNode ? this.openLinkMenu(parentNode.id) : () => {},
-      rParentContext: (rNodeEarly && rPane.hasParent && rNodeEarly.parent != null) ? this.openLinkMenu(rNodeEarly.parent, 'right') : () => {},
       linkMenuShow: !!this.state.linkMenu,
       headerMenuShow: !!this.state.headerMenu,
       headerMenuStyle: ctxMenuStyle(this.state.headerMenu, 220),
       copyHeaderLink: this.copyHeaderLink,
       linkMenuStyle: ctxMenuStyle(this.state.linkMenu, 220),
-      linkMenuOpen: this.state.linkMenu ? () => { const lm = this.state.linkMenu; this.setState({ linkMenu: null, metaPop: null, metaPopR: null }); if (lm.side === 'right') this.openInNewTabR(lm.id); else this.openInNewTab(lm.id); } : () => {},
-      parentHover: parentNode ? () => { this.hoverId = parentNode.id; } : () => {},
-      parentLeave: () => { this.hoverId = null; },
-      dateLine: sel ? this.formatDates(sel) : '',
-      mdNode: sel ? (sel._bodyLoaded
-        ? (this.state.rawMd
-          ? React.createElement('pre', { className: 'md-raw', style: { whiteSpace: 'pre-wrap', wordBreak: 'break-word', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', lineHeight: '1.6', color: '#b3a48c', margin: 0 } }, this.genMarkdown(sel))
-          : React.createElement('div', { className: this.mc('math') ? 'md-body' : 'md-body kg-no-math', onClick: this.onMdClick, onContextMenu: this.onMdContext, onMouseOver: this.onMdOver, onMouseOut: this.onMdOut, dangerouslySetInnerHTML: { __html: this.mdHtml(this.genMarkdown(sel)) } }))
-        : React.createElement('div', { className: 'md-body' }, React.createElement('div', { style: { color: '#6c6354', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', letterSpacing: '0.06em', padding: '6px 0', opacity: 0.85 } }, 'loading note \u2026'))) : null,
+      linkMenuOpen: this.state.linkMenu ? () => { const lm = this.state.linkMenu; this.setState({ linkMenu: null, metaPop: null }); this.openInNewTabInPane(this.paneObj(lm.side) ? lm.side : this.primaryPaneId(), lm.id); } : () => {},
       sideRaw: () => { this.setState((s) => ({ sideMenu: false, sbMenu: null, rawMd: !s.rawMd })); },
       sideRawLabel: this.state.rawMd ? '\u25a4 show rendered markdown' : '\u25a4 show raw markdown',
       mdConfigOpen: !!this.state.mdConfigOpen,
       openMdConfig: () => this.setState({ sideMenu: false, sbMenu: null, mdConfigOpen: true }),
-      sbMenuOpenL: this.state.sbMenu === 'left',
-      sbMenuOpenR: this.state.sbMenu === 'right',
-      toggleSbL: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.setState((s) => ({ sbMenu: s.sbMenu === 'left' ? null : 'left' })); },
-      toggleSbR: (e) => { if (e && e.stopPropagation) e.stopPropagation(); this.setState((s) => ({ sbMenu: s.sbMenu === 'right' ? null : 'right' })); },
       closeMdConfig: () => this.setState({ mdConfigOpen: false }),
       stopProp: (e) => e.stopPropagation(),
       paletteOpen: !!this.state.paletteOpen,
