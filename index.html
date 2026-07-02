@@ -1599,12 +1599,6 @@ class Component extends DCLogic {
   // Light / dark theme. The whole app is dark with inline colors, so light mode is a reversible
   // invert + hue-rotate over the app root, with real images counter-inverted so they stay true.
   applyTheme = (t) => { try { document.body.classList.toggle('kg-light', t === 'light'); } catch (e) {} };
-  toggleTheme = () => {
-    const t = (this.state.theme === 'light') ? 'dark' : 'light';
-    this.applyTheme(t);
-    try { localStorage.setItem('kg-theme', t); } catch (e) {}
-    this.setState({ theme: t });
-  };
   _fallbackCopy = (text, done) => {
     try { const ta = document.createElement('textarea'); ta.value = text; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); if (done) done(); } catch (e) {}
   };
@@ -2514,11 +2508,7 @@ class Component extends DCLogic {
       if (srcWrap) srcWrap.style.zIndex = prevSrcWrapZ || '';
       document.body.style.userSelect = '';
     };
-    const up = () => {
-      window.removeEventListener('mousemove', move);
-      window.removeEventListener('mouseup', up);
-      document.removeEventListener('mouseleave', up);
-      window.removeEventListener('blur', up);
+    this._onDrag(move, () => {
       cleanup();
       if (!moved) {
         if (side === 'left') { if (id !== this.state.selectedKey) this.openTab(id); }
@@ -2526,11 +2516,7 @@ class Component extends DCLogic {
         return;
       }
       this.commitTabMove(id, target.side, target.idx);
-    };
-    window.addEventListener('mousemove', move);
-    window.addEventListener('mouseup', up);
-    document.addEventListener('mouseleave', up);   // pointer left the viewport — auto-release
-    window.addEventListener('blur', up);            // released outside the window
+    });
   };
   // Move tab `key` into group `dst` ('left'|'right') at index `idx`, fixing up active tabs.
   commitTabMove = (key, dst, idx) => {
@@ -2681,29 +2667,6 @@ class Component extends DCLogic {
     }
     this.ensureBody(this.nodeOf(key));
   };
-  splitMoveRight = (key) => this.splitMove(key, 'right');
-  // Move a right-section tab back into the left section as its last tab (collapses the split if the
-  // right section empties).
-  moveTabLeft = (key) => {
-    let tabs = (this.state.tabs || []).slice();
-    let tabsR = (this.state.tabsR || []).slice();
-    const ri = tabsR.indexOf(key);
-    if (ri >= 0) tabsR.splice(ri, 1);
-    if (!tabs.includes(key)) tabs.push(key);            // append as the LAST tab of the left section
-    const patch = { tabMenu: null, tabs };
-    if (tabsR.length === 0) {
-      patch.tabsR = []; patch.selectedKeyR = null; patch.selectedIdR = null;
-    } else {
-      patch.tabsR = tabsR;
-      if (this.state.selectedKeyR === key) {
-        const nextKey = tabsR[Math.min(ri, tabsR.length - 1)];
-        patch.selectedKeyR = nextKey; patch.selectedIdR = this.nodeOf(nextKey);
-      }
-    }
-    this.ensureBody(this.nodeOf(key));
-    this.setState(patch);
-    this.openTab(key);                                   // activate it on the left + anchor in graph
-  };
   openTabR = (key) => {
     const id = this.nodeOf(key);
     if (id == null) return;
@@ -2759,31 +2722,6 @@ class Component extends DCLogic {
       this.openTab(key);
     }
   };
-  // Close only the OTHER tabs in this pane that point to the same node as `key` (keep `key`).
-  closeOtherDuplicateTabs = (key, side) => {
-    this.setState({ tabMenu: null });
-    const id = this.nodeOf(key);
-    if (side === 'right') {
-      const tabsR = (this.state.tabsR || []);
-      if (!tabsR.includes(key)) return;
-      const keep = tabsR.filter((k) => k === key || this.nodeOf(k) !== id);
-      if (keep.length === tabsR.length) return;
-      this.lockTabWidths('right');
-      const selKR = keep.indexOf(this.state.selectedKeyR) >= 0 ? this.state.selectedKeyR : key;
-      this.ensureBody(this.nodeOf(selKR));
-      this.setState({ tabsR: keep, selectedKeyR: selKR, selectedIdR: this.nodeOf(selKR) });
-    } else {
-      const tabs = (this.state.tabs || []);
-      if (!tabs.includes(key)) return;
-      const keep = tabs.filter((k) => k === key || this.nodeOf(k) !== id);
-      if (keep.length === tabs.length) return;
-      this.lockTabWidths('left');
-      const selK = keep.indexOf(this.state.selectedKey) >= 0 ? this.state.selectedKey : key;
-      this.setState({ tabs: keep });
-      this.openTab(selK);
-    }
-  };
-
   collapseAll() {
     if (!this.nodeById) return;
     this.actingRoot = this.rootId;
@@ -3474,9 +3412,7 @@ class Component extends DCLogic {
     try { const b = document.querySelector('[data-controlsmenu] button[title="Controls"]'); if (b) { const r = b.getBoundingClientRect(); at = { x: Math.round(r.right - 250), y: Math.round(r.bottom + 8) }; } } catch (e) {}
     return { menuOpen: true, menuAt: at };
   });
-  closeMenu = () => this.setState({ menuOpen: false });
   menuFit = () => { this.fitView(); this.setState({ menuOpen: false }); };
-  menuShowAll = () => { this.expandAll(); this.setState({ menuOpen: false }); };
   menuReset = () => { this.setState({ menuOpen: false, bgMenu: null }); this.resetAll(); };
   // Full reset — wipe the app's own session/local prefs (keeping favorites) and reload to the
   // pristine first-landing state.
@@ -3548,23 +3484,15 @@ class Component extends DCLogic {
     setTimeout(() => this.fitView(), 90);
   };
   menuUnmake = () => { this.setState({ menuNodeId: null }); this.collapseAll(); };
+  // Close any open popup/menu when the pointer goes down outside its own container.
+  DISMISSABLE = [['sideMenu', '[data-sidemenu]', false], ['sbMenu', '[data-sbmenu]', null], ['recentOpen', '[data-recent]', false], ['pinOpen', '[data-pins]', false], ['menuOpen', '[data-controlsmenu]', false], ['tabMenu', '[data-tabmenu]', null], ['barMenu', '[data-barmenu]', null], ['bgMenu', '[data-bgmenu]', null], ['miniMenu', '[data-minimenu]', null], ['legendMenu', '[data-legendmenu]', null], ['linkMenu', '[data-linkmenu]', null], ['headerMenu', '[data-headermenu]', null]];
   onDocDown = (e) => {
     const el = e.target;
-    if (this.state.sideMenu && !(el && el.closest && el.closest('[data-sidemenu]'))) this.setState({ sideMenu: false });
-    if (this.state.sbMenu && !(el && el.closest && el.closest('[data-sbmenu]'))) this.setState({ sbMenu: null });
-    if (this.state.recentOpen && !(el && el.closest && el.closest('[data-recent]'))) this.setState({ recentOpen: false });
-    if (this.state.pinOpen && !(el && el.closest && el.closest('[data-pins]'))) this.setState({ pinOpen: false });
-    if (this.state.menuOpen && !(el && el.closest && el.closest('[data-controlsmenu]'))) this.setState({ menuOpen: false });
-    if (this.state.tabMenu && !(el && el.closest && el.closest('[data-tabmenu]'))) this.setState({ tabMenu: null });
-    if (this.state.barMenu && !(el && el.closest && el.closest('[data-barmenu]'))) this.setState({ barMenu: null });
-    if (this.state.bgMenu && !(el && el.closest && el.closest('[data-bgmenu]'))) this.setState({ bgMenu: null });
-    if (this.state.miniMenu && !(el && el.closest && el.closest('[data-minimenu]'))) this.setState({ miniMenu: null });
-    if (this.state.legendMenu && !(el && el.closest && el.closest('[data-legendmenu]'))) this.setState({ legendMenu: null });
-    if (this.state.linkMenu && !(el && el.closest && el.closest('[data-linkmenu]'))) this.setState({ linkMenu: null });
-    if (this.state.headerMenu && !(el && el.closest && el.closest('[data-headermenu]'))) this.setState({ headerMenu: null });
+    const outside = (sel) => !(el && el.closest && el.closest(sel));
+    this.DISMISSABLE.forEach(([key, sel, off]) => { if (this.state[key] && outside(sel)) this.setState({ [key]: off }); });
     // Click anywhere outside the open node context menu closes it (right-click that opens a
     // new menu re-sets menuNodeId immediately afterwards, so this doesn't fight it).
-    if (this.state.menuNodeId != null && !(el && el.closest && el.closest('[data-nodemenu]'))) { clearTimeout(this._menuHideT); this.setState({ menuNodeId: null }); }
+    if (this.state.menuNodeId != null && outside('[data-nodemenu]')) { clearTimeout(this._menuHideT); this.setState({ menuNodeId: null }); }
   };
   onContextMenu = (e) => {
     if (!this.graph) return;
@@ -3619,8 +3547,6 @@ class Component extends DCLogic {
   toggleNodeDegree = () => { const next = !(this.state.nodeSizeByDegree !== false); this.setState({ nodeSizeByDegree: next }); try { sessionStorage.setItem('kg-node-degree', next ? '1' : '0'); } catch (_) {} this._kickGraph(); };
   setEdgeWidth = (e) => { const v = parseFloat(e.target.value); this.setState({ edgeWidthMul: v }); try { sessionStorage.setItem('kg-edge-width', v); } catch (_) {} this._kickGraph(); };
   setNodeColor = (c) => () => { this.setState({ nodeColorMode: c }); try { sessionStorage.setItem('kg-node-color', c); } catch (_) {} this._kickGraph(); };
-  setTreeColor = (c) => () => { this.setState({ treeEdgeColor: c }); try { sessionStorage.setItem('kg-tree-color', c); } catch (_) {} this._kickGraph(); };
-  setWikiColor = (c) => () => { this.setState({ wikiEdgeColor: c }); try { sessionStorage.setItem('kg-wiki-color', c); } catch (_) {} this._kickGraph(); };
   expandAll = () => {
     if (!this.nodeById) return;
     this.collapsed = new Set();
@@ -3636,6 +3562,21 @@ class Component extends DCLogic {
       this.setState({ hoverId: null });
     }
   };
+  // Shared drag plumbing: track mousemove until release; `end` also runs when the pointer
+  // leaves the viewport or the window loses focus (auto-release).
+  _onDrag(move, end) {
+    const up = () => {
+      window.removeEventListener('mousemove', move);
+      window.removeEventListener('mouseup', up);
+      document.removeEventListener('mouseleave', up);
+      window.removeEventListener('blur', up);
+      end();
+    };
+    window.addEventListener('mousemove', move);
+    window.addEventListener('mouseup', up);
+    document.addEventListener('mouseleave', up);
+    window.addEventListener('blur', up);
+  }
   // Drag the divider between the two split panes to change their width ratio.
   startSplitResize = (e) => {
     e.preventDefault(); e.stopPropagation();
@@ -3653,8 +3594,7 @@ class Component extends DCLogic {
       r = Math.max(0.2, Math.min(0.8, r));
       this.setState({ splitRatio: r });
     };
-    const up = () => { document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-split-ratio', String(this.state.splitRatio)); } catch (e2) {} window.removeEventListener('mousemove', move); window.removeEventListener('mouseup', up); document.removeEventListener('mouseleave', up); window.removeEventListener('blur', up); };
-    window.addEventListener('mousemove', move); window.addEventListener('mouseup', up); document.addEventListener('mouseleave', up); window.addEventListener('blur', up);
+    this._onDrag(move, () => { document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-split-ratio', String(this.state.splitRatio)); } catch (e2) {} });
   };
   startUndockDrag = (e) => {
     if (e.button !== 0) return;                                                        // ignore right/middle click (right-click opens the toolbar menu)
@@ -3709,7 +3649,7 @@ class Component extends DCLogic {
       }
       this.setState(Object.assign(place(x, y), { dockPreview: previewFor(x, y) }));
     };
-    const up = () => {
+    this._onDrag(move, () => {
       this._dragging = false;
       document.body.style.userSelect = '';
       document.body.style.cursor = '';
@@ -3720,15 +3660,7 @@ class Component extends DCLogic {
       this.setState({ dockPreview: null });
       if (preview === 'full') this.setState({ fullPage: true });
       else if (preview) this.setDock(preview);
-      window.removeEventListener('mousemove', move);
-      window.removeEventListener('mouseup', up);
-      document.removeEventListener('mouseleave', up);
-      window.removeEventListener('blur', up);
-    };
-    window.addEventListener('mousemove', move);
-    window.addEventListener('mouseup', up);
-    document.addEventListener('mouseleave', up);   // pointer left the viewport — auto-release
-    window.addEventListener('blur', up);            // released outside the window / tab lost focus
+    });
   };
   startUndockResize = (dir) => (e) => {
     e.preventDefault(); e.stopPropagation();
@@ -3752,8 +3684,7 @@ class Component extends DCLogic {
       nh = Math.min(nh, window.innerHeight - nt - 4);
       this.setState({ undockLeft: Math.round(nl), undockTop: Math.round(nt), sidebarW: Math.round(nw), sidebarH: Math.round(nh) });
     };
-    const up = () => { this._uResizing = false; document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-sidebar-w', String(Math.round(this.state.sidebarW))); sessionStorage.setItem('kg-sidebar-h', String(Math.round(this.state.sidebarH))); } catch (e2) {} window.removeEventListener('mousemove', move); window.removeEventListener('mouseup', up); document.removeEventListener('mouseleave', up); window.removeEventListener('blur', up); };
-    window.addEventListener('mousemove', move); window.addEventListener('mouseup', up); document.addEventListener('mouseleave', up); window.addEventListener('blur', up);
+    this._onDrag(move, () => { this._uResizing = false; document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-sidebar-w', String(Math.round(this.state.sidebarW))); sessionStorage.setItem('kg-sidebar-h', String(Math.round(this.state.sidebarH))); } catch (e2) {} });
   };
   startResize = (e) => {
     e.preventDefault();
@@ -3780,11 +3711,7 @@ class Component extends DCLogic {
         this.setState({ sidebarW: w });
       }
     };
-    const up = () => { this._resizing = false; document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-sidebar-w', String(Math.round(this.state.sidebarW))); sessionStorage.setItem('kg-sidebar-h', String(Math.round(this.state.sidebarH))); const dk = this.state.dock; if (dk === 'left' || dk === 'right') sessionStorage.setItem('kg-sidebar-w-' + dk, String(Math.round(this.state.sidebarW))); if (dk === 'bottom') sessionStorage.setItem('kg-sidebar-h-bottom', String(Math.round(this.state.sidebarH))); } catch (e) {} window.removeEventListener('mousemove', move); window.removeEventListener('mouseup', up); document.removeEventListener('mouseleave', up); window.removeEventListener('blur', up); };
-    window.addEventListener('mousemove', move);
-    window.addEventListener('mouseup', up);
-    document.addEventListener('mouseleave', up);
-    window.addEventListener('blur', up);
+    this._onDrag(move, () => { this._resizing = false; document.body.style.userSelect = ''; try { sessionStorage.setItem('kg-sidebar-w', String(Math.round(this.state.sidebarW))); sessionStorage.setItem('kg-sidebar-h', String(Math.round(this.state.sidebarH))); const dk = this.state.dock; if (dk === 'left' || dk === 'right') sessionStorage.setItem('kg-sidebar-w-' + dk, String(Math.round(this.state.sidebarW))); if (dk === 'bottom') sessionStorage.setItem('kg-sidebar-h-bottom', String(Math.round(this.state.sidebarH))); } catch (e) {} });
   };
   sideW(d) {
     try { const v = parseInt(sessionStorage.getItem('kg-sidebar-w-' + d), 10); if (v && v > 0) return v; } catch (e) {}
@@ -3871,64 +3798,53 @@ class Component extends DCLogic {
     else if (e.key === 'Enter') { const n = res[this.state.searchIdx || 0] || res[0]; if (n) { ((this.state.searchWhich === 'sideR') ? this.onSearchPickR : this.onSearchPick)(n.id); } }
     else if (e.key === 'Escape') { this.setState({ query: '', sideQuery: '', sideQueryR: '', sideEditing: false, sideEditingR: false, searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); if (this.sideSearchEl) this.sideSearchEl.blur(); if (this.sideSearchElR) this.sideSearchElR.blur(); }
   };
-  onRecentKey = (e) => {
-    if (!this.state.recentOpen) return;
-    const list = this._recentList || [];
+  // Shared arrow-key navigation for the pinned/recent dropdowns: move the active row,
+  // scroll it into view, mirror the highlight into the graph; Enter opens, Escape closes.
+  _dropKeyNav(e, openKey, listProp, idxKey, scrollFn) {
+    if (!this.state[openKey]) return;
+    const list = this[listProp] || [];
     if (e.key === 'ArrowDown' || e.key === 'ArrowUp') this._guardHover();
-    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.min((s.recentIdx || 0) + 1, list.length - 1) }), () => { this.scrollRecentActive(); this.hoverFromList(this._recentList, this.state.recentIdx); }); }
-    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ recentIdx: Math.max((s.recentIdx || 0) - 1, 0) }), () => { this.scrollRecentActive(); this.hoverFromList(this._recentList, this.state.recentIdx); }); }
-    else if (e.key === 'Enter') { e.preventDefault(); const it = list[this.state.recentIdx || 0]; if (it) it.onClick(); }
-    else if (e.key === 'Escape') { this.setState({ recentOpen: false }); this.hoverId = null; }
-  };
-  scrollRecentActive = () => {
-    const c = document.getElementById('kg-recent-list'); if (!c) return;
-    const btn = c.querySelectorAll('button')[this.state.recentIdx || 0]; if (!btn) return;
+    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ [idxKey]: Math.min((s[idxKey] || 0) + 1, list.length - 1) }), () => { scrollFn(); this.hoverFromList(this[listProp], this.state[idxKey]); }); }
+    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ [idxKey]: Math.max((s[idxKey] || 0) - 1, 0) }), () => { scrollFn(); this.hoverFromList(this[listProp], this.state[idxKey]); }); }
+    else if (e.key === 'Enter') { e.preventDefault(); const it = list[this.state[idxKey] || 0]; if (it) it.onClick(); }
+    else if (e.key === 'Escape') { this.setState({ [openKey]: false }); this.hoverId = null; }
+  }
+  onRecentKey = (e) => this._dropKeyNav(e, 'recentOpen', '_recentList', 'recentIdx', this.scrollRecentActive);
+  // Keep the active row of a dropdown list scrolled into view.
+  _scrollRowActive(containerId, itemSel, idx) {
+    const c = document.getElementById(containerId); if (!c) return;
+    const btn = c.querySelectorAll(itemSel)[idx || 0]; if (!btn) return;
     const top = btn.offsetTop, bot = top + btn.offsetHeight;
     if (top < c.scrollTop) c.scrollTop = top;
     else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
-  };
-  onPinKey = (e) => {
-    if (!this.state.pinOpen) return;
-    const list = this._pinList || [];
-    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') this._guardHover();
-    if (e.key === 'ArrowDown') { e.preventDefault(); if (list.length) this.setState((s) => ({ pinIdx: Math.min((s.pinIdx || 0) + 1, list.length - 1) }), () => { this.scrollPinActive(); this.hoverFromList(this._pinList, this.state.pinIdx); }); }
-    else if (e.key === 'ArrowUp') { e.preventDefault(); if (list.length) this.setState((s) => ({ pinIdx: Math.max((s.pinIdx || 0) - 1, 0) }), () => { this.scrollPinActive(); this.hoverFromList(this._pinList, this.state.pinIdx); }); }
-    else if (e.key === 'Enter') { e.preventDefault(); const it = list[this.state.pinIdx || 0]; if (it) it.onClick(); }
-    else if (e.key === 'Escape') { this.setState({ pinOpen: false }); this.hoverId = null; }
-  };
-  scrollPinActive = () => {
-    const c = document.getElementById('kg-pin-list'); if (!c) return;    const btn = c.querySelectorAll('[data-pin-item]')[this.state.pinIdx || 0]; if (!btn) return;
+  }
+  scrollRecentActive = () => this._scrollRowActive('kg-recent-list', 'button', this.state.recentIdx);
+  onPinKey = (e) => this._dropKeyNav(e, 'pinOpen', '_pinList', 'pinIdx', this.scrollPinActive);
+  scrollPinActive = () => this._scrollRowActive('kg-pin-list', '[data-pin-item]', this.state.pinIdx);
+  // Shared edge-sticky scrolling for keyboard-navigated result lists: moving down only scrolls
+  // once the active row hits the bottom edge; moving up only once it hits the top edge.
+  _scrollEdgeActive(c, btn, idx, prevProp) {
+    if (!c) return;
+    if (!btn) { this[prevProp] = idx; return; }
     const top = btn.offsetTop, bot = top + btn.offsetHeight;
-    if (top < c.scrollTop) c.scrollTop = top;
-    else if (bot > c.scrollTop + c.clientHeight) c.scrollTop = bot - c.clientHeight;
-  };
-  scrollPaletteActive = () => {
-    const c = document.getElementById('kg-palette-list'); if (!c) return;
-    const idx = this.state.paletteIdx || 0;
-    const btn = c.querySelectorAll('[data-pal-item]')[idx]; if (!btn) { this._palPrevIdx = idx; return; }
-    const top = btn.offsetTop, h = btn.offsetHeight, bot = top + h;
-    const prev = (this._palPrevIdx == null) ? idx : this._palPrevIdx;
-    this._palPrevIdx = idx;
+    const prev = (this[prevProp] == null) ? idx : this[prevProp];
+    this[prevProp] = idx;
     const max = c.scrollHeight - c.clientHeight;
     let st = c.scrollTop;
-    if (idx > prev) { if (bot > st + c.clientHeight) st = bot - c.clientHeight; }   // moving down → only scroll once the active reaches the bottom edge
-    else if (idx < prev) { if (top < st) st = top; }                                // moving up → only scroll once the active reaches the top edge
+    if (idx > prev) { if (bot > st + c.clientHeight) st = bot - c.clientHeight; }
+    else if (idx < prev) { if (top < st) st = top; }
     else { if (bot > st + c.clientHeight) st = bot - c.clientHeight; else if (top < st) st = top; }
     c.scrollTop = Math.max(0, Math.min(st, max));
+  }
+  scrollPaletteActive = () => {
+    const c = document.getElementById('kg-palette-list');
+    const idx = this.state.paletteIdx || 0;
+    this._scrollEdgeActive(c, c && c.querySelectorAll('[data-pal-item]')[idx], idx, '_palPrevIdx');
   };
   scrollSearchActive = () => {
-    const c = document.getElementById('kg-search-results'); if (!c) return;
+    const c = document.getElementById('kg-search-results');
     const idx = this.state.searchIdx || 0;
-    const btn = c.children[idx]; if (!btn) { this._searchPrevIdx = idx; return; }
-    const top = btn.offsetTop, bot = top + btn.offsetHeight;
-    const prev = (this._searchPrevIdx == null) ? idx : this._searchPrevIdx;
-    this._searchPrevIdx = idx;
-    const max = c.scrollHeight - c.clientHeight;
-    let st = c.scrollTop;
-    if (idx > prev) { if (bot > st + c.clientHeight) st = bot - c.clientHeight; }   // down → scroll only at bottom edge
-    else if (idx < prev) { if (top < st) st = top; }                                // up → scroll only at top edge, item rides the top
-    else { if (bot > st + c.clientHeight) st = bot - c.clientHeight; else if (top < st) st = top; }
-    c.scrollTop = Math.max(0, Math.min(st, max));
+    this._scrollEdgeActive(c, c && c.children[idx], idx, '_searchPrevIdx');
   };
   // Highlight the graph node for the dropdown row at `idx`, exactly like hovering it with the mouse.
   hoverFromList = (list, idx) => {
@@ -3993,23 +3909,24 @@ class Component extends DCLogic {
 
     const ghostBtnStyle = { fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.12em', textTransform: 'uppercase', padding: '9px 13px', borderRadius: '7px', border: '1px solid #29221a', background: '#14100b', color: '#8c8170', cursor: 'pointer', transition: 'all .2s', whiteSpace: 'nowrap' };
 
-    let crumbs = [];
-    if (sel) {
-      const chain = []; let c = sel;
+    // Breadcrumb trail (acting root → node) for either pane. `nav` repoints that pane; when
+    // `hover` is on, mousing over a crumb also highlights its node in the graph (left pane).
+    const mkCrumbs = (node, nav, side, hover) => {
+      const chain = []; let c = node;
       while (c) { chain.unshift(c); if (c.id === this.actingRoot) break; c = c.parent ? this.nodeById[c.parent] : null; }
-      const tail = chain;
-      crumbs = tail.map((nn, i) => ({
+      return chain.map((nn, i) => ({
         name: nn.name,
-        onClick: () => this.navigateTo(nn.id),
-        onContext: this.openLinkMenu(nn.id),
-        onHover: () => { this.hoverId = nn.id; },
-        onLeave: () => { this.hoverId = null; },
-        sep: i < tail.length - 1 ? ' / ' : '',
+        onClick: () => nav(nn.id),
+        onContext: this.openLinkMenu(nn.id, side),
+        onHover: hover ? () => { this.hoverId = nn.id; } : () => {},
+        onLeave: hover ? () => { this.hoverId = null; } : () => {},
+        sep: i < chain.length - 1 ? ' / ' : '',
         lead: i > 0 ? ' /\u00a0' : '', leadStyle: { color: '#433c30', fontSize: '11px', letterSpacing: '0.05em', whiteSpace: 'pre-wrap' },
         sepStyle: { color: '#433c30', fontSize: '11px', whiteSpace: 'pre' },
-        style: { display: 'inline', background: 'transparent', border: 'none', cursor: 'pointer', padding: 0, fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.05em', color: i === tail.length - 1 ? '#7a7060' : '#d8a942', transition: 'color .2s', whiteSpace: 'normal', textAlign: 'left', wordBreak: 'break-word' },
+        style: { display: 'inline', background: 'transparent', border: 'none', cursor: 'pointer', padding: 0, fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.05em', color: i === chain.length - 1 ? '#7a7060' : '#d8a942', transition: 'color .2s', whiteSpace: 'normal', textAlign: 'left', wordBreak: 'break-word' },
       }));
-    }
+    };
+    const crumbs = sel ? mkCrumbs(sel, (id) => this.navigateTo(id), undefined, true) : [];
 
     const outCount = sel ? new Set((sel.links || []).filter((id) => this.nodeById[id])).size : 0;
     const parentNode = (sel && sel.parent != null && sel.id !== this.actingRoot) ? this.nodeById[sel.parent] : null;
@@ -4045,13 +3962,7 @@ class Component extends DCLogic {
     const mkPopList2 = (ids, nav) => makePopList(ids, { popKey: 'metaPopR', nav: nav, side: 'right', hover: false });
     const buildPane = (node, nav) => {
       if (!node) return { hasSel: false };
-      const chain = []; let c = node;
-      while (c) { chain.unshift(c); if (c.id === this.actingRoot) break; c = c.parent ? this.nodeById[c.parent] : null; }
-      const crumbsR = chain.map((nn, i) => ({
-        name: nn.name, onClick: () => nav(nn.id), onContext: this.openLinkMenu(nn.id, 'right'), onHover: () => {}, onLeave: () => {},
-        sep: i < chain.length - 1 ? ' / ' : '', lead: i > 0 ? ' /\u00a0' : '', leadStyle: { color: '#433c30', fontSize: '11px', letterSpacing: '0.05em', whiteSpace: 'pre-wrap' }, sepStyle: { color: '#433c30', fontSize: '11px', whiteSpace: 'pre' },
-        style: { display: 'inline', background: 'transparent', border: 'none', cursor: 'pointer', padding: 0, fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.05em', color: i === chain.length - 1 ? '#7a7060' : '#d8a942', transition: 'color .2s', whiteSpace: 'normal', textAlign: 'left', wordBreak: 'break-word' },
-      }));
+      const crumbsR = mkCrumbs(node, nav, 'right', false);
       const pNode = (node.parent != null && node.id !== this.actingRoot) ? this.nodeById[node.parent] : null;
       const cN = new Set((node.children || []).map((c2) => c2.id)).size;
       const body = node._bodyLoaded
@@ -4125,6 +4036,10 @@ class Component extends DCLogic {
     const recentHasMore = recentAll.length > recentLimit;
     const mNode = this.state.menuNodeId && this.nodeById ? this.nodeById[this.state.menuNodeId] : null;
     const menuBtn = { display: 'block', width: '100%', textAlign: 'left', whiteSpace: 'nowrap', background: 'transparent', border: 'none', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '10px', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#c9bca6', padding: '6px 9px', borderRadius: '5px', transition: 'all .12s ease' };
+    // Menu-item style, greyed out when the item is disabled.
+    const menuBtnIf = (enabled) => Object.assign({}, menuBtn, enabled ? null : { color: '#4a4337', cursor: 'default' });
+    // Fixed-position context-menu style, clamped on-screen (w/h ≈ the menu's footprint); hidden when closed.
+    const ctxMenuStyle = (at, w, h) => at ? { position: 'fixed', top: Math.min(at.y, winH - (h || 60)) + 'px', left: Math.min(at.x, winW - (w || 210)) + 'px', zIndex: 70 } : { display: 'none' };
     const pItemsRaw = this.state.paletteOpen ? this.paletteList() : [];
     const pIdx = Math.min(this.state.paletteIdx || 0, Math.max(0, pItemsRaw.length - 1));
     let menuShow = false, menuStyle = {}, menuExpandLabel = '', menuExpandDisabled = true, menuExpandStyle = menuBtn;
@@ -4132,7 +4047,7 @@ class Component extends DCLogic {
       const hasCh = mNode.children && mNode.children.length;
       menuExpandDisabled = !hasCh;
       menuExpandLabel = !hasCh ? '\u2298 no children' : (!this.collapsed.has(mNode.id) ? '\u2296 collapse children' : ('\u2295 expand ' + mNode.children.length + ' children'));
-      menuExpandStyle = Object.assign({}, menuBtn, hasCh ? null : { color: '#4a4337', cursor: 'default' });
+      menuExpandStyle = menuBtnIf(hasCh);
       const MW = 252, MH = 256;   // approx node-menu footprint, used to keep it fully on-screen
       if (this.state.menuNodeAt) {
         // Opened from the legend (or another off-graph affordance): anchor at the cursor.
@@ -4153,7 +4068,6 @@ class Component extends DCLogic {
         }
       }
     }
-    const sideRootIsActing = !!(sel && sel.id === this.actingRoot && sel.id !== this.rootId);
 
     // ---- Dock state + sidebar geometry (right / left / bottom / undock) ----
     const dock = this.state.dock || 'right';
@@ -4277,22 +4191,14 @@ class Component extends DCLogic {
     const tabItems = tabsArr.map((k) => mkTab(k, 'left'));
     const tabItemsR = tabsRArr.map((k) => mkTab(k, 'right'));
 
-    // Right split pane content (a focused reading view of its active tab).
-    const rNode = (splitOn && rShowId && this.nodeById) ? this.nodeById[rShowId] : null;
-    if (rNode) this.ensureBody(rNode.id);
-    const rightBody = rNode ? (rNode._bodyLoaded
-      ? React.createElement('div', { className: this.mc('math') ? 'md-body' : 'md-body kg-no-math', dangerouslySetInnerHTML: { __html: this.mdHtml(this.genMarkdown(rNode)) } })
-      : React.createElement('div', { className: 'md-body' }, React.createElement('div', { style: { color: '#6c6354', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', letterSpacing: '0.06em', padding: '6px 0', opacity: 0.85 } }, 'loading note \u2026'))) : null;
-
     // Tab right-click menu
     const tm = this.state.tabMenu;
     const bm = this.state.barMenu;
     const bg = this.state.bgMenu;
-    const tmHasDupes = tm ? (function (self) { const arr = tm.side === 'right' ? (self.state.tabsR || []) : (self.state.tabs || []); const id = self.nodeOf(tm.key); return arr.filter((k) => self.nodeOf(k) === id).length > 1; })(this) : false;
     const barDupCount = (arr) => { const s = new Set(); let d = 0; (arr || []).forEach((k) => { const id = this.nodeOf(k); if (s.has(id)) d++; else s.add(id); }); return d; };
     const barHasDupes = (barDupCount(this.state.tabs) + barDupCount(this.state.tabsR)) > 0;
     const tabMenuShow = !!tm;
-    const tabMenuStyle = tm ? { position: 'fixed', top: Math.min(tm.y, winH - 70) + 'px', left: Math.min(tm.x, winW - 220) + 'px', zIndex: 70 } : { display: 'none' };
+    const tabMenuStyle = ctxMenuStyle(tm, 220, 70);
     // Split orientation derived from splitPos: which side the secondary pane sits on.
     const sp = ['right','left','up','down'].indexOf(this.state.splitPos) >= 0 ? this.state.splitPos : 'right';
     const spVert = (sp === 'up' || sp === 'down');
@@ -4317,28 +4223,21 @@ class Component extends DCLogic {
     // the active-pane glow starts below it so the highlight wraps only the search bar + content.
     const paneGlow = (on, top) => ({ position: 'absolute', top: (top || 0) + 'px', left: 0, right: 0, bottom: 0, zIndex: 45, pointerEvents: 'none', opacity: on ? 1 : 0, transition: 'opacity .22s', boxShadow: 'inset 0 0 0 1px rgba(216,169,66,0.55), inset 0 0 28px -18px rgba(216,169,66,0.35)' });
     return {
-      tabItemsR, splitOn, rightBody,
+      tabItemsR, splitOn,
       setPaneLeft: () => this.setActivePane('left'),
       setPaneRight: () => this.setActivePane('right'),
       paneGlowL: paneGlow(splitOn && paneSide === 'left', primaryInPane ? 39 : 0),
       paneGlowR: paneGlow(splitOn && paneSide === 'right', secondaryInPane ? 39 : 0),
       rightPaneStyle: { flex: '1 1 0', minWidth: 0, display: 'flex', flexDirection: 'column', minHeight: 0, position: 'relative' },
-      rightName: rNode ? rNode.name : '',
-      rightDate: rNode ? this.formatDates(rNode) : '',
       tabMenuShow, tabMenuStyle,
-      tabMenuSplit: tm ? (((this.state.tabsR || []).length > 0 && tm.side === 'right') ? () => this.moveTabLeft(tm.key) : () => this.splitMoveRight(tm.key)) : () => {},
-      tabMenuSplitLabel: !tm ? '' : (((this.state.tabsR || []).length > 0) ? (tm.side === 'right' ? '\u2190 move left' : '\u2192 move right') : '\u25EB split and move right'),
       tabMenuSplitDisabled: tm ? (((this.state.tabsR || []).length === 0) && ((this.state.tabs || []).length <= 1)) : true,
-      tabMenuSplitStyle: Object.assign({}, menuBtn, (tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
-      tabMenuSplitTriggerStyle: Object.assign({}, menuBtn, { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }, (tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
+      tabMenuSplitStyle: menuBtnIf(tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)),
+      tabMenuSplitTriggerStyle: Object.assign(menuBtnIf(tm && ((this.state.tabsR || []).length > 0 || (this.state.tabs || []).length > 1)), { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px' }),
       splitSubStyle: Object.assign({ position: 'absolute', top: '-5px', minWidth: '184px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '7px', padding: '5px', boxShadow: '0 14px 30px -14px rgba(0,0,0,0.8)', fontFamily: "'JetBrains Mono', monospace", zIndex: 80 }, (tm && (Math.min(tm.x, winW - 220) + 388 > winW)) ? { right: '100%', marginRight: '0px' } : { left: '100%', marginLeft: '0px' }),
       tabMenuDup: tm ? () => this.duplicateTab(tm.key, tm.side) : () => {},
-      tabMenuCloseDupes: tm ? () => this.closeOtherDuplicateTabs(tm.key, tm.side) : () => {},
-      tabMenuCloseDupesDisabled: !tmHasDupes,
-      tabMenuCloseDupesStyle: Object.assign({}, menuBtn, tmHasDupes ? null : { color: '#4a4337', cursor: 'default' }),
       tabMenuCloseOthers: tm ? () => this.closeOtherTabs(tm.key, tm.side) : () => {},
       tabMenuCloseOthersDisabled: tm ? ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) <= 1) : true,
-      tabMenuCloseOthersStyle: Object.assign({}, menuBtn, (tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)) ? null : { color: '#4a4337', cursor: 'default' }),
+      tabMenuCloseOthersStyle: menuBtnIf(tm && ((tm.side === 'right' ? (this.state.tabsR || []).length : (this.state.tabs || []).length) > 1)),
       splitSubOn: () => { clearTimeout(this._splitSubT); if (!this.state.splitSubOpen) this.setState({ splitSubOpen: true }); },
       splitSubOff: () => { clearTimeout(this._splitSubT); this._splitSubT = setTimeout(() => { if (this.state.splitSubOpen) this.setState({ splitSubOpen: false }); }, 260); },
       splitSubShow: !!this.state.splitSubOpen && !splitDisabled,
@@ -4349,49 +4248,38 @@ class Component extends DCLogic {
       openBarMenu: this.openBarMenu,
       barMenuShow: !!bm,
       bgMenuShow: !!bg,
-      bgMenuStyle: bg ? { position: 'fixed', top: Math.min(bg.y, winH - 60) + 'px', left: Math.min(bg.x, winW - 210) + 'px', zIndex: 70 } : { display: 'none' },
+      bgMenuStyle: ctxMenuStyle(bg),
       toggleMinimap: this.toggleMinimap,
       menuToggleMinimap: () => { this.setState({ menuOpen: false }); this.toggleMinimap(); },
       minimapToggleLabel: this._miniVisible ? '◱ Hide minimap' : '◱ Show minimap',
-      barMenuStyle: bm ? { position: 'fixed', top: Math.min(bm.y, winH - 60) + 'px', left: Math.min(bm.x, winW - 210) + 'px', zIndex: 70 } : { display: 'none' },
+      barMenuStyle: ctxMenuStyle(bm),
       barUnsplit: () => this.unsplitPanels(),
       barUnsplitDisabled: !splitOn,
-      barUnsplitStyle: Object.assign({}, menuBtn, splitOn ? null : { color: '#4a4337', cursor: 'default' }),
+      barUnsplitStyle: menuBtnIf(splitOn),
       barCloseDupes: () => this.closeDuplicateTabs(),
       barCloseDupesDisabled: !barHasDupes,
-      barCloseDupesStyle: Object.assign({}, menuBtn, barHasDupes ? null : { color: '#4a4337', cursor: 'default' }),
+      barCloseDupesStyle: menuBtnIf(barHasDupes),
       setGraphEl: this.setGraphEl,
       setMinimapEl: this.setMinimapEl,
       onMinimapDown: this.onMinimapDown,
       onMinimapMenu: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); this.setState({ miniMenu: { x: e.clientX, y: e.clientY } }); },
       miniMenuShow: !!this.state.miniMenu,
-      miniMenuStyle: this.state.miniMenu ? { position: 'fixed', top: Math.min(this.state.miniMenu.y, winH - 60) + 'px', left: Math.min(this.state.miniMenu.x, winW - 190) + 'px', zIndex: 70 } : { display: 'none' },
+      miniMenuStyle: ctxMenuStyle(this.state.miniMenu, 190),
       miniHide: () => { this.setState({ miniMenu: null, minimapForce: false }); },
       onLegendMenu: (e) => { if (e && e.preventDefault) e.preventDefault(); if (e && e.stopPropagation) e.stopPropagation(); this.setState({ legendMenu: { x: e.clientX, y: e.clientY } }); },
       legendMenuShow: !!this.state.legendMenu,
-      legendMenuStyle: this.state.legendMenu ? { position: 'fixed', top: Math.min(this.state.legendMenu.y, winH - 60) + 'px', left: Math.min(this.state.legendMenu.x, winW - 190) + 'px', zIndex: 70 } : { display: 'none' },
+      legendMenuStyle: ctxMenuStyle(this.state.legendMenu, 190),
       legendHideMenu: () => { this.setState({ legendMenu: null, legendHidden: true }); this._kickGraph(); },
       setSearchEl: this.setSearchEl,
       setHeaderEl: this.setHeaderEl,
       setTipEl: this.setTipEl,
-      showBoot: !this.state.ready,
-      eggKonami: this.state.egg === 'konami',
       eggMarcus: this.state.egg === 'marcus',
-      bootText: this.state.bootMsg || 'loading \u2026',
-      bootOpacity: this.state.ready ? 0 : 1,
-      bootPE: this.state.ready ? 'none' : 'auto',
       statusShown: (this.nodeById ? (this._visNodes || this.countVisible()) : 0) + ' shown · ',
       showAllLabel: 'Show All ' + (this.nodeById ? this.actingTotal() : 0),
       showAll: () => this.expandAll(),
-      ghostBtnStyle,
       gearBtnStyle: Object.assign({}, ghostBtnStyle, { padding: '0', width: '30px', height: '30px', border: 'none', background: 'transparent', borderRadius: '0', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0, transition: 'color .15s, transform .15s' }),
-      fitView: () => this.fitView(),
-      collapseAll: () => this.collapseAll(),
       reloadPage: () => this.resetAll(),
-      expandAll: this.expandAll,
       toggleTree: this.toggleTree,
-      toggleTheme: () => { this.setState({ menuOpen: false }); this.toggleTheme(); },
-      themeLabel: this.state.theme === 'light' ? '◑ Switch to dark theme' : '◐ Switch to light theme',
       toggleWiki: this.toggleWiki,
       infoStop: (e) => { if (e && e.stopPropagation) e.stopPropagation(); if (e && e.preventDefault) e.preventDefault(); },
       infoTreeOn: (e) => { if (e && e.currentTarget) this._infoRect = e.currentTarget.getBoundingClientRect(); if (this.state.infoTip !== 'tree') this.setState({ infoTip: 'tree' }); else this.forceUpdate(); },
@@ -4406,18 +4294,13 @@ class Component extends DCLogic {
       })(this),
       infoTreeShow: this.state.infoTip === 'tree',
       infoWikiShow: this.state.infoTip === 'wiki',
-      treeBtnStyle: Object.assign({}, ghostBtnStyle, { color: this.state.showTree === false ? '#5f574a' : '#d8a942', borderColor: this.state.showTree === false ? '#29221a' : '#4a3c1d' }),
-      wikiBtnStyle: Object.assign({}, ghostBtnStyle, { color: this.state.showWiki === false ? '#5f574a' : '#7fb0b8', borderColor: this.state.showWiki === false ? '#29221a' : '#3a4a4d' }),
       menuOpen: this.state.menuOpen,
       controlsMenuStyle: this.state.menuAt
         ? { position: 'fixed', top: Math.min(this.state.menuAt.y, winH - 400) + 'px', left: Math.min(this.state.menuAt.x, winW - 264) + 'px', minWidth: '250px', maxHeight: 'calc(100vh - 16px)', overflowY: 'auto', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.78)', zIndex: 70, display: 'flex', flexDirection: 'column', gap: '2px' }
         : { position: 'absolute', top: 'calc(100% + 8px)', right: 0, minWidth: '250px', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.78)', zIndex: 60, display: 'flex', flexDirection: 'column', gap: '2px' },
       toggleMenu: this.toggleMenu,
-      closeMenu: this.closeMenu,
       menuFit: this.menuFit,
-      menuShowAll: this.menuShowAll,
       menuReset: this.menuReset,
-      totalLabel: this.nodeById ? this.actingTotal() : '',
       menuItemStyle: { display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '18px', width: '100%', textAlign: 'left', background: 'transparent', border: 'none', cursor: 'pointer', fontFamily: "'JetBrains Mono', monospace", fontSize: '11px', letterSpacing: '0.1em', textTransform: 'uppercase', padding: '9px 11px', borderRadius: '5px', color: '#c9bca6', transition: 'all .15s' },
       treeChk: this.state.showTree === false ? '\u2715' : '\u2713',
       wikiChk: this.state.showWiki === false ? '\u2715' : '\u2713',
@@ -4439,18 +4322,6 @@ class Component extends DCLogic {
         var opts = [['category','By category','Hue by knowledge domain'],['recent','Heatmap by recency','Newest notes glow gold, oldest dim']];
         var cur = self.state.nodeColorMode || 'category';
         return opts.map(function(o){ return { onClick: self.setNodeColor(o[0]), title: o[1], desc: o[2], sw: swf(o[0], cur === o[0]), row: rowf(cur === o[0]) }; });
-      })(this),
-      treeColorSwatches: (function(self){
-        var mk = function(c, active){ return { background: c, width: '20px', height: '20px', borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto', padding: 0, border: active ? '2px solid #f4cf6a' : '2px solid #2a2218', boxShadow: active ? '0 0 0 2px rgba(244,207,106,0.35)' : 'none', transition: 'border-color .15s, box-shadow .15s' }; };
-        var opts = [['#d8a942','Gold'],['#8fd0db','Cyan'],['#1f8a5b','Green'],['#b06ad8','Violet'],['#7a8a99','Slate']];
-        var cur = self.state.treeEdgeColor || '#d8a942';
-        return opts.map(function(o){ return { onClick: self.setTreeColor(o[0]), title: o[1], sw: mk(o[0], cur === o[0]) }; });
-      })(this),
-      wikiColorSwatches: (function(self){
-        var mk = function(c, active){ return { background: c, width: '20px', height: '20px', borderRadius: '50%', cursor: 'pointer', flex: '0 0 auto', padding: 0, border: active ? '2px solid #f4cf6a' : '2px solid #2a2218', boxShadow: active ? '0 0 0 2px rgba(244,207,106,0.35)' : 'none', transition: 'border-color .15s, box-shadow .15s' }; };
-        var opts = [['#8fd0db','Cyan'],['#d8a942','Gold'],['#b06ad8','Violet'],['#9fb87f','Sage']];
-        var cur = self.state.wikiEdgeColor || '#8fd0db';
-        return opts.map(function(o){ return { onClick: self.setWikiColor(o[0]), title: o[1], sw: mk(o[0], cur === o[0]) }; });
       })(this),
 
       hasSel: !!sel,
@@ -4485,7 +4356,6 @@ class Component extends DCLogic {
       })(this),      slashDisplay: (compact || this.state.searchFocus) ? 'none' : 'inline-block',
       searchCloseDisplay: (this.state.searchFocus || (compact && this.state.searchExpanded)) ? 'flex' : 'none',
       closeSearch: (e) => { if (e && e.preventDefault) e.preventDefault(); this.setState({ query: '', sideQuery: '', searchFocus: false, searchExpanded: false }); if (this.searchEl) this.searchEl.blur(); if (this.sideSearchEl) this.sideSearchEl.blur(); },
-      recentTextDisplay: compact ? 'none' : 'inline',
       recentIconChar: (compact && this.state.recentOpen) ? '✕' : '◷',
       recentDropStyle: (compact && portrait)
         ? { position: 'fixed', top: ((this.state.headerH || 64) + 8) + 'px', left: '14px', right: '14px', maxHeight: '60vh', overflowY: 'auto', overflowX: 'hidden', scrollbarGutter: 'stable', background: '#16120c', border: '1px solid #2a2218', borderRadius: '8px', padding: '6px', boxShadow: '0 22px 46px -18px rgba(0,0,0,0.8)', zIndex: 62 }
@@ -4503,7 +4373,6 @@ class Component extends DCLogic {
       searchInputH: (compact && this.state.searchExpanded) ? '36px' : 'auto',
       searchInputPad: (compact && this.state.searchExpanded) ? '0 12px 0 32px' : '9px 12px 9px 32px',
       searchIconBtnStyle: Object.assign({}, ghostBtnStyle, { boxSizing: 'border-box', padding: '0', width: '36px', height: '36px', display: searchIcon ? 'inline-flex' : 'none', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }),
-      recentBtnStyle: compact ? Object.assign({}, ghostBtnStyle, { boxSizing: 'border-box', padding: '0', width: '36px', height: '36px', display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }) : ghostBtnStyle,
       toggleSearchExpand: () => this.setState((s) => ({ searchExpanded: !s.searchExpanded }), () => { if (this.state.searchExpanded && this.searchEl) setTimeout(() => this.searchEl.focus(), 30); }),
       floatDisplay: (this.state.selectedId && this.state.fullPage) ? 'none' : 'flex',
       sidebarTransition: this.state.anim ? 'transform .44s cubic-bezier(.2,.7,.2,1), opacity .3s ease' : 'none',
@@ -4538,7 +4407,6 @@ class Component extends DCLogic {
       copyLink: () => this.copyPermalink(this.selectedId),
       copyLinkR: () => this.copyPermalink(this.state.selectedIdR),
       copyLinkTitle: this.state.linkCopied ? 'Link copied!' : 'Copy link to this note',
-      copyLinkStyle: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', marginRight: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', color: this.state.linkCopied ? '#9fb87f' : '#d8a942', transition: 'color .15s, transform .15s' },
       navBack: this.navBack, navForward: this.navForward,
       navBackR: this.navBackR, navForwardR: this.navForwardR,
       navBackStyleR: Object.assign(this.navBtnStyle(this.navStateR(), false, '25px'), { marginLeft: '-6px' }),
@@ -4570,7 +4438,6 @@ class Component extends DCLogic {
       pinStarR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? '★' : '☆',
       pinTitleR: (this.pinned && this.state.selectedIdR != null && this.pinned.has(this.state.selectedIdR)) ? 'Unpin this note' : 'Pin this note',
       pinStarStyleR: { display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flex: '0 0 auto', width: '24px', height: '24px', marginLeft: '-2px', padding: 0, border: 'none', background: 'transparent', cursor: 'pointer', fontSize: '13px', lineHeight: 1, color: '#b78f3a', transition: 'color .15s, transform .15s' },
-      recentHasMore,
       onRecentScroll: (e) => { const el = e.target; if (recentHasMore && el && el.scrollTop + el.clientHeight >= el.scrollHeight - 60) this.setState((s) => ({ recentLimit: (s.recentLimit || 14) + 14 })); },
       onSearchFocus: this.onSearchFocus,
       onSearchBlur: this.onSearchBlur,
@@ -4615,19 +4482,16 @@ class Component extends DCLogic {
       dockLeftStyle: dockStyleFor('left'),
       dockBottomStyle: dockStyleFor('bottom'),
       dockRightStyle: dockStyleFor('right'),
-      sideRootShow: !!(sel && sel.id !== this.rootId),
-      sideRootLabel: sideRootIsActing ? '\u21ba unmake acting root' : '\u2693 make as root',
-      sideRoot: sel ? () => { this.setState({ sideMenu: false }); if (sideRootIsActing) this.menuUnmake(); else this.menuMakeRoot(sel.id); } : () => {},
       menuCenter: mNode ? () => { this.setState({ menuNodeId: null }); this.selectNode(mNode.id); this.focusNode(mNode, false); } : () => {},
       menuSoloLabel: (mNode && this._focusGroups && this._focusGroups.size === 1 && this._focusGroups.has(mNode.id)) ? '\u25d0 show all nodes' : '\u25d0 dim all but this branch',
       menuSolo: mNode ? () => { const fg = this._focusGroups; const soloed = fg && fg.size === 1 && fg.has(mNode.id); this._focusGroups = soloed ? null : new Set([mNode.id]); this._legendSolo = null; this.setState({ menuNodeId: null }); this.setState((s) => ({ tick: (s.tick || 0) + 1 })); this._kickGraph(); } : () => {},
       menuExpand: mNode ? () => this.menuToggle(mNode.id) : () => {},
       menuExpandAllDesc: mNode ? () => { this.setState({ menuNodeId: null }); this.menuExpandDescendants(mNode.id); } : () => {},
       menuExpandAllDisabled: !(mNode && mNode.children && mNode.children.length),
-      menuExpandAllStyle: Object.assign({}, menuBtn, (mNode && mNode.children && mNode.children.length) ? null : { color: '#4a4337', cursor: 'default' }),
+      menuExpandAllStyle: menuBtnIf(mNode && mNode.children && mNode.children.length),
       menuHide: mNode ? () => this.menuHide(mNode.id) : () => {},
       menuHideDisabled: !(mNode && mNode.id !== (this.actingRoot || this.rootId)),
-      menuHideStyle: Object.assign({}, menuBtn, (mNode && mNode.id !== (this.actingRoot || this.rootId)) ? null : { color: '#4a4337', cursor: 'default' }),
+      menuHideStyle: menuBtnIf(mNode && mNode.id !== (this.actingRoot || this.rootId)),
       menuRootShow: !!(mNode && mNode.id !== this.rootId),
       menuRootLabel: (mNode && mNode.id === this.actingRoot && mNode.id !== this.rootId) ? '\u21ba unmake acting root' : '\u2693 make as root',
       menuRoot: mNode ? () => ((mNode.id === this.actingRoot && mNode.id !== this.rootId) ? this.menuUnmake() : this.menuMakeRoot(mNode.id)) : () => {},
@@ -4635,7 +4499,7 @@ class Component extends DCLogic {
       menuOpenHere: mNode ? () => { this.setState({ menuNodeId: null }); this.navigateTo(mNode.id); } : () => {},
       menuOpenParent: (mNode && mNode.parent != null && this.nodeById[mNode.parent]) ? () => { this.setState({ menuNodeId: null }); this.navigateTo(mNode.parent); } : () => {},
       menuOpenParentDisabled: !(mNode && mNode.parent != null && this.nodeById[mNode.parent]),
-      menuOpenParentStyle: Object.assign({}, menuBtn, (mNode && mNode.parent != null && this.nodeById[mNode.parent]) ? null : { color: '#4a4337', cursor: 'default' }),
+      menuOpenParentStyle: menuBtnIf(mNode && mNode.parent != null && this.nodeById[mNode.parent]),
       menuNodeTitle: mNode ? (mNode.name || mNode.title) : '',
       menuTitleHover: (e) => { const span = e && e.currentTarget; if (span && span.parentElement) this.startTabMarquee(span.parentElement, 0); },
       showTabs, showToolbarTabs, splitToolbar, vertSplit, primaryInPane, secondaryInPane, tbTabItems, tbSide, tbAddTab, tabItems,
@@ -4667,7 +4531,6 @@ class Component extends DCLogic {
       menuLeave: this.menuLeave,
       crumbs,
       selName: sel ? sel.name : '',
-      tags: sel ? (sel.tags || []) : [],
       outCount, inCount,
       popStyle, linkedList, backList, childList,
       linkPeekShow: !!(this.state.linkPeek && this.nodeById && this.nodeById[this.state.linkPeek.id]),
@@ -4691,14 +4554,13 @@ class Component extends DCLogic {
       rParentContext: (rNodeEarly && rPane.hasParent && rNodeEarly.parent != null) ? this.openLinkMenu(rNodeEarly.parent, 'right') : () => {},
       linkMenuShow: !!this.state.linkMenu,
       headerMenuShow: !!this.state.headerMenu,
-      headerMenuStyle: this.state.headerMenu ? { position: 'fixed', top: Math.min(this.state.headerMenu.y, winH - 60) + 'px', left: Math.min(this.state.headerMenu.x, winW - 220) + 'px', zIndex: 70 } : { display: 'none' },
+      headerMenuStyle: ctxMenuStyle(this.state.headerMenu, 220),
       copyHeaderLink: this.copyHeaderLink,
-      linkMenuStyle: this.state.linkMenu ? { position: 'fixed', top: Math.min(this.state.linkMenu.y, winH - 60) + 'px', left: Math.min(this.state.linkMenu.x, winW - 220) + 'px', zIndex: 70 } : { display: 'none' },
+      linkMenuStyle: ctxMenuStyle(this.state.linkMenu, 220),
       linkMenuOpen: this.state.linkMenu ? () => { const lm = this.state.linkMenu; this.setState({ linkMenu: null, metaPop: null, metaPopR: null }); if (lm.side === 'right') this.openInNewTabR(lm.id); else this.openInNewTab(lm.id); } : () => {},
       parentHover: parentNode ? () => { this.hoverId = parentNode.id; } : () => {},
       parentLeave: () => { this.hoverId = null; },
       dateLine: sel ? this.formatDates(sel) : '',
-      openUrl: this.SITE,
       mdNode: sel ? (sel._bodyLoaded
         ? (this.state.rawMd
           ? React.createElement('pre', { className: 'md-raw', style: { whiteSpace: 'pre-wrap', wordBreak: 'break-word', fontFamily: "'JetBrains Mono', monospace", fontSize: '12px', lineHeight: '1.6', color: '#b3a48c', margin: 0 } }, this.genMarkdown(sel))
@@ -4737,7 +4599,6 @@ class Component extends DCLogic {
       statsOpen: !!this.state.statsOpen,
       closeStats: () => this.setState({ statsOpen: false }),
       stats: this.state.statsOpen ? this.computeStats() : null,
-      menuStats: () => this.openStats(),
       menuExportPng: () => { this.setState({ menuOpen: false }); this.exportGraphPNG(); },
       closeShortcuts: () => this.setState({ shortcutsOpen: false }),
       openShortcuts: () => this.setState({ shortcutsOpen: true }),
@@ -4773,7 +4634,6 @@ class Component extends DCLogic {
         }
         return item;
       }),
-      siteUrl: this.SITE,
     };
   }
 
