@@ -1,0 +1,1 @@
+(function(){var b="c3f87a3780e9",m="# Judges 14:13 (New International Version)\nIf you can't tell me the answer, you must give me thirty linen garments and thirty sets of clothes.\"\n\"Tell us your riddle,\" they said. \"Let's hear it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

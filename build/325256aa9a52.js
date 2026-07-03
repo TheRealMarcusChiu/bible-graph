@@ -1,0 +1,1 @@
+(function(){var b="325256aa9a52",m="# 1 Samuel 29:7 (New International Version)\nNow turn back and go in peace; do nothing to displease the Philistine rulers.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

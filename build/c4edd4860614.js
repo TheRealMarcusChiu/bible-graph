@@ -1,0 +1,1 @@
+(function(){var b="c4edd4860614",m="# Ruth 3:6 (New International Version)\nSo she went down to the threshing floor<sup>^A</sup> and did everything her mother-in-law told her to do.\n\n### Crossrefs\n- A: S [[Num-18-27|Nu 18:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

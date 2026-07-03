@@ -1,0 +1,1 @@
+(function(){var b="1d3747f2998c",m="# 2 Samuel 11:12 (New International Version)\nThen David said to him, \"Stay here one more day, and tomorrow I will send you back.\" So Uriah remained in Jerusalem that day and the next.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

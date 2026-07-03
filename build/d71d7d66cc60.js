@@ -1,0 +1,1 @@
+(function(){var b="d71d7d66cc60",m="# 1 Samuel 1:13 (New International Version)\nHannah was praying in her heart, and her lips were moving but her voice was not heard. Eli thought she was drunk";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

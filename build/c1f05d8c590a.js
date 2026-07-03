@@ -1,0 +1,1 @@
+(function(){var b="c1f05d8c590a",m="# 2 Samuel 12:12 (New International Version)\nYou did it in secret,<sup>^A</sup> but I will do this thing in broad daylight<sup>^B</sup> before all Israel.'\"\n\n### Crossrefs\n- A: [[2Sam-11-4|2Sa 11:4-15]]\n- B: [[2Sam-16-22|2Sa 16:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="19752a753ec0",m="# 1 Samuel 25:27 (New International Version)\nAnd let this gift,<sup>^A</sup> which your servant has brought to my lord, be given to the men who follow you.\n\n### Crossrefs\n- A: S [[Gen-33-11|Ge 33:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

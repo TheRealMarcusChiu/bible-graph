@@ -1,0 +1,1 @@
+(function(){var b="a8453cf53cba",m="# 1 Samuel 21:12 (New International Version)\nDavid took these words to heart and was very much afraid of Achish king of Gath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

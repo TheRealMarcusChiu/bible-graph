@@ -1,0 +1,1 @@
+(function(){var b="74d011e5b64a",m="# 1 Samuel 24:9 (New International Version)\nHe said to Saul, \"Why do you listen<sup>^A</sup> when men say, 'David is bent on harming<sup>^B</sup> you'? \n\n### Crossrefs\n- A: [[1Sam-26-19|1Sa 26:19]]\n- B: [[1Sam-20-1|1Sa 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

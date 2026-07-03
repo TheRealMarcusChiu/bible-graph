@@ -1,0 +1,1 @@
+(function(){var b="e967b84fef71",m="# 1 Samuel 30:23 (New International Version)\nDavid replied, \"No, my brothers, you must not do that with what the LORD has given us. He has protected us and delivered into our hands the raiding party that came against us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

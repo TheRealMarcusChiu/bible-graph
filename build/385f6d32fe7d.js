@@ -1,0 +1,1 @@
+(function(){var b="385f6d32fe7d",m="# 1 Samuel 17:19 (New International Version)\nThey are with Saul and all the men of Israel in the Valley of Elah, fighting against the Philistines.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

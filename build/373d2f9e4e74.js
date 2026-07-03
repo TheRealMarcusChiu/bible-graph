@@ -1,0 +1,1 @@
+(function(){var b="373d2f9e4e74",m="# 1 Samuel 17:11 (New International Version)\nOn hearing the Philistine's words, Saul and all the Israelites were dismayed and terrified.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

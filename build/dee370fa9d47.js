@@ -1,0 +1,1 @@
+(function(){var b="dee370fa9d47",m="# 2 Samuel 4:3 (New International Version)\nbecause the people of Beeroth fled to Gittaim<sup>^A</sup> and have resided there as foreigners to this day.\n\n### Crossrefs\n- A: [[Neh-11-33|Ne 11:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="71601a373381",m="# 1 Samuel 5:12 (New International Version)\nThose who did not die<sup>^A</sup> were afflicted with tumors, and the outcry of the city went up to heaven.\n\n### Crossrefs\n- A: S [[1Sam-4-8|1Sa 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

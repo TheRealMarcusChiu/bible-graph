@@ -1,0 +1,1 @@
+(function(){var b="37551edef01b",m="# 1 Samuel 17:40 (New International Version)\nThen he took his staff in his hand, chose five smooth stones from the stream, put them in the pouch of his shepherd's bag and, with his sling in his hand, approached the Philistine.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

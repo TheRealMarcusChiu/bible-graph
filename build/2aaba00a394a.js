@@ -1,0 +1,1 @@
+(function(){var b="2aaba00a394a",m="# 1 Samuel 20:33 (New International Version)\nBut Saul hurled his spear at him to kill him. Then Jonathan knew that his father intended<sup>^A</sup> to kill David.\n\n### Crossrefs\n- A: S [[1Sam-18-11|1Sa 18:11]], [[1Sam-18-17|17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

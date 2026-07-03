@@ -1,0 +1,1 @@
+(function(){var b="767ed80bd69a",m="# Judges 21:15 (New International Version)\nThe people grieved for Benjamin,<sup>^A</sup> because the LORD had made a gap in the tribes of Israel. \n\n### Crossrefs\n- A: [[Judg-21-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3044a1857a56",m="# 2 Samuel 11:16 (New International Version)\nSo while Joab had the city under siege, he put Uriah at a place where he knew the strongest defenders were.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

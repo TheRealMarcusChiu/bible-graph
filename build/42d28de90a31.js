@@ -1,0 +1,1 @@
+(function(){var b="42d28de90a31",m="# 2 Samuel 14:4 (New International Version)\nWhen the woman from Tekoa went to the king, she fell with her face to the ground to pay him honor, and she said, \"Help me, Your Majesty!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

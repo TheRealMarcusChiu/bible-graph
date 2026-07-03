@@ -1,0 +1,1 @@
+(function(){var b="2c90f5578d07",m="# 2 Samuel 13:30 (New International Version)\nWhile they were on their way, the report came to David: \"Absalom has struck down all the king's sons; not one of them is left.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

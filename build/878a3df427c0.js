@@ -1,0 +1,1 @@
+(function(){var b="878a3df427c0",m="# 1 Samuel 26:8 (New International Version)\nAbishai said to David, \"Today God has delivered your enemy into your hands. Now let me pin him to the ground with one thrust of the spear; I won't strike him twice.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

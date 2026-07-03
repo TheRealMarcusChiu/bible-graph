@@ -1,0 +1,1 @@
+(function(){var b="5a994c39c00f",m="# 2 Samuel 16:18 (New International Version)\nHushai said to Absalom, \"No, the one chosen by the LORD, by these people, and by all the men of Israel--his I will be, and I will remain with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

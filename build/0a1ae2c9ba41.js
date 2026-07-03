@@ -1,0 +1,1 @@
+(function(){var b="0a1ae2c9ba41",m="# 2 Samuel 14:21 (New International Version)\nThe king said to Joab, \"Very well, I will do it. Go, bring back the young man Absalom.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

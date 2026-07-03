@@ -1,0 +1,1 @@
+(function(){var b="3688eff3b945",m="# 1 Samuel 25:32 (New International Version)\nDavid said to Abigail, \"Praise<sup>^A</sup> be to the LORD, the God of Israel, who has sent you today to meet me. \n\n### Crossrefs\n- A: S [[Gen-24-27|Ge 24:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

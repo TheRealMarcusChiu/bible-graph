@@ -1,0 +1,1 @@
+(function(){var b="9810cb54881a",m="# Judges 19:3 (New International Version)\nher husband went to her to persuade her to return. He had with him his servant and two donkeys. She took him into her parents' home, and when her father saw him, he gladly welcomed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

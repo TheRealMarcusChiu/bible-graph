@@ -1,0 +1,1 @@
+(function(){var b="67114186f871",m="# 2 Samuel 12:14 (New International Version)\nBut because by doing this you have shown utter contempt for the LORD,<sup>^A</sup> the son born to you will die.\"\n\n### Crossrefs\n- A: [[Isa-52-5|Isa 52:5]]; [[Rom-2-24|Ro 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

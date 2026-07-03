@@ -1,0 +1,1 @@
+(function(){var b="6d718e3cee37",m="# 1 Samuel 29:10 (New International Version)\nNow get up early, along with your master's servants who have come with you, and leave<sup>^A</sup> in the morning as soon as it is light.\"\n\n### Crossrefs\n- A: [[1Chr-12-19|1Ch 12:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

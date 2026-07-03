@@ -1,0 +1,1 @@
+(function(){var b="498e85c2d8fd",m="# 2 Samuel 2:20 (New International Version)\nAbner looked behind him and asked, \"Is that you, Asahel?\"\n\"It is,\" he answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

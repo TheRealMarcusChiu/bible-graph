@@ -1,0 +1,1 @@
+(function(){var b="c316415b3ae0",m="# 2 Samuel 3:26 (New International Version)\nJoab then left David and sent messengers after Abner, and they brought him back from the cistern at Sirah. But David did not know it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

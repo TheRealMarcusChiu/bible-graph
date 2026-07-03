@@ -1,0 +1,1 @@
+(function(){var b="55a9d7bb802f",m="# 1 Samuel 14:30 (New International Version)\nHow much better it would have been if the men had eaten today some of the plunder they took from their enemies. Would not the slaughter of the Philistines have been even greater?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

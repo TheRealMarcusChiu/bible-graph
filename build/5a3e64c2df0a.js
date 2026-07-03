@@ -1,0 +1,1 @@
+(function(){var b="5a3e64c2df0a",m="# Judges 18:25 (New International Version)\nThe Danites answered, \"Don't argue with us, or some of the men may get angry and attack you, and you and your family will lose your lives.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

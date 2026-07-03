@@ -1,0 +1,1 @@
+(function(){var b="9789e746c0e7",m="# 1 Samuel 10:23 (New International Version)\nThey ran and brought him out, and as he stood among the people he was a head taller<sup>^A</sup> than any of the others. \n\n### Crossrefs\n- A: [[1Sam-9-2|1Sa 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

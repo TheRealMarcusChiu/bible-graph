@@ -1,0 +1,1 @@
+(function(){var b="e2f4efaf79aa",m="# Ruth 4:2 (New International Version)\nBoaz took ten of the elders<sup>^A</sup> of the town and said, \"Sit here,\" and they did so.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Exod-3-16|Ex 3:16]]\n- B: S [[Deut-25-7|Dt 25:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

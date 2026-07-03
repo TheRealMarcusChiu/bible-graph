@@ -1,0 +1,1 @@
+(function(){var b="e5f16e93a550",m="# 2 Samuel 12:28 (New International Version)\nNow muster the rest of the troops and besiege the city and capture it. Otherwise I will take the city, and it will be named after me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

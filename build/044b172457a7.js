@@ -1,0 +1,1 @@
+(function(){var b="044b172457a7",m="# Judges 17:11 (New International Version)\nSo the Levite agreed to live with him, and the young man became like one of his sons to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

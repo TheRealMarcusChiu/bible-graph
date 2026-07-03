@@ -1,0 +1,1 @@
+(function(){var b="64264ff3cca1",m="# 1 Samuel 21:14 (New International Version)\nAchish said to his servants, \"Look at the man! He is insane! Why bring him to me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

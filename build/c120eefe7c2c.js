@@ -1,0 +1,1 @@
+(function(){var b="c120eefe7c2c",m="# 1 Samuel 7:11 (New International Version)\nThe men of Israel rushed out of Mizpah and pursued the Philistines, slaughtering them along the way to a point below Beth Kar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

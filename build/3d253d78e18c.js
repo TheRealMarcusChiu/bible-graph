@@ -1,0 +1,1 @@
+(function(){var b="3d253d78e18c",m="# 2 Samuel 13:36 (New International Version)\nAs he finished speaking, the king's sons came in, wailing loudly. The king, too, and all his attendants wept very bitterly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

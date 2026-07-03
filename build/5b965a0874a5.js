@@ -1,0 +1,1 @@
+(function(){var b="5b965a0874a5",m="# 1 Samuel 15:15 (New International Version)\nSaul answered, \"The soldiers brought them from the Amalekites; they spared the best of the sheep and cattle to sacrifice to the LORD your God, but we totally destroyed the rest.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

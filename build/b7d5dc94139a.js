@@ -1,0 +1,1 @@
+(function(){var b="b7d5dc94139a",m="# 2 Samuel 15:13 (New International Version)\nDavid Flees\nA messenger came and told David, \"The hearts of the people of Israel are with Absalom.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

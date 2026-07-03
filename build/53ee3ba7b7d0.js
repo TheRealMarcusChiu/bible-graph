@@ -1,0 +1,1 @@
+(function(){var b="53ee3ba7b7d0",m="# Judges 19:12 (New International Version)\nHis master replied, \"No. We won't go into any city whose people are not Israelites. We will go on to Gibeah.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

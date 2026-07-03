@@ -1,0 +1,1 @@
+(function(){var b="6d7e8baabbb8",m="# Judges 18:15 (New International Version)\nSo they turned in there and went to the house of the young Levite at Micah's place and greeted him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

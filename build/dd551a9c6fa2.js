@@ -1,0 +1,1 @@
+(function(){var b="dd551a9c6fa2",m="# 1 Samuel 16:9 (New International Version)\nJesse then had Shammah<sup>^A</sup> pass by, but Samuel said, \"Nor has the LORD chosen this one.\" \n\n### Crossrefs\n- A: [[1Sam-17-13|1Sa 17:13]]; [[2Sam-13-3|2Sa 13:3]]; [[2Sam-21-21|21:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5d497cabf3b4",m="# 2 Samuel 3:20 (New International Version)\nWhen Abner, who had twenty men with him, came to David at Hebron, David prepared a feast<sup>^A</sup> for him and his men. \n\n### Crossrefs\n- A: [[1Chr-12-39|1Ch 12:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

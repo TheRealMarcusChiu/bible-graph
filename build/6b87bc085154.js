@@ -1,0 +1,1 @@
+(function(){var b="6b87bc085154",m="# 1 Samuel 21:8 (New International Version)\nDavid asked Ahimelek, \"Don't you have a spear or a sword here? I haven't brought my sword or any other weapon, because the king's mission was urgent.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

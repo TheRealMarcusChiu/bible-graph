@@ -1,0 +1,1 @@
+(function(){var b="2d26d07de6c7",m="# 1 Samuel 18:9 (New International Version)\nAnd from that time on Saul kept a close<sup>^A</sup> eye on David.\n\n### Crossrefs\n- A: [[1Sam-19-1|1Sa 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

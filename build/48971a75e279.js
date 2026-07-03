@@ -1,0 +1,1 @@
+(function(){var b="48971a75e279",m="# 1 Samuel 17:49 (New International Version)\nReaching into his bag and taking out a stone, he slung it and struck the Philistine on the forehead. The stone sank into his forehead, and he fell facedown on the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

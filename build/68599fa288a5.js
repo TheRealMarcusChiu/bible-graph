@@ -1,0 +1,1 @@
+(function(){var b="68599fa288a5",m="# 2 Samuel 13:33 (New International Version)\nMy lord the king should not be concerned about the report that all the king's sons are dead. Only Amnon is dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="75dcdabfb376",m="# 1 Samuel 14:5 (New International Version)\nOne cliff stood to the north toward Mikmash, the other to the south toward Geba.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-18-24|Jos 18:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

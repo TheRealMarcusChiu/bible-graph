@@ -1,0 +1,1 @@
+(function(){var b="e39a86335b80",m="# 1 Samuel 18:29 (New International Version)\nSaul became still more afraid<sup>^A</sup> of him, and he remained his enemy the rest of his days.\n\n### Crossrefs\n- A: [[1Sam-18-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

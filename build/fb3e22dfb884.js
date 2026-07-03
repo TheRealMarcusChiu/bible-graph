@@ -1,0 +1,1 @@
+(function(){var b="fb3e22dfb884",m="# 1 Samuel 7:4 (New International Version)\nSo the Israelites put away their Baals and Ashtoreths, and served the LORD only.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

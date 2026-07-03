@@ -1,0 +1,1 @@
+(function(){var b="99cefb02da9e",m="# 2 Samuel 11:6 (New International Version)\nSo David sent this word to Joab: \"Send me Uriah<sup>^A</sup> the Hittite.\" And Joab sent him to David. \n\n### Crossrefs\n- A: [[1Chr-11-41|1Ch 11:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

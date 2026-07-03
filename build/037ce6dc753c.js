@@ -1,0 +1,1 @@
+(function(){var b="037ce6dc753c",m="# 1 Samuel 5:5 (New International Version)\nThat is why to this day neither the priests of Dagon nor any others who enter Dagon's temple at Ashdod step on the threshold.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zeph-1-9|Zep 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

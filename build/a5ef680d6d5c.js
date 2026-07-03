@@ -1,0 +1,1 @@
+(function(){var b="a5ef680d6d5c",m="# Judges 19:8 (New International Version)\nOn the morning of the fifth day, when he rose to go, the woman's father said, \"Refresh yourself. Wait till afternoon!\" So the two of them ate together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

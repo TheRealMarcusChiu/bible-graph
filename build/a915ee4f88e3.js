@@ -1,0 +1,1 @@
+(function(){var b="a915ee4f88e3",m="# 1 Samuel 23:16 (New International Version)\nAnd Saul's son Jonathan went to David at Horesh and helped him find strength<sup>^A</sup> in God. \n\n### Crossrefs\n- A: [[1Sam-30-6|1Sa 30:6]]; [[Ps-18-2|Ps 18:2]]; [[Ps-27-14|27:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

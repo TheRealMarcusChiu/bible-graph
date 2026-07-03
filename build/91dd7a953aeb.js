@@ -1,0 +1,1 @@
+(function(){var b="91dd7a953aeb",m="# 1 Samuel 17:31 (New International Version)\nWhat David said was overheard and reported to Saul, and Saul sent for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

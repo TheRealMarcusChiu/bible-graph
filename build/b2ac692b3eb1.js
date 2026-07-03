@@ -1,0 +1,1 @@
+(function(){var b="b2ac692b3eb1",m="# Ruth 2:8 (New International Version)\nSo Boaz said to Ruth, \"My daughter, listen to me. Don't go and glean in another field and don't go away from here. Stay here with the women who work for me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2bf6680cc991",m="# 1 Samuel 4:16 (New International Version)\nHe told Eli, \"I have just come from the battle line; I fled from it this very day.\"\nEli asked, \"What happened, my son?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

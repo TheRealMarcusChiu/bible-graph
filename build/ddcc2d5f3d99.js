@@ -1,0 +1,1 @@
+(function(){var b="ddcc2d5f3d99",m="# Judges 20:22 (New International Version)\nBut the Israelites encouraged one another and again took up their positions where they had stationed themselves the first day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

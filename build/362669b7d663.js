@@ -1,0 +1,1 @@
+(function(){var b="362669b7d663",m="# 2 Samuel 7:17 (New International Version)\nNathan reported to David all the words of this entire revelation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

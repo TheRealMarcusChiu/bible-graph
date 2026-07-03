@@ -1,0 +1,1 @@
+(function(){var b="eec407826b59",m="# 1 Samuel 26:7 (New International Version)\nSo David and Abishai went to the army by night, and there was Saul, lying asleep inside the camp with his spear stuck in the ground near his head. Abner and the soldiers were lying around him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8111f33ec11a",m="# Ruth 3:5 (New International Version)\n\"I will do whatever you say,\"<sup>^A</sup> Ruth answered. \n\n### Crossrefs\n- A: [[Eph-6-1|Eph 6:1]]; [[Col-3-20|Col 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

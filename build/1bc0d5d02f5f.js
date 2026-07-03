@@ -1,0 +1,1 @@
+(function(){var b="1bc0d5d02f5f",m="# 2 Samuel 3:30 (New International Version)\n(Joab and his brother Abishai murdered Abner because he had killed their brother Asahel in the battle at Gibeon.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

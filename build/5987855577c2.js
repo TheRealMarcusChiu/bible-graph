@@ -1,0 +1,1 @@
+(function(){var b="5987855577c2",m="# Judges 15:9 (New International Version)\nThe Philistines went up and camped in Judah, spreading out near Lehi.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Judg-15-14|ver 14]], [[Judg-15-17|17]], [[Judg-15-19|19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

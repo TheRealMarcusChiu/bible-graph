@@ -1,0 +1,1 @@
+(function(){var b="a027424fda64",m="# 2 Samuel 11:22 (New International Version)\nThe messenger set out, and when he arrived he told David everything Joab had sent him to say.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

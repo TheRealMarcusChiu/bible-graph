@@ -1,0 +1,1 @@
+(function(){var b="c1a5b4e8956e",m="# 2 Samuel 7:3 (New International Version)\nNathan replied to the king, \"Whatever you have in mind,<sup>^A</sup> go ahead and do it, for the LORD is with you.\"\n\n### Crossrefs\n- A: S [[1Sam-10-7|1Sa 10:7]]; [[Ps-132-1|Ps 132:1-5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="12979c62b532",m="# 2 Samuel 14:1 (New International Version)\nAbsalom Returns to Jerusalem\nJoab<sup>^A</sup> son of Zeruiah knew that the king's heart longed for Absalom. \n\n### Crossrefs\n- A: S [[2Sam-2-18|2Sa 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

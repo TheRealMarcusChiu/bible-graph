@@ -1,0 +1,1 @@
+(function(){var b="67dc9f92f2e4",m="# Ruth 1:3 (New International Version)\nNow Elimelek, Naomi's husband, died, and she was left with her two sons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

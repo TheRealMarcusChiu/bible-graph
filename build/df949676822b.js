@@ -1,0 +1,1 @@
+(function(){var b="df949676822b",m="# 2 Samuel 3:5 (New International Version)\nand the sixth, Ithream the son of David's wife Eglah.\nThese were born to David in Hebron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

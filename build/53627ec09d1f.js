@@ -1,0 +1,1 @@
+(function(){var b="53627ec09d1f",m="# 2 Samuel 12:19 (New International Version)\nDavid noticed that his attendants were whispering among themselves, and he realized the child was dead. \"Is the child dead?\" he asked.\n\"Yes,\" they replied, \"he is dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

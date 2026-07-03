@@ -1,0 +1,1 @@
+(function(){var b="3d0961f32a3b",m="# 2 Samuel 2:11 (New International Version)\nThe length of time David was king in Hebron over Judah was seven years and six months.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-5-5|2Sa 5:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

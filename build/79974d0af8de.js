@@ -1,0 +1,1 @@
+(function(){var b="79974d0af8de",m="# Judges 16:7 (New International Version)\nSamson answered her, \"If anyone ties me with seven fresh bowstrings that have not been dried, I'll become as weak as any other man.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

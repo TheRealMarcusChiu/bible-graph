@@ -1,0 +1,1 @@
+(function(){var b="25ba29849f8d",m="# Judges 20:44 (New International Version)\nEighteen thousand Benjamites fell, all of them valiant fighters.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Sam-10-26|1Sa 10:26]]; [[Ps-76-5|Ps 76:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

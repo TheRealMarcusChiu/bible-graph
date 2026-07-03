@@ -1,0 +1,1 @@
+(function(){var b="3e506b9ea663",m="# 1 Samuel 17:6 (New International Version)\non his legs he wore bronze greaves, and a bronze javelin<sup>^A</sup> was slung on his back. \n\n### Crossrefs\n- A: [[1Sam-17-45|ver 45]]; [[1Sam-18-10|1Sa 18:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

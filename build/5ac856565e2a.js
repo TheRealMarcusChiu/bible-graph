@@ -1,0 +1,1 @@
+(function(){var b="5ac856565e2a",m="# 1 Samuel 29:2 (New International Version)\nAs the Philistine rulers marched with their units of hundreds and thousands, David and his men were marching at the rear<sup>^A</sup> with Achish. \n\n### Crossrefs\n- A: [[1Sam-28-2|1Sa 28:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

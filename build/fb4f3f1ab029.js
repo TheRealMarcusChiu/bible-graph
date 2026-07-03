@@ -1,0 +1,1 @@
+(function(){var b="fb4f3f1ab029",m="# 2 Samuel 3:25 (New International Version)\nYou know Abner son of Ner; he came to deceive you and observe your movements and find out everything you are doing.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

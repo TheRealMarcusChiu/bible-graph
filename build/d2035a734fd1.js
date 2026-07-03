@@ -1,0 +1,1 @@
+(function(){var b="d2035a734fd1",m="# Ruth 2:5 (New International Version)\nBoaz asked the overseer of his harvesters, \"Who does that young woman belong to?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

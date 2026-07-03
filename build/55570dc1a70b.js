@@ -1,0 +1,1 @@
+(function(){var b="55570dc1a70b",m="# 1 Samuel 26:17 (New International Version)\nSaul recognized David's voice and said, \"Is that your voice,<sup>^A</sup> David my son?\"\nDavid replied, \"Yes it is, my lord the king.\" \n\n### Crossrefs\n- A: [[1Sam-24-16|1Sa 24:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

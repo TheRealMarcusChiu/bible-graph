@@ -1,0 +1,1 @@
+(function(){var b="8f2405cc7e45",m="# 1 Samuel 3:8 (New International Version)\nA third time the LORD called, \"Samuel!\" And Samuel got up and went to Eli and said, \"Here I am; you called me.\"\nThen Eli realized that the LORD was calling the boy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

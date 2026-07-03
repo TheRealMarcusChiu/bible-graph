@@ -1,0 +1,1 @@
+(function(){var b="3514e3dd9c49",m="# 1 Samuel 30:20 (New International Version)\nHe took all the flocks and herds, and his men drove them ahead of the other livestock, saying, \"This is David's plunder.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

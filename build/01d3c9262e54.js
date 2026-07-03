@@ -1,0 +1,1 @@
+(function(){var b="01d3c9262e54",m="# 1 Samuel 15:14 (New International Version)\nBut Samuel said, \"What then is this bleating of sheep in my ears? What is this lowing of cattle that I hear?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

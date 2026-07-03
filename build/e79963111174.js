@@ -1,0 +1,1 @@
+(function(){var b="e79963111174",m="# 1 Samuel 14:17 (New International Version)\nThen Saul said to the men who were with him, \"Muster the forces and see who has left us.\" When they did, it was Jonathan and his armor-bearer who were not there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

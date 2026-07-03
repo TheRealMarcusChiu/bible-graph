@@ -1,0 +1,1 @@
+(function(){var b="edad5c41a18f",m="# 2 Samuel 3:4 (New International Version)\nthe fourth, Adonijah<sup>^A</sup> the son of Haggith;\nthe fifth, Shephatiah the son of Abital;\n\n### Crossrefs\n- A: [[1Kgs-1-5|1Ki 1:5]], [[1Kgs-1-11|11]]; [[1Kgs-2-13|2:13]], [[1Kgs-2-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

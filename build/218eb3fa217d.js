@@ -1,0 +1,1 @@
+(function(){var b="218eb3fa217d",m="# 1 Samuel 18:16 (New International Version)\nBut all Israel and Judah loved David, because he led them in their campaigns.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-5-2|2Sa 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

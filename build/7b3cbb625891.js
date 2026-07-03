@@ -1,0 +1,1 @@
+(function(){var b="7b3cbb625891",m="# Judges 12:15 (New International Version)\nThen Abdon son of Hillel died and was buried at Pirathon in Ephraim, in the hill country of the Amalekites.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Judg-5-14|Jdg 5:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

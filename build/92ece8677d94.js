@@ -1,0 +1,1 @@
+(function(){var b="92ece8677d94",m="# 1 Samuel 20\n\nThe prophet Samuel, Israel's first king Saul, and the rise of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

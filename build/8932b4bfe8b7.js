@@ -1,0 +1,1 @@
+(function(){var b="8932b4bfe8b7",m="# 1 Samuel 14:51 (New International Version)\nSaul's father Kish<sup>^A</sup> and Abner's father Ner were sons of Abiel.\n\n### Crossrefs\n- A: S [[1Sam-9-1|1Sa 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

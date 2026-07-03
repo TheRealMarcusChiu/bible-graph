@@ -1,0 +1,1 @@
+(function(){var b="a3154655253d",m="# 1 Samuel 17:27 (New International Version)\nThey repeated to him what they had been saying and told him, \"This is what will be done for the man who kills him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

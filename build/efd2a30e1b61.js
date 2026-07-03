@@ -1,0 +1,1 @@
+(function(){var b="efd2a30e1b61",m="# 1 Samuel 25:9 (New International Version)\nWhen David's men arrived, they gave Nabal this message in David's name. Then they waited.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

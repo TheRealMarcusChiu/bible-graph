@@ -1,0 +1,1 @@
+(function(){var b="ca43273bbeb2",m="# 2 Samuel 10:11 (New International Version)\nJoab said, \"If the Arameans are too strong for me, then you are to come to my rescue; but if the Ammonites are too strong for you, then I will come to rescue you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f6ff07ae4d33",m="# 1 Samuel 18:26 (New International Version)\nWhen the attendants told David these things, he was pleased to become the king's son-in-law. So before the allotted time elapsed,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

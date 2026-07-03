@@ -1,0 +1,1 @@
+(function(){var b="6d79bcead08d",m="# 1 Samuel 22:21 (New International Version)\nHe told David that Saul had killed the priests of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

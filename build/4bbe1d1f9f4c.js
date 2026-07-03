@@ -1,0 +1,1 @@
+(function(){var b="4bbe1d1f9f4c",m="# Judges 12:11 (New International Version)\nAfter him, Elon the Zebulunite led Israel ten years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

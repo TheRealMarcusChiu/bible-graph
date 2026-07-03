@@ -1,0 +1,1 @@
+(function(){var b="c61f3e5d2e59",m="# 1 Samuel 25:41 (New International Version)\nShe bowed down with her face to the ground and said, \"I am your servant and am ready to serve you and wash the feet of my lord's servants.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

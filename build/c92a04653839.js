@@ -1,0 +1,1 @@
+(function(){var b="c92a04653839",m="# 2 Samuel 16:20 (New International Version)\nAbsalom said to Ahithophel, \"Give us your advice. What should we do?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

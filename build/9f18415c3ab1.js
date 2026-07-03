@@ -1,0 +1,1 @@
+(function(){var b="9f18415c3ab1",m="# 1 Samuel 23:20 (New International Version)\nNow, Your Majesty, come down whenever it pleases you to do so, and we will be responsible for giving<sup>^A</sup> him into your hands.\"\n\n### Crossrefs\n- A: [[1Sam-23-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

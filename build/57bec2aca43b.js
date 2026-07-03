@@ -1,0 +1,1 @@
+(function(){var b="57bec2aca43b",m="# 1 Samuel 17:18 (New International Version)\nTake along these ten cheeses to the commander of their unit. See how your brothers<sup>^A</sup> are and bring back some assurance from them. \n\n### Crossrefs\n- A: [[Gen-37-14|Ge 37:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

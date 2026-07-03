@@ -1,0 +1,1 @@
+(function(){var b="b41d97fd6a8e",m="# 1 Samuel 24:13 (New International Version)\nAs the old saying goes, 'From evildoers come evil deeds,<sup>^A</sup>' so my hand will not touch you.\n\n### Crossrefs\n- A: [[Matt-7-20|Mt 7:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

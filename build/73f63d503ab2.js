@@ -1,0 +1,1 @@
+(function(){var b="73f63d503ab2",m="# 1 Samuel 17:41 (New International Version)\nMeanwhile, the Philistine, with his shield bearer<sup>^A</sup> in front of him, kept coming closer to David. \n\n### Crossrefs\n- A: [[1Sam-17-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

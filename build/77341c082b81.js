@@ -1,0 +1,1 @@
+(function(){var b="77341c082b81",m="# 1 Samuel 16:22 (New International Version)\nThen Saul sent word to Jesse, saying, \"Allow David to remain in my service, for I am pleased with him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

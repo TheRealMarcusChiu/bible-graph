@@ -1,0 +1,1 @@
+(function(){var b="bc454f8bd2bd",m="# 2 Samuel 1:14 (New International Version)\nDavid asked him, \"Why weren't you afraid to lift your hand to destroy the LORD's anointed?<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[1Sam-12-3|1Sa 12:3]]; S [[1Sam-26-9|26:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

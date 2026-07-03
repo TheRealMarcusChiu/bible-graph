@@ -1,0 +1,1 @@
+(function(){var b="79a814a83814",m="# 2 Samuel 15:33 (New International Version)\nDavid said to him, \"If you go with me, you will be a burden<sup>^A</sup> to me. \n\n### Crossrefs\n- A: [[2Sam-19-35|2Sa 19:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7d6d2eee6103",m="# Judges 15:17 (New International Version)\nWhen he finished speaking, he threw away the jawbone; and the place was called Ramath Lehi.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-15-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

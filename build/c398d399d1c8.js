@@ -1,0 +1,1 @@
+(function(){var b="c398d399d1c8",m="# 2 Samuel 14:10 (New International Version)\nThe king replied, \"If anyone says anything to you, bring them to me, and they will not bother you again.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

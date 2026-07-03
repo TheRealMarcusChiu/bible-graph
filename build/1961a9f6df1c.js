@@ -1,0 +1,1 @@
+(function(){var b="1961a9f6df1c",m="# 1 Samuel 25:12 (New International Version)\nDavid's men turned around and went back. When they arrived, they reported every word.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

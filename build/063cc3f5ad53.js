@@ -1,0 +1,1 @@
+(function(){var b="063cc3f5ad53",m="# 1 Samuel 23:8 (New International Version)\nAnd Saul called up all his forces for battle, to go down to Keilah to besiege David and his men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

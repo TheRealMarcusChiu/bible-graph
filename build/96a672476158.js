@@ -1,0 +1,1 @@
+(function(){var b="96a672476158",m="# 1 Samuel 24:5 (New International Version)\nAfterward, David was conscience-stricken<sup>^A</sup> for having cut off a corner of his robe. \n\n### Crossrefs\n- A: [[1Sam-26-9|1Sa 26:9]]; [[2Sam-24-10|2Sa 24:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

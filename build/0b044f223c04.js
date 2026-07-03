@@ -1,0 +1,1 @@
+(function(){var b="0b044f223c04",m="# 1 Samuel 30:5 (New International Version)\nDavid's two wives<sup>^A</sup> had been captured--Ahinoam of Jezreel and Abigail, the widow of Nabal of Carmel. \n\n### Crossrefs\n- A: S [[1Sam-25-43|1Sa 25:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

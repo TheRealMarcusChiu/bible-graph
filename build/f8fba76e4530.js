@@ -1,0 +1,1 @@
+(function(){var b="f8fba76e4530",m="# 1 Samuel 20:38 (New International Version)\nThen he shouted, \"Hurry! Go quickly! Don't stop!\" The boy picked up the arrow and returned to his master.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1d045063b4ef",m="# 2 Samuel 3:23 (New International Version)\nWhen Joab and all the soldiers with him arrived, he was told that Abner son of Ner had come to the king and that the king had sent him away and that he had gone in peace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9f770d732c5f",m="# 1 Samuel 19:16 (New International Version)\nBut when the men entered, there was the idol in the bed, and at the head was some goats' hair.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

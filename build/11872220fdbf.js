@@ -1,0 +1,1 @@
+(function(){var b="11872220fdbf",m="# Judges 19:28 (New International Version)\nHe said to her, \"Get up; let's go.\" But there was no answer. Then the man put her on his donkey and set out for home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

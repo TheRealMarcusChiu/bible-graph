@@ -1,0 +1,1 @@
+(function(){var b="fbe4837c8f32",m="# 1 Samuel 25:40 (New International Version)\nHis servants went to Carmel and said to Abigail, \"David has sent us to you to take you to become his wife.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

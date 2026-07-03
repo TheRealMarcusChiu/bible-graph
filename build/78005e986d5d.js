@@ -1,0 +1,1 @@
+(function(){var b="78005e986d5d",m="# Judges 15:7 (New International Version)\nSamson said to them, \"Since you've acted like this, I swear that I won't stop until I get my revenge on you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

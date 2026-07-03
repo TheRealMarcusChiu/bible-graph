@@ -1,0 +1,1 @@
+(function(){var b="f3ddfc963940",m="# 1 Samuel 25:24 (New International Version)\nShe fell at his feet and said: \"Pardon your servant, my lord,<sup>^A</sup> and let me speak to you; hear what your servant has to say. \n\n### Crossrefs\n- A: [[2Sam-14-9|2Sa 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

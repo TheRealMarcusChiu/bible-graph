@@ -1,0 +1,1 @@
+(function(){var b="039bf1bb4925",m="# 1 Samuel 26:13 (New International Version)\nThen David crossed over to the other side and stood on top of the hill some distance away; there was a wide space between them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

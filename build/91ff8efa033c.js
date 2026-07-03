@@ -1,0 +1,1 @@
+(function(){var b="91ff8efa033c",m="# 1 Samuel 14:13 (New International Version)\nJonathan climbed up, using his hands and feet, with his armor-bearer right behind him. The Philistines fell before Jonathan, and his armor-bearer followed and killed behind him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

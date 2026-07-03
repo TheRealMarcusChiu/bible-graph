@@ -1,0 +1,1 @@
+(function(){var b="c0042e1844ed",m="# 1 Samuel 19:22 (New International Version)\nFinally, he himself left for Ramah and went to the great cistern at Seku. And he asked, \"Where are Samuel and David?\"\n\"Over in Naioth at Ramah,\" they said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

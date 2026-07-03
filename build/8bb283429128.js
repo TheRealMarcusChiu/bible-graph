@@ -1,0 +1,1 @@
+(function(){var b="8bb283429128",m="# 2 Samuel 11:17 (New International Version)\nWhen the men of the city came out and fought against Joab, some of the men in David's army fell; moreover, Uriah the Hittite died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

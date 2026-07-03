@@ -1,0 +1,1 @@
+(function(){var b="e270c8bedf39",m="# Judges 17:1 (New International Version)\nMicah's Idols\nNow a man named Micah<sup>^A</sup> from the hill country of Ephraim \n\n### Crossrefs\n- A: [[Judg-18-2|Jdg 18:2]], [[Judg-18-13|13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

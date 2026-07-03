@@ -1,0 +1,1 @@
+(function(){var b="4cff687fd5f5",m="# 2 Samuel 11:13 (New International Version)\nAt David's invitation, he ate and drank with him, and David made him drunk. But in the evening Uriah went out to sleep on his mat among his master's servants; he did not go home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

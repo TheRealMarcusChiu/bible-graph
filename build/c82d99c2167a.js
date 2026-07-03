@@ -1,0 +1,1 @@
+(function(){var b="c82d99c2167a",m="# Judges 14:11 (New International Version)\nWhen the people saw him, they chose thirty men to be his companions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

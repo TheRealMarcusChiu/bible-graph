@@ -1,0 +1,1 @@
+(function(){var b="52d0d0072adc",m="# 2 Samuel 13:29 (New International Version)\nSo Absalom's men did to Amnon what Absalom had ordered. Then all the king's sons got up, mounted their mules and fled.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

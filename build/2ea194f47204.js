@@ -1,0 +1,1 @@
+(function(){var b="2ea194f47204",m="# 1 Samuel 20:34 (New International Version)\nJonathan got up from the table in fierce anger; on that second day of the feast he did not eat, because he was grieved at his father's shameful treatment of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

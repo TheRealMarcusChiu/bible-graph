@@ -1,0 +1,1 @@
+(function(){var b="9474922fd5b8",m="# 2 Samuel 13:37 (New International Version)\nAbsalom fled and went to Talmai<sup>^A</sup> son of Ammihud, the king of Geshur. But King David mourned many days for his son.\n\n### Crossrefs\n- A: S [[2Sam-3-3|2Sa 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="04ecb989989b",m="# 1 Samuel 19:13 (New International Version)\nThen Michal took an idol<sup>^A</sup> and laid it on the bed, covering it with a garment and putting some goats' hair at the head.\n\n### Crossrefs\n- A: S [[Gen-31-19|Ge 31:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

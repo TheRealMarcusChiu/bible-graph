@@ -1,0 +1,1 @@
+(function(){var b="f8a8a97d2b4f",m="# 2 Samuel 16:7 (New International Version)\nAs he cursed, Shimei said, \"Get out, get out, you murderer, you scoundrel!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

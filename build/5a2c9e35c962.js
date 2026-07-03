@@ -1,0 +1,1 @@
+(function(){var b="5a2c9e35c962",m="# 2 Samuel 17:3 (New International Version)\nand bring all the people back to you. The death of the man you seek will mean the return of all; all the people will be unharmed.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

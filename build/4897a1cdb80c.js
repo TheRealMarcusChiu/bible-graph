@@ -1,0 +1,1 @@
+(function(){var b="4897a1cdb80c",m="# 1 Samuel 25:33 (New International Version)\nMay you be blessed for your good judgment and for keeping me from bloodshed<sup>^A</sup> this day and from avenging myself with my own hands. \n\n### Crossrefs\n- A: [[1Sam-25-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

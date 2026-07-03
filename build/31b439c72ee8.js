@@ -1,0 +1,1 @@
+(function(){var b="31b439c72ee8",m="# 1 Samuel 14:26 (New International Version)\nWhen they went into the woods, they saw the honey oozing out; yet no one put his hand to his mouth, because they feared the oath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

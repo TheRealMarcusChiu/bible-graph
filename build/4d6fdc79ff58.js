@@ -1,0 +1,1 @@
+(function(){var b="4d6fdc79ff58",m="# 1 Samuel 17:38 (New International Version)\nThen Saul dressed David in his own<sup>^A</sup> tunic. He put a coat of armor on him and a bronze helmet on his head. \n\n### Crossrefs\n- A: S [[Gen-41-42|Ge 41:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

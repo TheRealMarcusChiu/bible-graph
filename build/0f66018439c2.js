@@ -1,0 +1,1 @@
+(function(){var b="0f66018439c2",m="# 1 Samuel 3:5 (New International Version)\nAnd he ran to Eli and said, \"Here I am; you called me.\"\nBut Eli said, \"I did not call; go back and lie down.\" So he went and lay down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

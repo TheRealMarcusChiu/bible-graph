@@ -1,0 +1,1 @@
+(function(){var b="a0ee8e575f0f",m="# 2 Samuel 5:23 (New International Version)\nso David inquired of the LORD, and he answered, \"Do not go straight up, but circle around behind them and attack them in front of the poplar trees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="276f9d191699",m="# 1 Samuel 4:11 (New International Version)\nThe ark of God was captured, and Eli's two sons, Hophni and Phinehas, died.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-78-64|Ps 78:64]]; [[Jer-7-12|Jer 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

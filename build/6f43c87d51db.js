@@ -1,0 +1,1 @@
+(function(){var b="6f43c87d51db",m="# Judges 16:16 (New International Version)\nWith such nagging she prodded him day after day until he was sick to death of it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

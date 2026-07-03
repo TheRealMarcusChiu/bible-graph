@@ -1,0 +1,1 @@
+(function(){var b="76da8e9b5f40",m="# 2 Samuel 7:21 (New International Version)\nFor the sake of your word and according to your will, you have done this great thing and made it known to your servant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

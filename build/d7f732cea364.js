@@ -1,0 +1,1 @@
+(function(){var b="d7f732cea364",m="# 2 Samuel 14:24 (New International Version)\nBut the king said, \"He must go to his own house; he must not see my face.\" So Absalom went to his own house and did not see the face of the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

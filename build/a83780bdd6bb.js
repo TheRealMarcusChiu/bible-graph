@@ -1,0 +1,1 @@
+(function(){var b="a83780bdd6bb",m="# 1 Samuel 1:27 (New International Version)\nI prayed<sup>^A</sup> for this child, and the LORD has granted me what I asked of him. \n\n### Crossrefs\n- A: [[1Sam-2-20|1Sa 2:20]]; [[Ps-66-19|Ps 66:19-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

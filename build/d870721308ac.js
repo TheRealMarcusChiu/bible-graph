@@ -1,0 +1,1 @@
+(function(){var b="d870721308ac",m="# 2 Samuel 1:3 (New International Version)\n\"Where have you come from?\" David asked him.\nHe answered, \"I have escaped from the Israelite camp.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

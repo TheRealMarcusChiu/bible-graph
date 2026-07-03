@@ -1,0 +1,1 @@
+(function(){var b="a46759e4881d",m="# 1 Samuel 26:15 (New International Version)\nDavid said, \"You're a man, aren't you? And who is like you in Israel? Why didn't you guard your lord the king? Someone came to destroy your lord the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

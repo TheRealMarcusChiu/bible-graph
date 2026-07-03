@@ -1,0 +1,1 @@
+(function(){var b="d6407c10f66d",m="# 1 Samuel 26:22 (New International Version)\n\"Here is the king's spear,\" David answered. \"Let one of your young men come over and get it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

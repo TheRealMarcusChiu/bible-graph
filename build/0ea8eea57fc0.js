@@ -1,0 +1,1 @@
+(function(){var b="0ea8eea57fc0",m="# Judges 20:37 (New International Version)\nThose who had been in ambush made a sudden dash into Gibeah, spread out and put the whole city to the sword.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Josh-8-19|Jos 8:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

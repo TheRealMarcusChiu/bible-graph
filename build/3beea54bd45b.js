@@ -1,0 +1,1 @@
+(function(){var b="3beea54bd45b",m="# Judges 17:13 (New International Version)\nAnd Micah said, \"Now I know that the LORD will be good to me, since this Levite has become my priest.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-18-7|Nu 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

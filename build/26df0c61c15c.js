@@ -1,0 +1,1 @@
+(function(){var b="26df0c61c15c",m="# 1 Samuel 30:2 (New International Version)\nand had taken captive the women and everyone else in it, both young and old. They killed none of them, but carried them off as they went on their way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

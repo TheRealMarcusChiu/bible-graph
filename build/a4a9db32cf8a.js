@@ -1,0 +1,1 @@
+(function(){var b="a4a9db32cf8a",m="# 1 Samuel 25:37 (New International Version)\nThen in the morning, when Nabal was sober, his wife told him all these things, and his heart failed him and he became like a stone.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Exod-15-16|Ex 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

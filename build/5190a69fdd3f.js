@@ -1,0 +1,1 @@
+(function(){var b="5190a69fdd3f",m="# 1 Samuel 14:35 (New International Version)\nThen Saul built an altar<sup>^A</sup> to the LORD; it was the first time he had done this.\n\n### Crossrefs\n- A: S [[1Sam-7-17|1Sa 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

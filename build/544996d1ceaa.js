@@ -1,0 +1,1 @@
+(function(){var b="544996d1ceaa",m="# Judges 19:7 (New International Version)\nAnd when the man got up to go, his father-in-law persuaded him, so he stayed there that night.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

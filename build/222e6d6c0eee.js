@@ -1,0 +1,1 @@
+(function(){var b="222e6d6c0eee",m="# 2 Samuel 6:23 (New International Version)\nAnd Michal daughter of Saul had no children to the day of her death.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

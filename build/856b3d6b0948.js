@@ -1,0 +1,1 @@
+(function(){var b="856b3d6b0948",m="# 1 Samuel 10:13 (New International Version)\nAfter Saul stopped prophesying,<sup>^A</sup> he went to the high place.\n\n### Crossrefs\n- A: [[1Sam-19-23|1Sa 19:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

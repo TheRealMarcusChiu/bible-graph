@@ -1,0 +1,1 @@
+(function(){var b="a4fcd18f260e",m="# 1 Samuel 20:25 (New International Version)\nHe sat in his customary place by the wall, opposite Jonathan, and Abner sat next to Saul, but David's place was empty.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Sam-20-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e6b2c8240461",m="# 1 Samuel 19:23 (New International Version)\nSo Saul went to Naioth at Ramah. But the Spirit of God came even on him, and he walked along prophesying<sup>^A</sup> until he came to Naioth. \n\n### Crossrefs\n- A: [[1Sam-10-13|1Sa 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

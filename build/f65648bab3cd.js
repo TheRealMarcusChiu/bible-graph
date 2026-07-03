@@ -1,0 +1,1 @@
+(function(){var b="f65648bab3cd",m="# 1 Samuel 6:10 (New International Version)\nSo they did this. They took two such cows and hitched them to the cart and penned up their calves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

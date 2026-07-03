@@ -1,0 +1,1 @@
+(function(){var b="a1516f2cc55a",m="# 2 Samuel 17:7 (New International Version)\nHushai replied to Absalom, \"The advice Ahithophel has given is not good this time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

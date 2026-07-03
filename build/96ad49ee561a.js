@@ -1,0 +1,1 @@
+(function(){var b="96ad49ee561a",m="# Judges 16:26 (New International Version)\nSamson said to the servant who held his hand, \"Put me where I can feel the pillars that support the temple, so that I may lean against them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

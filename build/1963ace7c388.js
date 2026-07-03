@@ -1,0 +1,1 @@
+(function(){var b="1963ace7c388",m="# 2 Samuel 17:19 (New International Version)\nHis wife took a covering and spread it out over the opening of the well and scattered grain over it. No one knew anything about it.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-2-6|Jos 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

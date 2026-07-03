@@ -1,0 +1,1 @@
+(function(){var b="6d66047a4788",m="# 1 Samuel 17:48 (New International Version)\nAs the Philistine moved closer to attack him, David ran quickly toward the battle line to meet him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

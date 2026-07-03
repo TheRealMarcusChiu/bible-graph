@@ -1,0 +1,1 @@
+(function(){var b="49b4107c2210",m="# Ruth 4:8 (New International Version)\nSo the guardian-redeemer said to Boaz, \"Buy it yourself.\" And he removed his sandal.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-25-9|Dt 25:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

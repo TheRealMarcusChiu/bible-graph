@@ -1,0 +1,1 @@
+(function(){var b="b1332c436387",m="# 2 Samuel 12:26 (New International Version)\nMeanwhile Joab fought against Rabbah<sup>^A</sup> of the Ammonites and captured the royal citadel. \n\n### Crossrefs\n- A: S [[Deut-3-11|Dt 3:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

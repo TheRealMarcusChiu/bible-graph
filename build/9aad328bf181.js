@@ -1,0 +1,1 @@
+(function(){var b="9aad328bf181",m="# 1 Samuel 17:14 (New International Version)\nDavid was the youngest. The three oldest followed Saul,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

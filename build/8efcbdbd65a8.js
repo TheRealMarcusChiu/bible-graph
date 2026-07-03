@@ -1,0 +1,1 @@
+(function(){var b="8efcbdbd65a8",m="# 1 Samuel 4:15 (New International Version)\nwho was ninety-eight years old and whose eyes<sup>^A</sup> had failed so that he could not see. \n\n### Crossrefs\n- A: S [[1Sam-3-2|1Sa 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="88100b93a048",m="# 1 Samuel 22:16 (New International Version)\nBut the king said, \"You will surely die, Ahimelek, you and your whole family.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[1Sam-2-31|1Sa 2:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="05e506b50163",m="# Judges 12:12 (New International Version)\nThen Elon died and was buried in Aijalon<sup>^A</sup> in the land of Zebulun.\n\n### Crossrefs\n- A: S [[Josh-10-12|Jos 10:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

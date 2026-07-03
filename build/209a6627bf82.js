@@ -1,0 +1,1 @@
+(function(){var b="209a6627bf82",m="# Judges 20:46 (New International Version)\nOn that day twenty-five thousand Benjamite<sup>^A</sup> swordsmen fell, all of them valiant fighters. \n\n### Crossrefs\n- A: [[1Sam-9-21|1Sa 9:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

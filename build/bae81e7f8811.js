@@ -1,0 +1,1 @@
+(function(){var b="bae81e7f8811",m="# Ruth 1:7 (New International Version)\nWith her two daughters-in-law she left the place where she had been living and set out on the road that would take them back to the land of Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

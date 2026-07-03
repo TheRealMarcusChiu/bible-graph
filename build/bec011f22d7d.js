@@ -1,0 +1,1 @@
+(function(){var b="bec011f22d7d",m="# 1 Samuel 18:28 (New International Version)\nWhen Saul realized that the LORD was with David and that his daughter Michal<sup>^A</sup> loved David, \n\n### Crossrefs\n- A: S [[1Sam-18-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

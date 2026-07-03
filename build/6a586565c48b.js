@@ -1,0 +1,1 @@
+(function(){var b="6a586565c48b",m="# 2 Samuel 13:15 (New International Version)\nThen Amnon hated her with intense hatred. In fact, he hated her more than he had loved her. Amnon said to her, \"Get up and get out!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

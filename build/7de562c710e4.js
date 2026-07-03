@@ -1,0 +1,1 @@
+(function(){var b="7de562c710e4",m="# Judges 13:9 (New International Version)\nGod heard Manoah, and the angel of God came again to the woman while she was out in the field; but her husband Manoah was not with her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

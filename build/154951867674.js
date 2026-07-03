@@ -1,0 +1,1 @@
+(function(){var b="154951867674",m="# Judges 20:21 (New International Version)\nThe Benjamites came out of Gibeah and cut down twenty-two thousand Israelites<sup>^A</sup> on the battlefield that day. \n\n### Crossrefs\n- A: [[Judg-20-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

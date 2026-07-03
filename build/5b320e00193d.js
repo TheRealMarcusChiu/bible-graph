@@ -1,0 +1,1 @@
+(function(){var b="5b320e00193d",m="# 1 Samuel 23:5 (New International Version)\nSo David and his men went to Keilah, fought the Philistines and carried off their livestock. He inflicted heavy losses on the Philistines and saved the people of Keilah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d6f63d2d5cb4",m="# 1 Samuel 14:40 (New International Version)\nSaul then said to all the Israelites, \"You stand over there; I and Jonathan my son will stand over here.\"\n\"Do what seems best to you,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

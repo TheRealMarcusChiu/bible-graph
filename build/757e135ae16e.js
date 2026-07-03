@@ -1,0 +1,1 @@
+(function(){var b="757e135ae16e",m="# Judges 18:20 (New International Version)\nThe priest was very pleased. He took the ephod, the household gods and the idol and went along with the people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

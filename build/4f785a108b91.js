@@ -1,0 +1,1 @@
+(function(){var b="4f785a108b91",m="# 1 Samuel 17:16 (New International Version)\nFor forty days the Philistine came forward every morning and evening and took his stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eddca602745f",m="# 1 Samuel 18:22 (New International Version)\nThen Saul ordered his attendants: \"Speak to David privately and say, 'Look, the king likes you, and his attendants all love you; now become his son-in-law.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

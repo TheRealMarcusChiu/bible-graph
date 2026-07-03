@@ -1,0 +1,1 @@
+(function(){var b="43884a3fc56f",m="# Judges 20:40 (New International Version)\nBut when the column of smoke began to rise from the city, the Benjamites turned and saw the whole city going up in smoke.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Josh-8-20|Jos 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

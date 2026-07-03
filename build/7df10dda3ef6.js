@@ -1,0 +1,1 @@
+(function(){var b="7df10dda3ef6",m="# 1 Samuel 24:22 (New International Version)\nSo David gave his oath to Saul. Then Saul returned home, but David and his men went up to the stronghold.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Sam-23-29|1Sa 23:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

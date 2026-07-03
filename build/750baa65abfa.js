@@ -1,0 +1,1 @@
+(function(){var b="750baa65abfa",m="# 1 Samuel 15:21 (New International Version)\nThe soldiers took sheep and cattle from the plunder, the best of what was devoted to God, in order to sacrifice them to the LORD your God at Gilgal.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

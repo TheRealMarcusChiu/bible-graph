@@ -1,0 +1,1 @@
+(function(){var b="6a6e1bb053e3",m="# Ruth 1:18 (New International Version)\nWhen Naomi realized that Ruth was determined to go with her, she stopped urging her.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Acts-21-14|Ac 21:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

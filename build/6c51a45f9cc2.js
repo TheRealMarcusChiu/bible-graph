@@ -1,0 +1,1 @@
+(function(){var b="6c51a45f9cc2",m="# 1 Samuel 31:6 (New International Version)\nSo Saul and his three sons and his armor-bearer and all his men died<sup>^A</sup> together that same day.\n\n### Crossrefs\n- A: S [[1Sam-26-10|1Sa 26:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7c8d751bac0a",m="# 2 Samuel 5:22 (New International Version)\nOnce more the Philistines came up and spread out in the Valley of Rephaim;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

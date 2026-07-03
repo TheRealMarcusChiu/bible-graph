@@ -1,0 +1,1 @@
+(function(){var b="dccccdaaf94f",m="# 2 Samuel 16:6 (New International Version)\nHe pelted David and all the king's officials with stones, though all the troops and the special guard were on David's right and left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

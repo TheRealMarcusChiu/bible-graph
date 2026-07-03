@@ -1,0 +1,1 @@
+(function(){var b="88feac497b19",m="# 1 Samuel 9:10 (New International Version)\n\"Good,\" Saul said to his servant. \"Come, let's go.\" So they set out for the town where the man of God was.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

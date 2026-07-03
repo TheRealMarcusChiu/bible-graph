@@ -1,0 +1,1 @@
+(function(){var b="2516ec57fbe1",m="# Judges 20:17 (New International Version)\nIsrael, apart from Benjamin, mustered four hundred thousand swordsmen, all of them fit for battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="db7e5fe56a30",m="# 1 Samuel 20:27 (New International Version)\nBut the next day, the second day of the month, David's place was empty again. Then Saul said to his son Jonathan, \"Why hasn't the son of Jesse come to the meal, either yesterday or today?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

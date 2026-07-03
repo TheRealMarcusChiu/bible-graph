@@ -1,0 +1,1 @@
+(function(){var b="0ddb9181f8aa",m="# 1 Samuel 17:21 (New International Version)\nIsrael and the Philistines were drawing up their lines facing each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

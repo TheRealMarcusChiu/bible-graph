@@ -1,0 +1,1 @@
+(function(){var b="206a4fdc25c4",m="# 2 Samuel 15:7 (New International Version)\nAt the end of four years, Absalom said to the king, \"Let me go to Hebron and fulfill a vow I made to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

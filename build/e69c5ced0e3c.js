@@ -1,0 +1,1 @@
+(function(){var b="e69c5ced0e3c",m="# 1 Samuel 17:22 (New International Version)\nDavid left his things with the keeper of supplies,<sup>^A</sup> ran to the battle lines and asked his brothers how they were. \n\n### Crossrefs\n- A: S [[Josh-1-11|Jos 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

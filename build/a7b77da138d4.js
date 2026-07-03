@@ -1,0 +1,1 @@
+(function(){var b="a7b77da138d4",m="# 1 Samuel 23:3 (New International Version)\nBut David's men said to him, \"Here in Judah we are afraid. How much more, then, if we go to Keilah against the Philistine forces!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

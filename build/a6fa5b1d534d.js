@@ -1,0 +1,1 @@
+(function(){var b="a6fa5b1d534d",m="# 1 Samuel 4:5 (New International Version)\nWhen the ark of the LORD's covenant came into the camp, all Israel raised such a great shout<sup>^A</sup> that the ground shook. \n\n### Crossrefs\n- A: S [[Josh-6-5|Jos 6:5]], [[Josh-6-10|10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

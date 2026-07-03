@@ -1,0 +1,1 @@
+(function(){var b="787aae505e63",m="# 1 Samuel 18:2 (New International Version)\nFrom that day Saul kept David with him and did not let him return home to his family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

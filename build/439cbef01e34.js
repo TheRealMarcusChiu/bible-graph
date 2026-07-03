@@ -1,0 +1,1 @@
+(function(){var b="439cbef01e34",m="# 1 Samuel 17:3 (New International Version)\nThe Philistines occupied one hill and the Israelites another, with the valley between them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

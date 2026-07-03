@@ -1,0 +1,1 @@
+(function(){var b="96827b3067b6",m="# Judges 20:43 (New International Version)\nThey surrounded the Benjamites, chased them and easily overran them in the vicinity of Gibeah on the east.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

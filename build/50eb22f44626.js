@@ -1,0 +1,1 @@
+(function(){var b="50eb22f44626",m="# 2 Samuel 11:19 (New International Version)\nHe instructed the messenger: \"When you have finished giving the king this account of the battle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a83b062ab23e",m="# 1 Samuel 19:3 (New International Version)\nI will go out and stand with my father in the field where you are. I'll speak<sup>^A</sup> to him about you and will tell you what I find out.\"\n\n### Crossrefs\n- A: [[1Sam-20-12|1Sa 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

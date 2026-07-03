@@ -1,0 +1,1 @@
+(function(){var b="724d2284d79f",m="# 2 Samuel 5:12 (New International Version)\nThen David knew that the LORD had established him as king over Israel and had exalted his kingdom<sup>^A</sup> for the sake of his people Israel.\n\n### Crossrefs\n- A: S [[Num-24-7|Nu 24:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

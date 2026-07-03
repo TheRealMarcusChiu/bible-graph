@@ -1,0 +1,1 @@
+(function(){var b="59f2a5b0233c",m="# 2 Samuel 6:9 (New International Version)\nDavid was afraid of the LORD that day and said, \"How<sup>^A</sup> can the ark of the LORD ever come to me?\" \n\n### Crossrefs\n- A: S [[1Sam-6-20|1Sa 6:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

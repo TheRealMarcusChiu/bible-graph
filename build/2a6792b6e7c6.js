@@ -1,0 +1,1 @@
+(function(){var b="2a6792b6e7c6",m="# 1 Samuel 12:4 (New International Version)\n\"You have not cheated or oppressed us,\" they replied. \"You have not taken anything from anyone's hand.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

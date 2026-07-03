@@ -1,0 +1,1 @@
+(function(){var b="3a45df7ab357",m="# Judges 20:11 (New International Version)\nSo all the Israelites got together and united as one against the city.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-20-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

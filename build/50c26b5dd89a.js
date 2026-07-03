@@ -1,0 +1,1 @@
+(function(){var b="50c26b5dd89a",m="# 2 Samuel 13:10 (New International Version)\nThen Amnon said to Tamar, \"Bring the food here into my bedroom so I may eat from your hand.\" And Tamar took the bread she had prepared and brought it to her brother Amnon in his bedroom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

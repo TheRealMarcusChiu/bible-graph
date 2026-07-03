@@ -1,0 +1,1 @@
+(function(){var b="ef5436013272",m="# Judges 21:25 (New International Version)\nIn those days Israel had no king; everyone did as they saw fit.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-12-8|Dt 12:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

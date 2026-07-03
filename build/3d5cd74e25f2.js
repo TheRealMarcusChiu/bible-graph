@@ -1,0 +1,1 @@
+(function(){var b="3d5cd74e25f2",m="# 1 Samuel 15:19 (New International Version)\nWhy did you not obey the LORD? Why did you pounce on the plunder<sup>^A</sup> and do evil in the eyes of the LORD?\"\n\n### Crossrefs\n- A: S [[Gen-14-23|Ge 14:23]]; S [[1Sam-14-32|1Sa 14:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

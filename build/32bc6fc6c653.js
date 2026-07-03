@@ -1,0 +1,1 @@
+(function(){var b="32bc6fc6c653",m="# 2 Samuel 14:28 (New International Version)\nAbsalom lived two years in Jerusalem without seeing the king's face.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

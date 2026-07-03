@@ -1,0 +1,1 @@
+(function(){var b="ce179e513d8b",m="# 2 Samuel 12:15 (New International Version)\nAfter Nathan had gone home, the LORD struck<sup>^A</sup> the child that Uriah's wife had borne to David, and he became ill. \n\n### Crossrefs\n- A: S [[1Sam-25-38|1Sa 25:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

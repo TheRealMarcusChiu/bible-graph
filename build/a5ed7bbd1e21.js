@@ -1,0 +1,1 @@
+(function(){var b="a5ed7bbd1e21",m="# Judges 13:17 (New International Version)\nThen Manoah inquired of the angel of the LORD, \"What is your name,<sup>^A</sup> so that we may honor you when your word comes true?\"\n\n### Crossrefs\n- A: S [[Gen-32-29|Ge 32:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

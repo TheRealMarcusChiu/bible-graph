@@ -1,0 +1,1 @@
+(function(){var b="cd18f2eb8d2f",m="# 2 Samuel 3:32 (New International Version)\nThey buried Abner in Hebron, and the king wept<sup>^A</sup> aloud at Abner's tomb. All the people wept also.\n\n### Crossrefs\n- A: S [[Num-14-1|Nu 14:1]]; [[Prov-24-17|Pr 24:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

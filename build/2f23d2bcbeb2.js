@@ -1,0 +1,1 @@
+(function(){var b="2f23d2bcbeb2",m="# 2 Samuel 14:6 (New International Version)\nI your servant had two sons. They got into a fight with each other in the field, and no one was there to separate them. One struck the other and killed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

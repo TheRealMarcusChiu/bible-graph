@@ -1,0 +1,1 @@
+(function(){var b="6e22e2cae27c",m="# 1 Samuel 26:4 (New International Version)\nhe sent out scouts and learned that Saul had definitely arrived.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

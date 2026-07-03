@@ -1,0 +1,1 @@
+(function(){var b="60bdb3b1491f",m="# 1 Samuel 3:18 (New International Version)\nSo Samuel told him everything, hiding nothing from him. Then Eli said, \"He is the LORD; let him do what is good in his eyes.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-10-15|Jdg 10:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

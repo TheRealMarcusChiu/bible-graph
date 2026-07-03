@@ -1,0 +1,1 @@
+(function(){var b="7f1202ffd20f",m="# Judges 18:4 (New International Version)\nHe told them what Micah had done for him, and said, \"He has hired me and I am his priest.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Judg-17-12|Jdg 17:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

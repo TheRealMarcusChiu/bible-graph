@@ -1,0 +1,1 @@
+(function(){var b="25103de10398",m="# 1 Samuel 30:29 (New International Version)\nand Rakal; to those in the towns of the Jerahmeelites<sup>^A</sup> and the Kenites;<sup>^B</sup> \n\n### Crossrefs\n- A: [[1Sam-27-10|1Sa 27:10]]\n- B: S [[1Sam-15-6|1Sa 15:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

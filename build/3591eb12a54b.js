@@ -1,0 +1,1 @@
+(function(){var b="3591eb12a54b",m="# 1 Samuel 8:17 (New International Version)\nHe will take a tenth of your flocks, and you yourselves will become his slaves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

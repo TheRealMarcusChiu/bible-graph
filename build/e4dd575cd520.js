@@ -1,0 +1,1 @@
+(function(){var b="e4dd575cd520",m="# 1 Samuel 14:23 (New International Version)\nSo on that day the LORD saved<sup>^A</sup> Israel, and the battle moved on beyond Beth Aven.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-14-30|Ex 14:30]]\n- B: S [[Josh-7-2|Jos 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

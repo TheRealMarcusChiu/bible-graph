@@ -1,0 +1,1 @@
+(function(){var b="19d8076f4c89",m="# 1 Samuel 31:5 (New International Version)\nWhen the armor-bearer saw that Saul was dead, he too fell on his sword and died with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1005a8ed1cf5",m="# Judges 20:29 (New International Version)\nThen Israel set an ambush<sup>^A</sup> around Gibeah. \n\n### Crossrefs\n- A: S [[Josh-8-2|Jos 8:2]], [[Josh-8-4|4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

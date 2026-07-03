@@ -1,0 +1,1 @@
+(function(){var b="a2ab85aabf41",m="# Ruth 4:19 (New International Version)\nHezron the father of Ram,\nRam the father of Amminadab,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-6-23|Ex 6:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

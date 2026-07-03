@@ -1,0 +1,1 @@
+(function(){var b="84fb902b7d0d",m="# 1 Samuel 2:12 (New International Version)\nEli's Wicked Sons\nEli's sons were scoundrels; they had no regard<sup>^A</sup> for the LORD. \n\n### Crossrefs\n- A: [[Jer-2-8|Jer 2:8]]; [[Jer-9-6|9:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d31522834c5e",m="# 1 Samuel 4:9 (New International Version)\nBe strong, Philistines! Be men, or you will be subject to the Hebrews, as they<sup>^A</sup> have been to you. Be men, and fight!\"\n\n### Crossrefs\n- A: S [[Judg-13-1|Jdg 13:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

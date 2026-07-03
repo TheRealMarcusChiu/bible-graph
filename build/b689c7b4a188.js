@@ -1,0 +1,1 @@
+(function(){var b="b689c7b4a188",m="# 2 Samuel 2:31 (New International Version)\nBut David's men had killed three hundred and sixty Benjamites who were with Abner.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

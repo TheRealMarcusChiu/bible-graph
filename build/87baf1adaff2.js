@@ -1,0 +1,1 @@
+(function(){var b="87baf1adaff2",m="# 1 Samuel 21:15 (New International Version)\nAm I so short of madmen that you have to bring this fellow here to carry on like this in front of me? Must this man come into my house?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

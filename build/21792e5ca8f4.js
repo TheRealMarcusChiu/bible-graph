@@ -1,0 +1,1 @@
+(function(){var b="21792e5ca8f4",m="# 1 Samuel 28:25 (New International Version)\nThen she set it before Saul and his men, and they ate. That same night they got up and left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

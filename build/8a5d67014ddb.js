@@ -1,0 +1,1 @@
+(function(){var b="8a5d67014ddb",m="# Judges 20:9 (New International Version)\nBut now this is what we'll do to Gibeah: We'll go up against it in the order decided by casting lots.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Lev-16-8|Lev 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

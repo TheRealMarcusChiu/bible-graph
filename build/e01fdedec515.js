@@ -1,0 +1,1 @@
+(function(){var b="e01fdedec515",m="# 1 Samuel 24:18 (New International Version)\nYou have just now told me about the good you did to me; the LORD delivered<sup>^A</sup> me into your hands, but you did not kill me. \n\n### Crossrefs\n- A: [[1Sam-26-23|1Sa 26:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

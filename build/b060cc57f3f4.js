@@ -1,0 +1,1 @@
+(function(){var b="b060cc57f3f4",m="# 2 Samuel 14:12 (New International Version)\nThen the woman said, \"Let your servant speak a word to my lord the king.\"\n\"Speak,\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

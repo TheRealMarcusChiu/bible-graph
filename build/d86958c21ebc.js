@@ -1,0 +1,1 @@
+(function(){var b="d86958c21ebc",m="# 1 Samuel 4:7 (New International Version)\nthe Philistines were afraid.<sup>^A</sup> \"A god has come into the camp,\" they said. \"Oh no! Nothing like this has happened before. \n\n### Crossrefs\n- A: S [[Exod-15-14|Ex 15:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

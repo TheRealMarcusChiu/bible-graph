@@ -1,0 +1,1 @@
+(function(){var b="07a6d3fa754d",m="# 1 Samuel 19:17 (New International Version)\nSaul said to Michal, \"Why did you deceive me like this and send my enemy away so that he escaped?\"\nMichal told him, \"He said to me, 'Let me get away. Why should I kill you?'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

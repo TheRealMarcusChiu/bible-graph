@@ -1,0 +1,1 @@
+(function(){var b="57bcfd65420e",m="# Judges 19:17 (New International Version)\nWhen he looked and saw the traveler in the city square, the old man asked, \"Where are you going? Where did you come from?\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-29-4|Ge 29:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

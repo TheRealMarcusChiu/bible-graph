@@ -1,0 +1,1 @@
+(function(){var b="cfb2417c93e5",m="# Judges 16:22 (New International Version)\nBut the hair on his head began to grow again after it had been shaved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

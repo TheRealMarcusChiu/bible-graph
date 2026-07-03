@@ -1,0 +1,1 @@
+(function(){var b="fd822d6ad5c1",m="# 1 Samuel 8:21 (New International Version)\nWhen Samuel heard all that the people said, he repeated<sup>^A</sup> it before the LORD. \n\n### Crossrefs\n- A: S [[Judg-11-11|Jdg 11:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7a36d2c645db",m="# 2 Samuel 1:27 (New International Version)\n\"How the mighty have fallen!  \n    The weapons of war have perished!\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-2-4|1Sa 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

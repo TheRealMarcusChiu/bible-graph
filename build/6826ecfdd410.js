@@ -1,0 +1,1 @@
+(function(){var b="6826ecfdd410",m="# Judges 21:10 (New International Version)\nSo the assembly sent twelve thousand fighting men with instructions to go to Jabesh Gilead and put to the sword those living there, including the women and children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d68d9f05bb79",m="# 1 Samuel 16:2 (New International Version)\nBut Samuel said, \"How can I go? If Saul hears about it, he will kill me.\"\nThe LORD said, \"Take a heifer with you and say, 'I have come to sacrifice to the LORD.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

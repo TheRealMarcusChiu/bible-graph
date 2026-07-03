@@ -1,0 +1,1 @@
+(function(){var b="848b66192f46",m="# Ruth 3:17 (New International Version)\nand added, \"He gave me these six measures of barley, saying, 'Don't go back to your mother-in-law empty-handed.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

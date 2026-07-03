@@ -1,0 +1,1 @@
+(function(){var b="d723c3352848",m="# 2 Samuel 2:30 (New International Version)\nThen Joab stopped pursuing Abner and assembled the whole army. Besides Asahel, nineteen of David's men were found missing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

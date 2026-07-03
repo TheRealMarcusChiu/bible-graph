@@ -1,0 +1,1 @@
+(function(){var b="40e4eb8dfaf0",m="# 1 Samuel 3:12 (New International Version)\nAt that time I will carry out against Eli everything<sup>^A</sup> I spoke against his family--from beginning to end. \n\n### Crossrefs\n- A: S [[1Sam-2-27|1Sa 2:27-36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

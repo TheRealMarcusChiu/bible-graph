@@ -1,0 +1,1 @@
+(function(){var b="c8d7ef98680f",m="# 2 Samuel 15:5 (New International Version)\nAlso, whenever anyone approached him to bow down before him, Absalom would reach out his hand, take hold of him and kiss him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

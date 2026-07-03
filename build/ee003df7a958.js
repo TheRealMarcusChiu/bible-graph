@@ -1,0 +1,1 @@
+(function(){var b="ee003df7a958",m="# 1 Samuel 26:11 (New International Version)\nBut the LORD forbid that I should lay a hand on the LORD's anointed. Now get the spear and water jug that are near his head, and let's go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

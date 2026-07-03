@@ -1,0 +1,1 @@
+(function(){var b="87d82692a50c",m="# Ruth 4:22 (New International Version)\nObed the father of Jesse,\nand Jesse the father of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

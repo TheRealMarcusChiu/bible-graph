@@ -1,0 +1,1 @@
+(function(){var b="22fbd58bf528",m="# 2 Samuel 15:22 (New International Version)\nDavid said to Ittai, \"Go ahead, march on.\" So Ittai the Gittite marched on with all his men and the families that were with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="512fb10e5059",m="# 1 Samuel 11:5 (New International Version)\nJust then Saul was returning from the fields, behind his oxen, and he asked, \"What is wrong with everyone? Why are they weeping?\" Then they repeated to him what the men of Jabesh had said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="47f76cb249c9",m="# Judges 13:12 (New International Version)\nSo Manoah asked him, \"When your words are fulfilled, what is to be the rule that governs the boy's life and work?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

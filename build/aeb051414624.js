@@ -1,0 +1,1 @@
+(function(){var b="aeb051414624",m="# Judges 14:20 (New International Version)\nAnd Samson's wife was given to one of his companions<sup>^A</sup> who had attended him at the feast.\n\n### Crossrefs\n- A: [[Judg-15-2|Jdg 15:2]], [[Judg-15-6|6]]; [[John-3-29|Jn 3:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4a78d0ae9398",m="# 2 Samuel 2:10 (New International Version)\nIsh-Bosheth son of Saul was forty years old when he became king over Israel, and he reigned two years. The tribe of Judah, however, remained loyal to David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

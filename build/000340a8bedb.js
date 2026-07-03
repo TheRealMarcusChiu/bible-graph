@@ -1,0 +1,1 @@
+(function(){var b="000340a8bedb",m="# 2 Samuel 5:18 (New International Version)\nNow the Philistines had come and spread out in the Valley of Rephaim;<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-15-8|Jos 15:8]]; S [[Josh-17-15|17:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

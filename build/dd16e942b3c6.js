@@ -1,0 +1,1 @@
+(function(){var b="dd16e942b3c6",m="# 2 Samuel 3:12 (New International Version)\nThen Abner sent messengers on his behalf to say to David, \"Whose land is it? Make an agreement with me, and I will help you bring all Israel over to you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

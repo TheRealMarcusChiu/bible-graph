@@ -1,0 +1,1 @@
+(function(){var b="3c5a04a04ae0",m="# Ruth 2:22 (New International Version)\nNaomi said to Ruth her daughter-in-law, \"It will be good for you, my daughter, to go with the women who work for him, because in someone else's field you might be harmed.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

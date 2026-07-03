@@ -1,0 +1,1 @@
+(function(){var b="a61dabeaaf77",m="# 2 Samuel 13:14 (New International Version)\nBut he refused to listen to her, and since he was stronger than she, he raped her.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-34-2|Ge 34:2]]; [[Ezek-22-11|Eze 22:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

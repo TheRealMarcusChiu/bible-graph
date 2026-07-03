@@ -1,0 +1,1 @@
+(function(){var b="2ca9a094afc8",m="# 1 Samuel 17:9 (New International Version)\nIf he is able to fight and kill me, we will become your subjects; but if I overcome him and kill him, you will become our subjects and serve us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1971cc9f5899",m="# 2 Samuel 1:25 (New International Version)\n\"How the mighty have fallen in battle!  \n    Jonathan lies slain on your heights.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

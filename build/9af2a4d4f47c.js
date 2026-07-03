@@ -1,0 +1,1 @@
+(function(){var b="9af2a4d4f47c",m="# 2 Samuel 3:11 (New International Version)\nIsh-Bosheth did not dare to say another word to Abner, because he was afraid of him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

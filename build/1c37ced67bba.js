@@ -1,0 +1,1 @@
+(function(){var b="1c37ced67bba",m="# 2 Samuel 9:9 (New International Version)\nThen the king summoned Ziba, Saul's steward, and said to him, \"I have given your master's grandson everything that belonged to Saul and his family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

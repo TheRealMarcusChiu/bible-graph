@@ -1,0 +1,1 @@
+(function(){var b="c21421f9b95c",m="# 1 Samuel 19:19 (New International Version)\nWord came to Saul: \"David is in Naioth at Ramah\";";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

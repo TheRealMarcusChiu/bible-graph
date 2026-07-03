@@ -1,0 +1,1 @@
+(function(){var b="49cb52f2f26d",m="# 2 Samuel 2:27 (New International Version)\nJoab answered, \"As surely as God lives, if you had not spoken, the men would have continued pursuing them until morning.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

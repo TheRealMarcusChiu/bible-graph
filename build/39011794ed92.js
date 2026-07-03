@@ -1,0 +1,1 @@
+(function(){var b="39011794ed92",m="# 1 Samuel 20:2 (New International Version)\n\"Never!\" Jonathan replied. \"You are not going to die! Look, my father doesn't do anything, great or small, without letting me know. Why would he hide this from me? It isn't so!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

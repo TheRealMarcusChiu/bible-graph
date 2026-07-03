@@ -1,0 +1,1 @@
+(function(){var b="10415d24b8a3",m="# Judges 13:21 (New International Version)\nWhen the angel of the LORD did not show himself again to Manoah and his wife, Manoah realized<sup>^A</sup> that it was the angel of the LORD.\n\n### Crossrefs\n- A: S [[Judg-6-22|Jdg 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="26ac3c8ff5ee",m="# 2 Samuel 1:4 (New International Version)\n\"What happened?\" David asked. \"Tell me.\"\n\"The men fled from the battle,\" he replied. \"Many of them fell and died. And Saul and his son Jonathan are dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

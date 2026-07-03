@@ -1,0 +1,1 @@
+(function(){var b="1a26eefc5a43",m="# 2 Samuel 12:2 (New International Version)\nThe rich man had a very large number of sheep and cattle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

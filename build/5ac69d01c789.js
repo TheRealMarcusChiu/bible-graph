@@ -1,0 +1,1 @@
+(function(){var b="5ac69d01c789",m="# Judges 20:8 (New International Version)\nAll the men rose up together as one, saying, \"None of us will go home. No, not one of us will return to his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7fe4e7b7233f",m="# 1 Samuel 23:12 (New International Version)\nAgain David asked, \"Will the citizens of Keilah surrender<sup>^A</sup> me and my men to Saul?\"\nAnd the LORD said, \"They will.\"\n\n### Crossrefs\n- A: [[1Sam-23-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

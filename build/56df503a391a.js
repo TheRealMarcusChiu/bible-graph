@@ -1,0 +1,1 @@
+(function(){var b="56df503a391a",m="# 1 Samuel 16:15 (New International Version)\nSaul's attendants said to him, \"See, an evil spirit from God is tormenting you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

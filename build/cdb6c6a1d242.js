@@ -1,0 +1,1 @@
+(function(){var b="cdb6c6a1d242",m="# 1 Samuel 30:25 (New International Version)\nDavid made this a statute and ordinance for Israel from that day to this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

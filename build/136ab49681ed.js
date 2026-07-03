@@ -1,0 +1,1 @@
+(function(){var b="136ab49681ed",m="# 1 Samuel 8:1 (New International Version)\nIsrael Asks for a King\nWhen Samuel grew old, he appointed<sup>^A</sup> his sons as Israel's leaders. \n\n### Crossrefs\n- A: [[Deut-16-18|Dt 16:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="953bf22c240f",m="# 2 Samuel 13:38 (New International Version)\nAfter Absalom fled and went to Geshur, he stayed there three years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

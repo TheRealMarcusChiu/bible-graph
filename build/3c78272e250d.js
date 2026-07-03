@@ -1,0 +1,1 @@
+(function(){var b="3c78272e250d",m="# 2 Samuel 1:18 (New International Version)\nand he ordered that the people of Judah be taught this lament of the bow (it is written in the Book of Jashar):<sup>^A</sup>\n\n### Crossrefs\n- A: [[Josh-10-13|Jos 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="631c9e4a2df7",m="# 1 Samuel 23:22 (New International Version)\nGo and get more information. Find out where David usually goes and who has seen him there. They tell me he is very crafty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

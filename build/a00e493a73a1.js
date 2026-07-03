@@ -1,0 +1,1 @@
+(function(){var b="a00e493a73a1",m="# 1 Samuel 10:12 (New International Version)\nA man who lived there answered, \"And who is their father?\" So it became a saying: \"Is Saul also among the prophets?\"<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Sam-10-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f551487ead23",m="# 1 Samuel 16:19 (New International Version)\nThen Saul sent messengers to Jesse and said, \"Send me your son David, who is with the sheep.<sup>^A</sup>\" \n\n### Crossrefs\n- A: [[1Sam-17-15|1Sa 17:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

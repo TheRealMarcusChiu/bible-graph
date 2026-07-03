@@ -1,0 +1,1 @@
+(function(){var b="914e881af941",m="# 1 Samuel 5:2 (New International Version)\nThen they carried the ark into Dagon's temple and set it beside Dagon.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Judg-16-23|Jdg 16:23]]; [[Isa-2-18|Isa 2:18]]; [[Isa-19-1|19:1]]; [[Isa-46-1|46:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="22621d48c944",m="# Judges 20:20 (New International Version)\nThe Israelites went out to fight the Benjamites and took up battle positions against them at Gibeah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

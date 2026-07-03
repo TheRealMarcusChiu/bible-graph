@@ -1,0 +1,1 @@
+(function(){var b="6f3e22184b54",m="# 1 Samuel 17:54 (New International Version)\nDavid took the Philistine's head and brought it to Jerusalem; he put the Philistine's weapons in his own tent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

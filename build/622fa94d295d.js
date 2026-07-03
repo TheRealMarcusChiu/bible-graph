@@ -1,0 +1,1 @@
+(function(){var b="622fa94d295d",m="# Judges 20:42 (New International Version)\nSo they fled before the Israelites in the direction of the wilderness, but they could not escape the battle. And the Israelites who came out of the towns cut them down there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

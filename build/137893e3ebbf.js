@@ -1,0 +1,1 @@
+(function(){var b="137893e3ebbf",m="# 1 Samuel 18:24 (New International Version)\nWhen Saul's servants told him what David had said,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="741416b1d3b4",m="# 1 Samuel 13:1 (New International Version)\nSamuel Rebukes Saul\nSaul was thirty years old when he became king, and he reigned over Israel forty- two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

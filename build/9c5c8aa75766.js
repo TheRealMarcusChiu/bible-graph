@@ -1,0 +1,1 @@
+(function(){var b="9c5c8aa75766",m="# 1 Samuel 5:7 (New International Version)\nWhen the people of Ashdod saw what was happening, they said, \"The ark of the god of Israel must not stay here with us, because his hand is heavy on us and on Dagon our god.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

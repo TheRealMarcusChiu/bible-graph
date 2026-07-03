@@ -1,0 +1,1 @@
+(function(){var b="be3cf18849bd",m="# Judges 15:3 (New International Version)\nSamson said to them, \"This time I have a right to get even with the Philistines; I will really harm them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

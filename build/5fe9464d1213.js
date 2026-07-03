@@ -1,0 +1,1 @@
+(function(){var b="5fe9464d1213",m="# 1 Samuel 17:2 (New International Version)\nSaul and the Israelites assembled and camped in the Valley of Elah<sup>^A</sup> and drew up their battle line to meet the Philistines. \n\n### Crossrefs\n- A: [[1Sam-21-9|1Sa 21:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e53c7607b56b",m="# 2 Samuel 14:29 (New International Version)\nThen Absalom sent for Joab in order to send him to the king, but Joab refused to come to him. So he sent a second time, but he refused to come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

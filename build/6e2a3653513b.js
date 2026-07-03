@@ -1,0 +1,1 @@
+(function(){var b="6e2a3653513b",m="# 1 Samuel 10:17 (New International Version)\nSamuel summoned the people of Israel to the LORD at Mizpah<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Sam-7-5|1Sa 7:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f347043a5bfe",m="# 1 Samuel 3:16 (New International Version)\nbut Eli called him and said, \"Samuel, my son.\"\nSamuel answered, \"Here I am.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

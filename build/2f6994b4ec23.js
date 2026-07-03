@@ -1,0 +1,1 @@
+(function(){var b="2f6994b4ec23",m="# 1 Samuel 6:16 (New International Version)\nThe five rulers of the Philistines saw all this and then returned that same day to Ekron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

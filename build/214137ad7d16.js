@@ -1,0 +1,1 @@
+(function(){var b="214137ad7d16",m="# 1 Samuel 23:11 (New International Version)\nWill the citizens of Keilah surrender me to him? Will Saul come down, as your servant has heard? LORD, God of Israel, tell your servant.\"\nAnd the LORD said, \"He will.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

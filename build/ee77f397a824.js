@@ -1,0 +1,1 @@
+(function(){var b="ee77f397a824",m="# 1 Samuel 20:23 (New International Version)\nAnd about the matter you and I discussed--remember, the LORD is witness<sup>^A</sup> between you and me forever.\"\n\n### Crossrefs\n- A: S [[Gen-31-50|Ge 31:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

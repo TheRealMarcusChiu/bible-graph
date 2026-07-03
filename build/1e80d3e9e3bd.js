@@ -1,0 +1,1 @@
+(function(){var b="1e80d3e9e3bd",m="# 1 Samuel 26:2 (New International Version)\nSo Saul went down to the Desert of Ziph, with his three thousand select Israelite troops, to search<sup>^A</sup> there for David. \n\n### Crossrefs\n- A: [[1Sam-24-2|1Sa 24:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

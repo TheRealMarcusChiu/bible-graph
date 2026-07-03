@@ -1,0 +1,1 @@
+(function(){var b="5cbd04ea483c",m="# 2 Samuel 13:26 (New International Version)\nThen Absalom said, \"If not, please let my brother Amnon come with us.\"\nThe king asked him, \"Why should he go with you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

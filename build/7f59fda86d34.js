@@ -1,0 +1,1 @@
+(function(){var b="7f59fda86d34",m="# 1 Samuel 9:23 (New International Version)\nSamuel said to the cook, \"Bring the piece of meat I gave you, the one I told you to lay aside.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

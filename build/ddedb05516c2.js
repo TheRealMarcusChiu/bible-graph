@@ -1,0 +1,1 @@
+(function(){var b="ddedb05516c2",m="# Judges 21:9 (New International Version)\nFor when they counted the people, they found that none of the people of Jabesh Gilead were there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

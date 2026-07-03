@@ -1,0 +1,1 @@
+(function(){var b="a32918cf13cf",m="# 1 Samuel 18:15 (New International Version)\nWhen Saul saw how successful he was, he was afraid of him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

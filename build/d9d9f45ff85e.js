@@ -1,0 +1,1 @@
+(function(){var b="d9d9f45ff85e",m="# 1 Samuel 20:9 (New International Version)\n\"Never!\" Jonathan said. \"If I had the least inkling that my father was determined to harm you, wouldn't I tell you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

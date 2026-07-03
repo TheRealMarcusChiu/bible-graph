@@ -1,0 +1,1 @@
+(function(){var b="1186e6297f12",m="# 2 Samuel 1:5 (New International Version)\nThen David said to the young man who brought him the report, \"How do you know that Saul and his son Jonathan are dead?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

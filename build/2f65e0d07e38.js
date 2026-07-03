@@ -1,0 +1,1 @@
+(function(){var b="2f65e0d07e38",m="# 2 Samuel 7:27 (New International Version)\n\"LORD Almighty, God of Israel, you have revealed this to your servant, saying, 'I will build a house for you.' So your servant has found courage to pray this prayer to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

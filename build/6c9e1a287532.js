@@ -1,0 +1,1 @@
+(function(){var b="6c9e1a287532",m="# 1 Samuel 17:56 (New International Version)\nThe king said, \"Find out whose son this young man is.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

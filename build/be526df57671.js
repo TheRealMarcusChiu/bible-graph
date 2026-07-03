@@ -1,0 +1,1 @@
+(function(){var b="be526df57671",m="# 1 Samuel 30:9 (New International Version)\nDavid and the six hundred men<sup>^A</sup> with him came to the Besor Valley, where some stayed behind. \n\n### Crossrefs\n- A: S [[1Sam-27-2|1Sa 27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

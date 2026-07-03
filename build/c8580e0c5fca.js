@@ -1,0 +1,1 @@
+(function(){var b="c8580e0c5fca",m="# 2 Samuel 16:17 (New International Version)\nAbsalom said to Hushai, \"So this is the love you show your friend? If he's your friend, why didn't you go with him?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-19-25|2Sa 19:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

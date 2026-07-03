@@ -1,0 +1,1 @@
+(function(){var b="012080bca820",m="# 1 Samuel 30:19 (New International Version)\nNothing was missing: young or old, boy or girl, plunder or anything else they had taken. David brought everything back.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

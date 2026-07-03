@@ -1,0 +1,1 @@
+(function(){var b="c413970bbcf8",m="# Ruth 2\n\nA Moabite widow's loyalty to her mother-in-law Naomi and her redemption by Boaz, ancestor of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

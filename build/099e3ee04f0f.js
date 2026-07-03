@@ -1,0 +1,1 @@
+(function(){var b="099e3ee04f0f",m="# 1 Samuel 22:11 (New International Version)\nThen the king sent for the priest Ahimelek son of Ahitub and all the men of his family, who were the priests at Nob, and they all came to the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

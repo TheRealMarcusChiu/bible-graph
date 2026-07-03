@@ -1,0 +1,1 @@
+(function(){var b="5125da91c908",m="# Judges 16:29 (New International Version)\nThen Samson reached toward the two central pillars on which the temple stood. Bracing himself against them, his right hand on the one and his left hand on the other,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

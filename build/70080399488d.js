@@ -1,0 +1,1 @@
+(function(){var b="70080399488d",m="# 2 Samuel 17:4 (New International Version)\nThis plan seemed good to Absalom and to all the elders of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

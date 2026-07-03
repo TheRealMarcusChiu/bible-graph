@@ -1,0 +1,1 @@
+(function(){var b="493ec32b52db",m="# 1 Samuel 2:23 (New International Version)\nSo he said to them, \"Why do you do such things? I hear from all the people about these wicked deeds of yours.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

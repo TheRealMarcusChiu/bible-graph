@@ -1,0 +1,1 @@
+(function(){var b="2845ef672f2c",m="# 2 Samuel 5:16 (New International Version)\nElishama, Eliada and Eliphelet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

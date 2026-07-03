@@ -1,0 +1,1 @@
+(function(){var b="39d466867c60",m="# Ruth 1:12 (New International Version)\nReturn home, my daughters; I am too old to have another husband. Even if I thought there was still hope for me--even if I had a husband tonight and then gave birth to sons--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

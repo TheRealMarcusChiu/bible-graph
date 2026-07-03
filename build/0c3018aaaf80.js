@@ -1,0 +1,1 @@
+(function(){var b="0c3018aaaf80",m="# 1 Samuel 9:8 (New International Version)\nThe servant answered him again. \"Look,\" he said, \"I have a quarter of a shekel of silver. I will give it to the man of God so that he will tell us what way to take.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

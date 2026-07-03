@@ -1,0 +1,1 @@
+(function(){var b="9ff421681297",m="# 1 Samuel 6:11 (New International Version)\nThey placed the ark of the LORD on the cart and along with it the chest containing the gold rats and the models of the tumors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

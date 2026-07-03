@@ -1,0 +1,1 @@
+(function(){var b="985448c3b4bd",m="# 2 Samuel 14:23 (New International Version)\nThen Joab went to Geshur and brought Absalom back to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ddb6672ddbd6",m="# Judges 11:40 (New International Version)\nthat each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0f97ee15e673",m="# 2 Samuel 16:16 (New International Version)\nThen Hushai<sup>^A</sup> the Arkite, David's confidant, went to Absalom and said to him, \"Long live the king! Long live the king!\"\n\n### Crossrefs\n- A: S [[2Sam-15-32|2Sa 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

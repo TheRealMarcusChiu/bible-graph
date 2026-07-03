@@ -1,0 +1,1 @@
+(function(){var b="68ef51fe862c",m="# 2 Samuel 6:22 (New International Version)\nI will become even more undignified than this, and I will be humiliated in my own eyes. But by these slave girls you spoke of, I will be held in honor.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

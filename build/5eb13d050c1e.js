@@ -1,0 +1,1 @@
+(function(){var b="5eb13d050c1e",m="# 1 Samuel 17:57 (New International Version)\nAs soon as David returned from killing the Philistine, Abner took him and brought him before Saul, with David still holding the Philistine's head.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

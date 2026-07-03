@@ -1,0 +1,1 @@
+(function(){var b="fe94e03dc606",m="# 1 Samuel 14:28 (New International Version)\nThen one of the soldiers told him, \"Your father bound the army under a strict oath, saying, 'Cursed be anyone who eats food today!' That is why the men are faint.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

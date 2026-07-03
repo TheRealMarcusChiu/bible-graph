@@ -1,0 +1,1 @@
+(function(){var b="b0abca4c7221",m="# Judges 16:11 (New International Version)\nHe said, \"If anyone ties me securely with new ropes<sup>^A</sup> that have never been used, I'll become as weak as any other man.\"\n\n### Crossrefs\n- A: S [[Judg-15-13|Jdg 15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

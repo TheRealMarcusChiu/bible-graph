@@ -1,0 +1,1 @@
+(function(){var b="6a8cbc72703b",m="# 1 Samuel 1:2 (New International Version)\nHe had two wives;<sup>^A</sup> one was called Hannah and the other Peninnah. Peninnah had children, but Hannah had none.\n\n### Crossrefs\n- A: S [[Gen-4-19|Ge 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

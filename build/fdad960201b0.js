@@ -1,0 +1,1 @@
+(function(){var b="fdad960201b0",m="# 1 Samuel 28:16 (New International Version)\nSamuel said, \"Why do you consult me, now that the LORD has departed from you and become your enemy?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

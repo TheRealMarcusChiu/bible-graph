@@ -1,0 +1,1 @@
+(function(){var b="f191af8d1abf",m="# 1 Samuel 20:11 (New International Version)\n\"Come,\" Jonathan said, \"let's go out into the field.\" So they went there together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

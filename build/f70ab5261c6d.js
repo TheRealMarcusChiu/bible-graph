@@ -1,0 +1,1 @@
+(function(){var b="f70ab5261c6d",m="# Judges 21:4 (New International Version)\nEarly the next day the people built an altar and presented burnt offerings and fellowship offerings.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Judg-20-26|Jdg 20:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

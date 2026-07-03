@@ -1,0 +1,1 @@
+(function(){var b="4e072b19c7e7",m="# 1 Samuel 8:13 (New International Version)\nHe will take your daughters to be perfumers and cooks and bakers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

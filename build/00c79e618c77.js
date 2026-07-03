@@ -1,0 +1,1 @@
+(function(){var b="00c79e618c77",m="# 1 Samuel 14:9 (New International Version)\nIf they say to us, 'Wait there until we come to you,' we will stay where we are and not go up to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

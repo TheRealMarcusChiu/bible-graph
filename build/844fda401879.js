@@ -1,0 +1,1 @@
+(function(){var b="844fda401879",m="# 2 Samuel 9:4 (New International Version)\n\"Where is he?\" the king asked.\nZiba answered, \"He is at the house of Makir<sup>^A</sup> son of Ammiel in Lo Debar.\"\n\n### Crossrefs\n- A: [[2Sam-17-27|2Sa 17:27-29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

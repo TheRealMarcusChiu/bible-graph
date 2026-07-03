@@ -1,0 +1,1 @@
+(function(){var b="f0bb192e9adc",m="# 1 Samuel 16:8 (New International Version)\nThen Jesse called Abinadab<sup>^A</sup> and had him pass in front of Samuel. But Samuel said, \"The LORD has not chosen this one either.\" \n\n### Crossrefs\n- A: [[1Sam-17-13|1Sa 17:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

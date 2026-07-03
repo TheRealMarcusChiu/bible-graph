@@ -1,0 +1,1 @@
+(function(){var b="77efa447eaba",m="# 1 Samuel 26:18 (New International Version)\nAnd he added, \"Why is my lord pursuing his servant? What have I done, and what wrong<sup>^A</sup> am I guilty of? \n\n### Crossrefs\n- A: [[Job-13-23|Job 13:23]]; [[Jer-37-18|Jer 37:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

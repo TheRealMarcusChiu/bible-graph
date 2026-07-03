@@ -1,0 +1,1 @@
+(function(){var b="0ac1ed326fab",m="# 1 Samuel 3:21 (New International Version)\nThe LORD continued to appear at Shiloh, and there he revealed<sup>^A</sup> himself to Samuel through his word.\n\n### Crossrefs\n- A: S [[Num-12-6|Nu 12:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

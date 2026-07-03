@@ -1,0 +1,1 @@
+(function(){var b="836a4317fcf9",m="# 2 Samuel 14:25 (New International Version)\nIn all Israel there was not a man so highly praised for his handsome appearance as Absalom. From the top of his head to the sole of his foot there was no blemish in him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

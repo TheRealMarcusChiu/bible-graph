@@ -1,0 +1,1 @@
+(function(){var b="2d452e9e68fe",m="# 2 Samuel 15:37 (New International Version)\nSo Hushai,<sup>^A</sup> David's confidant, arrived at Jerusalem as Absalom<sup>^B</sup> was entering the city.\n\n### Crossrefs\n- A: [[1Chr-27-33|1Ch 27:33]]\n- B: [[2Sam-16-15|2Sa 16:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

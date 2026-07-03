@@ -1,0 +1,1 @@
+(function(){var b="097673f1046d",m="# 1 Samuel 1:16 (New International Version)\nDo not take your servant for a wicked woman; I have been praying here out of my great anguish and grief.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-55-2|Ps 55:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6f45883dfd5e",m="# 1 Samuel 22:12 (New International Version)\nSaul said, \"Listen now, son of Ahitub.\"\n\"Yes, my lord,\" he answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

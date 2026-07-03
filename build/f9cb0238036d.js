@@ -1,0 +1,1 @@
+(function(){var b="f9cb0238036d",m="# 1 Samuel 8:15 (New International Version)\nHe will take a tenth<sup>^A</sup> of your grain and of your vintage and give it to his officials and attendants. \n\n### Crossrefs\n- A: S [[Gen-41-34|Ge 41:34]]; [[1Sam-17-25|1Sa 17:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

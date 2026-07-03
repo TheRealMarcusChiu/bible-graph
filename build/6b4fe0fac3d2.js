@@ -1,0 +1,1 @@
+(function(){var b="6b4fe0fac3d2",m="# 2 Samuel 10:13 (New International Version)\nThen Joab and the troops with him advanced to fight the Arameans, and they fled before him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

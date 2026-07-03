@@ -1,0 +1,1 @@
+(function(){var b="f7a95ad30283",m="# 1 Samuel 26:24 (New International Version)\nAs surely as I valued your life today, so may the LORD value my life and deliver<sup>^A</sup> me from all trouble.\"\n\n### Crossrefs\n- A: [[Ps-54-7|Ps 54:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

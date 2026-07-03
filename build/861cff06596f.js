@@ -1,0 +1,1 @@
+(function(){var b="861cff06596f",m="# 2 Samuel 2:22 (New International Version)\nAgain Abner warned Asahel, \"Stop chasing me! Why should I strike you down? How could I look your brother Joab in the face?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-3-27|2Sa 3:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

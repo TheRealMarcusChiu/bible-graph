@@ -1,0 +1,1 @@
+(function(){var b="ade867a58949",m="# 1 Samuel 14:18 (New International Version)\nSaul said to Ahijah, \"Bring<sup>^A</sup> the ark<sup>^B</sup> of God.\" (At that time it was with the Israelites.) \n\n### Crossrefs\n- A: [[1Sam-30-7|1Sa 30:7]]\n- B: S [[Judg-18-5|Jdg 18:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

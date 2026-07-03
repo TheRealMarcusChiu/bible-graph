@@ -1,0 +1,1 @@
+(function(){var b="fed9808ffae4",m="# 2 Samuel 17:1 (New International Version)\nAhithophel said to Absalom, \"I would choose twelve thousand men and set out tonight in pursuit of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

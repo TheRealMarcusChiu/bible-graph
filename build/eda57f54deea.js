@@ -1,0 +1,1 @@
+(function(){var b="eda57f54deea",m="# 1 Samuel 17:29 (New International Version)\n\"Now what have I done?\" said David. \"Can't I even speak?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

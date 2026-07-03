@@ -1,0 +1,1 @@
+(function(){var b="436f629a3f3f",m="# 2 Samuel 5:14 (New International Version)\nThese are the names of the children born to him there:<sup>^A</sup> Shammua, Shobab, Nathan,<sup>^B</sup> Solomon, \n\n### Crossrefs\n- A: [[1Chr-3-5|1Ch 3:5]]\n- B: [[Luke-3-31|Lk 3:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

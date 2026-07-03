@@ -1,0 +1,1 @@
+(function(){var b="cdf57b00d697",m="# 1 Samuel 1:14 (New International Version)\nand said to her, \"How long are you going to stay drunk? Put away your wine.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="314e17e2ded7",m="# 1 Samuel 23:21 (New International Version)\nSaul replied, \"The LORD bless<sup>^A</sup> you for your concern<sup>^B</sup> for me. \n\n### Crossrefs\n- A: [[Ruth-2-20|Ru 2:20]]; [[2Sam-2-5|2Sa 2:5]]\n- B: [[1Sam-22-8|1Sa 22:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

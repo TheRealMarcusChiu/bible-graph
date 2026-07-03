@@ -1,0 +1,1 @@
+(function(){var b="d74a2273ce9c",m="# Ruth 4:16 (New International Version)\nThen Naomi took the child in her arms and cared for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

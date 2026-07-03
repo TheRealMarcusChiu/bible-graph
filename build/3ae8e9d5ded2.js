@@ -1,0 +1,1 @@
+(function(){var b="3ae8e9d5ded2",m="# 1 Samuel 23:18 (New International Version)\nThe two of them made a covenant<sup>^A</sup> before the LORD. Then Jonathan went home, but David remained at Horesh.\n\n### Crossrefs\n- A: S [[1Sam-18-3|1Sa 18:3]]; [[2Sam-9-1|2Sa 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

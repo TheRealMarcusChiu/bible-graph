@@ -1,0 +1,1 @@
+(function(){var b="748c6a617d4d",m="# 1 Samuel 9:17 (New International Version)\nWhen Samuel caught sight of Saul, the LORD said to him, \"This<sup>^A</sup> is the man I spoke to you about; he will govern my people.\"\n\n### Crossrefs\n- A: [[1Sam-16-12|1Sa 16:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

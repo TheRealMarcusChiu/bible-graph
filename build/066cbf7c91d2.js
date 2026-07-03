@@ -1,0 +1,1 @@
+(function(){var b="066cbf7c91d2",m="# Judges 15:20 (New International Version)\nSamson led Israel for twenty years<sup>^A</sup> in the days of the Philistines.\n\n### Crossrefs\n- A: [[Judg-16-31|Jdg 16:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

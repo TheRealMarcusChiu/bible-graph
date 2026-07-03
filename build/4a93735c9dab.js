@@ -1,0 +1,1 @@
+(function(){var b="4a93735c9dab",m="# Judges 13:10 (New International Version)\nThe woman hurried to tell her husband, \"He's here! The man who appeared to me<sup>^A</sup> the other day!\"\n\n### Crossrefs\n- A: [[Judg-13-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

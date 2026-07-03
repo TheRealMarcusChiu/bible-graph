@@ -1,0 +1,1 @@
+(function(){var b="e3b9b8bba504",m="# 2 Samuel 14:31 (New International Version)\nThen Joab did go to Absalom's house, and he said to him, \"Why have your servants set my field on fire?<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Judg-15-5|Jdg 15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

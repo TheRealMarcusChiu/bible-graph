@@ -1,0 +1,1 @@
+(function(){var b="91737a21f7e6",m="# Ruth 3:4 (New International Version)\nWhen he lies down, note the place where he is lying. Then go and uncover his feet and lie down. He will tell you what to do.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fe13a7237a90",m="# Judges 14:2 (New International Version)\nWhen he returned, he said to his father and mother, \"I have seen a Philistine woman in Timnah; now get her for me as my wife.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-21-21|Ge 21:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

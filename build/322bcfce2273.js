@@ -1,0 +1,1 @@
+(function(){var b="322bcfce2273",m="# Judges 18:16 (New International Version)\nThe six hundred Danites,<sup>^A</sup> armed for battle, stood at the entrance of the gate. \n\n### Crossrefs\n- A: S [[Judg-18-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="18ec4d105cad",m="# 1 Samuel 22:3 (New International Version)\nFrom there David went to Mizpah in Moab and said to the king of Moab, \"Would you let my father and mother come and stay with you until I learn what God will do for me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

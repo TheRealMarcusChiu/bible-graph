@@ -1,0 +1,1 @@
+(function(){var b="d850afeed36e",m="# 2 Samuel 9:5 (New International Version)\nSo King David had him brought from Lo Debar, from the house of Makir son of Ammiel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

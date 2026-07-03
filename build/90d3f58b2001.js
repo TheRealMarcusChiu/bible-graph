@@ -1,0 +1,1 @@
+(function(){var b="90d3f58b2001",m="# 2 Samuel 2:15 (New International Version)\nSo they stood up and were counted off--twelve men for Benjamin and Ish-Bosheth son of Saul, and twelve for David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

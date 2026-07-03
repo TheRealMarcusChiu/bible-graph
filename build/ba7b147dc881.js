@@ -1,0 +1,1 @@
+(function(){var b="ba7b147dc881",m="# 2 Samuel 12:25 (New International Version)\nand because the LORD loved him, he sent word through Nathan the prophet to name him Jedidiah.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Neh-13-26|Ne 13:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

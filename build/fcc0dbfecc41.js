@@ -1,0 +1,1 @@
+(function(){var b="fcc0dbfecc41",m="# Judges 21:14 (New International Version)\nSo the Benjamites returned at that time and were given the women of Jabesh Gilead who had been spared. But there were not enough for all of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

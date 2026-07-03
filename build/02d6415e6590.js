@@ -1,0 +1,1 @@
+(function(){var b="02d6415e6590",m="# Judges 14:8 (New International Version)\nSome time later, when he went back to marry her, he turned aside to look at the lion's carcass, and in it he saw a swarm of bees and some honey.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

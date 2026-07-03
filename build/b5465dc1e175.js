@@ -1,0 +1,1 @@
+(function(){var b="b5465dc1e175",m="# 1 Samuel 11:6 (New International Version)\nWhen Saul heard their words, the Spirit<sup>^A</sup> of God came powerfully upon him, and he burned with anger. \n\n### Crossrefs\n- A: S [[Judg-3-10|Jdg 3:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

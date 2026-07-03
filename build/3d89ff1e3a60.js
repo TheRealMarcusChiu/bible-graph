@@ -1,0 +1,1 @@
+(function(){var b="3d89ff1e3a60",m="# 1 Samuel 1:25 (New International Version)\nWhen the bull had been sacrificed, they brought the boy to Eli,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9683187ca11e",m="# 2 Samuel 16:19 (New International Version)\nFurthermore, whom should I serve? Should I not serve the son? Just as I served your father, so I will serve you.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-15-34|2Sa 15:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

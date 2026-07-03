@@ -1,0 +1,1 @@
+(function(){var b="cd1df3d3b776",m="# 1 Samuel 28:10 (New International Version)\nSaul swore to her by the LORD, \"As surely as the LORD lives, you will not be punished for this.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

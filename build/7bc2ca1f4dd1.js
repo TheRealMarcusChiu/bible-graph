@@ -1,0 +1,1 @@
+(function(){var b="7bc2ca1f4dd1",m="# 2 Samuel 13:3 (New International Version)\nNow Amnon had an adviser named Jonadab son of Shimeah,<sup>^A</sup> David's brother. Jonadab was a very shrewd man. \n\n### Crossrefs\n- A: S [[1Sam-16-9|1Sa 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

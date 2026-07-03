@@ -1,0 +1,1 @@
+(function(){var b="339e7ed0df7a",m="# 1 Samuel 14:8 (New International Version)\nJonathan said, \"Come on, then; we will cross over toward them and let them see us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

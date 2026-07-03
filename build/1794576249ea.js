@@ -1,0 +1,1 @@
+(function(){var b="1794576249ea",m="# 2 Samuel 2:25 (New International Version)\nThen the men of Benjamin rallied behind Abner. They formed themselves into a group and took their stand on top of a hill.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

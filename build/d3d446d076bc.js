@@ -1,0 +1,1 @@
+(function(){var b="d3d446d076bc",m="# 1 Samuel 22:23 (New International Version)\nStay with me; don't be afraid. The man who wants to kill you<sup>^A</sup> is trying to kill me too. You will be safe with me.\"\n\n### Crossrefs\n- A: S [[1Sam-20-1|1Sa 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9d3496495c9f",m="# 1 Samuel 1:12 (New International Version)\nAs she kept on praying to the LORD, Eli observed her mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

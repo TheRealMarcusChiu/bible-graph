@@ -1,0 +1,1 @@
+(function(){var b="ceea8d9db932",m="# 2 Samuel 10:10 (New International Version)\nHe put the rest of the men under the command of Abishai<sup>^A</sup> his brother and deployed them against the Ammonites. \n\n### Crossrefs\n- A: S [[1Sam-26-6|1Sa 26:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

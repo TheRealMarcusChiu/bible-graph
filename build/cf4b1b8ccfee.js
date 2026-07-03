@@ -1,0 +1,1 @@
+(function(){var b="cf4b1b8ccfee",m="# 1 Samuel 14:38 (New International Version)\nSaul therefore said, \"Come here, all you who are leaders of the army, and let us find out what sin has been committed<sup>^A</sup> today. \n\n### Crossrefs\n- A: [[Josh-7-11|Jos 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

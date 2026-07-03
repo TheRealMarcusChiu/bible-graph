@@ -1,0 +1,1 @@
+(function(){var b="4cee6b58a798",m="# 2 Samuel 13:25 (New International Version)\n\"No, my son,\" the king replied. \"All of us should not go; we would only be a burden to you.\" Although Absalom urged him, he still refused to go but gave him his blessing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

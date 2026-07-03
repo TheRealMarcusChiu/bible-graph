@@ -1,0 +1,1 @@
+(function(){var b="c86a4390f025",m="# 1 Samuel 20:39 (New International Version)\n(The boy knew nothing about all this; only Jonathan and David knew.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

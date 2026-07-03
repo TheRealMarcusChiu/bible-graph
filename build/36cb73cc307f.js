@@ -1,0 +1,1 @@
+(function(){var b="36cb73cc307f",m="# 2 Samuel 9:12 (New International Version)\nMephibosheth had a young son named Mika, and all the members of Ziba's household were servants of Mephibosheth.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-4-4|2Sa 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

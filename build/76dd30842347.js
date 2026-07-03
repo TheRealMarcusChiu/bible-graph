@@ -1,0 +1,1 @@
+(function(){var b="76dd30842347",m="# 2 Samuel 10:9 (New International Version)\nJoab saw that there were battle lines in front of him and behind him; so he selected some of the best troops in Israel and deployed them against the Arameans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="26df6bce3e83",m="# 1 Samuel 22\n\nThe prophet Samuel, Israel's first king Saul, and the rise of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

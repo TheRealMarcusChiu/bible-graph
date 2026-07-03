@@ -1,0 +1,1 @@
+(function(){var b="379e9d00bbab",m="# 1 Samuel 13:21 (New International Version)\nThe price was two-thirds of a shekel for sharpening plow points and mattocks, and a third of a shekel for sharpening forks and axes and for repointing goads.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

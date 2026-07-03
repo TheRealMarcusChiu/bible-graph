@@ -1,0 +1,1 @@
+(function(){var b="214763fbfea7",m="# Ruth 3:8 (New International Version)\nIn the middle of the night something startled the man; he turned--and there was a woman lying at his feet!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

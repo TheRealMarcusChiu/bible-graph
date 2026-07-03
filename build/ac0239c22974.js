@@ -1,0 +1,1 @@
+(function(){var b="ac0239c22974",m="# 1 Samuel 20:20 (New International Version)\nI will shoot three arrows<sup>^A</sup> to the side of it, as though I were shooting at a target. \n\n### Crossrefs\n- A: [[2Kgs-13-15|2Ki 13:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

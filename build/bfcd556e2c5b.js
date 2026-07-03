@@ -1,0 +1,1 @@
+(function(){var b="bfcd556e2c5b",m="# Ruth 3:18 (New International Version)\nThen Naomi said, \"Wait, my daughter, until you find out what happens. For the man will not rest until the matter is settled today.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-37-3|Ps 37:3-5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

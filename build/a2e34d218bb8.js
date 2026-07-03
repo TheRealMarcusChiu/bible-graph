@@ -1,0 +1,1 @@
+(function(){var b="a2e34d218bb8",m="# 2 Samuel 8:8 (New International Version)\nFrom Tebah and Berothai,<sup>^A</sup> towns that belonged to Hadadezer, King David took a great quantity of bronze.\n\n### Crossrefs\n- A: [[Ezek-47-16|Eze 47:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

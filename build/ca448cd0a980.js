@@ -1,0 +1,1 @@
+(function(){var b="ca448cd0a980",m="# 2 Samuel 3:24 (New International Version)\nSo Joab went to the king and said, \"What have you done? Look, Abner came to you. Why did you let him go? Now he is gone!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

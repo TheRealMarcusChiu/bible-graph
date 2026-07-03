@@ -1,0 +1,1 @@
+(function(){var b="ca5878a3eed0",m="# Judges 17:9 (New International Version)\nMicah asked him, \"Where are you from?\"\n\"I'm a Levite from Bethlehem in Judah,<sup>^A</sup>\" he said, \"and I'm looking for a place to stay.\"\n\n### Crossrefs\n- A: [[Ruth-1-1|Ru 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

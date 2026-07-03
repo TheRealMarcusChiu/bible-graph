@@ -1,0 +1,1 @@
+(function(){var b="5de4701a688d",m="# 2 Samuel 15:28 (New International Version)\nI will wait at the fords<sup>^A</sup> in the wilderness until word comes from you to inform me.\" \n\n### Crossrefs\n- A: [[2Sam-17-16|2Sa 17:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

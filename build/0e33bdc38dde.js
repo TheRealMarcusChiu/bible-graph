@@ -1,0 +1,1 @@
+(function(){var b="0e33bdc38dde",m="# Judges 13:11 (New International Version)\nManoah got up and followed his wife. When he came to the man, he said, \"Are you the man who talked to my wife?\"\n\"I am,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d379053ba7a0",m="# 1 Samuel 3:9 (New International Version)\nSo Eli told Samuel, \"Go and lie down, and if he calls you, say, 'Speak, LORD, for your servant is listening.'\" So Samuel went and lay down in his place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

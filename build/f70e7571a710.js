@@ -1,0 +1,1 @@
+(function(){var b="f70e7571a710",m="# 2 Samuel 13:2 (New International Version)\nAmnon became so obsessed with his sister Tamar that he made himself ill. She was a virgin, and it seemed impossible for him to do anything to her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

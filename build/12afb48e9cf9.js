@@ -1,0 +1,1 @@
+(function(){var b="12afb48e9cf9",m="# 1 Samuel 20:22 (New International Version)\nBut if I say to the boy, 'Look, the arrows are beyond<sup>^A</sup> you,' then you must go, because the LORD has sent you away. \n\n### Crossrefs\n- A: [[1Sam-20-37|ver 37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

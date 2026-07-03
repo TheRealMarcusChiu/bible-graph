@@ -1,0 +1,1 @@
+(function(){var b="eaa190e8b5de",m="# Ruth 2:16 (New International Version)\nEven pull out some stalks for her from the bundles and leave them for her to pick up, and don't rebuke<sup>^A</sup> her.\"\n\n### Crossrefs\n- A: S [[Gen-37-10|Ge 37:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

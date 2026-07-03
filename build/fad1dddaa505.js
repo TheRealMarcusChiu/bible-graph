@@ -1,0 +1,1 @@
+(function(){var b="fad1dddaa505",m="# 1 Samuel 8:22 (New International Version)\nThe LORD answered, \"Listen<sup>^A</sup> to them and give them a king.\"\nThen Samuel said to the Israelites, \"Everyone go back to your own town.\"\n\n### Crossrefs\n- A: S [[1Sam-8-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

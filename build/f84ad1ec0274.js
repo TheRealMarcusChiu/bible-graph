@@ -1,0 +1,1 @@
+(function(){var b="f84ad1ec0274",m="# 2 Samuel 17:5 (New International Version)\nBut Absalom said, \"Summon also Hushai<sup>^A</sup> the Arkite, so we can hear what he has to say as well.\" \n\n### Crossrefs\n- A: S [[2Sam-15-32|2Sa 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

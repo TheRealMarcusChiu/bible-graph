@@ -1,0 +1,1 @@
+(function(){var b="de236d938360",m="# Judges 13:15 (New International Version)\nManoah said to the angel of the LORD, \"We would like you to stay until we prepare a young goat<sup>^A</sup> for you.\"\n\n### Crossrefs\n- A: [[Judg-6-19|Jdg 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

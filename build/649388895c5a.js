@@ -1,0 +1,1 @@
+(function(){var b="649388895c5a",m="# 1 Samuel 16:21 (New International Version)\nDavid came to Saul and entered his service.<sup>^A</sup> Saul liked him very much, and David became one of his armor-bearers. \n\n### Crossrefs\n- A: S [[Gen-41-46|Ge 41:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

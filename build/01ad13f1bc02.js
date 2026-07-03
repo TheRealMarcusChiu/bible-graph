@@ -1,0 +1,1 @@
+(function(){var b="01ad13f1bc02",m="# 1 Samuel 13:20 (New International Version)\nSo all Israel went down to the Philistines to have their plow points, mattocks, axes and sickles sharpened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

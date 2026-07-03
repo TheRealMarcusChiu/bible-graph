@@ -1,0 +1,1 @@
+(function(){var b="607878b16861",m="# 1 Samuel 30:4 (New International Version)\nSo David and his men wept<sup>^A</sup> aloud until they had no strength left to weep. \n\n### Crossrefs\n- A: S [[Gen-27-38|Ge 27:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

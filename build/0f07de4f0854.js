@@ -1,0 +1,1 @@
+(function(){var b="0f07de4f0854",m="# Judges 12:2 (New International Version)\nJephthah answered, \"I and my people were engaged in a great struggle with the Ammonites, and although I called, you didn't save me out of their hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

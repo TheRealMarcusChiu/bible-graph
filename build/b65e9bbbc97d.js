@@ -1,0 +1,1 @@
+(function(){var b="b65e9bbbc97d",m="# Judges 19:13 (New International Version)\nHe added, \"Come, let's try to reach Gibeah or Ramah<sup>^A</sup> and spend the night in one of those places.\" \n\n### Crossrefs\n- A: S [[Josh-18-25|Jos 18:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="36c1b1bb88c3",m="# 1 Samuel 6:1 (New International Version)\nThe Ark Returned to Israel\nWhen the ark of the LORD had been in Philistine territory seven months,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

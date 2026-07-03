@@ -1,0 +1,1 @@
+(function(){var b="0b88bba5edbe",m="# 1 Samuel 3:15 (New International Version)\nSamuel lay down until morning and then opened the doors of the house of the LORD. He was afraid to tell Eli the vision,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

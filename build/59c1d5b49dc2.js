@@ -1,0 +1,1 @@
+(function(){var b="59c1d5b49dc2",m="# 2 Samuel 5:21 (New International Version)\nThe Philistines abandoned their idols there, and David and his men carried them off.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-7-5|Dt 7:5]]; [[Isa-46-2|Isa 46:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

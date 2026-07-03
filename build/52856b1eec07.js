@@ -1,0 +1,1 @@
+(function(){var b="52856b1eec07",m="# 1 Samuel 11:10 (New International Version)\nThey said to the Ammonites, \"Tomorrow we will surrender<sup>^A</sup> to you, and you can do to us whatever you like.\"\n\n### Crossrefs\n- A: [[1Sam-11-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

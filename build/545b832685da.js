@@ -1,0 +1,1 @@
+(function(){var b="545b832685da",m="# Judges 14:1 (New International Version)\nSamson's Marriage\nSamson<sup>^A</sup> went down to Timnah<sup>^B</sup> and saw there a young Philistine woman. \n\n### Crossrefs\n- A: S [[Judg-13-24|Jdg 13:24]]\n- B: S [[Gen-38-12|Ge 38:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

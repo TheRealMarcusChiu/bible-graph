@@ -1,0 +1,1 @@
+(function(){var b="db80663fb559",m="# 1 Samuel 16:6 (New International Version)\nWhen they arrived, Samuel saw Eliab<sup>^A</sup> and thought, \"Surely the LORD's anointed stands here before the LORD.\"\n\n### Crossrefs\n- A: [[1Sam-17-13|1Sa 17:13]]; [[1Chr-2-13|1Ch 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

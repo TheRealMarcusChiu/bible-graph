@@ -1,0 +1,1 @@
+(function(){var b="d240e09b9c57",m="# 2 Samuel 11:14 (New International Version)\nIn the morning David wrote a letter<sup>^A</sup> to Joab and sent it with Uriah. \n\n### Crossrefs\n- A: [[1Kgs-21-8|1Ki 21:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

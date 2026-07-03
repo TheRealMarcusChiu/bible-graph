@@ -1,0 +1,1 @@
+(function(){var b="c1d37554140f",m="# Judges 20:30 (New International Version)\nThey went up against the Benjamites on the third day and took up positions against Gibeah as they had done before.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

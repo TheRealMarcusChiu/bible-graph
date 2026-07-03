@@ -1,0 +1,1 @@
+(function(){var b="3a1f57e5fcfe",m="# Judges 17:8 (New International Version)\nleft that town in search of some other place to stay. On his way he came to Micah's house in the hill country of Ephraim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

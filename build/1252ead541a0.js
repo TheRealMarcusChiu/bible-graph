@@ -1,0 +1,1 @@
+(function(){var b="1252ead541a0",m="# 2 Samuel 11:20 (New International Version)\nthe king's anger may flare up, and he may ask you, 'Why did you get so close to the city to fight? Didn't you know they would shoot arrows from the wall?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

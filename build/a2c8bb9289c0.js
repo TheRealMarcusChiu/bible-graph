@@ -1,0 +1,1 @@
+(function(){var b="a2c8bb9289c0",m="# 1 Samuel 10:15 (New International Version)\nSaul's uncle said, \"Tell me what Samuel said to you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

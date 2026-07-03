@@ -1,0 +1,1 @@
+(function(){var b="9b4cc14be588",m="# 1 Samuel 15:10 (New International Version)\nThen the word of the LORD came to Samuel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

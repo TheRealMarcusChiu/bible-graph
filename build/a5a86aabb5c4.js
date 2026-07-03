@@ -1,0 +1,1 @@
+(function(){var b="a5a86aabb5c4",m="# Ruth 2:6 (New International Version)\nThe overseer replied, \"She is the Moabite<sup>^A</sup> who came back from Moab with Naomi. \n\n### Crossrefs\n- A: S [[Ruth-1-22|Ru 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

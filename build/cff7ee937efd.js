@@ -1,0 +1,1 @@
+(function(){var b="cff7ee937efd",m="# 1 Samuel 25:5 (New International Version)\nSo he sent ten young men and said to them, \"Go up to Nabal at Carmel and greet him in my name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

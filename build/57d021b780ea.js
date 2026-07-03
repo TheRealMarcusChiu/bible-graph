@@ -1,0 +1,1 @@
+(function(){var b="57d021b780ea",m="# 2 Samuel 14:5 (New International Version)\nThe king asked her, \"What is troubling you?\"\nShe said, \"I am a widow; my husband is dead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

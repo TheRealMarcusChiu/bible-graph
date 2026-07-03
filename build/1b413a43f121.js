@@ -1,0 +1,1 @@
+(function(){var b="1b413a43f121",m="# 2 Samuel 16:14 (New International Version)\nThe king and all the people with him arrived at their destination exhausted.<sup>^A</sup> And there he refreshed himself.\n\n### Crossrefs\n- A: [[2Sam-17-2|2Sa 17:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

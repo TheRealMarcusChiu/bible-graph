@@ -1,0 +1,1 @@
+(function(){var b="3dd82d66c5fb",m="# 2 Samuel 3:38 (New International Version)\nThen the king said to his men, \"Do you not realize that a commander and a great man has fallen<sup>^A</sup> in Israel this day? \n\n### Crossrefs\n- A: [[2Sam-1-19|2Sa 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

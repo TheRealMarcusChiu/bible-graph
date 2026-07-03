@@ -1,0 +1,1 @@
+(function(){var b="28f88cea38c8",m="# 2 Samuel 10:15 (New International Version)\nAfter the Arameans saw that they had been routed by Israel, they regrouped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

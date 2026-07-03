@@ -1,0 +1,1 @@
+(function(){var b="2abf8567548c",m="# 1 Samuel 1:28 (New International Version)\nSo now I give him to the LORD. For his whole life<sup>^A</sup> he will be given over to the LORD.\" And he worshiped the LORD there.\n\n### Crossrefs\n- A: S [[Judg-13-7|Jdg 13:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

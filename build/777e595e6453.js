@@ -1,0 +1,1 @@
+(function(){var b="777e595e6453",m="# 1 Samuel 31:3 (New International Version)\nThe fighting grew fierce around Saul, and when the archers overtook him, they wounded<sup>^A</sup> him critically.\n\n### Crossrefs\n- A: S [[1Sam-28-4|1Sa 28:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="942364b9e63b",m="# Judges 19:26 (New International Version)\nAt daybreak the woman went back to the house where her master was staying, fell down at the door and lay there until daylight.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

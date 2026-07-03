@@ -1,0 +1,1 @@
+(function(){var b="564a7b0440e6",m="# Judges 18:23 (New International Version)\nAs they shouted after them, the Danites turned and said to Micah, \"What's the matter with you that you called out your men to fight?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="807cacc39fc2",m="# 1 Samuel 6:17 (New International Version)\nThese are the gold tumors the Philistines sent as a guilt offering to the LORD--one each<sup>^A</sup> for Ashdod, Gaza, Ashkelon, Gath and Ekron. \n\n### Crossrefs\n- A: S [[Josh-13-3|Jos 13:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

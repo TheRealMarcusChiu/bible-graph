@@ -1,0 +1,1 @@
+(function(){var b="ff660a7bd50e",m="# 1 Samuel 25:20 (New International Version)\nAs she came riding her donkey into a mountain ravine, there were David and his men descending toward her, and she met them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

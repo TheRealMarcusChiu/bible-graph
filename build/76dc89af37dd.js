@@ -1,0 +1,1 @@
+(function(){var b="76dc89af37dd",m="# Judges 15\n\nIsrael's repeated cycle of sin, oppression, and deliverance through judges such as Deborah, Gideon, and Samson.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

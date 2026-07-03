@@ -1,0 +1,1 @@
+(function(){var b="7628df700618",m="# 1 Samuel 19:6 (New International Version)\nSaul listened to Jonathan and took this oath: \"As surely as the LORD lives, David will not be put to death.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

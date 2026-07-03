@@ -1,0 +1,1 @@
+(function(){var b="82320107bed3",m="# Judges 15:10 (New International Version)\nThe people of Judah asked, \"Why have you come to fight us?\"\n\"We have come to take Samson prisoner,\" they answered, \"to do to him as he did to us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

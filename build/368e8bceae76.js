@@ -1,0 +1,1 @@
+(function(){var b="368e8bceae76",m="# 1 Samuel 14:44 (New International Version)\nSaul said, \"May God deal with me, be it ever so severely,<sup>^A</sup> if you do not die, Jonathan.<sup>^B</sup>\"\n\n### Crossrefs\n- A: S [[Ruth-1-17|Ru 1:17]]\n- B: [[1Sam-14-39|ver 39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

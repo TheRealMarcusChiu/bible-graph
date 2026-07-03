@@ -1,0 +1,1 @@
+(function(){var b="12269b1f117a",m="# 2 Samuel 3:9 (New International Version)\nMay God deal with Abner, be it ever so severely, if I do not do for David what the LORD promised<sup>^A</sup> him on oath \n\n### Crossrefs\n- A: S [[1Sam-15-28|1Sa 15:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

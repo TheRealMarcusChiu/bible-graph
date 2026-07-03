@@ -1,0 +1,1 @@
+(function(){var b="7814904a6e91",m="# 1 Samuel 17:53 (New International Version)\nWhen the Israelites returned from chasing the Philistines, they plundered their camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

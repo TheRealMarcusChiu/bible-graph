@@ -1,0 +1,1 @@
+(function(){var b="aae3b27d5c06",m="# 1 Samuel 3:6 (New International Version)\nAgain the LORD called, \"Samuel!\" And Samuel got up and went to Eli and said, \"Here I am; you called me.\"\n\"My son,\" Eli said, \"I did not call; go back and lie down.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

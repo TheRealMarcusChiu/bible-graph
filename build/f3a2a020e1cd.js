@@ -1,0 +1,1 @@
+(function(){var b="f3a2a020e1cd",m="# Judges 12:13 (New International Version)\nAfter him, Abdon son of Hillel, from Pirathon,<sup>^A</sup> led Israel. \n\n### Crossrefs\n- A: [[Judg-12-15|ver 15]]; [[2Sam-23-30|2Sa 23:30]]; [[1Chr-11-31|1Ch 11:31]]; [[1Chr-27-14|27:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4ca4a9cbba5f",m="# Judges 20:35 (New International Version)\nThe LORD defeated Benjamin<sup>^A</sup> before Israel, and on that day the Israelites struck down 25,100 Benjamites, all armed with swords. \n\n### Crossrefs\n- A: [[1Sam-9-21|1Sa 9:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

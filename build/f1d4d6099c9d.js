@@ -1,0 +1,1 @@
+(function(){var b="f1d4d6099c9d",m="# 2 Samuel 15:11 (New International Version)\nTwo hundred men from Jerusalem had accompanied Absalom. They had been invited as guests and went quite innocently, knowing nothing about the matter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

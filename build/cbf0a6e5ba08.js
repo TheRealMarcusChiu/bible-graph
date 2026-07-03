@@ -1,0 +1,1 @@
+(function(){var b="cbf0a6e5ba08",m="# 2 Samuel 11:9 (New International Version)\nBut Uriah slept at the entrance to the palace with all his master's servants and did not go down to his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

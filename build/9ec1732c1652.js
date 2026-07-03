@@ -1,0 +1,1 @@
+(function(){var b="9ec1732c1652",m="# 2 Samuel 2:6 (New International Version)\nMay the LORD now show you kindness and faithfulness,<sup>^A</sup> and I too will show you the same favor because you have done this. \n\n### Crossrefs\n- A: [[Exod-34-6|Ex 34:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

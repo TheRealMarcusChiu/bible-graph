@@ -1,0 +1,1 @@
+(function(){var b="927b76787264",m="# 2 Samuel 1:9 (New International Version)\n\"Then he said to me, 'Stand here by me and kill me!<sup>^A</sup> I'm in the throes of death, but I'm still alive.'\n\n### Crossrefs\n- A: S [[Judg-9-54|Jdg 9:54]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

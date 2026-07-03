@@ -1,0 +1,1 @@
+(function(){var b="303f31d75840",m="# 2 Samuel 14:3 (New International Version)\nThen go to the king and speak these words to him.\" And Joab<sup>^A</sup> put the words in her mouth.\n\n### Crossrefs\n- A: [[2Sam-14-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

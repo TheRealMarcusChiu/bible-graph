@@ -1,0 +1,1 @@
+(function(){var b="ad908e38a6c3",m="# 1 Samuel 17:5 (New International Version)\nHe had a bronze helmet on his head and wore a coat of scale armor of bronze weighing five thousand shekels;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="303e7929524c",m="# 1 Samuel 14:46 (New International Version)\nThen Saul stopped pursuing the Philistines, and they withdrew to their own land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

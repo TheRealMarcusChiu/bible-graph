@@ -1,0 +1,1 @@
+(function(){var b="1c80614f7ab1",m="# Judges 16:6 (New International Version)\nSo Delilah<sup>^A</sup> said to Samson, \"Tell me the secret of your great strength and how you can be tied up and subdued.\"\n\n### Crossrefs\n- A: [[Judg-16-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

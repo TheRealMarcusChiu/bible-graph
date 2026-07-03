@@ -1,0 +1,1 @@
+(function(){var b="1ed5b6e28b0c",m="# 2 Samuel 3:36 (New International Version)\nAll the people took note and were pleased; indeed, everything the king did pleased them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

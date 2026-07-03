@@ -1,0 +1,1 @@
+(function(){var b="56e15ab68a47",m="# Ruth 4:20 (New International Version)\nAmminadab the father of Nahshon,<sup>^A</sup>\nNahshon the father of Salmon,\n\n### Crossrefs\n- A: S [[Num-7-12|Nu 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

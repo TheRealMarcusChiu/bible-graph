@@ -1,0 +1,1 @@
+(function(){var b="60b29951e1e2",m="# 2 Samuel 13:27 (New International Version)\nBut Absalom urged him, so he sent with him Amnon and the rest of the king's sons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

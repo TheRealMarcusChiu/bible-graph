@@ -1,0 +1,1 @@
+(function(){var b="f7c7b1db732d",m="# 1 Samuel 19:8 (New International Version)\nOnce more war broke out, and David went out and fought the Philistines. He struck them with such force that they fled before him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

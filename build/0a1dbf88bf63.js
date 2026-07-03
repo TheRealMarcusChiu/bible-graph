@@ -1,0 +1,1 @@
+(function(){var b="0a1dbf88bf63",m="# 2 Samuel 14:8 (New International Version)\nThe king said to the woman, \"Go home,<sup>^A</sup> and I will issue an order in your behalf.\"\n\n### Crossrefs\n- A: [[1Sam-25-35|1Sa 25:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

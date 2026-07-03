@@ -1,0 +1,1 @@
+(function(){var b="5c90b29a77e1",m="# 2 Samuel 13:7 (New International Version)\nDavid sent word to Tamar at the palace: \"Go to the house of your brother Amnon and prepare some food for him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

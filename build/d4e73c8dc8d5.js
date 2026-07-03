@@ -1,0 +1,1 @@
+(function(){var b="d4e73c8dc8d5",m="# 2 Samuel 2:14 (New International Version)\nThen Abner said to Joab, \"Let's have some of the young men get up and fight hand to hand in front of us.\"\n\"All right, let them do it,\" Joab said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

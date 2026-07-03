@@ -1,0 +1,1 @@
+(function(){var b="96257576c6a3",m="# 1 Samuel 14:7 (New International Version)\n\"Do all that you have in mind,\" his armor-bearer said. \"Go ahead; I am with you heart and soul.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

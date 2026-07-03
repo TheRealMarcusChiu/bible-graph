@@ -1,0 +1,1 @@
+(function(){var b="996faa8cbc78",m="# 1 Samuel 25:4 (New International Version)\nWhile David was in the wilderness, he heard that Nabal was shearing sheep.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

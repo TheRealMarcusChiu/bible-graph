@@ -1,0 +1,1 @@
+(function(){var b="95da5f7d7a46",m="# 2 Samuel 10:16 (New International Version)\nHadadezer had Arameans brought from beyond the Euphrates River; they went to Helam, with Shobak the commander of Hadadezer's army leading them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

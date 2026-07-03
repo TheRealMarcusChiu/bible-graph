@@ -1,0 +1,1 @@
+(function(){var b="e48244d6fda4",m="# Judges 20:19 (New International Version)\nThe next morning the Israelites got up and pitched camp near Gibeah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

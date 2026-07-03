@@ -1,0 +1,1 @@
+(function(){var b="1babc229c82c",m="# 2 Samuel 10:17 (New International Version)\nWhen David was told of this, he gathered all Israel, crossed the Jordan and went to Helam. The Arameans formed their battle lines to meet David and fought against him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

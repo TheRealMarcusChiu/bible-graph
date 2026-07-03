@@ -1,0 +1,1 @@
+(function(){var b="c0d46a53db90",m="# Judges 20:24 (New International Version)\nThen the Israelites drew near to Benjamin the second day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

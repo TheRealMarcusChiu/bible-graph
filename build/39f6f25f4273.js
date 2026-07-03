@@ -1,0 +1,1 @@
+(function(){var b="39f6f25f4273",m="# 1 Samuel 22:4 (New International Version)\nSo he left them with the king of Moab,<sup>^A</sup> and they stayed with him as long as David was in the stronghold.\n\n### Crossrefs\n- A: S [[Gen-19-37|Ge 19:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

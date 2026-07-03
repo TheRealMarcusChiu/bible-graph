@@ -1,0 +1,1 @@
+(function(){var b="ab5fbf7f2006",m="# 1 Samuel 19:14 (New International Version)\nWhen Saul sent the men to capture David, Michal said,<sup>^A</sup> \"He is ill.\"\n\n### Crossrefs\n- A: S [[Exod-1-19|Ex 1:19]]; [[Josh-2-4|Jos 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

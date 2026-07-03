@@ -1,0 +1,1 @@
+(function(){var b="0f1cb702f885",m="# 1 Samuel 6:8 (New International Version)\nTake the ark of the LORD and put it on the cart, and in a chest beside it put the gold objects you are sending back to him as a guilt offering. Send it on its way,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

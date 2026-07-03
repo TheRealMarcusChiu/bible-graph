@@ -1,0 +1,1 @@
+(function(){var b="32a7cf338c0a",m="# 1 Samuel 20:37 (New International Version)\nWhen the boy came to the place where Jonathan's arrow had fallen, Jonathan called out after him, \"Isn't the arrow beyond<sup>^A</sup> you?\" \n\n### Crossrefs\n- A: [[1Sam-20-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

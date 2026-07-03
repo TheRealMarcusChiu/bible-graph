@@ -1,0 +1,1 @@
+(function(){var b="f0cdb31994bb",m="# 1 Samuel 15:16 (New International Version)\n\"Enough!\" Samuel said to Saul. \"Let me tell you what the LORD said to me last night.\"\n\"Tell me,\" Saul replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

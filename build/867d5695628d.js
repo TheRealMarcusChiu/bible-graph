@@ -1,0 +1,1 @@
+(function(){var b="867d5695628d",m="# 1 Samuel 23:15 (New International Version)\nWhile David was at Horesh in the Desert of Ziph, he learned that Saul had come out to take his life.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Sam-20-1|1Sa 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

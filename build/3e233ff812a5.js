@@ -1,0 +1,1 @@
+(function(){var b="3e233ff812a5",m="# 2 Samuel 17:12 (New International Version)\nThen we will attack him wherever he may be found, and we will fall on him as dew settles on the ground. Neither he nor any of his men will be left alive.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

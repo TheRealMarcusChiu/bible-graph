@@ -1,0 +1,1 @@
+(function(){var b="0269d2e1e66b",m="# Judges 18:6 (New International Version)\nThe priest answered them, \"Go in peace<sup>^A</sup>. Your journey has the LORD's approval.\"\n\n### Crossrefs\n- A: [[1Kgs-22-6|1Ki 22:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

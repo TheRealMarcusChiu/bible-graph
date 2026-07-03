@@ -1,0 +1,1 @@
+(function(){var b="e03a284bf2ed",m="# 1 Samuel 15:25 (New International Version)\nNow I beg you, forgive<sup>^A</sup> my sin and come back with me, so that I may worship the LORD.\"\n\n### Crossrefs\n- A: [[Exod-10-17|Ex 10:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

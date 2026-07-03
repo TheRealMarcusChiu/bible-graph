@@ -1,0 +1,1 @@
+(function(){var b="cd08ed8aa346",m="# 1 Samuel 14:14 (New International Version)\nIn that first attack Jonathan and his armor-bearer killed some twenty men in an area of about half an acre.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

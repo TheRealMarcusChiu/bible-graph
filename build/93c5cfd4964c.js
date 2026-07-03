@@ -1,0 +1,1 @@
+(function(){var b="93c5cfd4964c",m="# 1 Samuel 29:5 (New International Version)\nIsn't this the David they sang about in their dances:\n\"'Saul has slain his thousands,  \n    and David his tens of thousands'?\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-18-7|1Sa 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

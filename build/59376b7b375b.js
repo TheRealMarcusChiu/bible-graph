@@ -1,0 +1,1 @@
+(function(){var b="59376b7b375b",m="# 2 Samuel 2:24 (New International Version)\nBut Joab and Abishai pursued Abner, and as the sun was setting, they came to the hill of Ammah, near Giah on the way to the wasteland of Gibeon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

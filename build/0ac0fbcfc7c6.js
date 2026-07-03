@@ -1,0 +1,1 @@
+(function(){var b="0ac0fbcfc7c6",m="# Judges 18:13 (New International Version)\nFrom there they went on to the hill country of Ephraim and came to Micah's house.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-17-1|Jdg 17:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

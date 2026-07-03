@@ -1,0 +1,1 @@
+(function(){var b="038e7f3c8f55",m="# 1 Samuel 20:14 (New International Version)\nBut show me unfailing kindness<sup>^A</sup> like the LORD's kindness as long as I live, so that I may not be killed, \n\n### Crossrefs\n- A: S [[Gen-40-14|Ge 40:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

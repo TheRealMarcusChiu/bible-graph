@@ -1,0 +1,1 @@
+(function(){var b="366fddda9f5d",m="# 1 Samuel 8:10 (New International Version)\nSamuel told<sup>^A</sup> all the words of the LORD to the people who were asking him for a king. \n\n### Crossrefs\n- A: S [[Exod-19-7|Ex 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cf783db16841",m="# 2 Samuel 13:24 (New International Version)\nAbsalom went to the king and said, \"Your servant has had shearers come. Will the king and his attendants please join me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

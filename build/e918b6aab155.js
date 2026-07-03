@@ -1,0 +1,1 @@
+(function(){var b="e918b6aab155",m="# 1 Samuel 17:24 (New International Version)\nWhenever the Israelites saw the man, they all fled from him in great fear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

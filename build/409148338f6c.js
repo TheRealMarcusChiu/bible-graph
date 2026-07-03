@@ -1,0 +1,1 @@
+(function(){var b="409148338f6c",m="# 1 Samuel 20:18 (New International Version)\nThen Jonathan said to David, \"Tomorrow is the New Moon feast. You will be missed, because your seat will be empty.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Sam-20-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

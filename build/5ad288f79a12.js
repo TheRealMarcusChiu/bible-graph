@@ -1,0 +1,1 @@
+(function(){var b="5ad288f79a12",m="# 1 Samuel 20:35 (New International Version)\nIn the morning Jonathan went out to the field for his meeting with David. He had a small boy with him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

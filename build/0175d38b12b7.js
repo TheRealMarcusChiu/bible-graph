@@ -1,0 +1,1 @@
+(function(){var b="0175d38b12b7",m="# 1 Samuel 20:28 (New International Version)\nJonathan answered, \"David earnestly asked me for permission<sup>^A</sup> to go to Bethlehem. \n\n### Crossrefs\n- A: [[1Sam-20-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

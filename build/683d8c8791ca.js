@@ -1,0 +1,1 @@
+(function(){var b="683d8c8791ca",m="# 1 Samuel 15:18 (New International Version)\nAnd he sent you on a mission, saying, 'Go and completely destroy those wicked people, the Amalekites; wage war against them until you have wiped them out.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

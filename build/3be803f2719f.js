@@ -1,0 +1,1 @@
+(function(){var b="3be803f2719f",m="# 1 Samuel 17:58 (New International Version)\n\"Whose son are you, young man?\" Saul asked him.\nDavid said, \"I am the son of your servant Jesse<sup>^A</sup> of Bethlehem.\"\n\n### Crossrefs\n- A: S [[Ruth-4-17|Ru 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

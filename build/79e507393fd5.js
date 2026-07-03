@@ -1,0 +1,1 @@
+(function(){var b="79e507393fd5",m="# 2 Samuel 1:7 (New International Version)\nWhen he turned around and saw me, he called out to me, and I said, 'What can I do?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

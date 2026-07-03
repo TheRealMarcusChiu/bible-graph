@@ -1,0 +1,1 @@
+(function(){var b="a2bca50f4416",m="# 1 Samuel 17:30 (New International Version)\nHe then turned away to someone else and brought up the same matter, and the men answered him as before.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

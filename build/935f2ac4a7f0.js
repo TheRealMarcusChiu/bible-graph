@@ -1,0 +1,1 @@
+(function(){var b="935f2ac4a7f0",m="# 1 Samuel 8:20 (New International Version)\nThen we will be like all the other nations,<sup>^A</sup> with a king to lead us and to go out before us and fight our battles.\"\n\n### Crossrefs\n- A: S [[1Sam-8-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

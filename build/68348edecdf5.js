@@ -1,0 +1,1 @@
+(function(){var b="68348edecdf5",m="# 2 Samuel 11:23 (New International Version)\nThe messenger said to David, \"The men overpowered us and came out against us in the open, but we drove them back to the entrance of the city gate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

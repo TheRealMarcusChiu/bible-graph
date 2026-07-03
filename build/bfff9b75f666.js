@@ -1,0 +1,1 @@
+(function(){var b="bfff9b75f666",m="# 2 Samuel 11:18 (New International Version)\nJoab sent David a full account of the battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

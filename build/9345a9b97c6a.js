@@ -1,0 +1,1 @@
+(function(){var b="9345a9b97c6a",m="# 1 Samuel 30:11 (New International Version)\nThey found an Egyptian in a field and brought him to David. They gave him water to drink and food to eat--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

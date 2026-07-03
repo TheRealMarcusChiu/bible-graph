@@ -1,0 +1,1 @@
+(function(){var b="4156f954bb9d",m="# 1 Samuel 2:24 (New International Version)\nNo, my sons; the report I hear spreading among the LORD's people is not good.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

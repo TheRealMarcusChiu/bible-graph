@@ -1,0 +1,1 @@
+(function(){var b="b6ae844f8403",m="# 2 Samuel 13:21 (New International Version)\nWhen King David heard all this, he was furious.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-34-7|Ge 34:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

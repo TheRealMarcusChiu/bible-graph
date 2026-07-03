@@ -1,0 +1,1 @@
+(function(){var b="76aaaf56ad08",m="# 1 Samuel 19:12 (New International Version)\nSo Michal let David down through a window,<sup>^A</sup> and he fled and escaped. \n\n### Crossrefs\n- A: S [[Josh-2-15|Jos 2:15]]; [[Acts-9-25|Ac 9:25]]; [[2Cor-11-33|2Co 11:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

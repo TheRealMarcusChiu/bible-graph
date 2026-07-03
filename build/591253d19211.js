@@ -1,0 +1,1 @@
+(function(){var b="591253d19211",m="# 2 Samuel 10:7 (New International Version)\nOn hearing this, David sent Joab<sup>^A</sup> out with the entire army of fighting men. \n\n### Crossrefs\n- A: S [[2Sam-2-18|2Sa 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

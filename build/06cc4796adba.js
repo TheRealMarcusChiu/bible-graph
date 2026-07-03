@@ -1,0 +1,1 @@
+(function(){var b="06cc4796adba",m="# 1 Samuel 31:11 (New International Version)\nWhen the people of Jabesh Gilead<sup>^A</sup> heard what the Philistines had done to Saul, \n\n### Crossrefs\n- A: S [[Judg-21-8|Jdg 21:8]]; S [[1Sam-11-1|1Sa 11:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

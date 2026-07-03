@@ -1,0 +1,1 @@
+(function(){var b="2a6b42c11dbd",m="# 2 Samuel 13:31 (New International Version)\nThe king stood up, tore<sup>^A</sup> his clothes and lay down on the ground; and all his attendants stood by with their clothes torn.\n\n### Crossrefs\n- A: S [[Num-14-6|Nu 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

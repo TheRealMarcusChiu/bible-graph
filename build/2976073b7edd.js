@@ -1,0 +1,1 @@
+(function(){var b="2976073b7edd",m="# Judges 15:15 (New International Version)\nFinding a fresh jawbone of a donkey, he grabbed it and struck down a thousand men.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-26-8|Lev 26:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

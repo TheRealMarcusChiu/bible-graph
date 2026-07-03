@@ -1,0 +1,1 @@
+(function(){var b="9bbed870bf7b",m="# 2 Samuel 17:6 (New International Version)\nWhen Hushai came to him, Absalom said, \"Ahithophel has given this advice. Should we do what he says? If not, give us your opinion.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4e8a0bb96a20",m="# 2 Samuel 10:5 (New International Version)\nWhen David was told about this, he sent messengers to meet the men, for they were greatly humiliated. The king said, \"Stay at Jericho till your beards have grown, and then come back.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a5ff0430e967",m="# Judges 14:7 (New International Version)\nThen he went down and talked with the woman, and he liked her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33be895841dd",m="# 1 Samuel 21:10 (New International Version)\nDavid at Gath\nThat day David fled from Saul and went<sup>^A</sup> to Achish king of Gath. \n\n### Crossrefs\n- A: [[1Sam-25-13|1Sa 25:13]]; [[1Sam-27-2|27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

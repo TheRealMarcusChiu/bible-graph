@@ -1,0 +1,1 @@
+(function(){var b="a8765555767e",m="# 1 Samuel 25:11 (New International Version)\nWhy should I take my bread<sup>^A</sup> and water, and the meat I have slaughtered for my shearers, and give it to men coming from who knows where?\"\n\n### Crossrefs\n- A: [[Judg-8-6|Jdg 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

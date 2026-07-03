@@ -1,0 +1,1 @@
+(function(){var b="14ab3ed8fd40",m="# 2 Samuel 3:2 (New International Version)\nSons were born to David in Hebron:\nHis firstborn was Amnon<sup>^A</sup> the son of Ahinoam<sup>^B</sup> of Jezreel;\n\n### Crossrefs\n- A: [[2Sam-13-1|2Sa 13:1]]\n- B: S [[1Sam-25-43|1Sa 25:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

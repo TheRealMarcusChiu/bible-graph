@@ -1,0 +1,1 @@
+(function(){var b="41063117c100",m="# Judges 21:24 (New International Version)\nAt that time the Israelites left that place and went home to their tribes and clans, each to his own inheritance.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

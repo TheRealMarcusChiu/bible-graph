@@ -1,0 +1,1 @@
+(function(){var b="2cf9bf12d7c5",m="# 2 Samuel 3:33 (New International Version)\nThe king sang this lament<sup>^A</sup> for Abner:\n\"Should Abner have died as the lawless die?\n\n### Crossrefs\n- A: S [[Gen-50-10|Ge 50:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

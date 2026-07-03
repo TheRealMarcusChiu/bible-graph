@@ -1,0 +1,1 @@
+(function(){var b="333e1e008022",m="# 1 Samuel 3:14 (New International Version)\nTherefore I swore to the house of Eli, 'The guilt of Eli's house will never be atoned<sup>^A</sup> for by sacrifice or offering.'\"\n\n### Crossrefs\n- A: S [[1Sam-2-25|1Sa 2:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

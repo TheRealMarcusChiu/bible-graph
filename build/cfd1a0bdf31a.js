@@ -1,0 +1,1 @@
+(function(){var b="cfd1a0bdf31a",m="# 1 Samuel 30:18 (New International Version)\nDavid recovered<sup>^A</sup> everything the Amalekites had taken, including his two wives. \n\n### Crossrefs\n- A: S [[Gen-14-16|Ge 14:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

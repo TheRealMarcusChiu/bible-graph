@@ -1,0 +1,1 @@
+(function(){var b="cb0997047a0b",m="# 1 Samuel 24:7 (New International Version)\nWith these words David sharply rebuked his men and did not allow them to attack Saul. And Saul left the cave and went his way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ab71976efa28",m="# 1 Samuel 4:2 (New International Version)\nThe Philistines deployed their forces to meet Israel, and as the battle spread, Israel was defeated by the Philistines, who killed about four thousand of them on the battlefield.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

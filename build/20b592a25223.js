@@ -1,0 +1,1 @@
+(function(){var b="20b592a25223",m="# Judges 13:18 (New International Version)\nHe replied, \"Why do you ask my name?<sup>^A</sup> It is beyond understanding.\" \n\n### Crossrefs\n- A: S [[Gen-32-29|Ge 32:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

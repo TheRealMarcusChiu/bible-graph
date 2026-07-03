@@ -1,0 +1,1 @@
+(function(){var b="84d2c19fa1d7",m="# 1 Samuel 28:20 (New International Version)\nImmediately Saul fell full length on the ground, filled with fear because of Samuel's words. His strength was gone, for he had eaten nothing all that day and all that night.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

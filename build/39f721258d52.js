@@ -1,0 +1,1 @@
+(function(){var b="39f721258d52",m="# 2 Samuel 15:9 (New International Version)\nThe king said to him, \"Go in peace.\" So he went to Hebron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c104f4102e1b",m="# 1 Samuel 15:5 (New International Version)\nSaul went to the city of Amalek and set an ambush in the ravine.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

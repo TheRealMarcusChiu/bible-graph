@@ -1,0 +1,1 @@
+(function(){var b="3659369a2f5d",m="# 1 Samuel 9:18 (New International Version)\nSaul approached Samuel in the gateway and asked, \"Would you please tell me where the seer's house is?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

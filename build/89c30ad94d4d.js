@@ -1,0 +1,1 @@
+(function(){var b="89c30ad94d4d",m="# 2 Samuel 1:11 (New International Version)\nThen David and all the men with him took hold of their clothes and tore<sup>^A</sup> them. \n\n### Crossrefs\n- A: S [[Gen-37-29|Ge 37:29]]; S [[Num-14-6|Nu 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

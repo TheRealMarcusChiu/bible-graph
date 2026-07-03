@@ -1,0 +1,1 @@
+(function(){var b="4363a9f429f0",m="# 1 Samuel 13:10 (New International Version)\nJust as he finished making the offering, Samuel<sup>^A</sup> arrived, and Saul went out to greet<sup>^B</sup> him.\n\n### Crossrefs\n- A: [[1Sam-15-13|1Sa 15:13]]\n- B: [[1Sam-25-14|1Sa 25:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

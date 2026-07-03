@@ -1,0 +1,1 @@
+(function(){var b="904cef550fc1",m="# Judges 21:6 (New International Version)\nNow the Israelites grieved for the tribe of Benjamin, their fellow Israelites. \"Today one tribe is cut off from Israel,\" they said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

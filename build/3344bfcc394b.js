@@ -1,0 +1,1 @@
+(function(){var b="3344bfcc394b",m="# 2 Samuel 13:9 (New International Version)\nThen she took the pan and served him the bread, but he refused to eat.\n\"Send everyone out of here,\"<sup>^A</sup> Amnon said. So everyone left him. \n\n### Crossrefs\n- A: [[Gen-45-1|Ge 45:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

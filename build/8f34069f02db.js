@@ -1,0 +1,1 @@
+(function(){var b="8f34069f02db",m="# 2 Samuel 5:13 (New International Version)\nAfter he left Hebron, David took more concubines and wives<sup>^A</sup> in Jerusalem, and more sons and daughters were born to him. \n\n### Crossrefs\n- A: S [[Deut-17-17|Dt 17:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

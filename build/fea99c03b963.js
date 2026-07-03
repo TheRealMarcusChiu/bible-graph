@@ -1,0 +1,1 @@
+(function(){var b="fea99c03b963",m="# 1 Samuel 31:8 (New International Version)\nThe next day, when the Philistines<sup>^A</sup> came to strip the dead, they found Saul and his three sons fallen on Mount Gilboa. \n\n### Crossrefs\n- A: [[2Sam-1-20|2Sa 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

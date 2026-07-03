@@ -1,0 +1,1 @@
+(function(){var b="848934233adf",m="# 1 Samuel 27:7 (New International Version)\nDavid lived<sup>^A</sup> in Philistine territory a year and four months.\n\n### Crossrefs\n- A: [[1Sam-29-3|1Sa 29:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

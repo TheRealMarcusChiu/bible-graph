@@ -1,0 +1,1 @@
+(function(){var b="2338ee723866",m="# 1 Samuel 29:8 (New International Version)\n\"But what have I done?\" asked David. \"What have you found against your servant from the day I came to you until now? Why can't I go and fight against the enemies of my lord the king?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

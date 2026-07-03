@@ -1,0 +1,1 @@
+(function(){var b="20f1d622133a",m="# Judges 14:10 (New International Version)\nNow his father went down to see the woman. And there Samson held a feast,<sup>^A</sup> as was customary for young men. \n\n### Crossrefs\n- A: S [[Gen-29-22|Ge 29:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

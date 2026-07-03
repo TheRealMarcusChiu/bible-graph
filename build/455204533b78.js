@@ -1,0 +1,1 @@
+(function(){var b="455204533b78",m="# 2 Samuel 12:27 (New International Version)\nJoab then sent messengers to David, saying, \"I have fought against Rabbah and taken its water supply.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

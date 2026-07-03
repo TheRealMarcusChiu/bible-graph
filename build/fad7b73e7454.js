@@ -1,0 +1,1 @@
+(function(){var b="fad7b73e7454",m="# Judges 20:47 (New International Version)\nBut six hundred of them turned and fled into the wilderness to the rock of Rimmon, where they stayed four months.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

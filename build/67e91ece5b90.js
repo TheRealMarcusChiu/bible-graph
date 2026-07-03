@@ -1,0 +1,1 @@
+(function(){var b="67e91ece5b90",m="# 2 Samuel 6\n\nDavid's reign as king of Israel, his sin with Bathsheba, and its consequences for his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

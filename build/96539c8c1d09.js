@@ -1,0 +1,1 @@
+(function(){var b="96539c8c1d09",m="# Judges 21:2 (New International Version)\nThe people went to Bethel, where they sat before God until evening, raising their voices and weeping bitterly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd8ecc4ed953",m="# Ruth 3:16 (New International Version)\nWhen Ruth came to her mother-in-law, Naomi asked, \"How did it go, my daughter?\"\nThen she told her everything Boaz had done for her";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

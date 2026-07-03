@@ -1,0 +1,1 @@
+(function(){var b="177f1a03ba1d",m="# 2 Samuel 14:15 (New International Version)\n\"And now I have come to say this to my lord the king because the people have made me afraid. Your servant thought, 'I will speak to the king; perhaps he will grant his servant's request.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

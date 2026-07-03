@@ -1,0 +1,1 @@
+(function(){var b="340dc8cf625f",m="# Judges 21:16 (New International Version)\nAnd the elders of the assembly said, \"With the women of Benjamin destroyed, how shall we provide wives for the men who are left?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c1d2e693b11f",m="# 1 Samuel 1:6 (New International Version)\nBecause the LORD had closed Hannah's womb, her rival kept provoking her in order to irritate her.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-16-4|Ge 16:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

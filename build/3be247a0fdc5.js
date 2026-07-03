@@ -1,0 +1,1 @@
+(function(){var b="3be247a0fdc5",m="# 2 Samuel 3:37 (New International Version)\nSo on that day all the people there and all Israel knew that the king had no part<sup>^A</sup> in the murder of Abner son of Ner.\n\n### Crossrefs\n- A: S [[2Sam-3-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

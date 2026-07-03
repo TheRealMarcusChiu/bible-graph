@@ -1,0 +1,1 @@
+(function(){var b="997c144e5aca",m="# Judges 20:15 (New International Version)\nAt once the Benjamites mobilized twenty-six thousand swordsmen from their towns, in addition to seven hundred able young men from those living in Gibeah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

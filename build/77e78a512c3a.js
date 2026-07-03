@@ -1,0 +1,1 @@
+(function(){var b="77e78a512c3a",m="# 2 Samuel 15:29 (New International Version)\nSo Zadok and Abiathar took the ark of God back to Jerusalem and stayed there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f7cd03d4561d",m="# Ruth 1:10 (New International Version)\nand said to her, \"We will go back with you to your people.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="59e83ab9f07a",m="# 1 Samuel 14:1 (New International Version)\nOne day Jonathan son of Saul said to his young armor-bearer, \"Come, let's go over to the Philistine outpost on the other side.\" But he did not tell his father.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

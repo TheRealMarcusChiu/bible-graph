@@ -1,0 +1,1 @@
+(function(){var b="209e0c33b86f",m="# 2 Samuel 2:21 (New International Version)\nThen Abner said to him, \"Turn aside to the right or to the left; take on one of the young men and strip him of his weapons.\" But Asahel would not stop chasing him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

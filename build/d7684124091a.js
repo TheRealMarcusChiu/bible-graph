@@ -1,0 +1,1 @@
+(function(){var b="d7684124091a",m="# Judges 20:14 (New International Version)\nFrom their towns they came together at Gibeah to fight against the Israelites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="914c14b45288",m="# 2 Samuel 16:13 (New International Version)\nSo David and his men continued along the road while Shimei was going along the hillside opposite him, cursing as he went and throwing stones at him and showering him with dirt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

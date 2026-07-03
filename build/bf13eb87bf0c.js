@@ -1,0 +1,1 @@
+(function(){var b="bf13eb87bf0c",m="# 1 Samuel 15:31 (New International Version)\nSo Samuel went back with Saul, and Saul worshiped the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

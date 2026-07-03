@@ -1,0 +1,1 @@
+(function(){var b="3ec270b03d96",m="# 2 Samuel 12:29 (New International Version)\nSo David mustered the entire army and went to Rabbah, and attacked and captured it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

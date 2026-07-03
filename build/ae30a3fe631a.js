@@ -1,0 +1,1 @@
+(function(){var b="ae30a3fe631a",m="# 2 Samuel 11:10 (New International Version)\nDavid was told, \"Uriah did not go home.\" So he asked Uriah, \"Haven't you just come from a military campaign? Why didn't you go home?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c45230de7a23",m="# Ruth 2:15 (New International Version)\nAs she got up to glean, Boaz gave orders to his men, \"Let her gather among the sheaves<sup>^A</sup> and don't reprimand her. \n\n### Crossrefs\n- A: S [[Gen-37-7|Ge 37:7]]; S [[Lev-19-9|Lev 19:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

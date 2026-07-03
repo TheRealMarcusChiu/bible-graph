@@ -1,0 +1,1 @@
+(function(){var b="e84d84fad9d6",m="# 1 Samuel 15:32 (New International Version)\nThen Samuel said, \"Bring me Agag king of the Amalekites.\"\nAgag came to him in chains. And he thought, \"Surely the bitterness of death is past.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

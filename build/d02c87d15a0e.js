@@ -1,0 +1,1 @@
+(function(){var b="d02c87d15a0e",m="# 1 Samuel 17:15 (New International Version)\nbut David went back and forth from Saul to tend<sup>^A</sup> his father's sheep<sup>^B</sup> at Bethlehem.\n\n### Crossrefs\n- A: S [[Gen-37-2|Ge 37:2]]\n- B: [[1Sam-16-19|1Sa 16:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="09d7fbd5ecaf",m="# 1 Samuel 9:15 (New International Version)\nNow the day before Saul came, the LORD had revealed this to Samuel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a167bcab3e8f",m="# 1 Samuel 1:26 (New International Version)\nand she said to him, \"Pardon me, my lord. As surely as you live, I am the woman who stood here beside you praying to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

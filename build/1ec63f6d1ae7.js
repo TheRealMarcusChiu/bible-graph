@@ -1,0 +1,1 @@
+(function(){var b="1ec63f6d1ae7",m="# Judges 18:8 (New International Version)\nWhen they returned to Zorah and Eshtaol, their fellow Danites asked them, \"How did you find things?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f28766a5dc43",m="# 1 Samuel 3:4 (New International Version)\nThen the LORD called Samuel.\nSamuel answered, \"Here I am.<sup>^A</sup>\" \n\n### Crossrefs\n- A: S [[Gen-22-1|Ge 22:1]]; S [[Exod-3-4|Ex 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

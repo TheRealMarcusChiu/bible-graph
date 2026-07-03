@@ -1,0 +1,1 @@
+(function(){var b="11edfa90ab42",m="# 1 Samuel 23:10 (New International Version)\nDavid said, \"LORD, God of Israel, your servant has heard definitely that Saul plans to come to Keilah and destroy the town on account of me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

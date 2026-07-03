@@ -1,0 +1,1 @@
+(function(){var b="ca9034bc9002",m="# 1 Samuel 29:11 (New International Version)\nSo David and his men got up early in the morning to go back to the land of the Philistines, and the Philistines went up to Jezreel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

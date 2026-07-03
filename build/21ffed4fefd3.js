@@ -1,0 +1,1 @@
+(function(){var b="21ffed4fefd3",m="# 1 Samuel 20:4 (New International Version)\nJonathan said to David, \"Whatever you want me to do, I'll do for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

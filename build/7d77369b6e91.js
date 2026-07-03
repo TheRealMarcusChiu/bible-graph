@@ -1,0 +1,1 @@
+(function(){var b="7d77369b6e91",m="# 1 Samuel 26:14 (New International Version)\nHe called out to the army and to Abner son of Ner, \"Aren't you going to answer me, Abner?\"\nAbner replied, \"Who are you who calls to the king?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

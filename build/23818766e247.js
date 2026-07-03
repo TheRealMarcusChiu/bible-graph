@@ -1,0 +1,1 @@
+(function(){var b="23818766e247",m="# Ruth 4:21 (New International Version)\nSalmon the father of Boaz,<sup>^A</sup>\nBoaz the father of Obed,\n\n### Crossrefs\n- A: S [[Ruth-2-1|Ru 2:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

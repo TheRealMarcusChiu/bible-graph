@@ -1,0 +1,1 @@
+(function(){var b="4f41474d331c",m="# 1 Samuel 16:17 (New International Version)\nSo Saul said to his attendants, \"Find someone who plays well and bring him to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

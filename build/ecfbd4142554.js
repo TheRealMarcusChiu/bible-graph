@@ -1,0 +1,1 @@
+(function(){var b="ecfbd4142554",m="# 1 Samuel 20:17 (New International Version)\nAnd Jonathan had David reaffirm his oath<sup>^A</sup> out of love for him, because he loved him as he loved himself.\n\n### Crossrefs\n- A: S [[Josh-9-18|Jos 9:18]]; S [[1Sam-18-3|1Sa 18:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c73b49debf61",m="# 1 Samuel 28:22 (New International Version)\nNow please listen to your servant and let me give you some food so you may eat and have the strength to go on your way.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

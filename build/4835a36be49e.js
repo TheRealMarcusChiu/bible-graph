@@ -1,0 +1,1 @@
+(function(){var b="4835a36be49e",m="# 1 Samuel 30:30 (New International Version)\nto those in Hormah,<sup>^A</sup> Bor Ashan,<sup>^B</sup> Athak \n\n### Crossrefs\n- A: S [[Num-14-45|Nu 14:45]]; S [[Num-21-3|21:3]]\n- B: S [[Josh-15-42|Jos 15:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

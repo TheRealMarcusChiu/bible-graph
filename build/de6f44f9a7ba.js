@@ -1,0 +1,1 @@
+(function(){var b="de6f44f9a7ba",m="# 1 Samuel 30:10 (New International Version)\nTwo hundred of them were too exhausted<sup>^A</sup> to cross the valley, but David and the other four hundred continued the pursuit.\n\n### Crossrefs\n- A: [[1Sam-30-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

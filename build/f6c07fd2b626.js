@@ -1,0 +1,1 @@
+(function(){var b="f6c07fd2b626",m="# 1 Samuel 20:40 (New International Version)\nThen Jonathan gave his weapons to the boy and said, \"Go, carry them back to town.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

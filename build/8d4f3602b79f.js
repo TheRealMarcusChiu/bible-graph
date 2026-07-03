@@ -1,0 +1,1 @@
+(function(){var b="8d4f3602b79f",m="# 1 Samuel 15:4 (New International Version)\nSo Saul summoned the men and mustered them at Telaim--two hundred thousand foot soldiers and ten thousand from Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7f8de2214714",m="# 2 Samuel 17:21 (New International Version)\nAfter they had gone, the two climbed out of the well and went to inform King David. They said to him, \"Set out and cross the river at once; Ahithophel has advised such and such against you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

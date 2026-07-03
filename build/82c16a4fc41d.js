@@ -1,0 +1,1 @@
+(function(){var b="82c16a4fc41d",m="# 2 Samuel 13:35 (New International Version)\nJonadab said to the king, \"See, the king's sons have come; it has happened just as your servant said.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

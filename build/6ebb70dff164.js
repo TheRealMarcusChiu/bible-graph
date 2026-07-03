@@ -1,0 +1,1 @@
+(function(){var b="6ebb70dff164",m="# Judges 12:10 (New International Version)\nThen Ibzan died and was buried in Bethlehem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

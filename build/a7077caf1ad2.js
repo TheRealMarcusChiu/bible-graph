@@ -1,0 +1,1 @@
+(function(){var b="a7077caf1ad2",m="# Ruth 2:21 (New International Version)\nThen Ruth the Moabite<sup>^A</sup> said, \"He even said to me, 'Stay with my workers until they finish harvesting all my grain.'\"\n\n### Crossrefs\n- A: S [[Ruth-1-22|Ru 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

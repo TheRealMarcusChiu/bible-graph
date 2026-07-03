@@ -1,0 +1,1 @@
+(function(){var b="f23dd45c8375",m="# Judges 21:17 (New International Version)\nThe Benjamite survivors must have heirs,\" they said, \"so that a tribe of Israel will not be wiped out.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Judg-21-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0b3f64e46b2f",m="# 1 Samuel 20:19 (New International Version)\nThe day after tomorrow, toward evening, go to the place where you hid<sup>^A</sup> when this trouble began, and wait by the stone Ezel. \n\n### Crossrefs\n- A: S [[1Sam-19-2|1Sa 19:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

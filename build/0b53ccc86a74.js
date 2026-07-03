@@ -1,0 +1,1 @@
+(function(){var b="0b53ccc86a74",m="# 1 Samuel 13:8 (New International Version)\nHe waited seven<sup>^A</sup> days, the time set by Samuel; but Samuel did not come to Gilgal, and Saul's men began to scatter. \n\n### Crossrefs\n- A: [[1Sam-10-8|1Sa 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

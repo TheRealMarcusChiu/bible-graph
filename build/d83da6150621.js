@@ -1,0 +1,1 @@
+(function(){var b="d83da6150621",m="# 2 Samuel 17:22 (New International Version)\nSo David and all the people with him set out and crossed the Jordan. By daybreak, no one was left who had not crossed the Jordan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

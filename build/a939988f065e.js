@@ -1,0 +1,1 @@
+(function(){var b="a939988f065e",m="# 1 Samuel 19:15 (New International Version)\nThen Saul sent the men back to see David and told them, \"Bring him up to me in his bed so that I may kill him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

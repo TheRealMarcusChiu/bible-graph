@@ -1,0 +1,1 @@
+(function(){var b="c42c7950f68f",m="# 1 Samuel 24:16 (New International Version)\nWhen David finished saying this, Saul asked, \"Is that your voice,<sup>^A</sup> David my son?\" And he wept aloud. \n\n### Crossrefs\n- A: [[1Sam-26-17|1Sa 26:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

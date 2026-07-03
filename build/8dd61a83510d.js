@@ -1,0 +1,1 @@
+(function(){var b="8dd61a83510d",m="# 1 Samuel 27:4 (New International Version)\nWhen Saul was told that David had fled to Gath, he no longer searched for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

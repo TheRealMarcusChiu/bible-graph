@@ -1,0 +1,1 @@
+(function(){var b="54d626072919",m="# 2 Samuel 6:4 (New International Version)\nwith the ark of God on it, and Ahio was walking in front of it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

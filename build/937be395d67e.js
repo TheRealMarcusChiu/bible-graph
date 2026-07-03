@@ -1,0 +1,1 @@
+(function(){var b="937be395d67e",m="# 2 Samuel 13:17 (New International Version)\nHe called his personal servant and said, \"Get this woman out of my sight and bolt the door after her.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

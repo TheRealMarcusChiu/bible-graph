@@ -1,0 +1,1 @@
+(function(){var b="183dbae1a9bf",m="# 2 Samuel 15:17 (New International Version)\nSo the king set out, with all the people following him, and they halted at the edge of the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

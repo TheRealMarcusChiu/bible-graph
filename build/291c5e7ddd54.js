@@ -1,0 +1,1 @@
+(function(){var b="291c5e7ddd54",m="# 2 Samuel 2:19 (New International Version)\nHe chased Abner, turning neither to the right nor to the left as he pursued him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

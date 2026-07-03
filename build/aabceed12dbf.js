@@ -1,0 +1,1 @@
+(function(){var b="aabceed12dbf",m="# Judges 21:20 (New International Version)\nSo they instructed the Benjamites, saying, \"Go and hide in the vineyards";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

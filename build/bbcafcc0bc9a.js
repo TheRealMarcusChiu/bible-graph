@@ -1,0 +1,1 @@
+(function(){var b="bbcafcc0bc9a",m="# 2 Samuel 12:16 (New International Version)\nDavid pleaded with God for the child. He fasted and spent the nights lying<sup>^A</sup> in sackcloth on the ground. \n\n### Crossrefs\n- A: [[Ps-5-7|Ps 5:7]]; [[Ps-95-6|95:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="90e61eccd1dd",m="# 2 Samuel 12:6 (New International Version)\nHe must pay for that lamb four times over,<sup>^A</sup> because he did such a thing and had no pity.\"\n\n### Crossrefs\n- A: [[Exod-22-1|Ex 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

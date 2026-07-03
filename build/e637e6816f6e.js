@@ -1,0 +1,1 @@
+(function(){var b="e637e6816f6e",m="# 1 Samuel 28:5 (New International Version)\nWhen Saul saw the Philistine army, he was afraid; terror<sup>^A</sup> filled his heart. \n\n### Crossrefs\n- A: S [[Exod-19-16|Ex 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

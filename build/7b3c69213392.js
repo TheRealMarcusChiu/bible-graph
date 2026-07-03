@@ -1,0 +1,1 @@
+(function(){var b="7b3c69213392",m="# 2 Samuel 17:15 (New International Version)\nHushai told Zadok and Abiathar, the priests, \"Ahithophel has advised Absalom and the elders of Israel to do such and such, but I have advised them to do so and so.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

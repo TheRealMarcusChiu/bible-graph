@@ -1,0 +1,1 @@
+(function(){var b="2e97b34b5238",m="# Judges 20:3 (New International Version)\n(The Benjamites heard that the Israelites had gone up to Mizpah.) Then the Israelites said, \"Tell us how this awful thing happened.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

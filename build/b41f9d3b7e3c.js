@@ -1,0 +1,1 @@
+(function(){var b="b41f9d3b7e3c",m="# 1 Samuel 9:22 (New International Version)\nThen Samuel brought Saul and his servant into the hall and seated them at the head of those who were invited--about thirty in number.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

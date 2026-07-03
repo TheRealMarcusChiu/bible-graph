@@ -1,0 +1,1 @@
+(function(){var b="324c9ee86461",m="# Judges 16:10 (New International Version)\nThen Delilah said to Samson, \"You have made a fool of me;<sup>^A</sup> you lied to me. Come now, tell me how you can be tied.\"\n\n### Crossrefs\n- A: [[Judg-16-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

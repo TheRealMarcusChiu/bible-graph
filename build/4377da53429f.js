@@ -1,0 +1,1 @@
+(function(){var b="4377da53429f",m="# Judges 16:8 (New International Version)\nThen the rulers of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

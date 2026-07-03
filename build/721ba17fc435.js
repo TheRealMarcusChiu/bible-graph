@@ -1,0 +1,1 @@
+(function(){var b="721ba17fc435",m="# Judges 18:22 (New International Version)\nWhen they had gone some distance from Micah's house, the men who lived near Micah were called together and overtook the Danites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

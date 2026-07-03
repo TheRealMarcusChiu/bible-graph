@@ -1,0 +1,1 @@
+(function(){var b="52e01fd1915f",m="# 2 Samuel 14:18 (New International Version)\nThen the king said to the woman, \"Don't keep from me the answer to what I am going to ask you.\"\n\"Let my lord the king speak,\" the woman said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7c70d0029c52",m="# 1 Samuel 9:14 (New International Version)\nThey went up to the town, and as they were entering it, there was Samuel, coming toward them on his way up to the high place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

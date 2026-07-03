@@ -1,0 +1,1 @@
+(function(){var b="bf65d744f82a",m="# 1 Samuel 2:19 (New International Version)\nEach year his mother made him a little robe and took it to him when she went up with her husband to offer the annual<sup>^A</sup> sacrifice. \n\n### Crossrefs\n- A: S [[1Sam-1-3|1Sa 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

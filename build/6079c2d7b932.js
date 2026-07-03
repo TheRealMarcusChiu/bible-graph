@@ -1,0 +1,1 @@
+(function(){var b="6079c2d7b932",m="# 2 Samuel 9:13 (New International Version)\nAnd Mephibosheth lived in Jerusalem, because he always ate at the king's table; he was lame in both feet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

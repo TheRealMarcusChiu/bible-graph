@@ -1,0 +1,1 @@
+(function(){var b="55f3c223d463",m="# 2 Samuel 3:15 (New International Version)\nSo Ish-Bosheth gave orders and had her taken away from her husband<sup>^A</sup> Paltiel<sup>^B</sup> son of Laish. \n\n### Crossrefs\n- A: [[Deut-24-1|Dt 24:1-4]]\n- B: [[1Sam-25-44|1Sa 25:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

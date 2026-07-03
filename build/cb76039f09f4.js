@@ -1,0 +1,1 @@
+(function(){var b="cb76039f09f4",m="# 1 Samuel 21:3 (New International Version)\nNow then, what do you have on hand? Give me five loaves of bread, or whatever you can find.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

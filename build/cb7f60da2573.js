@@ -1,0 +1,1 @@
+(function(){var b="cb7f60da2573",m="# 1 Samuel 24:2 (New International Version)\nSo Saul took three thousand able young men from all Israel and set out to look<sup>^A</sup> for David and his men near the Crags of the Wild Goats.\n\n### Crossrefs\n- A: [[1Sam-26-2|1Sa 26:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

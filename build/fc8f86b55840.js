@@ -1,0 +1,1 @@
+(function(){var b="fc8f86b55840",m="# 2 Samuel 15:3 (New International Version)\nThen Absalom would say to him, \"Look, your claims are valid and proper, but there is no representative of the king to hear you.\"<sup>^A</sup> \n\n### Crossrefs\n- A: [[Prov-12-2|Pr 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

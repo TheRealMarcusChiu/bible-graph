@@ -1,0 +1,1 @@
+(function(){var b="b94d11e96495",m="# 2 Samuel 7:4 (New International Version)\nBut that night the word of the LORD came to Nathan, saying:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

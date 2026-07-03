@@ -1,0 +1,1 @@
+(function(){var b="1af8745732ff",m="# 1 Samuel 8:16 (New International Version)\nYour male and female servants and the best of your cattle and donkeys he will take for his own use.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="468d9c75ab17",m="# Judges 12:8 (New International Version)\nIbzan, Elon and Abdon\nAfter him, Ibzan of Bethlehem<sup>^A</sup> led Israel. \n\n### Crossrefs\n- A: S [[Gen-35-19|Ge 35:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fb9d89576f08",m="# Judges 21:13 (New International Version)\nThen the whole assembly sent an offer of peace<sup>^A</sup> to the Benjamites at the rock of Rimmon.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Deut-2-26|Dt 2:26]]\n- B: S [[Josh-15-32|Jos 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

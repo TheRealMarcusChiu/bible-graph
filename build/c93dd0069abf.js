@@ -1,0 +1,1 @@
+(function(){var b="c93dd0069abf",m="# 1 Samuel 23:27 (New International Version)\na messenger came to Saul, saying, \"Come quickly! The Philistines are raiding the land.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0856d8f55488",m="# 1 Samuel 9:26 (New International Version)\nThey rose about daybreak, and Samuel called to Saul on the roof, \"Get ready, and I will send you on your way.\" When Saul got ready, he and Samuel went outside together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

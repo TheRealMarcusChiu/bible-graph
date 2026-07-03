@@ -1,0 +1,1 @@
+(function(){var b="e778f3d06dcc",m="# 2 Samuel 13:16 (New International Version)\n\"No!\" she said to him. \"Sending me away would be a greater wrong than what you have already done to me.\"\nBut he refused to listen to her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

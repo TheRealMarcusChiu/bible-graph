@@ -1,0 +1,1 @@
+(function(){var b="130f7819a835",m="# 1 Samuel 20:36 (New International Version)\nand he said to the boy, \"Run and find the arrows I shoot.\" As the boy ran, he shot an arrow beyond him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

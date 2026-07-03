@@ -1,0 +1,1 @@
+(function(){var b="5a79fcdfda33",m="# 1 Samuel 24:1 (New International Version)\nDavid Spares Saul's Life\nAfter Saul returned from pursuing the Philistines, he was told, \"David is in the Desert of En Gedi.<sup>^A</sup>\" \n\n### Crossrefs\n- A: S [[Josh-15-62|Jos 15:62]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

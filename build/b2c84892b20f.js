@@ -1,0 +1,1 @@
+(function(){var b="b2c84892b20f",m="# 2 Samuel 1:12 (New International Version)\nThey mourned and wept and fasted till evening for Saul and his son Jonathan, and for the army of the LORD and for the nation of Israel, because they had fallen by the sword.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

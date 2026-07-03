@@ -1,0 +1,1 @@
+(function(){var b="4a7a70875c43",m="# 1 Samuel 10:20 (New International Version)\nWhen Samuel had all Israel come forward by tribes, the tribe of Benjamin was taken by lot.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

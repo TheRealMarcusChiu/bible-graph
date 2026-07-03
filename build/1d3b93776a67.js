@@ -1,0 +1,1 @@
+(function(){var b="1d3b93776a67",m="# 1 Samuel 20:24 (New International Version)\nSo David hid in the field, and when the New Moon feast<sup>^A</sup> came, the king sat down to eat. \n\n### Crossrefs\n- A: S [[Num-10-10|Nu 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f20fd724bafa",m="# 2 Samuel 11:7 (New International Version)\nWhen Uriah came to him, David asked him how Joab was, how the soldiers were and how the war was going.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

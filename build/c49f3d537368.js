@@ -1,0 +1,1 @@
+(function(){var b="c49f3d537368",m="# 2 Samuel 15:35 (New International Version)\nWon't the priests Zadok and Abiathar be there with you? Tell them anything you hear in the king's palace.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Sam-17-15|2Sa 17:15-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

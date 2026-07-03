@@ -1,0 +1,1 @@
+(function(){var b="e31e78759047",m="# 1 Samuel 16:10 (New International Version)\nJesse had seven of his sons pass before Samuel, but Samuel said to him, \"The LORD has not chosen these.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

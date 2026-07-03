@@ -1,0 +1,1 @@
+(function(){var b="dee05c7b37d7",m="# 1 Samuel 23:28 (New International Version)\nThen Saul broke off his pursuit of David and went to meet the Philistines. That is why they call this place Sela Hammahlekoth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

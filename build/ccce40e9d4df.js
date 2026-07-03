@@ -1,0 +1,1 @@
+(function(){var b="ccce40e9d4df",m="# 1 Samuel 28:11 (New International Version)\nThen the woman asked, \"Whom shall I bring up for you?\"\n\"Bring up Samuel,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

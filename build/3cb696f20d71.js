@@ -1,0 +1,1 @@
+(function(){var b="3cb696f20d71",m="# 1 Samuel 4:14 (New International Version)\nEli heard the outcry and asked, \"What is the meaning of this uproar?\"\nThe man hurried over to Eli,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

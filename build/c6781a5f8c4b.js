@@ -1,0 +1,1 @@
+(function(){var b="c6781a5f8c4b",m="# 1 Samuel 14:25 (New International Version)\nThe entire army entered the woods, and there was honey on the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

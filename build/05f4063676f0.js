@@ -1,0 +1,1 @@
+(function(){var b="05f4063676f0",m="# 2 Samuel 15:15 (New International Version)\nThe king's officials answered him, \"Your servants are ready to do whatever our lord the king chooses.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

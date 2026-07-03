@@ -1,0 +1,1 @@
+(function(){var b="2c3c20c6dbcc",m="# 2 Samuel 5:15 (New International Version)\nIbhar, Elishua, Nepheg, Japhia,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

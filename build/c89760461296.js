@@ -1,0 +1,1 @@
+(function(){var b="c89760461296",m="# 2 Samuel 13:8 (New International Version)\nSo Tamar went to the house of her brother Amnon, who was lying down. She took some dough, kneaded it, made the bread in his sight and baked it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

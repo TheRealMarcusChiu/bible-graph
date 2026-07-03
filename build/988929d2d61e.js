@@ -1,0 +1,1 @@
+(function(){var b="988929d2d61e",m="# Judges 19:2 (New International Version)\nBut she was unfaithful to him. She left him and went back to her parents' home in Bethlehem, Judah. After she had been there four months,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

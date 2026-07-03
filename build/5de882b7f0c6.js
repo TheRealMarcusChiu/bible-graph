@@ -1,0 +1,1 @@
+(function(){var b="5de882b7f0c6",m="# 2 Samuel 2:12 (New International Version)\nAbner son of Ner, together with the men of Ish-Bosheth son of Saul, left Mahanaim and went to Gibeon.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-9-3|Jos 9:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

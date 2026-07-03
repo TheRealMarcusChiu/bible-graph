@@ -1,0 +1,1 @@
+(function(){var b="c4c8f9560ccd",m="# 1 Samuel 4:20 (New International Version)\nAs she was dying, the women attending her said, \"Don't despair; you have given birth to a son.\" But she did not respond or pay any attention.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

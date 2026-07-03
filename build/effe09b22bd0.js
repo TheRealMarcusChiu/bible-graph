@@ -1,0 +1,1 @@
+(function(){var b="effe09b22bd0",m="# Judges 20:7 (New International Version)\nNow, all you Israelites, speak up and tell me what you have decided to do.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Judg-19-30|Jdg 19:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

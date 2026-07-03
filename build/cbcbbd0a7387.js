@@ -1,0 +1,1 @@
+(function(){var b="cbcbbd0a7387",m="# Judges 18:21 (New International Version)\nPutting their little children, their livestock and their possessions in front of them, they turned away and left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

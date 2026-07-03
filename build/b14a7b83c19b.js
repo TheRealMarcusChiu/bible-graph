@@ -1,0 +1,1 @@
+(function(){var b="b14a7b83c19b",m="# 1 Samuel 30:3 (New International Version)\nWhen David and his men reached Ziklag, they found it destroyed by fire and their wives and sons and daughters taken captive.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-31-26|Ge 31:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

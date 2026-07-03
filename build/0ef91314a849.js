@@ -1,0 +1,1 @@
+(function(){var b="0ef91314a849",m="# 2 Samuel 13:4 (New International Version)\nHe asked Amnon, \"Why do you, the king's son, look so haggard morning after morning? Won't you tell me?\"\nAmnon said to him, \"I'm in love with Tamar, my brother Absalom's sister.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

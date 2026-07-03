@@ -1,0 +1,1 @@
+(function(){var b="8490b0e8c74d",m="# 1 Samuel 15:13 (New International Version)\nWhen Samuel reached him, Saul said, \"The LORD bless you! I have carried out the LORD's instructions.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

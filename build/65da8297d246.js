@@ -1,0 +1,1 @@
+(function(){var b="65da8297d246",m="# 1 Samuel 14:42 (New International Version)\nSaul said, \"Cast the lot<sup>^A</sup> between me and Jonathan my son.\" And Jonathan was taken.\n\n### Crossrefs\n- A: [[Jonah-1-7|Jnh 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

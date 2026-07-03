@@ -1,0 +1,1 @@
+(function(){var b="eb0b262bb9a7",m="# 2 Samuel 3:17 (New International Version)\nAbner conferred with the elders<sup>^A</sup> of Israel and said, \"For some time you have wanted to make David your king. \n\n### Crossrefs\n- A: S [[Judg-11-11|Jdg 11:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

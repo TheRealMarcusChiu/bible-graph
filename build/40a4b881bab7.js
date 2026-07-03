@@ -1,0 +1,1 @@
+(function(){var b="40a4b881bab7",m="# 2 Samuel 11:24 (New International Version)\nThen the archers shot arrows at your servants from the wall, and some of the king's men died. Moreover, your servant Uriah the Hittite is dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

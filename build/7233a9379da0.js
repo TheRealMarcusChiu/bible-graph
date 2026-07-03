@@ -1,0 +1,1 @@
+(function(){var b="7233a9379da0",m="# Judges 13:13 (New International Version)\nThe angel of the LORD answered, \"Your wife must do all that I have told her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

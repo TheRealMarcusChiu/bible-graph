@@ -1,0 +1,1 @@
+(function(){var b="29fb8687279b",m="# Judges 19:20 (New International Version)\n\"You are welcome at my house,\" the old man said. \"Let me supply whatever you need. Only don't spend the night in the square.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
