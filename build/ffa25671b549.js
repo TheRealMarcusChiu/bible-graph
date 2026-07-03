@@ -1,1 +1,1 @@
-(function(){var b="ffa25671b549",m="# Matthew 14:10 (New International Version)\nand had John beheaded[^A] in the prison. \n\n### Crossrefs\n[^A]: [[Matt-17-12|Mt 17:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="ffa25671b549",m="# Matthew 14:10 (New International Version)\nand had John beheaded<sup>^A</sup> in the prison. \n\n### Crossrefs\n- A: [[Matt-17-12|Mt 17:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="e86ef0699212",m="# Genesis 26:23 (New International Version)\nFrom there he went up to Beersheba.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-22-19|Ge 22:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="e86ef0699212",m="# Genesis 26:23 (New International Version)\nFrom there he went up to Beersheba.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-22-19|Ge 22:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

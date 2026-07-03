@@ -1,1 +1,1 @@
-(function(){var b="75331ce4b7c6",m="# Matthew 15:15 (New International Version)\nPeter said, \"Explain the parable to us.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-13-36|Mt 13:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="75331ce4b7c6",m="# Matthew 15:15 (New International Version)\nPeter said, \"Explain the parable to us.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-13-36|Mt 13:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

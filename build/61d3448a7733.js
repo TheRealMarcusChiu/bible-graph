@@ -1,1 +1,1 @@
-(function(){var b="61d3448a7733",m="# Revelation 13:9 (New International Version)\nWhoever has ears, let them hear.[^A]\n\n### Crossrefs\n[^A]: S [[Rev-2-7|Rev 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="61d3448a7733",m="# Revelation 13:9 (New International Version)\nWhoever has ears, let them hear.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Rev-2-7|Rev 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

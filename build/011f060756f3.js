@@ -1,1 +1,1 @@
-(function(){var b="011f060756f3",m="# Luke 10:3 (New International Version)\nGo! I am sending you out like lambs among wolves.[^A] \n\n### Crossrefs\n[^A]: [[Matt-10-16|Mt 10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="011f060756f3",m="# Luke 10:3 (New International Version)\nGo! I am sending you out like lambs among wolves.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Matt-10-16|Mt 10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

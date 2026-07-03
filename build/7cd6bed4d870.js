@@ -1,1 +1,1 @@
-(function(){var b="7cd6bed4d870",m="# Joshua 19:42 (New International Version)\nShaalabbin, Aijalon,[^A] Ithlah, \n\n### Crossrefs\n[^A]: S [[Josh-10-12|Jos 10:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="7cd6bed4d870",m="# Joshua 19:42 (New International Version)\nShaalabbin, Aijalon,<sup>^A</sup> Ithlah, \n\n### Crossrefs\n- A: S [[Josh-10-12|Jos 10:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

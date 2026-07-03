@@ -1,1 +1,1 @@
-(function(){var b="8cc9573befa8",m="# Numbers 33:33 (New International Version)\nThey left Hor Haggidgad and camped at Jotbathah.[^A]\n\n### Crossrefs\n[^A]: [[Deut-10-7|Dt 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="8cc9573befa8",m="# Numbers 33:33 (New International Version)\nThey left Hor Haggidgad and camped at Jotbathah.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-10-7|Dt 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

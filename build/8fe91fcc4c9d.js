@@ -1,1 +1,1 @@
-(function(){var b="8fe91fcc4c9d",m="# Genesis 24:34 (New International Version)\nSo he said, \"I am Abraham's servant.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-15-3|Ge 15:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="8fe91fcc4c9d",m="# Genesis 24:34 (New International Version)\nSo he said, \"I am Abraham's servant.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-15-3|Ge 15:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

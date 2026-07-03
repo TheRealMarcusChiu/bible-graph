@@ -1,1 +1,1 @@
-(function(){var b="f0c3046a1602",m="# Genesis 11:32 (New International Version)\nTerah[^A] lived 205 years, and he died in Harran.\n\n### Crossrefs\n[^A]: [[Josh-24-2|Jos 24:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f0c3046a1602",m="# Genesis 11:32 (New International Version)\nTerah<sup>^A</sup> lived 205 years, and he died in Harran.\n\n### Crossrefs\n- A: [[Josh-24-2|Jos 24:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

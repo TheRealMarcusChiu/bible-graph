@@ -1,1 +1,1 @@
-(function(){var b="105b2447dbd9",m="# Numbers 28:21 (New International Version)\nand with each of the seven lambs, one-tenth.[^A] \n\n### Crossrefs\n[^A]: [[Num-28-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="105b2447dbd9",m="# Numbers 28:21 (New International Version)\nand with each of the seven lambs, one-tenth.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Num-28-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

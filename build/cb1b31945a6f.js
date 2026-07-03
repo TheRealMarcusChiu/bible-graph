@@ -1,1 +1,1 @@
-(function(){var b="cb1b31945a6f",m="# Genesis 42:17 (New International Version)\nAnd he put them all in custody[^A] for three days.\n\n### Crossrefs\n[^A]: S [[Gen-40-4|Ge 40:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="cb1b31945a6f",m="# Genesis 42:17 (New International Version)\nAnd he put them all in custody<sup>^A</sup> for three days.\n\n### Crossrefs\n- A: S [[Gen-40-4|Ge 40:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="b8eb0ed6f9cc",m="# Ephesians 4:5 (New International Version)\none Lord,[^A] one faith, one baptism; \n\n### Crossrefs\n[^A]: [[1Cor-8-6|1Co 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="b8eb0ed6f9cc",m="# Ephesians 4:5 (New International Version)\none Lord,<sup>^A</sup> one faith, one baptism; \n\n### Crossrefs\n- A: [[1Cor-8-6|1Co 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

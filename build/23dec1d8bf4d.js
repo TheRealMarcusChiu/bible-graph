@@ -1,1 +1,1 @@
-(function(){var b="23dec1d8bf4d",m="# Joshua 15:43 (New International Version)\nIphtah, Ashnah,[^A] Nezib, \n\n### Crossrefs\n[^A]: [[Josh-15-33|ver 33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="23dec1d8bf4d",m="# Joshua 15:43 (New International Version)\nIphtah, Ashnah,<sup>^A</sup> Nezib, \n\n### Crossrefs\n- A: [[Josh-15-33|ver 33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="7ca1b8458604",m="# Deuteronomy 28:34 (New International Version)\nThe sights you see will drive you mad.[^A] \n\n### Crossrefs\n[^A]: [[Deut-28-67|ver 67]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="7ca1b8458604",m="# Deuteronomy 28:34 (New International Version)\nThe sights you see will drive you mad.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Deut-28-67|ver 67]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

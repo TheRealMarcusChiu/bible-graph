@@ -1,1 +1,1 @@
-(function(){var b="546b463407e8",m="# Acts 15:18 (New International Version)\nthings known from long ago.[^A]\n\n### Crossrefs\n[^A]: [[Isa-45-21|Isa 45:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="546b463407e8",m="# Acts 15:18 (New International Version)\nthings known from long ago.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-45-21|Isa 45:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

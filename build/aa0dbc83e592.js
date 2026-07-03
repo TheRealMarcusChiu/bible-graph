@@ -1,1 +1,1 @@
-(function(){var b="aa0dbc83e592",m="# John 6:34 (New International Version)\n\"Sir,\" they said, \"always give us this bread.\"[^A]\n\n### Crossrefs\n[^A]: [[John-4-15|Jn 4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="aa0dbc83e592",m="# John 6:34 (New International Version)\n\"Sir,\" they said, \"always give us this bread.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[John-4-15|Jn 4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="425f47888812",m="# Matthew 23:11 (New International Version)\nThe greatest among you will be your servant.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-9-35|Mk 9:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="425f47888812",m="# Matthew 23:11 (New International Version)\nThe greatest among you will be your servant.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Mark-9-35|Mk 9:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="00495ce667c0",m="# Numbers 4:48 (New International Version)\nnumbered 8,580.[^A] \n\n### Crossrefs\n[^A]: [[Num-3-39|Nu 3:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="00495ce667c0",m="# Numbers 4:48 (New International Version)\nnumbered 8,580.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Num-3-39|Nu 3:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="cc3de3299d4f",m="# Leviticus 11:15 (New International Version)\nany kind of raven,[^A] \n\n### Crossrefs\n[^A]: S [[Gen-8-7|Ge 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="cc3de3299d4f",m="# Leviticus 11:15 (New International Version)\nany kind of raven,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-8-7|Ge 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

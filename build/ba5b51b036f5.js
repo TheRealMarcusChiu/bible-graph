@@ -1,1 +1,1 @@
-(function(){var b="ba5b51b036f5",m="# 1 Corinthians 1:29 (New International Version)\nso that no one may boast before him.[^A] \n\n### Crossrefs\n[^A]: [[Eph-2-9|Eph 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="ba5b51b036f5",m="# 1 Corinthians 1:29 (New International Version)\nso that no one may boast before him.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Eph-2-9|Eph 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

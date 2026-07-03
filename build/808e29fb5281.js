@@ -1,1 +1,1 @@
-(function(){var b="808e29fb5281",m="# 1 Thessalonians 2:20 (New International Version)\nIndeed, you are our glory[^A] and joy.\n\n### Crossrefs\n[^A]: [[2Cor-1-14|2Co 1:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="808e29fb5281",m="# 1 Thessalonians 2:20 (New International Version)\nIndeed, you are our glory<sup>^A</sup> and joy.\n\n### Crossrefs\n- A: [[2Cor-1-14|2Co 1:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="f2c83ec2fe91",m="# John 5:40 (New International Version)\nyet you refuse to come to me[^A] to have life.\n\n### Crossrefs\n[^A]: [[John-6-44|Jn 6:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f2c83ec2fe91",m="# John 5:40 (New International Version)\nyet you refuse to come to me<sup>^A</sup> to have life.\n\n### Crossrefs\n- A: [[John-6-44|Jn 6:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="7f9269c62c87",m="# Joshua 19:5 (New International Version)\nZiklag,[^A] Beth Markaboth, Hazar Susah, \n\n### Crossrefs\n[^A]: S [[Josh-15-31|Jos 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="7f9269c62c87",m="# Joshua 19:5 (New International Version)\nZiklag,<sup>^A</sup> Beth Markaboth, Hazar Susah, \n\n### Crossrefs\n- A: S [[Josh-15-31|Jos 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

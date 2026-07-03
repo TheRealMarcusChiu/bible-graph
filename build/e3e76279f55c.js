@@ -1,1 +1,1 @@
-(function(){var b="e3e76279f55c",m="# 1 John 4:19 (New International Version)\nWe love because he first loved us.[^A] \n\n### Crossrefs\n[^A]: [[1John-4-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="e3e76279f55c",m="# 1 John 4:19 (New International Version)\nWe love because he first loved us.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1John-4-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="668933a10e22",m="# Joshua 15:52 (New International Version)\nArab, Dumah,[^A] Eshan, \n\n### Crossrefs\n[^A]: S [[Gen-25-14|Ge 25:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="668933a10e22",m="# Joshua 15:52 (New International Version)\nArab, Dumah,<sup>^A</sup> Eshan, \n\n### Crossrefs\n- A: S [[Gen-25-14|Ge 25:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

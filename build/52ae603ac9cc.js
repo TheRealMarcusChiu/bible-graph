@@ -1,1 +1,1 @@
-(function(){var b="52ae603ac9cc",m="# Judges 10:5 (New International Version)\nWhen Jair[^A] died, he was buried in Kamon.\n\n### Crossrefs\n[^A]: S [[Num-32-41|Nu 32:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="52ae603ac9cc",m="# Judges 10:5 (New International Version)\nWhen Jair<sup>^A</sup> died, he was buried in Kamon.\n\n### Crossrefs\n- A: S [[Num-32-41|Nu 32:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

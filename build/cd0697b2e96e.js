@@ -1,1 +1,1 @@
-(function(){var b="cd0697b2e96e",m="# Numbers 31:37 (New International Version)\nof which the tribute for the LORD[^A] was 675;\n\n### Crossrefs\n[^A]: [[Num-31-38|ver 38-41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="cd0697b2e96e",m="# Numbers 31:37 (New International Version)\nof which the tribute for the LORD<sup>^A</sup> was 675;\n\n### Crossrefs\n- A: [[Num-31-38|ver 38-41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

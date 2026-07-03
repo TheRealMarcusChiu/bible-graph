@@ -1,1 +1,1 @@
-(function(){var b="319e27a5efc7",m="# Song of Songs 1:1 (New International Version)\nSolomon's Song of Songs.[^A]\n\n### Crossrefs\n[^A]: S [[1Kgs-4-32|1Ki 4:32]]; Ps 45 Title";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="319e27a5efc7",m="# Song of Songs 1:1 (New International Version)\nSolomon's Song of Songs.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Kgs-4-32|1Ki 4:32]]; Ps 45 Title";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

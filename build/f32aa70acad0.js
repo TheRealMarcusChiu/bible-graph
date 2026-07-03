@@ -1,1 +1,1 @@
-(function(){var b="f32aa70acad0",m="# Luke 21:17 (New International Version)\nEveryone will hate you because of me.[^A] \n\n### Crossrefs\n[^A]: S [[John-15-21|Jn 15:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f32aa70acad0",m="# Luke 21:17 (New International Version)\nEveryone will hate you because of me.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[John-15-21|Jn 15:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="0be13c503d1d",m="# Matthew 12:21 (New International Version)\nIn his name the nations will put their hope.\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-42-1|Isa 42:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="0be13c503d1d",m="# Matthew 12:21 (New International Version)\nIn his name the nations will put their hope.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-42-1|Isa 42:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

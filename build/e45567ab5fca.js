@@ -1,1 +1,1 @@
-(function(){var b="e45567ab5fca",m="# Numbers 1:21 (New International Version)\nThe number from the tribe of Reuben[^A] was 46,500.\n\n### Crossrefs\n[^A]: [[Num-26-7|Nu 26:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="e45567ab5fca",m="# Numbers 1:21 (New International Version)\nThe number from the tribe of Reuben<sup>^A</sup> was 46,500.\n\n### Crossrefs\n- A: [[Num-26-7|Nu 26:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

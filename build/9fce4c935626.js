@@ -1,1 +1,1 @@
-(function(){var b="9fce4c935626",m="# Matthew 25:2 (New International Version)\nFive of them were foolish and five were wise.[^A] \n\n### Crossrefs\n[^A]: [[Matt-24-45|Mt 24:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="9fce4c935626",m="# Matthew 25:2 (New International Version)\nFive of them were foolish and five were wise.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Matt-24-45|Mt 24:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

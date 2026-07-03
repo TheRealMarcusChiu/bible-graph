@@ -1,1 +1,1 @@
-(function(){var b="3813426f9eff",m="# Matthew 12:8 (New International Version)\nFor the Son of Man[^A] is Lord of the Sabbath.\"\n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="3813426f9eff",m="# Matthew 12:8 (New International Version)\nFor the Son of Man<sup>^A</sup> is Lord of the Sabbath.\"\n\n### Crossrefs\n- A: S [[Matt-8-20|Mt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

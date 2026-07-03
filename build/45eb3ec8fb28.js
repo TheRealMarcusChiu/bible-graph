@@ -1,1 +1,1 @@
-(function(){var b="45eb3ec8fb28",m="# 1 Thessalonians 5:16 (New International Version)\nRejoice always,[^A] \n\n### Crossrefs\n[^A]: [[Phil-4-4|Php 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="45eb3ec8fb28",m="# 1 Thessalonians 5:16 (New International Version)\nRejoice always,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Phil-4-4|Php 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

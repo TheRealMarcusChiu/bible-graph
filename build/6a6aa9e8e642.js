@@ -1,1 +1,1 @@
-(function(){var b="6a6aa9e8e642",m="# Luke 24:8 (New International Version)\nThen they remembered his words.[^A]\n\n### Crossrefs\n[^A]: [[John-2-22|Jn 2:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="6a6aa9e8e642",m="# Luke 24:8 (New International Version)\nThen they remembered his words.<sup>^A</sup>\n\n### Crossrefs\n- A: [[John-2-22|Jn 2:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="8630652fc4ca",m="# John 16:9 (New International Version)\nabout sin,[^A] because people do not believe in me; \n\n### Crossrefs\n[^A]: [[John-15-22|Jn 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="8630652fc4ca",m="# John 16:9 (New International Version)\nabout sin,<sup>^A</sup> because people do not believe in me; \n\n### Crossrefs\n- A: [[John-15-22|Jn 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

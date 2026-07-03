@@ -1,1 +1,1 @@
-(function(){var b="a0698909f5c0",m="# Leviticus 23:23 (New International Version)\nThe LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Lev-23-23|23:23-25pp]] — [[Num-29-1|Nu 29:1-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="a0698909f5c0",m="# Leviticus 23:23 (New International Version)\nThe LORD said to Moses, \n\n### Crossrefs\n- A: [[Lev-23-23|23:23-25pp]] — [[Num-29-1|Nu 29:1-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

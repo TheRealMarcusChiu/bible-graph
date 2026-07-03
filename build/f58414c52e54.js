@@ -1,1 +1,1 @@
-(function(){var b="f58414c52e54",m="# Luke 21:13 (New International Version)\nAnd so you will bear testimony to me.[^A] \n\n### Crossrefs\n[^A]: [[Phil-1-12|Php 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f58414c52e54",m="# Luke 21:13 (New International Version)\nAnd so you will bear testimony to me.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Phil-1-12|Php 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

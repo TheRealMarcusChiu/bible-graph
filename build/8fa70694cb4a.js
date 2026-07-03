@@ -1,1 +1,1 @@
-(function(){var b="8fa70694cb4a",m="# Numbers 3:14 (New International Version)\nThe LORD said to Moses in the Desert of Sinai,[^A] \n\n### Crossrefs\n[^A]: S [[Exod-19-1|Ex 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="8fa70694cb4a",m="# Numbers 3:14 (New International Version)\nThe LORD said to Moses in the Desert of Sinai,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-19-1|Ex 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

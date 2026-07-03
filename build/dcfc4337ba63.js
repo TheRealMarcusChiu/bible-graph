@@ -1,1 +1,1 @@
-(function(){var b="dcfc4337ba63",m="# Luke 1:73 (New International Version)\nthe oath he swore to our father Abraham:[^A]\n\n### Crossrefs\n[^A]: [[Gen-22-16|Ge 22:16-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="dcfc4337ba63",m="# Luke 1:73 (New International Version)\nthe oath he swore to our father Abraham:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-22-16|Ge 22:16-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

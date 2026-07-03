@@ -1,1 +1,1 @@
-(function(){var b="ef175344f38c",m="# Genesis 26:6 (New International Version)\nSo Isaac stayed in Gerar.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-20-1|Ge 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="ef175344f38c",m="# Genesis 26:6 (New International Version)\nSo Isaac stayed in Gerar.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-20-1|Ge 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

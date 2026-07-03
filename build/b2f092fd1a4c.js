@@ -1,1 +1,1 @@
-(function(){var b="b2f092fd1a4c",m="# Mark 4:3 (New International Version)\n\"Listen! A farmer went out to sow his seed.[^A] \n\n### Crossrefs\n[^A]: [[Mark-4-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="b2f092fd1a4c",m="# Mark 4:3 (New International Version)\n\"Listen! A farmer went out to sow his seed.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Mark-4-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

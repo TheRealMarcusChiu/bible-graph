@@ -1,1 +1,1 @@
-(function(){var b="2f819d687c55",m="# John 8:1 (New International Version)\n_but Jesus went to the Mount of Olives._[^A]\n\n### Crossrefs\n[^A]: S [[Matt-21-1|Mt 21:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="2f819d687c55",m="# John 8:1 (New International Version)\n_but Jesus went to the Mount of Olives._<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Matt-21-1|Mt 21:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="ec9662e5985d",m="# 1 Thessalonians 5:17 (New International Version)\npray continually,[^A] \n\n### Crossrefs\n[^A]: S [[Luke-18-1|Lk 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="ec9662e5985d",m="# 1 Thessalonians 5:17 (New International Version)\npray continually,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Luke-18-1|Lk 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

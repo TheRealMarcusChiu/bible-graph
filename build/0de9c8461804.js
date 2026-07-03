@@ -1,1 +1,1 @@
-(function(){var b="0de9c8461804",m="# Hebrews 6:3 (New International Version)\nAnd God permitting,[^A] we will do so.\n\n### Crossrefs\n[^A]: [[Acts-18-21|Ac 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="0de9c8461804",m="# Hebrews 6:3 (New International Version)\nAnd God permitting,<sup>^A</sup> we will do so.\n\n### Crossrefs\n- A: [[Acts-18-21|Ac 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

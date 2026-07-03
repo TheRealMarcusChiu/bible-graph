@@ -1,1 +1,1 @@
-(function(){var b="5fbda82fbf37",m="# Matthew 12:16 (New International Version)\nHe warned them not to tell others about him.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-8-4|Mt 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="5fbda82fbf37",m="# Matthew 12:16 (New International Version)\nHe warned them not to tell others about him.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Matt-8-4|Mt 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

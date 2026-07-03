@@ -1,1 +1,1 @@
-(function(){var b="13f7df1250ad",m="# Numbers 33:43 (New International Version)\nThey left Punon and camped at Oboth.[^A]\n\n### Crossrefs\n[^A]: [[Num-21-10|Nu 21:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="13f7df1250ad",m="# Numbers 33:43 (New International Version)\nThey left Punon and camped at Oboth.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-21-10|Nu 21:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

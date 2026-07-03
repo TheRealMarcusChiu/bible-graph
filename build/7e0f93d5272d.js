@@ -1,1 +1,1 @@
-(function(){var b="7e0f93d5272d",m="# Matthew 13:9 (New International Version)\nWhoever has ears, let them hear.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-11-15|Mt 11:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="7e0f93d5272d",m="# Matthew 13:9 (New International Version)\nWhoever has ears, let them hear.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Matt-11-15|Mt 11:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

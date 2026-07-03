@@ -1,1 +1,1 @@
-(function(){var b="0b0636f96292",m="# 1 John 2:25 (New International Version)\nAnd this is what he promised us--eternal life.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="0b0636f96292",m="# 1 John 2:25 (New International Version)\nAnd this is what he promised us--eternal life.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

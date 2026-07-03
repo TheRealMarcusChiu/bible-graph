@@ -1,1 +1,1 @@
-(function(){var b="a450ff6b4916",m="# John 11:36 (New International Version)\nThen the Jews said, \"See how he loved him!\"[^A]\n\n### Crossrefs\n[^A]: [[John-11-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="a450ff6b4916",m="# John 11:36 (New International Version)\nThen the Jews said, \"See how he loved him!\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[John-11-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

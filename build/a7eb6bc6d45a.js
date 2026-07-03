@@ -1,1 +1,1 @@
-(function(){var b="a7eb6bc6d45a",m="# Luke 1:37 (New International Version)\nFor no word from God will ever fail.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-19-26|Mt 19:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="a7eb6bc6d45a",m="# Luke 1:37 (New International Version)\nFor no word from God will ever fail.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Matt-19-26|Mt 19:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

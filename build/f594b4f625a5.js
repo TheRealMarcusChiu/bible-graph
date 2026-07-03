@@ -1,1 +1,1 @@
-(function(){var b="f594b4f625a5",m="# Romans 2:11 (New International Version)\nFor God does not show favoritism.[^A]\n\n### Crossrefs\n[^A]: S [[Acts-10-34|Ac 10:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f594b4f625a5",m="# Romans 2:11 (New International Version)\nFor God does not show favoritism.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Acts-10-34|Ac 10:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="6fcffeccabe1",m="# Numbers 33:10 (New International Version)\nThey left Elim[^A] and camped by the Red Sea.\n\n### Crossrefs\n[^A]: [[Exod-16-1|Ex 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="6fcffeccabe1",m="# Numbers 33:10 (New International Version)\nThey left Elim<sup>^A</sup> and camped by the Red Sea.\n\n### Crossrefs\n- A: [[Exod-16-1|Ex 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

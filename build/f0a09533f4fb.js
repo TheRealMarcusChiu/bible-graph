@@ -1,1 +1,1 @@
-(function(){var b="f0a09533f4fb",m="# John 10:42 (New International Version)\nAnd in that place many believed in Jesus.[^A]\n\n### Crossrefs\n[^A]: S [[John-7-31|Jn 7:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="f0a09533f4fb",m="# John 10:42 (New International Version)\nAnd in that place many believed in Jesus.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[John-7-31|Jn 7:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

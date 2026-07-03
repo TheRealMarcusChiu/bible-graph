@@ -1,1 +1,1 @@
-(function(){var b="50dc91a65698",m="# Genesis 7:5 (New International Version)\nAnd Noah did all that the LORD commanded him.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="50dc91a65698",m="# Genesis 7:5 (New International Version)\nAnd Noah did all that the LORD commanded him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

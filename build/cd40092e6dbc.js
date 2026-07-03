@@ -1,1 +1,1 @@
-(function(){var b="cd40092e6dbc",m="# Numbers 16:4 (New International Version)\nWhen Moses heard this, he fell facedown.[^A] \n\n### Crossrefs\n[^A]: [[Num-14-5|Nu 14:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="cd40092e6dbc",m="# Numbers 16:4 (New International Version)\nWhen Moses heard this, he fell facedown.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Num-14-5|Nu 14:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

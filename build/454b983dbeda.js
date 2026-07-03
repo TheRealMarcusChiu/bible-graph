@@ -1,1 +1,1 @@
-(function(){var b="454b983dbeda",m="# Leviticus 11:14 (New International Version)\nthe red kite, any kind[^A] of black kite, \n\n### Crossrefs\n[^A]: S [[Gen-1-11|Ge 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="454b983dbeda",m="# Leviticus 11:14 (New International Version)\nthe red kite, any kind<sup>^A</sup> of black kite, \n\n### Crossrefs\n- A: S [[Gen-1-11|Ge 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

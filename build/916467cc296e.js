@@ -1,1 +1,1 @@
-(function(){var b="916467cc296e",m="# Acts 11:25 (New International Version)\nThen Barnabas went to Tarsus[^A] to look for Saul, \n\n### Crossrefs\n[^A]: S [[Acts-9-11|Ac 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="916467cc296e",m="# Acts 11:25 (New International Version)\nThen Barnabas went to Tarsus<sup>^A</sup> to look for Saul, \n\n### Crossrefs\n- A: S [[Acts-9-11|Ac 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,1 +1,1 @@
-(function(){var b="c947d5b6c90d",m="# Exodus 13:4 (New International Version)\nToday, in the month of Aviv,[^A] you are leaving. \n\n### Crossrefs\n[^A]: S [[Exod-12-2|Ex 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="c947d5b6c90d",m="# Exodus 13:4 (New International Version)\nToday, in the month of Aviv,<sup>^A</sup> you are leaving. \n\n### Crossrefs\n- A: S [[Exod-12-2|Ex 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

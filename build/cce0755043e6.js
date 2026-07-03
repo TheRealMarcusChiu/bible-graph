@@ -1,1 +1,1 @@
-(function(){var b="cce0755043e6",m="# Acts 22:1 (New International Version)\n\"Brothers and fathers,[^A] listen now to my defense.\"\n\n### Crossrefs\n[^A]: [[Acts-7-2|Ac 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="cce0755043e6",m="# Acts 22:1 (New International Version)\n\"Brothers and fathers,<sup>^A</sup> listen now to my defense.\"\n\n### Crossrefs\n- A: [[Acts-7-2|Ac 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

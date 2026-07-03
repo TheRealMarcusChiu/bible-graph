@@ -1,1 +1,1 @@
-(function(){var b="43f7698e41ec",m="# Numbers 1:41 (New International Version)\nThe number from the tribe of Asher[^A] was 41,500.\n\n### Crossrefs\n[^A]: [[Num-26-47|Nu 26:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="43f7698e41ec",m="# Numbers 1:41 (New International Version)\nThe number from the tribe of Asher<sup>^A</sup> was 41,500.\n\n### Crossrefs\n- A: [[Num-26-47|Nu 26:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

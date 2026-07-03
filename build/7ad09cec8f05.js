@@ -1,1 +1,1 @@
-(function(){var b="7ad09cec8f05",m="# Habakkuk 1:1 (New International Version)\nThe prophecy[^A] that Habakkuk the prophet received.\n\n### Crossrefs\n[^A]: S [[Nah-1-1|Na 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="7ad09cec8f05",m="# Habakkuk 1:1 (New International Version)\nThe prophecy<sup>^A</sup> that Habakkuk the prophet received.\n\n### Crossrefs\n- A: S [[Nah-1-1|Na 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

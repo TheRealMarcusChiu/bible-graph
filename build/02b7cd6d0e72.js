@@ -1,1 +1,1 @@
-(function(){var b="02b7cd6d0e72",m="# Numbers 33:30 (New International Version)\nThey left Hashmonah and camped at Moseroth.[^A]\n\n### Crossrefs\n[^A]: [[Deut-10-6|Dt 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="02b7cd6d0e72",m="# Numbers 33:30 (New International Version)\nThey left Hashmonah and camped at Moseroth.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-10-6|Dt 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

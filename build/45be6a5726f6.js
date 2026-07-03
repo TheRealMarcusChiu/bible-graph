@@ -1,1 +1,1 @@
-(function(){var b="45be6a5726f6",m="# 1 Peter 5:11 (New International Version)\nTo him be the power for ever and ever. Amen.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-11-36|Ro 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="45be6a5726f6",m="# 1 Peter 5:11 (New International Version)\nTo him be the power for ever and ever. Amen.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Rom-11-36|Ro 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

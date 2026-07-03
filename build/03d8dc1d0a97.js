@@ -1,1 +1,1 @@
-(function(){var b="03d8dc1d0a97",m="# Exodus 6:21 (New International Version)\nThe sons of Izhar[^A] were Korah, Nepheg and Zikri.\n\n### Crossrefs\n[^A]: [[1Chr-6-38|1Ch 6:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="03d8dc1d0a97",m="# Exodus 6:21 (New International Version)\nThe sons of Izhar<sup>^A</sup> were Korah, Nepheg and Zikri.\n\n### Crossrefs\n- A: [[1Chr-6-38|1Ch 6:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

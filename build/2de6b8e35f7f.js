@@ -1,1 +1,1 @@
-(function(){var b="2de6b8e35f7f",m="# Leviticus 14:56 (New International Version)\nand for a swelling, a rash or a shiny spot,[^A] \n\n### Crossrefs\n[^A]: [[Lev-13-2|Lev 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="2de6b8e35f7f",m="# Leviticus 14:56 (New International Version)\nand for a swelling, a rash or a shiny spot,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Lev-13-2|Lev 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

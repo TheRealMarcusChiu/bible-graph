@@ -1,1 +1,1 @@
-(function(){var b="b10a40a13e40",m="# 2 Corinthians 13:12 (New International Version)\nGreet one another with a holy kiss.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-16-16|Ro 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
+(function(){var b="b10a40a13e40",m="# 2 Corinthians 13:12 (New International Version)\nGreet one another with a holy kiss.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Rom-16-16|Ro 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
