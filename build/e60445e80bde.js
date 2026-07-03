@@ -1,0 +1,1 @@
+(function(){var b="e60445e80bde",m="# 1 Kings 8:21 (New International Version)\nI have provided a place there for the ark, in which is the covenant of the LORD that he made with our ancestors when he brought them out of Egypt.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

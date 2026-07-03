@@ -1,0 +1,1 @@
+(function(){var b="abc19ab2aff2",m="# 1 Kings 8:28 (New International Version)\nYet give attention to your servant's prayer and his plea for mercy, LORD my God. Hear the cry and the prayer that your servant is praying in your presence this day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

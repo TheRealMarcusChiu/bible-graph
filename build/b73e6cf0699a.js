@@ -1,0 +1,1 @@
+(function(){var b="b73e6cf0699a",m="# 1 Kings 21:5 (New International Version)\nHis wife Jezebel came in and asked him, \"Why are you so sullen? Why won't you eat?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

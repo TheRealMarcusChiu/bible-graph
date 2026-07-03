@@ -1,0 +1,1 @@
+(function(){var b="b5b9f77a77ba",m="# 1 Kings 17:18 (New International Version)\nShe said to Elijah, \"What do you have against me, man of God? Did you come to remind me of my sin<sup>^A</sup> and kill my son?\"\n\n### Crossrefs\n- A: [[Luke-5-8|Lk 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

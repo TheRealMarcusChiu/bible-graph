@@ -1,0 +1,1 @@
+(function(){var b="45811d1754fd",m="# 1 Kings 22:20 (New International Version)\nAnd the LORD said, 'Who will entice Ahab into attacking Ramoth Gilead and going to his death there?'\n\"One suggested this, and another that.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6dc72a9639d4",m="# 1 Kings 18:2 (New International Version)\nSo Elijah went to present himself to Ahab.\nNow the famine was severe<sup>^A</sup> in Samaria, \n\n### Crossrefs\n- A: S [[Lev-26-26|Lev 26:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

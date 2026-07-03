@@ -1,0 +1,1 @@
+(function(){var b="18660148c2e8",m="# 1 Kings 12:22 (New International Version)\nBut this word of God came to Shemaiah<sup>^A</sup> the man of God:<sup>^B</sup> \n\n### Crossrefs\n- A: [[2Chr-12-5|2Ch 12:5-7]]\n- B: S [[Deut-33-1|Dt 33:1]]; [[2Kgs-4-7|2Ki 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

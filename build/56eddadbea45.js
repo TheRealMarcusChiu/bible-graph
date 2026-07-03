@@ -1,0 +1,1 @@
+(function(){var b="56eddadbea45",m="# 1 Kings 22:26 (New International Version)\nThe king of Israel then ordered, \"Take Micaiah and send him back to Amon the ruler of the city and to Joash the king's son";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

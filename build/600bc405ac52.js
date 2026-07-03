@@ -1,0 +1,1 @@
+(function(){var b="600bc405ac52",m="# 1 Kings 18:25 (New International Version)\nElijah said to the prophets of Baal, \"Choose one of the bulls and prepare it first, since there are so many of you. Call on the name of your god, but do not light the fire.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

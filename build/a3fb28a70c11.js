@@ -1,0 +1,1 @@
+(function(){var b="a3fb28a70c11",m="# 1 Kings 16:30 (New International Version)\nAhab son of Omri did more<sup>^A</sup> evil in the eyes of the LORD than any of those before him. \n\n### Crossrefs\n- A: S [[1Kgs-14-9|1Ki 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

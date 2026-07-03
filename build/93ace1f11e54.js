@@ -1,0 +1,1 @@
+(function(){var b="93ace1f11e54",m="# 1 Kings 7:26 (New International Version)\nIt was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held two thousand baths.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

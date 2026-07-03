@@ -1,0 +1,1 @@
+(function(){var b="f6e3685a0ad3",m="# 1 Kings 12:19 (New International Version)\nSo Israel has been in rebellion against the house of David<sup>^A</sup> to this day.\n\n### Crossrefs\n- A: [[2Kgs-17-21|2Ki 17:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

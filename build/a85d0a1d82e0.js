@@ -1,0 +1,1 @@
+(function(){var b="a85d0a1d82e0",m="# 1 Kings 7:28 (New International Version)\nThis is how the stands were made: They had side panels attached to uprights.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

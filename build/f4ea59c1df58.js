@@ -1,0 +1,1 @@
+(function(){var b="f4ea59c1df58",m="# 1 Kings 22:46 (New International Version)\nHe rid the land of the rest of the male shrine prostitutes<sup>^A</sup> who remained there even after the reign of his father Asa. \n\n### Crossrefs\n- A: S [[Deut-23-17|Dt 23:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

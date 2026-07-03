@@ -1,0 +1,1 @@
+(function(){var b="34e70b67e356",m="# 1 Kings 19:15 (New International Version)\nThe LORD said to him, \"Go back the way you came, and go to the Desert of Damascus. When you get there, anoint Hazael<sup>^A</sup> king over Aram. \n\n### Crossrefs\n- A: [[2Kgs-8-7|2Ki 8:7-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

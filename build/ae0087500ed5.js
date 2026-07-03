@@ -1,0 +1,1 @@
+(function(){var b="ae0087500ed5",m="# 1 Kings 8:45 (New International Version)\nthen hear from heaven their prayer and their plea, and uphold their cause.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-9-4|Ps 9:4]]; [[Ps-140-12|140:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

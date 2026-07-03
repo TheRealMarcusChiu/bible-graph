@@ -1,0 +1,1 @@
+(function(){var b="e52d4c47b07d",m="# 1 Kings 11:42 (New International Version)\nSolomon reigned in Jerusalem over all Israel forty years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

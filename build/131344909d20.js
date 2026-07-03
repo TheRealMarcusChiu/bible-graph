@@ -1,0 +1,1 @@
+(function(){var b="131344909d20",m="# 1 Kings 8:18 (New International Version)\nBut the LORD said to my father David, 'You did well to have it in your heart to build a temple for my Name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

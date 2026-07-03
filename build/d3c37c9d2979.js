@@ -1,0 +1,1 @@
+(function(){var b="d3c37c9d2979",m="# 1 Kings 6:14 (New International Version)\nSo Solomon<sup>^A</sup> built the temple and completed<sup>^B</sup> it. \n\n### Crossrefs\n- A: [[Acts-7-47|Ac 7:47]]\n- B: [[1Chr-28-20|1Ch 28:20]]; [[2Chr-5-1|2Ch 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

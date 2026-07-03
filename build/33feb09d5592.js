@@ -1,0 +1,1 @@
+(function(){var b="33feb09d5592",m="# 1 Kings 17:22 (New International Version)\nThe LORD heard Elijah's cry, and the boy's life returned to him, and he lived.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

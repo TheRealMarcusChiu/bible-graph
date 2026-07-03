@@ -1,0 +1,1 @@
+(function(){var b="60b83ec16bc1",m="# 1 Kings 18:43 (New International Version)\n\"Go and look toward the sea,\" he told his servant. And he went up and looked.\n\"There is nothing there,\" he said.\nSeven times Elijah said, \"Go back.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

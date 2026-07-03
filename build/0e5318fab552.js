@@ -1,0 +1,1 @@
+(function(){var b="0e5318fab552",m="# 1 Kings 6:37 (New International Version)\nThe foundation of the temple of the LORD was laid in the fourth year, in the month of Ziv.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

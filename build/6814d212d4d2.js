@@ -1,0 +1,1 @@
+(function(){var b="6814d212d4d2",m="# 1 Kings 7:30 (New International Version)\nEach stand<sup>^A</sup> had four bronze wheels with bronze axles, and each had a basin resting on four supports, cast with wreaths on each side. \n\n### Crossrefs\n- A: [[2Kgs-16-17|2Ki 16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

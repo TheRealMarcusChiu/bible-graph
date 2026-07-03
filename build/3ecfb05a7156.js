@@ -1,0 +1,1 @@
+(function(){var b="3ecfb05a7156",m="# 1 Kings 17:19 (New International Version)\n\"Give me your son,\" Elijah replied. He took him from her arms, carried him to the upper room where he was staying, and laid him on his bed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

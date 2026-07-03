@@ -1,0 +1,1 @@
+(function(){var b="c7de531aecb4",m="# 1 Kings 15:21 (New International Version)\nWhen Baasha heard this, he stopped building Ramah<sup>^A</sup> and withdrew to Tirzah.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Josh-18-25|Jos 18:25]]\n- B: [[1Kgs-16-15|1Ki 16:15-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

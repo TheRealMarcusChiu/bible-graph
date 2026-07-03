@@ -1,0 +1,1 @@
+(function(){var b="37664dcc9f46",m="# 1 Kings 20:29 (New International Version)\nFor seven days they camped opposite each other, and on the seventh day the battle was joined. The Israelites inflicted a hundred thousand casualties on the Aramean foot soldiers in one day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

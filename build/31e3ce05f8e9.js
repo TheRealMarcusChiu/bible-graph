@@ -1,0 +1,1 @@
+(function(){var b="31e3ce05f8e9",m="# 1 Kings 11:30 (New International Version)\nand Ahijah took hold of the new cloak he was wearing and tore<sup>^A</sup> it into twelve pieces. \n\n### Crossrefs\n- A: [[1Sam-15-27|1Sa 15:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

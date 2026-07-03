@@ -1,0 +1,1 @@
+(function(){var b="72a6aec2c456",m="# 1 Kings 22:37 (New International Version)\nSo the king died and was brought to Samaria, and they buried him there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8cda56ad1e68",m="# 1 Kings 21\n\nSolomon's reign and temple, the division of the kingdom, and the prophet Elijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

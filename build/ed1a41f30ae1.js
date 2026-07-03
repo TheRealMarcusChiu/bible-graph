@@ -1,0 +1,1 @@
+(function(){var b="ed1a41f30ae1",m="# 1 Kings 5:16 (New International Version)\nas well as thirty-three hundred foremen<sup>^A</sup> who supervised the project and directed the workers. \n\n### Crossrefs\n- A: [[1Kgs-9-23|1Ki 9:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

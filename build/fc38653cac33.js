@@ -1,0 +1,1 @@
+(function(){var b="fc38653cac33",m="# 2 Kings 1:14 (New International Version)\nSee, fire has fallen from heaven and consumed the first two captains and all their men. But now have respect for my life!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

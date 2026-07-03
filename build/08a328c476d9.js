@@ -1,0 +1,1 @@
+(function(){var b="08a328c476d9",m="# 1 Kings 6:23 (New International Version)\nFor the inner sanctuary he made a pair of cherubim<sup>^A</sup> out of olive wood, each ten cubits high. \n\n### Crossrefs\n- A: S [[Exod-37-1|Ex 37:1-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1bd5b8d83540",m="# 1 Kings 7:29 (New International Version)\nOn the panels between the uprights were lions, bulls and cherubim--and on the uprights as well. Above and below the lions and bulls were wreaths of hammered work.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

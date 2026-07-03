@@ -1,0 +1,1 @@
+(function(){var b="b5525c57b6fe",m="# 1 Kings 22:1 (New International Version)\nMicaiah Prophesies Against Ahab<sup>^A</sup>\nFor three years there was no war between Aram and Israel. \n\n### Crossrefs\n- A: [[1Kgs-22-1|22:1-28pp]] — [[2Chr-18-1|2Ch 18:1-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

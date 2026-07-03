@@ -1,0 +1,1 @@
+(function(){var b="75f8b285cde0",m="# 1 Kings 22:12 (New International Version)\nAll the other prophets were prophesying the same thing. \"Attack Ramoth Gilead and be victorious,\" they said, \"for the LORD will give it into the king's hand.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

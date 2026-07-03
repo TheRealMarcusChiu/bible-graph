@@ -1,0 +1,1 @@
+(function(){var b="7e8389642802",m="# 1 Kings 20:24 (New International Version)\nDo this: Remove all the kings from their commands and replace them with other officers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

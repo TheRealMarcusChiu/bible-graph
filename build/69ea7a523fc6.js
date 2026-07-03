@@ -1,0 +1,1 @@
+(function(){var b="69ea7a523fc6",m="# 1 Kings 16:6 (New International Version)\nBaasha rested with his ancestors and was buried in Tirzah.<sup>^A</sup> And Elah his son succeeded him as king.\n\n### Crossrefs\n- A: S [[1Kgs-15-33|1Ki 15:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

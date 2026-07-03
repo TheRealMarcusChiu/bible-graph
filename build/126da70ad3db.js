@@ -1,0 +1,1 @@
+(function(){var b="126da70ad3db",m="# 1 Kings 7:44 (New International Version)\nthe Sea and the twelve bulls under it;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

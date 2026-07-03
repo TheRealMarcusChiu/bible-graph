@@ -1,0 +1,1 @@
+(function(){var b="eb53f05268ca",m="# 1 Kings 18:16 (New International Version)\nElijah on Mount Carmel\nSo Obadiah went to meet Ahab and told him, and Ahab went to meet Elijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

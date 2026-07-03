@@ -1,0 +1,1 @@
+(function(){var b="d1e5c54d7666",m="# 1 Kings 4:28 (New International Version)\nThey also brought to the proper place their quotas of barley and straw for the chariot horses and the other horses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

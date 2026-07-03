@@ -1,0 +1,1 @@
+(function(){var b="9da9ee21c482",m="# 1 Kings 5:10 (New International Version)\nIn this way Hiram kept Solomon supplied with all the cedar and juniper logs he wanted,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

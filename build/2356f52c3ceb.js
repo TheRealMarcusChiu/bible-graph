@@ -1,0 +1,1 @@
+(function(){var b="2356f52c3ceb",m="# 1 Kings 6:17 (New International Version)\nThe main hall in front of this room was forty cubits long.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

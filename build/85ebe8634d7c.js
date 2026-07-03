@@ -1,0 +1,1 @@
+(function(){var b="85ebe8634d7c",m="# 1 Kings 17:16 (New International Version)\nFor the jar of flour was not used up and the jug of oil did not run dry, in keeping with the word of the LORD spoken by Elijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

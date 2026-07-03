@@ -1,0 +1,1 @@
+(function(){var b="3cf56bddf6dc",m="# 1 Kings 21:28 (New International Version)\nThen the word of the LORD came to Elijah the Tishbite:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d169b0407115",m="# 1 Kings 13:28 (New International Version)\nThen he went out and found the body lying on the road, with the donkey and the lion standing beside it. The lion had neither eaten the body nor mauled the donkey.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

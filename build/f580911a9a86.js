@@ -1,0 +1,1 @@
+(function(){var b="f580911a9a86",m="# 1 Kings 12:2 (New International Version)\nWhen Jeroboam son of Nebat heard this (he was still in Egypt, where he had fled<sup>^A</sup> from King Solomon), he returned from Egypt. \n\n### Crossrefs\n- A: S [[1Kgs-11-40|1Ki 11:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

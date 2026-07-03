@@ -1,0 +1,1 @@
+(function(){var b="0a7a267b3866",m="# 1 Kings 6:30 (New International Version)\nHe also covered the floors of both the inner and outer rooms of the temple with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

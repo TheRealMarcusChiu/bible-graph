@@ -1,0 +1,1 @@
+(function(){var b="03f580560fce",m="# 1 Kings 18:6 (New International Version)\nSo they divided the land they were to cover, Ahab going in one direction and Obadiah in another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

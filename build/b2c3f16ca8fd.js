@@ -1,0 +1,1 @@
+(function(){var b="b2c3f16ca8fd",m="# 1 Kings 22:44 (New International Version)\nJehoshaphat was also at peace with the king of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

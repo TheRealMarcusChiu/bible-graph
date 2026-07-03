@@ -1,0 +1,1 @@
+(function(){var b="2b9ce59a7b6e",m="# 1 Kings 20:21 (New International Version)\nThe king of Israel advanced and overpowered the horses and chariots and inflicted heavy losses on the Arameans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

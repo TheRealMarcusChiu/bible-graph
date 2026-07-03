@@ -1,0 +1,1 @@
+(function(){var b="8188c3436da7",m="# 1 Kings 21:12 (New International Version)\nThey proclaimed a fast<sup>^A</sup> and seated Naboth in a prominent place among the people. \n\n### Crossrefs\n- A: [[Isa-58-4|Isa 58:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

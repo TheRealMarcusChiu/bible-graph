@@ -1,0 +1,1 @@
+(function(){var b="f83eff647568",m="# 1 Kings 12:23 (New International Version)\n\"Say to Rehoboam son of Solomon king of Judah, to all Judah and Benjamin, and to the rest of the people,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

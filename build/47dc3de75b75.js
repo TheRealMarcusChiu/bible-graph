@@ -1,0 +1,1 @@
+(function(){var b="47dc3de75b75",m="# 1 Kings 21:3 (New International Version)\nBut Naboth replied, \"The LORD forbid that I should give you the inheritance<sup>^A</sup> of my ancestors.\"\n\n### Crossrefs\n- A: S [[Lev-25-23|Lev 25:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

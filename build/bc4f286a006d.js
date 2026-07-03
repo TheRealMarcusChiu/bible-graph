@@ -1,0 +1,1 @@
+(function(){var b="bc4f286a006d",m="# 1 Kings 13:23 (New International Version)\nWhen the man of God had finished eating and drinking, the prophet who had brought him back saddled his donkey for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fb363e6db0a8",m="# 1 Kings 20:4 (New International Version)\nThe king of Israel answered, \"Just as you say, my lord the king. I and all I have are yours.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="824e00a1f5c4",m="# 1 Kings 22:49 (New International Version)\nAt that time Ahaziah son of Ahab said to Jehoshaphat, \"Let my men sail with yours,\" but Jehoshaphat refused.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="da5c1e787373",m="# 1 Kings 7:24 (New International Version)\nBelow the rim, gourds encircled it--ten to a cubit. The gourds were cast in two rows in one piece with the Sea.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

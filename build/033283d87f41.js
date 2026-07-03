@@ -1,0 +1,1 @@
+(function(){var b="033283d87f41",m="# 1 Kings 6:21 (New International Version)\nSolomon covered the inside of the temple with pure gold, and he extended gold chains across the front of the inner sanctuary, which was overlaid with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

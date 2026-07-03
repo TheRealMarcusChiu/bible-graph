@@ -1,0 +1,1 @@
+(function(){var b="cce0590df632",m="# 1 Kings 10:6 (New International Version)\nShe said to the king, \"The report I heard in my own country about your achievements and your wisdom is true.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

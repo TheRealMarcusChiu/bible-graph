@@ -1,0 +1,1 @@
+(function(){var b="613ec3ef0ba4",m="# 1 Kings 7:18 (New International Version)\nHe made pomegranates in two rows encircling each network to decorate the capitals on top of the pillars. He did the same for each capital.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

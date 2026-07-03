@@ -1,0 +1,1 @@
+(function(){var b="2a13538f3482",m="# 1 Kings 11:17 (New International Version)\nBut Hadad, still only a boy, fled to Egypt with some Edomite officials who had served his father.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

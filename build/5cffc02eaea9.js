@@ -1,0 +1,1 @@
+(function(){var b="5cffc02eaea9",m="# 1 Kings 22:35 (New International Version)\nAll day long the battle raged, and the king was propped up in his chariot facing the Arameans. The blood from his wound ran onto the floor of the chariot, and that evening he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

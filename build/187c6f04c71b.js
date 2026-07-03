@@ -1,0 +1,1 @@
+(function(){var b="187c6f04c71b",m="# 1 Kings 20:37 (New International Version)\nThe prophet found another man and said, \"Strike me, please.\" So the man struck him and wounded him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

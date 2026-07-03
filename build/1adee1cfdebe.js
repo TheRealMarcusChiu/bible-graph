@@ -1,0 +1,1 @@
+(function(){var b="1adee1cfdebe",m="# 1 Kings 14:18 (New International Version)\nThey buried him, and all Israel mourned for him, as the LORD had said through his servant the prophet Ahijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

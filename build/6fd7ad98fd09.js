@@ -1,0 +1,1 @@
+(function(){var b="6fd7ad98fd09",m="# 1 Kings 16:8 (New International Version)\nElah King of Israel\nIn the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king of Israel, and he reigned in Tirzah two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bf651d54d999",m="# 1 Kings 16:29 (New International Version)\nAhab Becomes King of Israel\nIn the thirty-eighth year of Asa king of Judah, Ahab son of Omri became king of Israel, and he reigned in Samaria over Israel twenty-two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

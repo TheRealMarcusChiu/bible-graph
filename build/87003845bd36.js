@@ -1,0 +1,1 @@
+(function(){var b="87003845bd36",m="# 1 Kings 17:4 (New International Version)\nYou will drink from the brook, and I have directed the ravens<sup>^A</sup> to supply you with food there.\"\n\n### Crossrefs\n- A: S [[Gen-8-7|Ge 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

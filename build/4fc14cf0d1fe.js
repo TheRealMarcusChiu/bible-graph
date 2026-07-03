@@ -1,0 +1,1 @@
+(function(){var b="4fc14cf0d1fe",m="# 1 Kings 21:18 (New International Version)\n\"Go down to meet Ahab king of Israel, who rules in Samaria. He is now in Naboth's vineyard, where he has gone to take possession of it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="770fee3ddef5",m="# 1 Kings 10:25 (New International Version)\nYear after year, everyone who came brought a gift<sup>^A</sup>--articles of silver and gold, robes, weapons and spices, and horses and mules.\n\n### Crossrefs\n- A: S [[1Sam-10-27|1Sa 10:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0a64284c79aa",m="# 1 Kings 6:9 (New International Version)\nSo he built the temple and completed it, roofing it with beams and cedar<sup>^A</sup> planks. \n\n### Crossrefs\n- A: [[Song-1-17|SS 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

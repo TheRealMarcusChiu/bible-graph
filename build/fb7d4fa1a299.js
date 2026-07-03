@@ -1,0 +1,1 @@
+(function(){var b="fb7d4fa1a299",m="# 1 Kings 6:31 (New International Version)\nFor the entrance to the inner sanctuary he made doors out of olive wood that were one fifth of the width of the sanctuary.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

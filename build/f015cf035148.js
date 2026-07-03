@@ -1,0 +1,1 @@
+(function(){var b="f015cf035148",m="# 1 Kings 11:20 (New International Version)\nThe sister of Tahpenes bore him a son named Genubath, whom Tahpenes brought up in the royal palace. There Genubath lived with Pharaoh's own children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

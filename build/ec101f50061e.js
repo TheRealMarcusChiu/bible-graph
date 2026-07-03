@@ -1,0 +1,1 @@
+(function(){var b="ec101f50061e",m="# 1 Kings 13:27 (New International Version)\nThe prophet said to his sons, \"Saddle the donkey for me,\" and they did so.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

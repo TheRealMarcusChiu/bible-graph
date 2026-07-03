@@ -1,0 +1,1 @@
+(function(){var b="8259b24b035f",m="# 1 Kings 7:19 (New International Version)\nThe capitals on top of the pillars in the portico were in the shape of lilies, four cubits high.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1bc996c272e9",m="# 1 Kings 11:43 (New International Version)\nThen he rested with his ancestors and was buried in the city of David his father. And Rehoboam<sup>^A</sup> his son succeeded him as king.\n\n### Crossrefs\n- A: [[Matt-1-7|Mt 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

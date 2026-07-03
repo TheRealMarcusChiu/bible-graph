@@ -1,0 +1,1 @@
+(function(){var b="2f04df7bdcd5",m="# 1 Kings 18:14 (New International Version)\nAnd now you tell me to go to my master and say, 'Elijah is here.' He will kill me!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

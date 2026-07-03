@@ -1,0 +1,1 @@
+(function(){var b="b9c60fb58ea9",m="# 1 Kings 17:11 (New International Version)\nAs she was going to get it, he called, \"And bring me, please, a piece of bread.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

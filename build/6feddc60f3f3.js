@@ -1,0 +1,1 @@
+(function(){var b="6feddc60f3f3",m="# 1 Kings 13:12 (New International Version)\nTheir father asked them, \"Which way did he go?\" And his sons showed him which road the man of God from Judah had taken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

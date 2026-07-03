@@ -1,0 +1,1 @@
+(function(){var b="c2908a8e8ed8",m="# 1 Kings 13:16 (New International Version)\nThe man of God said, \"I cannot turn back and go with you, nor can I eat bread<sup>^A</sup> or drink water with you in this place. \n\n### Crossrefs\n- A: [[1Kgs-13-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="61a8daf392cf",m="# 1 Kings 5:13 (New International Version)\nKing Solomon conscripted laborers<sup>^A</sup> from all Israel--thirty thousand men. \n\n### Crossrefs\n- A: S [[Gen-49-15|Ge 49:15]]; S [[Lev-25-39|Lev 25:39]]; [[1Kgs-9-15|1Ki 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

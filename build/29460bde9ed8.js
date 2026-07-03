@@ -1,0 +1,1 @@
+(function(){var b="29460bde9ed8",m="# 1 Kings 10:15 (New International Version)\nnot including the revenues from merchants and traders and from all the Arabian kings and the governors of the territories.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bf2447c37c8c",m="# 1 Kings 13:5 (New International Version)\nAlso, the altar was split apart and its ashes poured out according to the sign given by the man of God by the word of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

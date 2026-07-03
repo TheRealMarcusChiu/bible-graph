@@ -1,0 +1,1 @@
+(function(){var b="55ac7eddeff8",m="# 1 Kings 16:18 (New International Version)\nWhen Zimri saw that the city was taken, he went into the citadel of the royal palace and set the palace on fire around him. So he died,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

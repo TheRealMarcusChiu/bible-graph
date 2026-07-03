@@ -1,0 +1,1 @@
+(function(){var b="7da6353ff3ac",m="# 1 Kings 14:14 (New International Version)\n\"The LORD will raise up for himself a king over Israel who will cut off the family of Jeroboam. Even now this is beginning to happen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

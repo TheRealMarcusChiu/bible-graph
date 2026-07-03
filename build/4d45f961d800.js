@@ -1,0 +1,1 @@
+(function(){var b="4d45f961d800",m="# 1 Kings 6:10 (New International Version)\nAnd he built the side rooms all along the temple. The height of each was five cubits, and they were attached to the temple by beams of cedar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

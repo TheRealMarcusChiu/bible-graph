@@ -1,0 +1,1 @@
+(function(){var b="01717a055c2d",m="# 1 Kings 22:42 (New International Version)\nJehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem twenty-five years. His mother's name was Azubah daughter of Shilhi.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

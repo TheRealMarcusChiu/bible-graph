@@ -1,0 +1,1 @@
+(function(){var b="717f35479cc6",m="# 1 Kings 6:22 (New International Version)\nSo he overlaid the whole interior with gold. He also overlaid with gold the altar that belonged to the inner sanctuary.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

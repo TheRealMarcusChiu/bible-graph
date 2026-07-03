@@ -1,0 +1,1 @@
+(function(){var b="1cd6aa38b291",m="# 1 Kings 12:8 (New International Version)\nBut Rehoboam rejected<sup>^A</sup> the advice the elders gave him and consulted the young men who had grown up with him and were serving him. \n\n### Crossrefs\n- A: [[Lev-19-32|Lev 19:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

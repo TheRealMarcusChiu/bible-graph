@@ -1,0 +1,1 @@
+(function(){var b="d3dc110798e6",m="# 1 Kings 5:8 (New International Version)\nSo Hiram sent word to Solomon:\n\"I have received the message you sent me and will do all you want in providing the cedar and juniper logs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

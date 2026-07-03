@@ -1,0 +1,1 @@
+(function(){var b="9899cb312c30",m="# 1 Kings 18:15 (New International Version)\nElijah said, \"As the LORD Almighty lives, whom I serve, I will surely present<sup>^A</sup> myself to Ahab today.\"\n\n### Crossrefs\n- A: [[1Kgs-18-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

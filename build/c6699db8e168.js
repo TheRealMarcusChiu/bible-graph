@@ -1,0 +1,1 @@
+(function(){var b="c6699db8e168",m="# 2 Kings 1:12 (New International Version)\n\"If I am a man of God,\" Elijah replied, \"may fire come down from heaven and consume you and your fifty men!\" Then the fire of God fell from heaven and consumed him and his fifty men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

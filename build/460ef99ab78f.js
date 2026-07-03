@@ -1,0 +1,1 @@
+(function(){var b="460ef99ab78f",m="# 1 Kings 16:17 (New International Version)\nThen Omri and all the Israelites with him withdrew from Gibbethon and laid siege to Tirzah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="17405009df79",m="# 1 Kings 7:1 (New International Version)\nSolomon Builds His Palace\nIt took Solomon thirteen years, however, to complete the construction of his palace.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-7-2|2Sa 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

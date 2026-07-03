@@ -1,0 +1,1 @@
+(function(){var b="161152d5b852",m="# 1 Kings 15:25 (New International Version)\nNadab King of Israel\nNadab son of Jeroboam became king of Israel in the second year of Asa king of Judah, and he reigned over Israel two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

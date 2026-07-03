@@ -1,0 +1,1 @@
+(function(){var b="7a9b539688b3",m="# 1 Kings 14:20 (New International Version)\nHe reigned for twenty-two years and then rested with his ancestors. And Nadab his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

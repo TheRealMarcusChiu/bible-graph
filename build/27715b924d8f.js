@@ -1,0 +1,1 @@
+(function(){var b="27715b924d8f",m="# 1 Kings 11:8 (New International Version)\nHe did the same for all his foreign wives, who burned incense and offered sacrifices to their gods.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

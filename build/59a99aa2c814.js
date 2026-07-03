@@ -1,0 +1,1 @@
+(function(){var b="59a99aa2c814",m="# 1 Kings 11:12 (New International Version)\nNevertheless, for the sake of David<sup>^A</sup> your father, I will not do it during your lifetime. I will tear it out of the hand of your son. \n\n### Crossrefs\n- A: [[Ps-89-33|Ps 89:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="51cf75cddbb9",m="# 1 Kings 7:11 (New International Version)\nAbove were high-grade stones, cut to size, and cedar beams.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

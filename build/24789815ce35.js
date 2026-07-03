@@ -1,0 +1,1 @@
+(function(){var b="24789815ce35",m="# 1 Kings 17:15 (New International Version)\nShe went away and did as Elijah had told her. So there was food every day for Elijah and for the woman and her family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

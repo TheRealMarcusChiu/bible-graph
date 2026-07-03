@@ -1,0 +1,1 @@
+(function(){var b="7afc8969b1d6",m="# 1 Kings 20:6 (New International Version)\nBut about this time tomorrow I am going to send my officials to search your palace and the houses of your officials. They will seize everything you value and carry it away.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

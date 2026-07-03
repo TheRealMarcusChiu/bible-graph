@@ -1,0 +1,1 @@
+(function(){var b="fa8fc0cb723c",m="# 1 Kings 5:2 (New International Version)\nSolomon sent back this message to Hiram:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

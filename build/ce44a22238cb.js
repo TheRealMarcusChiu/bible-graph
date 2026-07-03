@@ -1,0 +1,1 @@
+(function(){var b="ce44a22238cb",m="# 1 Kings 16:19 (New International Version)\nbecause of the sins he had committed, doing evil in the eyes of the LORD and following the ways of Jeroboam and committing the same sin Jeroboam had caused Israel to commit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

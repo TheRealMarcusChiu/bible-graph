@@ -1,0 +1,1 @@
+(function(){var b="97d1fc1e2239",m="# 1 Kings 7:5 (New International Version)\nAll the doorways had rectangular frames; they were in the front part in sets of three, facing each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

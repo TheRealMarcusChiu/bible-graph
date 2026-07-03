@@ -1,0 +1,1 @@
+(function(){var b="63b4d81afcf2",m="# 1 Kings 12:13 (New International Version)\nThe king answered the people harshly. Rejecting the advice given him by the elders,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

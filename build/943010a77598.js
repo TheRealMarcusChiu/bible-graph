@@ -1,0 +1,1 @@
+(function(){var b="943010a77598",m="# 1 Kings 6:4 (New International Version)\nHe made narrow windows<sup>^A</sup> high up in the temple walls. \n\n### Crossrefs\n- A: [[Ezek-41-16|Eze 41:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

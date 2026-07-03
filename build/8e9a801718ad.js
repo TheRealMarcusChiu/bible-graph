@@ -1,0 +1,1 @@
+(function(){var b="8e9a801718ad",m="# 1 Kings 8:12 (New International Version)\nThen Solomon said, \"The LORD has said that he would dwell in a dark cloud;<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-40-34|Ex 40:34]]; S [[2Sam-22-10|2Sa 22:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

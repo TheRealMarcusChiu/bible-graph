@@ -1,0 +1,1 @@
+(function(){var b="2fd669b4f89f",m="# 1 Kings 7:17 (New International Version)\nA network of interwoven chains adorned the capitals on top of the pillars, seven for each capital.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

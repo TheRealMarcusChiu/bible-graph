@@ -1,0 +1,1 @@
+(function(){var b="9f2026923d9f",m="# 1 Kings 9:2 (New International Version)\nthe LORD appeared<sup>^A</sup> to him a second time, as he had appeared to him at Gibeon. \n\n### Crossrefs\n- A: S [[1Kgs-3-5|1Ki 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

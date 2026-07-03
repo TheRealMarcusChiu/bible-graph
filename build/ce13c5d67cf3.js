@@ -1,0 +1,1 @@
+(function(){var b="ce13c5d67cf3",m="# 1 Kings 17:6 (New International Version)\nThe ravens brought him bread and meat in the morning<sup>^A</sup> and bread and meat in the evening, and he drank from the brook.\n\n### Crossrefs\n- A: [[Exod-16-8|Ex 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

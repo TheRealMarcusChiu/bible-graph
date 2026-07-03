@@ -1,0 +1,1 @@
+(function(){var b="802bdd91b79f",m="# 1 Kings 18\n\nSolomon's reign and temple, the division of the kingdom, and the prophet Elijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

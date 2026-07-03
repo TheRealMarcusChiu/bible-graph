@@ -1,0 +1,1 @@
+(function(){var b="70089a68f479",m="# 1 Kings 7:9 (New International Version)\nAll these structures, from the outside to the great courtyard and from foundation to eaves, were made of blocks of high-grade stone cut to size and smoothed on their inner and outer faces.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

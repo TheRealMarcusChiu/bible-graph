@@ -1,0 +1,1 @@
+(function(){var b="d92adfdf9725",m="# 1 Kings 20:8 (New International Version)\nThe elders and the people all answered, \"Don't listen to him or agree to his demands.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

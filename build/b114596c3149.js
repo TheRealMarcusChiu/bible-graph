@@ -1,0 +1,1 @@
+(function(){var b="b114596c3149",m="# 1 Kings 17:8 (New International Version)\nThen the word of the LORD came to him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

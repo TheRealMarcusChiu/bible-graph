@@ -1,0 +1,1 @@
+(function(){var b="22a0512e3650",m="# 1 Kings 7:22 (New International Version)\nThe capitals on top were in the shape of lilies. And so the work on the pillars<sup>^A</sup> was completed.\n\n### Crossrefs\n- A: [[2Kgs-25-17|2Ki 25:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

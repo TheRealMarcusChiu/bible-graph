@@ -1,0 +1,1 @@
+(function(){var b="d1f5dceedca5",m="# 1 Kings 20:17 (New International Version)\nThe junior officers under the provincial commanders went out first.\nNow Ben-Hadad had dispatched scouts, who reported, \"Men are advancing from Samaria.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

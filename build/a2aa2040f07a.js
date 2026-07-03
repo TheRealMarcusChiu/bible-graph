@@ -1,0 +1,1 @@
+(function(){var b="a2aa2040f07a",m="# 1 Kings 16:21 (New International Version)\nOmri King of Israel\nThen the people of Israel were split into two factions; half supported Tibni son of Ginath for king, and the other half supported Omri.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="54f4024da7c3",m="# 1 Kings 10:11 (New International Version)\n(Hiram's ships brought gold from Ophir;<sup>^A</sup> and from there they brought great cargoes of almugwood and precious stones. \n\n### Crossrefs\n- A: S [[Gen-10-29|Ge 10:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d056d01c4ac4",m="# 1 Kings 18:37 (New International Version)\nAnswer me, LORD, answer me, so these people will know<sup>^A</sup> that you, LORD, are God, and that you are turning their hearts back again.\"\n\n### Crossrefs\n- A: S [[Josh-4-24|Jos 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

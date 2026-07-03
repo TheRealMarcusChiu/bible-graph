@@ -1,0 +1,1 @@
+(function(){var b="8bd19227f1ce",m="# 1 Kings 7:27 (New International Version)\nHe also made ten movable stands<sup>^A</sup> of bronze; each was four cubits long, four wide and three high. \n\n### Crossrefs\n- A: [[2Kgs-16-17|2Ki 16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

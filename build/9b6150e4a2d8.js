@@ -1,0 +1,1 @@
+(function(){var b="9b6150e4a2d8",m="# 1 Kings 11:9 (New International Version)\nThe LORD became angry with Solomon because his heart had turned away from the LORD, the God of Israel, who had appeared<sup>^A</sup> to him twice. \n\n### Crossrefs\n- A: S [[1Kgs-3-5|1Ki 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

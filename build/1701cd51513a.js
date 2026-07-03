@@ -1,0 +1,1 @@
+(function(){var b="1701cd51513a",m="# 1 Kings 11:19 (New International Version)\nPharaoh was so pleased with Hadad that he gave him a sister of his own wife, Queen Tahpenes, in marriage.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

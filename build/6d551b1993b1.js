@@ -1,0 +1,1 @@
+(function(){var b="6d551b1993b1",m="# 1 Kings 8:55 (New International Version)\nHe stood and blessed<sup>^A</sup> the whole assembly of Israel in a loud voice, saying:\n\n### Crossrefs\n- A: S [[Exod-39-43|Ex 39:43]]; [[Num-6-23|Nu 6:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

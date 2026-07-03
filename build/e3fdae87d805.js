@@ -1,0 +1,1 @@
+(function(){var b="e3fdae87d805",m="# 1 Kings 20:38 (New International Version)\nThen the prophet went and stood by the road waiting for the king. He disguised himself with his headband down over his eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="57ca55ac5a4c",m="# 1 Kings 15:7 (New International Version)\nAs for the other events of Abijah's reign, and all he did, are they not written in the book of the annals of the kings of Judah? There was war between Abijah and Jeroboam.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

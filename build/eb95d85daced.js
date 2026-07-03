@@ -1,0 +1,1 @@
+(function(){var b="eb95d85daced",m="# 1 Kings 13:14 (New International Version)\nand rode after the man of God. He found him sitting under an oak tree and asked, \"Are you the man of God who came from Judah?\"\n\"I am,\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

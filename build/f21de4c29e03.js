@@ -1,0 +1,1 @@
+(function(){var b="f21de4c29e03",m="# 1 Kings 14:30 (New International Version)\nThere was continual warfare<sup>^A</sup> between Rehoboam and Jeroboam. \n\n### Crossrefs\n- A: [[2Sam-3-1|2Sa 3:1]]; S [[1Kgs-12-21|1Ki 12:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

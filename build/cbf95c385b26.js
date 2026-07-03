@@ -1,0 +1,1 @@
+(function(){var b="cbf95c385b26",m="# 1 Kings 10:16 (New International Version)\nKing Solomon made two hundred large shields<sup>^A</sup> of hammered gold; six hundred shekels of gold went into each shield. \n\n### Crossrefs\n- A: S [[2Sam-8-7|2Sa 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

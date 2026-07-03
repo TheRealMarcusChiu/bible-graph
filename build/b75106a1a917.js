@@ -1,0 +1,1 @@
+(function(){var b="b75106a1a917",m="# 1 Kings 22:2 (New International Version)\nBut in the third year Jehoshaphat king of Judah went down to see the king of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

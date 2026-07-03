@@ -1,0 +1,1 @@
+(function(){var b="4ad786eb8dbb",m="# 1 Kings 6:2 (New International Version)\nThe temple<sup>^A</sup> that King Solomon built for the LORD was sixty cubits long, twenty wide and thirty high. \n\n### Crossrefs\n- A: [[Exod-26-1|Ex 26:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

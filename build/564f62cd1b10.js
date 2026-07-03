@@ -1,0 +1,1 @@
+(function(){var b="564f62cd1b10",m="# 1 Kings 14:3 (New International Version)\nTake ten loaves of bread<sup>^A</sup> with you, some cakes and a jar of honey, and go to him. He will tell you what will happen to the boy.\" \n\n### Crossrefs\n- A: S [[1Sam-9-7|1Sa 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

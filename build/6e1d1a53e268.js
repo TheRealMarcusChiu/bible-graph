@@ -1,0 +1,1 @@
+(function(){var b="6e1d1a53e268",m="# 1 Kings 20:41 (New International Version)\nThen the prophet quickly removed the headband from his eyes, and the king of Israel recognized him as one of the prophets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1d75ae3c4e22",m="# 1 Kings 6:25 (New International Version)\nThe second cherub also measured ten cubits, for the two cherubim were identical in size and shape.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

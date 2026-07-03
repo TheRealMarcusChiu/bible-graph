@@ -1,0 +1,1 @@
+(function(){var b="75a3759f9f8b",m="# 1 Kings 11:35 (New International Version)\nI will take the kingdom from his son's hands and give you ten tribes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

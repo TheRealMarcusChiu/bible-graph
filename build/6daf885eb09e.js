@@ -1,0 +1,1 @@
+(function(){var b="6daf885eb09e",m="# 1 Kings 15:8 (New International Version)\nAnd Abijah rested with his ancestors and was buried in the City of David. And Asa his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

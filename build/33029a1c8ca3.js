@@ -1,0 +1,1 @@
+(function(){var b="33029a1c8ca3",m="# 2 Kings 1:18 (New International Version)\nAs for all the other events of Ahaziah's reign, and what he did, are they not written in the book of the annals of the kings of Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

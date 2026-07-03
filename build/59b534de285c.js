@@ -1,0 +1,1 @@
+(function(){var b="59b534de285c",m="# 1 Kings 14:19 (New International Version)\nThe other events of Jeroboam's reign, his wars and how he ruled, are written in the book of the annals of the kings of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

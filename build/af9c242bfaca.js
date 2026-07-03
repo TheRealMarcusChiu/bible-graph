@@ -1,0 +1,1 @@
+(function(){var b="af9c242bfaca",m="# 1 Kings 11:6 (New International Version)\nSo Solomon did evil<sup>^A</sup> in the eyes of the LORD; he did not follow the LORD completely, as David his father had done.\n\n### Crossrefs\n- A: S [[Deut-4-25|Dt 4:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

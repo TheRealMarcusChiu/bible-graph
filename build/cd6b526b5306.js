@@ -1,0 +1,1 @@
+(function(){var b="cd6b526b5306",m="# 1 Kings 7:41 (New International Version)\nthe two pillars;\nthe two bowl-shaped capitals on top of the pillars;\nthe two sets of network decorating the two bowl-shaped capitals on top of the pillars;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

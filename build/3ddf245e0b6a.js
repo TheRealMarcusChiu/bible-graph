@@ -1,0 +1,1 @@
+(function(){var b="3ddf245e0b6a",m="# 1 Kings 8:54 (New International Version)\nWhen Solomon had finished all these prayers and supplications to the LORD, he rose from before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

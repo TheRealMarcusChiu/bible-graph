@@ -1,0 +1,1 @@
+(function(){var b="48c2145e7924",m="# 1 Kings 21:11 (New International Version)\nSo the elders and nobles who lived in Naboth's city did as Jezebel directed in the letters she had written to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

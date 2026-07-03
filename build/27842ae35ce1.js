@@ -1,0 +1,1 @@
+(function(){var b="27842ae35ce1",m="# 1 Kings 8:49 (New International Version)\nthen from heaven, your dwelling place, hear their prayer and their plea, and uphold their cause.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

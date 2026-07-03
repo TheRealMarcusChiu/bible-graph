@@ -1,0 +1,1 @@
+(function(){var b="34f7a17b5321",m="# 1 Kings 20:43 (New International Version)\nSullen and angry,<sup>^A</sup> the king of Israel went to his palace in Samaria.\n\n### Crossrefs\n- A: [[1Kgs-21-4|1Ki 21:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

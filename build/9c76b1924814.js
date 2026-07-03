@@ -1,0 +1,1 @@
+(function(){var b="9c76b1924814",m="# 1 Kings 18:11 (New International Version)\nBut now you tell me to go to my master and say, 'Elijah is here.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

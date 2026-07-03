@@ -1,0 +1,1 @@
+(function(){var b="ee0b4c20be48",m="# 1 Kings 21:16 (New International Version)\nWhen Ahab heard that Naboth was dead, he got up and went down to take possession of Naboth's vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

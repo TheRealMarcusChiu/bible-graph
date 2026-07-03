@@ -1,0 +1,1 @@
+(function(){var b="24098ca72ebe",m="# 1 Kings 10:3 (New International Version)\nSolomon answered all her questions; nothing was too hard for the king to explain to her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

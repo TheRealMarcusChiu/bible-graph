@@ -1,0 +1,1 @@
+(function(){var b="16421b6ad297",m="# 1 Kings 20:3 (New International Version)\n'Your silver and gold are mine, and the best of your wives and children are mine.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

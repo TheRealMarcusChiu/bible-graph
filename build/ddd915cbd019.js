@@ -1,0 +1,1 @@
+(function(){var b="ddd915cbd019",m="# 1 Kings 14:12 (New International Version)\n\"As for you, go back home. When you set foot in your city, the boy will die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6ae40e70b03c",m="# 1 Kings 14:1 (New International Version)\nAhijah's Prophecy Against Jeroboam\nAt that time Abijah son of Jeroboam became ill,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

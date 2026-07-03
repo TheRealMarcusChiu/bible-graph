@@ -1,0 +1,1 @@
+(function(){var b="b6c5d8b793a7",m="# 1 Kings 12:12 (New International Version)\nThree days later Jeroboam and all the people returned to Rehoboam, as the king had said, \"Come back to me in three days.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

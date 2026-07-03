@@ -1,0 +1,1 @@
+(function(){var b="205f03bdfa96",m="# 2 Kings 1:5 (New International Version)\nWhen the messengers returned to the king, he asked them, \"Why have you come back?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

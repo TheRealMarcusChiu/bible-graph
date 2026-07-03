@@ -1,0 +1,1 @@
+(function(){var b="239b85df8ec5",m="# 1 Kings 13:9 (New International Version)\nFor I was commanded by the word of the LORD: 'You must not eat bread or drink water or return by the way you came.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2d9aede4d8c2",m="# 1 Kings 10:4 (New International Version)\nWhen the queen of Sheba saw all the wisdom of Solomon and the palace he had built,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1bda815f86c0",m="# 1 Kings 12:17 (New International Version)\nBut as for the Israelites who were living in the towns of Judah,<sup>^A</sup> Rehoboam still ruled over them.\n\n### Crossrefs\n- A: [[1Kgs-11-13|1Ki 11:13]], [[1Kgs-11-36|36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

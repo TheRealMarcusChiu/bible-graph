@@ -1,0 +1,1 @@
+(function(){var b="cd863f9ede10",m="# 1 Kings 7:33 (New International Version)\nThe wheels were made like chariot wheels; the axles, rims, spokes and hubs were all of cast metal.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

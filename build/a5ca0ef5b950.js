@@ -1,0 +1,1 @@
+(function(){var b="a5ca0ef5b950",m="# 1 Kings 15:32 (New International Version)\nThere was war<sup>^A</sup> between Asa and Baasha king of Israel throughout their reigns.\n\n### Crossrefs\n- A: S [[1Kgs-15-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

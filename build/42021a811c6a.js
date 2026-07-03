@@ -1,0 +1,1 @@
+(function(){var b="42021a811c6a",m="# 1 Kings 7:10 (New International Version)\nThe foundations were laid with large stones of good quality, some measuring ten cubits and some eight.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

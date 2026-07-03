@@ -1,0 +1,1 @@
+(function(){var b="19b5d1ca1a27",m="# 1 Kings 19:6 (New International Version)\nHe looked around, and there by his head was some bread baked over hot coals, and a jar of water. He ate and drank and then lay down again.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9435aed252e0",m="# 1 Kings 5:15 (New International Version)\nSolomon had seventy thousand carriers and eighty thousand stonecutters in the hills,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

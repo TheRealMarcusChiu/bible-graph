@@ -1,0 +1,1 @@
+(function(){var b="961fe1cc90e7",m="# 1 Kings 22:47 (New International Version)\nThere was then no king<sup>^A</sup> in Edom; a provincial governor ruled.\n\n### Crossrefs\n- A: [[1Kgs-11-14|1Ki 11:14-18]]; [[2Kgs-3-9|2Ki 3:9]]; [[2Kgs-8-20|8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

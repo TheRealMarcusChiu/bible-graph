@@ -1,0 +1,1 @@
+(function(){var b="9c7851bc84d7",m="# 1 Kings 10:20 (New International Version)\nTwelve lions stood on the six steps, one at either end of each step. Nothing like it had ever been made for any other kingdom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="22978252d57e",m="# 1 Kings 7:34 (New International Version)\nEach stand had four handles, one on each corner, projecting from the stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

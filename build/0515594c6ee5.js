@@ -1,0 +1,1 @@
+(function(){var b="0515594c6ee5",m="# 1 Kings 9:23 (New International Version)\nThey were also the chief officials<sup>^A</sup> in charge of Solomon's projects--550 officials supervising those who did the work.\n\n### Crossrefs\n- A: [[1Kgs-5-16|1Ki 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

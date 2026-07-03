@@ -1,0 +1,1 @@
+(function(){var b="74581aca020b",m="# 1 Kings 7:43 (New International Version)\nthe ten stands with their ten basins;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

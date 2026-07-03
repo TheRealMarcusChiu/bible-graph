@@ -1,0 +1,1 @@
+(function(){var b="1efa20d54956",m="# 1 Kings 22:45 (New International Version)\nAs for the other events of Jehoshaphat's reign, the things he achieved and his military exploits, are they not written in the book of the annals of the kings of Judah?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0fadd534faa8",m="# 1 Kings 19:7 (New International Version)\nThe angel of the LORD came back a second time and touched him and said, \"Get up and eat, for the journey is too much for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

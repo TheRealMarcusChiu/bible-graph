@@ -1,0 +1,1 @@
+(function(){var b="5f00d2835f23",m="# 1 Kings 8:3 (New International Version)\nWhen all the elders of Israel had arrived, the priests<sup>^A</sup> took up the ark, \n\n### Crossrefs\n- A: S [[Josh-3-3|Jos 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

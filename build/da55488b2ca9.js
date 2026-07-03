@@ -1,0 +1,1 @@
+(function(){var b="da55488b2ca9",m="# 1 Kings 22:25 (New International Version)\nMicaiah replied, \"You will find out on the day you go to hide<sup>^A</sup> in an inner room.\"\n\n### Crossrefs\n- A: [[1Kgs-20-30|1Ki 20:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

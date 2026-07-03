@@ -1,0 +1,1 @@
+(function(){var b="1f630250f2fa",m="# 1 Kings 8:24 (New International Version)\nYou have kept your promise to your servant David my father; with your mouth you have promised and with your hand you have fulfilled it--as it is today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

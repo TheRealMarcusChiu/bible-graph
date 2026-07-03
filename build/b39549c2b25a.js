@@ -1,0 +1,1 @@
+(function(){var b="b39549c2b25a",m="# 1 Kings 6:35 (New International Version)\nHe carved cherubim, palm trees and open flowers on them and overlaid them with gold hammered evenly over the carvings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

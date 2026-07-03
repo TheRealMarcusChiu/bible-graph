@@ -1,0 +1,1 @@
+(function(){var b="caf32b52b70f",m="# 1 Kings 13:19 (New International Version)\nSo the man of God returned with him and ate and drank in his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

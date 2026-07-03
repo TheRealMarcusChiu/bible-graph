@@ -1,0 +1,1 @@
+(function(){var b="c7a26a95651f",m="# 1 Kings 15:34 (New International Version)\nHe did evil<sup>^A</sup> in the eyes of the LORD, following the ways of Jeroboam and committing the same sin Jeroboam had caused Israel to commit.\n\n### Crossrefs\n- A: [[1Kgs-15-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

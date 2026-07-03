@@ -1,0 +1,1 @@
+(function(){var b="59bbce7975c7",m="# 1 Kings 13:17 (New International Version)\nI have been told by the word of the LORD: 'You must not eat bread or drink water there or return by the way you came.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

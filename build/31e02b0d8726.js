@@ -1,0 +1,1 @@
+(function(){var b="31e02b0d8726",m="# 1 Kings 6:24 (New International Version)\nOne wing of the first cherub was five cubits long, and the other wing five cubits--ten cubits from wing tip to wing tip.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

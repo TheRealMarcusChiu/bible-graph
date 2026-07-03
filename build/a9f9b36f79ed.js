@@ -1,0 +1,1 @@
+(function(){var b="a9f9b36f79ed",m="# 1 Kings 17:17 (New International Version)\nSome time later the son of the woman who owned the house became ill. He grew worse and worse, and finally stopped breathing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

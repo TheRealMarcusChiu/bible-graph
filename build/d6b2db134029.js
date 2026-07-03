@@ -1,0 +1,1 @@
+(function(){var b="d6b2db134029",m="# 1 Kings 22:36 (New International Version)\nAs the sun was setting, a cry spread through the army: \"Every man to his town. Every man to his land!\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Kgs-14-12|2Ki 14:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

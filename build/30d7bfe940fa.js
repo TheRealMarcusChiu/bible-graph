@@ -1,0 +1,1 @@
+(function(){var b="30d7bfe940fa",m="# 1 Kings 9:12 (New International Version)\nBut when Hiram went from Tyre to see the towns that Solomon had given him, he was not pleased with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

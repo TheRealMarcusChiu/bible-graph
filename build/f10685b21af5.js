@@ -1,0 +1,1 @@
+(function(){var b="f10685b21af5",m="# 1 Kings 4:26 (New International Version)\nSolomon had four thousand stalls for chariot horses,<sup>^A</sup> and twelve thousand horses.\n\n### Crossrefs\n- A: S [[Deut-17-16|Dt 17:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

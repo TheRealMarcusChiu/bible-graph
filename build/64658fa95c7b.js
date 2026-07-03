@@ -1,0 +1,1 @@
+(function(){var b="64658fa95c7b",m="# 1 Kings 13:13 (New International Version)\nSo he said to his sons, \"Saddle the donkey for me.\" And when they had saddled the donkey for him, he mounted it";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

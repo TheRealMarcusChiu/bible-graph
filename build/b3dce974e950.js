@@ -1,0 +1,1 @@
+(function(){var b="b3dce974e950",m="# 1 Kings 16:28 (New International Version)\nOmri rested with his ancestors and was buried in Samaria.<sup>^A</sup> And Ahab his son succeeded him as king.\n\n### Crossrefs\n- A: S [[1Kgs-13-32|1Ki 13:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

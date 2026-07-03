@@ -1,0 +1,1 @@
+(function(){var b="e1cd48316508",m="# 1 Kings 17:7 (New International Version)\nElijah and the Widow at Zarephath\nSome time later the brook dried up because there had been no rain in the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

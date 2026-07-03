@@ -1,0 +1,1 @@
+(function(){var b="a831ce746ade",m="# 1 Kings 14:4 (New International Version)\nSo Jeroboam's wife did what he said and went to Ahijah's house in Shiloh.\nNow Ahijah could not see; his sight was gone because of his age.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

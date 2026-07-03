@@ -1,0 +1,1 @@
+(function(){var b="3e0d52d06eed",m="# 1 Kings 13:11 (New International Version)\nNow there was a certain old prophet living in Bethel, whose sons came and told him all that the man of God had done there that day. They also told their father what he had said to the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

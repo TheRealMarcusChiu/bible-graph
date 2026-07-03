@@ -1,0 +1,1 @@
+(function(){var b="53ca484161db",m="# 1 Kings 20:20 (New International Version)\nand each one struck down his opponent. At that, the Arameans fled, with the Israelites in pursuit. But Ben-Hadad king of Aram escaped on horseback with some of his horsemen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

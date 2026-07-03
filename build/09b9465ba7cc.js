@@ -1,0 +1,1 @@
+(function(){var b="09b9465ba7cc",m="# 1 Kings 16:16 (New International Version)\nWhen the Israelites in the camp heard that Zimri had plotted against the king and murdered him, they proclaimed Omri, the commander of the army, king over Israel that very day there in the camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

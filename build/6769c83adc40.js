@@ -1,0 +1,1 @@
+(function(){var b="6769c83adc40",m="# 1 Kings 21:9 (New International Version)\nIn those letters she wrote:\n\"Proclaim a day of fasting and seat Naboth in a prominent place among the people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

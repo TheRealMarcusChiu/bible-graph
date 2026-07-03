@@ -1,0 +1,1 @@
+(function(){var b="4283929670a3",m="# 1 Kings 16:22 (New International Version)\nBut Omri's followers proved stronger than those of Tibni son of Ginath. So Tibni died and Omri became king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

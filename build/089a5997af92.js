@@ -1,0 +1,1 @@
+(function(){var b="089a5997af92",m="# 1 Kings 7:35 (New International Version)\nAt the top of the stand there was a circular band half a cubit deep. The supports and panels were attached to the top of the stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

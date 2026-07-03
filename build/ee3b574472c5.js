@@ -1,0 +1,1 @@
+(function(){var b="ee3b574472c5",m="# 1 Kings 16:12 (New International Version)\nSo Zimri destroyed the whole family of Baasha, in accordance with the word of the LORD spoken against Baasha through the prophet Jehu--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

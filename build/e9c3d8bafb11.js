@@ -1,0 +1,1 @@
+(function(){var b="e9c3d8bafb11",m="# 1 Kings 22:40 (New International Version)\nAhab rested with his ancestors. And Ahaziah his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

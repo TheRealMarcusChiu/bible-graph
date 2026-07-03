@@ -1,0 +1,1 @@
+(function(){var b="0a1fed9f8a52",m="# 1 Kings 13:7 (New International Version)\nThe king said to the man of God, \"Come home with me for a meal, and I will give you a gift.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-9-7|1Sa 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

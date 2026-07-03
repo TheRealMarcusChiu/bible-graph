@@ -1,0 +1,1 @@
+(function(){var b="2ab2890bcbd4",m="# 1 Kings 7:39 (New International Version)\nHe placed five of the stands on the south side of the temple and five on the north. He placed the Sea on the south side, at the southeast corner of the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

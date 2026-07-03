@@ -1,0 +1,1 @@
+(function(){var b="c13fa8262058",m="# 1 Kings 22:51 (New International Version)\nAhaziah King of Israel\nAhaziah son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

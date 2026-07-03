@@ -1,0 +1,1 @@
+(function(){var b="d89253b537dc",m="# 1 Kings 15:10 (New International Version)\nand he reigned in Jerusalem forty-one years. His grandmother's name was Maakah<sup>^A</sup> daughter of Abishalom.\n\n### Crossrefs\n- A: S [[1Kgs-15-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

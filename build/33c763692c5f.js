@@ -1,0 +1,1 @@
+(function(){var b="33c763692c5f",m="# 1 Kings 9:18 (New International Version)\nBaalath,<sup>^A</sup> and Tadmor in the desert, within his land, \n\n### Crossrefs\n- A: S [[Josh-19-44|Jos 19:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

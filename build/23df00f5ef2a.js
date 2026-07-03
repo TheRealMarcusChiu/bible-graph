@@ -1,0 +1,1 @@
+(function(){var b="23df00f5ef2a",m="# 1 Kings 16:25 (New International Version)\nBut Omri did evil<sup>^A</sup> in the eyes of the LORD and sinned more than all those before him. \n\n### Crossrefs\n- A: [[1Kgs-16-25|ver 25-26]]; S [[Deut-4-25|Dt 4:25]]; [[Mic-6-16|Mic 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

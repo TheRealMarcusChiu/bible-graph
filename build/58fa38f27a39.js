@@ -1,0 +1,1 @@
+(function(){var b="58fa38f27a39",m="# 1 Kings 9:14 (New International Version)\nNow Hiram had sent to the king 120 talents of gold.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Kgs-9-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

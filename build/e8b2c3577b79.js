@@ -1,0 +1,1 @@
+(function(){var b="e8b2c3577b79",m="# 1 Kings 21:26 (New International Version)\nHe behaved in the vilest manner by going after idols, like the Amorites<sup>^A</sup> the LORD drove out before Israel.)\n\n### Crossrefs\n- A: S [[Gen-15-16|Ge 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1e897a5c9ffe",m="# 1 Kings 8:58 (New International Version)\nMay he turn our hearts<sup>^A</sup> to him, to walk in obedience to him and keep the commands, decrees and laws he gave our ancestors. \n\n### Crossrefs\n- A: S [[Josh-24-23|Jos 24:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

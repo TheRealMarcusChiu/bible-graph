@@ -1,0 +1,1 @@
+(function(){var b="a99f2f43908c",m="# 1 Kings 15:28 (New International Version)\nBaasha killed Nadab in the third year of Asa king of Judah and succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

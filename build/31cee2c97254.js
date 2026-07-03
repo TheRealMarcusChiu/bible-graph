@@ -1,0 +1,1 @@
+(function(){var b="31cee2c97254",m="# 1 Kings 12:26 (New International Version)\nJeroboam thought to himself, \"The kingdom will now likely revert to the house of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

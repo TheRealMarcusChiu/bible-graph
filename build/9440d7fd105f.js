@@ -1,0 +1,1 @@
+(function(){var b="9440d7fd105f",m="# 1 Kings 22:21 (New International Version)\nFinally, a spirit came forward, stood before the LORD and said, 'I will entice him.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

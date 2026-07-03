@@ -1,0 +1,1 @@
+(function(){var b="9721b7cdf292",m="# 1 Kings 7:32 (New International Version)\nThe four wheels were under the panels, and the axles of the wheels were attached to the stand. The diameter of each wheel was a cubit and a half.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

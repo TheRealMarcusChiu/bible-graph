@@ -1,0 +1,1 @@
+(function(){var b="2e3886c29ff1",m="# 1 Kings 17:2 (New International Version)\nElijah Fed by Ravens\nThen the word of the LORD came to Elijah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

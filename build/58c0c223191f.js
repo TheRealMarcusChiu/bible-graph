@@ -1,0 +1,1 @@
+(function(){var b="58c0c223191f",m="# 1 Kings 8:26 (New International Version)\nAnd now, God of Israel, let your word that you promised<sup>^A</sup> your servant David my father come true.\n\n### Crossrefs\n- A: S [[2Sam-7-25|2Sa 7:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

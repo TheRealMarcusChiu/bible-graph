@@ -1,0 +1,1 @@
+(function(){var b="4fcfe83afe56",m="# 1 Kings 14:25 (New International Version)\nIn the fifth year of King Rehoboam, Shishak king of Egypt attacked<sup>^A</sup> Jerusalem. \n\n### Crossrefs\n- A: [[2Chr-12-2|2Ch 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

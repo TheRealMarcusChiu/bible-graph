@@ -1,0 +1,1 @@
+(function(){var b="e8921f40e2e7",m="# 1 Kings 18:20 (New International Version)\nSo Ahab sent word throughout all Israel and assembled the prophets on Mount Carmel.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Kgs-2-25|2Ki 2:25]]; [[2Kgs-4-25|4:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

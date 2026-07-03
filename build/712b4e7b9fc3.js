@@ -1,0 +1,1 @@
+(function(){var b="712b4e7b9fc3",m="# 1 Kings 13:22 (New International Version)\nYou came back and ate bread and drank water in the place where he told you not to eat or drink. Therefore your body will not be buried in the tomb of your ancestors.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

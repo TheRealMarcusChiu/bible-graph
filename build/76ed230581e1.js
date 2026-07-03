@@ -1,0 +1,1 @@
+(function(){var b="76ed230581e1",m="# 1 Kings 18:35 (New International Version)\nThe water ran down around the altar and even filled the trench.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

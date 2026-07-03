@@ -1,0 +1,1 @@
+(function(){var b="b64266b42c74",m="# 1 Kings 13:29 (New International Version)\nSo the prophet picked up the body of the man of God, laid it on the donkey, and brought it back to his own city to mourn for him and bury him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d45486d50ed",m="# 1 Kings 7:21 (New International Version)\nHe erected the pillars at the portico of the temple. The pillar to the south he named Jakin and the one to the north Boaz.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Chr-3-17|2Ch 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d07f0c396f3e",m="# 1 Kings 18:8 (New International Version)\n\"Yes,\" he replied. \"Go tell your master, 'Elijah is here.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

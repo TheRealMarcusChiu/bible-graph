@@ -1,0 +1,1 @@
+(function(){var b="88a769641e25",m="# 1 Kings 13:25 (New International Version)\nSome people who passed by saw the body lying there, with the lion standing beside the body, and they went and reported it in the city where the old prophet lived.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

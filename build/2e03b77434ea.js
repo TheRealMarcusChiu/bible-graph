@@ -1,0 +1,1 @@
+(function(){var b="2e03b77434ea",m="# 1 Kings 6:8 (New International Version)\nThe entrance to the lowest floor was on the south side of the temple; a stairway led up to the middle level and from there to the third.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

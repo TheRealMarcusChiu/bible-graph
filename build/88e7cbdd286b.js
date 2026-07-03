@@ -1,0 +1,1 @@
+(function(){var b="88e7cbdd286b",m="# 1 Kings 11:14 (New International Version)\nSolomon's Adversaries\nThen the LORD raised up against Solomon an adversary,<sup>^A</sup> Hadad the Edomite, from the royal line of Edom. \n\n### Crossrefs\n- A: S [[1Kgs-5-4|1Ki 5:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

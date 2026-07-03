@@ -1,0 +1,1 @@
+(function(){var b="5b47a45daefc",m="# 1 Kings 15:11 (New International Version)\nAsa did what was right in the eyes of the LORD, as his father David<sup>^A</sup> had done. \n\n### Crossrefs\n- A: [[1Kgs-9-4|1Ki 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

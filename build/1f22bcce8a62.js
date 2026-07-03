@@ -1,0 +1,1 @@
+(function(){var b="1f22bcce8a62",m="# 2 Kings 1:11 (New International Version)\nAt this the king sent to Elijah another captain with his fifty men. The captain said to him, \"Man of God, this is what the king says, 'Come down at once!'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="158508555513",m="# 1 Kings 22:33 (New International Version)\nthe chariot commanders saw that he was not the king of Israel and stopped pursuing him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

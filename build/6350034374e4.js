@@ -1,0 +1,1 @@
+(function(){var b="6350034374e4",m="# 1 Kings 22:32 (New International Version)\nWhen the chariot commanders saw Jehoshaphat, they thought, \"Surely this is the king of Israel.\" So they turned to attack him, but when Jehoshaphat cried out,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

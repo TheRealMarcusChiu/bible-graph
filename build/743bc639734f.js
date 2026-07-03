@@ -1,0 +1,1 @@
+(function(){var b="743bc639734f",m="# 1 Kings 21:23 (New International Version)\n\"And also concerning Jezebel the LORD says: 'Dogs<sup>^A</sup> will devour Jezebel by the wall of Jezreel.'\n\n### Crossrefs\n- A: [[2Kgs-9-10|2Ki 9:10]], [[2Kgs-9-34|34-36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

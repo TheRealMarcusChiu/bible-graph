@@ -1,0 +1,1 @@
+(function(){var b="9bff37bcaa9d",m="# 1 Kings 22:50 (New International Version)\nThen Jehoshaphat rested with his ancestors and was buried with them in the city of David his father. And Jehoram his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

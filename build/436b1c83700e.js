@@ -1,0 +1,1 @@
+(function(){var b="436b1c83700e",m="# 1 Kings 16:10 (New International Version)\nZimri came in, struck him down and killed him in the twenty-seventh year of Asa king of Judah. Then he succeeded him as king.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Kgs-9-31|2Ki 9:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

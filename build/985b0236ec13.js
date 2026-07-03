@@ -1,0 +1,1 @@
+(function(){var b="985b0236ec13",m="# 1 Kings 8:14 (New International Version)\nWhile the whole assembly of Israel was standing there, the king turned around and blessed<sup>^A</sup> them. \n\n### Crossrefs\n- A: S [[Exod-39-43|Ex 39:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

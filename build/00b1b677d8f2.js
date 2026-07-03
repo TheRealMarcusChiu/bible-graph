@@ -1,0 +1,1 @@
+(function(){var b="00b1b677d8f2",m="# 1 Kings 20:2 (New International Version)\nHe sent messengers into the city to Ahab king of Israel, saying, \"This is what Ben-Hadad says:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

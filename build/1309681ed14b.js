@@ -1,0 +1,1 @@
+(function(){var b="1309681ed14b",m="# 1 Kings 18:41 (New International Version)\nAnd Elijah said to Ahab, \"Go, eat and drink, for there is the sound of a heavy rain.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

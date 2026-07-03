@@ -1,0 +1,1 @@
+(function(){var b="edeb3ebf8ab8",m="# 1 Kings 13:10 (New International Version)\nSo he took another road and did not return by the way he had come to Bethel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

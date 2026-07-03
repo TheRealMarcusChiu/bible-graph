@@ -1,0 +1,1 @@
+(function(){var b="5ba1ac35e6d3",m="# 1 Kings 9:17 (New International Version)\nAnd Solomon rebuilt Gezer.) He built up Lower Beth Horon,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-10-10|Jos 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

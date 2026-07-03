@@ -1,0 +1,1 @@
+(function(){var b="055373457a8d",m="# 1 Kings 7:6 (New International Version)\nHe made a colonnade fifty cubits long and thirty wide. In front of it was a portico, and in front of that were pillars and an overhanging roof.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

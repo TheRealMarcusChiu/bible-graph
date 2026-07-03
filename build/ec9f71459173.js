@@ -1,0 +1,1 @@
+(function(){var b="ec9f71459173",m="# 1 Kings 4:34 (New International Version)\nFrom all nations people came to listen to Solomon's wisdom, sent by all the kings<sup>^A</sup> of the world, who had heard of his wisdom.\n\n### Crossrefs\n- A: [[2Chr-9-23|2Ch 9:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

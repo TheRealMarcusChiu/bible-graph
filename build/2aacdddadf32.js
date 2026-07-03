@@ -1,0 +1,1 @@
+(function(){var b="2aacdddadf32",m="# 1 Kings 21:14 (New International Version)\nThen they sent word to Jezebel: \"Naboth has been stoned to death.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

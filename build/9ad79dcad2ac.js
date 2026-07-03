@@ -1,0 +1,1 @@
+(function(){var b="9ad79dcad2ac",m="# 1 Kings 17:5 (New International Version)\nSo he did what the LORD had told him. He went to the Kerith Ravine, east of the Jordan, and stayed there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

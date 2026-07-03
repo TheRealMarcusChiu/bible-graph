@@ -1,0 +1,1 @@
+(function(){var b="2c87d554245c",m="# 1 Kings 15:15 (New International Version)\nHe brought into the temple of the LORD the silver and gold and the articles that he and his father had dedicated.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-8-11|2Sa 8:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

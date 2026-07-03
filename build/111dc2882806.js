@@ -1,0 +1,1 @@
+(function(){var b="111dc2882806",m="# 1 Kings 10:18 (New International Version)\nThen the king made a great throne covered with ivory and overlaid with fine gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33eca5f4bf58",m="# 1 Kings 7:36 (New International Version)\nHe engraved cherubim, lions and palm trees on the surfaces of the supports and on the panels, in every available space, with wreaths all around.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

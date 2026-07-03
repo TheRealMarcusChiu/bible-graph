@@ -1,0 +1,1 @@
+(function(){var b="119163a9493b",m="# 1 Kings 18:28 (New International Version)\nSo they shouted louder and slashed<sup>^A</sup> themselves with swords and spears, as was their custom, until their blood flowed. \n\n### Crossrefs\n- A: S [[Lev-19-28|Lev 19:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

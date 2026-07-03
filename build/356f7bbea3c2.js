@@ -1,0 +1,1 @@
+(function(){var b="356f7bbea3c2",m="# 1 Kings 20:5 (New International Version)\nThe messengers came again and said, \"This is what Ben-Hadad says: 'I sent to demand your silver and gold, your wives and your children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

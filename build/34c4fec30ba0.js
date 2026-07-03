@@ -1,0 +1,1 @@
+(function(){var b="34c4fec30ba0",m="# 1 Kings 18:34 (New International Version)\n\"Do it again,\" he said, and they did it again.\n\"Do it a third time,\" he ordered, and they did it the third time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

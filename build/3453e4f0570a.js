@@ -1,0 +1,1 @@
+(function(){var b="3453e4f0570a",m="# 1 Kings 15:2 (New International Version)\nand he reigned in Jerusalem three years. His mother's name was Maakah<sup>^A</sup> daughter of Abishalom.\n\n### Crossrefs\n- A: [[1Kgs-15-10|ver 10]], [[1Kgs-15-13|13]]; [[2Chr-11-20|2Ch 11:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

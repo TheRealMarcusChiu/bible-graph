@@ -1,0 +1,1 @@
+(function(){var b="0643eddbfcce",m="# 1 Kings 11:22 (New International Version)\n\"What have you lacked here that you want to go back to your own country?\" Pharaoh asked.\n\"Nothing,\" Hadad replied, \"but do let me go!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

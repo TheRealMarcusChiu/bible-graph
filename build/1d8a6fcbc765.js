@@ -1,0 +1,1 @@
+(function(){var b="1d8a6fcbc765",m="# 1 Kings 15:31 (New International Version)\nAs for the other events of Nadab's reign, and all he did, are they not written in the book of the annals<sup>^A</sup> of the kings of Israel? \n\n### Crossrefs\n- A: [[1Kgs-11-41|1Ki 11:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f1c6cc896e76",m="# 1 Kings 6:26 (New International Version)\nThe height of each cherub was ten cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

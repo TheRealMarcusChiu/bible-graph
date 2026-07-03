@@ -1,0 +1,1 @@
+(function(){var b="48c4bd933bf3",m="# 1 Kings 10:8 (New International Version)\nHow happy your people must be! How happy your officials, who continually stand before you and hear<sup>^A</sup> your wisdom! \n\n### Crossrefs\n- A: [[Prov-8-34|Pr 8:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06db69833a2c",m="# 1 Kings 20:15 (New International Version)\nSo Ahab summoned the 232 junior officers under the provincial commanders. Then he assembled the rest of the Israelites, 7,000 in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="85980f5cc363",m="# 1 Kings 10:13 (New International Version)\nKing Solomon gave the queen of Sheba all she desired and asked for, besides what he had given her out of his royal bounty. Then she left and returned with her retinue to her own country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

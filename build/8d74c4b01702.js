@@ -1,0 +1,1 @@
+(function(){var b="8d74c4b01702",m="# 1 Kings 20:19 (New International Version)\nThe junior officers under the provincial commanders marched out of the city with the army behind them";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

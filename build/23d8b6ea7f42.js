@@ -1,0 +1,1 @@
+(function(){var b="23d8b6ea7f42",m="# 1 Kings 9:27 (New International Version)\nAnd Hiram sent his men--sailors<sup>^A</sup> who knew the sea--to serve in the fleet with Solomon's men. \n\n### Crossrefs\n- A: [[Ezek-27-8|Eze 27:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

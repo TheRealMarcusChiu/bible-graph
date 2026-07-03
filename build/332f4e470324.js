@@ -1,0 +1,1 @@
+(function(){var b="332f4e470324",m="# 1 Kings 18:9 (New International Version)\n\"What have I done wrong,\" asked Obadiah, \"that you are handing your servant over to Ahab to be put to death?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

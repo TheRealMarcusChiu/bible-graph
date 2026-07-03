@@ -1,0 +1,1 @@
+(function(){var b="744ce57a8a87",m="# 1 Kings 13:20 (New International Version)\nWhile they were sitting at the table, the word of the LORD came to the old prophet who had brought him back.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

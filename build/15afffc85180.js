@@ -1,0 +1,1 @@
+(function(){var b="15afffc85180",m="# 1 Kings 7:3 (New International Version)\nIt was roofed with cedar above the beams that rested on the columns--forty-five beams, fifteen to a row.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

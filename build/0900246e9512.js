@@ -1,0 +1,1 @@
+(function(){var b="0900246e9512",m="# 1 Kings 22:14 (New International Version)\nBut Micaiah said, \"As surely as the LORD lives, I can tell him only what the LORD tells me.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-22-18|Nu 22:18]]; S [[1Sam-3-17|1Sa 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

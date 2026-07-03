@@ -1,0 +1,1 @@
+(function(){var b="7f7f72393a65",m="# 1 Kings 8:7 (New International Version)\nThe cherubim spread their wings over the place of the ark and overshadowed<sup>^A</sup> the ark and its carrying poles. \n\n### Crossrefs\n- A: S [[Exod-25-20|Ex 25:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

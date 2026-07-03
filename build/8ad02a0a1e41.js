@@ -1,0 +1,1 @@
+(function(){var b="8ad02a0a1e41",m="# 1 Kings 20:16 (New International Version)\nThey set out at noon while Ben-Hadad and the 32 kings allied with him were in their tents getting drunk.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-16-9|1Ki 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

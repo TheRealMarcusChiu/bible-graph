@@ -1,0 +1,1 @@
+(function(){var b="8e167bba0b8a",m="# 1 Kings 6:33 (New International Version)\nIn the same way, for the entrance to the main hall he made doorframes out of olive wood that were one fourth of the width of the hall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

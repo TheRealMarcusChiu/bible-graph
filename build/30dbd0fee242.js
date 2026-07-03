@@ -1,0 +1,1 @@
+(function(){var b="30dbd0fee242",m="# 1 Kings 6:34 (New International Version)\nHe also made two doors out of juniper wood, each having two leaves that turned in sockets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

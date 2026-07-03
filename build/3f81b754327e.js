@@ -1,0 +1,1 @@
+(function(){var b="3f81b754327e",m="# 1 Kings 20:18 (New International Version)\nHe said, \"If they have come out for peace, take them alive; if they have come out for war, take them alive.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

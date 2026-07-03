@@ -1,0 +1,1 @@
+(function(){var b="1ff61250e820",m="# 1 Kings 14:16 (New International Version)\nAnd he will give Israel up because of the sins<sup>^A</sup> Jeroboam has committed and has caused Israel to commit.\"\n\n### Crossrefs\n- A: S [[1Kgs-12-30|1Ki 12:30]]; S [[1Kgs-15-26|15:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

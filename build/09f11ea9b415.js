@@ -1,0 +1,1 @@
+(function(){var b="09f11ea9b415",m="# 1 Kings 16:14 (New International Version)\nAs for the other events of Elah's reign, and all he did, are they not written in the book of the annals of the kings of Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3856236beb21",m="# 1 Kings 16:20 (New International Version)\nAs for the other events of Zimri's reign, and the rebellion he carried out, are they not written in the book of the annals of the kings of Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

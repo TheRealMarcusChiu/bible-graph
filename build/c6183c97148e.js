@@ -1,0 +1,1 @@
+(function(){var b="c6183c97148e",m="# 1 Kings 12:3 (New International Version)\nSo they sent for Jeroboam, and he and the whole assembly of Israel went to Rehoboam and said to him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

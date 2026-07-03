@@ -1,0 +1,1 @@
+(function(){var b="60d5ade9626a",m="# 1 Kings 7:37 (New International Version)\nThis is the way he made the ten stands. They were all cast in the same molds and were identical in size and shape.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

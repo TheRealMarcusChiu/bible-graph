@@ -1,0 +1,1 @@
+(function(){var b="b8d7a6670226",m="# 1 Kings 10:24 (New International Version)\nThe whole world sought audience with Solomon to hear the wisdom<sup>^A</sup> God had put in his heart. \n\n### Crossrefs\n- A: S [[2Sam-14-20|2Sa 14:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

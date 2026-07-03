@@ -1,0 +1,1 @@
+(function(){var b="70aa08864389",m="# 1 Kings 10:19 (New International Version)\nThe throne had six steps, and its back had a rounded top. On both sides of the seat were armrests, with a lion standing beside each of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

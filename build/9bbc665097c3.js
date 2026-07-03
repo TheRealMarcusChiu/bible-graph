@@ -1,0 +1,1 @@
+(function(){var b="9bbc665097c3",m="# 1 Kings 11:16 (New International Version)\nJoab and all the Israelites stayed there for six months, until they had destroyed all the men in Edom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

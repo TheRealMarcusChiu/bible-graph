@@ -1,0 +1,1 @@
+(function(){var b="9576f37f20d6",m="# 1 Kings 7:4 (New International Version)\nIts windows were placed high in sets of three, facing each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
