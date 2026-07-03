@@ -1,0 +1,1 @@
+(function(){var b="ae5f2af99c61",m="# 1 Kings 2:45 (New International Version)\nBut King Solomon will be blessed, and David's throne will remain secure<sup>^A</sup> before the LORD forever.\"\n\n### Crossrefs\n- A: S [[2Sam-7-13|2Sa 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

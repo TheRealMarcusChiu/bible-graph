@@ -1,0 +1,1 @@
+(function(){var b="3b453dd80dab",m="# 2 Samuel 18:16 (New International Version)\nThen Joab<sup>^A</sup> sounded the trumpet, and the troops stopped pursuing Israel, for Joab halted them. \n\n### Crossrefs\n- A: S [[2Sam-2-28|2Sa 2:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

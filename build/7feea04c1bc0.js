@@ -1,0 +1,1 @@
+(function(){var b="7feea04c1bc0",m="# 1 Kings 3:19 (New International Version)\n\"During the night this woman's son died because she lay on him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

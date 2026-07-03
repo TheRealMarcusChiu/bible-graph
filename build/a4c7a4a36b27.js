@@ -1,0 +1,1 @@
+(function(){var b="a4c7a4a36b27",m="# 2 Samuel 22:46 (New International Version)\nThey all lose heart;  \n    they come trembling<sup>^A</sup> from their strongholds.\n\n### Crossrefs\n- A: [[Mic-7-17|Mic 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

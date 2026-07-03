@@ -1,0 +1,1 @@
+(function(){var b="481b97e9cd9b",m="# 1 Kings 1:18 (New International Version)\nBut now Adonijah has become king, and you, my lord the king, do not know about it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

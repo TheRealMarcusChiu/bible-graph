@@ -1,0 +1,1 @@
+(function(){var b="bc2c88019321",m="# 2 Samuel 18:5 (New International Version)\nThe king commanded Joab, Abishai and Ittai, \"Be gentle with the young man Absalom for my sake.\" And all the troops heard the king giving orders concerning Absalom to each of the commanders.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

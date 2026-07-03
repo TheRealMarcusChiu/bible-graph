@@ -1,0 +1,1 @@
+(function(){var b="0f18d67281fc",m="# 1 Kings 4:9 (New International Version)\nBen-Deker--in Makaz, Shaalbim,<sup>^A</sup> Beth Shemesh<sup>^B</sup> and Elon Bethhanan;\n\n### Crossrefs\n- A: [[Judg-1-35|Jdg 1:35]]\n- B: S [[Josh-15-10|Jos 15:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

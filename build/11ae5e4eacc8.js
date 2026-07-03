@@ -1,0 +1,1 @@
+(function(){var b="11ae5e4eacc8",m="# 2 Samuel 19:23 (New International Version)\nSo the king said to Shimei, \"You shall not die.\" And the king promised him on oath.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Kgs-2-8|1Ki 2:8]], [[1Kgs-2-42|42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

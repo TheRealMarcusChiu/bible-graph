@@ -1,0 +1,1 @@
+(function(){var b="64564003bc3a",m="# 2 Samuel 22:14 (New International Version)\nThe LORD thundered<sup>^A</sup> from heaven;  \n    the voice of the Most High resounded.\n\n### Crossrefs\n- A: S [[1Sam-2-10|1Sa 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

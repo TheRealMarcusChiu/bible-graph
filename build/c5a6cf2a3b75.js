@@ -1,0 +1,1 @@
+(function(){var b="c5a6cf2a3b75",m="# 1 Kings 1:31 (New International Version)\nThen Bathsheba bowed down with her face to the ground, prostrating herself before the king, and said, \"May my lord King David live forever!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

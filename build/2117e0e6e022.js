@@ -1,0 +1,1 @@
+(function(){var b="2117e0e6e022",m="# 2 Samuel 20:25 (New International Version)\nSheva was secretary; Zadok<sup>^A</sup> and Abiathar were priests; \n\n### Crossrefs\n- A: S [[1Sam-2-35|1Sa 2:35]]; S [[2Sam-8-17|2Sa 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

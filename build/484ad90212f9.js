@@ -1,0 +1,1 @@
+(function(){var b="484ad90212f9",m="# 2 Samuel 23:26 (New International Version)\nHelez<sup>^A</sup> the Paltite,\nIra<sup>^B</sup> son of Ikkesh from Tekoa,\n\n### Crossrefs\n- A: [[1Chr-27-10|1Ch 27:10]]\n- B: [[1Chr-27-9|1Ch 27:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

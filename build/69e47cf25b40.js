@@ -1,0 +1,1 @@
+(function(){var b="69e47cf25b40",m="# 1 Kings 1:26 (New International Version)\nBut me your servant, and Zadok the priest, and Benaiah son of Jehoiada, and your servant Solomon he did not invite.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Kgs-1-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="25d66aaec1d7",m="# 2 Samuel 19:3 (New International Version)\nThe men stole into the city that day as men steal in who are ashamed when they flee from battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

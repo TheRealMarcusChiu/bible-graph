@@ -1,0 +1,1 @@
+(function(){var b="dd13746ea8de",m="# 1 Kings 2:17 (New International Version)\nSo he continued, \"Please ask King Solomon--he will not refuse you--to give me Abishag<sup>^A</sup> the Shunammite as my wife.\"\n\n### Crossrefs\n- A: S [[1Kgs-1-3|1Ki 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

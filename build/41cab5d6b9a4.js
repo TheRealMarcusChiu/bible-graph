@@ -1,0 +1,1 @@
+(function(){var b="41cab5d6b9a4",m="# 1 Kings 4:10 (New International Version)\nBen-Hesed--in Arubboth (Sokoh<sup>^A</sup> and all the land of Hepher<sup>^B</sup> were his);\n\n### Crossrefs\n- A: S [[Josh-15-35|Jos 15:35]]\n- B: S [[Josh-12-17|Jos 12:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

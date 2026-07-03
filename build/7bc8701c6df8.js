@@ -1,0 +1,1 @@
+(function(){var b="7bc8701c6df8",m="# 2 Samuel 18:21 (New International Version)\nThen Joab said to a Cushite, \"Go, tell the king what you have seen.\" The Cushite bowed down before Joab and ran off.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

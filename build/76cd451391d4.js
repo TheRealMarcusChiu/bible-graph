@@ -1,0 +1,1 @@
+(function(){var b="76cd451391d4",m="# 1 Kings 1:36 (New International Version)\nBenaiah son of Jehoiada answered the king, \"Amen! May the LORD, the God of my lord the king, so declare it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

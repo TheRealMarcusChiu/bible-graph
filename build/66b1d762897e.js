@@ -1,0 +1,1 @@
+(function(){var b="66b1d762897e",m="# 2 Samuel 18:4 (New International Version)\nThe king answered, \"I will do whatever seems best to you.\"\nSo the king stood beside the gate while all his men marched out in units of hundreds and of thousands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

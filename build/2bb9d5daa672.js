@@ -1,0 +1,1 @@
+(function(){var b="2bb9d5daa672",m="# 1 Kings 1:24 (New International Version)\nNathan said, \"Have you, my lord the king, declared that Adonijah shall be king after you, and that he will sit on your throne?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

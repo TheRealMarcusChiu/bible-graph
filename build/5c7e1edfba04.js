@@ -1,0 +1,1 @@
+(function(){var b="5c7e1edfba04",m="# 2 Samuel 24:23 (New International Version)\nYour Majesty, Araunah gives<sup>^A</sup> all this to the king.\" Araunah also said to him, \"May the LORD your God accept you.\"\n\n### Crossrefs\n- A: [[Gen-23-11|Ge 23:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="158239a43738",m="# 1 Kings 2:38 (New International Version)\nShimei answered the king, \"What you say is good. Your servant will do as my lord the king has said.\" And Shimei stayed in Jerusalem for a long time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

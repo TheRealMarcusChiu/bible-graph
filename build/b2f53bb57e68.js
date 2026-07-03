@@ -1,0 +1,1 @@
+(function(){var b="b2f53bb57e68",m="# 2 Samuel 23:30 (New International Version)\nBenaiah the Pirathonite,<sup>^A</sup>\nHiddai from the ravines of Gaash,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Judg-12-13|Jdg 12:13]]\n- B: [[Josh-24-30|Jos 24:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

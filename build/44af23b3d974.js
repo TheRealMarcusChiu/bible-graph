@@ -1,0 +1,1 @@
+(function(){var b="44af23b3d974",m="# 2 Samuel 19:33 (New International Version)\nThe king said to Barzillai, \"Cross over with me and stay with me in Jerusalem, and I will provide for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

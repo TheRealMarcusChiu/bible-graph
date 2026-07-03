@@ -1,0 +1,1 @@
+(function(){var b="f354b9c67891",m="# 2 Samuel 22:41 (New International Version)\nYou made my enemies turn their backs<sup>^A</sup> in flight,  \n    and I destroyed my foes.\n\n### Crossrefs\n- A: S [[Exod-23-27|Ex 23:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

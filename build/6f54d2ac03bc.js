@@ -1,0 +1,1 @@
+(function(){var b="6f54d2ac03bc",m="# 2 Samuel 20:17 (New International Version)\nHe went toward her, and she asked, \"Are you Joab?\"\n\"I am,\" he answered.\nShe said, \"Listen to what your servant has to say.\"\n\"I'm listening,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6a13660dc872",m="# 1 Kings 4:1 (New International Version)\nSolomon's Officials and Governors\nSo King Solomon ruled over all Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

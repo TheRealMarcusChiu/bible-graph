@@ -1,0 +1,1 @@
+(function(){var b="f610a0a959f1",m="# 2 Samuel 19:38 (New International Version)\nThe king said, \"Kimham shall cross over with me, and I will do for him whatever you wish. And anything you desire from me I will do for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

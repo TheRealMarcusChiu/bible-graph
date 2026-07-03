@@ -1,0 +1,1 @@
+(function(){var b="a8e01f55adb7",m="# 1 Kings 4:8 (New International Version)\nThese are their names:\nBen-Hur--in the hill country<sup>^A</sup> of Ephraim;\n\n### Crossrefs\n- A: S [[Josh-24-33|Jos 24:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

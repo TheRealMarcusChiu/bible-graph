@@ -1,0 +1,1 @@
+(function(){var b="5e1f395630f4",m="# 2 Samuel 23:22 (New International Version)\nSuch were the exploits of Benaiah son of Jehoiada; he too was as famous as the three mighty warriors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

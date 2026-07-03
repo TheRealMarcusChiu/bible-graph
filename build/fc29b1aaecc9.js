@@ -1,0 +1,1 @@
+(function(){var b="fc29b1aaecc9",m="# 1 Kings 2:33 (New International Version)\nMay the guilt of their blood rest on the head of Joab and his descendants forever. But on David and his descendants, his house and his throne, may there be the LORD's peace forever.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

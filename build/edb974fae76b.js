@@ -1,0 +1,1 @@
+(function(){var b="edb974fae76b",m="# 1 Kings 2:16 (New International Version)\nNow I have one request to make of you. Do not refuse me.\"\n\"You may make it,\" she said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

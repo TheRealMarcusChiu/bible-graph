@@ -1,0 +1,1 @@
+(function(){var b="be6e3f3ebf65",m="# 1 Kings 4:16 (New International Version)\nBaana son of Hushai<sup>^A</sup>--in Asher and in Aloth;\n\n### Crossrefs\n- A: S [[2Sam-15-32|2Sa 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

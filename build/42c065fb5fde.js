@@ -1,0 +1,1 @@
+(function(){var b="42c065fb5fde",m="# 1 Kings 4:18 (New International Version)\nShimei<sup>^A</sup> son of Ela--in Benjamin;\n\n### Crossrefs\n- A: [[1Kgs-1-8|1Ki 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

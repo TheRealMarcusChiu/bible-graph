@@ -1,0 +1,1 @@
+(function(){var b="069f24ec704d",m="# 2 Samuel 21:5 (New International Version)\nThey answered the king, \"As for the man who destroyed us and plotted against us so that we have been decimated and have no place anywhere in Israel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

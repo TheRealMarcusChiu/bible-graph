@@ -1,0 +1,1 @@
+(function(){var b="326b325e6d87",m="# 2 Samuel 21:11 (New International Version)\nWhen David was told what Aiah's daughter Rizpah, Saul's concubine, had done,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

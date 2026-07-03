@@ -1,0 +1,1 @@
+(function(){var b="a156d65229be",m="# 2 Samuel 18:6 (New International Version)\nDavid's army marched out of the city to fight Israel, and the battle took place in the forest<sup>^A</sup> of Ephraim. \n\n### Crossrefs\n- A: S [[Josh-17-15|Jos 17:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

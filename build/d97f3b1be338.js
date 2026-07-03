@@ -1,0 +1,1 @@
+(function(){var b="d97f3b1be338",m="# 2 Samuel 22:39 (New International Version)\nI crushed<sup>^A</sup> them completely, and they could not rise;  \n    they fell beneath my feet.\n\n### Crossrefs\n- A: [[Ps-44-5|Ps 44:5]]; [[Ps-110-6|110:6]]; [[Mal-4-3|Mal 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

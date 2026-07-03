@@ -1,0 +1,1 @@
+(function(){var b="09811da5f69d",m="# 2 Samuel 19:1 (New International Version)\nJoab was told, \"The king is weeping and mourning for Absalom.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="541271faaedf",m="# 2 Samuel 23:27 (New International Version)\nAbiezer<sup>^A</sup> from Anathoth,<sup>^B</sup>\nSibbekai the Hushathite,\n\n### Crossrefs\n- A: [[1Chr-27-12|1Ch 27:12]]\n- B: S [[Josh-21-18|Jos 21:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

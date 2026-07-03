@@ -1,0 +1,1 @@
+(function(){var b="1069db5fd7fb",m="# 2 Samuel 23:29 (New International Version)\nHeled<sup>^A</sup> son of Baanah the Netophathite,\nIthai son of Ribai from Gibeah<sup>^B</sup> in Benjamin,\n\n### Crossrefs\n- A: [[1Chr-27-15|1Ch 27:15]]\n- B: S [[Josh-15-57|Jos 15:57]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

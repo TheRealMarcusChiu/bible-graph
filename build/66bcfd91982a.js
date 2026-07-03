@@ -1,0 +1,1 @@
+(function(){var b="66bcfd91982a",m="# 2 Samuel 23:19 (New International Version)\nWas he not held in greater honor than the Three? He became their commander, even though he was not included among them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

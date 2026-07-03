@@ -1,0 +1,1 @@
+(function(){var b="d3f39bddc7ac",m="# 1 Kings 3:21 (New International Version)\nThe next morning, I got up to nurse my son--and he was dead! But when I looked at him closely in the morning light, I saw that it wasn't the son I had borne.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

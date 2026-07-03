@@ -1,0 +1,1 @@
+(function(){var b="a66afd511d21",m="# 1 Kings 1:22 (New International Version)\nWhile she was still speaking with the king, Nathan the prophet arrived.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

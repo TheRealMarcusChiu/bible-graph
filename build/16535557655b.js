@@ -1,0 +1,1 @@
+(function(){var b="16535557655b",m="# 1 Kings 1:2 (New International Version)\nSo his attendants said to him, \"Let us look for a young virgin to serve the king and take care of him. She can lie beside him so that our lord the king may keep warm.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

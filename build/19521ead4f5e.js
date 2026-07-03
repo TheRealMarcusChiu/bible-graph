@@ -1,0 +1,1 @@
+(function(){var b="19521ead4f5e",m="# 1 Kings 3:25 (New International Version)\nHe then gave an order: \"Cut the living child in two and give half to one and half to the other.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c277183c16f3",m="# 1 Kings 1:35 (New International Version)\nThen you are to go up with him, and he is to come and sit on my throne and reign in my place. I have appointed him ruler over Israel and Judah.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

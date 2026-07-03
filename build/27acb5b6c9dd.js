@@ -1,0 +1,1 @@
+(function(){var b="27acb5b6c9dd",m="# 2 Samuel 18:15 (New International Version)\nAnd ten of Joab's armor-bearers surrounded Absalom, struck him and killed him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-12-10|2Sa 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

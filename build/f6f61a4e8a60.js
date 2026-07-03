@@ -1,0 +1,1 @@
+(function(){var b="f6f61a4e8a60",m="# 1 Kings 2:10 (New International Version)\nThen David rested with his ancestors and was buried<sup>^A</sup> in the City of David.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Acts-2-29|Ac 2:29]]\n- B: S [[2Sam-5-7|2Sa 5:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

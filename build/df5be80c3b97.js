@@ -1,0 +1,1 @@
+(function(){var b="df5be80c3b97",m="# 1 Kings 3:17 (New International Version)\nOne of them said, \"Pardon me, my lord. This woman and I live in the same house, and I had a baby while she was there with me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8e921e95b79",m="# 2 Samuel 23:7 (New International Version)\nWhoever touches thorns  \n    uses a tool of iron or the shaft of a spear;  \n    they are burned up where they lie.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

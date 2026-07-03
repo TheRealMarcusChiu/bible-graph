@@ -1,0 +1,1 @@
+(function(){var b="f5cf8289961a",m="# 1 Kings 3:18 (New International Version)\nThe third day after my child was born, this woman also had a baby. We were alone; there was no one in the house but the two of us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

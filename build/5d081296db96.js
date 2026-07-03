@@ -1,0 +1,1 @@
+(function(){var b="5d081296db96",m="# 2 Samuel 22:32 (New International Version)\nFor who is God besides the LORD?  \n    And who is the Rock<sup>^A</sup> except our God?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Sam-2-2|1Sa 2:2]]\n- B: S [[2Sam-7-22|2Sa 7:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

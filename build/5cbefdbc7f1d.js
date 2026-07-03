@@ -1,0 +1,1 @@
+(function(){var b="5cbefdbc7f1d",m="# 2 Samuel 19:20 (New International Version)\nFor I your servant know that I have sinned, but today I have come here as the first from the tribes of Joseph to come down and meet my lord the king.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

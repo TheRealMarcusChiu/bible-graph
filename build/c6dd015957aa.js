@@ -1,0 +1,1 @@
+(function(){var b="c6dd015957aa",m="# 2 Samuel 22:30 (New International Version)\nWith your help I can advance against a troop;  \n    with my God I can scale a wall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

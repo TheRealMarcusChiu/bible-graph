@@ -1,0 +1,1 @@
+(function(){var b="bb7e5450fe28",m="# 1 Kings 1:53 (New International Version)\nThen King Solomon sent men, and they brought him down from the altar. And Adonijah came and bowed down to King Solomon, and Solomon said, \"Go to your home.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

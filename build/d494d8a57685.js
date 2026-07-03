@@ -1,0 +1,1 @@
+(function(){var b="d494d8a57685",m="# 2 Samuel 20:20 (New International Version)\n\"Far be it from me!\" Joab replied, \"Far be it from me to swallow up or destroy!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

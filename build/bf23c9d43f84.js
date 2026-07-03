@@ -1,0 +1,1 @@
+(function(){var b="bf23c9d43f84",m="# 1 Kings 3:20 (New International Version)\nSo she got up in the middle of the night and took my son from my side while I your servant was asleep. She put him by her breast and put her dead son by my breast.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

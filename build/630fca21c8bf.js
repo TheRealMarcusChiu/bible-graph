@@ -1,0 +1,1 @@
+(function(){var b="630fca21c8bf",m="# 1 Kings 1:50 (New International Version)\nBut Adonijah, in fear of Solomon, went and took hold of the horns<sup>^A</sup> of the altar. \n\n### Crossrefs\n- A: S [[Exod-27-2|Ex 27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

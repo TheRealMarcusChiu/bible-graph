@@ -1,0 +1,1 @@
+(function(){var b="510ef4f59649",m="# 1 Kings 4:15 (New International Version)\nAhimaaz<sup>^A</sup>--in Naphtali (he had married Basemath daughter of Solomon);\n\n### Crossrefs\n- A: [[2Sam-15-27|2Sa 15:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

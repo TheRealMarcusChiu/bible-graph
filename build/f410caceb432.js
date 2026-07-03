@@ -1,0 +1,1 @@
+(function(){var b="f410caceb432",m="# 1 Kings 1:12 (New International Version)\nNow then, let me advise<sup>^A</sup> you how you can save your own life and the life of your son Solomon. \n\n### Crossrefs\n- A: [[Prov-15-22|Pr 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

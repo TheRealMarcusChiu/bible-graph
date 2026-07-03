@@ -1,0 +1,1 @@
+(function(){var b="03cbc4040bce",m="# 1 Kings 4:5 (New International Version)\nAzariah son of Nathan--in charge of the district governors;\nZabud son of Nathan--a priest and adviser to the king;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c23c0cf18d03",m="# 2 Samuel 19:36 (New International Version)\nYour servant will cross over the Jordan with the king for a short distance, but why should the king reward me in this way?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

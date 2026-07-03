@@ -1,0 +1,1 @@
+(function(){var b="6cfa95c9f1a9",m="# 2 Samuel 18:8 (New International Version)\nThe battle spread out over the whole countryside, and the forest swallowed up more men that day than the sword.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06d3e6d9d592",m="# 1 Kings 2:36 (New International Version)\nThen the king sent for Shimei<sup>^A</sup> and said to him, \"Build yourself a house in Jerusalem and live there, but do not go anywhere else. \n\n### Crossrefs\n- A: S [[2Sam-16-5|2Sa 16:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

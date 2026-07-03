@@ -1,0 +1,1 @@
+(function(){var b="67851fd3e8d0",m="# 1 Kings 1:16 (New International Version)\nBathsheba bowed down, prostrating herself before the king.\n\"What is it you want?\" the king asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

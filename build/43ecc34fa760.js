@@ -1,0 +1,1 @@
+(function(){var b="43ecc34fa760",m="# 1 Kings 1:27 (New International Version)\nIs this something my lord the king has done without letting his servants know who should sit on the throne of my lord the king after him?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

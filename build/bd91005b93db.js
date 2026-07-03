@@ -1,0 +1,1 @@
+(function(){var b="bd91005b93db",m="# 2 Samuel 18:10 (New International Version)\nWhen one of the men saw what had happened, he told Joab, \"I just saw Absalom hanging in an oak tree.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

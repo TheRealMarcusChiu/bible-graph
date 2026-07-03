@@ -1,0 +1,1 @@
+(function(){var b="8333b3c1b1e2",m="# 1 Kings 1:23 (New International Version)\nAnd the king was told, \"Nathan the prophet is here.\" So he went before the king and bowed with his face to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3659ccdbff3f",m="# 2 Samuel 18:20 (New International Version)\n\"You are not the one to take the news today,\" Joab told him. \"You may take the news another time, but you must not do so today, because the king's son is dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

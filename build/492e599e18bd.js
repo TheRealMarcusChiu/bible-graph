@@ -1,0 +1,1 @@
+(function(){var b="492e599e18bd",m="# 2 Samuel 23:38 (New International Version)\nIra the Ithrite,<sup>^A</sup>\nGareb the Ithrite\n\n### Crossrefs\n- A: [[1Chr-2-53|1Ch 2:53]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bb33cd96f321",m="# 2 Samuel 20:16 (New International Version)\na wise woman<sup>^A</sup> called from the city, \"Listen! Listen! Tell Joab to come here so I can speak to him.\" \n\n### Crossrefs\n- A: [[2Sam-14-2|2Sa 14:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

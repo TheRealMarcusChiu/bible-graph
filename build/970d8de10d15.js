@@ -1,0 +1,1 @@
+(function(){var b="970d8de10d15",m="# 2 Samuel 20:13 (New International Version)\nAfter Amasa had been removed from the road, everyone went on with Joab to pursue Sheba son of Bikri.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

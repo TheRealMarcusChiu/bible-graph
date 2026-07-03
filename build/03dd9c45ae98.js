@@ -1,0 +1,1 @@
+(function(){var b="03dd9c45ae98",m="# 1 Kings 2:40 (New International Version)\nAt this, he saddled his donkey and went to Achish at Gath in search of his slaves. So Shimei went away and brought the slaves back from Gath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

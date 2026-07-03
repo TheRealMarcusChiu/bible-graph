@@ -1,0 +1,1 @@
+(function(){var b="32203caed5f9",m="# 2 Samuel 22:36 (New International Version)\nYou make your saving help my shield;<sup>^A</sup>  \n    your help has made me great.\n\n### Crossrefs\n- A: [[Eph-6-16|Eph 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

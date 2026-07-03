@@ -1,0 +1,1 @@
+(function(){var b="d530ca3c9d31",m="# 2 Samuel 22:17 (New International Version)\n\"He reached down from on high<sup>^A</sup> and took hold of me;  \n    he drew<sup>^B</sup> me out of deep waters.\n\n### Crossrefs\n- A: [[Ps-144-7|Ps 144:7]]\n- B: [[Exod-2-10|Ex 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

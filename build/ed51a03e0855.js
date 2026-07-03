@@ -1,0 +1,1 @@
+(function(){var b="ed51a03e0855",m="# 2 Samuel 21:3 (New International Version)\nDavid asked the Gibeonites, \"What shall I do for you? How shall I make atonement so that you will bless the LORD's inheritance?\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-26-19|1Sa 26:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

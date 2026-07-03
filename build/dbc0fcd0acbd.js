@@ -1,0 +1,1 @@
+(function(){var b="dbc0fcd0acbd",m="# 1 Kings 4:11 (New International Version)\nBen-Abinadab--in Naphoth Dor<sup>^A</sup> (he was married to Taphath daughter of Solomon);\n\n### Crossrefs\n- A: S [[Josh-11-2|Jos 11:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

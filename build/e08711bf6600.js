@@ -1,0 +1,1 @@
+(function(){var b="e08711bf6600",m="# 2 Samuel 22:48 (New International Version)\nHe is the God who avenges<sup>^A</sup> me,<sup>^B</sup>  \n    who puts the nations under me,\n\n### Crossrefs\n- A: S [[Num-31-3|Nu 31:3]]\n- B: [[Ps-144-2|Ps 144:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

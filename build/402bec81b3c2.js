@@ -1,0 +1,1 @@
+(function(){var b="402bec81b3c2",m="# 2 Samuel 22:24 (New International Version)\nI have been blameless<sup>^A</sup> before him  \n    and have kept myself from sin.\n\n### Crossrefs\n- A: S [[Gen-6-9|Ge 6:9]]; [[Eph-1-4|Eph 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

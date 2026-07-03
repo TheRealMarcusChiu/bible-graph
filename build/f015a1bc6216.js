@@ -1,0 +1,1 @@
+(function(){var b="f015a1bc6216",m="# 2 Samuel 23:32 (New International Version)\nEliahba the Shaalbonite,\nthe sons of Jashen,\nJonathan";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e151a34c2898",m="# 1 Kings 4:4 (New International Version)\nBenaiah<sup>^A</sup> son of Jehoiada--commander in chief;\nZadok<sup>^B</sup> and Abiathar--priests;\n\n### Crossrefs\n- A: S [[2Sam-8-18|2Sa 8:18]]\n- B: S [[2Sam-8-17|2Sa 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

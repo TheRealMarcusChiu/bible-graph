@@ -1,0 +1,1 @@
+(function(){var b="f81d5d027ace",m="# 2 Samuel 23:25 (New International Version)\nShammah the Harodite,<sup>^A</sup>\nElika the Harodite,\n\n### Crossrefs\n- A: [[Judg-7-1|Jdg 7:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="070e26f51a84",m="# 1 Kings 1:49 (New International Version)\nAt this, all Adonijah's guests rose in alarm and dispersed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

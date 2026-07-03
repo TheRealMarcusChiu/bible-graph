@@ -1,0 +1,1 @@
+(function(){var b="b402abd557ae",m="# 2 Samuel 19:29 (New International Version)\nThe king said to him, \"Why say more? I order you and Ziba to divide the land.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

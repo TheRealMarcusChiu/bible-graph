@@ -1,0 +1,1 @@
+(function(){var b="f4e54efae269",m="# 1 Kings 3:10 (New International Version)\nThe Lord was pleased that Solomon had asked for this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a4d94324d075",m="# 2 Samuel 19:16 (New International Version)\nShimei<sup>^A</sup> son of Gera, the Benjamite from Bahurim, hurried down with the men of Judah to meet King David. \n\n### Crossrefs\n- A: [[2Sam-16-5|2Sa 16:5-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

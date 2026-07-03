@@ -1,0 +1,1 @@
+(function(){var b="62a4c6a5d78e",m="# 2 Samuel 19:25 (New International Version)\nWhen he came from Jerusalem to meet the king, the king asked him, \"Why didn't you go with me,<sup>^A</sup> Mephibosheth?\"\n\n### Crossrefs\n- A: [[2Sam-16-17|2Sa 16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

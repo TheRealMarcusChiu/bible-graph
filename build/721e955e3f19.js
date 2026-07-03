@@ -1,0 +1,1 @@
+(function(){var b="721e955e3f19",m="# 2 Samuel 19:34 (New International Version)\nBut Barzillai answered the king, \"How many more years will I live, that I should go up to Jerusalem with the king?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

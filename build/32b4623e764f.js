@@ -1,0 +1,1 @@
+(function(){var b="32b4623e764f",m="# 2 Samuel 20:5 (New International Version)\nBut when Amasa went to summon Judah, he took longer than the time the king had set for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

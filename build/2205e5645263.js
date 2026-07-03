@@ -1,0 +1,1 @@
+(function(){var b="2205e5645263",m="# 2 Samuel 23:31 (New International Version)\nAbi-Albon the Arbathite,\nAzmaveth the Barhumite,<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-3-16|2Sa 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

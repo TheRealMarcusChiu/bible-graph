@@ -1,0 +1,1 @@
+(function(){var b="d07e42a24230",m="# 1 Kings 1:48 (New International Version)\nand said, 'Praise be to the LORD, the God of Israel, who has allowed my eyes to see a successor<sup>^A</sup> on my throne today.'\"\n\n### Crossrefs\n- A: [[1Kgs-3-6|1Ki 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

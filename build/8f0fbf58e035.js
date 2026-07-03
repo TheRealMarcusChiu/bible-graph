@@ -1,0 +1,1 @@
+(function(){var b="8f0fbf58e035",m="# 2 Samuel 23:12 (New International Version)\nBut Shammah took his stand in the middle of the field. He defended it and struck the Philistines down, and the LORD brought about a great victory.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

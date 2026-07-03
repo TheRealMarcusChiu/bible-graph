@@ -1,0 +1,1 @@
+(function(){var b="c25713d04f06",m="# 2 Samuel 24:6 (New International Version)\nThey went to Gilead and the region of Tahtim Hodshi, and on to Dan Jaan and around toward Sidon.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-10-19|Ge 10:19]]; [[Judg-1-31|Jdg 1:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

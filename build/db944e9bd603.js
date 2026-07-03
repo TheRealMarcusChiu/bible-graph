@@ -1,0 +1,1 @@
+(function(){var b="db944e9bd603",m="# 2 Samuel 22:27 (New International Version)\nto the pure<sup>^A</sup> you show yourself pure,  \n    but to the devious you show yourself shrewd.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Matt-5-8|Mt 5:8]]\n- B: [[Lev-26-23|Lev 26:23-24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

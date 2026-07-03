@@ -1,0 +1,1 @@
+(function(){var b="27d061971a96",m="# 2 Samuel 22:38 (New International Version)\n\"I pursued my enemies and crushed them;  \n    I did not turn back till they were destroyed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="321ade02de5d",m="# 2 Samuel 21:21 (New International Version)\nWhen he taunted<sup>^A</sup> Israel, Jonathan son of Shimeah,<sup>^B</sup> David's brother, killed him.\n\n### Crossrefs\n- A: S [[1Sam-17-10|1Sa 17:10]]\n- B: S [[1Sam-16-9|1Sa 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

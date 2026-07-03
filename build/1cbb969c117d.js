@@ -1,0 +1,1 @@
+(function(){var b="1cbb969c117d",m="# 2 Samuel 23:36 (New International Version)\nIgal son of Nathan from Zobah,<sup>^A</sup>\nthe son of Hagri,\n\n### Crossrefs\n- A: S [[1Sam-14-47|1Sa 14:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

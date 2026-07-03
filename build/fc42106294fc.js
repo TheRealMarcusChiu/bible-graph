@@ -1,0 +1,1 @@
+(function(){var b="fc42106294fc",m="# 1 Kings 2:2 (New International Version)\n\"I am about to go the way of all the earth,\"<sup>^A</sup> he said. \"So be strong,<sup>^B</sup> act like a man, \n\n### Crossrefs\n- A: [[Josh-23-14|Jos 23:14]]\n- B: S [[Josh-1-6|Jos 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

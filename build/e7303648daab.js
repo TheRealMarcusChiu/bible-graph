@@ -1,0 +1,1 @@
+(function(){var b="e7303648daab",m="# 1 Kings 1:32 (New International Version)\nKing David said, \"Call in Zadok<sup>^A</sup> the priest, Nathan the prophet and Benaiah son of Jehoiada.\" When they came before the king, \n\n### Crossrefs\n- A: S [[1Sam-2-35|1Sa 2:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

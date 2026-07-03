@@ -1,0 +1,1 @@
+(function(){var b="b98888614870",m="# 1 Kings 3:23 (New International Version)\nThe king said, \"This one says, 'My son is alive and your son is dead,' while that one says, 'No! Your son is dead and mine is alive.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

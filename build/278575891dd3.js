@@ -1,0 +1,1 @@
+(function(){var b="278575891dd3",m="# 2 Samuel 21:16 (New International Version)\nAnd Ishbi-Benob, one of the descendants of Rapha, whose bronze spearhead weighed three hundred shekels and who was armed with a new sword, said he would kill David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

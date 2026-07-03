@@ -1,0 +1,1 @@
+(function(){var b="4adac1f94f11",m="# 2 Samuel 20:9 (New International Version)\nJoab said to Amasa, \"How are you, my brother?\" Then Joab took Amasa by the beard with his right hand to kiss him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

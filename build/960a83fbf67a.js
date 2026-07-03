@@ -1,0 +1,1 @@
+(function(){var b="960a83fbf67a",m="# 2 Samuel 23:23 (New International Version)\nHe was held in greater honor than any of the Thirty, but he was not included among the Three. And David put him in charge of his bodyguard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

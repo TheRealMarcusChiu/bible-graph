@@ -1,0 +1,1 @@
+(function(){var b="82193d702155",m="# 2 Samuel 19:12 (New International Version)\nYou are my relatives, my own flesh and blood. So why should you be the last to bring back the king?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2741abf9b51d",m="# 2 Samuel 23:24 (New International Version)\nAmong the Thirty were:\nAsahel<sup>^A</sup> the brother of Joab,\nElhanan son of Dodo from Bethlehem,\n\n### Crossrefs\n- A: S [[2Sam-2-18|2Sa 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

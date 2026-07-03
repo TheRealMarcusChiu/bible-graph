@@ -1,0 +1,1 @@
+(function(){var b="8fd513460e2c",m="# 1 Kings 3:27 (New International Version)\nThen the king gave his ruling: \"Give the living baby to the first woman. Do not kill him; she is his mother.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

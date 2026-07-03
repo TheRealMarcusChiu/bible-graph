@@ -1,0 +1,1 @@
+(function(){var b="6237f141c85e",m="# 1 Kings 1:14 (New International Version)\nWhile you are still there talking to the king, I will come in and add my word to what you have said.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

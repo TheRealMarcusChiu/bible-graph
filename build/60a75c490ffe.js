@@ -1,0 +1,1 @@
+(function(){var b="60a75c490ffe",m="# 2 Samuel 19:4 (New International Version)\nThe king covered his face and cried aloud, \"O my son Absalom! O Absalom, my son, my son!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

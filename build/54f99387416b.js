@@ -1,0 +1,1 @@
+(function(){var b="54f99387416b",m="# 1 Kings 4:14 (New International Version)\nAhinadab son of Iddo--in Mahanaim;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Josh-13-26|Jos 13:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a36d18163a9",m="# 1 Kings 1:20 (New International Version)\nMy lord the king, the eyes of all Israel are on you, to learn from you who will sit on the throne of my lord the king after him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

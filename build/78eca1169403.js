@@ -1,0 +1,1 @@
+(function(){var b="78eca1169403",m="# 2 Samuel 18:31 (New International Version)\nThen the Cushite arrived and said, \"My lord the king, hear the good news! The LORD has vindicated you today by delivering you from the hand of all who rose up against you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

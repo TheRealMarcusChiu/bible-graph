@@ -1,0 +1,1 @@
+(function(){var b="71718d51795e",m="# 1 Kings 1:44 (New International Version)\nThe king has sent with him Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, the Kerethites and the Pelethites, and they have put him on the king's mule,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

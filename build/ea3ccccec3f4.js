@@ -1,0 +1,1 @@
+(function(){var b="ea3ccccec3f4",m="# 2 Samuel 22:6 (New International Version)\nThe cords of the grave<sup>^A</sup> coiled around me;  \n    the snares of death confronted me.\n\n### Crossrefs\n- A: [[Ps-116-3|Ps 116:3]]; [[Acts-2-24|Ac 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="467ede3e315b",m="# 2 Samuel 23:2 (New International Version)\n\"The Spirit<sup>^A</sup> of the LORD spoke through me;  \n    his word was on my tongue.\n\n### Crossrefs\n- A: [[Matt-22-43|Mt 22:43]]; [[Mark-12-36|Mk 12:36]]; [[2Pet-1-21|2Pe 1:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

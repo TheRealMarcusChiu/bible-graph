@@ -1,0 +1,1 @@
+(function(){var b="e60e0977311d",m="# 2 Samuel 19:30 (New International Version)\nMephibosheth said to the king, \"Let him take everything, now that my lord the king has returned home safely.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

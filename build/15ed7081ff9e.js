@@ -1,0 +1,1 @@
+(function(){var b="15ed7081ff9e",m="# 2 Samuel 24:4 (New International Version)\nThe king's word, however, overruled Joab and the army commanders; so they left the presence of the king to enroll the fighting men of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f80d091d8301",m="# 2 Samuel 22:18 (New International Version)\nHe rescued<sup>^A</sup> me from my powerful enemy,  \n    from my foes, who were too strong for me.\n\n### Crossrefs\n- A: [[Luke-1-71|Lk 1:71]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

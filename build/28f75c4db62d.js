@@ -1,0 +1,1 @@
+(function(){var b="28f75c4db62d",m="# 1 Kings 2:41 (New International Version)\nWhen Solomon was told that Shimei had gone from Jerusalem to Gath and had returned,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

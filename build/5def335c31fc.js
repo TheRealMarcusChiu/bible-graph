@@ -1,0 +1,1 @@
+(function(){var b="5def335c31fc",m="# 2 Samuel 17:24 (New International Version)\nAbsalom's Death\nDavid went to Mahanaim,<sup>^A</sup> and Absalom crossed the Jordan with all the men of Israel. \n\n### Crossrefs\n- A: S [[Gen-32-2|Ge 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

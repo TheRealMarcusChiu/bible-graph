@@ -1,0 +1,1 @@
+(function(){var b="3f913a68da41",m="# 1 Kings 2:43 (New International Version)\nWhy then did you not keep your oath to the LORD and obey the command I gave you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

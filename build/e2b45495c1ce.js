@@ -1,0 +1,1 @@
+(function(){var b="e2b45495c1ce",m="# 2 Samuel 20:4 (New International Version)\nThen the king said to Amasa,<sup>^A</sup> \"Summon the men of Judah to come to me within three days, and be here yourself.\" \n\n### Crossrefs\n- A: S [[2Sam-17-25|2Sa 17:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ce620ffd7e40",m="# 1 Kings 2:20 (New International Version)\n\"I have one small request to make of you,\" she said. \"Do not refuse me.\"\nThe king replied, \"Make it, my mother; I will not refuse you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

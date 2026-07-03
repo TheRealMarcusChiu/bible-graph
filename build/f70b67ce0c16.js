@@ -1,0 +1,1 @@
+(function(){var b="f70b67ce0c16",m="# 2 Samuel 23:37 (New International Version)\nZelek the Ammonite,\nNaharai the Beerothite,<sup>^A</sup> the armor-bearer of Joab son of Zeruiah,\n\n### Crossrefs\n- A: S [[Josh-9-17|Jos 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

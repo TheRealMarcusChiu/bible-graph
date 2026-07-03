@@ -1,0 +1,1 @@
+(function(){var b="24885d212c63",m="# 2 Samuel 20:18 (New International Version)\nShe continued, \"Long ago they used to say, 'Get your answer at Abel,' and that settled it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

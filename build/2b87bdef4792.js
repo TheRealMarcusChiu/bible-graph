@@ -1,0 +1,1 @@
+(function(){var b="2b87bdef4792",m="# 1 Kings 1:6 (New International Version)\n(His father had never rebuked<sup>^A</sup> him by asking, \"Why do you behave as you do?\" He was also very handsome and was born next after Absalom.)\n\n### Crossrefs\n- A: [[1Sam-3-13|1Sa 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

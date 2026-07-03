@@ -1,0 +1,1 @@
+(function(){var b="e829b140f27f",m="# 2 Samuel 24:19 (New International Version)\nSo David went up, as the LORD had commanded through Gad.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

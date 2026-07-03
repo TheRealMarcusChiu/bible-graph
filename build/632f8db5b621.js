@@ -1,0 +1,1 @@
+(function(){var b="632f8db5b621",m="# 1 Kings 4:17 (New International Version)\nJehoshaphat son of Paruah--in Issachar;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

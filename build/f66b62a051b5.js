@@ -1,0 +1,1 @@
+(function(){var b="f66b62a051b5",m="# 1 Kings 3:16 (New International Version)\nA Wise Ruling\nNow two prostitutes came to the king and stood before him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

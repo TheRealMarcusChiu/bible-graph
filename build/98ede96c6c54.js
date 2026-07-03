@@ -1,0 +1,1 @@
+(function(){var b="98ede96c6c54",m="# 2 Samuel 19:18 (New International Version)\nThey crossed at the ford to take the king's household over and to do whatever he wished.\nWhen Shimei son of Gera crossed the Jordan, he fell prostrate before the king";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

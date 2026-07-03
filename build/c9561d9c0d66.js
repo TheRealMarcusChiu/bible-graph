@@ -1,0 +1,1 @@
+(function(){var b="c9561d9c0d66",m="# 2 Samuel 22:33 (New International Version)\nIt is God who arms me with strength  \n    and keeps my way secure.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

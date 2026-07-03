@@ -1,0 +1,1 @@
+(function(){var b="f44de8e33afd",m="# 2 Samuel 18:13 (New International Version)\nAnd if I had put my life in jeopardy--and nothing is hidden from the king<sup>^A</sup>--you would have kept your distance from me.\"\n\n### Crossrefs\n- A: [[2Sam-14-19|2Sa 14:19-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f9d520deca55",m="# 1 Kings 2:11 (New International Version)\nHe had reigned<sup>^A</sup> forty years over Israel--seven years in Hebron and thirty-three in Jerusalem. \n\n### Crossrefs\n- A: S [[2Sam-5-4|2Sa 5:4]], [[2Sam-5-5|5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

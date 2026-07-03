@@ -1,0 +1,1 @@
+(function(){var b="7a0d382cf518",m="# 1 Kings 4:3 (New International Version)\nElihoreph and Ahijah, sons of Shisha--secretaries;<sup>^A</sup>\nJehoshaphat<sup>^B</sup> son of Ahilud--recorder;\n\n### Crossrefs\n- A: S [[2Sam-8-17|2Sa 8:17]]\n- B: S [[2Sam-8-16|2Sa 8:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

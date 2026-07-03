@@ -1,0 +1,1 @@
+(function(){var b="e207d9461fd8",m="# 1 Kings 1:43 (New International Version)\n\"Not at all!\" Jonathan answered. \"Our lord King David has made Solomon king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

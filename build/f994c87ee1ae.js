@@ -1,0 +1,1 @@
+(function(){var b="f994c87ee1ae",m="# 2 Samuel 23:39 (New International Version)\nand Uriah<sup>^A</sup> the Hittite.\nThere were thirty-seven in all.\n\n### Crossrefs\n- A: [[2Sam-11-3|2Sa 11:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

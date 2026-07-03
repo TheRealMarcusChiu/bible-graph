@@ -1,0 +1,1 @@
+(function(){var b="ea977de1dacf",m="# 2 Samuel 23:35 (New International Version)\nHezro the Carmelite,<sup>^A</sup>\nPaarai the Arbite,\n\n### Crossrefs\n- A: S [[Josh-12-22|Jos 12:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

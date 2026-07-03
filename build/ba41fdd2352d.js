@@ -1,0 +1,1 @@
+(function(){var b="ba41fdd2352d",m="# 1 Kings 1:15 (New International Version)\nSo Bathsheba went to see the aged king in his room, where Abishag<sup>^A</sup> the Shunammite was attending him. \n\n### Crossrefs\n- A: S [[1Kgs-1-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

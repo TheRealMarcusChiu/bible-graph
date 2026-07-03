@@ -1,0 +1,1 @@
+(function(){var b="1d6f060ba297",m="# 1 Kings 3:24 (New International Version)\nThen the king said, \"Bring me a sword.\" So they brought a sword for the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

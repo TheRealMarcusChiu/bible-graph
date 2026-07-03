@@ -1,0 +1,1 @@
+(function(){var b="c4d4794d1313",m="# 1 Kings 1:40 (New International Version)\nAnd all the people went up after him, playing pipes<sup>^A</sup> and rejoicing greatly, so that the ground shook with the sound.\n\n### Crossrefs\n- A: S [[1Sam-10-5|1Sa 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

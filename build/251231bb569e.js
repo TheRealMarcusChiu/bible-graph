@@ -1,0 +1,1 @@
+(function(){var b="251231bb569e",m="# 2 Samuel 22:13 (New International Version)\nOut of the brightness of his presence  \n    bolts of lightning<sup>^A</sup> blazed forth.\n\n### Crossrefs\n- A: [[Job-37-3|Job 37:3]]; [[Ps-77-18|Ps 77:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

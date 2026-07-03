@@ -1,0 +1,1 @@
+(function(){var b="1d82b2f36130",m="# 2 Samuel 24:20 (New International Version)\nWhen Araunah looked and saw the king and his officials coming toward him, he went out and bowed down before the king with his face to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

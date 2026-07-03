@@ -1,0 +1,1 @@
+(function(){var b="0987e5e3d42f",m="# 1 Kings 1:4 (New International Version)\nThe woman was very beautiful; she took care of the king and waited on him, but the king had no sexual relations with her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

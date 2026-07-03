@@ -1,0 +1,1 @@
+(function(){var b="6e5b9c140dc1",m="# 2 Samuel 24:8 (New International Version)\nAfter they had gone through the entire land, they came back to Jerusalem at the end of nine months and twenty days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

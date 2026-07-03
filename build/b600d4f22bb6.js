@@ -1,0 +1,1 @@
+(function(){var b="b600d4f22bb6",m="# 2 Samuel 19:27 (New International Version)\nAnd he has slandered your servant to my lord the king. My lord the king is like an angel<sup>^A</sup> of God; so do whatever you wish. \n\n### Crossrefs\n- A: S [[1Sam-29-9|1Sa 29:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

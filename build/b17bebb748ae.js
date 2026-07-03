@@ -1,0 +1,1 @@
+(function(){var b="b17bebb748ae",m="# 2 Samuel 20:2 (New International Version)\nSo all the men of Israel deserted David to follow Sheba son of Bikri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

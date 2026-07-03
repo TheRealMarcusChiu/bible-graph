@@ -1,0 +1,1 @@
+(function(){var b="1ee8bde1d3f0",m="# 1 Kings 4:22 (New International Version)\nSolomon's daily provisions<sup>^A</sup> were thirty cors of the finest flour and sixty cors of meal, \n\n### Crossrefs\n- A: [[1Kgs-10-5|1Ki 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

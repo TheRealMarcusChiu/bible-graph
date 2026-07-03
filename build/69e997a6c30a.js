@@ -1,0 +1,1 @@
+(function(){var b="69e997a6c30a",m="# 2 Samuel 17:28 (New International Version)\nbrought bedding and bowls and articles of pottery. They also brought wheat and barley, flour and roasted grain, beans and lentils,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e0e79d8483c4",m="# 2 Samuel 21:20 (New International Version)\nIn still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot--twenty-four in all. He also was descended from Rapha.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

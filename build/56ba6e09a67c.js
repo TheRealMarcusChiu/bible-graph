@@ -1,0 +1,1 @@
+(function(){var b="56ba6e09a67c",m="# 2 Samuel 24:12 (New International Version)\n\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

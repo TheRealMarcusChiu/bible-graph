@@ -1,0 +1,1 @@
+(function(){var b="997a656abe83",m="# 2 Samuel 19:14 (New International Version)\nHe won over the hearts of the men of Judah so that they were all of one mind. They sent word to the king, \"Return, you and all your men.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

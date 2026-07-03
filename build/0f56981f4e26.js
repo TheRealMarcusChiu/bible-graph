@@ -1,0 +1,1 @@
+(function(){var b="0f56981f4e26",m="# 2 Samuel 22:40 (New International Version)\nYou armed me with strength for battle;  \n    you humbled my adversaries before me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-10-24|Jos 10:24]]; S [[1Kgs-5-3|1Ki 5:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

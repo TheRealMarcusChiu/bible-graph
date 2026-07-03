@@ -1,0 +1,1 @@
+(function(){var b="fefa523dd0cc",m="# 2 Samuel 19:10 (New International Version)\nand Absalom, whom we anointed to rule over us, has died in battle. So why do you say nothing about bringing the king back?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

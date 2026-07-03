@@ -1,0 +1,1 @@
+(function(){var b="76b9596cc51d",m="# 2 Samuel 22:19 (New International Version)\nThey confronted me in the day of my disaster,  \n    but the LORD was my support.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-23-4|Ps 23:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

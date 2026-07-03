@@ -1,0 +1,1 @@
+(function(){var b="5789ccc19aa6",m="# 2 Samuel 21:22 (New International Version)\nThese four were descendants of Rapha in Gath, and they fell at the hands of David and his men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

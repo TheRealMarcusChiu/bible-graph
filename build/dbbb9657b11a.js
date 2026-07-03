@@ -1,0 +1,1 @@
+(function(){var b="dbbb9657b11a",m="# 2 Samuel 18:7 (New International Version)\nThere Israel's troops were routed by David's men, and the casualties that day were great--twenty thousand men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af632c79a17f",m="# 2 Samuel 21:13 (New International Version)\nDavid brought the bones of Saul and his son Jonathan from there, and the bones of those who had been killed and exposed were gathered up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

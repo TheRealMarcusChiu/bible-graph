@@ -1,0 +1,1 @@
+(function(){var b="56c07de595d1",m="# 2 Samuel 22:15 (New International Version)\nHe shot his arrows<sup>^A</sup> and scattered the enemy,  \n    with great bolts of lightning he routed them.\n\n### Crossrefs\n- A: S [[Deut-32-23|Dt 32:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

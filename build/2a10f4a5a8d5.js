@@ -1,0 +1,1 @@
+(function(){var b="2a10f4a5a8d5",m="# 2 Samuel 22:4 (New International Version)\n\"I called to the LORD, who is worthy<sup>^A</sup> of praise,  \n    and have been saved from my enemies.\n\n### Crossrefs\n- A: [[Ps-48-1|Ps 48:1]]; [[Ps-96-4|96:4]]; [[Ps-145-3|145:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

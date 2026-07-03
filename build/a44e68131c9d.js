@@ -1,0 +1,1 @@
+(function(){var b="a44e68131c9d",m="# 1 Kings 2:18 (New International Version)\n\"Very well,\" Bathsheba replied, \"I will speak to the king for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

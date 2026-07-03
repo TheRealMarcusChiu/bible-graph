@@ -1,0 +1,1 @@
+(function(){var b="da597d10019c",m="# 2 Samuel 22:22 (New International Version)\nFor I have kept<sup>^A</sup> the ways of the LORD;  \n    I am not guilty of turning from my God.\n\n### Crossrefs\n- A: [[Gen-18-19|Ge 18:19]]; [[Ps-128-1|Ps 128:1]]; [[Prov-8-32|Pr 8:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

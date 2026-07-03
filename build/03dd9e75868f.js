@@ -1,0 +1,1 @@
+(function(){var b="03dd9e75868f",m="# 2 Samuel 22:5 (New International Version)\nThe waves<sup>^A</sup> of death swirled about me;  \n    the torrents of destruction overwhelmed me.\n\n### Crossrefs\n- A: [[Ps-69-14|Ps 69:14-15]]; [[Jonah-2-3|Jnh 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

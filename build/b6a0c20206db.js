@@ -1,0 +1,1 @@
+(function(){var b="b6a0c20206db",m="# 1 Kings 2:21 (New International Version)\nSo she said, \"Let Abishag<sup>^A</sup> the Shunammite be given in marriage to your brother Adonijah.\"\n\n### Crossrefs\n- A: [[1Kgs-1-3|1Ki 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

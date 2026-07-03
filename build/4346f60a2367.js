@@ -1,0 +1,1 @@
+(function(){var b="4346f60a2367",m="# 1 Kings 2:15 (New International Version)\n\"As you know,\" he said, \"the kingdom was mine. All Israel looked to me as their king. But things changed, and the kingdom has gone to my brother; for it has come to him from the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

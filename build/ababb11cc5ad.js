@@ -1,0 +1,1 @@
+(function(){var b="ababb11cc5ad",m="# 1 Kings 2:6 (New International Version)\nDeal with him according to your wisdom,<sup>^A</sup> but do not let his gray head go down to the grave in peace.\n\n### Crossrefs\n- A: [[1Kgs-2-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

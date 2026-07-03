@@ -1,0 +1,1 @@
+(function(){var b="2dc707b03159",m="# 2 Samuel 20:11 (New International Version)\nOne of Joab's men stood beside Amasa and said, \"Whoever favors Joab, and whoever is for David, let him follow Joab!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6e82013f88a6",m="# 2 Samuel 19:40 (New International Version)\nWhen the king crossed over to Gilgal, Kimham crossed with him. All the troops of Judah and half the troops of Israel had taken the king over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

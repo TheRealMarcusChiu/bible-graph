@@ -1,0 +1,1 @@
+(function(){var b="d616d0555f13",m="# 1 Kings 1:46 (New International Version)\nMoreover, Solomon has taken his seat<sup>^A</sup> on the royal throne. \n\n### Crossrefs\n- A: S [[Deut-17-18|Dt 17:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

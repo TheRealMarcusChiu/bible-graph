@@ -1,0 +1,1 @@
+(function(){var b="086a5228bafc",m="# 1 Kings 1:29 (New International Version)\nThe king then took an oath: \"As surely as the LORD lives, who has delivered me out of every trouble,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-4-9|2Sa 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

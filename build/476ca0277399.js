@@ -1,0 +1,1 @@
+(function(){var b="476ca0277399",m="# 2 Samuel 22:26 (New International Version)\n\"To the faithful you show yourself faithful,  \n    to the blameless you show yourself blameless,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

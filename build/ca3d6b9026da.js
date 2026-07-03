@@ -1,0 +1,1 @@
+(function(){var b="ca3d6b9026da",m="# 2 Samuel 23:11 (New International Version)\nNext to him was Shammah son of Agee the Hararite. When the Philistines banded together at a place where there was a field full of lentils, Israel's troops fled from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

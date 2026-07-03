@@ -1,0 +1,1 @@
+(function(){var b="d0a03ad65581",m="# 1 Kings 2:14 (New International Version)\nThen he added, \"I have something to say to you.\"\n\"You may say it,\" she replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

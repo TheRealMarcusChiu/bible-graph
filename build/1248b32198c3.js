@@ -1,0 +1,1 @@
+(function(){var b="1248b32198c3",m="# 2 Samuel 18:30 (New International Version)\nThe king said, \"Stand aside and wait here.\" So he stepped aside and stood there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="12ad570a9552",m="# 2 Samuel 22:37 (New International Version)\nYou provide a broad path<sup>^A</sup> for my feet,  \n    so that my ankles do not give way.\n\n### Crossrefs\n- A: [[Prov-4-11|Pr 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

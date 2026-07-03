@@ -1,0 +1,1 @@
+(function(){var b="c110944a7cac",m="# 2 Samuel 18:1 (New International Version)\nDavid mustered the men who were with him and appointed over them commanders of thousands and commanders of hundreds.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="21b506bec91d",m="# 2 Samuel 18:23 (New International Version)\nHe said, \"Come what may, I want to run.\"\nSo Joab said, \"Run!\" Then Ahimaaz ran by way of the plain and outran the Cushite.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

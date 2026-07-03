@@ -1,0 +1,1 @@
+(function(){var b="daab4ee66414",m="# 2 Samuel 19:2 (New International Version)\nAnd for the whole army the victory that day was turned into mourning, because on that day the troops heard it said, \"The king is grieving for his son.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

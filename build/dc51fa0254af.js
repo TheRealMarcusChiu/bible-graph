@@ -1,0 +1,1 @@
+(function(){var b="dc51fa0254af",m="# 2 Samuel 22:12 (New International Version)\nHe made darkness<sup>^A</sup> his canopy around him--  \n    the dark rain clouds of the sky.\n\n### Crossrefs\n- A: S [[Exod-19-9|Ex 19:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3a6f222212d7",m="# 2 Samuel 18:25 (New International Version)\nThe watchman called out to the king and reported it.\nThe king said, \"If he is alone, he must have good news.\" And the runner came closer and closer.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
