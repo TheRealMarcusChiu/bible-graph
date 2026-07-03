@@ -1,0 +1,1 @@
+(function(){var b="a636d8095f55",m="# Acts 4:8 (New International Version)\nThen Peter, filled with the Holy Spirit,[^A] said to them: \"Rulers and elders of the people![^B] \n\n### Crossrefs\n[^A]: S [[Luke-1-15|Lk 1:15]]\n[^B]: [[Acts-4-5|ver 5]]; [[Luke-23-13|Lk 23:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

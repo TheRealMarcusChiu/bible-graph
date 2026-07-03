@@ -1,0 +1,1 @@
+(function(){var b="9c2ae07b107f",m="# Revelation 18:14 (New International Version)\n\"They will say, 'The fruit you longed for is gone from you. All your luxury and splendor have vanished, never to be recovered.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

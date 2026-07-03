@@ -1,0 +1,1 @@
+(function(){var b="8b22425bdc52",m="# Exodus 21:7 (New International Version)\n\"If a man sells his daughter as a servant, she is not to go free as male servants do.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

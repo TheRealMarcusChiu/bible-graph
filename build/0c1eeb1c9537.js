@@ -1,0 +1,1 @@
+(function(){var b="0c1eeb1c9537",m="# Exodus 40:16 (New International Version)\nMoses did everything just as the LORD commanded[^A] him.\n\n### Crossrefs\n[^A]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

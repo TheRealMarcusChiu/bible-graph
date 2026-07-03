@@ -1,0 +1,1 @@
+(function(){var b="3f71225e2e32",m="# Exodus 13:1 (New International Version)\nConsecration of the Firstborn\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

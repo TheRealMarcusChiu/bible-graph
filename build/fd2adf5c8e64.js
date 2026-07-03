@@ -1,0 +1,1 @@
+(function(){var b="fd2adf5c8e64",m="# Acts 14:25 (New International Version)\nand when they had preached the word in Perga, they went down to Attalia.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

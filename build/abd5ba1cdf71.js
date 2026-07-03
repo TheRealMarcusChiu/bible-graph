@@ -1,0 +1,1 @@
+(function(){var b="abd5ba1cdf71",m="# Mark 8:24 (New International Version)\nHe looked up and said, \"I see people; they look like trees walking around.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc3d9b62fb23",m="# Ephesians 5:23 (New International Version)\nFor the husband is the head of the wife as Christ is the head of the church,[^A] his body, of which he is the Savior. \n\n### Crossrefs\n[^A]: S [[Eph-1-22|Eph 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

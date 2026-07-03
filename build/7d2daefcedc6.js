@@ -1,0 +1,1 @@
+(function(){var b="7d2daefcedc6",m="# 2 Corinthians 11:17 (New International Version)\nIn this self-confident boasting I am not talking as the Lord would,[^A] but as a fool.[^B] \n\n### Crossrefs\n[^A]: [[1Cor-7-12|1Co 7:12]], [[1Cor-7-25|25]]\n[^B]: [[2Cor-11-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

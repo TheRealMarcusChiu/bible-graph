@@ -1,0 +1,1 @@
+(function(){var b="cf162ff62b5d",m="# Luke 14:6 (New International Version)\nAnd they had nothing to say.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

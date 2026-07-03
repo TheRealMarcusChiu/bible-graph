@@ -1,0 +1,1 @@
+(function(){var b="90a0106ec4aa",m="# Leviticus 14:52 (New International Version)\nHe shall purify the house with the bird's blood, the fresh water, the live bird, the cedar wood, the hyssop and the scarlet yarn.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

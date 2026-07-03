@@ -1,0 +1,1 @@
+(function(){var b="7d68814f21c4",m="# Genesis 37:6 (New International Version)\nHe said to them, \"Listen to this dream I had:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

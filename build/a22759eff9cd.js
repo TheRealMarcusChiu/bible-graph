@@ -1,0 +1,1 @@
+(function(){var b="a22759eff9cd",m="# 1 Corinthians 10:15 (New International Version)\nI speak to sensible people; judge for yourselves what I say.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

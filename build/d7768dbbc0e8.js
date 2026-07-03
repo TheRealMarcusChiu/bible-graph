@@ -1,0 +1,1 @@
+(function(){var b="d7768dbbc0e8",m="# John 6:2 (New International Version)\nand a great crowd of people followed him because they saw the signs[^A] he had performed by healing the sick. \n\n### Crossrefs\n[^A]: S [[John-2-11|Jn 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

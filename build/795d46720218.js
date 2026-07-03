@@ -1,0 +1,1 @@
+(function(){var b="795d46720218",m="# Acts 15:30 (New International Version)\nSo the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

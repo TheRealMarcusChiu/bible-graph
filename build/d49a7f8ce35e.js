@@ -1,0 +1,1 @@
+(function(){var b="d49a7f8ce35e",m="# Deuteronomy 1:37 (New International Version)\nBecause of you the LORD became angry[^A] with me also and said, \"You shall not enter[^B] it, either. \n\n### Crossrefs\n[^A]: [[Ps-106-32|Ps 106:32]]\n[^B]: S [[Num-27-13|Nu 27:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

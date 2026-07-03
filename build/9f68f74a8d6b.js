@@ -1,0 +1,1 @@
+(function(){var b="9f68f74a8d6b",m="# Matthew 19:15 (New International Version)\nWhen he had placed his hands on them, he went on from there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

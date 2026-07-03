@@ -1,0 +1,1 @@
+(function(){var b="47dfe92222a8",m="# Matthew 26:62 (New International Version)\nThen the high priest stood up and said to Jesus, \"Are you not going to answer? What is this testimony that these men are bringing against you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

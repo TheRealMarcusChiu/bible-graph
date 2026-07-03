@@ -1,0 +1,1 @@
+(function(){var b="6a5c6aa8e4ff",m="# Genesis 41:22 (New International Version)\n\"In my dream I saw seven heads of grain, full and good, growing on a single stalk.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

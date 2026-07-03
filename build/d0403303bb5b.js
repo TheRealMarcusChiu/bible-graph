@@ -1,0 +1,1 @@
+(function(){var b="d0403303bb5b",m="# Matthew 25:30 (New International Version)\nAnd throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.'[^A]\n\n### Crossrefs\n[^A]: S [[Matt-8-12|Mt 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

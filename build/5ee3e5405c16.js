@@ -1,0 +1,1 @@
+(function(){var b="5ee3e5405c16",m="# Exodus 26:26 (New International Version)\n\"Also make crossbars of acacia wood: five for the frames on one side of the tabernacle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

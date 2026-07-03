@@ -1,0 +1,1 @@
+(function(){var b="a371ca76f1e5",m="# Romans 15:29 (New International Version)\nI know that when I come to you,[^A] I will come in the full measure of the blessing of Christ.\n\n### Crossrefs\n[^A]: [[Rom-1-10|Ro 1:10]], [[Rom-1-11|11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

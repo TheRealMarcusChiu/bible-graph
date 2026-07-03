@@ -1,0 +1,1 @@
+(function(){var b="baae0d95df1b",m="# Exodus 35:22 (New International Version)\nAll who were willing, men and women alike, came and brought gold jewelry of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

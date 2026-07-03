@@ -1,0 +1,1 @@
+(function(){var b="4c89446cc9e4",m="# Mark 14:2 (New International Version)\n\"But not during the festival,\" they said, \"or the people may riot.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

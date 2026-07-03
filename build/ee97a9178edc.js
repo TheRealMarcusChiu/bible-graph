@@ -1,0 +1,1 @@
+(function(){var b="ee97a9178edc",m="# Luke 12:41 (New International Version)\nPeter asked, \"Lord, are you telling this parable to us, or to everyone?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

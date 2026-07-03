@@ -1,0 +1,1 @@
+(function(){var b="5e6e58b81499",m="# Acts 19:11 (New International Version)\nGod did extraordinary miracles[^A] through Paul, \n\n### Crossrefs\n[^A]: [[Acts-8-13|Ac 8:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

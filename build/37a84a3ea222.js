@@ -1,0 +1,1 @@
+(function(){var b="37a84a3ea222",m="# Exodus 29:19 (New International Version)\n\"Take the other ram,[^A] and Aaron and his sons shall lay their hands on its head.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-29-3|ver 3]]\n[^B]: S [[Exod-29-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

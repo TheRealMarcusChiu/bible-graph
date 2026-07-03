@@ -1,0 +1,1 @@
+(function(){var b="627e05119a68",m="# Luke 2:49 (New International Version)\n\"Why were you searching for me?\" he asked. \"Didn't you know I had to be in my Father's house?\"[^A] \n\n### Crossrefs\n[^A]: [[John-2-16|Jn 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a279155ac6a0",m="# Exodus 25:26 (New International Version)\nMake four gold rings for the table and fasten them to the four corners, where the four legs are.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

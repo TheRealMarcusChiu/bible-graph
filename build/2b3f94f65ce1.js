@@ -1,0 +1,1 @@
+(function(){var b="2b3f94f65ce1",m="# Genesis 36:39 (New International Version)\nWhen Baal-Hanan son of Akbor died, Hadad succeeded him as king. His city was named Pau, and his wife's name was Mehetabel daughter of Matred, the daughter of Me-Zahab.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

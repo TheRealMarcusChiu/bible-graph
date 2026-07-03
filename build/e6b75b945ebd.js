@@ -1,0 +1,1 @@
+(function(){var b="e6b75b945ebd",m="# Exodus 39:12 (New International Version)\nthe third row was jacinth, agate and amethyst;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

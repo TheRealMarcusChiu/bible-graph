@@ -1,0 +1,1 @@
+(function(){var b="b61c36e1a33b",m="# 1 Thessalonians 5:28 (New International Version)\nThe grace of our Lord Jesus Christ be with you.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-16-20|Ro 16:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

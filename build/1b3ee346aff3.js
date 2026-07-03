@@ -1,0 +1,1 @@
+(function(){var b="1b3ee346aff3",m="# 1 Timothy 6:7 (New International Version)\nFor we brought nothing into the world, and we can take nothing out of it.[^A] \n\n### Crossrefs\n[^A]: [[Job-1-21|Job 1:21]]; [[Ps-49-17|Ps 49:17]]; [[Eccl-5-15|Ecc 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

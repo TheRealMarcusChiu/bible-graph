@@ -1,0 +1,1 @@
+(function(){var b="9c8bd69f53a1",m="# Numbers 13:13 (New International Version)\nfrom the tribe of Asher, Sethur son of Michael;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

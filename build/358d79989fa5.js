@@ -1,0 +1,1 @@
+(function(){var b="358d79989fa5",m="# John 4:3 (New International Version)\nSo he left Judea[^A] and went back once more to Galilee.\n\n### Crossrefs\n[^A]: [[John-3-22|Jn 3:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

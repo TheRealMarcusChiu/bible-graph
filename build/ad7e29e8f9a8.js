@@ -1,0 +1,1 @@
+(function(){var b="ad7e29e8f9a8",m="# Luke 11:41 (New International Version)\nBut now as for what is inside you--be generous to the poor,[^A] and everything will be clean for you.[^B]\n\n### Crossrefs\n[^A]: [[Luke-12-33|Lk 12:33]]\n[^B]: S [[Acts-10-15|Ac 10:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

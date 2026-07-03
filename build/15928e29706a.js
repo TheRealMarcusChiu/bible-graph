@@ -1,0 +1,1 @@
+(function(){var b="15928e29706a",m="# Luke 18:2 (New International Version)\nHe said: \"In a certain town there was a judge who neither feared God nor cared what people thought.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

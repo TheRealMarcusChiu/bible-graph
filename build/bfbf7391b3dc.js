@@ -1,0 +1,1 @@
+(function(){var b="bfbf7391b3dc",m="# Judges 7:18 (New International Version)\nWhen I and all who are with me blow our trumpets,[^A] then from all around the camp blow yours and shout, 'For the LORD and for Gideon.'\"\n\n### Crossrefs\n[^A]: S [[Judg-3-27|Jdg 3:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a13b0bb9bde1",m="# Luke 22:25 (New International Version)\nJesus said to them, \"The kings of the Gentiles lord it over them; and those who exercise authority over them call themselves Benefactors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

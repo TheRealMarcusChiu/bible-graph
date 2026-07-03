@@ -1,0 +1,1 @@
+(function(){var b="ea730dbe26ce",m="# Exodus 38:7 (New International Version)\nThey inserted the poles into the rings so they would be on the sides of the altar for carrying it. They made it hollow, out of boards.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

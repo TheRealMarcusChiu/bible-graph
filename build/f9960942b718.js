@@ -1,0 +1,1 @@
+(function(){var b="f9960942b718",m="# Genesis 30:26 (New International Version)\nGive me my wives and children, for whom I have served you,[^A] and I will be on my way. You know how much work I've done for you.\"\n\n### Crossrefs\n[^A]: S [[Gen-29-18|Ge 29:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

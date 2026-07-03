@@ -1,0 +1,1 @@
+(function(){var b="a8d0ae0bb47c",m="# Exodus 37:20 (New International Version)\nAnd on the lampstand were four cups shaped like almond flowers with buds and blossoms.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

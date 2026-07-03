@@ -1,0 +1,1 @@
+(function(){var b="ac108dcb4a41",m="# Luke 20:32 (New International Version)\nFinally, the woman died too.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

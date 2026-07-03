@@ -1,0 +1,1 @@
+(function(){var b="7da76b75be08",m="# Mark 14:64 (New International Version)\n\"You have heard the blasphemy. What do you think?\"\nThey all condemned him as worthy of death.[^A] \n\n### Crossrefs\n[^A]: [[Lev-24-16|Lev 24:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

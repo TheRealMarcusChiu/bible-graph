@@ -1,0 +1,1 @@
+(function(){var b="3c32473e2e70",m="# Revelation 19:14 (New International Version)\nThe armies of heaven were following him, riding on white horses and dressed in fine linen,[^A] white[^B] and clean. \n\n### Crossrefs\n[^A]: [[Rev-19-8|ver 8]]\n[^B]: S [[Rev-3-4|Rev 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

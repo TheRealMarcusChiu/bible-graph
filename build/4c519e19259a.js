@@ -1,0 +1,1 @@
+(function(){var b="4c519e19259a",m="# Acts 5:6 (New International Version)\nThen some young men came forward, wrapped up his body,[^A] and carried him out and buried him.\n\n### Crossrefs\n[^A]: [[John-19-40|Jn 19:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

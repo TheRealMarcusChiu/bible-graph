@@ -1,0 +1,1 @@
+(function(){var b="d50bcbc018a7",m="# John 4:26 (New International Version)\nThen Jesus declared, \"I, the one speaking to you--I am he.\"[^A]\n\n### Crossrefs\n[^A]: [[John-8-24|Jn 8:24]]; [[John-9-35|9:35-37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

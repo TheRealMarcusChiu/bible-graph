@@ -1,0 +1,1 @@
+(function(){var b="da2d98bfc1c5",m="# Matthew 19:4 (New International Version)\n\"Haven't you read,\" he replied, \"that at the beginning the Creator 'made them male and female,'[^A] \n\n### Crossrefs\n[^A]: [[Gen-1-27|Ge 1:27]]; [[Gen-5-2|5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

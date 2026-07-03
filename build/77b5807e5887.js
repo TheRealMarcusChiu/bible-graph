@@ -1,0 +1,1 @@
+(function(){var b="77b5807e5887",m="# Genesis 27:13 (New International Version)\nHis mother said to him, \"My son, let the curse fall on me.[^A] Just do what I say;[^B] go and get them for me.\"\n\n### Crossrefs\n[^A]: [[Matt-27-25|Mt 27:25]]\n[^B]: S [[Gen-27-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8fdde9c80fbc",m="# Luke 14:4 (New International Version)\nBut they remained silent. So taking hold of the man, he healed him and sent him on his way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

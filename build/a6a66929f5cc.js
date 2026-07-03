@@ -1,0 +1,1 @@
+(function(){var b="a6a66929f5cc",m="# Luke 5:2 (New International Version)\nHe saw at the water's edge two boats, left there by the fishermen, who were washing their nets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

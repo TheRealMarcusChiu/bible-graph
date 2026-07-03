@@ -1,0 +1,1 @@
+(function(){var b="033b6a265ecb",m="# Matthew 12:30 (New International Version)\n\"Whoever is not with me is against me, and whoever does not gather with me scatters.[^A] \n\n### Crossrefs\n[^A]: [[Mark-9-40|Mk 9:40]]; [[Luke-11-23|Lk 11:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

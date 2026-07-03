@@ -1,0 +1,1 @@
+(function(){var b="6f988dfba81e",m="# Leviticus 23:42 (New International Version)\nLive in temporary shelters[^A] for seven days: All native-born Israelites are to live in such shelters \n\n### Crossrefs\n[^A]: S [[Exod-23-16|Ex 23:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

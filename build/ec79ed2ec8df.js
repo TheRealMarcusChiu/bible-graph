@@ -1,0 +1,1 @@
+(function(){var b="ec79ed2ec8df",m="# Leviticus 3:10 (New International Version)\nboth kidneys with the fat on them near the loins, and the long lobe of the liver, which you will remove with the kidneys.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

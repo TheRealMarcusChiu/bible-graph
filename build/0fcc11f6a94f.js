@@ -1,0 +1,1 @@
+(function(){var b="0fcc11f6a94f",m="# Matthew 4:2 (New International Version)\nAfter fasting forty days and forty nights,[^A] he was hungry. \n\n### Crossrefs\n[^A]: [[Exod-34-28|Ex 34:28]]; [[1Kgs-19-8|1Ki 19:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

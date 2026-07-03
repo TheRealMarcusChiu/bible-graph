@@ -1,0 +1,1 @@
+(function(){var b="89431ef160fe",m="# Acts 28:10 (New International Version)\nThey honored us[^A] in many ways; and when we were ready to sail, they furnished us with the supplies we needed.\n\n### Crossrefs\n[^A]: [[Ps-15-4|Ps 15:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

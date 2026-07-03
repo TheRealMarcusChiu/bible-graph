@@ -1,0 +1,1 @@
+(function(){var b="05d9e0502810",m="# Luke 1:63 (New International Version)\nHe asked for a writing tablet, and to everyone's astonishment he wrote, \"His name is John.\"[^A] \n\n### Crossrefs\n[^A]: [[Luke-1-13|ver 13]], [[Luke-1-60|60]]; S [[Matt-3-1|Mt 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

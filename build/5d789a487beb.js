@@ -1,0 +1,1 @@
+(function(){var b="5d789a487beb",m="# Luke 22:17 (New International Version)\nAfter taking the cup, he gave thanks and said, \"Take this and divide it among you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

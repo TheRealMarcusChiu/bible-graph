@@ -1,0 +1,1 @@
+(function(){var b="b8ace3c593bf",m="# Matthew 8:7 (New International Version)\nJesus said to him, \"Shall I come and heal him?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

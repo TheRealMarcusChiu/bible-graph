@@ -1,0 +1,1 @@
+(function(){var b="96b841b4dbce",m="# James 3:15 (New International Version)\nSuch \"wisdom\" does not come down from heaven[^A] but is earthly, unspiritual, demonic.[^B] \n\n### Crossrefs\n[^A]: [[Jas-3-17|ver 17]]; [[Jas-1-17|Jas 1:17]]\n[^B]: [[1Tim-4-1|1Ti 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

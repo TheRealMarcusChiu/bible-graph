@@ -1,0 +1,1 @@
+(function(){var b="39cf5db2865a",m="# Matthew 22:38 (New International Version)\nThis is the first and greatest commandment.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

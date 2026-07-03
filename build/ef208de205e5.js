@@ -1,0 +1,1 @@
+(function(){var b="ef208de205e5",m="# Exodus 9:22 (New International Version)\nThen the LORD said to Moses, \"Stretch out your hand toward the sky so that hail will fall all over Egypt--on people and animals and on everything growing in the fields of Egypt.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

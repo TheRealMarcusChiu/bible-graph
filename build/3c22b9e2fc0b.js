@@ -1,0 +1,1 @@
+(function(){var b="3c22b9e2fc0b",m="# Numbers 2:34 (New International Version)\nSo the Israelites did everything the LORD commanded Moses; that is the way they encamped under their standards, and that is the way they set out, each of them with their clan and family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

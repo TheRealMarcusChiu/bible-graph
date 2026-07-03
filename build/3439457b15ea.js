@@ -1,0 +1,1 @@
+(function(){var b="3439457b15ea",m="# 2 John 3 (New International Version)\nGrace, mercy and peace from God the Father and from Jesus Christ,[^A] the Father's Son, will be with us in truth and love.\n\n### Crossrefs\n[^A]: S [[Rom-1-7|Ro 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

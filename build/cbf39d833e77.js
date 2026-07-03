@@ -1,0 +1,1 @@
+(function(){var b="cbf39d833e77",m="# Leviticus 16:22 (New International Version)\nThe goat will carry on itself all their sins[^A] to a remote place; and the man shall release it in the wilderness.\n\n### Crossrefs\n[^A]: S [[Exod-28-38|Ex 28:38]]; [[Isa-53-12|Isa 53:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

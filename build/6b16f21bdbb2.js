@@ -1,0 +1,1 @@
+(function(){var b="6b16f21bdbb2",m="# Joshua 10:23 (New International Version)\nSo they brought the five kings out of the cave--the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

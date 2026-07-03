@@ -1,0 +1,1 @@
+(function(){var b="7ba4730366b0",m="# Mark 4:18 (New International Version)\nStill others, like seed sown among thorns, hear the word;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

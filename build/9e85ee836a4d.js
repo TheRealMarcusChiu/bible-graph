@@ -1,0 +1,1 @@
+(function(){var b="9e85ee836a4d",m="# Philippians 1:23 (New International Version)\nI am torn between the two: I desire to depart[^A] and be with Christ,[^B] which is better by far; \n\n### Crossrefs\n[^A]: [[2Tim-4-6|2Ti 4:6]]\n[^B]: S [[John-12-26|Jn 12:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

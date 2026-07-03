@@ -1,0 +1,1 @@
+(function(){var b="6a386a919a27",m="# Luke 21:9 (New International Version)\nWhen you hear of wars and uprisings, do not be frightened. These things must happen first, but the end will not come right away.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

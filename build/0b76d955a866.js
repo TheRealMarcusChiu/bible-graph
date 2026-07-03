@@ -1,0 +1,1 @@
+(function(){var b="0b76d955a866",m="# Genesis 7:24 (New International Version)\nThe waters flooded the earth for a hundred and fifty days.[^A]\n\n### Crossrefs\n[^A]: [[Gen-8-3|Ge 8:3]]; [[Job-12-15|Job 12:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

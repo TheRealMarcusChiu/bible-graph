@@ -1,0 +1,1 @@
+(function(){var b="4acf62177b4f",m="# Colossians 3:19 (New International Version)\nHusbands, love your wives and do not be harsh with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

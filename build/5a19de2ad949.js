@@ -1,0 +1,1 @@
+(function(){var b="5a19de2ad949",m="# Joshua 9:4 (New International Version)\nthey resorted to a ruse: They went as a delegation whose donkeys were loaded with worn-out sacks and old wineskins, cracked and mended.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0f28bab7612d",m="# Matthew 13:10 (New International Version)\nThe disciples came to him and asked, \"Why do you speak to the people in parables?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

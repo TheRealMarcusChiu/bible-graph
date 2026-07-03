@@ -1,0 +1,1 @@
+(function(){var b="0ee77b311233",m="# Matthew 20:11 (New International Version)\nWhen they received it, they began to grumble[^A] against the landowner. \n\n### Crossrefs\n[^A]: [[Jonah-4-1|Jnh 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

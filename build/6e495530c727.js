@@ -1,0 +1,1 @@
+(function(){var b="6e495530c727",m="# Numbers 26:49 (New International Version)\nthrough Jezer, the Jezerite clan;\nthrough Shillem, the Shillemite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

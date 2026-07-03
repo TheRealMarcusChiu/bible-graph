@@ -1,0 +1,1 @@
+(function(){var b="27b175f5cdaf",m="# Leviticus 11:22 (New International Version)\nOf these you may eat any kind of locust,[^A] katydid, cricket or grasshopper. \n\n### Crossrefs\n[^A]: [[Matt-3-4|Mt 3:4]]; [[Mark-1-6|Mk 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

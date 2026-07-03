@@ -1,0 +1,1 @@
+(function(){var b="bee45f37ba96",m="# John 5:44 (New International Version)\nHow can you believe since you accept glory from one another but do not seek the glory that comes from the only God?[^A]\n\n### Crossrefs\n[^A]: S [[Rom-2-29|Ro 2:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

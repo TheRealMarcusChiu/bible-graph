@@ -1,0 +1,1 @@
+(function(){var b="f2af46028bb9",m="# Luke 15:17 (New International Version)\n\"When he came to his senses, he said, 'How many of my father's hired servants have food to spare, and here I am starving to death!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

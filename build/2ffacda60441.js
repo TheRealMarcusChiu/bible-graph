@@ -1,0 +1,1 @@
+(function(){var b="2ffacda60441",m="# John 17:10 (New International Version)\nAll I have is yours, and all you have is mine.[^A] And glory has come to me through them. \n\n### Crossrefs\n[^A]: [[John-16-15|Jn 16:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5baa7adf11c9",m="# Romans 4:2 (New International Version)\nIf, in fact, Abraham was justified by works, he had something to boast about--but not before God.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-1-31|1Co 1:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

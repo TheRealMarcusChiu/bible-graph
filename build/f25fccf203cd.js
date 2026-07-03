@@ -1,0 +1,1 @@
+(function(){var b="f25fccf203cd",m="# 1 Thessalonians 4:18 (New International Version)\nTherefore encourage one another[^A] with these words.\n\n### Crossrefs\n[^A]: [[1Thess-5-11|1Th 5:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

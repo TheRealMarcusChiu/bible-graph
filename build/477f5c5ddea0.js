@@ -1,0 +1,1 @@
+(function(){var b="477f5c5ddea0",m="# 1 Corinthians 13:9 (New International Version)\nFor we know in part[^A] and we prophesy in part, \n\n### Crossrefs\n[^A]: [[1Cor-13-12|ver 12]]; S [[1Cor-8-2|1Co 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

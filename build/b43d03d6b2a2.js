@@ -1,0 +1,1 @@
+(function(){var b="b43d03d6b2a2",m="# Genesis 43:1 (New International Version)\nThe Second Journey to Egypt\nNow the famine was still severe in the land.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-12-10|Ge 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

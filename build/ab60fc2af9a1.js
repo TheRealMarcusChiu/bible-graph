@@ -1,0 +1,1 @@
+(function(){var b="ab60fc2af9a1",m="# Mark 5:9 (New International Version)\nThen Jesus asked him, \"What is your name?\"\n\"My name is Legion,\"[^A] he replied, \"for we are many.\" \n\n### Crossrefs\n[^A]: [[Mark-5-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

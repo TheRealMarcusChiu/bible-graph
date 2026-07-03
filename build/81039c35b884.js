@@ -1,0 +1,1 @@
+(function(){var b="81039c35b884",m="# 2 Timothy 1:14 (New International Version)\nGuard[^A] the good deposit that was entrusted to you--guard it with the help of the Holy Spirit who lives in us.[^B]\n\n### Crossrefs\n[^A]: [[2Tim-1-12|ver 12]]\n[^B]: S [[Rom-8-9|Ro 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

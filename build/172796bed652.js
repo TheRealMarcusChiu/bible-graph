@@ -1,0 +1,1 @@
+(function(){var b="172796bed652",m="# Luke 22:9 (New International Version)\n\"Where do you want us to prepare for it?\" they asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

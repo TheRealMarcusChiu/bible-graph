@@ -1,0 +1,1 @@
+(function(){var b="536b69ace801",m="# John 19:21 (New International Version)\nThe chief priests of the Jews protested to Pilate, \"Do not write 'The King of the Jews,' but that this man claimed to be king of the Jews.\"[^A]\n\n### Crossrefs\n[^A]: [[John-19-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

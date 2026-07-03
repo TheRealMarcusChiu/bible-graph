@@ -1,0 +1,1 @@
+(function(){var b="4f64b19fe407",m="# Ephesians 5:9 (New International Version)\n(for the fruit[^A] of the light consists in all goodness,[^B] righteousness and truth) \n\n### Crossrefs\n[^A]: [[Matt-7-16|Mt 7:16-20]]; [[Gal-5-22|Gal 5:22]]\n[^B]: [[Rom-15-14|Ro 15:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="444f228a2071",m="# Romans 16:4 (New International Version)\nThey risked their lives for me. Not only I but all the churches of the Gentiles are grateful to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

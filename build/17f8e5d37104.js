@@ -1,0 +1,1 @@
+(function(){var b="17f8e5d37104",m="# Matthew 24:48 (New International Version)\nBut suppose that servant is wicked and says to himself, 'My master is staying away a long time,'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

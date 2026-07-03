@@ -1,0 +1,1 @@
+(function(){var b="0d07d5e6886b",m="# Mark 5:29 (New International Version)\nImmediately her bleeding stopped and she felt in her body that she was freed from her suffering.[^A]\n\n### Crossrefs\n[^A]: [[Mark-5-34|ver 34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

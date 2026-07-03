@@ -1,0 +1,1 @@
+(function(){var b="07a7dff918a4",m="# Genesis 18:31 (New International Version)\nAbraham said, \"Now that I have been so bold as to speak to the Lord, what if only twenty can be found there?\"\nHe said, \"For the sake of twenty, I will not destroy it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

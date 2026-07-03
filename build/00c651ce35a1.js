@@ -1,0 +1,1 @@
+(function(){var b="00c651ce35a1",m="# Matthew 10:39 (New International Version)\nWhoever finds their life will lose it, and whoever loses their life for my sake will find it.[^A]\n\n### Crossrefs\n[^A]: S [[John-12-25|Jn 12:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

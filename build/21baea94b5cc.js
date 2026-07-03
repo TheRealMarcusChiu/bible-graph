@@ -1,0 +1,1 @@
+(function(){var b="21baea94b5cc",m="# John 4:49 (New International Version)\nThe royal official said, \"Sir, come down before my child dies.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

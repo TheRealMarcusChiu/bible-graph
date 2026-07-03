@@ -1,0 +1,1 @@
+(function(){var b="be7dfa714443",m="# Leviticus 22:15 (New International Version)\nThe priests must not desecrate the sacred offerings[^A] the Israelites present to the LORD[^B] \n\n### Crossrefs\n[^A]: S [[Lev-19-8|Lev 19:8]]\n[^B]: [[Num-18-32|Nu 18:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

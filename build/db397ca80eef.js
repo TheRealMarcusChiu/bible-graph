@@ -1,0 +1,1 @@
+(function(){var b="db397ca80eef",m="# Joshua 11:9 (New International Version)\nJoshua did to them as the LORD had directed: He hamstrung their horses and burned their chariots.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

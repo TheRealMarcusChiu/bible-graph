@@ -1,0 +1,1 @@
+(function(){var b="51bb207022b9",m="# Numbers 29:26 (New International Version)\n\"'On the fifth day offer nine bulls, two rams and fourteen male lambs a year old, all without defect.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

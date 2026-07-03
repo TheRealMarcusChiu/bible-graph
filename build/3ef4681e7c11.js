@@ -1,0 +1,1 @@
+(function(){var b="3ef4681e7c11",m="# Hebrews 9:21 (New International Version)\nIn the same way, he sprinkled with the blood both the tabernacle and everything used in its ceremonies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

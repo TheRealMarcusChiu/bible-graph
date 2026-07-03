@@ -1,0 +1,1 @@
+(function(){var b="a2fda1bb5a96",m="# Philippians 1:21 (New International Version)\nFor to me, to live is Christ[^A] and to die is gain. \n\n### Crossrefs\n[^A]: [[Gal-2-20|Gal 2:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

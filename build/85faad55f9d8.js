@@ -1,0 +1,1 @@
+(function(){var b="85faad55f9d8",m="# Matthew 20:32 (New International Version)\nJesus stopped and called them. \"What do you want me to do for you?\" he asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

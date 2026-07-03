@@ -1,0 +1,1 @@
+(function(){var b="963439691082",m="# Luke 22:71 (New International Version)\nThen they said, \"Why do we need any more testimony? We have heard it from his own lips.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

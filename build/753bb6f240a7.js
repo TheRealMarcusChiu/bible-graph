@@ -1,0 +1,1 @@
+(function(){var b="753bb6f240a7",m="# Deuteronomy 28:54 (New International Version)\nEven the most gentle and sensitive man among you will have no compassion on his own brother or the wife he loves or his surviving children,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

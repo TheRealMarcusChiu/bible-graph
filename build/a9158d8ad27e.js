@@ -1,0 +1,1 @@
+(function(){var b="a9158d8ad27e",m="# Mark 2:3 (New International Version)\nSome men came, bringing to him a paralyzed man,[^A] carried by four of them. \n\n### Crossrefs\n[^A]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

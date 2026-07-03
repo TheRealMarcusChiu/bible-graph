@@ -1,0 +1,1 @@
+(function(){var b="9178e1970ded",m="# Mark 5:14 (New International Version)\nThose tending the pigs ran off and reported this in the town and countryside, and the people went out to see what had happened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

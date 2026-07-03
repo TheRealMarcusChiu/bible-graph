@@ -1,0 +1,1 @@
+(function(){var b="7d120d6c131e",m="# John 19:10 (New International Version)\n\"Do you refuse to speak to me?\" Pilate said. \"Don't you realize I have power either to free you or to crucify you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

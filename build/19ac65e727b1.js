@@ -1,0 +1,1 @@
+(function(){var b="19ac65e727b1",m="# Acts 10:7 (New International Version)\nWhen the angel who spoke to him had gone, Cornelius called two of his servants and a devout soldier who was one of his attendants.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

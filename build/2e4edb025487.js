@@ -1,0 +1,1 @@
+(function(){var b="2e4edb025487",m="# Luke 17:23 (New International Version)\nPeople will tell you, 'There he is!' or 'Here he is!' Do not go running off after them.[^A] \n\n### Crossrefs\n[^A]: [[Matt-24-23|Mt 24:23]]; [[Luke-21-8|Lk 21:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

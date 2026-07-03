@@ -1,0 +1,1 @@
+(function(){var b="11f8d6c6dc65",m="# Exodus 33:23 (New International Version)\nThen I will remove my hand and you will see my back; but my face must not be seen.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4faae997fec",m="# Luke 8:36 (New International Version)\nThose who had seen it told the people how the demon-possessed[^A] man had been cured. \n\n### Crossrefs\n[^A]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

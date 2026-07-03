@@ -1,0 +1,1 @@
+(function(){var b="3d4cecd2c05e",m="# John 4:54 (New International Version)\nThis was the second sign[^A] Jesus performed after coming from Judea to Galilee.\n\n### Crossrefs\n[^A]: S [[John-4-48|ver 48]]; S [[John-2-11|Jn 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="279f5bb28606",m="# Numbers 2:16 (New International Version)\nAll the men assigned to the camp of Reuben,[^A] according to their divisions, number 151,450. They will set out second.\n\n### Crossrefs\n[^A]: [[Num-10-18|Nu 10:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

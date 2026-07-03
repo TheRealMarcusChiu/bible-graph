@@ -1,0 +1,1 @@
+(function(){var b="bc4e5425a2bb",m="# Revelation 14:16 (New International Version)\nSo he who was seated on the cloud swung his sickle over the earth, and the earth was harvested.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

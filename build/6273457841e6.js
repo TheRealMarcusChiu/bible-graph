@@ -1,0 +1,1 @@
+(function(){var b="6273457841e6",m="# Leviticus 25:3 (New International Version)\nFor six years sow your fields, and for six years prune your vineyards and gather their crops.[^A] \n\n### Crossrefs\n[^A]: [[Exod-23-10|Ex 23:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

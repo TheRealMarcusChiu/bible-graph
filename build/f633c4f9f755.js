@@ -1,0 +1,1 @@
+(function(){var b="f633c4f9f755",m="# Joshua 21:33 (New International Version)\nThe total number of towns of the Gershonite[^A] clans came to thirteen, together with their pasturelands.\n\n### Crossrefs\n[^A]: [[Josh-21-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

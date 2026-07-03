@@ -1,0 +1,1 @@
+(function(){var b="07f526b034d6",m="# Numbers 11:19 (New International Version)\nYou will not eat it for just one day, or two days, or five, ten or twenty days,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

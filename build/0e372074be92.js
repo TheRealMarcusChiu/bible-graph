@@ -1,0 +1,1 @@
+(function(){var b="0e372074be92",m="# Matthew 26:2 (New International Version)\n\"As you know, the Passover[^A] is two days away--and the Son of Man will be handed over to be crucified.\"\n\n### Crossrefs\n[^A]: S [[John-11-55|Jn 11:55]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

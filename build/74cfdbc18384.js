@@ -1,0 +1,1 @@
+(function(){var b="74cfdbc18384",m="# 2 Timothy 3:1 (New International Version)\nBut mark this: There will be terrible times in the last days.[^A] \n\n### Crossrefs\n[^A]: [[1Tim-4-1|1Ti 4:1]]; [[2Pet-3-3|2Pe 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

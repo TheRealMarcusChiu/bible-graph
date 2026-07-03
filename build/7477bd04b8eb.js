@@ -1,0 +1,1 @@
+(function(){var b="7477bd04b8eb",m="# James 2:2 (New International Version)\nSuppose a man comes into your meeting wearing a gold ring and fine clothes, and a poor man in filthy old clothes also comes in.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

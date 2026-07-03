@@ -1,0 +1,1 @@
+(function(){var b="9c8d254fea9f",m="# Luke 11:40 (New International Version)\nYou foolish people![^A] Did not the one who made the outside make the inside also? \n\n### Crossrefs\n[^A]: [[Luke-12-20|Lk 12:20]]; [[1Cor-15-36|1Co 15:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

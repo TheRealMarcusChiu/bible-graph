@@ -1,0 +1,1 @@
+(function(){var b="1923430bfd3b",m="# Matthew 19:24 (New International Version)\nAgain I tell you, it is easier for a camel to go through the eye of a needle than for someone who is rich to enter the kingdom of God.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

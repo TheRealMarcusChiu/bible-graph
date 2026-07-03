@@ -1,0 +1,1 @@
+(function(){var b="a0005bac35d2",m="# Joshua 9:19 (New International Version)\nbut all the leaders answered, \"We have given them our oath by the LORD, the God of Israel, and we cannot touch them now.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ce1e22161a8d",m="# Acts 10:33 (New International Version)\nSo I sent for you immediately, and it was good of you to come. Now we are all here in the presence of God to listen to everything the Lord has commanded you to tell us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

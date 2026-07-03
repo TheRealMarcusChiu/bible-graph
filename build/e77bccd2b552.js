@@ -1,0 +1,1 @@
+(function(){var b="e77bccd2b552",m="# Numbers 28:23 (New International Version)\nOffer these in addition to the regular morning burnt offering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

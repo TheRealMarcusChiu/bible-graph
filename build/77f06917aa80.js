@@ -1,0 +1,1 @@
+(function(){var b="77f06917aa80",m="# John 12:14 (New International Version)\nJesus found a young donkey and sat on it, as it is written:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

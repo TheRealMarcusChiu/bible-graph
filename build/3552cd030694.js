@@ -1,0 +1,1 @@
+(function(){var b="3552cd030694",m="# Numbers 22:19 (New International Version)\nNow spend the night here so that I can find out what else the LORD will tell me.[^A]\"\n\n### Crossrefs\n[^A]: [[Num-22-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

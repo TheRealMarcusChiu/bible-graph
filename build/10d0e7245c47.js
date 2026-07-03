@@ -1,0 +1,1 @@
+(function(){var b="10d0e7245c47",m="# Leviticus 10:8 (New International Version)\nThen the LORD said to Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

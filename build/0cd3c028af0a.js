@@ -1,0 +1,1 @@
+(function(){var b="0cd3c028af0a",m="# Mark 10:47 (New International Version)\nWhen he heard that it was Jesus of Nazareth,[^A] he began to shout, \"Jesus, Son of David,[^B] have mercy on me!\"\n\n### Crossrefs\n[^A]: S [[Mark-1-24|Mk 1:24]]\n[^B]: S [[Matt-9-27|Mt 9:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

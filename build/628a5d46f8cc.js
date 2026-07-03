@@ -1,0 +1,1 @@
+(function(){var b="628a5d46f8cc",m="# Deuteronomy 9:17 (New International Version)\nSo I took the two tablets and threw them out of my hands, breaking them to pieces before your eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

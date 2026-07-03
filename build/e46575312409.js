@@ -1,0 +1,1 @@
+(function(){var b="e46575312409",m="# Matthew 25:18 (New International Version)\nBut the man who had received one bag went off, dug a hole in the ground and hid his master's money.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

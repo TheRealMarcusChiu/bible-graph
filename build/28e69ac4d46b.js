@@ -1,0 +1,1 @@
+(function(){var b="28e69ac4d46b",m="# Mark 15:12 (New International Version)\n\"What shall I do, then, with the one you call the king of the Jews?\" Pilate asked them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

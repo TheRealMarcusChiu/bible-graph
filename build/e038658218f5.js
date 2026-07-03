@@ -1,0 +1,1 @@
+(function(){var b="e038658218f5",m="# Acts 25:20 (New International Version)\nI was at a loss how to investigate such matters; so I asked if he would be willing to go to Jerusalem and stand trial there on these charges.[^A] \n\n### Crossrefs\n[^A]: [[Acts-25-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

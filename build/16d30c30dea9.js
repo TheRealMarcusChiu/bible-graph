@@ -1,0 +1,1 @@
+(function(){var b="16d30c30dea9",m="# Joshua 14:5 (New International Version)\nSo the Israelites divided the land, just as the LORD had commanded Moses.[^A]\n\n### Crossrefs\n[^A]: S [[Num-34-13|Nu 34:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

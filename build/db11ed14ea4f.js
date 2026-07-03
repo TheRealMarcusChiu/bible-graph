@@ -1,0 +1,1 @@
+(function(){var b="db11ed14ea4f",m="# Luke 23:25 (New International Version)\nHe released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

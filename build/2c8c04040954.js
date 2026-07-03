@@ -1,0 +1,1 @@
+(function(){var b="2c8c04040954",m="# Genesis 4:6 (New International Version)\nThen the LORD said to Cain, \"Why are you angry?[^A] Why is your face downcast? \n\n### Crossrefs\n[^A]: [[Jonah-4-4|Jnh 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

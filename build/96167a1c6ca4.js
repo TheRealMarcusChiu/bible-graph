@@ -1,0 +1,1 @@
+(function(){var b="96167a1c6ca4",m="# 2 Timothy 2:7 (New International Version)\nReflect on what I am saying, for the Lord will give you insight into all this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

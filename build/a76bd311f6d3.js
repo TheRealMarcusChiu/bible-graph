@@ -1,0 +1,1 @@
+(function(){var b="a76bd311f6d3",m="# Luke 7:4 (New International Version)\nWhen they came to Jesus, they pleaded earnestly with him, \"This man deserves to have you do this,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

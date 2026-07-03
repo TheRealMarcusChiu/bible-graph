@@ -1,0 +1,1 @@
+(function(){var b="45ffbe151317",m="# Luke 15:25 (New International Version)\n\"Meanwhile, the older son was in the field. When he came near the house, he heard music and dancing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

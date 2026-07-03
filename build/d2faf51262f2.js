@@ -1,0 +1,1 @@
+(function(){var b="d2faf51262f2",m="# Exodus 19:25 (New International Version)\nSo Moses went down to the people and told them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

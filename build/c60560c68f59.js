@@ -1,0 +1,1 @@
+(function(){var b="c60560c68f59",m="# John 8:9 (New International Version)\n_At this, those who heard began to go away one at a time, the older ones first, until only Jesus was left, with the woman still standing there._";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c12182c149a3",m="# Acts 8:34 (New International Version)\nThe eunuch asked Philip, \"Tell me, please, who is the prophet talking about, himself or someone else?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

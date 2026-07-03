@@ -1,0 +1,1 @@
+(function(){var b="ca53dcc6a644",m="# Numbers 20:27 (New International Version)\nMoses did as the LORD commanded: They went up Mount Hor[^A] in the sight of the whole community. \n\n### Crossrefs\n[^A]: [[Num-33-38|Nu 33:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

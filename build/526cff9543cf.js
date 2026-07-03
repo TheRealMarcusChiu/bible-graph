@@ -1,0 +1,1 @@
+(function(){var b="526cff9543cf",m="# Numbers 35:1 (New International Version)\nTowns for the Levites\nOn the plains of Moab by the Jordan across from Jericho,[^A] the LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Num-22-1|Nu 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="acb9896ab037",m="# Mark 10:28 (New International Version)\nThen Peter spoke up, \"We have left everything to follow you!\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-4-19|Mt 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

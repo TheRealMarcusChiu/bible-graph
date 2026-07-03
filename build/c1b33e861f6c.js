@@ -1,0 +1,1 @@
+(function(){var b="c1b33e861f6c",m="# Mark 6:28 (New International Version)\nand brought back his head on a platter. He presented it to the girl, and she gave it to her mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

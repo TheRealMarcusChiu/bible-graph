@@ -1,0 +1,1 @@
+(function(){var b="1b887b19803e",m="# Romans 4:22 (New International Version)\nThis is why \"it was credited to him as righteousness.\"[^A] \n\n### Crossrefs\n[^A]: S [[Rom-4-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

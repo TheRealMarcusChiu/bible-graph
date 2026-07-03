@@ -1,0 +1,1 @@
+(function(){var b="d0d6c24c4e23",m="# Luke 14:32 (New International Version)\nIf he is not able, he will send a delegation while the other is still a long way off and will ask for terms of peace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

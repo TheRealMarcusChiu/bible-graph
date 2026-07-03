@@ -1,0 +1,1 @@
+(function(){var b="ea22d7f72400",m="# Acts 9:9 (New International Version)\nFor three days he was blind, and did not eat or drink anything.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

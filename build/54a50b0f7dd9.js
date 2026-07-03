@@ -1,0 +1,1 @@
+(function(){var b="54a50b0f7dd9",m="# Luke 1:61 (New International Version)\nThey said to her, \"There is no one among your relatives who has that name.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bdab98dc7b11",m="# Matthew 23:30 (New International Version)\nAnd you say, 'If we had lived in the days of our ancestors, we would not have taken part with them in shedding the blood of the prophets.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e77561d6182e",m="# Genesis 1:17 (New International Version)\nGod set them in the vault of the sky to give light on the earth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

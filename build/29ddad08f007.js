@@ -1,0 +1,1 @@
+(function(){var b="29ddad08f007",m="# Leviticus 1:14 (New International Version)\n\"'If the offering to the LORD is a burnt offering of birds, you are to offer a dove or a young pigeon.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-15-9|Ge 15:9]]; [[Luke-2-24|Lk 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

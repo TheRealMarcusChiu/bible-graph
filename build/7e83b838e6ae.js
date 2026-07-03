@@ -1,0 +1,1 @@
+(function(){var b="7e83b838e6ae",m="# Luke 11:11 (New International Version)\n\"Which of you fathers, if your son asks for a fish, will give him a snake instead?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

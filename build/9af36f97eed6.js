@@ -1,0 +1,1 @@
+(function(){var b="9af36f97eed6",m="# 3 John 1 (New International Version)\nThe elder,[^A]\nTo my dear friend Gaius, whom I love in the truth.\n\n### Crossrefs\n[^A]: S [[Acts-11-30|Ac 11:30]]; [[2John-1-1|2Jn 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="88d477f0099e",m="# Acts 7:47 (New International Version)\nBut it was Solomon who built a house for him.[^A]\n\n### Crossrefs\n[^A]: [[1Kgs-6-1|1Ki 6:1-38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

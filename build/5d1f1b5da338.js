@@ -1,0 +1,1 @@
+(function(){var b="5d1f1b5da338",m="# 1 Corinthians 12:25 (New International Version)\nso that there should be no division in the body, but that its parts should have equal concern for each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

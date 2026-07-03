@@ -1,0 +1,1 @@
+(function(){var b="8b37e3f31172",m="# Mark 6:46 (New International Version)\nAfter leaving them, he went up on a mountainside to pray.[^A]\n\n### Crossrefs\n[^A]: S [[Luke-3-21|Lk 3:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b28372227b5d",m="# Exodus 30:35 (New International Version)\nand make a fragrant blend of incense,[^A] the work of a perfumer.[^B] It is to be salted and pure and sacred. \n\n### Crossrefs\n[^A]: S [[Exod-25-6|Ex 25:6]]\n[^B]: S [[Exod-30-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

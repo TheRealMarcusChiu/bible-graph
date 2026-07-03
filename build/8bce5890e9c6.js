@@ -1,0 +1,1 @@
+(function(){var b="8bce5890e9c6",m="# Mark 10:8 (New International Version)\nand the two will become one flesh.'[^A] So they are no longer two, but one flesh. \n\n### Crossrefs\n[^A]: [[Gen-2-24|Ge 2:24]]; [[1Cor-6-16|1Co 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

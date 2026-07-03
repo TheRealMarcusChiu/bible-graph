@@ -1,0 +1,1 @@
+(function(){var b="25aa66ac3d11",m="# Mark 12:16 (New International Version)\nThey brought the coin, and he asked them, \"Whose image is this? And whose inscription?\"\n\"Caesar's,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

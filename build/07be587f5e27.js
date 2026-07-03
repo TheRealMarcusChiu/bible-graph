@@ -1,0 +1,1 @@
+(function(){var b="07be587f5e27",m="# 1 Timothy 2:11 (New International Version)\nA woman should learn in quietness and full submission.[^A] \n\n### Crossrefs\n[^A]: [[1Pet-3-3|1Pe 3:3]], [[1Pet-3-4|4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

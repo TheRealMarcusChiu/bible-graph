@@ -1,0 +1,1 @@
+(function(){var b="4c33a79c01cc",m="# Mark 3:11 (New International Version)\nWhenever the impure spirits saw him, they fell down before him and cried out, \"You are the Son of God.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-4-3|Mt 4:3]]; [[Mark-1-23|Mk 1:23]], [[Mark-1-24|24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

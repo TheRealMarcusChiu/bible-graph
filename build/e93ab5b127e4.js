@@ -1,0 +1,1 @@
+(function(){var b="e93ab5b127e4",m="# Numbers 29:8 (New International Version)\nPresent as an aroma pleasing to the LORD a burnt offering of one young bull, one ram and seven male lambs a year old, all without defect.[^A] \n\n### Crossrefs\n[^A]: [[Num-29-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

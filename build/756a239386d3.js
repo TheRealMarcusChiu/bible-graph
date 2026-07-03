@@ -1,0 +1,1 @@
+(function(){var b="756a239386d3",m="# Joshua 11:7 (New International Version)\nSo Joshua and his whole army came against them suddenly at the Waters of Merom and attacked them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

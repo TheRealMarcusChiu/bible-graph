@@ -1,0 +1,1 @@
+(function(){var b="aff58cb92fb7",m="# John 20:8 (New International Version)\nFinally the other disciple, who had reached the tomb first,[^A] also went inside. He saw and believed. \n\n### Crossrefs\n[^A]: [[John-20-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

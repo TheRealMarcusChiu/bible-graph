@@ -1,0 +1,1 @@
+(function(){var b="340d751b9955",m="# Matthew 25:42 (New International Version)\nFor I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

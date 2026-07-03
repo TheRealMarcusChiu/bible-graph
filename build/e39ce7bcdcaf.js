@@ -1,0 +1,1 @@
+(function(){var b="e39ce7bcdcaf",m="# 1 Timothy 5:12 (New International Version)\nThus they bring judgment on themselves, because they have broken their first pledge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

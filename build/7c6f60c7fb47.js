@@ -1,0 +1,1 @@
+(function(){var b="7c6f60c7fb47",m="# Genesis 20:10 (New International Version)\nAnd Abimelek asked Abraham, \"What was your reason for doing this?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

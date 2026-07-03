@@ -1,0 +1,1 @@
+(function(){var b="6dca438a67ff",m="# John 8:47 (New International Version)\nWhoever belongs to God hears what God says.[^A] The reason you do not hear is that you do not belong to God.\"\n\n### Crossrefs\n[^A]: [[John-18-37|Jn 18:37]]; [[1John-4-6|1Jn 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

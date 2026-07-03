@@ -1,0 +1,1 @@
+(function(){var b="af08bf900926",m="# Judges 9:10 (New International Version)\n\"Next, the trees said to the fig tree, 'Come and be our king.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

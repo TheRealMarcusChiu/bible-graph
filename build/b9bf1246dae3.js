@@ -1,0 +1,1 @@
+(function(){var b="b9bf1246dae3",m="# 2 Corinthians 8:2 (New International Version)\nIn the midst of a very severe trial, their overflowing joy and their extreme poverty welled up in rich generosity.[^A] \n\n### Crossrefs\n[^A]: [[Exod-36-5|Ex 36:5]]; [[2Cor-9-11|2Co 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

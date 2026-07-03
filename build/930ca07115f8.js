@@ -1,0 +1,1 @@
+(function(){var b="930ca07115f8",m="# Numbers 3:16 (New International Version)\nSo Moses counted them, as he was commanded by the word of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

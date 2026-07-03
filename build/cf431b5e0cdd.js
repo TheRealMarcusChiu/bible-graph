@@ -1,0 +1,1 @@
+(function(){var b="cf431b5e0cdd",m="# Numbers 17:3 (New International Version)\nOn the staff of Levi write Aaron's name,[^A] for there must be one staff for the head of each ancestral tribe. \n\n### Crossrefs\n[^A]: S [[Num-1-3|Nu 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

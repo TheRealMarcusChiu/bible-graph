@@ -1,0 +1,1 @@
+(function(){var b="689bdf7697c2",m="# Numbers 7:72 (New International Version)\nOn the eleventh day Pagiel son of Okran,[^A] the leader of the people of Asher, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-13|Nu 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

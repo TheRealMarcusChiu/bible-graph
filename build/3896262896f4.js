@@ -1,0 +1,1 @@
+(function(){var b="3896262896f4",m="# Luke 7:6 (New International Version)\nSo Jesus went with them.\nHe was not far from the house when the centurion sent friends to say to him: \"Lord, don't trouble yourself, for I do not deserve to have you come under my roof.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

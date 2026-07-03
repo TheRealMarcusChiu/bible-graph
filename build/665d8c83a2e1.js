@@ -1,0 +1,1 @@
+(function(){var b="665d8c83a2e1",m="# John 10:4 (New International Version)\nWhen he has brought out all his own, he goes on ahead of them, and his sheep follow him because they know his voice.[^A] \n\n### Crossrefs\n[^A]: S [[John-10-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a72be79c8d72",m="# Judges 11:5 (New International Version)\nthe elders of Gilead went to get Jephthah from the land of Tob.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

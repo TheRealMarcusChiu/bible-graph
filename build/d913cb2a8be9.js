@@ -1,0 +1,1 @@
+(function(){var b="d913cb2a8be9",m="# Joshua 3:8 (New International Version)\nTell the priests[^A] who carry the ark of the covenant: 'When you reach the edge of the Jordan's waters, go and stand in the river.'\"\n\n### Crossrefs\n[^A]: S [[Josh-3-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

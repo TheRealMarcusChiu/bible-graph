@@ -1,0 +1,1 @@
+(function(){var b="3691590fb227",m="# Acts 10:5 (New International Version)\nNow send men to Joppa[^A] to bring back a man named Simon who is called Peter. \n\n### Crossrefs\n[^A]: S [[Acts-9-36|Ac 9:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

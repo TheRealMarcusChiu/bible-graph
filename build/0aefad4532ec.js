@@ -1,0 +1,1 @@
+(function(){var b="0aefad4532ec",m="# Exodus 28:32 (New International Version)\nwith an opening for the head in its center. There shall be a woven edge like a collar around this opening, so that it will not tear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

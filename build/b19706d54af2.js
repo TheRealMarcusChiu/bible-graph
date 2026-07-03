@@ -1,0 +1,1 @@
+(function(){var b="b19706d54af2",m="# 2 Corinthians 2:6 (New International Version)\nThe punishment[^A] inflicted on him by the majority is sufficient. \n\n### Crossrefs\n[^A]: [[1Cor-5-4|1Co 5:4]], [[1Cor-5-5|5]]; [[2Cor-7-11|2Co 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

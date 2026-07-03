@@ -1,0 +1,1 @@
+(function(){var b="ae503122bfb5",m="# Judges 4:19 (New International Version)\n\"I'm thirsty,\" he said. \"Please give me some water.\" She opened a skin of milk,[^A] gave him a drink, and covered him up.\n\n### Crossrefs\n[^A]: S [[Gen-18-8|Ge 18:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

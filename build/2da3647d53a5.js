@@ -1,0 +1,1 @@
+(function(){var b="2da3647d53a5",m="# 1 Thessalonians 5:19 (New International Version)\nDo not quench the Spirit.[^A] \n\n### Crossrefs\n[^A]: [[Eph-4-30|Eph 4:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

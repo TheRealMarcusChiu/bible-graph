@@ -1,0 +1,1 @@
+(function(){var b="38c7a7f7976f",m="# Matthew 12:36 (New International Version)\nBut I tell you that everyone will have to give account on the day of judgment for every empty word they have spoken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

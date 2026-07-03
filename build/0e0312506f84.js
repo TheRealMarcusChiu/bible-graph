@@ -1,0 +1,1 @@
+(function(){var b="0e0312506f84",m="# Luke 20:22 (New International Version)\nIs it right for us to pay taxes to Caesar or not?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

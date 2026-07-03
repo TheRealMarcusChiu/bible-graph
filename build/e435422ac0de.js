@@ -1,0 +1,1 @@
+(function(){var b="e435422ac0de",m="# Exodus 37:13 (New International Version)\nThey cast four gold rings for the table and fastened them to the four corners, where the four legs were.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

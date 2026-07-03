@@ -1,0 +1,1 @@
+(function(){var b="321881b8d27e",m="# Deuteronomy 28:50 (New International Version)\na fierce-looking nation without respect for the old[^A] or pity for the young. \n\n### Crossrefs\n[^A]: [[Isa-47-6|Isa 47:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a14f280f669c",m="# Matthew 14:26 (New International Version)\nWhen the disciples saw him walking on the lake, they were terrified. \"It's a ghost,\"[^A] they said, and cried out in fear.\n\n### Crossrefs\n[^A]: [[Luke-24-37|Lk 24:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

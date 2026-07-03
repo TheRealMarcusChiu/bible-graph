@@ -1,0 +1,1 @@
+(function(){var b="ce4a8305bd94",m="# Matthew 9:21 (New International Version)\nShe said to herself, \"If I only touch his cloak, I will be healed.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

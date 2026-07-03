@@ -1,0 +1,1 @@
+(function(){var b="41fafacf3971",m="# Luke 22:29 (New International Version)\nAnd I confer on you a kingdom,[^A] just as my Father conferred one on me, \n\n### Crossrefs\n[^A]: S [[Matt-25-34|Mt 25:34]]; [[2Tim-2-12|2Ti 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

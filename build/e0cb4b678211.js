@@ -1,0 +1,1 @@
+(function(){var b="e0cb4b678211",m="# Mark 10:20 (New International Version)\n\"Teacher,\" he declared, \"all these I have kept since I was a boy.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

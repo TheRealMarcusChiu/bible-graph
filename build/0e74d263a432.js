@@ -1,0 +1,1 @@
+(function(){var b="0e74d263a432",m="# 1 Corinthians 8:8 (New International Version)\nBut food does not bring us near to God;[^A] we are no worse if we do not eat, and no better if we do.\n\n### Crossrefs\n[^A]: [[Rom-14-17|Ro 14:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

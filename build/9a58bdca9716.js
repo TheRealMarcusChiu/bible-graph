@@ -1,0 +1,1 @@
+(function(){var b="9a58bdca9716",m="# Leviticus 11:13 (New International Version)\n\"'These are the birds you are to regard as unclean and not eat because they are unclean: the eagle, the vulture, the black vulture,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

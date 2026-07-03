@@ -1,0 +1,1 @@
+(function(){var b="4e5b19ebb119",m="# Luke 20:25 (New International Version)\nHe said to them, \"Then give back to Caesar what is Caesar's,[^A] and to God what is God's.\"\n\n### Crossrefs\n[^A]: [[Luke-23-2|Lk 23:2]]; [[Rom-13-7|Ro 13:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

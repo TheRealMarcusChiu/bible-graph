@@ -1,0 +1,1 @@
+(function(){var b="b7101d7b5edd",m="# John 4:18 (New International Version)\nThe fact is, you have had five husbands, and the man you now have is not your husband. What you have just said is quite true.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

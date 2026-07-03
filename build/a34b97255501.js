@@ -1,0 +1,1 @@
+(function(){var b="a34b97255501",m="# Deuteronomy 19:16 (New International Version)\nIf a malicious witness[^A] takes the stand to accuse someone of a crime, \n\n### Crossrefs\n[^A]: [[Exod-23-1|Ex 23:1]]; [[Prov-6-19|Pr 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

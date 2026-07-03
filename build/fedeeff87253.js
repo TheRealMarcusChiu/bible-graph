@@ -1,0 +1,1 @@
+(function(){var b="fedeeff87253",m="# John 14:18 (New International Version)\nI will not leave you as orphans;[^A] I will come to you.[^B] \n\n### Crossrefs\n[^A]: [[1Kgs-6-13|1Ki 6:13]]\n[^B]: [[John-14-3|ver 3]], [[John-14-28|28]]; S [[Matt-16-27|Mt 16:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

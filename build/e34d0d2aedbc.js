@@ -1,0 +1,1 @@
+(function(){var b="e34d0d2aedbc",m="# Numbers 36:9 (New International Version)\nNo inheritance may pass from one tribe to another, for each Israelite tribe is to keep the land it inherits.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

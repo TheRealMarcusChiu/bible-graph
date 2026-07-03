@@ -1,0 +1,1 @@
+(function(){var b="80c0a4707242",m="# Joshua 6:8 (New International Version)\nWhen Joshua had spoken to the people, the seven priests carrying the seven trumpets before the LORD went forward, blowing their trumpets, and the ark of the LORD's covenant followed them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

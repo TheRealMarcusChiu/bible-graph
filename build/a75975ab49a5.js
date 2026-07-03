@@ -1,0 +1,1 @@
+(function(){var b="a75975ab49a5",m="# Matthew 17:17 (New International Version)\n\"You unbelieving and perverse generation,\" Jesus replied, \"how long shall I stay with you? How long shall I put up with you? Bring the boy here to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

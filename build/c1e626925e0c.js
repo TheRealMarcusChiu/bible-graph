@@ -1,0 +1,1 @@
+(function(){var b="c1e626925e0c",m="# Hebrews 9:17 (New International Version)\nbecause a will is in force only when somebody has died; it never takes effect while the one who made it is living.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

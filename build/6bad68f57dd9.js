@@ -1,0 +1,1 @@
+(function(){var b="6bad68f57dd9",m="# Genesis 24:20 (New International Version)\nSo she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels.[^A] \n\n### Crossrefs\n[^A]: [[Gen-24-46|ver 46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

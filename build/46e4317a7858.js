@@ -1,0 +1,1 @@
+(function(){var b="46e4317a7858",m="# Luke 22:49 (New International Version)\nWhen Jesus' followers saw what was going to happen, they said, \"Lord, should we strike with our swords?\"[^A] \n\n### Crossrefs\n[^A]: [[Luke-22-38|ver 38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

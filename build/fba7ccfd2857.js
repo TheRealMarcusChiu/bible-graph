@@ -1,0 +1,1 @@
+(function(){var b="fba7ccfd2857",m="# 3 John 14 (New International Version)\nI hope to see you soon, and we will talk face to face.[^A]\n\n### Crossrefs\n[^A]: [[2John-1-12|2Jn 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

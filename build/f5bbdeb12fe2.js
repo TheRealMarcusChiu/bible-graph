@@ -1,0 +1,1 @@
+(function(){var b="f5bbdeb12fe2",m="# Numbers 4:41 (New International Version)\nThis was the total of those in the Gershonite clans who served at the tent of meeting. Moses and Aaron counted them according to the LORD's command.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

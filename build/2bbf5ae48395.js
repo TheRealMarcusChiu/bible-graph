@@ -1,0 +1,1 @@
+(function(){var b="2bbf5ae48395",m="# Luke 14:14 (New International Version)\nand you will be blessed. Although they cannot repay you, you will be repaid at the resurrection of the righteous.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-24-15|Ac 24:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

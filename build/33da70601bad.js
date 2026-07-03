@@ -1,0 +1,1 @@
+(function(){var b="33da70601bad",m="# Deuteronomy 31:5 (New International Version)\nThe LORD will deliver[^A] them to you, and you must do to them all that I have commanded you. \n\n### Crossrefs\n[^A]: S [[Deut-2-33|Dt 2:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

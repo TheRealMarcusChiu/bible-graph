@@ -1,0 +1,1 @@
+(function(){var b="7239ea4e4a76",m="# Matthew 22:45 (New International Version)\nIf then David calls him 'Lord,' how can he be his son?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

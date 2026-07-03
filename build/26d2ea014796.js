@@ -1,0 +1,1 @@
+(function(){var b="26d2ea014796",m="# Genesis 31:25 (New International Version)\nJacob had pitched his tent in the hill country of Gilead[^A] when Laban overtook him, and Laban and his relatives camped there too. \n\n### Crossrefs\n[^A]: S [[Gen-31-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

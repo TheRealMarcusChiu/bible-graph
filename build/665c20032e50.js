@@ -1,0 +1,1 @@
+(function(){var b="665c20032e50",m="# Leviticus 11:27 (New International Version)\nOf all the animals that walk on all fours, those that walk on their paws are unclean for you; whoever touches their carcasses will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

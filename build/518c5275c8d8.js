@@ -1,0 +1,1 @@
+(function(){var b="518c5275c8d8",m="# Joshua 15:37 (New International Version)\nZenan, Hadashah, Migdal Gad,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

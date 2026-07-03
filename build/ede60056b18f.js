@@ -1,0 +1,1 @@
+(function(){var b="ede60056b18f",m="# Hebrews 10:18 (New International Version)\nAnd where these have been forgiven, sacrifice for sin is no longer necessary.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

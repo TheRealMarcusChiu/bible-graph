@@ -1,0 +1,1 @@
+(function(){var b="dbedb2fe01c7",m="# Matthew 19:2 (New International Version)\nLarge crowds followed him, and he healed them[^A] there.\n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

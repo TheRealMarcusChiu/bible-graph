@@ -1,0 +1,1 @@
+(function(){var b="1c84c208e941",m="# Leviticus 18:27 (New International Version)\nfor all these things were done by the people who lived in the land before you, and the land became defiled.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

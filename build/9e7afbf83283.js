@@ -1,0 +1,1 @@
+(function(){var b="9e7afbf83283",m="# 2 Corinthians 5:6 (New International Version)\nTherefore we are always confident and know that as long as we are at home in the body we are away from the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

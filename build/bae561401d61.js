@@ -1,0 +1,1 @@
+(function(){var b="bae561401d61",m="# Matthew 28:17 (New International Version)\nWhen they saw him, they worshiped him; but some doubted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

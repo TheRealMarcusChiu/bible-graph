@@ -1,0 +1,1 @@
+(function(){var b="fe58d40fb2af",m="# Genesis 32:27 (New International Version)\nThe man asked him, \"What is your name?\"\n\"Jacob,\"[^A] he answered.\n\n### Crossrefs\n[^A]: S [[Gen-25-26|Ge 25:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

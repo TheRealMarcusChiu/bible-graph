@@ -1,0 +1,1 @@
+(function(){var b="501979b8db39",m="# 1 Timothy 2:13 (New International Version)\nFor Adam was formed first, then Eve.[^A] \n\n### Crossrefs\n[^A]: [[Gen-2-7|Ge 2:7]], [[Gen-2-22|22]]; [[1Cor-11-8|1Co 11:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

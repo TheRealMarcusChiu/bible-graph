@@ -1,0 +1,1 @@
+(function(){var b="581c21634ea7",m="# 1 Corinthians 16:7 (New International Version)\nFor I do not want to see you now and make only a passing visit; I hope to spend some time with you, if the Lord permits.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-18-21|Ac 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

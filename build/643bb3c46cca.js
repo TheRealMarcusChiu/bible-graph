@@ -1,0 +1,1 @@
+(function(){var b="643bb3c46cca",m="# Numbers 22:25 (New International Version)\nWhen the donkey saw the angel of the LORD, it pressed close to the wall, crushing Balaam's foot against it. So he beat the donkey again.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

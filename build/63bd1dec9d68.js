@@ -1,0 +1,1 @@
+(function(){var b="63bd1dec9d68",m="# Exodus 28:25 (New International Version)\nand the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

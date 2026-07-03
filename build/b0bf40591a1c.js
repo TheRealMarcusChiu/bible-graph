@@ -1,0 +1,1 @@
+(function(){var b="b0bf40591a1c",m="# Leviticus 19:21 (New International Version)\nThe man, however, must bring a ram to the entrance to the tent of meeting for a guilt offering to the LORD.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-5-15|Lev 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

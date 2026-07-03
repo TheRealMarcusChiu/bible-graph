@@ -1,0 +1,1 @@
+(function(){var b="95ae7efa430e",m="# Luke 10:28 (New International Version)\n\"You have answered correctly,\" Jesus replied. \"Do this and you will live.\"[^A]\n\n### Crossrefs\n[^A]: S [[Rom-7-10|Ro 7:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

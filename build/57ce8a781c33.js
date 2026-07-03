@@ -1,0 +1,1 @@
+(function(){var b="57ce8a781c33",m="# Mark 15:26 (New International Version)\nThe written notice of the charge against him read: the king of the jews.[^A]\n\n### Crossrefs\n[^A]: S [[Mark-15-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="241fb1496087",m="# Mark 13:26 (New International Version)\n\"At that time people will see the Son of Man coming in clouds[^A] with great power and glory. \n\n### Crossrefs\n[^A]: S [[Rev-1-7|Rev 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

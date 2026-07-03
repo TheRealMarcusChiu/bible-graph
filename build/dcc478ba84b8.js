@@ -1,0 +1,1 @@
+(function(){var b="dcc478ba84b8",m="# Acts 12:9 (New International Version)\nPeter followed him out of the prison, but he had no idea that what the angel was doing was really happening; he thought he was seeing a vision.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-9-10|Ac 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

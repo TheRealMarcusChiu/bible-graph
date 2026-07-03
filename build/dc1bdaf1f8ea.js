@@ -1,0 +1,1 @@
+(function(){var b="dc1bdaf1f8ea",m="# Acts 27:27 (New International Version)\nThe Shipwreck\nOn the fourteenth night we were still being driven across the Adriatic Sea, when about midnight the sailors sensed they were approaching land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="51c929a65e3c",m="# Leviticus 22:23 (New International Version)\nYou may, however, present as a freewill offering an ox or a sheep that is deformed or stunted, but it will not be accepted in fulfillment of a vow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

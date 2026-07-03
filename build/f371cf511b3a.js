@@ -1,0 +1,1 @@
+(function(){var b="f371cf511b3a",m="# Numbers 7:30 (New International Version)\nOn the fourth day Elizur son of Shedeur,[^A] the leader of the people of Reuben, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-5|Nu 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

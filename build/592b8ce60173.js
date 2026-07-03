@@ -1,0 +1,1 @@
+(function(){var b="592b8ce60173",m="# Luke 17:10 (New International Version)\nSo you also, when you have done everything you were told to do, should say, 'We are unworthy servants; we have only done our duty.'\"[^A]\n\n### Crossrefs\n[^A]: [[1Cor-9-16|1Co 9:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

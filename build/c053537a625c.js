@@ -1,0 +1,1 @@
+(function(){var b="c053537a625c",m="# 1 John 5:11 (New International Version)\nAnd this is the testimony: God has given us eternal life,[^A] and this life is in his Son.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-25-46|Mt 25:46]]\n[^B]: S [[John-1-4|Jn 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

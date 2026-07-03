@@ -1,0 +1,1 @@
+(function(){var b="f3972e87220a",m="# James 2:4 (New International Version)\nhave you not discriminated among yourselves and become judges[^A] with evil thoughts?\n\n### Crossrefs\n[^A]: S [[John-7-24|Jn 7:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

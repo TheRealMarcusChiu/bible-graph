@@ -1,0 +1,1 @@
+(function(){var b="c1b86f176350",m="# Judges 2:9 (New International Version)\nAnd they buried him in the land of his inheritance, at Timnath Heres[^A] in the hill country of Ephraim, north of Mount Gaash.\n\n### Crossrefs\n[^A]: S [[Josh-19-50|Jos 19:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

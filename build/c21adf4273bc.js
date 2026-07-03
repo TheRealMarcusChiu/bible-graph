@@ -1,0 +1,1 @@
+(function(){var b="c21adf4273bc",m="# Matthew 22:2 (New International Version)\n\"The kingdom of heaven is like[^A] a king who prepared a wedding banquet for his son. \n\n### Crossrefs\n[^A]: S [[Matt-13-24|Mt 13:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

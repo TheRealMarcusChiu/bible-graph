@@ -1,0 +1,1 @@
+(function(){var b="cd86cf32b643",m="# Matthew 7:26 (New International Version)\nBut everyone who hears these words of mine and does not put them into practice is like a foolish man who built his house on sand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

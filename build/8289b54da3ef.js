@@ -1,0 +1,1 @@
+(function(){var b="8289b54da3ef",m="# Mark 14:34 (New International Version)\n\"My soul is overwhelmed with sorrow to the point of death,\"[^A] he said to them. \"Stay here and keep watch.\"\n\n### Crossrefs\n[^A]: [[John-12-27|Jn 12:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

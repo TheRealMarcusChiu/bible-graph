@@ -1,0 +1,1 @@
+(function(){var b="d1d4775372ec",m="# Genesis 40:18 (New International Version)\n\"This is what it means,\" Joseph said. \"The three baskets are three days.[^A] \n\n### Crossrefs\n[^A]: [[Gen-40-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

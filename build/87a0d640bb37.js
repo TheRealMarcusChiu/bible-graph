@@ -1,0 +1,1 @@
+(function(){var b="87a0d640bb37",m="# Numbers 34:29 (New International Version)\nThese are the men the LORD commanded to assign the inheritance to the Israelites in the land of Canaan.[^A]\n\n### Crossrefs\n[^A]: [[Num-34-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

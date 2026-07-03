@@ -1,0 +1,1 @@
+(function(){var b="2a6b6ed4616d",m="# Luke 2:19 (New International Version)\nBut Mary treasured up all these things and pondered them in her heart.[^A] \n\n### Crossrefs\n[^A]: [[Luke-2-51|ver 51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

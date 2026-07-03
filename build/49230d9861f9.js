@@ -1,0 +1,1 @@
+(function(){var b="49230d9861f9",m="# Acts 22:18 (New International Version)\nand saw the Lord speaking to me. 'Quick!' he said. 'Leave Jerusalem immediately, because the people here will not accept your testimony about me.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

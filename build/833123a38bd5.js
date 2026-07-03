@@ -1,0 +1,1 @@
+(function(){var b="833123a38bd5",m="# Matthew 15:24 (New International Version)\nHe answered, \"I was sent only to the lost sheep of Israel.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-10-6|Mt 10:6]], [[Matt-10-23|23]]; [[Rom-15-8|Ro 15:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

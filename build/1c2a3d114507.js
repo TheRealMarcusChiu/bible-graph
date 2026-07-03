@@ -1,0 +1,1 @@
+(function(){var b="1c2a3d114507",m="# Judges 7:8 (New International Version)\nSo Gideon sent the rest of the Israelites home but kept the three hundred, who took over the provisions and trumpets of the others.\nNow the camp of Midian lay below him in the valley.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

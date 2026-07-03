@@ -1,0 +1,1 @@
+(function(){var b="071fc0bf64fb",m="# Deuteronomy 2:13 (New International Version)\nAnd the LORD said, \"Now get up and cross the Zered Valley.[^A]\" So we crossed the valley.\n\n### Crossrefs\n[^A]: S [[Num-21-12|Nu 21:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

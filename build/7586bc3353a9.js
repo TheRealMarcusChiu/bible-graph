@@ -1,0 +1,1 @@
+(function(){var b="7586bc3353a9",m="# 1 Peter 5:7 (New International Version)\nCast all your anxiety on him[^A] because he cares for you.[^B]\n\n### Crossrefs\n[^A]: [[Ps-37-5|Ps 37:5]]; [[Matt-6-25|Mt 6:25]]\n[^B]: [[Ps-55-22|Ps 55:22]]; [[Heb-13-5|Heb 13:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

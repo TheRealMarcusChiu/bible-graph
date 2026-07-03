@@ -1,0 +1,1 @@
+(function(){var b="9e6aa4745bf3",m="# Leviticus 24:2 (New International Version)\n\"Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning continually.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

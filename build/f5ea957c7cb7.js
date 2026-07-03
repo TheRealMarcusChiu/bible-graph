@@ -1,0 +1,1 @@
+(function(){var b="f5ea957c7cb7",m="# Hebrews 13:18 (New International Version)\nPray for us.[^A] We are sure that we have a clear conscience[^B] and desire to live honorably in every way. \n\n### Crossrefs\n[^A]: S [[1Thess-5-25|1Th 5:25]]\n[^B]: S [[Acts-23-1|Ac 23:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

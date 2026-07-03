@@ -1,0 +1,1 @@
+(function(){var b="fef7cc1e3d78",m="# Philippians 4:16 (New International Version)\nfor even when I was in Thessalonica,[^A] you sent me aid more than once when I was in need.[^B] \n\n### Crossrefs\n[^A]: S [[Acts-17-1|Ac 17:1]]\n[^B]: [[1Thess-2-9|1Th 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

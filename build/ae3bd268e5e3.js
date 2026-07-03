@@ -1,0 +1,1 @@
+(function(){var b="ae3bd268e5e3",m="# Exodus 8:13 (New International Version)\nAnd the LORD did what Moses asked.[^A] The frogs died in the houses, in the courtyards and in the fields. \n\n### Crossrefs\n[^A]: [[Jas-5-16|Jas 5:16-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

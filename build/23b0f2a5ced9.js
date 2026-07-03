@@ -1,0 +1,1 @@
+(function(){var b="23b0f2a5ced9",m="# Exodus 25:11 (New International Version)\nOverlay[^A] it with pure gold, both inside and out, and make a gold molding around it. \n\n### Crossrefs\n[^A]: [[Exod-25-24|ver 24]]; [[Exod-30-3|Ex 30:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

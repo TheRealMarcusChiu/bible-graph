@@ -1,0 +1,1 @@
+(function(){var b="f60828255947",m="# 2 Timothy 2:4 (New International Version)\nNo one serving as a soldier gets entangled in civilian affairs, but rather tries to please his commanding officer.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

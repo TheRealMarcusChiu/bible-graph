@@ -1,0 +1,1 @@
+(function(){var b="9c256866048f",m="# Mark 15:18 (New International Version)\nAnd they began to call out to him, \"Hail, king of the Jews!\"[^A] \n\n### Crossrefs\n[^A]: S [[Mark-15-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ed047ae1ffbf",m="# 1 Corinthians 11:31 (New International Version)\nBut if we were more discerning with regard to ourselves, we would not come under such judgment.[^A] \n\n### Crossrefs\n[^A]: [[Ps-32-5|Ps 32:5]]; [[1John-1-9|1Jn 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

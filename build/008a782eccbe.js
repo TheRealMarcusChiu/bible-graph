@@ -1,0 +1,1 @@
+(function(){var b="008a782eccbe",m="# Mark 4:41 (New International Version)\nThey were terrified and asked each other, \"Who is this? Even the wind and the waves obey him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

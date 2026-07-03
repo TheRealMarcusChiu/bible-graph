@@ -1,0 +1,1 @@
+(function(){var b="bd4074688aa6",m="# 2 Corinthians 10:11 (New International Version)\nSuch people should realize that what we are in our letters when we are absent, we will be in our actions when we are present.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

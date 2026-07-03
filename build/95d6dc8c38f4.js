@@ -1,0 +1,1 @@
+(function(){var b="95d6dc8c38f4",m="# Matthew 12:48 (New International Version)\nHe replied to him, \"Who is my mother, and who are my brothers?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

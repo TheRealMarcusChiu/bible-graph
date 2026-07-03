@@ -1,0 +1,1 @@
+(function(){var b="1fa6aea73f8a",m="# Leviticus 18:2 (New International Version)\n\"Speak to the Israelites and say to them: 'I am the LORD your God.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-17-7|Ge 17:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

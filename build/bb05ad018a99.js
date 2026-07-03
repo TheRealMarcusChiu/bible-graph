@@ -1,0 +1,1 @@
+(function(){var b="bb05ad018a99",m="# Acts 5:35 (New International Version)\nThen he addressed the Sanhedrin: \"Men of Israel, consider carefully what you intend to do to these men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

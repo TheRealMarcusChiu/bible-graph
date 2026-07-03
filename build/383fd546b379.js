@@ -1,0 +1,1 @@
+(function(){var b="383fd546b379",m="# Numbers 5:16 (New International Version)\n\"'The priest shall bring her and have her stand before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

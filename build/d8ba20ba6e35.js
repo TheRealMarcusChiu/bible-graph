@@ -1,0 +1,1 @@
+(function(){var b="d8ba20ba6e35",m="# Exodus 38:11 (New International Version)\nThe north side was also a hundred cubits long and had twenty posts and twenty bronze bases, with silver hooks and bands on the posts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

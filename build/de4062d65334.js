@@ -1,0 +1,1 @@
+(function(){var b="de4062d65334",m="# Matthew 5:6 (New International Version)\nBlessed are those who hunger and thirst for righteousness,  \n    for they will be filled.[^A]\n\n### Crossrefs\n[^A]: [[Isa-55-1|Isa 55:1]], [[Isa-55-2|2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

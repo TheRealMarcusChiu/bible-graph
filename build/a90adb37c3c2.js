@@ -1,0 +1,1 @@
+(function(){var b="a90adb37c3c2",m="# John 12:22 (New International Version)\nPhilip went to tell Andrew; Andrew and Philip in turn told Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

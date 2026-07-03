@@ -1,0 +1,1 @@
+(function(){var b="e9bc2a1aac6a",m="# Matthew 12:35 (New International Version)\nA good man brings good things out of the good stored up in him, and an evil man brings evil things out of the evil stored up in him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

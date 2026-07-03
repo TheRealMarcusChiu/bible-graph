@@ -1,0 +1,1 @@
+(function(){var b="4dd1fce14743",m="# Acts 15:14 (New International Version)\nSimon has described to us how God first intervened to choose a people for his name from the Gentiles.[^A] \n\n### Crossrefs\n[^A]: [[2Pet-1-1|2Pe 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

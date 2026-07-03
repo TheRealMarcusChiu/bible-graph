@@ -1,0 +1,1 @@
+(function(){var b="7af272996931",m="# Galatians 3:25 (New International Version)\nNow that this faith has come, we are no longer under a guardian.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-7-4|Ro 7:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

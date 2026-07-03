@@ -1,0 +1,1 @@
+(function(){var b="51eb55f8a10f",m="# Numbers 22:24 (New International Version)\nThen the angel of the LORD stood in a narrow path through the vineyards, with walls on both sides.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

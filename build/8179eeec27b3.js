@@ -1,0 +1,1 @@
+(function(){var b="8179eeec27b3",m="# Philippians 4:22 (New International Version)\nAll God's people[^A] here send you greetings, especially those who belong to Caesar's household.\n\n### Crossrefs\n[^A]: S [[Acts-9-13|Ac 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

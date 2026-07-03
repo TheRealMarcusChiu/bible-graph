@@ -1,0 +1,1 @@
+(function(){var b="b58eb95f5371",m="# 1 Corinthians 14:38 (New International Version)\nBut if anyone ignores this, they will themselves be ignored.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

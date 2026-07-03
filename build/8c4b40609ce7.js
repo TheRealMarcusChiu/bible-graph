@@ -1,0 +1,1 @@
+(function(){var b="8c4b40609ce7",m="# Genesis 36:5 (New International Version)\nand Oholibamah bore Jeush, Jalam and Korah.[^A] These were the sons of Esau, who were born to him in Canaan.\n\n### Crossrefs\n[^A]: [[Gen-36-14|ver 14]], [[Gen-36-18|18]]; [[1Chr-1-35|1Ch 1:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

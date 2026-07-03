@@ -1,0 +1,1 @@
+(function(){var b="6ec34e7fe75d",m="# John 7:9 (New International Version)\nAfter he had said this, he stayed in Galilee.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

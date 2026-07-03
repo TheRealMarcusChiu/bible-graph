@@ -1,0 +1,1 @@
+(function(){var b="f5244984d2ee",m="# Exodus 5:13 (New International Version)\nThe slave drivers kept pressing them, saying, \"Complete the work required of you for each day, just as when you had straw.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

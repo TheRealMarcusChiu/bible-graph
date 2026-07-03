@@ -1,0 +1,1 @@
+(function(){var b="b9b1b5ee1b66",m="# Leviticus 27:1 (New International Version)\nRedeeming What Is the LORD's\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

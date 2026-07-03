@@ -1,0 +1,1 @@
+(function(){var b="d7eb01ed66d0",m="# Joshua 15:12 (New International Version)\nThe western boundary is the coastline of the Mediterranean Sea.[^A]\nThese are the boundaries around the people of Judah by their clans.\n\n### Crossrefs\n[^A]: S [[Num-34-6|Nu 34:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

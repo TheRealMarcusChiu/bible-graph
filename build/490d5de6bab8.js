@@ -1,0 +1,1 @@
+(function(){var b="490d5de6bab8",m="# Matthew 9:25 (New International Version)\nAfter the crowd had been put outside, he went in and took the girl by the hand, and she got up.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-7-14|Lk 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

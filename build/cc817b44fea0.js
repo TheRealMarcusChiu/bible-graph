@@ -1,0 +1,1 @@
+(function(){var b="cc817b44fea0",m="# Mark 14:13 (New International Version)\nSo he sent two of his disciples, telling them, \"Go into the city, and a man carrying a jar of water will meet you. Follow him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

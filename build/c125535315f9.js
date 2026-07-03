@@ -1,0 +1,1 @@
+(function(){var b="c125535315f9",m="# Genesis 15:21 (New International Version)\nAmorites, Canaanites, Girgashites and Jebusites.\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-10-16|Ge 10:16]]; [[Josh-3-10|Jos 3:10]]; [[Josh-24-11|24:11]]; [[Neh-9-8|Ne 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

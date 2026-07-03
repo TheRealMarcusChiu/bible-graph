@@ -1,0 +1,1 @@
+(function(){var b="7bdeaa1b20f9",m="# Numbers 31:18 (New International Version)\nbut save for yourselves every girl who has never slept with a man.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

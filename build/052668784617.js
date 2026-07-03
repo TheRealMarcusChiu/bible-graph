@@ -1,0 +1,1 @@
+(function(){var b="052668784617",m="# Romans 5:7 (New International Version)\nVery rarely will anyone die for a righteous person, though for a good person someone might possibly dare to die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

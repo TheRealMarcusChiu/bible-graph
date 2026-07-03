@@ -1,0 +1,1 @@
+(function(){var b="a6e16751d28f",m="# Leviticus 13:42 (New International Version)\nBut if he has a reddish-white sore on his bald head or forehead, it is a defiling disease breaking out on his head or forehead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

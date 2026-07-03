@@ -1,0 +1,1 @@
+(function(){var b="df64808ee458",m="# Mark 4:25 (New International Version)\nWhoever has will be given more; whoever does not have, even what they have will be taken from them.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-25-29|Mt 25:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

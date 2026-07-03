@@ -1,0 +1,1 @@
+(function(){var b="0e1048c394e2",m="# Acts 21:12 (New International Version)\nWhen we heard this, we and the people there pleaded with Paul not to go up to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

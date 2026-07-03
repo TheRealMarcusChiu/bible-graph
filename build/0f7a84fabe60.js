@@ -1,0 +1,1 @@
+(function(){var b="0f7a84fabe60",m="# John 1:17 (New International Version)\nFor the law was given through Moses;[^A] grace and truth came through Jesus Christ.[^B] \n\n### Crossrefs\n[^A]: [[Deut-32-46|Dt 32:46]]; [[John-7-19|Jn 7:19]]\n[^B]: [[John-1-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

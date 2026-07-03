@@ -1,0 +1,1 @@
+(function(){var b="fd181fd91509",m="# Genesis 38:22 (New International Version)\nSo he went back to Judah and said, \"I didn't find her. Besides, the men who lived there said, 'There hasn't been any shrine prostitute here.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

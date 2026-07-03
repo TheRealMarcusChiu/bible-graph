@@ -1,0 +1,1 @@
+(function(){var b="c28306702f59",m="# John 6:32 (New International Version)\nJesus said to them, \"Very truly I tell you, it is not Moses who has given you the bread from heaven, but it is my Father who gives you the true bread from heaven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

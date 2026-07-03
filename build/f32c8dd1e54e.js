@@ -1,0 +1,1 @@
+(function(){var b="f32c8dd1e54e",m="# 1 Corinthians 12:5 (New International Version)\nThere are different kinds of service, but the same Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

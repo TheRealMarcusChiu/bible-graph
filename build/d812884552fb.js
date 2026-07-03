@@ -1,0 +1,1 @@
+(function(){var b="d812884552fb",m="# John 4:6 (New International Version)\nJacob's well was there, and Jesus, tired as he was from the journey, sat down by the well. It was about noon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

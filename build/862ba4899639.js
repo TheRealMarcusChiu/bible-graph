@@ -1,0 +1,1 @@
+(function(){var b="862ba4899639",m="# Genesis 28:10 (New International Version)\nJacob's Dream at Bethel\nJacob left Beersheba[^A] and set out for Harran.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-21-14|Ge 21:14]]\n[^B]: S [[Gen-11-31|Ge 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

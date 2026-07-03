@@ -1,0 +1,1 @@
+(function(){var b="cac1fa83826a",m="# Romans 1:12 (New International Version)\nthat is, that you and I may be mutually encouraged by each other's faith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

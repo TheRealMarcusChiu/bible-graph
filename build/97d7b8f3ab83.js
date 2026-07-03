@@ -1,0 +1,1 @@
+(function(){var b="97d7b8f3ab83",m="# Numbers 26:32 (New International Version)\nthrough Shemida, the Shemidaite clan;\nthrough Hepher, the Hepherite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

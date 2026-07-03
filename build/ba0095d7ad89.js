@@ -1,0 +1,1 @@
+(function(){var b="ba0095d7ad89",m="# Numbers 27:9 (New International Version)\nIf he has no daughter, give his inheritance to his brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

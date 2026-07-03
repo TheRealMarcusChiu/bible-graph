@@ -1,0 +1,1 @@
+(function(){var b="cf6342ba3535",m="# Revelation 7:4 (New International Version)\nThen I heard the number[^A] of those who were sealed: 144,000[^B] from all the tribes of Israel.\n\n### Crossrefs\n[^A]: [[Rev-9-16|Rev 9:16]]\n[^B]: [[Rev-14-1|Rev 14:1]], [[Rev-14-3|3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

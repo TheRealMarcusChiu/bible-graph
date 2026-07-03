@@ -1,0 +1,1 @@
+(function(){var b="5fca6dce2faf",m="# Exodus 32:26 (New International Version)\nSo he stood at the entrance to the camp and said, \"Whoever is for the LORD, come to me.\" And all the Levites rallied to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

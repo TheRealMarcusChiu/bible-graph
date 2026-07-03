@@ -1,0 +1,1 @@
+(function(){var b="d2ac58e4222f",m="# Joshua 9:25 (New International Version)\nWe are now in your hands.[^A] Do to us whatever seems good and right[^B] to you.\"\n\n### Crossrefs\n[^A]: [[Gen-16-6|Ge 16:6]]\n[^B]: [[Jer-26-14|Jer 26:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

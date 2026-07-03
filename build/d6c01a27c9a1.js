@@ -1,0 +1,1 @@
+(function(){var b="d6c01a27c9a1",m="# Luke 22:34 (New International Version)\nJesus answered, \"I tell you, Peter, before the rooster crows today, you will deny three times that you know me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

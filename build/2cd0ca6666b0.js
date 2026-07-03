@@ -1,0 +1,1 @@
+(function(){var b="2cd0ca6666b0",m="# Revelation 10:3 (New International Version)\nand he gave a loud shout like the roar of a lion.[^A] When he shouted, the voices of the seven thunders[^B] spoke. \n\n### Crossrefs\n[^A]: [[Hos-11-10|Hos 11:10]]\n[^B]: [[Rev-4-5|Rev 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

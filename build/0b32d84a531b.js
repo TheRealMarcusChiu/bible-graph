@@ -1,0 +1,1 @@
+(function(){var b="0b32d84a531b",m="# Numbers 10:34 (New International Version)\nThe cloud of the LORD was over them by day when they set out from the camp.[^A]\n\n### Crossrefs\n[^A]: [[Num-9-15|Nu 9:15-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

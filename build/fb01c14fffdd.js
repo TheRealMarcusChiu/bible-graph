@@ -1,0 +1,1 @@
+(function(){var b="fb01c14fffdd",m="# 1 Corinthians 14:30 (New International Version)\nAnd if a revelation comes to someone who is sitting down, the first speaker should stop.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

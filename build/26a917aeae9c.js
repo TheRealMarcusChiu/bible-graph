@@ -1,0 +1,1 @@
+(function(){var b="26a917aeae9c",m="# Genesis 30:29 (New International Version)\nJacob said to him, \"You know how I have worked for you[^A] and how your livestock has fared under my care.[^B] \n\n### Crossrefs\n[^A]: [[Gen-31-6|Ge 31:6]]\n[^B]: [[Gen-31-38|Ge 31:38-40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

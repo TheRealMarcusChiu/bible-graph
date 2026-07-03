@@ -1,0 +1,1 @@
+(function(){var b="58ce287284cb",m="# Deuteronomy 20:9 (New International Version)\nWhen the officers have finished speaking to the army, they shall appoint commanders over it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

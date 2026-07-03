@@ -1,0 +1,1 @@
+(function(){var b="cf8ccfb4751a",m="# Luke 9:40 (New International Version)\nI begged your disciples to drive it out, but they could not.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

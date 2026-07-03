@@ -1,0 +1,1 @@
+(function(){var b="63e5bec9a873",m="# John 1:22 (New International Version)\nFinally they said, \"Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

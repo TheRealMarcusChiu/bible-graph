@@ -1,0 +1,1 @@
+(function(){var b="9237fc019054",m="# 1 Corinthians 7:9 (New International Version)\nBut if they cannot control themselves, they should marry,[^A] for it is better to marry than to burn with passion.\n\n### Crossrefs\n[^A]: [[1Tim-5-14|1Ti 5:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

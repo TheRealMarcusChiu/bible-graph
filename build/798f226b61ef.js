@@ -1,0 +1,1 @@
+(function(){var b="798f226b61ef",m="# Deuteronomy 28:43 (New International Version)\nThe foreigners who reside among you will rise above you higher and higher, but you will sink lower and lower.[^A] \n\n### Crossrefs\n[^A]: [[Deut-28-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

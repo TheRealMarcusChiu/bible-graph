@@ -1,0 +1,1 @@
+(function(){var b="13faee5c3027",m="# John 7:32 (New International Version)\nThe Pharisees heard the crowd whispering such things about him. Then the chief priests and the Pharisees sent temple guards to arrest him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

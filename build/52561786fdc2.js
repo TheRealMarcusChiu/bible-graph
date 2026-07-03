@@ -1,0 +1,1 @@
+(function(){var b="52561786fdc2",m="# Ephesians 6:7 (New International Version)\nServe wholeheartedly, as if you were serving the Lord, not people,[^A] \n\n### Crossrefs\n[^A]: [[Col-3-23|Col 3:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

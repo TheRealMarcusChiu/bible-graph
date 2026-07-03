@@ -1,0 +1,1 @@
+(function(){var b="79f7b7372a0b",m="# Leviticus 13:48 (New International Version)\nany woven or knitted material of linen or wool, any leather or anything made of leather--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

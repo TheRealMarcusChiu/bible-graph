@@ -1,0 +1,1 @@
+(function(){var b="4ab7552cf0d2",m="# John 21:21 (New International Version)\nWhen Peter saw him, he asked, \"Lord, what about him?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

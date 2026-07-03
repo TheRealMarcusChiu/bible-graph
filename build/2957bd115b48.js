@@ -1,0 +1,1 @@
+(function(){var b="2957bd115b48",m="# Genesis 17:24 (New International Version)\nAbraham was ninety-nine years old[^A] when he was circumcised,[^B] \n\n### Crossrefs\n[^A]: S [[Gen-12-4|Ge 12:4]]\n[^B]: [[Rom-4-11|Ro 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

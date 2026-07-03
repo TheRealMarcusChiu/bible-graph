@@ -1,0 +1,1 @@
+(function(){var b="a4257e8f730c",m="# Colossians 4:2 (New International Version)\nFurther Instructions\nDevote yourselves to prayer,[^A] being watchful and thankful. \n\n### Crossrefs\n[^A]: S [[Luke-18-1|Lk 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

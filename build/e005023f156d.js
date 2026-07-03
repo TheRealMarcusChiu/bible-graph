@@ -1,0 +1,1 @@
+(function(){var b="e005023f156d",m="# Luke 11:53 (New International Version)\nWhen Jesus went outside, the Pharisees and the teachers of the law began to oppose him fiercely and to besiege him with questions,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

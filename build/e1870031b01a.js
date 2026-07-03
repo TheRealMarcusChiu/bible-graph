@@ -1,0 +1,1 @@
+(function(){var b="e1870031b01a",m="# Leviticus 9:20 (New International Version)\nthese they laid on the breasts, and then Aaron burned the fat on the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

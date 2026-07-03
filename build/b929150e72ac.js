@@ -1,0 +1,1 @@
+(function(){var b="b929150e72ac",m="# 1 Corinthians 1:15 (New International Version)\nso no one can say that you were baptized in my name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

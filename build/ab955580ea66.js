@@ -1,0 +1,1 @@
+(function(){var b="ab955580ea66",m="# Matthew 10:8 (New International Version)\nHeal the sick, raise the dead, cleanse those who have leprosy, drive out demons. Freely you have received; freely give.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

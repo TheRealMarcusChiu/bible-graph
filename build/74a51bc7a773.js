@@ -1,0 +1,1 @@
+(function(){var b="74a51bc7a773",m="# 2 Peter 2:7 (New International Version)\nand if he rescued Lot,[^A] a righteous man, who was distressed by the depraved conduct of the lawless[^B] \n\n### Crossrefs\n[^A]: [[Gen-19-16|Ge 19:16]]\n[^B]: [[2Pet-3-17|2Pe 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

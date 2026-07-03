@@ -1,0 +1,1 @@
+(function(){var b="0237ca9c9943",m="# Acts 26:28 (New International Version)\nThen Agrippa said to Paul, \"Do you think that in such a short time you can persuade me to be a Christian?\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-11-26|Ac 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

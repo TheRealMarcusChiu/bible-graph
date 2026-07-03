@@ -1,0 +1,1 @@
+(function(){var b="61093f44eb25",m="# Genesis 34:27 (New International Version)\nThe sons of Jacob came upon the dead bodies and looted the city[^A] where their sister had been defiled.[^B] \n\n### Crossrefs\n[^A]: [[2Kgs-21-14|2Ki 21:14]]\n[^B]: S [[Gen-34-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

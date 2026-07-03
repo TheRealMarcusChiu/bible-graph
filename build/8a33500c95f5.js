@@ -1,0 +1,1 @@
+(function(){var b="8a33500c95f5",m="# Genesis 24:24 (New International Version)\nShe answered him, \"I am the daughter of Bethuel, the son that Milkah bore to Nahor.[^A]\" \n\n### Crossrefs\n[^A]: [[Gen-24-29|ver 29]], [[Gen-24-47|47]]; S [[Gen-11-29|Ge 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

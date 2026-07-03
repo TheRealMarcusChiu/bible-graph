@@ -1,0 +1,1 @@
+(function(){var b="b55d111bde93",m="# Numbers 35:14 (New International Version)\nGive three on this side of the Jordan and three in Canaan as cities of refuge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

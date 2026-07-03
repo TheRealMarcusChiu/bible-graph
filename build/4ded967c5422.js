@@ -1,0 +1,1 @@
+(function(){var b="4ded967c5422",m="# Leviticus 13:22 (New International Version)\nIf it is spreading in the skin, the priest shall pronounce them unclean; it is a defiling disease.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

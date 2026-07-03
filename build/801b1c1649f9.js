@@ -1,0 +1,1 @@
+(function(){var b="801b1c1649f9",m="# 1 Corinthians 6:3 (New International Version)\nDo you not know that we will judge angels? How much more the things of this life!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

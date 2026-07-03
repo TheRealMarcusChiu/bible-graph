@@ -1,0 +1,1 @@
+(function(){var b="f54685225cec",m="# 1 John 4:8 (New International Version)\nWhoever does not love does not know God, because God is love.[^A] \n\n### Crossrefs\n[^A]: [[1John-4-7|ver 7]], [[1John-4-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="51bc4a99ada9",m="# Leviticus 27:16 (New International Version)\n\"'If anyone dedicates to the LORD part of their family land, its value is to be set according to the amount of seed required for it--fifty shekels of silver to a homer of barley seed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8347b75e697d",m="# Numbers 21:12 (New International Version)\nFrom there they moved on and camped in the Zered Valley.[^A] \n\n### Crossrefs\n[^A]: [[Deut-2-13|Dt 2:13]], [[Deut-2-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

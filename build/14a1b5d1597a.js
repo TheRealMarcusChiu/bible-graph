@@ -1,0 +1,1 @@
+(function(){var b="14a1b5d1597a",m="# Luke 22:28 (New International Version)\nYou are those who have stood by me in my trials.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

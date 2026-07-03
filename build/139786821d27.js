@@ -1,0 +1,1 @@
+(function(){var b="139786821d27",m="# Genesis 21:29 (New International Version)\nand Abimelek asked Abraham, \"What is the meaning of these seven ewe lambs you have set apart by themselves?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

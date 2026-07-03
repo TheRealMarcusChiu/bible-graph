@@ -1,0 +1,1 @@
+(function(){var b="5c52bcac023c",m="# Matthew 12:43 (New International Version)\n\"When an impure spirit comes out of a person, it goes through arid places seeking rest and does not find it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

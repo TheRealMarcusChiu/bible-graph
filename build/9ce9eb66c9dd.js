@@ -1,0 +1,1 @@
+(function(){var b="9ce9eb66c9dd",m="# Philemon 18 (New International Version)\nIf he has done you any wrong or owes you anything, charge it to me.[^A] \n\n### Crossrefs\n[^A]: [[Gen-43-9|Ge 43:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

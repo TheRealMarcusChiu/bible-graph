@@ -1,0 +1,1 @@
+(function(){var b="deec2ed6bc2f",m="# Mark 12:21 (New International Version)\nThe second one married the widow, but he also died, leaving no child. It was the same with the third.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

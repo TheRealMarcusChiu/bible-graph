@@ -1,0 +1,1 @@
+(function(){var b="bcd2467e416c",m="# Genesis 36:19 (New International Version)\nThese were the sons of Esau[^A] (that is, Edom),[^B] and these were their chiefs.[^C]\n\n### Crossrefs\n[^A]: [[1Chr-1-35|1Ch 1:35]]\n[^B]: S [[Gen-25-30|Ge 25:30]]\n[^C]: S [[Gen-36-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

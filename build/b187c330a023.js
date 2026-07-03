@@ -1,0 +1,1 @@
+(function(){var b="b187c330a023",m="# Matthew 26:7 (New International Version)\na woman came to him with an alabaster jar of very expensive perfume, which she poured on his head as he was reclining at the table.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2dcb5bae91d4",m="# 1 Thessalonians 3:4 (New International Version)\nIn fact, when we were with you, we kept telling you that we would be persecuted. And it turned out that way, as you well know.[^A] \n\n### Crossrefs\n[^A]: [[1Thess-2-14|1Th 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

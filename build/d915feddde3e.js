@@ -1,0 +1,1 @@
+(function(){var b="d915feddde3e",m="# Exodus 26:15 (New International Version)\n\"Make upright frames of acacia wood for the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

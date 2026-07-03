@@ -1,0 +1,1 @@
+(function(){var b="1d21e6490a55",m="# Mark 14:46 (New International Version)\nThe men seized Jesus and arrested him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e86033e3a345",m="# Deuteronomy 6:23 (New International Version)\nBut he brought us out from there to bring us in and give us the land he promised on oath to our ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

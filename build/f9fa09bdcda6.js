@@ -1,0 +1,1 @@
+(function(){var b="f9fa09bdcda6",m="# Exodus 29:35 (New International Version)\n\"Do for Aaron and his sons everything I have commanded you, taking seven days to ordain them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

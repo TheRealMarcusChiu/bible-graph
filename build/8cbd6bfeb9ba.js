@@ -1,0 +1,1 @@
+(function(){var b="8cbd6bfeb9ba",m="# Acts 1:1 (New International Version)\nJesus Taken Up Into Heaven\nIn my former book,[^A] Theophilus, I wrote about all that Jesus began to do and to teach[^B] \n\n### Crossrefs\n[^A]: [[Luke-1-1|Lk 1:1-4]]\n[^B]: [[Luke-3-23|Lk 3:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

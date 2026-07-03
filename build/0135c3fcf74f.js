@@ -1,0 +1,1 @@
+(function(){var b="0135c3fcf74f",m="# Numbers 26:43 (New International Version)\nAll of them were Shuhamite clans; and those numbered were 64,400.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

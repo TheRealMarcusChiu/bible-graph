@@ -1,0 +1,1 @@
+(function(){var b="e401bb59bdbc",m="# Leviticus 23:30 (New International Version)\nI will destroy from among their people[^A] anyone who does any work on that day. \n\n### Crossrefs\n[^A]: S [[Lev-20-3|Lev 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

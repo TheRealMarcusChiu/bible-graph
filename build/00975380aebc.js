@@ -1,0 +1,1 @@
+(function(){var b="00975380aebc",m="# Revelation 22\n\nJohn's apocalypse -- letters to seven churches and visions of God's final victory and the new creation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

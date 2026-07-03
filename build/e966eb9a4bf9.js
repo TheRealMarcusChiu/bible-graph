@@ -1,0 +1,1 @@
+(function(){var b="e966eb9a4bf9",m="# Luke 20:15 (New International Version)\nSo they threw him out of the vineyard and killed him.\n\"What then will the owner of the vineyard do to them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

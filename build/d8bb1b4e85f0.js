@@ -1,0 +1,1 @@
+(function(){var b="d8bb1b4e85f0",m="# Exodus 25:25 (New International Version)\nAlso make around it a rim a handbreadth wide and put a gold molding on the rim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

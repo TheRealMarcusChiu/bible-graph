@@ -1,0 +1,1 @@
+(function(){var b="1f29390b25e4",m="# Luke 20:8 (New International Version)\nJesus said, \"Neither will I tell you by what authority I am doing these things.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

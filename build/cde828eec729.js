@@ -1,0 +1,1 @@
+(function(){var b="cde828eec729",m="# Judges 1:12 (New International Version)\nAnd Caleb said, \"I will give my daughter Aksah in marriage to the man who attacks and captures Kiriath Sepher.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

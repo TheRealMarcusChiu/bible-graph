@@ -1,0 +1,1 @@
+(function(){var b="06828efee3df",m="# 1 Corinthians 12:23 (New International Version)\nand the parts that we think are less honorable we treat with special honor. And the parts that are unpresentable are treated with special modesty,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

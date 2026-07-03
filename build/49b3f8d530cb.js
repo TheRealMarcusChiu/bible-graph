@@ -1,0 +1,1 @@
+(function(){var b="49b3f8d530cb",m="# 2 Corinthians 10:17 (New International Version)\nBut, \"Let the one who boasts boast in the Lord.\"[^A] \n\n### Crossrefs\n[^A]: [[Jer-9-24|Jer 9:24]]; [[Ps-34-2|Ps 34:2]]; [[Ps-44-8|44:8]]; [[1Cor-1-31|1Co 1:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

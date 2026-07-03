@@ -1,0 +1,1 @@
+(function(){var b="f817a8379f84",m="# Luke 7:43 (New International Version)\nSimon replied, \"I suppose the one who had the bigger debt forgiven.\"\n\"You have judged correctly,\" Jesus said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

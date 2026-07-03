@@ -1,0 +1,1 @@
+(function(){var b="b69a57c66a69",m="# Numbers 31:33 (New International Version)\n72,000 cattle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

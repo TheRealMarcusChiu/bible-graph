@@ -1,0 +1,1 @@
+(function(){var b="a66b06f74fd3",m="# Genesis 24:21 (New International Version)\nWithout saying a word, the man watched her closely to learn whether or not the LORD had made his journey successful.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-24-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

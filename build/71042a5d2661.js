@@ -1,0 +1,1 @@
+(function(){var b="71042a5d2661",m="# Joshua 15:59 (New International Version)\nMaarath, Beth Anoth and Eltekon--six towns and their villages.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

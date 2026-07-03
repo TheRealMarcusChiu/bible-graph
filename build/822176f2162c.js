@@ -1,0 +1,1 @@
+(function(){var b="822176f2162c",m="# Numbers 13:14 (New International Version)\nfrom the tribe of Naphtali, Nahbi son of Vophsi;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

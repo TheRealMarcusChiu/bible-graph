@@ -1,0 +1,1 @@
+(function(){var b="0f52f39a9ce3",m="# Luke 14:18 (New International Version)\n\"But they all alike began to make excuses. The first said, 'I have just bought a field, and I must go and see it. Please excuse me.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

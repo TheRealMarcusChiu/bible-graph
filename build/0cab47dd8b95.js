@@ -1,0 +1,1 @@
+(function(){var b="0cab47dd8b95",m="# John 7:5 (New International Version)\nFor even his own brothers did not believe in him.[^A]\n\n### Crossrefs\n[^A]: [[Ps-69-8|Ps 69:8]]; [[Mark-3-21|Mk 3:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

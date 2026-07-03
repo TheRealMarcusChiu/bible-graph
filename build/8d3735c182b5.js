@@ -1,0 +1,1 @@
+(function(){var b="8d3735c182b5",m="# Mark 2:22 (New International Version)\nAnd no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into new wineskins.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

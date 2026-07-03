@@ -1,0 +1,1 @@
+(function(){var b="ac29378333fb",m="# Luke 7:20 (New International Version)\nWhen the men came to Jesus, they said, \"John the Baptist sent us to you to ask, 'Are you the one who is to come, or should we expect someone else?'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

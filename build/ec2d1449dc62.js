@@ -1,0 +1,1 @@
+(function(){var b="ec2d1449dc62",m="# Acts 8:21 (New International Version)\nYou have no part or share[^A] in this ministry, because your heart is not right[^B] before God. \n\n### Crossrefs\n[^A]: [[Neh-2-20|Ne 2:20]]\n[^B]: [[Ps-78-37|Ps 78:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

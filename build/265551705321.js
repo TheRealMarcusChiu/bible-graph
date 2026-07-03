@@ -1,0 +1,1 @@
+(function(){var b="265551705321",m="# Colossians 4:4 (New International Version)\nPray that I may proclaim it clearly, as I should.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

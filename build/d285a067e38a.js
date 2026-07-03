@@ -1,0 +1,1 @@
+(function(){var b="d285a067e38a",m="# Exodus 25:5 (New International Version)\nram skins dyed red and another type of durable leather;[^A] acacia wood;[^B] \n\n### Crossrefs\n[^A]: [[Num-4-6|Nu 4:6]], [[Num-4-10|10]]\n[^B]: [[Deut-10-3|Dt 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

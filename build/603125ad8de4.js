@@ -1,0 +1,1 @@
+(function(){var b="603125ad8de4",m="# Matthew 1:14 (New International Version)\nAzor the father of Zadok,\nZadok the father of Akim,\nAkim the father of Elihud,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

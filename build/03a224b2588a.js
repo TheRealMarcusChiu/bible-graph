@@ -1,0 +1,1 @@
+(function(){var b="03a224b2588a",m="# Matthew 1:17 (New International Version)\nThus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

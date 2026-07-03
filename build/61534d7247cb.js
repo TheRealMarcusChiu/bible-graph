@@ -1,0 +1,1 @@
+(function(){var b="61534d7247cb",m="# Numbers 14:32 (New International Version)\nBut as for you, your bodies will fall[^A] in this wilderness. \n\n### Crossrefs\n[^A]: S [[Num-14-29|ver 29]], [[Num-14-35|35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

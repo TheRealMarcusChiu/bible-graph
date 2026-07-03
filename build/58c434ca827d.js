@@ -1,0 +1,1 @@
+(function(){var b="58c434ca827d",m="# Deuteronomy 12:22 (New International Version)\nEat them as you would gazelle or deer.[^A] Both the ceremonially unclean and the clean may eat. \n\n### Crossrefs\n[^A]: S [[Deut-12-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

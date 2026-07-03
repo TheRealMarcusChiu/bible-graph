@@ -1,0 +1,1 @@
+(function(){var b="69cfdf89b399",m="# Ephesians 5:32 (New International Version)\nThis is a profound mystery--but I am talking about Christ and the church.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

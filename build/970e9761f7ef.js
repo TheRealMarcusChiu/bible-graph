@@ -1,0 +1,1 @@
+(function(){var b="970e9761f7ef",m="# Acts 23:25 (New International Version)\nHe wrote a letter as follows:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

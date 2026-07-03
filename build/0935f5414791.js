@@ -1,0 +1,1 @@
+(function(){var b="0935f5414791",m="# Luke 9:6 (New International Version)\nSo they set out and went from village to village, proclaiming the good news and healing people everywhere.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

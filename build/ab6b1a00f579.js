@@ -1,0 +1,1 @@
+(function(){var b="ab6b1a00f579",m="# Luke 1:8 (New International Version)\nOnce when Zechariah's division was on duty and he was serving as priest before God,[^A] \n\n### Crossrefs\n[^A]: [[1Chr-24-19|1Ch 24:19]]; [[2Chr-8-14|2Ch 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

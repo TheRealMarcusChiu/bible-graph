@@ -1,0 +1,1 @@
+(function(){var b="02ed340005d3",m="# Mark 12:22 (New International Version)\nIn fact, none of the seven left any children. Last of all, the woman died too.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

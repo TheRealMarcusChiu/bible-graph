@@ -1,0 +1,1 @@
+(function(){var b="920fd36b255a",m="# Exodus 3:9 (New International Version)\nAnd now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing[^A] them. \n\n### Crossrefs\n[^A]: S [[Exod-1-14|Ex 1:14]]; S [[Num-10-9|Nu 10:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

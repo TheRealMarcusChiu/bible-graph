@@ -1,0 +1,1 @@
+(function(){var b="8c456519b5cf",m="# Numbers 7:47 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Eliasaph son of Deuel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

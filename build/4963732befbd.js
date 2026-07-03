@@ -1,0 +1,1 @@
+(function(){var b="4963732befbd",m="# Judges 6:18 (New International Version)\nPlease do not go away until I come back and bring my offering and set it before you.\"\nAnd the LORD said, \"I will wait until you return.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

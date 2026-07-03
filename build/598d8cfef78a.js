@@ -1,0 +1,1 @@
+(function(){var b="598d8cfef78a",m="# Luke 2:6 (New International Version)\nWhile they were there, the time came for the baby to be born,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

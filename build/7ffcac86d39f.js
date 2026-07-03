@@ -1,0 +1,1 @@
+(function(){var b="7ffcac86d39f",m="# Exodus 26:3 (New International Version)\nJoin five of the curtains together, and do the same with the other five.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

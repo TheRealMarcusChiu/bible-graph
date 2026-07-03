@@ -1,0 +1,1 @@
+(function(){var b="eaa1cf541053",m="# Numbers 22:39 (New International Version)\nThen Balaam went with Balak to Kiriath Huzoth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

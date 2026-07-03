@@ -1,0 +1,1 @@
+(function(){var b="8f2f035e1a22",m="# Leviticus 11:3 (New International Version)\nYou may eat any animal that has a divided hoof and that chews the cud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

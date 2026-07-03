@@ -1,0 +1,1 @@
+(function(){var b="0232bf2e78c0",m="# Genesis 10:5 (New International Version)\n(From these the maritime peoples spread out into their territories by their clans within their nations, each with its own language.)[^A]\n\n### Crossrefs\n[^A]: [[Gen-9-27|Ge 9:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

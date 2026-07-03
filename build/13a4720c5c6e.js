@@ -1,0 +1,1 @@
+(function(){var b="13a4720c5c6e",m="# Numbers 19:15 (New International Version)\nand every open container[^A] without a lid fastened on it will be unclean.\n\n### Crossrefs\n[^A]: S [[Lev-6-28|Lev 6:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

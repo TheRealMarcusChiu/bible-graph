@@ -1,0 +1,1 @@
+(function(){var b="6acf71ce96c8",m="# Leviticus 8:27 (New International Version)\nHe put all these in the hands of Aaron and his sons, and they waved them before the LORD[^A] as a wave offering. \n\n### Crossrefs\n[^A]: [[Num-5-25|Nu 5:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

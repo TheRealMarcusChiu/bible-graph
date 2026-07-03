@@ -1,0 +1,1 @@
+(function(){var b="c1c15a031df8",m="# 1 Corinthians 12:15 (New International Version)\nNow if the foot should say, \"Because I am not a hand, I do not belong to the body,\" it would not for that reason stop being part of the body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

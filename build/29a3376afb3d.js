@@ -1,0 +1,1 @@
+(function(){var b="29a3376afb3d",m="# Leviticus 13:58 (New International Version)\nAny fabric, woven or knitted material, or any leather article that has been washed and is rid of the mold, must be washed again. Then it will be clean.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eae1b6fc80af",m="# Matthew 15:35 (New International Version)\nHe told the crowd to sit down on the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

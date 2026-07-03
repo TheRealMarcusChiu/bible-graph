@@ -1,0 +1,1 @@
+(function(){var b="0ab7e1366764",m="# Matthew 24:26 (New International Version)\n\"So if anyone tells you, 'There he is, out in the wilderness,' do not go out; or, 'Here he is, in the inner rooms,' do not believe it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

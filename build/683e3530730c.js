@@ -1,0 +1,1 @@
+(function(){var b="683e3530730c",m="# Leviticus 13:41 (New International Version)\nIf he has lost his hair from the front of his scalp and has a bald forehead, he is clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

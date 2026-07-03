@@ -1,0 +1,1 @@
+(function(){var b="a42daf94aa8c",m="# Genesis 21:26 (New International Version)\nBut Abimelek said, \"I don't know who has done this. You did not tell me, and I heard about it only today.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

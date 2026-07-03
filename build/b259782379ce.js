@@ -1,0 +1,1 @@
+(function(){var b="b259782379ce",m="# John 6:56 (New International Version)\nWhoever eats my flesh and drinks my blood remains in me, and I in them.[^A] \n\n### Crossrefs\n[^A]: [[John-15-4|Jn 15:4-7]]; [[1John-2-24|1Jn 2:24]]; [[1John-3-24|3:24]]; [[1John-4-15|4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c09c88f1092",m="# Deuteronomy 3:7 (New International Version)\nBut all the livestock[^A] and the plunder from their cities we carried off for ourselves.\n\n### Crossrefs\n[^A]: [[Deut-2-35|Dt 2:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dfeafe815b43",m="# Exodus 26:18 (New International Version)\nMake twenty frames for the south side of the tabernacle";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

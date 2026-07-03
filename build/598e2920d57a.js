@@ -1,0 +1,1 @@
+(function(){var b="598e2920d57a",m="# Luke 14:22 (New International Version)\n\"'Sir,' the servant said, 'what you ordered has been done, but there is still room.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0d7b15721d23",m="# Revelation 2:28 (New International Version)\nI will also give that one the morning star.[^A] \n\n### Crossrefs\n[^A]: [[Rev-22-16|Rev 22:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

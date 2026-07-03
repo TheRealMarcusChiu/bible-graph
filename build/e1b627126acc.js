@@ -1,0 +1,1 @@
+(function(){var b="e1b627126acc",m="# Leviticus 15:17 (New International Version)\nAny clothing or leather that has semen on it must be washed with water, and it will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

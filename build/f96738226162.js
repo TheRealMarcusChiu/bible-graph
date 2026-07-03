@@ -1,0 +1,1 @@
+(function(){var b="f96738226162",m="# Acts 27:16 (New International Version)\nAs we passed to the lee of a small island called Cauda, we were hardly able to make the lifeboat[^A] secure, \n\n### Crossrefs\n[^A]: [[Acts-27-30|ver 30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

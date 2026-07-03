@@ -1,0 +1,1 @@
+(function(){var b="6913bc06323d",m="# Exodus 39:6 (New International Version)\nThey mounted the onyx stones in gold filigree settings and engraved them like a seal with the names of the sons of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

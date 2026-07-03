@@ -1,0 +1,1 @@
+(function(){var b="140bf6e3be94",m="# Matthew 13:3 (New International Version)\nThen he told them many things in parables, saying: \"A farmer went out to sow his seed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

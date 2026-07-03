@@ -1,0 +1,1 @@
+(function(){var b="934ff107acc5",m="# Luke 5:6 (New International Version)\nWhen they had done so, they caught such a large number of fish that their nets began to break.[^A] \n\n### Crossrefs\n[^A]: [[John-21-11|Jn 21:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

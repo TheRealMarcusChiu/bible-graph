@@ -1,0 +1,1 @@
+(function(){var b="26a3b143c99c",m="# Joshua 19:3 (New International Version)\nHazar Shual,[^A] Balah, Ezem,[^B] \n\n### Crossrefs\n[^A]: S [[Josh-15-28|Jos 15:28]]\n[^B]: S [[Josh-15-29|Jos 15:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

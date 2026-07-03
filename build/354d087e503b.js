@@ -1,0 +1,1 @@
+(function(){var b="354d087e503b",m="# Matthew 8:31 (New International Version)\nThe demons begged Jesus, \"If you drive us out, send us into the herd of pigs.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

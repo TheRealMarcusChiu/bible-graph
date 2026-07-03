@@ -1,0 +1,1 @@
+(function(){var b="79bc91519cea",m="# Matthew 26:9 (New International Version)\n\"This perfume could have been sold at a high price and the money given to the poor.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

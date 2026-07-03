@@ -1,0 +1,1 @@
+(function(){var b="fe555bbc0ca8",m="# Philippians 1:22 (New International Version)\nIf I am to go on living in the body, this will mean fruitful labor for me. Yet what shall I choose? I do not know!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

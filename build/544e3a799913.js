@@ -1,0 +1,1 @@
+(function(){var b="544e3a799913",m="# Matthew 15:13 (New International Version)\nHe replied, \"Every plant that my heavenly Father has not planted[^A] will be pulled up by the roots. \n\n### Crossrefs\n[^A]: [[Isa-60-21|Isa 60:21]]; [[Isa-61-3|61:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

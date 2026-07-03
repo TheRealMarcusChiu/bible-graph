@@ -1,0 +1,1 @@
+(function(){var b="993007dd1369",m="# Exodus 36:24 (New International Version)\nand made forty silver bases to go under them--two bases for each frame, one under each projection.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

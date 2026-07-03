@@ -1,0 +1,1 @@
+(function(){var b="26bb300ce0e2",m="# Ephesians 2\n\nGod's cosmic plan in Christ -- saved by grace, one new humanity, armored for spiritual battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="779a62fd2a20",m="# Mark 5:18 (New International Version)\nAs Jesus was getting into the boat, the man who had been demon-possessed begged to go with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="544f09e6b6b9",m="# Mark 11:30 (New International Version)\nJohn's baptism--was it from heaven, or of human origin? Tell me!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

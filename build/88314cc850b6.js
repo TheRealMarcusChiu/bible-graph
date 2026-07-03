@@ -1,0 +1,1 @@
+(function(){var b="88314cc850b6",m="# Matthew 16:25 (New International Version)\nFor whoever wants to save their life will lose it, but whoever loses their life for me will find it.[^A] \n\n### Crossrefs\n[^A]: S [[John-12-25|Jn 12:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

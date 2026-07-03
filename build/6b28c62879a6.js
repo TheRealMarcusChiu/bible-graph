@@ -1,0 +1,1 @@
+(function(){var b="6b28c62879a6",m="# Acts 19:12 (New International Version)\nso that even handkerchiefs and aprons that had touched him were taken to the sick, and their illnesses were cured[^A] and the evil spirits left them.\n\n### Crossrefs\n[^A]: [[Acts-5-15|Ac 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

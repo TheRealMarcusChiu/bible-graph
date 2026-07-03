@@ -1,0 +1,1 @@
+(function(){var b="816491f04c39",m="# Mark 12:24 (New International Version)\nJesus replied, \"Are you not in error because you do not know the Scriptures[^A] or the power of God? \n\n### Crossrefs\n[^A]: [[2Tim-3-15|2Ti 3:15-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

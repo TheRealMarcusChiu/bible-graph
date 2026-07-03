@@ -1,0 +1,1 @@
+(function(){var b="1a9c51fa5d55",m="# James 3:11 (New International Version)\nCan both fresh water and salt water flow from the same spring?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

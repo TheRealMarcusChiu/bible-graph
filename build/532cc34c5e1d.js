@@ -1,0 +1,1 @@
+(function(){var b="532cc34c5e1d",m="# Romans 12:4 (New International Version)\nFor just as each of us has one body with many members, and these members do not all have the same function,[^A] \n\n### Crossrefs\n[^A]: [[1Cor-12-12|1Co 12:12-14]]; [[Eph-4-16|Eph 4:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

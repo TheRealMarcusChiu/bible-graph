@@ -1,0 +1,1 @@
+(function(){var b="18d00582e3c7",m="# Luke 20:5 (New International Version)\nThey discussed it among themselves and said, \"If we say, 'From heaven,' he will ask, 'Why didn't you believe him?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

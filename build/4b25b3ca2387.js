@@ -1,0 +1,1 @@
+(function(){var b="4b25b3ca2387",m="# Genesis 37:23 (New International Version)\nSo when Joseph came to his brothers, they stripped him of his robe--the ornate robe[^A] he was wearing-- \n\n### Crossrefs\n[^A]: [[Gen-37-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

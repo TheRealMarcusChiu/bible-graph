@@ -1,0 +1,1 @@
+(function(){var b="c6f025b8e9f4",m="# John 13:37 (New International Version)\nPeter asked, \"Lord, why can't I follow you now? I will lay down my life for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

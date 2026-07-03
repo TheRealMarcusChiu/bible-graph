@@ -1,0 +1,1 @@
+(function(){var b="714308c806b3",m="# Mark 15:14 (New International Version)\n\"Why? What crime has he committed?\" asked Pilate.\nBut they shouted all the louder, \"Crucify him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

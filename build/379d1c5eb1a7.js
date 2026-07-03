@@ -1,0 +1,1 @@
+(function(){var b="379d1c5eb1a7",m="# Joshua 10:15 (New International Version)\nThen Joshua returned with all Israel to the camp at Gilgal.[^A]\n\n### Crossrefs\n[^A]: [[Josh-10-43|ver 43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

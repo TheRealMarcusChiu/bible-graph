@@ -1,0 +1,1 @@
+(function(){var b="8879b7a81cef",m="# 2 Corinthians 10\n\nPaul defends his ministry -- strength in weakness, treasure in jars of clay.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

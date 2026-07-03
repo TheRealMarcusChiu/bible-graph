@@ -1,0 +1,1 @@
+(function(){var b="524e717a3d2c",m="# 2 Corinthians 3:12 (New International Version)\nTherefore, since we have such a hope,[^A] we are very bold.[^B] \n\n### Crossrefs\n[^A]: [[Rom-5-4|Ro 5:4]], [[Rom-5-5|5]]; [[Rom-8-24|8:24]], [[Rom-8-25|25]]\n[^B]: S [[Acts-4-29|Ac 4:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

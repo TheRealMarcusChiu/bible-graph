@@ -1,0 +1,1 @@
+(function(){var b="89267da86d5a",m="# Numbers 16:34 (New International Version)\nAt their cries, all the Israelites around them fled, shouting, \"The earth is going to swallow us too!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="827a67c5923c",m="# Acts 21:22 (New International Version)\nWhat shall we do? They will certainly hear that you have come,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

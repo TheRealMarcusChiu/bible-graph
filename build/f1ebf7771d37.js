@@ -1,0 +1,1 @@
+(function(){var b="f1ebf7771d37",m="# Luke 5:37 (New International Version)\nAnd no one pours new wine into old wineskins. Otherwise, the new wine will burst the skins; the wine will run out and the wineskins will be ruined.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

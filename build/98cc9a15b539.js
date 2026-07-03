@@ -1,0 +1,1 @@
+(function(){var b="98cc9a15b539",m="# Deuteronomy 8:13 (New International Version)\nand when your herds and flocks grow large and your silver and gold increase and all you have is multiplied,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

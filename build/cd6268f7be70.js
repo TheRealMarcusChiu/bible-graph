@@ -1,0 +1,1 @@
+(function(){var b="cd6268f7be70",m="# Numbers 16:36 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

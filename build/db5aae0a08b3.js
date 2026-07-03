@@ -1,0 +1,1 @@
+(function(){var b="db5aae0a08b3",m="# Numbers 1:15 (New International Version)\nfrom Naphtali,[^A] Ahira son of Enan.[^B]\"\n\n### Crossrefs\n[^A]: [[Num-1-42|ver 42]]; [[Num-10-27|Nu 10:27]]\n[^B]: [[Num-2-29|Nu 2:29]]; [[Num-7-78|7:78]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

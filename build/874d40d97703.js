@@ -1,0 +1,1 @@
+(function(){var b="874d40d97703",m="# Numbers 21:18 (New International Version)\nabout the well that the princes dug,  \n    that the nobles of the people sank--  \n    the nobles with scepters and staffs.\"\nThen they went from the wilderness to Mattanah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

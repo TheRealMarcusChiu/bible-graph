@@ -1,0 +1,1 @@
+(function(){var b="4c213e9aaed6",m="# Exodus 13:22 (New International Version)\nNeither the pillar of cloud by day nor the pillar of fire by night left[^A] its place in front of the people.\n\n### Crossrefs\n[^A]: [[Neh-9-19|Ne 9:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

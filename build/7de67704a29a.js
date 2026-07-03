@@ -1,0 +1,1 @@
+(function(){var b="7de67704a29a",m="# John 7:40 (New International Version)\nOn hearing his words, some of the people said, \"Surely this man is the Prophet.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-21-11|Mt 21:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

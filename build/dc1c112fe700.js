@@ -1,0 +1,1 @@
+(function(){var b="dc1c112fe700",m="# Colossians 4:13 (New International Version)\nI vouch for him that he is working hard for you and for those at Laodicea[^A] and Hierapolis. \n\n### Crossrefs\n[^A]: S [[Col-2-1|Col 2:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

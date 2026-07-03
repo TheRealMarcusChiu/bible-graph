@@ -1,0 +1,1 @@
+(function(){var b="0436f0dfc7df",m="# Luke 17:19 (New International Version)\nThen he said to him, \"Rise and go; your faith has made you well.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-9-22|Mt 9:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

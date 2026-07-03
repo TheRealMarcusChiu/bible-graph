@@ -1,0 +1,1 @@
+(function(){var b="b1d2678436ee",m="# 1 Timothy 4:16 (New International Version)\nWatch your life and doctrine closely. Persevere in them, because if you do, you will save[^A] both yourself and your hearers.\n\n### Crossrefs\n[^A]: S [[Rom-11-14|Ro 11:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

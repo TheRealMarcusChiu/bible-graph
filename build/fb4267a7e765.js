@@ -1,0 +1,1 @@
+(function(){var b="fb4267a7e765",m="# Acts 5:7 (New International Version)\nAbout three hours later his wife came in, not knowing what had happened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

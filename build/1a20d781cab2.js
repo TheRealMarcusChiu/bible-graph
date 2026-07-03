@@ -1,0 +1,1 @@
+(function(){var b="1a20d781cab2",m="# Exodus 40:11 (New International Version)\nAnoint the basin and its stand and consecrate them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

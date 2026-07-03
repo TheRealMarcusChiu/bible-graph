@@ -1,0 +1,1 @@
+(function(){var b="74ef4ed15b08",m="# John 8:10 (New International Version)\n_Jesus straightened up and asked her, \"Woman, where are they? Has no one condemned you?\"_";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

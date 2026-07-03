@@ -1,0 +1,1 @@
+(function(){var b="7a5c276b2514",m="# Matthew 7:5 (New International Version)\nYou hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother's eye.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

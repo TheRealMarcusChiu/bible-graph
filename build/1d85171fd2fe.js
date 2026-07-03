@@ -1,0 +1,1 @@
+(function(){var b="1d85171fd2fe",m="# Luke 1:36 (New International Version)\nEven Elizabeth your relative is going to have a child[^A] in her old age, and she who was said to be unable to conceive is in her sixth month. \n\n### Crossrefs\n[^A]: [[Luke-1-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

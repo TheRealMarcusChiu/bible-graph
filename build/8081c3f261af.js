@@ -1,0 +1,1 @@
+(function(){var b="8081c3f261af",m="# Luke 24:33 (New International Version)\nThey got up and returned at once to Jerusalem. There they found the Eleven and those with them, assembled together";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="00cd72977122",m="# Leviticus 17:16 (New International Version)\nBut if they do not wash their clothes and bathe themselves, they will be held responsible.[^A]'\"\n\n### Crossrefs\n[^A]: S [[Lev-5-1|Lev 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

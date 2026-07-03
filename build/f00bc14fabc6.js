@@ -1,0 +1,1 @@
+(function(){var b="f00bc14fabc6",m="# Leviticus 7:33 (New International Version)\nThe son of Aaron who offers the blood and the fat of the fellowship offering shall have the right thigh as his share.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

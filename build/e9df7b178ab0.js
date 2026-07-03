@@ -1,0 +1,1 @@
+(function(){var b="e9df7b178ab0",m="# Numbers 7:48 (New International Version)\nOn the seventh day Elishama son of Ammihud,[^A] the leader of the people of Ephraim, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-10|Nu 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

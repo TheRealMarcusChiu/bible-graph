@@ -1,0 +1,1 @@
+(function(){var b="539ce3e3220a",m="# Acts 8:15 (New International Version)\nWhen they arrived, they prayed for the new believers there that they might receive the Holy Spirit,[^A] \n\n### Crossrefs\n[^A]: S [[John-20-22|Jn 20:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

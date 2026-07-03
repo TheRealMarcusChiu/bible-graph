@@ -1,0 +1,1 @@
+(function(){var b="72120ebebae2",m="# Numbers 33:39 (New International Version)\nAaron was a hundred and twenty-three years old when he died on Mount Hor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

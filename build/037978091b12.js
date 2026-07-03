@@ -1,0 +1,1 @@
+(function(){var b="037978091b12",m="# Exodus 8:11 (New International Version)\nThe frogs will leave you and your houses, your officials and your people; they will remain only in the Nile.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

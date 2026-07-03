@@ -1,0 +1,1 @@
+(function(){var b="3ad88799177f",m="# Acts 7:31 (New International Version)\nWhen he saw this, he was amazed at the sight. As he went over to get a closer look, he heard the Lord say:[^A] \n\n### Crossrefs\n[^A]: [[Exod-3-1|Ex 3:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

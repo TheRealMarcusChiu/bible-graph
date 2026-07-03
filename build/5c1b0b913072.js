@@ -1,0 +1,1 @@
+(function(){var b="5c1b0b913072",m="# Genesis 19:27 (New International Version)\nEarly the next morning Abraham got up and returned to the place where he had stood before the LORD.[^A] \n\n### Crossrefs\n[^A]: [[Gen-18-22|Ge 18:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

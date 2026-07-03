@@ -1,0 +1,1 @@
+(function(){var b="756aa26b32a0",m="# Luke 18:26 (New International Version)\nThose who heard this asked, \"Who then can be saved?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

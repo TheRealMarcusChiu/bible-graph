@@ -1,0 +1,1 @@
+(function(){var b="88d0766f376f",m="# Mark 7:20 (New International Version)\nHe went on: \"What comes out of a person is what defiles them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

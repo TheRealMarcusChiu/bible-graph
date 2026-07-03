@@ -1,0 +1,1 @@
+(function(){var b="bfdb17fde37d",m="# Colossians 2:9 (New International Version)\nFor in Christ all the fullness[^A] of the Deity lives in bodily form, \n\n### Crossrefs\n[^A]: S [[John-1-16|Jn 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

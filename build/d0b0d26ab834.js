@@ -1,0 +1,1 @@
+(function(){var b="d0b0d26ab834",m="# Acts 21:2 (New International Version)\nWe found a ship crossing over to Phoenicia,[^A] went on board and set sail. \n\n### Crossrefs\n[^A]: [[Acts-11-19|Ac 11:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c91e6fd3146",m="# Genesis 5:27 (New International Version)\nAltogether, Methuselah lived a total of 969 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

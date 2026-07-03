@@ -1,0 +1,1 @@
+(function(){var b="5ebb95046757",m="# Mark 6:33 (New International Version)\nBut many who saw them leaving recognized them and ran on foot from all the towns and got there ahead of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

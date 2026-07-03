@@ -1,0 +1,1 @@
+(function(){var b="e70c847b7d2d",m="# Joshua 15:36 (New International Version)\nShaaraim,[^A] Adithaim and Gederah[^B] (or Gederothaim)--fourteen towns and their villages.\n\n### Crossrefs\n[^A]: [[1Sam-17-52|1Sa 17:52]]; [[1Chr-4-31|1Ch 4:31]]\n[^B]: [[1Chr-12-4|1Ch 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

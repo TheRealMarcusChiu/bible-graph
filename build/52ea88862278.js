@@ -1,0 +1,1 @@
+(function(){var b="52ea88862278",m="# Genesis 26:27 (New International Version)\nIsaac asked them, \"Why have you come to me, since you were hostile to me and sent me away?[^A]\"\n\n### Crossrefs\n[^A]: S [[Gen-26-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

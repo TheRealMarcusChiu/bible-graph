@@ -1,0 +1,1 @@
+(function(){var b="57ac40722f9a",m="# Luke 10:37 (New International Version)\nThe expert in the law replied, \"The one who had mercy on him.\"\nJesus told him, \"Go and do likewise.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

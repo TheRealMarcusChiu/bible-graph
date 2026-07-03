@@ -1,0 +1,1 @@
+(function(){var b="00a143433d24",m="# Romans 9:28 (New International Version)\nFor the Lord will carry out  \n    his sentence on earth with speed and finality.\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-10-22|Isa 10:22]], [[Isa-10-23|23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

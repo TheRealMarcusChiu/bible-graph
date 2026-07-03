@@ -1,0 +1,1 @@
+(function(){var b="38f698348946",m="# Numbers 1:49 (New International Version)\n\"You must not count the tribe of Levi or include them in the census of the other Israelites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

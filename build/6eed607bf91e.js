@@ -1,0 +1,1 @@
+(function(){var b="6eed607bf91e",m="# Joshua 19:13 (New International Version)\nThen it continued eastward to Gath Hepher[^A] and Eth Kazin; it came out at Rimmon[^B] and turned toward Neah. \n\n### Crossrefs\n[^A]: S [[Josh-11-22|Jos 11:22]]\n[^B]: [[Josh-15-32|Jos 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

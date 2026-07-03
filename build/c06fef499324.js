@@ -1,0 +1,1 @@
+(function(){var b="c06fef499324",m="# Genesis 40:3 (New International Version)\nand put them in custody in the house of the captain of the guard,[^A] in the same prison where Joseph was confined. \n\n### Crossrefs\n[^A]: S [[Gen-37-36|Ge 37:36]]; S [[Gen-39-20|39:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

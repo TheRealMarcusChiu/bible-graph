@@ -1,0 +1,1 @@
+(function(){var b="8961b3682bb2",m="# Luke 13:23 (New International Version)\nSomeone asked him, \"Lord, are only a few people going to be saved?\"\nHe said to them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

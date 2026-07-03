@@ -1,0 +1,1 @@
+(function(){var b="b738a4fe0dee",m="# Luke 15:3 (New International Version)\nThen Jesus told them this parable:[^A] \n\n### Crossrefs\n[^A]: [[Matt-13-3|Mt 13:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b6124d4a3b0",m="# Mark 6:23 (New International Version)\nAnd he promised her with an oath, \"Whatever you ask I will give you, up to half my kingdom.\"[^A]\n\n### Crossrefs\n[^A]: [[Esth-5-3|Est 5:3]], [[Esth-5-6|6]]; [[Esth-7-2|7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

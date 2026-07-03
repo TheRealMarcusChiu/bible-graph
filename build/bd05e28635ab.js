@@ -1,0 +1,1 @@
+(function(){var b="bd05e28635ab",m="# Deuteronomy 5:7 (New International Version)\n\"You shall have no other gods before me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

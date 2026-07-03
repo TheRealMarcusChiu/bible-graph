@@ -1,0 +1,1 @@
+(function(){var b="aa3597957e33",m="# Numbers 30:11 (New International Version)\nand her husband hears about it but says nothing to her and does not forbid her, then all her vows or the pledges by which she obligated herself will stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

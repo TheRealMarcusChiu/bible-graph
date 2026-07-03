@@ -1,0 +1,1 @@
+(function(){var b="378431ca8a5f",m="# Acts 19:18 (New International Version)\nMany of those who believed now came and openly confessed what they had done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

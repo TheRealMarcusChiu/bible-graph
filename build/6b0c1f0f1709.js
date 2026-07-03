@@ -1,0 +1,1 @@
+(function(){var b="6b0c1f0f1709",m="# 1 Corinthians 7:33 (New International Version)\nBut a married man is concerned about the affairs of this world--how he can please his wife--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

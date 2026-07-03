@@ -1,0 +1,1 @@
+(function(){var b="c11234de4703",m="# Matthew 25:19 (New International Version)\n\"After a long time the master of those servants returned and settled accounts with them.[^A] \n\n### Crossrefs\n[^A]: [[Matt-18-23|Mt 18:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

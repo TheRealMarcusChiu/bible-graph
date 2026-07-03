@@ -1,1 +1,0 @@
-(function(){var b="e2397377af6d",m="# Observability\n\nNotes on Observability.\n\n## Linked notes\n\n- [[ingress controllers — Deep Dive]]\n- [[CI-CD — tracing]]\n- [[Infrastructure as Code — SLOs]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

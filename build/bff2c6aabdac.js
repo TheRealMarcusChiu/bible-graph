@@ -1,0 +1,1 @@
+(function(){var b="bff2c6aabdac",m="# Exodus 16:17 (New International Version)\nThe Israelites did as they were told; some gathered much, some little.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

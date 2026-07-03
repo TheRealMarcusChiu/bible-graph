@@ -1,0 +1,1 @@
+(function(){var b="869e4a0b1b58",m="# Numbers 22:26 (New International Version)\nThen the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn, either to the right or to the left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

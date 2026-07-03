@@ -1,0 +1,1 @@
+(function(){var b="733b0b3c9ad3",m="# Galatians 2:13 (New International Version)\nThe other Jews joined him in his hypocrisy, so that by their hypocrisy even Barnabas[^A] was led astray.\n\n### Crossrefs\n[^A]: [[Gal-2-1|ver 1]]; S [[Acts-4-36|Ac 4:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

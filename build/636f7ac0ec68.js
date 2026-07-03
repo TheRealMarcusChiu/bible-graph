@@ -1,0 +1,1 @@
+(function(){var b="636f7ac0ec68",m="# Acts 10:35 (New International Version)\nbut accepts from every nation the one who fears him and does what is right.[^A] \n\n### Crossrefs\n[^A]: [[Acts-15-9|Ac 15:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

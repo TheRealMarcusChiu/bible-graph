@@ -1,0 +1,1 @@
+(function(){var b="b7ab8e93aa8a",m="# Numbers 2:33 (New International Version)\nThe Levites, however, were not counted[^A] along with the other Israelites, as the LORD commanded Moses.\n\n### Crossrefs\n[^A]: [[Num-1-47|Nu 1:47]]; [[Num-26-57|26:57-62]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

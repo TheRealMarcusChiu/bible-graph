@@ -1,0 +1,1 @@
+(function(){var b="a22a44f3b96d",m="# Exodus 25:29 (New International Version)\nAnd make its plates and dishes of pure gold, as well as its pitchers and bowls for the pouring out of offerings.[^A] \n\n### Crossrefs\n[^A]: [[Num-4-7|Nu 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

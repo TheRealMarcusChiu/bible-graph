@@ -1,0 +1,1 @@
+(function(){var b="5ac4840e38b7",m="# Judges 8:12 (New International Version)\nZebah and Zalmunna, the two kings of Midian, fled, but he pursued them and captured them, routing their entire army.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

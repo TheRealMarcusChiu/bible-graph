@@ -1,0 +1,1 @@
+(function(){var b="5eef2ea97b0d",m="# Numbers 5:28 (New International Version)\nIf, however, the woman has not made herself impure, but is clean, she will be cleared of guilt and will be able to have children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

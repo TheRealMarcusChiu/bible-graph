@@ -1,0 +1,1 @@
+(function(){var b="a19c01c7a2fe",m="# Exodus 26:8 (New International Version)\nAll eleven curtains are to be the same size[^A]--thirty cubits long and four cubits wide. \n\n### Crossrefs\n[^A]: [[Exod-26-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

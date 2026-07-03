@@ -1,0 +1,1 @@
+(function(){var b="1b012b37c17e",m="# Matthew 5:23 (New International Version)\n\"Therefore, if you are offering your gift at the altar and there remember that your brother or sister has something against you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

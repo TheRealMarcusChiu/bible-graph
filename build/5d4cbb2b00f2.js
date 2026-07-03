@@ -1,0 +1,1 @@
+(function(){var b="5d4cbb2b00f2",m="# John 15:10 (New International Version)\nIf you keep my commands,[^A] you will remain in my love, just as I have kept my Father's commands and remain in his love. \n\n### Crossrefs\n[^A]: S [[John-14-15|Jn 14:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7830af58cbd0",m="# Luke 22:24 (New International Version)\nA dispute also arose among them as to which of them was considered to be greatest.[^A] \n\n### Crossrefs\n[^A]: [[Mark-9-34|Mk 9:34]]; [[Luke-9-46|Lk 9:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

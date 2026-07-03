@@ -1,0 +1,1 @@
+(function(){var b="830a10ca9d19",m="# Numbers 2:7 (New International Version)\nThe tribe of Zebulun will be next. The leader of the people of Zebulun is Eliab son of Helon.[^A] \n\n### Crossrefs\n[^A]: [[Num-1-9|Nu 1:9]]; [[Num-10-16|10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

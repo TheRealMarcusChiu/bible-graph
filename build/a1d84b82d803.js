@@ -1,0 +1,1 @@
+(function(){var b="a1d84b82d803",m="# Numbers 7:23 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Nethanel son of Zuar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0ab19ff9b0a5",m="# Luke 18:21 (New International Version)\n\"All these I have kept since I was a boy,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

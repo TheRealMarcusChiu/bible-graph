@@ -1,0 +1,1 @@
+(function(){var b="c3532784480d",m="# Romans 2:8 (New International Version)\nBut for those who are self-seeking and who reject the truth and follow evil,[^A] there will be wrath and anger.[^B] \n\n### Crossrefs\n[^A]: [[2Thess-2-12|2Th 2:12]]\n[^B]: [[Ezek-22-31|Eze 22:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

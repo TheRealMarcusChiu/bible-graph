@@ -1,0 +1,1 @@
+(function(){var b="61af2ddd388e",m="# Judges 3:1 (New International Version)\nThese are the nations the LORD left to test[^A] all those Israelites who had not experienced any of the wars in Canaan \n\n### Crossrefs\n[^A]: S [[Exod-15-25|Ex 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

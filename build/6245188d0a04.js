@@ -1,0 +1,1 @@
+(function(){var b="6245188d0a04",m="# Genesis 34:18 (New International Version)\nTheir proposal seemed good to Hamor and his son Shechem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="da320aa93b3c",m="# 1 Peter 4:16 (New International Version)\nHowever, if you suffer as a Christian, do not be ashamed, but praise God that you bear that name.[^A] \n\n### Crossrefs\n[^A]: [[Acts-5-41|Ac 5:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d3cee03f3310",m="# Mark 6:26 (New International Version)\nThe king was greatly distressed, but because of his oaths and his dinner guests, he did not want to refuse her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

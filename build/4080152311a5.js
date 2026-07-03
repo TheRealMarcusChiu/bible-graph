@@ -1,0 +1,1 @@
+(function(){var b="4080152311a5",m="# Hebrews 10:6 (New International Version)\nwith burnt offerings and sin offerings  \n    you were not pleased.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="305034b9c388",m="# Ephesians 4:20 (New International Version)\nThat, however, is not the way of life you learned";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

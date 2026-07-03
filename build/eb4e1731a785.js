@@ -1,0 +1,1 @@
+(function(){var b="eb4e1731a785",m="# Leviticus 23:41 (New International Version)\nCelebrate this as a festival to the LORD for seven days each year. This is to be a lasting ordinance for the generations to come; celebrate it in the seventh month.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

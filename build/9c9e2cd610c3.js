@@ -1,0 +1,1 @@
+(function(){var b="9c9e2cd610c3",m="# Joshua 19:18 (New International Version)\nTheir territory included:\nJezreel,[^A] Kesulloth, Shunem,[^B] \n\n### Crossrefs\n[^A]: S [[Josh-15-56|Jos 15:56]]\n[^B]: [[1Sam-28-4|1Sa 28:4]]; [[1Kgs-1-3|1Ki 1:3]]; [[2Kgs-4-8|2Ki 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

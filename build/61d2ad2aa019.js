@@ -1,0 +1,1 @@
+(function(){var b="61d2ad2aa019",m="# 1 Corinthians 3:21 (New International Version)\nSo then, no more boasting about human leaders![^A] All things are yours,[^B] \n\n### Crossrefs\n[^A]: [[1Cor-4-6|1Co 4:6]]\n[^B]: [[Rom-8-32|Ro 8:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

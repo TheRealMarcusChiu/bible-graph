@@ -1,0 +1,1 @@
+(function(){var b="8d5b7f378e32",m="# Deuteronomy 28:6 (New International Version)\nYou will be blessed when you come in and blessed when you go out.[^A]\n\n### Crossrefs\n[^A]: [[Ps-121-8|Ps 121:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

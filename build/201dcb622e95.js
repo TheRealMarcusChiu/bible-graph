@@ -1,0 +1,1 @@
+(function(){var b="201dcb622e95",m="# Matthew 26:71 (New International Version)\nThen he went out to the gateway, where another servant girl saw him and said to the people there, \"This fellow was with Jesus of Nazareth.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="64d88ea09b3e",m="# John 13:8 (New International Version)\n\"No,\" said Peter, \"you shall never wash my feet.\"\nJesus answered, \"Unless I wash you, you have no part with me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bbb42d29254c",m="# Acts 14:8 (New International Version)\nIn Lystra and Derbe\nIn Lystra there sat a man who was lame. He had been that way from birth[^A] and had never walked. \n\n### Crossrefs\n[^A]: [[Acts-3-2|Ac 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

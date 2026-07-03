@@ -1,0 +1,1 @@
+(function(){var b="bdb1233dcfc9",m="# Judges 1:32 (New International Version)\nThe Asherites lived among the Canaanite inhabitants of the land because they did not drive them out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

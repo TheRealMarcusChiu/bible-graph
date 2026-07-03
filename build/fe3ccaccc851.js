@@ -1,0 +1,1 @@
+(function(){var b="fe3ccaccc851",m="# Luke 3:18 (New International Version)\nAnd with many other words John exhorted the people and proclaimed the good news to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="efe84321f08a",m="# Numbers 34:26 (New International Version)\nPaltiel son of Azzan,\nthe leader from the tribe of Issachar;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

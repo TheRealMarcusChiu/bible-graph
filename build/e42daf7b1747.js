@@ -1,0 +1,1 @@
+(function(){var b="e42daf7b1747",m="# Leviticus 14:15 (New International Version)\nThe priest shall then take some of the log of oil, pour it in the palm of his own left hand,[^A] \n\n### Crossrefs\n[^A]: [[Lev-14-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

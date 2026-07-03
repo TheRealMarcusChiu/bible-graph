@@ -1,0 +1,1 @@
+(function(){var b="fc236d1f7808",m="# Deuteronomy 19:12 (New International Version)\nthe killer shall be sent for by the town elders, be brought back from the city, and be handed over to the avenger of blood to die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

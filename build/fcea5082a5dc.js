@@ -1,0 +1,1 @@
+(function(){var b="fcea5082a5dc",m="# Matthew 11:13 (New International Version)\nFor all the Prophets and the Law prophesied until John.[^A] \n\n### Crossrefs\n[^A]: [[Luke-16-16|Lk 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

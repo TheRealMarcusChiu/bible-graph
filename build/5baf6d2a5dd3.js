@@ -1,0 +1,1 @@
+(function(){var b="5baf6d2a5dd3",m="# Numbers 9:20 (New International Version)\nSometimes the cloud was over the tabernacle only a few days; at the LORD's command they would encamp, and then at his command they would set out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

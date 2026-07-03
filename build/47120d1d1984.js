@@ -1,0 +1,1 @@
+(function(){var b="47120d1d1984",m="# John 1:48 (New International Version)\n\"How do you know me?\" Nathanael asked.\nJesus answered, \"I saw you while you were still under the fig tree before Philip called you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

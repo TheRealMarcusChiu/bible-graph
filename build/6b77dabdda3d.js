@@ -1,0 +1,1 @@
+(function(){var b="6b77dabdda3d",m="# Numbers 26:45 (New International Version)\nand through the descendants of Beriah:\nthrough Heber, the Heberite clan;\nthrough Malkiel, the Malkielite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

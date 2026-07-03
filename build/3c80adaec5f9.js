@@ -1,0 +1,1 @@
+(function(){var b="3c80adaec5f9",m="# Mark 10:51 (New International Version)\n\"What do you want me to do for you?\" Jesus asked him.\nThe blind man said, \"Rabbi,[^A] I want to see.\"\n\n### Crossrefs\n[^A]: S [[Matt-23-7|Mt 23:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

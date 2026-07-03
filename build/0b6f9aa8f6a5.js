@@ -1,0 +1,1 @@
+(function(){var b="0b6f9aa8f6a5",m="# Ephesians 6:24 (New International Version)\nGrace to all who love our Lord Jesus Christ with an undying love.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

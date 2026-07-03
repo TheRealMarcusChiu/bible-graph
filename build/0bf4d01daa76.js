@@ -1,0 +1,1 @@
+(function(){var b="0bf4d01daa76",m="# Judges 9:14 (New International Version)\n\"Finally all the trees said to the thornbush, 'Come and be our king.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

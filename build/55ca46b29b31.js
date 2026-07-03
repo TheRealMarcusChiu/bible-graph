@@ -1,0 +1,1 @@
+(function(){var b="55ca46b29b31",m="# Leviticus 19:1 (New International Version)\nVarious Laws\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

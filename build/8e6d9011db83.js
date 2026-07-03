@@ -1,0 +1,1 @@
+(function(){var b="8e6d9011db83",m="# Leviticus 27:17 (New International Version)\nIf they dedicate a field during the Year of Jubilee, the value that has been set remains.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

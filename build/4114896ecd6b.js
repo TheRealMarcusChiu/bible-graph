@@ -1,0 +1,1 @@
+(function(){var b="4114896ecd6b",m="# 1 Thessalonians 5:13 (New International Version)\nHold them in the highest regard in love because of their work. Live in peace with each other.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-9-50|Mk 9:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

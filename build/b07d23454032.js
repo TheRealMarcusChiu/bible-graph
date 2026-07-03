@@ -1,0 +1,1 @@
+(function(){var b="b07d23454032",m="# Numbers 24:12 (New International Version)\nBalaam answered Balak, \"Did I not tell the messengers you sent me,[^A] \n\n### Crossrefs\n[^A]: [[Num-22-18|Nu 22:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

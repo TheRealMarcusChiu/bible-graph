@@ -1,0 +1,1 @@
+(function(){var b="5c216ce4b620",m="# John 13:22 (New International Version)\nHis disciples stared at one another, at a loss to know which of them he meant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

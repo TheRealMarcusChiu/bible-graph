@@ -1,0 +1,1 @@
+(function(){var b="977d178b262d",m="# Joshua 8:4 (New International Version)\nwith these orders: \"Listen carefully. You are to set an ambush behind the city. Don't go very far from it. All of you be on the alert.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

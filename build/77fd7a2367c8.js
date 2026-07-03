@@ -1,0 +1,1 @@
+(function(){var b="77fd7a2367c8",m="# Luke 19:15 (New International Version)\n\"He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="75d56bcf6384",m="# Exodus 36:12 (New International Version)\nThey also made fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="36fd01a5c3be",m="# Deuteronomy 14:10 (New International Version)\nBut anything that does not have fins and scales you may not eat; for you it is unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

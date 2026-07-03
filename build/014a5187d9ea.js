@@ -1,0 +1,1 @@
+(function(){var b="014a5187d9ea",m="# Ephesians 6:3 (New International Version)\n\"so that it may go well with you and that you may enjoy long life on the earth.\"[^A]\n\n### Crossrefs\n[^A]: [[Exod-20-12|Ex 20:12]]; [[Deut-5-16|Dt 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

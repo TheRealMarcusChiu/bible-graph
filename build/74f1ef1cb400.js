@@ -1,0 +1,1 @@
+(function(){var b="74f1ef1cb400",m="# Acts 5:29 (New International Version)\nPeter and the other apostles replied: \"We must obey God rather than human beings![^A] \n\n### Crossrefs\n[^A]: [[Exod-1-17|Ex 1:17]]; [[Acts-4-19|Ac 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0fdb927bd3da",m="# 1 John 3:20 (New International Version)\nIf our hearts condemn us, we know that God is greater than our hearts, and he knows everything.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

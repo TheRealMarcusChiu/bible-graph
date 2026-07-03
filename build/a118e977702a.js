@@ -1,0 +1,1 @@
+(function(){var b="a118e977702a",m="# Deuteronomy 33:15 (New International Version)\nwith the choicest gifts of the ancient mountains[^A]  \n    and the fruitfulness of the everlasting hills;\n\n### Crossrefs\n[^A]: [[Hab-3-6|Hab 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

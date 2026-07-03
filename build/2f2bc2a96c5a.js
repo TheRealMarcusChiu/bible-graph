@@ -1,0 +1,1 @@
+(function(){var b="2f2bc2a96c5a",m="# Luke 23:36 (New International Version)\nThe soldiers also came up and mocked him.[^A] They offered him wine vinegar[^B] \n\n### Crossrefs\n[^A]: [[Ps-22-7|Ps 22:7]]\n[^B]: [[Ps-69-21|Ps 69:21]]; [[Matt-27-48|Mt 27:48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

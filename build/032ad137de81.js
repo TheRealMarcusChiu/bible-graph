@@ -1,0 +1,1 @@
+(function(){var b="032ad137de81",m="# Acts 26:15 (New International Version)\n\"Then I asked, 'Who are you, Lord?'\n\" 'I am Jesus, whom you are persecuting,' the Lord replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

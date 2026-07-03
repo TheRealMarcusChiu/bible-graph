@@ -1,0 +1,1 @@
+(function(){var b="5f5b534312b3",m="# Exodus 40:10 (New International Version)\nThen anoint the altar of burnt offering and all its utensils; consecrate[^A] the altar, and it will be most holy. \n\n### Crossrefs\n[^A]: S [[Exod-29-36|Ex 29:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

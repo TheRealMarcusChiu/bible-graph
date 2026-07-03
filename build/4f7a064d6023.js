@@ -1,0 +1,1 @@
+(function(){var b="4f7a064d6023",m="# John 20:4 (New International Version)\nBoth were running, but the other disciple outran Peter and reached the tomb first.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

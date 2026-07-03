@@ -1,0 +1,1 @@
+(function(){var b="3498033e5a01",m="# Ephesians 4:26 (New International Version)\n\"In your anger do not sin\":[^A] Do not let the sun go down while you are still angry, \n\n### Crossrefs\n[^A]: [[Ps-4-4|Ps 4:4]]; S [[Matt-5-22|Mt 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

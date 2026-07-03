@@ -1,0 +1,1 @@
+(function(){var b="81db04acdb78",m="# Genesis 19:4 (New International Version)\nBefore they had gone to bed, all the men from every part of the city of Sodom[^A]--both young and old--surrounded the house. \n\n### Crossrefs\n[^A]: S [[Gen-13-13|Ge 13:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

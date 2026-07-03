@@ -1,0 +1,1 @@
+(function(){var b="d039f79d8ea2",m="# Matthew 22:36 (New International Version)\n\"Teacher, which is the greatest commandment in the Law?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

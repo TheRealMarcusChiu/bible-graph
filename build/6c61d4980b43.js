@@ -1,0 +1,1 @@
+(function(){var b="6c61d4980b43",m="# Genesis 32:31 (New International Version)\nThe sun rose above him as he passed Peniel,[^A] and he was limping because of his hip. \n\n### Crossrefs\n[^A]: [[Judg-8-9|Jdg 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

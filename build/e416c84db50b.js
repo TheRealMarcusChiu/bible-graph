@@ -1,0 +1,1 @@
+(function(){var b="e416c84db50b",m="# Mark 3:34 (New International Version)\nThen he looked at those seated in a circle around him and said, \"Here are my mother and my brothers!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="314e479ed0ad",m="# Luke 7:47 (New International Version)\nTherefore, I tell you, her many sins have been forgiven--as her great love has shown. But whoever has been forgiven little loves little.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

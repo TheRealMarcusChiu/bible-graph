@@ -1,0 +1,1 @@
+(function(){var b="a95f55f890c2",m="# John 9:26 (New International Version)\nThen they asked him, \"What did he do to you? How did he open your eyes?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

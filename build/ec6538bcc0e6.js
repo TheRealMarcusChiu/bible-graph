@@ -1,0 +1,1 @@
+(function(){var b="ec6538bcc0e6",m="# Genesis 8:12 (New International Version)\nHe waited seven more days and sent the dove out again, but this time it did not return to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

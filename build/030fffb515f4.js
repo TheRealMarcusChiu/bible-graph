@@ -1,0 +1,1 @@
+(function(){var b="030fffb515f4",m="# Leviticus 10:5 (New International Version)\nSo they came and carried them, still in their tunics,[^A] outside the camp, as Moses ordered.\n\n### Crossrefs\n[^A]: S [[Lev-8-13|Lev 8:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

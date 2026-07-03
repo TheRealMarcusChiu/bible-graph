@@ -1,0 +1,1 @@
+(function(){var b="f83f3e2b6453",m="# Genesis 45:6 (New International Version)\nFor two years now there has been famine[^A] in the land, and for the next five years there will be no plowing and reaping. \n\n### Crossrefs\n[^A]: S [[Gen-41-30|Ge 41:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

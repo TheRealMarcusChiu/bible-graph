@@ -1,0 +1,1 @@
+(function(){var b="a9178876d4fd",m="# Matthew 24:28 (New International Version)\nWherever there is a carcass, there the vultures will gather.[^A]\n\n### Crossrefs\n[^A]: [[Luke-17-37|Lk 17:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

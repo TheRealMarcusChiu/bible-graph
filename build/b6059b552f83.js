@@ -1,0 +1,1 @@
+(function(){var b="b6059b552f83",m="# Genesis 23:1 (New International Version)\nThe Death of Sarah\nSarah lived to be a hundred and twenty-seven years old.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

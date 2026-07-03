@@ -1,0 +1,1 @@
+(function(){var b="1a0970624425",m="# Luke 23:3 (New International Version)\nSo Pilate asked Jesus, \"Are you the king of the Jews?\"\n\"You have said so,\" Jesus replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

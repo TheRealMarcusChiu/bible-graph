@@ -1,0 +1,1 @@
+(function(){var b="94ab4ec099a1",m="# Hebrews 7:24 (New International Version)\nbut because Jesus lives forever, he has a permanent priesthood.[^A] \n\n### Crossrefs\n[^A]: [[Heb-7-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

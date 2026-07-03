@@ -1,0 +1,1 @@
+(function(){var b="d65551fd481e",m="# Matthew 26:74 (New International Version)\nThen he began to call down curses, and he swore to them, \"I don't know the man!\"\nImmediately a rooster crowed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

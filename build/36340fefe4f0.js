@@ -1,0 +1,1 @@
+(function(){var b="36340fefe4f0",m="# John 4:51 (New International Version)\nWhile he was still on the way, his servants met him with the news that his boy was living.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

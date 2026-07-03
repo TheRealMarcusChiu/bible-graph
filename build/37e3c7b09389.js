@@ -1,0 +1,1 @@
+(function(){var b="37e3c7b09389",m="# Mark 7:22 (New International Version)\nadultery, greed,[^A] malice, deceit, lewdness, envy, slander, arrogance and folly. \n\n### Crossrefs\n[^A]: [[Matt-20-15|Mt 20:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

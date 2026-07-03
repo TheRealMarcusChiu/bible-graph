@@ -1,0 +1,1 @@
+(function(){var b="d75242d54201",m="# John 10:32 (New International Version)\nbut Jesus said to them, \"I have shown you many good works from the Father. For which of these do you stone me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

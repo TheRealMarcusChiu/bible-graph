@@ -1,0 +1,1 @@
+(function(){var b="6e5d29bc2376",m="# Numbers 26:60 (New International Version)\nAaron was the father of Nadab and Abihu, Eleazar and Ithamar.[^A] \n\n### Crossrefs\n[^A]: [[Exod-6-23|Ex 6:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

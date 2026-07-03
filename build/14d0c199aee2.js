@@ -1,0 +1,1 @@
+(function(){var b="14d0c199aee2",m="# Numbers 13:5 (New International Version)\nfrom the tribe of Simeon, Shaphat son of Hori;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

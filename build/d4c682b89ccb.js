@@ -1,0 +1,1 @@
+(function(){var b="d4c682b89ccb",m="# Deuteronomy 3:6 (New International Version)\nWe completely destroyed them, as we had done with Sihon king of Heshbon, destroying[^A] every city--men, women and children. \n\n### Crossrefs\n[^A]: [[Deut-2-24|Dt 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ced77c611afb",m="# Exodus 34:23 (New International Version)\nThree times[^A] a year all your men are to appear before the Sovereign LORD, the God of Israel. \n\n### Crossrefs\n[^A]: S [[Exod-23-14|Ex 23:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

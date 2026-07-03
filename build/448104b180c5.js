@@ -1,0 +1,1 @@
+(function(){var b="448104b180c5",m="# Hebrews 6:5 (New International Version)\nwho have tasted the goodness[^A] of the word of God[^B] and the powers of the coming age \n\n### Crossrefs\n[^A]: [[Ps-34-8|Ps 34:8]]\n[^B]: S [[Heb-4-12|Heb 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

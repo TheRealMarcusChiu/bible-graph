@@ -1,0 +1,1 @@
+(function(){var b="7dde526d7f98",m="# 1 Corinthians 12:30 (New International Version)\nDo all have gifts of healing? Do all speak in tongues?[^A] Do all interpret? \n\n### Crossrefs\n[^A]: [[1Cor-12-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

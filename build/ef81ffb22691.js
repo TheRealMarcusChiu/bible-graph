@@ -1,0 +1,1 @@
+(function(){var b="ef81ffb22691",m="# Luke 10:26 (New International Version)\n\"What is written in the Law?\" he replied. \"How do you read it?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

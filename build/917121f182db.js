@@ -1,0 +1,1 @@
+(function(){var b="917121f182db",m="# John 12:49 (New International Version)\nFor I did not speak on my own, but the Father who sent me commanded me[^A] to say all that I have spoken. \n\n### Crossrefs\n[^A]: [[John-14-31|Jn 14:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

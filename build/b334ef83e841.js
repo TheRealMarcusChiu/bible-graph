@@ -1,0 +1,1 @@
+(function(){var b="b334ef83e841",m="# Luke 10:31 (New International Version)\nA priest happened to be going down the same road, and when he saw the man, he passed by on the other side.[^A] \n\n### Crossrefs\n[^A]: [[Lev-21-1|Lev 21:1-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b789a0839a53",m="# Numbers 28:25 (New International Version)\nOn the seventh day hold a sacred assembly and do no regular work.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="72cf2d6aa69f",m="# Acts 8:28 (New International Version)\nand on his way home was sitting in his chariot reading the Book of Isaiah the prophet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

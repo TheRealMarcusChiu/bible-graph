@@ -1,0 +1,1 @@
+(function(){var b="5a7321433018",m="# Acts 11:8 (New International Version)\n\"I replied, 'Surely not, Lord! Nothing impure or unclean has ever entered my mouth.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

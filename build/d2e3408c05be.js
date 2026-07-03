@@ -1,0 +1,1 @@
+(function(){var b="d2e3408c05be",m="# Acts 22:15 (New International Version)\nYou will be his witness[^A] to all people of what you have seen[^B] and heard. \n\n### Crossrefs\n[^A]: [[Acts-23-11|Ac 23:11]]; [[Acts-26-16|26:16]]\n[^B]: [[Acts-22-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

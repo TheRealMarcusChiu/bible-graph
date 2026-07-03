@@ -1,0 +1,1 @@
+(function(){var b="dfd32d47e385",m="# 1 Corinthians 15:49 (New International Version)\nAnd just as we have borne the image of the earthly man,[^A] so shall we bear the image of the heavenly man.[^B]\n\n### Crossrefs\n[^A]: [[Gen-5-3|Ge 5:3]]\n[^B]: S [[Rom-8-29|Ro 8:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

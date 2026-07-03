@@ -1,0 +1,1 @@
+(function(){var b="39438180bb29",m="# Luke 19:14 (New International Version)\n\"But his subjects hated him and sent a delegation after him to say, 'We don't want this man to be our king.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

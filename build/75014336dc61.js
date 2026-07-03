@@ -1,0 +1,1 @@
+(function(){var b="75014336dc61",m="# Matthew 9:16 (New International Version)\n\"No one sews a patch of unshrunk cloth on an old garment, for the patch will pull away from the garment, making the tear worse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

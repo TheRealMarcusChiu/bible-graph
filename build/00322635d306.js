@@ -1,0 +1,1 @@
+(function(){var b="00322635d306",m="# Matthew 12:29 (New International Version)\n\"Or again, how can anyone enter a strong man's house and carry off his possessions unless he first ties up the strong man? Then he can plunder his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="caf80b850248",m="# Mark 2:9 (New International Version)\nWhich is easier: to say to this paralyzed man, 'Your sins are forgiven,' or to say, 'Get up, take your mat and walk'?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

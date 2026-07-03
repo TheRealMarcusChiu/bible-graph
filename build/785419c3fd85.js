@@ -1,0 +1,1 @@
+(function(){var b="785419c3fd85",m="# Hebrews 10:24 (New International Version)\nAnd let us consider how we may spur one another on toward love and good deeds,[^A] \n\n### Crossrefs\n[^A]: S [[Titus-2-14|Tit 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

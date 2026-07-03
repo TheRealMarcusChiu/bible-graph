@@ -1,0 +1,1 @@
+(function(){var b="97e3592ccb92",m="# Mark 1:31 (New International Version)\nSo he went to her, took her hand and helped her up.[^A] The fever left her and she began to wait on them.\n\n### Crossrefs\n[^A]: S [[Luke-7-14|Lk 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="337085307682",m="# Genesis 8:10 (New International Version)\nHe waited seven more days and again sent out the dove from the ark.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

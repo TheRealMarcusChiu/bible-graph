@@ -1,0 +1,1 @@
+(function(){var b="72a3aeafc313",m="# John 8:25 (New International Version)\n\"Who are you?\" they asked.\n\"Just what I have been telling you from the beginning,\" Jesus replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

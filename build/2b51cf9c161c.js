@@ -1,0 +1,1 @@
+(function(){var b="2b51cf9c161c",m="# Mark 6:22 (New International Version)\nWhen the daughter of Herodias came in and danced, she pleased Herod and his dinner guests.\nThe king said to the girl, \"Ask me for anything you want, and I'll give it to you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

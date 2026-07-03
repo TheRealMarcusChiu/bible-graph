@@ -1,0 +1,1 @@
+(function(){var b="9c43e195c3d0",m="# 2 Corinthians 13:8 (New International Version)\nFor we cannot do anything against the truth, but only for the truth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

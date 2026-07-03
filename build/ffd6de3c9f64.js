@@ -1,0 +1,1 @@
+(function(){var b="ffd6de3c9f64",m="# Genesis 3:20 (New International Version)\nAdam named his wife Eve,[^A] because she would become the mother of all the living.\n\n### Crossrefs\n[^A]: S [[Gen-2-20|Ge 2:20]]; [[2Cor-11-3|2Co 11:3]]; [[1Tim-2-13|1Ti 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

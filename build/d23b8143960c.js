@@ -1,0 +1,1 @@
+(function(){var b="d23b8143960c",m="# Joshua 13:29 (New International Version)\nThis is what Moses had given to the half-tribe of Manasseh, that is, to half the family of the descendants of Manasseh, according to its clans:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2ed86a059ee6",m="# Leviticus 20:16 (New International Version)\n\"'If a woman approaches an animal to have sexual relations with it, kill both the woman and the animal. They are to be put to death; their blood will be on their own heads.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

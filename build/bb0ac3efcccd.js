@@ -1,0 +1,1 @@
+(function(){var b="bb0ac3efcccd",m="# Numbers 26:17 (New International Version)\nthrough Arodi, the Arodite clan;\nthrough Areli, the Arelite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

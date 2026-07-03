@@ -1,0 +1,1 @@
+(function(){var b="2420c5a30da9",m="# Luke 14:20 (New International Version)\n\"Still another said, 'I just got married, so I can't come.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

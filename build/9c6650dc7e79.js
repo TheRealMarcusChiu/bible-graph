@@ -1,0 +1,1 @@
+(function(){var b="9c6650dc7e79",m="# Deuteronomy 11:5 (New International Version)\nIt was not your children who saw what he did for you in the wilderness until you arrived at this place,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

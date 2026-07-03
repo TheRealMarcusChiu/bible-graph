@@ -1,0 +1,1 @@
+(function(){var b="23f7d7bc476b",m="# Genesis 10:3 (New International Version)\nThe sons of Gomer:\nAshkenaz,[^A] Riphath and Togarmah.[^B]\n\n### Crossrefs\n[^A]: [[Jer-51-27|Jer 51:27]]\n[^B]: [[Ezek-27-14|Eze 27:14]]; [[Ezek-38-6|38:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

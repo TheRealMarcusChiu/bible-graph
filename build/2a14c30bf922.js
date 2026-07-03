@@ -1,1 +1,0 @@
-(function(){var b="2a14c30bf922",m="# Serverless\n\nNotes on Serverless.\n\n## Linked notes\n\n- [[Observability — tracing (2)]]\n- [[Service Mesh — ingress controllers]]\n- [[tokenization — Tuning]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

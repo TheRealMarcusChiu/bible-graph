@@ -1,0 +1,1 @@
+(function(){var b="811c5866e986",m="# Revelation 22:4 (New International Version)\nThey will see his face,[^A] and his name will be on their foreheads.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-5-8|Mt 5:8]]\n[^B]: S [[Rev-7-3|Rev 7:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

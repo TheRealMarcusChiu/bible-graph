@@ -1,0 +1,1 @@
+(function(){var b="33566a163016",m="# Matthew 25:28 (New International Version)\n\"'So take the bag of gold from him and give it to the one who has ten bags.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

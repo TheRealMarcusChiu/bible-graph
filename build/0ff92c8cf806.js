@@ -1,0 +1,1 @@
+(function(){var b="0ff92c8cf806",m="# John 21:10 (New International Version)\nJesus said to them, \"Bring some of the fish you have just caught.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

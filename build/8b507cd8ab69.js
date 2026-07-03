@@ -1,0 +1,1 @@
+(function(){var b="8b507cd8ab69",m="# John 20:28 (New International Version)\nThomas said to him, \"My Lord and my God!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

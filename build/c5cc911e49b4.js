@@ -1,0 +1,1 @@
+(function(){var b="c5cc911e49b4",m="# Numbers 36:6 (New International Version)\nThis is what the LORD commands for Zelophehad's daughters: They may marry anyone they please as long as they marry within their father's tribal clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="414451226191",m="# Acts 19:23 (New International Version)\nThe Riot in Ephesus\nAbout that time there arose a great disturbance about the Way.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-9-2|Ac 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

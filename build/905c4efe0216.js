@@ -1,0 +1,1 @@
+(function(){var b="905c4efe0216",m="# Deuteronomy 14:11 (New International Version)\nYou may eat any clean bird.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="efdb540fd5c1",m="# Matthew 22:29 (New International Version)\nJesus replied, \"You are in error because you do not know the Scriptures[^A] or the power of God. \n\n### Crossrefs\n[^A]: [[John-20-9|Jn 20:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

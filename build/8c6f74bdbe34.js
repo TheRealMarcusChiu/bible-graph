@@ -1,0 +1,1 @@
+(function(){var b="8c6f74bdbe34",m="# Philippians 1:18 (New International Version)\nBut what does it matter? The important thing is that in every way, whether from false motives or true, Christ is preached. And because of this I rejoice.\nYes, and I will continue to rejoice,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

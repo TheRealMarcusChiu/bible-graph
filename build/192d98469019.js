@@ -1,0 +1,1 @@
+(function(){var b="192d98469019",m="# 1 Peter 3:10 (New International Version)\nFor,\n\"Whoever would love life  \n    and see good days  \nmust keep their tongue from evil  \n    and their lips from deceitful speech.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

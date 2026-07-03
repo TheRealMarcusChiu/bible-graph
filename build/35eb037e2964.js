@@ -1,0 +1,1 @@
+(function(){var b="35eb037e2964",m="# Leviticus 23:44 (New International Version)\nSo Moses announced to the Israelites the appointed festivals of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

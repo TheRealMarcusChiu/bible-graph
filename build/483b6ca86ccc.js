@@ -1,0 +1,1 @@
+(function(){var b="483b6ca86ccc",m="# Exodus 32:3 (New International Version)\nSo all the people took off their earrings and brought them to Aaron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ef97a9485e4c",m="# Numbers 14:15 (New International Version)\nIf you put all these people to death, leaving none alive, the nations who have heard this report about you will say,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

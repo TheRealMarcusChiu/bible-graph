@@ -1,0 +1,1 @@
+(function(){var b="ba6d69aa9f17",m="# Judges 8:25 (New International Version)\nThey answered, \"We'll be glad to give them.\" So they spread out a garment, and each of them threw a ring from his plunder onto it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

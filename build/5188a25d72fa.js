@@ -1,0 +1,1 @@
+(function(){var b="5188a25d72fa",m="# Exodus 28:10 (New International Version)\nin the order of their birth--six names on one stone and the remaining six on the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

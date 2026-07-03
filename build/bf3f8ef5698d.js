@@ -1,0 +1,1 @@
+(function(){var b="bf3f8ef5698d",m="# 1 Corinthians 14:31 (New International Version)\nFor you can all prophesy in turn so that everyone may be instructed and encouraged.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

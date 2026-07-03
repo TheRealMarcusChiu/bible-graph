@@ -1,0 +1,1 @@
+(function(){var b="b0711c144b12",m="# Revelation 5:4 (New International Version)\nI wept and wept because no one was found who was worthy to open the scroll or look inside.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

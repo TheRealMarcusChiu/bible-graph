@@ -1,0 +1,1 @@
+(function(){var b="98ee089e1e17",m="# Acts 6:8 (New International Version)\nStephen Seized\nNow Stephen, a man full of God's grace and power, performed great wonders and signs[^A] among the people. \n\n### Crossrefs\n[^A]: S [[John-4-48|Jn 4:48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

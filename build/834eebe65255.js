@@ -1,0 +1,1 @@
+(function(){var b="834eebe65255",m="# Leviticus 7:24 (New International Version)\nThe fat of an animal found dead or torn by wild animals[^A] may be used for any other purpose, but you must not eat it. \n\n### Crossrefs\n[^A]: S [[Exod-22-31|Ex 22:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

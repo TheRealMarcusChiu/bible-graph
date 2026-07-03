@@ -1,0 +1,1 @@
+(function(){var b="e4fa5b83445d",m="# 1 Corinthians 11:28 (New International Version)\nEveryone ought to examine themselves[^A] before they eat of the bread and drink from the cup. \n\n### Crossrefs\n[^A]: [[2Cor-13-5|2Co 13:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

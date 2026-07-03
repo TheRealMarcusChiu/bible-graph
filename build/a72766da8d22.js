@@ -1,0 +1,1 @@
+(function(){var b="a72766da8d22",m="# Mark 6:42 (New International Version)\nThey all ate and were satisfied,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

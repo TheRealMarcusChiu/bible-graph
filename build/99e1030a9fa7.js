@@ -1,0 +1,1 @@
+(function(){var b="99e1030a9fa7",m="# Exodus 12:44 (New International Version)\nAny slave you have bought may eat it after you have circumcised[^A] him, \n\n### Crossrefs\n[^A]: S [[Gen-17-12|Ge 17:12-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

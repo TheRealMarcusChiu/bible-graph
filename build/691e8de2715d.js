@@ -1,0 +1,1 @@
+(function(){var b="691e8de2715d",m="# Matthew 21:14 (New International Version)\nThe blind and the lame came to him at the temple, and he healed them.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

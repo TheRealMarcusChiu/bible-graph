@@ -1,0 +1,1 @@
+(function(){var b="c5ae8c7c3bc9",m="# Hebrews 7:9 (New International Version)\nOne might even say that Levi, who collects the tenth, paid the tenth through Abraham,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7eb76d6c7182",m="# Hebrews 3:16 (New International Version)\nWho were they who heard and rebelled? Were they not all those Moses led out of Egypt?[^A] \n\n### Crossrefs\n[^A]: [[Num-14-2|Nu 14:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="400c6b436acc",m="# Genesis 31:47 (New International Version)\nLaban called it Jegar Sahadutha, and Jacob called it Galeed.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-21-30|Ge 21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

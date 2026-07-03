@@ -1,0 +1,1 @@
+(function(){var b="58b4e57d30a2",m="# Numbers 1:8 (New International Version)\nfrom Issachar,[^A] Nethanel son of Zuar;[^B]\n\n### Crossrefs\n[^A]: S [[Gen-30-18|Ge 30:18]]; [[Num-10-15|Nu 10:15]]\n[^B]: [[Num-2-5|Nu 2:5]]; [[Num-7-18|7:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

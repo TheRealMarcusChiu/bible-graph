@@ -1,0 +1,1 @@
+(function(){var b="35618dd27db6",m="# Exodus 1:3 (New International Version)\nIssachar, Zebulun and Benjamin;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

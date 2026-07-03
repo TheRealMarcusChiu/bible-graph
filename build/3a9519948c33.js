@@ -1,0 +1,1 @@
+(function(){var b="3a9519948c33",m="# Leviticus 9:11 (New International Version)\nthe flesh and the hide[^A] he burned up outside the camp.[^B]\n\n### Crossrefs\n[^A]: S [[Lev-4-11|Lev 4:11]]\n[^B]: S [[Lev-4-12|Lev 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

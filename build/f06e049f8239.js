@@ -1,0 +1,1 @@
+(function(){var b="f06e049f8239",m="# Judges 2:8 (New International Version)\nJoshua son of Nun,[^A] the servant of the LORD, died at the age of a hundred and ten. \n\n### Crossrefs\n[^A]: [[Josh-1-1|Jos 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

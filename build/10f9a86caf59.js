@@ -1,0 +1,1 @@
+(function(){var b="10f9a86caf59",m="# Judges 2\n\nIsrael's repeated cycle of sin, oppression, and deliverance through judges such as Deborah, Gideon, and Samson.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

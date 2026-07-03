@@ -1,0 +1,1 @@
+(function(){var b="1ad3ae734510",m="# John 6:28 (New International Version)\nThen they asked him, \"What must we do to do the works God requires?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

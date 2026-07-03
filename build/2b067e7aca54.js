@@ -1,0 +1,1 @@
+(function(){var b="2b067e7aca54",m="# Luke 20:26 (New International Version)\nThey were unable to trap him in what he had said there in public. And astonished by his answer, they became silent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

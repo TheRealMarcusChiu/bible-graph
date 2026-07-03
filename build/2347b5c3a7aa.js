@@ -1,0 +1,1 @@
+(function(){var b="2347b5c3a7aa",m="# Luke 21:30 (New International Version)\nWhen they sprout leaves, you can see for yourselves and know that summer is near.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

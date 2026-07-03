@@ -1,0 +1,1 @@
+(function(){var b="a752d80ea18b",m="# Mark 15:20 (New International Version)\nAnd when they had mocked him, they took off the purple robe and put his own clothes on him. Then they led him out[^A] to crucify him.\n\n### Crossrefs\n[^A]: [[Heb-13-12|Heb 13:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

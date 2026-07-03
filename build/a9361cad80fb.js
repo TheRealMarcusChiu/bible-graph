@@ -1,0 +1,1 @@
+(function(){var b="a9361cad80fb",m="# Luke 22:56 (New International Version)\nA servant girl saw him seated there in the firelight. She looked closely at him and said, \"This man was with him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

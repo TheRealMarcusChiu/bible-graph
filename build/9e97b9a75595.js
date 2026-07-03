@@ -1,0 +1,1 @@
+(function(){var b="9e97b9a75595",m="# Mark 11:3 (New International Version)\nIf anyone asks you, 'Why are you doing this?' say, 'The Lord needs it and will send it back here shortly.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

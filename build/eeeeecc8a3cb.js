@@ -1,0 +1,1 @@
+(function(){var b="eeeeecc8a3cb",m="# Mark 14:48 (New International Version)\n\"Am I leading a rebellion,\" said Jesus, \"that you have come out with swords and clubs to capture me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

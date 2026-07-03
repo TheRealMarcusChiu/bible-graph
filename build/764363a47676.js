@@ -1,0 +1,1 @@
+(function(){var b="764363a47676",m="# Matthew 15:5 (New International Version)\nBut you say that if anyone declares that what might have been used to help their father or mother is 'devoted to God,'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

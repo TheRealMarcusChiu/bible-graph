@@ -1,0 +1,1 @@
+(function(){var b="63d472b84db5",m="# Matthew 18:27 (New International Version)\nThe servant's master took pity on him, canceled the debt and let him go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

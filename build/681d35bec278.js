@@ -1,0 +1,1 @@
+(function(){var b="681d35bec278",m="# Mark 13:8 (New International Version)\nNation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, and famines. These are the beginning of birth pains.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

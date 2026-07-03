@@ -1,0 +1,1 @@
+(function(){var b="7c29fca43fa4",m="# Leviticus 13:10 (New International Version)\nThe priest is to examine them, and if there is a white swelling in the skin that has turned the hair white and if there is raw flesh in the swelling,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

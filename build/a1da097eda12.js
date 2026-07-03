@@ -1,0 +1,1 @@
+(function(){var b="a1da097eda12",m="# Numbers 23:17 (New International Version)\nSo he went to him and found him standing beside his offering, with the Moabite officials.[^A] Balak asked him, \"What did the LORD say?\"\n\n### Crossrefs\n[^A]: [[Num-23-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06f796c61253",m="# Philippians 3:7 (New International Version)\nBut whatever were gains to me I now consider loss[^A] for the sake of Christ. \n\n### Crossrefs\n[^A]: [[Matt-13-44|Mt 13:44]]; [[Luke-14-33|Lk 14:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

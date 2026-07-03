@@ -1,0 +1,1 @@
+(function(){var b="791d34002791",m="# Leviticus 22:17 (New International Version)\nUnacceptable Sacrifices\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

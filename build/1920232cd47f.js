@@ -1,0 +1,1 @@
+(function(){var b="1920232cd47f",m="# 1 Corinthians 14:24 (New International Version)\nBut if an unbeliever or an inquirer comes in while everyone is prophesying, they are convicted of sin and are brought under judgment by all,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

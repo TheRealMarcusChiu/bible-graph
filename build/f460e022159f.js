@@ -1,0 +1,1 @@
+(function(){var b="f460e022159f",m="# Deuteronomy 28:40 (New International Version)\nYou will have olive trees throughout your country but you will not use the oil, because the olives will drop off.[^A] \n\n### Crossrefs\n[^A]: [[Jer-11-16|Jer 11:16]]; [[Mic-6-15|Mic 6:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

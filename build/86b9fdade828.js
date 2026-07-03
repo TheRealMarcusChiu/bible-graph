@@ -1,0 +1,1 @@
+(function(){var b="86b9fdade828",m="# Matthew 21:37 (New International Version)\nLast of all, he sent his son to them. 'They will respect my son,' he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

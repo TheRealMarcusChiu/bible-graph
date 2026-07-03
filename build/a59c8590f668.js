@@ -1,0 +1,1 @@
+(function(){var b="a59c8590f668",m="# Numbers 33:13 (New International Version)\nThey left Dophkah and camped at Alush.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

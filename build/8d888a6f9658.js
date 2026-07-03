@@ -1,0 +1,1 @@
+(function(){var b="8d888a6f9658",m="# Luke 12:25 (New International Version)\nWho of you by worrying can add a single hour to your life?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1036a78c8a57",m="# Genesis 10:24 (New International Version)\nArphaxad was the father of Shelah,\nand Shelah the father of Eber.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-10-21|ver 21]]; [[Luke-3-35|Lk 3:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

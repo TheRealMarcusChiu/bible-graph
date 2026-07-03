@@ -1,0 +1,1 @@
+(function(){var b="a2f814a15844",m="# Luke 12:3 (New International Version)\nWhat you have said in the dark will be heard in the daylight, and what you have whispered in the ear in the inner rooms will be proclaimed from the roofs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

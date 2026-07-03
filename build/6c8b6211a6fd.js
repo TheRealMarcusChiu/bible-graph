@@ -1,0 +1,1 @@
+(function(){var b="6c8b6211a6fd",m="# Ephesians 6:1 (New International Version)\nChildren, obey your parents in the Lord, for this is right.[^A] \n\n### Crossrefs\n[^A]: [[Prov-6-20|Pr 6:20]]; [[Col-3-20|Col 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

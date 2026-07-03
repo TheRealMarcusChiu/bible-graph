@@ -1,0 +1,1 @@
+(function(){var b="5cea5fbb2dde",m="# Luke 8:23 (New International Version)\nAs they sailed, he fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in great danger.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

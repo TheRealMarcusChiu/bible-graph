@@ -1,0 +1,1 @@
+(function(){var b="6fa25c6f7714",m="# Numbers 26:13 (New International Version)\nthrough Zerah,[^A] the Zerahite clan;\nthrough Shaul, the Shaulite clan.\n\n### Crossrefs\n[^A]: S [[Gen-46-10|Ge 46:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

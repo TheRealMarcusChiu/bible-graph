@@ -1,0 +1,1 @@
+(function(){var b="42e010e90637",m="# Acts 14:18 (New International Version)\nEven with these words, they had difficulty keeping the crowd from sacrificing to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

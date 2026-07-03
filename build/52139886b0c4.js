@@ -1,0 +1,1 @@
+(function(){var b="52139886b0c4",m="# Matthew 14:4 (New International Version)\nfor John had been saying to him: \"It is not lawful for you to have her.\"[^A] \n\n### Crossrefs\n[^A]: [[Lev-18-16|Lev 18:16]]; [[Lev-20-21|20:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

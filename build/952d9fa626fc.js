@@ -1,0 +1,1 @@
+(function(){var b="952d9fa626fc",m="# Deuteronomy 18:17 (New International Version)\nThe LORD said to me: \"What they say is good.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

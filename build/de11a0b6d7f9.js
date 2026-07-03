@@ -1,0 +1,1 @@
+(function(){var b="de11a0b6d7f9",m="# Genesis 34:31 (New International Version)\nBut they replied, \"Should he have treated our sister like a prostitute?[^A]\"\n\n### Crossrefs\n[^A]: [[Gen-34-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

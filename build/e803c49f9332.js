@@ -1,0 +1,1 @@
+(function(){var b="e803c49f9332",m="# Matthew 18:31 (New International Version)\nWhen the other servants saw what had happened, they were outraged and went and told their master everything that had happened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

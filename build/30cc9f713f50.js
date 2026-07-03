@@ -1,0 +1,1 @@
+(function(){var b="30cc9f713f50",m="# Deuteronomy 25:4 (New International Version)\nDo not muzzle an ox while it is treading out the grain.[^A]\n\n### Crossrefs\n[^A]: S [[Num-22-29|Nu 22:29]]; 1Co 9:9*; 1Ti 5:18*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

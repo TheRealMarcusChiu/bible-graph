@@ -1,0 +1,1 @@
+(function(){var b="3ee9383e0801",m="# Acts 9:23 (New International Version)\nAfter many days had gone by, there was a conspiracy among the Jews to kill him,[^A] \n\n### Crossrefs\n[^A]: S [[Acts-20-3|Ac 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

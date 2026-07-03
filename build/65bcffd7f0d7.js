@@ -1,0 +1,1 @@
+(function(){var b="65bcffd7f0d7",m="# Judges 6:7 (New International Version)\nWhen the Israelites cried out[^A] to the LORD because of Midian, \n\n### Crossrefs\n[^A]: S [[Judg-3-9|Jdg 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

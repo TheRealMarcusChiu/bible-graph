@@ -1,0 +1,1 @@
+(function(){var b="939cc4bdbc59",m="# Acts 2:34 (New International Version)\nFor David did not ascend to heaven, and yet he said,\n\"'The Lord said to my Lord:  \n    \"Sit at my right hand";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

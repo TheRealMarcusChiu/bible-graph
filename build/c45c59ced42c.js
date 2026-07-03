@@ -1,0 +1,1 @@
+(function(){var b="c45c59ced42c",m="# Judges 11:20 (New International Version)\nSihon, however, did not trust Israel to pass through his territory. He mustered all his troops and encamped at Jahaz and fought with Israel.[^A]\n\n### Crossrefs\n[^A]: [[Num-21-23|Nu 21:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

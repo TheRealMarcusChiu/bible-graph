@@ -1,0 +1,1 @@
+(function(){var b="2817dddf5d8e",m="# Mark 6:35 (New International Version)\nBy this time it was late in the day, so his disciples came to him. \"This is a remote place,\" they said, \"and it's already very late.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

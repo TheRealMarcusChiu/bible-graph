@@ -1,0 +1,1 @@
+(function(){var b="996137e55cc6",m="# Mark 11:8 (New International Version)\nMany people spread their cloaks on the road, while others spread branches they had cut in the fields.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

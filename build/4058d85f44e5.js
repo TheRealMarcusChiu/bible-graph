@@ -1,0 +1,1 @@
+(function(){var b="4058d85f44e5",m="# Genesis 24:44 (New International Version)\nand if she says to me, \"Drink, and I'll draw water for your camels too,\" let her be the one the LORD has chosen for my master's son.'[^A]\n\n### Crossrefs\n[^A]: [[Gen-24-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

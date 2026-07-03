@@ -1,0 +1,1 @@
+(function(){var b="8e09a3154dea",m="# Luke 12:54 (New International Version)\nInterpreting the Times\nHe said to the crowd: \"When you see a cloud rising in the west, immediately you say, 'It's going to rain,' and it does.[^A] \n\n### Crossrefs\n[^A]: [[Matt-16-2|Mt 16:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

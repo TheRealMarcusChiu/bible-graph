@@ -1,0 +1,1 @@
+(function(){var b="9b71940c700a",m="# Luke 24:28 (New International Version)\nAs they approached the village to which they were going, Jesus continued on as if he were going farther.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

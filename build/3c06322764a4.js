@@ -1,0 +1,1 @@
+(function(){var b="3c06322764a4",m="# Acts 9:8 (New International Version)\nSaul got up from the ground, but when he opened his eyes he could see nothing.[^A] So they led him by the hand into Damascus. \n\n### Crossrefs\n[^A]: [[Acts-9-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

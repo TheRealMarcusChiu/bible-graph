@@ -1,0 +1,1 @@
+(function(){var b="dae177e548ec",m="# 3 John 8 (New International Version)\nWe ought therefore to show hospitality to such people so that we may work together for the truth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

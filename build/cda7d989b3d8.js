@@ -1,0 +1,1 @@
+(function(){var b="cda7d989b3d8",m="# Numbers 31:4 (New International Version)\nSend into battle a thousand men from each of the tribes of Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

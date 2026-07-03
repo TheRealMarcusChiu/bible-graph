@@ -1,0 +1,1 @@
+(function(){var b="f56f8d327be8",m="# Luke 15:8 (New International Version)\nThe Parable of the Lost Coin\n\"Or suppose a woman has ten silver coins and loses one. Doesn't she light a lamp, sweep the house and search carefully until she finds it?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

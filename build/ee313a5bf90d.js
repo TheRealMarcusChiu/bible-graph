@@ -1,0 +1,1 @@
+(function(){var b="ee313a5bf90d",m="# Genesis 19:31 (New International Version)\nOne day the older daughter said to the younger, \"Our father is old, and there is no man around here to give us children--as is the custom all over the earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

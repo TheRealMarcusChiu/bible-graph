@@ -1,0 +1,1 @@
+(function(){var b="354f69dd161e",m="# Leviticus 7:25 (New International Version)\nAnyone who eats the fat of an animal from which a food offering may be presented to the LORD must be cut off from their people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

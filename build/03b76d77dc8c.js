@@ -1,0 +1,1 @@
+(function(){var b="03b76d77dc8c",m="# Luke 22:51 (New International Version)\nBut Jesus answered, \"No more of this!\" And he touched the man's ear and healed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

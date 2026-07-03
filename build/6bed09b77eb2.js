@@ -1,0 +1,1 @@
+(function(){var b="6bed09b77eb2",m="# Mark 13:23 (New International Version)\nSo be on your guard;[^A] I have told you everything ahead of time.\n\n### Crossrefs\n[^A]: [[2Pet-3-17|2Pe 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

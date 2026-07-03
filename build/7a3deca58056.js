@@ -1,0 +1,1 @@
+(function(){var b="7a3deca58056",m="# Mark 12:11 (New International Version)\nthe Lord has done this,  \n    and it is marvelous in our eyes'?\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-118-22|Ps 118:22]], [[Ps-118-23|23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

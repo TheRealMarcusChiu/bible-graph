@@ -1,0 +1,1 @@
+(function(){var b="ce1b28946e47",m="# Genesis 9:10 (New International Version)\nand with every living creature that was with you--the birds, the livestock and all the wild animals, all those that came out of the ark with you--every living creature on earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

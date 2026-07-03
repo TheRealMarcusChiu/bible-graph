@@ -1,0 +1,1 @@
+(function(){var b="e99d6e9bb4dd",m="# Luke 16:2 (New International Version)\nSo he called him in and asked him, 'What is this I hear about you? Give an account of your management, because you cannot be manager any longer.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c51e98adfa42",m="# Acts 27:32 (New International Version)\nSo the soldiers cut the ropes that held the lifeboat and let it drift away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

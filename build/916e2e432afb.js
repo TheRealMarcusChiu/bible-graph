@@ -1,0 +1,1 @@
+(function(){var b="916e2e432afb",m="# Luke 19:18 (New International Version)\n\"The second came and said, 'Sir, your mina has earned five more.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

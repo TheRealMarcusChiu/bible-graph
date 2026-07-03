@@ -1,0 +1,1 @@
+(function(){var b="0fd832f6b22d",m="# Deuteronomy 31:25 (New International Version)\nhe gave this command to the Levites who carried[^A] the ark of the covenant of the LORD: \n\n### Crossrefs\n[^A]: S [[Deut-31-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

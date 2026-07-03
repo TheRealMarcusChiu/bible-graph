@@ -1,0 +1,1 @@
+(function(){var b="bc71d323bd4a",m="# Genesis 17:26 (New International Version)\nAbraham and his son Ishmael were both circumcised on that very day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

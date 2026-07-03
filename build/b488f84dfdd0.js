@@ -1,0 +1,1 @@
+(function(){var b="b488f84dfdd0",m="# Matthew 1:10 (New International Version)\nHezekiah the father of Manasseh,[^A]\nManasseh the father of Amon,\nAmon the father of Josiah,\n\n### Crossrefs\n[^A]: [[2Kgs-20-21|2Ki 20:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

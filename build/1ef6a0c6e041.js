@@ -1,0 +1,1 @@
+(function(){var b="1ef6a0c6e041",m="# Matthew 15:16 (New International Version)\n\"Are you still so dull?\"[^A] Jesus asked them. \n\n### Crossrefs\n[^A]: [[Matt-16-9|Mt 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

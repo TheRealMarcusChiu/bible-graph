@@ -1,0 +1,1 @@
+(function(){var b="0d98c46a749e",m="# Matthew 5:40 (New International Version)\nAnd if anyone wants to sue you and take your shirt, hand over your coat as well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

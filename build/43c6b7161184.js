@@ -1,0 +1,1 @@
+(function(){var b="43c6b7161184",m="# Leviticus 13:59 (New International Version)\nThese are the regulations concerning defiling molds in woolen or linen clothing, woven or knitted material, or any leather article, for pronouncing them clean or unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

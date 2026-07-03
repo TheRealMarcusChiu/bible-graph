@@ -1,0 +1,1 @@
+(function(){var b="18f5f00873c6",m="# Deuteronomy 25:11 (New International Version)\nIf two men are fighting and the wife of one of them comes to rescue her husband from his assailant, and she reaches out and seizes him by his private parts,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

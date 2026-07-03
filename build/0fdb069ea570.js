@@ -1,0 +1,1 @@
+(function(){var b="0fdb069ea570",m="# Joshua 24:16 (New International Version)\nThen the people answered, \"Far be it from us to forsake[^A] the LORD to serve other gods! \n\n### Crossrefs\n[^A]: [[Josh-22-29|Jos 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

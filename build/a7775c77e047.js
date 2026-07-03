@@ -1,0 +1,1 @@
+(function(){var b="a7775c77e047",m="# Numbers 1:33 (New International Version)\nThe number from the tribe of Ephraim[^A] was 40,500.\n\n### Crossrefs\n[^A]: [[Num-26-37|Nu 26:37]]; [[1Chr-7-20|1Ch 7:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

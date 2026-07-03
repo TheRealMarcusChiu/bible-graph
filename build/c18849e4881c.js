@@ -1,0 +1,1 @@
+(function(){var b="c18849e4881c",m="# John 20:6 (New International Version)\nThen Simon Peter came along behind him and went straight into the tomb. He saw the strips of linen lying there,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

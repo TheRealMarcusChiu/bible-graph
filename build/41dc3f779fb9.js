@@ -1,1 +1,0 @@
-(function(){var b="41dc3f779fb9",m="# CI/CD\n\nNotes on CI/CD.\n\n## Linked notes\n\n- [[Observability — tracing (2)]]\n- [[Observability — tracing]]\n- [[Observability]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

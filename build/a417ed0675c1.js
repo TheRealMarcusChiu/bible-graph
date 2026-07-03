@@ -1,0 +1,1 @@
+(function(){var b="a417ed0675c1",m="# Mark 3:33 (New International Version)\n\"Who are my mother and my brothers?\" he asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

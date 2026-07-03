@@ -1,0 +1,1 @@
+(function(){var b="283620b2cfaf",m="# Leviticus 11:23 (New International Version)\nBut all other flying insects that have four legs you are to regard as unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

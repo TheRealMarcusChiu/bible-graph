@@ -1,0 +1,1 @@
+(function(){var b="c0442a76314d",m="# Mark 15:30 (New International Version)\ncome down from the cross and save yourself!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

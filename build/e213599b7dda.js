@@ -1,0 +1,1 @@
+(function(){var b="e213599b7dda",m="# Acts 26:8 (New International Version)\nWhy should any of you consider it incredible that God raises the dead?[^A]\n\n### Crossrefs\n[^A]: [[Acts-23-6|Ac 23:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

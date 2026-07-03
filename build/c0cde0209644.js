@@ -1,0 +1,1 @@
+(function(){var b="c0cde0209644",m="# Leviticus 11:46 (New International Version)\n\"'These are the regulations concerning animals, birds, every living thing that moves about in the water and every creature that moves along the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="05c916dddf0b",m="# John 18:29 (New International Version)\nSo Pilate came out to them and asked, \"What charges are you bringing against this man?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

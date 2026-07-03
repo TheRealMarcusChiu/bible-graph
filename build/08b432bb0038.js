@@ -1,0 +1,1 @@
+(function(){var b="08b432bb0038",m="# Leviticus 13:24 (New International Version)\n\"When someone has a burn on their skin and a reddish-white or white spot appears in the raw flesh of the burn,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

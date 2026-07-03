@@ -1,0 +1,1 @@
+(function(){var b="24563c8afb01",m="# Numbers 35:15 (New International Version)\nThese six towns will be a place of refuge for Israelites and for foreigners residing among them, so that anyone who has killed another accidentally can flee there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

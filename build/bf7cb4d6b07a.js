@@ -1,0 +1,1 @@
+(function(){var b="bf7cb4d6b07a",m="# Genesis 38:9 (New International Version)\nBut Onan knew that the child would not be his; so whenever he slept with his brother's wife, he spilled his semen on the ground to keep from providing offspring for his brother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

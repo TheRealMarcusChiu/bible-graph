@@ -1,0 +1,1 @@
+(function(){var b="55c8ce77e500",m="# Luke 8:34 (New International Version)\nWhen those tending the pigs saw what had happened, they ran off and reported this in the town and countryside,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

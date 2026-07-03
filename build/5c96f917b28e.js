@@ -1,0 +1,1 @@
+(function(){var b="5c96f917b28e",m="# 1 Timothy 2:12 (New International Version)\nI do not permit a woman to teach or to assume authority over a man; she must be quiet.[^A] \n\n### Crossrefs\n[^A]: S [[Eph-5-22|Eph 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

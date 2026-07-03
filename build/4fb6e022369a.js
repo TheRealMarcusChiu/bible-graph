@@ -1,0 +1,1 @@
+(function(){var b="4fb6e022369a",m="# Acts 17:20 (New International Version)\nYou are bringing some strange ideas to our ears, and we would like to know what they mean.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

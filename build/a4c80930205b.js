@@ -1,0 +1,1 @@
+(function(){var b="a4c80930205b",m="# Acts 25:17 (New International Version)\nWhen they came here with me, I did not delay the case, but convened the court the next day and ordered the man to be brought in.[^A] \n\n### Crossrefs\n[^A]: [[Acts-25-6|ver 6]], [[Acts-25-10|10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

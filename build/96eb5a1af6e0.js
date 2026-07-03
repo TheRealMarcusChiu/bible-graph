@@ -1,0 +1,1 @@
+(function(){var b="96eb5a1af6e0",m="# Genesis 31:22 (New International Version)\nLaban Pursues Jacob\nOn the third day[^A] Laban was told that Jacob had fled.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-30-36|Ge 30:36]]\n[^B]: S [[Gen-31-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

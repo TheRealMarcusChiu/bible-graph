@@ -1,0 +1,1 @@
+(function(){var b="94e350b7c06d",m="# Matthew 13:48 (New International Version)\nWhen it was full, the fishermen pulled it up on the shore. Then they sat down and collected the good fish in baskets, but threw the bad away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

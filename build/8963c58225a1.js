@@ -1,0 +1,1 @@
+(function(){var b="8963c58225a1",m="# James 1\n\nPractical wisdom: faith that works, taming the tongue, and patience in trials.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

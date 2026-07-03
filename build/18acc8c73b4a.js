@@ -1,0 +1,1 @@
+(function(){var b="18acc8c73b4a",m="# Luke 12:31 (New International Version)\nBut seek his kingdom,[^A] and these things will be given to you as well.[^B]\n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]\n[^B]: [[Matt-19-29|Mt 19:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

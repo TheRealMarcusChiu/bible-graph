@@ -1,0 +1,1 @@
+(function(){var b="c7ada1690d0b",m="# 1 Corinthians 14:10 (New International Version)\nUndoubtedly there are all sorts of languages in the world, yet none of them is without meaning.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

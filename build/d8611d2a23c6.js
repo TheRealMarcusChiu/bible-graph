@@ -1,0 +1,1 @@
+(function(){var b="d8611d2a23c6",m="# Luke 3:5 (New International Version)\nEvery valley shall be filled in,  \n    every mountain and hill made low.  \nThe crooked roads shall become straight,  \n    the rough ways smooth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

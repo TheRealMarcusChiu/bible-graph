@@ -1,0 +1,1 @@
+(function(){var b="6cedaff26ff5",m="# Colossians 2:21 (New International Version)\n\"Do not handle! Do not taste! Do not touch!\"?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

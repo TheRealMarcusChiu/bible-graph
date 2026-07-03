@@ -1,0 +1,1 @@
+(function(){var b="8e5ba164c41f",m="# Luke 2:7 (New International Version)\nand she gave birth to her firstborn, a son. She wrapped him in cloths and placed him in a manger, because there was no guest room available for them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

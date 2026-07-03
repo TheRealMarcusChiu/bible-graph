@@ -1,0 +1,1 @@
+(function(){var b="3236de234e48",m="# Mark 3:28 (New International Version)\nTruly I tell you, people can be forgiven all their sins and every slander they utter,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

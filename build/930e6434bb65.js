@@ -1,0 +1,1 @@
+(function(){var b="930e6434bb65",m="# John 3:4 (New International Version)\n\"How can someone be born when they are old?\" Nicodemus asked. \"Surely they cannot enter a second time into their mother's womb to be born!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

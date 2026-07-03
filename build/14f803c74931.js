@@ -1,0 +1,1 @@
+(function(){var b="14f803c74931",m="# Luke 5:32 (New International Version)\nI have not come to call the righteous, but sinners to repentance.\"[^A]\n\n### Crossrefs\n[^A]: S [[John-3-17|Jn 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

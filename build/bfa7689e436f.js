@@ -1,0 +1,1 @@
+(function(){var b="bfa7689e436f",m="# Numbers 16:41 (New International Version)\nThe next day the whole Israelite community grumbled against Moses and Aaron. \"You have killed the LORD's people,\" they said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

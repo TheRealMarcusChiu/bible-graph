@@ -1,0 +1,1 @@
+(function(){var b="f5ee09a2749d",m="# Luke 22:38 (New International Version)\nThe disciples said, \"See, Lord, here are two swords.\"\n\"That's enough!\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

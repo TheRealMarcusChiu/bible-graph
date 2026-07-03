@@ -1,0 +1,1 @@
+(function(){var b="a402323c0061",m="# Matthew 14:23 (New International Version)\nAfter he had dismissed them, he went up on a mountainside by himself to pray.[^A] Later that night, he was there alone, \n\n### Crossrefs\n[^A]: S [[Luke-3-21|Lk 3:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

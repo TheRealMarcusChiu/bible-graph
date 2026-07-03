@@ -1,0 +1,1 @@
+(function(){var b="d44bd97e6aa9",m="# Judges 9:31 (New International Version)\nUnder cover he sent messengers to Abimelek, saying, \"Gaal son of Ebed and his clan have come to Shechem and are stirring up the city against you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

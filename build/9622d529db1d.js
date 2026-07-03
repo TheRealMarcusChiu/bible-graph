@@ -1,0 +1,1 @@
+(function(){var b="9622d529db1d",m="# Luke 1:4 (New International Version)\nso that you may know the certainty of the things you have been taught.[^A]\n\n### Crossrefs\n[^A]: [[John-20-31|Jn 20:31]]; [[Acts-2-42|Ac 2:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

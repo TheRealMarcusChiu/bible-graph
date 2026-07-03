@@ -1,0 +1,1 @@
+(function(){var b="0633e2074650",m="# Numbers 9:22 (New International Version)\nWhether the cloud stayed over the tabernacle for two days or a month or a year, the Israelites would remain in camp and not set out; but when it lifted, they would set out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

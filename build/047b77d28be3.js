@@ -1,0 +1,1 @@
+(function(){var b="047b77d28be3",m="# Acts 10:8 (New International Version)\nHe told them everything that had happened and sent them to Joppa.[^A]\n\n### Crossrefs\n[^A]: S [[Acts-9-36|Ac 9:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

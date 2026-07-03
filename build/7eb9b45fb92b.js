@@ -1,0 +1,1 @@
+(function(){var b="7eb9b45fb92b",m="# 3 John\n\nCommending Gaius's hospitality and rebuking domineering Diotrephes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

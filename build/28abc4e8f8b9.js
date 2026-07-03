@@ -1,0 +1,1 @@
+(function(){var b="28abc4e8f8b9",m="# Leviticus 16:20 (New International Version)\n\"When Aaron has finished making atonement for the Most Holy Place, the tent of meeting and the altar, he shall bring forward the live goat.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-16-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

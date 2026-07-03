@@ -1,0 +1,1 @@
+(function(){var b="f40445592e0e",m="# 2 Corinthians 11:33 (New International Version)\nBut I was lowered in a basket from a window in the wall and slipped through his hands.[^A]\n\n### Crossrefs\n[^A]: [[Acts-9-25|Ac 9:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

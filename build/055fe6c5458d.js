@@ -1,0 +1,1 @@
+(function(){var b="055fe6c5458d",m="# Numbers 7:83 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Ahira son of Enan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

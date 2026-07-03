@@ -1,0 +1,1 @@
+(function(){var b="1904a4d8dc31",m="# Exodus 21:20 (New International Version)\n\"Anyone who beats their male or female slave with a rod must be punished if the slave dies as a direct result,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

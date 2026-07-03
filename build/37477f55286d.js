@@ -1,0 +1,1 @@
+(function(){var b="37477f55286d",m="# Leviticus 25:20 (New International Version)\nYou may ask, \"What will we eat in the seventh year[^A] if we do not plant or harvest our crops?\" \n\n### Crossrefs\n[^A]: S [[Lev-25-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

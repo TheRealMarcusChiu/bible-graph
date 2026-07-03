@@ -1,0 +1,1 @@
+(function(){var b="caf2444c127b",m="# Joshua 8:6 (New International Version)\nThey will pursue us until we have lured them away from the city, for they will say, 'They are running away from us as they did before.' So when we flee from them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

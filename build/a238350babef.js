@@ -1,0 +1,1 @@
+(function(){var b="a238350babef",m="# Acts 2:5 (New International Version)\nNow there were staying in Jerusalem God-fearing[^A] Jews from every nation under heaven. \n\n### Crossrefs\n[^A]: [[Luke-2-25|Lk 2:25]]; [[Acts-8-2|Ac 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

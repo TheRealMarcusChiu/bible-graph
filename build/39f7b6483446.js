@@ -1,0 +1,1 @@
+(function(){var b="39f7b6483446",m="# Leviticus 9:5 (New International Version)\nThey took the things Moses commanded to the front of the tent of meeting, and the entire assembly came near and stood before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

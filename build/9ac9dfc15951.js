@@ -1,0 +1,1 @@
+(function(){var b="9ac9dfc15951",m="# Luke 21:35 (New International Version)\nFor it will come on all those who live on the face of the whole earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

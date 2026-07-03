@@ -1,0 +1,1 @@
+(function(){var b="522cbf6cdbbc",m="# Mark 13:13 (New International Version)\nEveryone will hate you because of me,[^A] but the one who stands firm to the end will be saved.[^B]\n\n### Crossrefs\n[^A]: S [[John-15-21|Jn 15:21]]\n[^B]: S [[Matt-10-22|Mt 10:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

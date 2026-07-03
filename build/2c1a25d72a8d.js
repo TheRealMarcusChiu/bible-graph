@@ -1,0 +1,1 @@
+(function(){var b="2c1a25d72a8d",m="# Mark 8:5 (New International Version)\n\"How many loaves do you have?\" Jesus asked.\n\"Seven,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

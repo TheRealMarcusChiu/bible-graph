@@ -1,0 +1,1 @@
+(function(){var b="2fedf22c4b0d",m="# Luke 12:16 (New International Version)\nAnd he told them this parable: \"The ground of a certain rich man yielded an abundant harvest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

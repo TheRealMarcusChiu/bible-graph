@@ -1,0 +1,1 @@
+(function(){var b="d03a7d70ac55",m="# Luke 7:7 (New International Version)\nThat is why I did not even consider myself worthy to come to you. But say the word, and my servant will be healed.[^A] \n\n### Crossrefs\n[^A]: [[Ps-107-20|Ps 107:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

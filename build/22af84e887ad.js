@@ -1,0 +1,1 @@
+(function(){var b="22af84e887ad",m="# Hebrews 6:9 (New International Version)\nEven though we speak like this, dear friends,[^A] we are convinced of better things in your case--the things that have to do with salvation. \n\n### Crossrefs\n[^A]: S [[1Cor-10-14|1Co 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

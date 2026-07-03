@@ -1,0 +1,1 @@
+(function(){var b="55f0dff844fb",m="# Romans 15:1 (New International Version)\nWe who are strong ought to bear with the failings of the weak[^A] and not to please ourselves. \n\n### Crossrefs\n[^A]: [[Rom-14-1|Ro 14:1]]; [[1Thess-5-14|1Th 5:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

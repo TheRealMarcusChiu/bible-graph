@@ -1,0 +1,1 @@
+(function(){var b="55724b9104d5",m="# Deuteronomy 27:6 (New International Version)\nBuild the altar of the LORD your God with fieldstones and offer burnt offerings on it to the LORD your God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

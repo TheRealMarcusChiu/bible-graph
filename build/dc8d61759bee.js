@@ -1,0 +1,1 @@
+(function(){var b="dc8d61759bee",m="# John 12:19 (New International Version)\nSo the Pharisees said to one another, \"See, this is getting us nowhere. Look how the whole world has gone after him!\"[^A]\n\n### Crossrefs\n[^A]: [[John-11-47|Jn 11:47]], [[John-11-48|48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

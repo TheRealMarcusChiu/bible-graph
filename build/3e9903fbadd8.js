@@ -1,0 +1,1 @@
+(function(){var b="3e9903fbadd8",m="# Luke 7:17 (New International Version)\nThis news about Jesus spread throughout Judea and the surrounding country.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-9-26|Mt 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

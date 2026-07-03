@@ -1,0 +1,1 @@
+(function(){var b="ad38be0dc236",m="# Mark 10:26 (New International Version)\nThe disciples were even more amazed, and said to each other, \"Who then can be saved?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

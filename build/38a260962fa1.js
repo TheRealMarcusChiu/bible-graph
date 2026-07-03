@@ -1,0 +1,1 @@
+(function(){var b="38a260962fa1",m="# Genesis 17:22 (New International Version)\nWhen he had finished speaking with Abraham, God went up from him.[^A]\n\n### Crossrefs\n[^A]: [[Gen-18-33|Ge 18:33]]; [[Gen-35-13|35:13]]; [[Num-12-9|Nu 12:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

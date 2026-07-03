@@ -1,0 +1,1 @@
+(function(){var b="6fc8ff23dd79",m="# Matthew 11:16 (New International Version)\n\"To what can I compare this generation? They are like children sitting in the marketplaces and calling out to others:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

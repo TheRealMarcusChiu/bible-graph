@@ -1,0 +1,1 @@
+(function(){var b="8301d1c89ffe",m="# Genesis 36:10 (New International Version)\nThese are the names of Esau's sons:\nEliphaz, the son of Esau's wife Adah, and Reuel, the son of Esau's wife Basemath.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-36-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

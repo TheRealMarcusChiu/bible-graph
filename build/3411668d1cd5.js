@@ -1,0 +1,1 @@
+(function(){var b="3411668d1cd5",m="# Matthew 16:5 (New International Version)\nThe Yeast of the Pharisees and Sadducees\nWhen they went across the lake, the disciples forgot to take bread.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

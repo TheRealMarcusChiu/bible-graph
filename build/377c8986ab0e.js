@@ -1,0 +1,1 @@
+(function(){var b="377c8986ab0e",m="# Genesis 14:11 (New International Version)\nThe four kings seized all the goods[^A] of Sodom and Gomorrah and all their food; then they went away. \n\n### Crossrefs\n[^A]: [[Gen-14-16|ver 16]], [[Gen-14-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

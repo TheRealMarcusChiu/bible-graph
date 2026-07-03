@@ -1,0 +1,1 @@
+(function(){var b="cb6f7c0428da",m="# Numbers 33:23 (New International Version)\nThey left Kehelathah and camped at Mount Shepher.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

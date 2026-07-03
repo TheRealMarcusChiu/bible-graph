@@ -1,0 +1,1 @@
+(function(){var b="1798f9c49359",m="# Romans 11:13 (New International Version)\nI am talking to you Gentiles. Inasmuch as I am the apostle to the Gentiles,[^A] I take pride in my ministry \n\n### Crossrefs\n[^A]: S [[Acts-9-15|Ac 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

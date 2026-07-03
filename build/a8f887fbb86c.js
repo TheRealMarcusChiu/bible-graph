@@ -1,0 +1,1 @@
+(function(){var b="a8f887fbb86c",m="# John 16:11 (New International Version)\nand about judgment, because the prince of this world[^A] now stands condemned.\n\n### Crossrefs\n[^A]: S [[John-12-31|Jn 12:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4ea005e2538d",m="# Acts 28:13 (New International Version)\nFrom there we set sail and arrived at Rhegium. The next day the south wind came up, and on the following day we reached Puteoli.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

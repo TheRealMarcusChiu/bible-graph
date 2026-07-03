@@ -1,0 +1,1 @@
+(function(){var b="afc215b6f6b5",m="# Matthew 10:7 (New International Version)\nAs you go, proclaim this message: 'The kingdom of heaven[^A] has come near.' \n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

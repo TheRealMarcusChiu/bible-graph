@@ -1,0 +1,1 @@
+(function(){var b="b54b32717e16",m="# John 21:4 (New International Version)\nEarly in the morning, Jesus stood on the shore, but the disciples did not realize that it was Jesus.[^A]\n\n### Crossrefs\n[^A]: [[Luke-24-16|Lk 24:16]]; [[John-20-14|Jn 20:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

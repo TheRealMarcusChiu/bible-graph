@@ -1,0 +1,1 @@
+(function(){var b="aabd7e60037b",m="# Exodus 7:13 (New International Version)\nYet Pharaoh's heart[^A] became hard and he would not listen[^B] to them, just as the LORD had said.\n\n### Crossrefs\n[^A]: S [[Exod-4-21|Ex 4:21]]\n[^B]: S [[Exod-7-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="77623a683880",m="# Luke 12:36 (New International Version)\nlike servants waiting for their master to return from a wedding banquet, so that when he comes and knocks they can immediately open the door for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

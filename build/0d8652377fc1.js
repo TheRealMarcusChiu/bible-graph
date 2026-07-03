@@ -1,0 +1,1 @@
+(function(){var b="0d8652377fc1",m="# Numbers 22:10 (New International Version)\nBalaam said to God, \"Balak son of Zippor, king of Moab, sent me this message:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

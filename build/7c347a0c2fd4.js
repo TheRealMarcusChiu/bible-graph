@@ -1,0 +1,1 @@
+(function(){var b="7c347a0c2fd4",m="# Luke 1:58 (New International Version)\nHer neighbors and relatives heard that the Lord had shown her great mercy, and they shared her joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

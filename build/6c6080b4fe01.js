@@ -1,0 +1,1 @@
+(function(){var b="6c6080b4fe01",m="# Leviticus 24:19 (New International Version)\nAnyone who injures their neighbor is to be injured in the same manner:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

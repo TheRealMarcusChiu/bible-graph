@@ -1,0 +1,1 @@
+(function(){var b="781e3589ab9c",m="# Acts 23:31 (New International Version)\nSo the soldiers, carrying out their orders, took Paul with them during the night and brought him as far as Antipatris.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

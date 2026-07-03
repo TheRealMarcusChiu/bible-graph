@@ -1,0 +1,1 @@
+(function(){var b="600a8e1852a4",m="# Romans 9:14 (New International Version)\nWhat then shall we say?[^A] Is God unjust? Not at all![^B] \n\n### Crossrefs\n[^A]: S [[Rom-8-31|Ro 8:31]]\n[^B]: [[2Chr-19-7|2Ch 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

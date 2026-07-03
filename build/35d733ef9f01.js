@@ -1,0 +1,1 @@
+(function(){var b="35d733ef9f01",m="# John 1:20 (New International Version)\nHe did not fail to confess, but confessed freely, \"I am not the Messiah.\"[^A]\n\n### Crossrefs\n[^A]: [[John-3-28|Jn 3:28]]; [[Luke-3-15|Lk 3:15]], [[Luke-3-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

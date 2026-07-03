@@ -1,0 +1,1 @@
+(function(){var b="f6a32ffe4c2f",m="# Joshua 22:3 (New International Version)\nFor a long time now--to this very day--you have not deserted your fellow Israelites but have carried out the mission the LORD your God gave you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

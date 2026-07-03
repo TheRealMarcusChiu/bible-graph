@@ -1,0 +1,1 @@
+(function(){var b="955c87241a9d",m="# Acts 4:7 (New International Version)\nThey had Peter and John brought before them and began to question them: \"By what power or what name did you do this?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

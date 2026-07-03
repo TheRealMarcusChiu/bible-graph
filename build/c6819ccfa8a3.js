@@ -1,0 +1,1 @@
+(function(){var b="c6819ccfa8a3",m="# Matthew 27:36 (New International Version)\nAnd sitting down, they kept watch[^A] over him there. \n\n### Crossrefs\n[^A]: [[Matt-27-54|ver 54]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

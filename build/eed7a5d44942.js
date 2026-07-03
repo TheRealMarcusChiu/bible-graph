@@ -1,0 +1,1 @@
+(function(){var b="eed7a5d44942",m="# Deuteronomy 22:28 (New International Version)\nIf a man happens to meet a virgin who is not pledged to be married and rapes her and they are discovered,[^A] \n\n### Crossrefs\n[^A]: [[Exod-22-16|Ex 22:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

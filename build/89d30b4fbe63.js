@@ -1,0 +1,1 @@
+(function(){var b="89d30b4fbe63",m="# Exodus 2:19 (New International Version)\nThey answered, \"An Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

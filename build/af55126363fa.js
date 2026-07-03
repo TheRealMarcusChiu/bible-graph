@@ -1,0 +1,1 @@
+(function(){var b="af55126363fa",m="# Philippians 3:11 (New International Version)\nand so, somehow, attaining to the resurrection[^A] from the dead.\n\n### Crossrefs\n[^A]: S [[John-11-24|Jn 11:24]]; S [[Rom-6-5|Ro 6:5]]; [[Rev-20-5|Rev 20:5]], [[Rev-20-6|6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

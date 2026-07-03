@@ -1,0 +1,1 @@
+(function(){var b="6204028b22b4",m="# Romans 8:22 (New International Version)\nWe know that the whole creation has been groaning[^A] as in the pains of childbirth right up to the present time. \n\n### Crossrefs\n[^A]: [[Jer-12-4|Jer 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5c00d2535180",m="# Mark 14:42 (New International Version)\nRise! Let us go! Here comes my betrayer!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

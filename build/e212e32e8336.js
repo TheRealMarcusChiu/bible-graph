@@ -1,0 +1,1 @@
+(function(){var b="e212e32e8336",m="# John 4:4 (New International Version)\nNow he had to go through Samaria.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-10-5|Mt 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

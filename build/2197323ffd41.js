@@ -1,0 +1,1 @@
+(function(){var b="2197323ffd41",m="# Deuteronomy 31:22 (New International Version)\nSo Moses wrote[^A] down this song that day and taught it to the Israelites.\n\n### Crossrefs\n[^A]: [[Deut-31-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

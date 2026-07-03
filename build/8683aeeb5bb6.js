@@ -1,0 +1,1 @@
+(function(){var b="8683aeeb5bb6",m="# Leviticus 18:1 (New International Version)\nUnlawful Sexual Relations\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

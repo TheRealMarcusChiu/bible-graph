@@ -1,0 +1,1 @@
+(function(){var b="80c69c45d328",m="# Numbers 19:8 (New International Version)\nThe man who burns it must also wash his clothes and bathe with water, and he too will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

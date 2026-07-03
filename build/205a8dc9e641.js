@@ -1,0 +1,1 @@
+(function(){var b="205a8dc9e641",m="# Acts 7:26 (New International Version)\nThe next day Moses came upon two Israelites who were fighting. He tried to reconcile them by saying, 'Men, you are brothers; why do you want to hurt each other?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

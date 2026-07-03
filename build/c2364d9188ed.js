@@ -1,0 +1,1 @@
+(function(){var b="c2364d9188ed",m="# Matthew 13:40 (New International Version)\n\"As the weeds are pulled up and burned in the fire, so it will be at the end of the age.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

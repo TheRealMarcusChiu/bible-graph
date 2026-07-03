@@ -1,0 +1,1 @@
+(function(){var b="a8071700e946",m="# Romans 4:6 (New International Version)\nDavid says the same thing when he speaks of the blessedness of the one to whom God credits righteousness apart from works:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

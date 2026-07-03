@@ -1,0 +1,1 @@
+(function(){var b="cb51ed568672",m="# Colossians 4:1 (New International Version)\nMasters, provide your slaves with what is right and fair,[^A] because you know that you also have a Master in heaven.\n\n### Crossrefs\n[^A]: [[Lev-25-43|Lev 25:43]], [[Lev-25-53|53]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

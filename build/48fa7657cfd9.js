@@ -1,0 +1,1 @@
+(function(){var b="48fa7657cfd9",m="# Matthew 17:2 (New International Version)\nThere he was transfigured before them. His face shone like the sun, and his clothes became as white as the light.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

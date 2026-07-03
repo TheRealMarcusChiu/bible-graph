@@ -1,0 +1,1 @@
+(function(){var b="f6931ec556bb",m="# John 18:21 (New International Version)\nWhy question me? Ask those who heard me. Surely they know what I said.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

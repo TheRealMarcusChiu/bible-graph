@@ -1,0 +1,1 @@
+(function(){var b="d41473b298c3",m="# Matthew 17:6 (New International Version)\nWhen the disciples heard this, they fell facedown to the ground, terrified.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

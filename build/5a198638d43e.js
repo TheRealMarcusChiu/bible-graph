@@ -1,0 +1,1 @@
+(function(){var b="5a198638d43e",m="# Luke 11:3 (New International Version)\nGive us each day our daily bread.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

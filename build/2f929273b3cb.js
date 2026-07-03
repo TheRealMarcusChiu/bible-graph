@@ -1,0 +1,1 @@
+(function(){var b="2f929273b3cb",m="# 1 Corinthians 1:13 (New International Version)\nIs Christ divided? Was Paul crucified for you? Were you baptized in the name of Paul?[^A] \n\n### Crossrefs\n[^A]: S [[Matt-28-19|Mt 28:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="75663d3ccedb",m="# Genesis 5:17 (New International Version)\nAltogether, Mahalalel lived a total of 895 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

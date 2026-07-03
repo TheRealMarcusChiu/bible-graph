@@ -1,0 +1,1 @@
+(function(){var b="b938b4bb7ca9",m="# Titus 3\n\nOrdering the churches of Crete with sound doctrine adorned by good works.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

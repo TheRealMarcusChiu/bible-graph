@@ -1,0 +1,1 @@
+(function(){var b="9e94391f1617",m="# John 8:27 (New International Version)\nThey did not understand that he was telling them about his Father.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b0f7aef0e6ea",m="# Mark 13:20 (New International Version)\n\"If the Lord had not cut short those days, no one would survive. But for the sake of the elect, whom he has chosen, he has shortened them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

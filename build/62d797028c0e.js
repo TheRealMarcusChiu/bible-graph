@@ -1,0 +1,1 @@
+(function(){var b="62d797028c0e",m="# Leviticus 25:12 (New International Version)\nFor it is a jubilee and is to be holy for you; eat only what is taken directly from the fields.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

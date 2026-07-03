@@ -1,0 +1,1 @@
+(function(){var b="1589afda46ea",m="# Numbers 11:7 (New International Version)\nThe manna was like coriander seed[^A] and looked like resin.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-16-31|Ex 16:31]]\n[^B]: [[Gen-2-12|Ge 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

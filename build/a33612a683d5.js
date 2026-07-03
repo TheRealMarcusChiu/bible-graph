@@ -1,0 +1,1 @@
+(function(){var b="a33612a683d5",m="# 1 Timothy 3:12 (New International Version)\nA deacon must be faithful to his wife[^A] and must manage his children and his household well.[^B] \n\n### Crossrefs\n[^A]: [[1Tim-3-2|ver 2]]\n[^B]: [[1Tim-3-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

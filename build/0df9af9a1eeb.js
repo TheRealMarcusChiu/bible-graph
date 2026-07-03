@@ -1,0 +1,1 @@
+(function(){var b="0df9af9a1eeb",m="# Exodus 5:16 (New International Version)\nYour servants are given no straw, yet we are told, 'Make bricks!' Your servants are being beaten, but the fault is with your own people.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

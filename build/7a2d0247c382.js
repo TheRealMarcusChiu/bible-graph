@@ -1,0 +1,1 @@
+(function(){var b="7a2d0247c382",m="# Acts 19:15 (New International Version)\nOne day the evil spirit answered them, \"Jesus I know, and Paul I know about, but who are you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

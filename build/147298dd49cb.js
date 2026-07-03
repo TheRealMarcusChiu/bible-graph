@@ -1,0 +1,1 @@
+(function(){var b="147298dd49cb",m="# Mark 10:44 (New International Version)\nand whoever wants to be first must be slave of all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

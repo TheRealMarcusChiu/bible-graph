@@ -1,0 +1,1 @@
+(function(){var b="e421046455a8",m="# Hebrews 7:23 (New International Version)\nNow there have been many of those priests, since death prevented them from continuing in office;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

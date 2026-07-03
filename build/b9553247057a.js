@@ -1,0 +1,1 @@
+(function(){var b="b9553247057a",m="# Leviticus 11:31 (New International Version)\nOf all those that move along the ground, these are unclean for you. Whoever touches them when they are dead will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

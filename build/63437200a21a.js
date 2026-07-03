@@ -1,0 +1,1 @@
+(function(){var b="63437200a21a",m="# John 11:57 (New International Version)\nBut the chief priests and the Pharisees had given orders that anyone who found out where Jesus was should report it so that they might arrest him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6145435a034e",m="# Joshua 19:46 (New International Version)\nMe Jarkon and Rakkon, with the area facing Joppa.[^A]\n\n### Crossrefs\n[^A]: [[2Chr-2-16|2Ch 2:16]]; [[Ezra-3-7|Ezr 3:7]]; [[Jonah-1-3|Jnh 1:3]]; [[Acts-9-36|Ac 9:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

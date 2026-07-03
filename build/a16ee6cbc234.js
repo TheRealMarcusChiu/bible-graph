@@ -1,0 +1,1 @@
+(function(){var b="a16ee6cbc234",m="# John 5:5 (New International Version)\nOne who was there had been an invalid for thirty-eight years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

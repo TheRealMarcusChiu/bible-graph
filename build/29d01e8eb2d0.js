@@ -1,0 +1,1 @@
+(function(){var b="29d01e8eb2d0",m="# Luke 5:19 (New International Version)\nWhen they could not find a way to do this because of the crowd, they went up on the roof and lowered him on his mat through the tiles into the middle of the crowd, right in front of Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

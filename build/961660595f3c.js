@@ -1,0 +1,1 @@
+(function(){var b="961660595f3c",m="# Acts 8:19 (New International Version)\nand said, \"Give me also this ability so that everyone on whom I lay my hands may receive the Holy Spirit.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

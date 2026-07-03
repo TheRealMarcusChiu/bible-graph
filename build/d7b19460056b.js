@@ -1,0 +1,1 @@
+(function(){var b="d7b19460056b",m="# Matthew 27:62 (New International Version)\nThe Guard at the Tomb\nThe next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

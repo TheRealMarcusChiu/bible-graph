@@ -1,0 +1,1 @@
+(function(){var b="427df95638de",m="# Genesis 9:28 (New International Version)\nAfter the flood Noah lived 350 years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

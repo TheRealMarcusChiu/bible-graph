@@ -1,0 +1,1 @@
+(function(){var b="0ebc9ecd8b68",m="# Deuteronomy 12:26 (New International Version)\nBut take your consecrated things and whatever you have vowed to give,[^A] and go to the place the LORD will choose. \n\n### Crossrefs\n[^A]: S [[Deut-12-17|ver 17]]; [[Num-5-9|Nu 5:9-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fc1e6ee50e13",m="# Joshua 19:6 (New International Version)\nBeth Lebaoth and Sharuhen--thirteen towns and their villages;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

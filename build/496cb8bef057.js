@@ -1,0 +1,1 @@
+(function(){var b="496cb8bef057",m="# Numbers 31:11 (New International Version)\nThey took all the plunder and spoils, including the people and animals,[^A] \n\n### Crossrefs\n[^A]: [[Num-31-26|ver 26]]; [[Deut-20-14|Dt 20:14]]; [[2Chr-28-8|2Ch 28:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

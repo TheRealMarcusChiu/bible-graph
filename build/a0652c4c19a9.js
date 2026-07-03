@@ -1,0 +1,1 @@
+(function(){var b="a0652c4c19a9",m="# Judges 1:28 (New International Version)\nWhen Israel became strong, they pressed the Canaanites into forced labor but never drove them out completely.[^A] \n\n### Crossrefs\n[^A]: [[Josh-17-12|Jos 17:12-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

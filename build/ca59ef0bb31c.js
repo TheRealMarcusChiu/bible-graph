@@ -1,0 +1,1 @@
+(function(){var b="ca59ef0bb31c",m="# 2 Corinthians 6:4 (New International Version)\nRather, as servants of God we commend ourselves in every way: in great endurance; in troubles, hardships and distresses;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

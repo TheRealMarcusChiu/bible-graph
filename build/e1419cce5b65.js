@@ -1,0 +1,1 @@
+(function(){var b="e1419cce5b65",m="# Matthew 25:4 (New International Version)\nThe wise ones, however, took oil in jars along with their lamps.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

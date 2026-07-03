@@ -1,0 +1,1 @@
+(function(){var b="d253a8a434d9",m="# Numbers 28:18 (New International Version)\nOn the first day hold a sacred assembly and do no regular work.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-12-16|Ex 12:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

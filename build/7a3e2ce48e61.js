@@ -1,0 +1,1 @@
+(function(){var b="7a3e2ce48e61",m="# Numbers 13:18 (New International Version)\nSee what the land is like and whether the people who live there are strong or weak, few or many.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="731017451e21",m="# Deuteronomy 6:21 (New International Version)\ntell him: \"We were slaves of Pharaoh in Egypt, but the LORD brought us out of Egypt with a mighty hand.[^A] \n\n### Crossrefs\n[^A]: S [[Deut-4-34|Dt 4:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

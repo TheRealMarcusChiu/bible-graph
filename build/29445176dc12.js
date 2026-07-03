@@ -1,0 +1,1 @@
+(function(){var b="29445176dc12",m="# Leviticus 11:26 (New International Version)\n\"'Every animal that does not have a divided hoof or that does not chew the cud is unclean for you; whoever touches the carcass of any of them will be unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5281c3536f06",m="# Philemon 21 (New International Version)\nConfident[^A] of your obedience, I write to you, knowing that you will do even more than I ask.\n\n### Crossrefs\n[^A]: S [[2Cor-2-3|2Co 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

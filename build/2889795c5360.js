@@ -1,0 +1,1 @@
+(function(){var b="2889795c5360",m="# Mark 9:49 (New International Version)\nEveryone will be salted[^A] with fire.\n\n### Crossrefs\n[^A]: [[Lev-2-13|Lev 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d74360ab42a0",m="# Exodus 26:9 (New International Version)\nJoin five of the curtains together into one set and the other six into another set. Fold the sixth curtain double at the front of the tent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

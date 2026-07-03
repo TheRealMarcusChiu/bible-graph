@@ -1,0 +1,1 @@
+(function(){var b="f7b50c60a61e",m="# Judges 7:6 (New International Version)\nThree hundred of them[^A] drank from cupped hands, lapping like dogs. All the rest got down on their knees to drink.\n\n### Crossrefs\n[^A]: [[Gen-14-14|Ge 14:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

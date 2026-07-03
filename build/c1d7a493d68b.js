@@ -1,0 +1,1 @@
+(function(){var b="c1d7a493d68b",m="# John 5:45 (New International Version)\n\"But do not think I will accuse you before the Father. Your accuser is Moses,[^A] on whom your hopes are set.[^B] \n\n### Crossrefs\n[^A]: [[John-9-28|Jn 9:28]]\n[^B]: [[Rom-2-17|Ro 2:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

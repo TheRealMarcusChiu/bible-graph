@@ -1,0 +1,1 @@
+(function(){var b="cc1ffeed6d4e",m="# Numbers 34:25 (New International Version)\nElizaphan son of Parnak,\nthe leader from the tribe of Zebulun;[^A]\n\n### Crossrefs\n[^A]: S [[Gen-30-20|Ge 30:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

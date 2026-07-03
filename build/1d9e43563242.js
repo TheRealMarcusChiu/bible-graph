@@ -1,0 +1,1 @@
+(function(){var b="1d9e43563242",m="# Leviticus 10:20 (New International Version)\nWhen Moses heard this, he was satisfied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

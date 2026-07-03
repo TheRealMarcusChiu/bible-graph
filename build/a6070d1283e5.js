@@ -1,0 +1,1 @@
+(function(){var b="a6070d1283e5",m="# Mark 6:43 (New International Version)\nand the disciples picked up twelve basketfuls of broken pieces of bread and fish.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

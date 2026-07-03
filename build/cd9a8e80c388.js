@@ -1,0 +1,1 @@
+(function(){var b="cd9a8e80c388",m="# Genesis 9:20 (New International Version)\nNoah, a man of the soil, proceeded to plant a vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

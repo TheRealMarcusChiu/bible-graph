@@ -1,0 +1,1 @@
+(function(){var b="23ea7e8209ce",m="# Matthew 23:39 (New International Version)\nFor I tell you, you will not see me again until you say, 'Blessed is he who comes in the name of the Lord.'\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-118-26|Ps 118:26]]; [[Matt-21-9|Mt 21:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="82cf1dd7df5a",m="# Luke 13:11 (New International Version)\nand a woman was there who had been crippled by a spirit for eighteen years.[^A] She was bent over and could not straighten up at all. \n\n### Crossrefs\n[^A]: [[Luke-13-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

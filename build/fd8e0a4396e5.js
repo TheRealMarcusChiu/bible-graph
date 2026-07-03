@@ -1,0 +1,1 @@
+(function(){var b="fd8e0a4396e5",m="# Exodus 32:17 (New International Version)\nWhen Joshua[^A] heard the noise of the people shouting, he said to Moses, \"There is the sound of war in the camp.\"\n\n### Crossrefs\n[^A]: S [[Exod-17-9|Ex 17:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

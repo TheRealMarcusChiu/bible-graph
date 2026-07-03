@@ -1,0 +1,1 @@
+(function(){var b="f9a0d34e5741",m="# Mark 14:47 (New International Version)\nThen one of those standing near drew his sword and struck the servant of the high priest, cutting off his ear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c34eed2af7fd",m="# Matthew 3:15 (New International Version)\nJesus replied, \"Let it be so now; it is proper for us to do this to fulfill all righteousness.\" Then John consented.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

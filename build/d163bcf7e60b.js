@@ -1,0 +1,1 @@
+(function(){var b="d163bcf7e60b",m="# Judges 9:8 (New International Version)\nOne day the trees went out to anoint a king for themselves. They said to the olive tree, 'Be our king.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

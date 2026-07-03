@@ -1,0 +1,1 @@
+(function(){var b="dc30a97a6aac",m="# Exodus 21:30 (New International Version)\nHowever, if payment is demanded, the owner may redeem his life by the payment of whatever is demanded.[^A] \n\n### Crossrefs\n[^A]: [[Exod-21-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

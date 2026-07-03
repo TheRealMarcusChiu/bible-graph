@@ -1,0 +1,1 @@
+(function(){var b="5e8708eb3c44",m="# Mark 8:10 (New International Version)\nhe got into the boat with his disciples and went to the region of Dalmanutha.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

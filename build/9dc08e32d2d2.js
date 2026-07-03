@@ -1,0 +1,1 @@
+(function(){var b="9dc08e32d2d2",m="# Genesis 7:8 (New International Version)\nPairs of clean and unclean[^A] animals, of birds and of all creatures that move along the ground, \n\n### Crossrefs\n[^A]: S [[Gen-7-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

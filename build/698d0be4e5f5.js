@@ -1,0 +1,1 @@
+(function(){var b="698d0be4e5f5",m="# Luke 23:40 (New International Version)\nBut the other criminal rebuked him. \"Don't you fear God,\" he said, \"since you are under the same sentence?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

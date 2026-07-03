@@ -1,0 +1,1 @@
+(function(){var b="c7a63f852a52",m="# Matthew 26:72 (New International Version)\nHe denied it again, with an oath: \"I don't know the man!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

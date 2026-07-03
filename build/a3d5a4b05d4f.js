@@ -1,0 +1,1 @@
+(function(){var b="a3d5a4b05d4f",m="# Luke 22:59 (New International Version)\nAbout an hour later another asserted, \"Certainly this fellow was with him, for he is a Galilean.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-23-6|Lk 23:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

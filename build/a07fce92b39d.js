@@ -1,0 +1,1 @@
+(function(){var b="a07fce92b39d",m="# Acts 7:23 (New International Version)\n\"When Moses was forty years old, he decided to visit his own people, the Israelites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

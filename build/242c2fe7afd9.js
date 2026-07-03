@@ -1,0 +1,1 @@
+(function(){var b="242c2fe7afd9",m="# Joshua 9:12 (New International Version)\nThis bread of ours was warm when we packed it at home on the day we left to come to you. But now see how dry and moldy it is.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0ac3f930293c",m="# Exodus 10:27 (New International Version)\nBut the LORD hardened Pharaoh's heart,[^A] and he was not willing to let them go. \n\n### Crossrefs\n[^A]: S [[Exod-4-21|Ex 4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

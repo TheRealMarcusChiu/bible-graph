@@ -1,0 +1,1 @@
+(function(){var b="0a1970ee8bf8",m="# Exodus 35:3 (New International Version)\nDo not light a fire in any of your dwellings on the Sabbath day.[^A]\"\n\n### Crossrefs\n[^A]: [[Exod-16-23|Ex 16:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

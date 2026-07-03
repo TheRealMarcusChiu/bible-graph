@@ -1,0 +1,1 @@
+(function(){var b="9da9bd54fd78",m="# Numbers 7:60 (New International Version)\nOn the ninth day Abidan son of Gideoni,[^A] the leader of the people of Benjamin, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-11|Nu 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

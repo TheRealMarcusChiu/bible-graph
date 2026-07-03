@@ -1,0 +1,1 @@
+(function(){var b="89d53402d52f",m="# Acts 13:18 (New International Version)\nfor about forty years he endured their conduct[^A] in the wilderness;[^B] \n\n### Crossrefs\n[^A]: [[Deut-1-31|Dt 1:31]]\n[^B]: [[Num-14-33|Nu 14:33]]; [[Ps-95-10|Ps 95:10]]; [[Acts-7-36|Ac 7:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

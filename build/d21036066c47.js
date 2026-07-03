@@ -1,0 +1,1 @@
+(function(){var b="d21036066c47",m="# Leviticus 13:37 (New International Version)\nIf, however, the sore is unchanged so far as the priest can see, and if black hair has grown in it, the affected person is healed. They are clean, and the priest shall pronounce them clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

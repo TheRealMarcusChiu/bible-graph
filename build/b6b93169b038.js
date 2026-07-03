@@ -1,0 +1,1 @@
+(function(){var b="b6b93169b038",m="# Hebrews 13:23 (New International Version)\nI want you to know that our brother Timothy[^A] has been released. If he arrives soon, I will come with him to see you.\n\n### Crossrefs\n[^A]: S [[Acts-16-1|Ac 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

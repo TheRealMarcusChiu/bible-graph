@@ -1,0 +1,1 @@
+(function(){var b="430b31b02b2a",m="# Exodus 7:2 (New International Version)\nYou are to say everything I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

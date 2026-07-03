@@ -1,0 +1,1 @@
+(function(){var b="9644a061c2ec",m="# Matthew 17:8 (New International Version)\nWhen they looked up, they saw no one except Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

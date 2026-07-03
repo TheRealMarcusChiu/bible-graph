@@ -1,0 +1,1 @@
+(function(){var b="acaa5aa1e71b",m="# James 4:17 (New International Version)\nIf anyone, then, knows the good they ought to do and doesn't do it, it is sin for them.[^A]\n\n### Crossrefs\n[^A]: [[Luke-12-47|Lk 12:47]]; [[John-9-41|Jn 9:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

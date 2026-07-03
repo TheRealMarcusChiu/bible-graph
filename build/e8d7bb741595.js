@@ -1,0 +1,1 @@
+(function(){var b="e8d7bb741595",m="# Deuteronomy 24:11 (New International Version)\nStay outside and let the neighbor to whom you are making the loan bring the pledge out to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

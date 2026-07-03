@@ -1,0 +1,1 @@
+(function(){var b="6f4fc00e9959",m="# Genesis 32:21 (New International Version)\nSo Jacob's gifts[^A] went on ahead of him, but he himself spent the night in the camp.\n\n### Crossrefs\n[^A]: S [[Gen-32-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

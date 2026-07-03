@@ -1,0 +1,1 @@
+(function(){var b="a9a2d209ff80",m="# John 3:33 (New International Version)\nWhoever has accepted it has certified that God is truthful.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

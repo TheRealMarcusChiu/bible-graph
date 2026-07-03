@@ -1,0 +1,1 @@
+(function(){var b="ecccc78196c7",m="# Mark 14:16 (New International Version)\nThe disciples left, went into the city and found things just as Jesus had told them. So they prepared the Passover.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

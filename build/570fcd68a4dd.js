@@ -1,0 +1,1 @@
+(function(){var b="570fcd68a4dd",m="# Leviticus 6:23 (New International Version)\nEvery grain offering of a priest shall be burned completely; it must not be eaten.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

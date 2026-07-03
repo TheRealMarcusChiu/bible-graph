@@ -1,0 +1,1 @@
+(function(){var b="912a3d22f7f9",m="# Luke 22:48 (New International Version)\nbut Jesus asked him, \"Judas, are you betraying the Son of Man with a kiss?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

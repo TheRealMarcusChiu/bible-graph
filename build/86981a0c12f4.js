@@ -1,0 +1,1 @@
+(function(){var b="86981a0c12f4",m="# Exodus 22:19 (New International Version)\n\"Anyone who has sexual relations with an animal[^A] is to be put to death.\n\n### Crossrefs\n[^A]: [[Lev-18-23|Lev 18:23]]; [[Lev-20-15|20:15]]; [[Deut-27-21|Dt 27:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

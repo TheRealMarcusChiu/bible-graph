@@ -1,0 +1,1 @@
+(function(){var b="da1287e4dfde",m="# Genesis 24:33 (New International Version)\nThen food was set before him, but he said, \"I will not eat until I have told you what I have to say.\"\n\"Then tell us,\" Laban said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

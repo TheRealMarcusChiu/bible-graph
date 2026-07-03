@@ -1,0 +1,1 @@
+(function(){var b="8d163df53396",m="# Mark 5:4 (New International Version)\nFor he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

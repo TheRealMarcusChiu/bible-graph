@@ -1,0 +1,1 @@
+(function(){var b="009475b59606",m="# Genesis 36:33 (New International Version)\nWhen Bela died, Jobab son of Zerah from Bozrah[^A] succeeded him as king.\n\n### Crossrefs\n[^A]: [[Isa-34-6|Isa 34:6]]; [[Isa-63-1|63:1]]; [[Jer-49-13|Jer 49:13]], [[Jer-49-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4e269bd3b38",m="# John 1:44 (New International Version)\nPhilip, like Andrew and Peter, was from the town of Bethsaida.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-11-21|Mt 11:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

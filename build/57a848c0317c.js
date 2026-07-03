@@ -1,0 +1,1 @@
+(function(){var b="57a848c0317c",m="# Exodus 5:20 (New International Version)\nWhen they left Pharaoh, they found Moses and Aaron waiting to meet them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

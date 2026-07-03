@@ -1,0 +1,1 @@
+(function(){var b="9e8a974d5f9b",m="# Romans 4:21 (New International Version)\nbeing fully persuaded that God had power to do what he had promised.[^A] \n\n### Crossrefs\n[^A]: [[Gen-18-14|Ge 18:14]]; S [[Matt-19-26|Mt 19:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

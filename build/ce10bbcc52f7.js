@@ -1,0 +1,1 @@
+(function(){var b="ce10bbcc52f7",m="# Mark 14:69 (New International Version)\nWhen the servant girl saw him there, she said again to those standing around, \"This fellow is one of them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

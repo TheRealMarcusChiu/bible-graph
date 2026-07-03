@@ -1,0 +1,1 @@
+(function(){var b="387b1d044e3f",m="# Matthew 19:10 (New International Version)\nThe disciples said to him, \"If this is the situation between a husband and wife, it is better not to marry.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

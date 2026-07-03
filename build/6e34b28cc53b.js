@@ -1,0 +1,1 @@
+(function(){var b="6e34b28cc53b",m="# Exodus 26:27 (New International Version)\nfive for those on the other side, and five for the frames on the west, at the far end of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

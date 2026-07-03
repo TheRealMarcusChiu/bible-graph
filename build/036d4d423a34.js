@@ -1,0 +1,1 @@
+(function(){var b="036d4d423a34",m="# Matthew 18:13 (New International Version)\nAnd if he finds it, truly I tell you, he is happier about that one sheep than about the ninety-nine that did not wander off.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e9c7d00bfa5e",m="# John 2:15 (New International Version)\nSo he made a whip out of cords, and drove all from the temple courts, both sheep and cattle; he scattered the coins of the money changers and overturned their tables.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

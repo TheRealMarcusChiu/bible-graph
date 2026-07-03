@@ -1,0 +1,1 @@
+(function(){var b="cf75dc77f791",m="# Genesis 36:20 (New International Version)\nThese were the sons of Seir the Horite,[^A] who were living in the region:\nLotan, Shobal, Zibeon, Anah,[^B] \n\n### Crossrefs\n[^A]: S [[Gen-14-6|Ge 14:6]]\n[^B]: [[Gen-36-29|ver 29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

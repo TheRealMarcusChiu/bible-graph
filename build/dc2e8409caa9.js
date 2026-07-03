@@ -1,0 +1,1 @@
+(function(){var b="dc2e8409caa9",m="# Matthew 26:73 (New International Version)\nAfter a little while, those standing there went up to Peter and said, \"Surely you are one of them; your accent gives you away.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

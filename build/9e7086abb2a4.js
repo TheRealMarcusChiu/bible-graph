@@ -1,0 +1,1 @@
+(function(){var b="9e7086abb2a4",m="# Matthew 2:21 (New International Version)\nSo he got up, took the child and his mother and went to the land of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

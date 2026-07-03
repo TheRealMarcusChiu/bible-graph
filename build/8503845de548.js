@@ -1,0 +1,1 @@
+(function(){var b="8503845de548",m="# Joshua 19:40 (New International Version)\nAllotment for Dan\nThe seventh lot came out for the tribe of Dan according to its clans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

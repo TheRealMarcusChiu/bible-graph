@@ -1,0 +1,1 @@
+(function(){var b="f9e2b1c8c999",m="# Acts 13:52 (New International Version)\nAnd the disciples[^A] were filled with joy and with the Holy Spirit.[^B]\n\n### Crossrefs\n[^A]: S [[Acts-11-26|Ac 11:26]]\n[^B]: S [[Luke-1-15|Lk 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

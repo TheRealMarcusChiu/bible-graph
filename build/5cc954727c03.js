@@ -1,0 +1,1 @@
+(function(){var b="5cc954727c03",m="# Luke 23:9 (New International Version)\nHe plied him with many questions, but Jesus gave him no answer.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-14-61|Mk 14:61]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

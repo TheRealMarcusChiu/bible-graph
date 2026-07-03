@@ -1,1 +1,0 @@
-(function(){var b="fb63fc232f47",m="# Transformers\n\nNotes on Transformers.\n\n## Linked notes\n\n- [[quantization — Tradeoffs]]\n- [[quantization — Debugging]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

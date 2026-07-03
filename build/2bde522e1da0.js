@@ -1,0 +1,1 @@
+(function(){var b="2bde522e1da0",m="# Exodus 30:3 (New International Version)\nOverlay the top and all the sides and the horns with pure gold, and make a gold molding around it.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-25-11|Ex 25:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

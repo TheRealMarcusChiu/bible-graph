@@ -1,0 +1,1 @@
+(function(){var b="e2c5aa25a748",m="# Matthew 12:20 (New International Version)\nA bruised reed he will not break,  \n    and a smoldering wick he will not snuff out,  \ntill he has brought justice through to victory.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

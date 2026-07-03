@@ -1,0 +1,1 @@
+(function(){var b="a393a4fef495",m="# Numbers 23:29 (New International Version)\nBalaam said, \"Build me seven altars here, and prepare seven bulls and seven rams for me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

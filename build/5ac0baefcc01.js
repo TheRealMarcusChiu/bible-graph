@@ -1,0 +1,1 @@
+(function(){var b="5ac0baefcc01",m="# Exodus 40:30 (New International Version)\nHe placed the basin[^A] between the tent of meeting and the altar and put water in it for washing, \n\n### Crossrefs\n[^A]: S [[Exod-40-7|ver 7]]; S [[Exod-30-18|Ex 30:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

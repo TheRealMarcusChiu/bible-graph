@@ -1,0 +1,1 @@
+(function(){var b="fe71c420ece5",m="# Luke 15:23 (New International Version)\nBring the fattened calf and kill it. Let's have a feast and celebrate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

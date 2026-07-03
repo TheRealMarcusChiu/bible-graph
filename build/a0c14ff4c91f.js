@@ -1,0 +1,1 @@
+(function(){var b="a0c14ff4c91f",m="# Numbers 31:25 (New International Version)\nDividing the Spoils\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

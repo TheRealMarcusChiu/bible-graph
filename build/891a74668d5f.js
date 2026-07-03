@@ -1,0 +1,1 @@
+(function(){var b="891a74668d5f",m="# Luke 22:36 (New International Version)\nHe said to them, \"But now if you have a purse, take it, and also a bag; and if you don't have a sword, sell your cloak and buy one.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

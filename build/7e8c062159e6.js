@@ -1,0 +1,1 @@
+(function(){var b="7e8c062159e6",m="# Matthew 24:44 (New International Version)\nSo you also must be ready,[^A] because the Son of Man will come at an hour when you do not expect him.\n\n### Crossrefs\n[^A]: [[1Thess-5-6|1Th 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

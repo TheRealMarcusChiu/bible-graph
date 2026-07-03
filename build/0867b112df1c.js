@@ -1,0 +1,1 @@
+(function(){var b="0867b112df1c",m="# Matthew 18:24 (New International Version)\nAs he began the settlement, a man who owed him ten thousand bags of gold was brought to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

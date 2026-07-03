@@ -1,0 +1,1 @@
+(function(){var b="2598b232a8fa",m="# Numbers 12:3 (New International Version)\n(Now Moses was a very humble man,[^A] more humble than anyone else on the face of the earth.)\n\n### Crossrefs\n[^A]: [[Matt-11-29|Mt 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

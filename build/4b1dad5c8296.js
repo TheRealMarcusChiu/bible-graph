@@ -1,0 +1,1 @@
+(function(){var b="4b1dad5c8296",m="# 2 Corinthians 8:13 (New International Version)\nOur desire is not that others might be relieved while you are hard pressed, but that there might be equality.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

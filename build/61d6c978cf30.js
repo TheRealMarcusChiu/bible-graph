@@ -1,0 +1,1 @@
+(function(){var b="61d6c978cf30",m="# Matthew 12:13 (New International Version)\nThen he said to the man, \"Stretch out your hand.\" So he stretched it out and it was completely restored, just as sound as the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

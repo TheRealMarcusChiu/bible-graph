@@ -1,0 +1,1 @@
+(function(){var b="6685d9c87676",m="# Mark 5:5 (New International Version)\nNight and day among the tombs and in the hills he would cry out and cut himself with stones.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

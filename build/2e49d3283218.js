@@ -1,0 +1,1 @@
+(function(){var b="2e49d3283218",m="# Acts 28:30 (New International Version)\nFor two whole years Paul stayed there in his own rented house and welcomed all who came to see him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

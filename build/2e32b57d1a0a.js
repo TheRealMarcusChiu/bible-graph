@@ -1,0 +1,1 @@
+(function(){var b="2e32b57d1a0a",m="# 1 Corinthians 7:4 (New International Version)\nThe wife does not have authority over her own body but yields it to her husband. In the same way, the husband does not have authority over his own body but yields it to his wife.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

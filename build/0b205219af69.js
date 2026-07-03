@@ -1,0 +1,1 @@
+(function(){var b="0b205219af69",m="# Exodus 26:25 (New International Version)\nSo there will be eight frames and sixteen silver bases--two under each frame.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

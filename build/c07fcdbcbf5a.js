@@ -1,0 +1,1 @@
+(function(){var b="c07fcdbcbf5a",m="# Ephesians 1:12 (New International Version)\nin order that we, who were the first to put our hope in Christ, might be for the praise of his glory.[^A] \n\n### Crossrefs\n[^A]: [[Eph-1-6|ver 6]], [[Eph-1-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

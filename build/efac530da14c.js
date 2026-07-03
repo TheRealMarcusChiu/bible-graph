@@ -1,0 +1,1 @@
+(function(){var b="efac530da14c",m="# Luke 18:34 (New International Version)\nThe disciples did not understand any of this. Its meaning was hidden from them, and they did not know what he was talking about.[^A]\n\n### Crossrefs\n[^A]: S [[Mark-9-32|Mk 9:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

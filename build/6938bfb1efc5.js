@@ -1,0 +1,1 @@
+(function(){var b="6938bfb1efc5",m="# Judges 5:13 (New International Version)\n\"The remnant of the nobles came down;  \n    the people of the LORD came down to me against the mighty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

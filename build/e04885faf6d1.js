@@ -1,0 +1,1 @@
+(function(){var b="e04885faf6d1",m="# Genesis 12:14 (New International Version)\nWhen Abram came to Egypt, the Egyptians saw that Sarai was a very beautiful woman.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-12-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

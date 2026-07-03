@@ -1,0 +1,1 @@
+(function(){var b="1e6f4e4bc1dd",m="# Mark 7:23 (New International Version)\nAll these evils come from inside and defile a person.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

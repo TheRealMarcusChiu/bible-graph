@@ -1,0 +1,1 @@
+(function(){var b="a545a4fefa39",m="# Deuteronomy 14:19 (New International Version)\nAll flying insects are unclean to you; do not eat them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

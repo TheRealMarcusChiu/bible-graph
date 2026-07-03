@@ -1,0 +1,1 @@
+(function(){var b="af7d31094a7f",m="# Matthew 24:37 (New International Version)\nAs it was in the days of Noah,[^A] so it will be at the coming of the Son of Man. \n\n### Crossrefs\n[^A]: [[Gen-6-5|Ge 6:5]]; [[Gen-7-6|7:6-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

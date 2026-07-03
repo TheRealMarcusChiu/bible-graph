@@ -1,0 +1,1 @@
+(function(){var b="afdff9445b50",m="# Matthew 15:3 (New International Version)\nJesus replied, \"And why do you break the command of God for the sake of your tradition?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

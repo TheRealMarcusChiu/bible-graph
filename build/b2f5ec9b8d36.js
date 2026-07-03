@@ -1,0 +1,1 @@
+(function(){var b="b2f5ec9b8d36",m="# Leviticus 25:46 (New International Version)\nYou can bequeath them to your children as inherited property and can make them slaves for life, but you must not rule over your fellow Israelites ruthlessly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

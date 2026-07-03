@@ -1,0 +1,1 @@
+(function(){var b="cb530ff19880",m="# Numbers 3:48 (New International Version)\nGive the money for the redemption[^A] of the additional Israelites to Aaron and his sons.\"[^B]\n\n### Crossrefs\n[^A]: [[Num-3-51|ver 51]]\n[^B]: [[Num-3-50|ver 50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

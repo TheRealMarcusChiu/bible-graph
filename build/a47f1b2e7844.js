@@ -1,0 +1,1 @@
+(function(){var b="a47f1b2e7844",m="# Mark 10:48 (New International Version)\nMany rebuked him and told him to be quiet, but he shouted all the more, \"Son of David, have mercy on me!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc2f54229a46",m="# Genesis 23:13 (New International Version)\nand he said to Ephron in their hearing, \"Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

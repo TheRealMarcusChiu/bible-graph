@@ -1,0 +1,1 @@
+(function(){var b="181ac26cd29b",m="# Numbers 5:10 (New International Version)\nSacred things belong to their owners, but what they give to the priest will belong to the priest.[^A]'\"\n\n### Crossrefs\n[^A]: [[Lev-7-29|Lev 7:29-34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

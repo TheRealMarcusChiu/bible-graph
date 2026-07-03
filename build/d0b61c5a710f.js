@@ -1,0 +1,1 @@
+(function(){var b="d0b61c5a710f",m="# John 11:30 (New International Version)\nNow Jesus had not yet entered the village, but was still at the place where Martha had met him.[^A] \n\n### Crossrefs\n[^A]: [[John-11-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

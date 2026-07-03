@@ -1,0 +1,1 @@
+(function(){var b="c095b9caa1c8",m="# Genesis 24:39 (New International Version)\n\"Then I asked my master, 'What if the woman will not come back with me?'[^A]\n\n### Crossrefs\n[^A]: S [[Gen-24-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

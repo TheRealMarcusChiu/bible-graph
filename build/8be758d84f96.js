@@ -1,0 +1,1 @@
+(function(){var b="8be758d84f96",m="# John 17:15 (New International Version)\nMy prayer is not that you take them out of the world but that you protect them from the evil one.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-5-37|Mt 5:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

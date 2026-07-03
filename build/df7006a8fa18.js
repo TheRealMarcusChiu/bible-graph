@@ -1,0 +1,1 @@
+(function(){var b="df7006a8fa18",m="# Deuteronomy 25:13 (New International Version)\nDo not have two differing weights in your bag--one heavy, one light.[^A] \n\n### Crossrefs\n[^A]: [[Prov-11-1|Pr 11:1]]; [[Prov-20-23|20:23]]; [[Mic-6-11|Mic 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

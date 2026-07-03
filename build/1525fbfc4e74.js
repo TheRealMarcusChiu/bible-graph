@@ -1,0 +1,1 @@
+(function(){var b="1525fbfc4e74",m="# Acts 15:11 (New International Version)\nNo! We believe it is through the grace[^A] of our Lord Jesus that we are saved, just as they are.\"\n\n### Crossrefs\n[^A]: S [[Rom-3-24|Ro 3:24]]; [[Gal-2-16|Gal 2:16]]; [[Eph-2-5|Eph 2:5-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

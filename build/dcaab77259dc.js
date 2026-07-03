@@ -1,0 +1,1 @@
+(function(){var b="dcaab77259dc",m="# Matthew 24:6 (New International Version)\nYou will hear of wars and rumors of wars, but see to it that you are not alarmed. Such things must happen, but the end is still to come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

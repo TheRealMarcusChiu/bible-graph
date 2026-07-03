@@ -1,0 +1,1 @@
+(function(){var b="1534f3039175",m="# Exodus 13:20 (New International Version)\nAfter leaving Sukkoth[^A] they camped at Etham on the edge of the desert.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-12-37|Ex 12:37]]\n[^B]: [[Num-33-6|Nu 33:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="586b35067994",m="# Deuteronomy 4:49 (New International Version)\nand included all the Arabah east of the Jordan, as far as the Dead Sea, below the slopes of Pisgah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

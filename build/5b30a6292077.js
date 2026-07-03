@@ -1,0 +1,1 @@
+(function(){var b="5b30a6292077",m="# John 19:3 (New International Version)\nand went up to him again and again, saying, \"Hail, king of the Jews!\"[^A] And they slapped him in the face.[^B]\n\n### Crossrefs\n[^A]: [[Matt-27-29|Mt 27:29]]\n[^B]: [[John-18-22|Jn 18:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b4202b3e8a68",m="# Numbers 29:40 (New International Version)\nMoses told the Israelites all that the LORD commanded him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

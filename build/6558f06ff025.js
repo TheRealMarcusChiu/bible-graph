@@ -1,0 +1,1 @@
+(function(){var b="6558f06ff025",m="# Matthew 24:12 (New International Version)\nBecause of the increase of wickedness, the love of most will grow cold,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

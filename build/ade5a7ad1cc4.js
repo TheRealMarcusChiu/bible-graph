@@ -1,0 +1,1 @@
+(function(){var b="ade5a7ad1cc4",m="# Exodus 28:14 (New International Version)\nand two braided chains of pure gold, like a rope, and attach the chains to the settings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

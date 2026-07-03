@@ -1,0 +1,1 @@
+(function(){var b="be22e5217d26",m="# Matthew 10:33 (New International Version)\nBut whoever disowns me before others, I will disown before my Father in heaven.[^A]\n\n### Crossrefs\n[^A]: [[Mark-8-38|Mk 8:38]]; [[2Tim-2-12|2Ti 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

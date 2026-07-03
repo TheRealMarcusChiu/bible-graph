@@ -1,0 +1,1 @@
+(function(){var b="655a32deec6f",m="# Mark 9:15 (New International Version)\nAs soon as all the people saw Jesus, they were overwhelmed with wonder and ran to greet him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

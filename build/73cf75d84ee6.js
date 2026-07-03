@@ -1,0 +1,1 @@
+(function(){var b="73cf75d84ee6",m="# Leviticus 6:13 (New International Version)\nThe fire must be kept burning on the altar continuously; it must not go out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

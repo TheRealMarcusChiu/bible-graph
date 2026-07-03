@@ -1,0 +1,1 @@
+(function(){var b="bd11811b64eb",m="# Deuteronomy 14:16 (New International Version)\nthe little owl, the great owl, the white owl,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

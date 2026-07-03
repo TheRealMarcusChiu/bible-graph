@@ -1,0 +1,1 @@
+(function(){var b="39a0d6471e2b",m="# Matthew 27:37 (New International Version)\nAbove his head they placed the written charge against him: this is jesus, the king of the jews.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

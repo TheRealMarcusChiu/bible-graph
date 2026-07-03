@@ -1,0 +1,1 @@
+(function(){var b="497085712b5b",m="# Mark 2:2 (New International Version)\nThey gathered in such large numbers[^A] that there was no room left, not even outside the door, and he preached the word to them. \n\n### Crossrefs\n[^A]: [[Mark-2-13|ver 13]]; [[Mark-1-45|Mk 1:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

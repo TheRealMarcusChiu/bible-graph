@@ -1,0 +1,1 @@
+(function(){var b="78ed1894542f",m="# Deuteronomy 2:16 (New International Version)\nNow when the last of these fighting men among the people had died,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c193e2a4582a",m="# Hebrews 5:4 (New International Version)\nAnd no one takes this honor on himself, but he receives it when called by God, just as Aaron was.[^A]\n\n### Crossrefs\n[^A]: [[Exod-28-1|Ex 28:1]]; [[Num-14-40|Nu 14:40]]; [[Num-18-7|18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

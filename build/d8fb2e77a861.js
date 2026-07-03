@@ -1,0 +1,1 @@
+(function(){var b="d8fb2e77a861",m="# Acts 22:28 (New International Version)\nThen the commander said, \"I had to pay a lot of money for my citizenship.\"\n\"But I was born a citizen,\" Paul replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

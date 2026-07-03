@@ -1,0 +1,1 @@
+(function(){var b="ed20d25f5a1e",m="# John 1:41 (New International Version)\nThe first thing Andrew did was to find his brother Simon and tell him, \"We have found the Messiah\" (that is, the Christ).[^A] \n\n### Crossrefs\n[^A]: [[John-4-25|Jn 4:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

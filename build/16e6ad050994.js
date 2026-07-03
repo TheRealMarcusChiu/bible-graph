@@ -1,0 +1,1 @@
+(function(){var b="16e6ad050994",m="# Numbers 18:10 (New International Version)\nEat it as something most holy; every male shall eat it.[^A] You must regard it as holy.[^B]\n\n### Crossrefs\n[^A]: S [[Lev-6-16|Lev 6:16]]\n[^B]: [[Lev-6-17|Lev 6:17]], [[Lev-6-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

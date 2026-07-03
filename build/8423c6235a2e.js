@@ -1,0 +1,1 @@
+(function(){var b="8423c6235a2e",m="# Exodus 12:25 (New International Version)\nWhen you enter the land[^A] that the LORD will give you as he promised, observe this ceremony. \n\n### Crossrefs\n[^A]: S [[Gen-15-14|Ge 15:14]]; [[Exod-3-17|Ex 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

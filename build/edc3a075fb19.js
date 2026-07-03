@@ -1,0 +1,1 @@
+(function(){var b="edc3a075fb19",m="# Mark 13:7 (New International Version)\nWhen you hear of wars and rumors of wars, do not be alarmed. Such things must happen, but the end is still to come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="63bdbc3d9910",m="# Numbers 16:20 (New International Version)\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

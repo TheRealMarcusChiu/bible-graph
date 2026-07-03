@@ -1,0 +1,1 @@
+(function(){var b="2d2f3503e084",m="# Acts 2:18 (New International Version)\nEven on my servants, both men and women,  \n    I will pour out my Spirit in those days,  \n    and they will prophesy.[^A]\n\n### Crossrefs\n[^A]: [[Acts-21-9|Ac 21:9-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

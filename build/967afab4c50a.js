@@ -1,0 +1,1 @@
+(function(){var b="967afab4c50a",m="# Numbers 15:33 (New International Version)\nThose who found him gathering wood brought him to Moses and Aaron and the whole assembly,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

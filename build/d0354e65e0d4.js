@@ -1,0 +1,1 @@
+(function(){var b="d0354e65e0d4",m="# Leviticus 13:9 (New International Version)\n\"When anyone has a defiling skin disease, they must be brought to the priest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

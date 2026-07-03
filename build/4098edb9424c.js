@@ -1,0 +1,1 @@
+(function(){var b="4098edb9424c",m="# Hebrews 7:10 (New International Version)\nbecause when Melchizedek met Abraham, Levi was still in the body of his ancestor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

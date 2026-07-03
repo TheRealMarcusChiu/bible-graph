@@ -1,0 +1,1 @@
+(function(){var b="12fec17bf126",m="# Genesis 27:5 (New International Version)\nNow Rebekah was listening as Isaac spoke to his son Esau. When Esau left for the open country[^A] to hunt game and bring it back, \n\n### Crossrefs\n[^A]: S [[Gen-25-27|Ge 25:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

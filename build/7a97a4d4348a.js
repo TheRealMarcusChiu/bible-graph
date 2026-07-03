@@ -1,0 +1,1 @@
+(function(){var b="7a97a4d4348a",m="# John 21:11 (New International Version)\nSo Simon Peter climbed back into the boat and dragged the net ashore. It was full of large fish, 153, but even with so many the net was not torn.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

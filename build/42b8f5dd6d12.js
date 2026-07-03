@@ -1,0 +1,1 @@
+(function(){var b="42b8f5dd6d12",m="# Romans 12:15 (New International Version)\nRejoice with those who rejoice; mourn with those who mourn.[^A] \n\n### Crossrefs\n[^A]: [[Job-30-25|Job 30:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="03abef144921",m="# Acts 1:23 (New International Version)\nSo they nominated two men: Joseph called Barsabbas (also known as Justus) and Matthias.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

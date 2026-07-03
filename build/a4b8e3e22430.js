@@ -1,0 +1,1 @@
+(function(){var b="a4b8e3e22430",m="# Numbers 2:15 (New International Version)\nHis division numbers 45,650.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

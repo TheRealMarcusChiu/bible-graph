@@ -1,0 +1,1 @@
+(function(){var b="e80188edb73e",m="# Joshua 6:14 (New International Version)\nSo on the second day they marched around the city once and returned to the camp. They did this for six days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4a1a09f3f62f",m="# Luke 1:31 (New International Version)\nYou will conceive and give birth to a son, and you are to call him Jesus.[^A] \n\n### Crossrefs\n[^A]: [[Isa-7-14|Isa 7:14]]; [[Matt-1-21|Mt 1:21]], [[Matt-1-25|25]]; [[Luke-2-21|Lk 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

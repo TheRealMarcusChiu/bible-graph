@@ -1,0 +1,1 @@
+(function(){var b="3d63eff1f7bd",m="# Genesis 25:29 (New International Version)\nOnce when Jacob was cooking some stew,[^A] Esau came in from the open country,[^B] famished. \n\n### Crossrefs\n[^A]: [[2Kgs-4-38|2Ki 4:38-40]]\n[^B]: S [[Gen-25-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

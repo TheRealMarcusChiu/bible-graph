@@ -1,0 +1,1 @@
+(function(){var b="5074029c2345",m="# Luke 8:53 (New International Version)\nThey laughed at him, knowing that she was dead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

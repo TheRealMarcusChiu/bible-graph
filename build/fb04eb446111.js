@@ -1,0 +1,1 @@
+(function(){var b="fb04eb446111",m="# John 17:16 (New International Version)\nThey are not of the world, even as I am not of it.[^A] \n\n### Crossrefs\n[^A]: [[John-17-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

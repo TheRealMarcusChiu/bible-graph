@@ -1,0 +1,1 @@
+(function(){var b="85306ca0fad7",m="# Genesis 50:12 (New International Version)\nSo Jacob's sons did as he had commanded them:[^A] \n\n### Crossrefs\n[^A]: [[Gen-49-29|Ge 49:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

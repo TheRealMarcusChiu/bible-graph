@@ -1,0 +1,1 @@
+(function(){var b="ea675f18efe0",m="# Luke 13:30 (New International Version)\nIndeed there are those who are last who will be first, and first who will be last.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-19-30|Mt 19:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

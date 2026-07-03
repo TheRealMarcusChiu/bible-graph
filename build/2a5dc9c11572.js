@@ -1,0 +1,1 @@
+(function(){var b="2a5dc9c11572",m="# Matthew 12:44 (New International Version)\nThen it says, 'I will return to the house I left.' When it arrives, it finds the house unoccupied, swept clean and put in order.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

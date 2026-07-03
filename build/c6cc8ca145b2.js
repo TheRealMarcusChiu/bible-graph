@@ -1,0 +1,1 @@
+(function(){var b="c6cc8ca145b2",m="# Acts 14:28 (New International Version)\nAnd they stayed there a long time with the disciples.[^A]\n\n### Crossrefs\n[^A]: S [[Acts-11-26|Ac 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

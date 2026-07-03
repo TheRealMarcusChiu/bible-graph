@@ -1,0 +1,1 @@
+(function(){var b="35ce4adb9c98",m="# Luke 20:13 (New International Version)\n\"Then the owner of the vineyard said, 'What shall I do? I will send my son, whom I love;[^A] perhaps they will respect him.'\n\n### Crossrefs\n[^A]: S [[Matt-3-17|Mt 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

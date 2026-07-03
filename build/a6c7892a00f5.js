@@ -1,0 +1,1 @@
+(function(){var b="a6c7892a00f5",m="# Judges 11:9 (New International Version)\nJephthah answered, \"Suppose you take me back to fight the Ammonites and the LORD gives them to me--will I really be your head?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="336452484312",m="# Genesis 34:1 (New International Version)\nDinah and the Shechemites\nNow Dinah,[^A] the daughter Leah had borne to Jacob, went out to visit the women of the land. \n\n### Crossrefs\n[^A]: S [[Gen-30-21|Ge 30:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

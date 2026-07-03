@@ -1,0 +1,1 @@
+(function(){var b="7f60dfe61bf3",m="# Matthew 2:7 (New International Version)\nThen Herod called the Magi secretly and found out from them the exact time the star had appeared.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

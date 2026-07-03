@@ -1,0 +1,1 @@
+(function(){var b="fd0041016bac",m="# Mark 11:28 (New International Version)\n\"By what authority are you doing these things?\" they asked. \"And who gave you authority to do this?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="953ef4e4e055",m="# Numbers 7:29 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Eliab son of Helon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

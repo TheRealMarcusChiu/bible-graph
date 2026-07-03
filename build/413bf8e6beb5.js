@@ -1,0 +1,1 @@
+(function(){var b="413bf8e6beb5",m="# Leviticus 11:30 (New International Version)\nthe gecko, the monitor lizard, the wall lizard, the skink and the chameleon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

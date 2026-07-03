@@ -1,0 +1,1 @@
+(function(){var b="bf938420423e",m="# Deuteronomy 21:4 (New International Version)\nand lead it down to a valley that has not been plowed or planted and where there is a flowing stream. There in the valley they are to break the heifer's neck.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

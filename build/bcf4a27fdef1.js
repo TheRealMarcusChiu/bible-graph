@@ -1,0 +1,1 @@
+(function(){var b="bcf4a27fdef1",m="# Matthew 8:33 (New International Version)\nThose tending the pigs ran off, went into the town and reported all this, including what had happened to the demon-possessed men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

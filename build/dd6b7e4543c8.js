@@ -1,0 +1,1 @@
+(function(){var b="dd6b7e4543c8",m="# Genesis 36:34 (New International Version)\nWhen Jobab died, Husham from the land of the Temanites[^A] succeeded him as king.\n\n### Crossrefs\n[^A]: [[Jer-49-7|Jer 49:7]]; [[Ezek-25-13|Eze 25:13]]; [[Obad-1-9|Ob 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

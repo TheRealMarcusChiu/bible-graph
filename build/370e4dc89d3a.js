@@ -1,0 +1,1 @@
+(function(){var b="370e4dc89d3a",m="# Joshua 19:24 (New International Version)\nAllotment for Asher\nThe fifth lot came out for the tribe of Asher[^A] according to its clans. \n\n### Crossrefs\n[^A]: S [[Josh-17-7|Jos 17:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

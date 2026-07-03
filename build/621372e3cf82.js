@@ -1,0 +1,1 @@
+(function(){var b="621372e3cf82",m="# Exodus 32:21 (New International Version)\nHe said to Aaron, \"What did these people do to you, that you led them into such great sin?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

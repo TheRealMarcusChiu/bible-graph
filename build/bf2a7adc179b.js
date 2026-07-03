@@ -1,0 +1,1 @@
+(function(){var b="bf2a7adc179b",m="# Leviticus 9:19 (New International Version)\nBut the fat portions of the ox and the ram--the fat tail, the layer of fat, the kidneys and the long lobe of the liver--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

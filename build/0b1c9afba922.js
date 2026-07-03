@@ -1,0 +1,1 @@
+(function(){var b="0b1c9afba922",m="# 1 Corinthians 15:37 (New International Version)\nWhen you sow, you do not plant the body that will be, but just a seed, perhaps of wheat or of something else.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

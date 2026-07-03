@@ -1,0 +1,1 @@
+(function(){var b="28bc2c88ace7",m="# Joshua 10:34 (New International Version)\nThen Joshua and all Israel with him moved on from Lachish to Eglon;[^A] they took up positions against it and attacked it. \n\n### Crossrefs\n[^A]: S [[Josh-10-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

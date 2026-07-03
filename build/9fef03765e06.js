@@ -1,0 +1,1 @@
+(function(){var b="9fef03765e06",m="# Exodus 31:1 (New International Version)\nBezalel and Oholiab[^A]\nThen the LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Exod-31-2|31:2-6pp]] — [[Exod-35-30|Ex 35:30-35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

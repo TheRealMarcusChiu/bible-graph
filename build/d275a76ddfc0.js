@@ -1,0 +1,1 @@
+(function(){var b="d275a76ddfc0",m="# Leviticus 14:16 (New International Version)\ndip his right forefinger into the oil in his palm, and with his finger sprinkle some of it before the LORD seven times.[^A] \n\n### Crossrefs\n[^A]: [[Lev-14-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

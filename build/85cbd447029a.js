@@ -1,0 +1,1 @@
+(function(){var b="85cbd447029a",m="# Leviticus 15:4 (New International Version)\n\"'Any bed the man with a discharge lies on will be unclean, and anything he sits on will be unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

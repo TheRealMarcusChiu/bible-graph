@@ -1,0 +1,1 @@
+(function(){var b="b59b98ca2267",m="# Ephesians 3:13 (New International Version)\nI ask you, therefore, not to be discouraged because of my sufferings for you, which are your glory.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

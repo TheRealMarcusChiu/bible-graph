@@ -1,0 +1,1 @@
+(function(){var b="faaba541a78f",m="# Genesis 5:23 (New International Version)\nAltogether, Enoch lived a total of 365 years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

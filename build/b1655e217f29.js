@@ -1,0 +1,1 @@
+(function(){var b="b1655e217f29",m="# Genesis 11:24 (New International Version)\nWhen Nahor had lived 29 years, he became the father of Terah.[^A] \n\n### Crossrefs\n[^A]: [[Luke-3-34|Lk 3:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

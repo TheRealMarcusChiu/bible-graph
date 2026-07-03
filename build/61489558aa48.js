@@ -1,0 +1,1 @@
+(function(){var b="61489558aa48",m="# Exodus 34:17 (New International Version)\n\"Do not make any idols.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-20-4|Ex 20:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

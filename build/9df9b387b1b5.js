@@ -1,0 +1,1 @@
+(function(){var b="9df9b387b1b5",m="# Luke 19:35 (New International Version)\nThey brought it to Jesus, threw their cloaks on the colt and put Jesus on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

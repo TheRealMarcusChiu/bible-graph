@@ -1,0 +1,1 @@
+(function(){var b="190398ef323b",m="# Acts 10:46 (New International Version)\nFor they heard them speaking in tongues[^A] and praising God.\nThen Peter said, \n\n### Crossrefs\n[^A]: S [[Mark-16-17|Mk 16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

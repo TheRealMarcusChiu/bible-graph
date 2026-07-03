@@ -1,0 +1,1 @@
+(function(){var b="21f75b273c23",m="# Genesis 36:8 (New International Version)\nSo Esau[^A] (that is, Edom)[^B] settled in the hill country of Seir.[^C]\n\n### Crossrefs\n[^A]: [[Deut-2-4|Dt 2:4]]\n[^B]: S [[Gen-25-30|Ge 25:30]]\n[^C]: S [[Gen-14-6|Ge 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

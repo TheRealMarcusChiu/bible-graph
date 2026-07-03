@@ -1,0 +1,1 @@
+(function(){var b="e55a3d91f259",m="# Genesis 24:57 (New International Version)\nThen they said, \"Let's call the young woman and ask her about it.\"[^A] \n\n### Crossrefs\n[^A]: [[Judg-19-3|Jdg 19:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

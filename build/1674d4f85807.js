@@ -1,0 +1,1 @@
+(function(){var b="1674d4f85807",m="# Exodus 27:7 (New International Version)\nThe poles are to be inserted into the rings so they will be on two sides of the altar when it is carried.[^A] \n\n### Crossrefs\n[^A]: [[Exod-25-14|Ex 25:14]], [[Exod-25-28|28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="19e9a3c93d86",m="# Exodus 13:7 (New International Version)\nEat unleavened bread during those seven days; nothing with yeast in it is to be seen among you, nor shall any yeast be seen anywhere within your borders.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="71636ad49109",m="# Matthew 8\n\nJesus as Israel's Messiah -- his birth, the Sermon on the Mount, his death and resurrection, fulfilling the Scriptures.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="57985000b07e",m="# Numbers 2:19 (New International Version)\nHis division numbers 40,500.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

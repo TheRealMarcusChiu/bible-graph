@@ -1,0 +1,1 @@
+(function(){var b="f23bf8bdb5c7",m="# Exodus 34:8 (New International Version)\nMoses bowed to the ground at once and worshiped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

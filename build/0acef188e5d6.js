@@ -1,0 +1,1 @@
+(function(){var b="0acef188e5d6",m="# Exodus 30:27 (New International Version)\nthe table and all its articles, the lampstand and its accessories, the altar of incense,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

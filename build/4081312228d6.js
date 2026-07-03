@@ -1,0 +1,1 @@
+(function(){var b="4081312228d6",m="# Exodus 36:21 (New International Version)\nEach frame was ten cubits long and a cubit and a half wide,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

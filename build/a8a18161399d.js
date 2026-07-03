@@ -1,0 +1,1 @@
+(function(){var b="a8a18161399d",m="# Mark 3:4 (New International Version)\nThen Jesus asked them, \"Which is lawful on the Sabbath: to do good or to do evil, to save life or to kill?\" But they remained silent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

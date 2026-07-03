@@ -1,0 +1,1 @@
+(function(){var b="e5b1b7619765",m="# Matthew 22:27 (New International Version)\nFinally, the woman died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

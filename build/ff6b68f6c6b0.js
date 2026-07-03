@@ -1,0 +1,1 @@
+(function(){var b="ff6b68f6c6b0",m="# Acts 20:17 (New International Version)\nFrom Miletus,[^A] Paul sent to Ephesus for the elders[^B] of the church. \n\n### Crossrefs\n[^A]: [[Acts-20-15|ver 15]]\n[^B]: S [[Acts-11-30|Ac 11:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

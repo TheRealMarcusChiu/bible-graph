@@ -1,0 +1,1 @@
+(function(){var b="2c9996afaf3d",m="# Mark 13:35 (New International Version)\n\"Therefore keep watch because you do not know when the owner of the house will come back--whether in the evening, or at midnight, or when the rooster crows, or at dawn.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bcb63795ebf9",m="# Leviticus 23:28 (New International Version)\nDo not do any work[^A] on that day, because it is the Day of Atonement, when atonement is made for you before the LORD your God. \n\n### Crossrefs\n[^A]: [[Lev-23-31|ver 31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

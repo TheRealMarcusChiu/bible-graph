@@ -1,0 +1,1 @@
+(function(){var b="fde1cfdd232a",m="# Luke 15:26 (New International Version)\nSo he called one of the servants and asked him what was going on.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

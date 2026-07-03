@@ -1,0 +1,1 @@
+(function(){var b="7cbb416d37fd",m="# Exodus 26:16 (New International Version)\nEach frame is to be ten cubits long and a cubit and a half wide,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

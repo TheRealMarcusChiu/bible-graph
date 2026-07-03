@@ -1,0 +1,1 @@
+(function(){var b="6c4d03403a6c",m="# Judges 9:42 (New International Version)\nThe next day the people of Shechem went out to the fields, and this was reported to Abimelek.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

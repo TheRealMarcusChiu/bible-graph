@@ -1,0 +1,1 @@
+(function(){var b="fb620a68dd73",m="# Genesis 41:9 (New International Version)\nThen the chief cupbearer said to Pharaoh, \"Today I am reminded of my shortcomings.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-40-14|Ge 40:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

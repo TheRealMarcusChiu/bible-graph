@@ -1,0 +1,1 @@
+(function(){var b="a03b89b5c4ac",m="# Judges 7:11 (New International Version)\nand listen to what they are saying. Afterward, you will be encouraged to attack the camp.\" So he and Purah his servant went down to the outposts of the camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

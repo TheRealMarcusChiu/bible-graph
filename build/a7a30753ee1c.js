@@ -1,0 +1,1 @@
+(function(){var b="a7a30753ee1c",m="# John 7:29 (New International Version)\nbut I know him[^A] because I am from him and he sent me.\"[^B]\n\n### Crossrefs\n[^A]: S [[Matt-11-27|Mt 11:27]]\n[^B]: S [[John-3-17|Jn 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

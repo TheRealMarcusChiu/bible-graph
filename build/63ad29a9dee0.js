@@ -1,0 +1,1 @@
+(function(){var b="63ad29a9dee0",m="# John 5:6 (New International Version)\nWhen Jesus saw him lying there and learned that he had been in this condition for a long time, he asked him, \"Do you want to get well?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a969651f23ed",m="# Exodus 25:24 (New International Version)\nOverlay it with pure gold and make a gold molding around it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

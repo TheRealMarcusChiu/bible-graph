@@ -1,0 +1,1 @@
+(function(){var b="f00519f0b35e",m="# Mark 7:18 (New International Version)\n\"Are you so dull?\" he asked. \"Don't you see that nothing that enters a person from the outside can defile them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

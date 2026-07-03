@@ -1,0 +1,1 @@
+(function(){var b="9b22f11059a4",m="# Deuteronomy 1:30 (New International Version)\nThe LORD your God, who is going before you, will fight[^A] for you, as he did for you in Egypt, before your very eyes, \n\n### Crossrefs\n[^A]: S [[Exod-14-14|Ex 14:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

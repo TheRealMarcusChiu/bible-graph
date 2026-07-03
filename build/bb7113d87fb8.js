@@ -1,0 +1,1 @@
+(function(){var b="bb7113d87fb8",m="# Luke 22:69 (New International Version)\nBut from now on, the Son of Man will be seated at the right hand of the mighty God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Mark-16-19|Mk 16:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b440d21e4046",m="# 1 Corinthians 10:17 (New International Version)\nBecause there is one loaf, we, who are many, are one body,[^A] for we all share the one loaf.\n\n### Crossrefs\n[^A]: S [[Rom-12-5|Ro 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

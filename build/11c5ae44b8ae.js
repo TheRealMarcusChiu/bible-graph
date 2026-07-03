@@ -1,0 +1,1 @@
+(function(){var b="11c5ae44b8ae",m="# Judges 1:11 (New International Version)\nFrom there they advanced against the people living in Debir[^A] (formerly called Kiriath Sepher).\n\n### Crossrefs\n[^A]: [[Josh-10-38|Jos 10:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

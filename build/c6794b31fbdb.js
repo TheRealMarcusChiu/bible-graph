@@ -1,0 +1,1 @@
+(function(){var b="c6794b31fbdb",m="# Luke 10:14 (New International Version)\nBut it will be more bearable for Tyre and Sidon at the judgment than for you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

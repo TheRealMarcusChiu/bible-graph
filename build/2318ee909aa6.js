@@ -1,0 +1,1 @@
+(function(){var b="2318ee909aa6",m="# Romans 14:16 (New International Version)\nTherefore do not let what you know is good be spoken of as evil.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-10-30|1Co 10:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

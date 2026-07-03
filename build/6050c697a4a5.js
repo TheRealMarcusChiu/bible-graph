@@ -1,0 +1,1 @@
+(function(){var b="6050c697a4a5",m="# 2 Corinthians 12:17 (New International Version)\nDid I exploit you through any of the men I sent to you?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

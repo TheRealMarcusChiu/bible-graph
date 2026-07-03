@@ -1,0 +1,1 @@
+(function(){var b="42f18a74d6e7",m="# Joshua 9:2 (New International Version)\nthey came together to wage war against Joshua and Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

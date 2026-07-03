@@ -1,0 +1,1 @@
+(function(){var b="aac001847c3b",m="# John 5:28 (New International Version)\n\"Do not be amazed at this, for a time is coming[^A] when all who are in their graves will hear his voice \n\n### Crossrefs\n[^A]: [[John-4-21|Jn 4:21]]; [[John-16-2|16:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

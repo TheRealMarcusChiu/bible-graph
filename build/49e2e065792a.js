@@ -1,0 +1,1 @@
+(function(){var b="49e2e065792a",m="# Matthew 27:58 (New International Version)\nGoing to Pilate, he asked for Jesus' body, and Pilate ordered that it be given to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

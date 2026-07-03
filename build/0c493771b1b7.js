@@ -1,0 +1,1 @@
+(function(){var b="0c493771b1b7",m="# Exodus 36:16 (New International Version)\nThey joined five of the curtains into one set and the other six into another set.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

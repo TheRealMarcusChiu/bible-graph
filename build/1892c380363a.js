@@ -1,0 +1,1 @@
+(function(){var b="1892c380363a",m="# Numbers 10:3 (New International Version)\nWhen both are sounded, the whole community is to assemble before you at the entrance to the tent of meeting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

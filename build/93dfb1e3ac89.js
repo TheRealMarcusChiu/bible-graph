@@ -1,0 +1,1 @@
+(function(){var b="93dfb1e3ac89",m="# Deuteronomy 22:26 (New International Version)\nDo nothing to the woman; she has committed no sin deserving death. This case is like that of someone who attacks and murders a neighbor,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

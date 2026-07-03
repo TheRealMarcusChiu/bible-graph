@@ -1,0 +1,1 @@
+(function(){var b="1f582accc409",m="# Acts 7:20 (New International Version)\n\"At that time Moses was born, and he was no ordinary child. For three months he was cared for by his family.[^A] \n\n### Crossrefs\n[^A]: [[Exod-2-2|Ex 2:2]]; [[Heb-11-23|Heb 11:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

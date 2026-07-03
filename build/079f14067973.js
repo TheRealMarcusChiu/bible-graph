@@ -1,0 +1,1 @@
+(function(){var b="079f14067973",m="# John 9:30 (New International Version)\nThe man answered, \"Now that is remarkable! You don't know where he comes from, yet he opened my eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

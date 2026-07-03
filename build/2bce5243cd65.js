@@ -1,0 +1,1 @@
+(function(){var b="2bce5243cd65",m="# Exodus 37:18 (New International Version)\nSix branches extended from the sides of the lampstand--three on one side and three on the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

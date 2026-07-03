@@ -1,0 +1,1 @@
+(function(){var b="63412f7b1b1c",m="# Deuteronomy 27:17 (New International Version)\n\"Cursed is anyone who moves their neighbor's boundary stone.\"[^A]\nThen all the people shall say, \"Amen!\"\n\n### Crossrefs\n[^A]: S [[Deut-19-14|Dt 19:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

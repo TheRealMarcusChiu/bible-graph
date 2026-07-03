@@ -1,0 +1,1 @@
+(function(){var b="a7a8b36ea8e4",m="# Leviticus 7:17 (New International Version)\nAny meat of the sacrifice left over till the third day must be burned up.[^A] \n\n### Crossrefs\n[^A]: [[Exod-12-10|Ex 12:10]]; [[Lev-19-6|Lev 19:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

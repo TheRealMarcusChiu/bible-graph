@@ -1,0 +1,1 @@
+(function(){var b="1e4b2fc03f98",m="# Galatians 3:9 (New International Version)\nSo those who rely on faith[^A] are blessed along with Abraham, the man of faith.[^B]\n\n### Crossrefs\n[^A]: [[Gal-3-7|ver 7]]; [[Rom-4-16|Ro 4:16]]\n[^B]: [[Rom-4-18|Ro 4:18-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="80b99109c6ad",m="# Numbers 7:71 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Ahiezer son of Ammishaddai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

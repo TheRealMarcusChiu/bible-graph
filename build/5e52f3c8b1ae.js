@@ -1,0 +1,1 @@
+(function(){var b="5e52f3c8b1ae",m="# Luke 1:46 (New International Version)\nMary's Song[^A]\nAnd Mary said:\n\"My soul glorifies the Lord[^B]\n\n### Crossrefs\n[^A]: [[Luke-1-46|1:46-53pp]] — [[1Sam-2-1|1Sa 2:1-10]]\n[^B]: [[Ps-34-2|Ps 34:2]], [[Ps-34-3|3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

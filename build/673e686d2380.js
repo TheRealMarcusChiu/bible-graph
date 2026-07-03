@@ -1,0 +1,1 @@
+(function(){var b="673e686d2380",m="# 1 Corinthians 15:39 (New International Version)\nNot all flesh is the same: People have one kind of flesh, animals have another, birds another and fish another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="407a61354913",m="# 1 Thessalonians 5:18 (New International Version)\ngive thanks in all circumstances;[^A] for this is God's will for you in Christ Jesus.\n\n### Crossrefs\n[^A]: S [[Eph-5-20|Eph 5:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

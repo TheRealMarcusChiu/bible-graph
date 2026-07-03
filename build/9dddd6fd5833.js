@@ -1,0 +1,1 @@
+(function(){var b="9dddd6fd5833",m="# Colossians 3:6 (New International Version)\nBecause of these, the wrath of God[^A] is coming. \n\n### Crossrefs\n[^A]: S [[Rom-1-18|Ro 1:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

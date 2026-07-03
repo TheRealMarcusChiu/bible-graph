@@ -1,0 +1,1 @@
+(function(){var b="e80b1c5fd465",m="# John 12:2 (New International Version)\nHere a dinner was given in Jesus' honor. Martha served,[^A] while Lazarus was among those reclining at the table with him. \n\n### Crossrefs\n[^A]: [[Luke-10-38|Lk 10:38-42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

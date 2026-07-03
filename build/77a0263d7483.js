@@ -1,0 +1,1 @@
+(function(){var b="77a0263d7483",m="# Acts 15:27 (New International Version)\nTherefore we are sending Judas and Silas[^A] to confirm by word of mouth what we are writing. \n\n### Crossrefs\n[^A]: S [[Acts-15-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

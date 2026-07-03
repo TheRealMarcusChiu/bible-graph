@@ -1,0 +1,1 @@
+(function(){var b="18a3718ecaaf",m="# Luke 11:22 (New International Version)\nBut when someone stronger attacks and overpowers him, he takes away the armor in which the man trusted and divides up his plunder.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

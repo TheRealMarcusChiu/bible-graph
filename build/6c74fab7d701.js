@@ -1,0 +1,1 @@
+(function(){var b="6c74fab7d701",m="# Genesis 21:15 (New International Version)\nWhen the water in the skin was gone, she put the boy under one of the bushes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

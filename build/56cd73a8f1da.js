@@ -1,0 +1,1 @@
+(function(){var b="56cd73a8f1da",m="# Luke 10:36 (New International Version)\n\"Which of these three do you think was a neighbor to the man who fell into the hands of robbers?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

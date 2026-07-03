@@ -1,0 +1,1 @@
+(function(){var b="1dd4cae58ffc",m="# Matthew 19:20 (New International Version)\n\"All these I have kept,\" the young man said. \"What do I still lack?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

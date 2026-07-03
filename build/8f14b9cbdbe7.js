@@ -1,0 +1,1 @@
+(function(){var b="8f14b9cbdbe7",m="# Genesis 27:32 (New International Version)\nHis father Isaac asked him, \"Who are you?\"[^A]\n\"I am your son,\" he answered, \"your firstborn, Esau.[^B]\"\n\n### Crossrefs\n[^A]: [[Gen-27-18|ver 18]]\n[^B]: [[Gen-27-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

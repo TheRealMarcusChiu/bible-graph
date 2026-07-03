@@ -1,0 +1,1 @@
+(function(){var b="f65f2e617f96",m="# Luke 1:23 (New International Version)\nWhen his time of service was completed, he returned home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

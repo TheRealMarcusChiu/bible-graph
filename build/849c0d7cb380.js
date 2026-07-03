@@ -1,0 +1,1 @@
+(function(){var b="849c0d7cb380",m="# Exodus 15:27 (New International Version)\nThen they came to Elim, where there were twelve springs and seventy palm trees, and they camped[^A] there near the water.\n\n### Crossrefs\n[^A]: [[Num-33-9|Nu 33:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

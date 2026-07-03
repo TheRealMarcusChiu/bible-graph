@@ -1,0 +1,1 @@
+(function(){var b="a5b15040e890",m="# 2 Corinthians 11:14 (New International Version)\nAnd no wonder, for Satan[^A] himself masquerades as an angel of light. \n\n### Crossrefs\n[^A]: S [[Matt-4-10|Mt 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

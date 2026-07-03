@@ -1,0 +1,1 @@
+(function(){var b="5f6b3d392363",m="# Genesis 50:22 (New International Version)\nThe Death of Joseph\nJoseph stayed in Egypt, along with all his father's family. He lived a hundred and ten years[^A] \n\n### Crossrefs\n[^A]: S [[Gen-25-7|Ge 25:7]]; [[Josh-24-29|Jos 24:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

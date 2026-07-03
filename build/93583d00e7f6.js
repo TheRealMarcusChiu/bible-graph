@@ -1,0 +1,1 @@
+(function(){var b="93583d00e7f6",m="# John 5:1 (New International Version)\nThe Healing at the Pool\nSome time later, Jesus went up to Jerusalem for one of the Jewish festivals.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a7404c05d8e3",m="# Acts 14:14 (New International Version)\nBut when the apostles Barnabas and Paul heard of this, they tore their clothes[^A] and rushed out into the crowd, shouting: \n\n### Crossrefs\n[^A]: S [[Mark-14-63|Mk 14:63]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

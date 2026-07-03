@@ -1,0 +1,1 @@
+(function(){var b="ad25706d3509",m="# Luke 24:5 (New International Version)\nIn their fright the women bowed down with their faces to the ground, but the men said to them, \"Why do you look for the living among the dead?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

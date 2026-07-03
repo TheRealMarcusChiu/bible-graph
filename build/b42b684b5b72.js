@@ -1,0 +1,1 @@
+(function(){var b="b42b684b5b72",m="# Numbers 1:44 (New International Version)\nThese were the men counted by Moses and Aaron[^A] and the twelve leaders of Israel, each one representing his family. \n\n### Crossrefs\n[^A]: [[Num-26-64|Nu 26:64]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

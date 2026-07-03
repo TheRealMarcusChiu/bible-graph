@@ -1,0 +1,1 @@
+(function(){var b="14e698f0d1ca",m="# Leviticus 14:43 (New International Version)\n\"If the defiling mold reappears in the house after the stones have been torn out and the house scraped and plastered,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

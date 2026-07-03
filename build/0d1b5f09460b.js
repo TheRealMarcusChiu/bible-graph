@@ -1,0 +1,1 @@
+(function(){var b="0d1b5f09460b",m="# Matthew 26:22 (New International Version)\nThey were very sad and began to say to him one after the other, \"Surely you don't mean me, Lord?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

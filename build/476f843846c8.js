@@ -1,0 +1,1 @@
+(function(){var b="476f843846c8",m="# Luke 11:20 (New International Version)\nBut if I drive out demons by the finger of God,[^A] then the kingdom of God[^B] has come upon you.\n\n### Crossrefs\n[^A]: [[Exod-8-19|Ex 8:19]]\n[^B]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

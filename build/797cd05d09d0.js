@@ -1,0 +1,1 @@
+(function(){var b="797cd05d09d0",m="# John 21:8 (New International Version)\nThe other disciples followed in the boat, towing the net full of fish, for they were not far from shore, about a hundred yards.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

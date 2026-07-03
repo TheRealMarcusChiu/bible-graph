@@ -1,0 +1,1 @@
+(function(){var b="9adab2cb22f7",m="# Luke 14:11 (New International Version)\nFor all those who exalt themselves will be humbled, and those who humble themselves will be exalted.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-23-12|Mt 23:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

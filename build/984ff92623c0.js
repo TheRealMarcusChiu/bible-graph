@@ -1,0 +1,1 @@
+(function(){var b="984ff92623c0",m="# Numbers 26:51 (New International Version)\nThe total number of the men of Israel was 601,730.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-12-37|Ex 12:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

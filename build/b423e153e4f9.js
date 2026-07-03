@@ -1,0 +1,1 @@
+(function(){var b="b423e153e4f9",m="# Matthew 4:7 (New International Version)\nJesus answered him, \"It is also written: 'Do not put the Lord your God to the test.'\"[^A]\n\n### Crossrefs\n[^A]: [[Deut-6-16|Dt 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

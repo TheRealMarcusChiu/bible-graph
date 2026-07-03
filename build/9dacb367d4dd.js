@@ -1,0 +1,1 @@
+(function(){var b="9dacb367d4dd",m="# John 12:39 (New International Version)\nFor this reason they could not believe, because, as Isaiah says elsewhere:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

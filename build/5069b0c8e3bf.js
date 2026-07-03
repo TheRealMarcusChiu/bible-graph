@@ -1,0 +1,1 @@
+(function(){var b="5069b0c8e3bf",m="# Judges 2:23 (New International Version)\nThe LORD had allowed those nations to remain; he did not drive them out at once by giving them into the hands of Joshua.[^A]\n\n### Crossrefs\n[^A]: [[Judg-1-1|Jdg 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

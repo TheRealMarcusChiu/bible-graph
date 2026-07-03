@@ -1,0 +1,1 @@
+(function(){var b="f0d3c9f84980",m="# Judges 11:28 (New International Version)\nThe king of Ammon, however, paid no attention to the message Jephthah sent him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

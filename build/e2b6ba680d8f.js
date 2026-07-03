@@ -1,0 +1,1 @@
+(function(){var b="e2b6ba680d8f",m="# Mark 14:25 (New International Version)\n\"Truly I tell you, I will not drink again from the fruit of the vine until that day when I drink it new in the kingdom of God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

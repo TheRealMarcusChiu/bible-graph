@@ -1,0 +1,1 @@
+(function(){var b="0c6ddbf798a6",m="# Luke 24:23 (New International Version)\nbut didn't find his body. They came and told us that they had seen a vision of angels, who said he was alive.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

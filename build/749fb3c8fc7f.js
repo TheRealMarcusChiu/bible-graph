@@ -1,0 +1,1 @@
+(function(){var b="749fb3c8fc7f",m="# Matthew 25:24 (New International Version)\n\"Then the man who had received one bag of gold came. 'Master,' he said, 'I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

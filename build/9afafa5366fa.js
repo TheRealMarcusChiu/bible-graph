@@ -1,0 +1,1 @@
+(function(){var b="9afafa5366fa",m="# Luke 12:14 (New International Version)\nJesus replied, \"Man, who appointed me a judge or an arbiter between you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

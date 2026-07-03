@@ -1,0 +1,1 @@
+(function(){var b="36f0dab01418",m="# 1 John 2:29 (New International Version)\nIf you know that he is righteous,[^A] you know that everyone who does what is right has been born of him.[^B]\n\n### Crossrefs\n[^A]: [[1John-3-7|1Jn 3:7]]\n[^B]: S [[John-1-13|Jn 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a16c1c2330a",m="# Exodus 14:3 (New International Version)\nPharaoh will think, 'The Israelites are wandering around the land in confusion, hemmed in by the desert.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

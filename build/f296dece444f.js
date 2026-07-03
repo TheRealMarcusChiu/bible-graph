@@ -1,0 +1,1 @@
+(function(){var b="f296dece444f",m="# Galatians 4:15 (New International Version)\nWhere, then, is your blessing of me now? I can testify that, if you could have done so, you would have torn out your eyes and given them to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

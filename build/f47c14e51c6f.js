@@ -1,0 +1,1 @@
+(function(){var b="f47c14e51c6f",m="# Luke 23:15 (New International Version)\nNeither has Herod, for he sent him back to us; as you can see, he has done nothing to deserve death.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

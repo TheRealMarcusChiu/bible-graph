@@ -1,0 +1,1 @@
+(function(){var b="85744d47722c",m="# John 8:34 (New International Version)\nJesus replied, \"Very truly I tell you, everyone who sins is a slave to sin.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-6-16|Ro 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

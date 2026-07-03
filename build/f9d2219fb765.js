@@ -1,0 +1,1 @@
+(function(){var b="f9d2219fb765",m="# Joshua 13:24 (New International Version)\nThis is what Moses had given to the tribe of Gad, according to its clans:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

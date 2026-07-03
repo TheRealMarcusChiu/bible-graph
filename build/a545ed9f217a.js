@@ -1,0 +1,1 @@
+(function(){var b="a545ed9f217a",m="# Mark 3:1 (New International Version)\nJesus Heals on the Sabbath\nAnother time Jesus went into the synagogue,[^A] and a man with a shriveled hand was there. \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]; [[Mark-1-21|Mk 1:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

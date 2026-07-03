@@ -1,0 +1,1 @@
+(function(){var b="9cd61e0fd1bd",m="# Leviticus 6:24 (New International Version)\nThe Sin Offering\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

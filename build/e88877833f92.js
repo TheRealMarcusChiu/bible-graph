@@ -1,0 +1,1 @@
+(function(){var b="e88877833f92",m="# Acts 10:11 (New International Version)\nHe saw heaven opened[^A] and something like a large sheet being let down to earth by its four corners. \n\n### Crossrefs\n[^A]: S [[Matt-3-16|Mt 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

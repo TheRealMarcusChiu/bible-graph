@@ -1,0 +1,1 @@
+(function(){var b="bd6010dbd7d4",m="# Romans 16:22 (New International Version)\nI, Tertius, who wrote down this letter, greet you in the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

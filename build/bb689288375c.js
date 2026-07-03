@@ -1,0 +1,1 @@
+(function(){var b="bb689288375c",m="# John 10:26 (New International Version)\nbut you do not believe because you are not my sheep.[^A] \n\n### Crossrefs\n[^A]: [[John-8-47|Jn 8:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

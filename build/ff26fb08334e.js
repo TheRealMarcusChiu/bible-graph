@@ -1,0 +1,1 @@
+(function(){var b="ff26fb08334e",m="# John 8:4 (New International Version)\n_and said to Jesus, \"Teacher, this woman was caught in the act of adultery._";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

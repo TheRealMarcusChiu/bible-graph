@@ -1,0 +1,1 @@
+(function(){var b="fe3ad61b8975",m="# Numbers 1:17 (New International Version)\nMoses and Aaron took these men whose names had been specified,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

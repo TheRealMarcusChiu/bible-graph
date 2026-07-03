@@ -1,0 +1,1 @@
+(function(){var b="6cc47986b83c",m="# Mark 12:39 (New International Version)\nand have the most important seats in the synagogues and the places of honor at banquets.[^A] \n\n### Crossrefs\n[^A]: [[Luke-11-43|Lk 11:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

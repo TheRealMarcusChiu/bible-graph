@@ -1,0 +1,1 @@
+(function(){var b="f9bdd43068b9",m="# Acts 13:9 (New International Version)\nThen Saul, who was also called Paul, filled with the Holy Spirit,[^A] looked straight at Elymas and said, \n\n### Crossrefs\n[^A]: S [[Luke-1-15|Lk 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

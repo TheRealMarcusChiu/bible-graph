@@ -1,0 +1,1 @@
+(function(){var b="426846c415cc",m="# Exodus 28:11 (New International Version)\nEngrave the names of the sons of Israel on the two stones the way a gem cutter engraves a seal. Then mount the stones in gold filigree settings";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

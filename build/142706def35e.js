@@ -1,0 +1,1 @@
+(function(){var b="142706def35e",m="# James 2:24 (New International Version)\nYou see that a person is considered righteous by what they do and not by faith alone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

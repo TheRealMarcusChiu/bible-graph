@@ -1,0 +1,1 @@
+(function(){var b="094f733db55d",m="# 1 Corinthians 9:26 (New International Version)\nTherefore I do not run like someone running aimlessly;[^A] I do not fight like a boxer beating the air.[^B] \n\n### Crossrefs\n[^A]: S [[1Cor-9-24|ver 24]]\n[^B]: [[1Tim-6-12|1Ti 6:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a6b9a3c63f5b",m="# Exodus 2:12 (New International Version)\nLooking this way and that and seeing no one, he killed the Egyptian and hid him in the sand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f5d8bf5e87a4",m="# Numbers 10:20 (New International Version)\nand Eliasaph son of Deuel was over the division of the tribe of Gad.[^A] \n\n### Crossrefs\n[^A]: S [[Num-1-14|Nu 1:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="532dd488c529",m="# Matthew 8:21 (New International Version)\nAnother disciple said to him, \"Lord, first let me go and bury my father.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

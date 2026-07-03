@@ -1,0 +1,1 @@
+(function(){var b="df1ab6378f33",m="# Exodus 36:17 (New International Version)\nThen they made fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

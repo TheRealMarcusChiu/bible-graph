@@ -1,0 +1,1 @@
+(function(){var b="e63b2cbd52aa",m="# Acts 15:16 (New International Version)\n\"'After this I will return  \n    and rebuild David's fallen tent.  \nIts ruins I will rebuild,  \n    and I will restore it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

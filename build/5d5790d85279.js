@@ -1,0 +1,1 @@
+(function(){var b="5d5790d85279",m="# John 1:34 (New International Version)\nI have seen and I testify that this is God's Chosen One.\"[^A]\n\n### Crossrefs\n[^A]: [[John-1-49|ver 49]]; S [[Matt-4-3|Mt 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

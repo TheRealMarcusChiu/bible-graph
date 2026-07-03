@@ -1,0 +1,1 @@
+(function(){var b="4fa77a8c1396",m="# Acts 2:43 (New International Version)\nEveryone was filled with awe at the many wonders and signs performed by the apostles.[^A] \n\n### Crossrefs\n[^A]: [[Acts-5-12|Ac 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

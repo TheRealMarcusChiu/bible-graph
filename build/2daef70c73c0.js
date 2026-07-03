@@ -1,0 +1,1 @@
+(function(){var b="2daef70c73c0",m="# Genesis 24:49 (New International Version)\nNow if you will show kindness and faithfulness[^A] to my master, tell me; and if not, tell me, so I may know which way to turn.\"\n\n### Crossrefs\n[^A]: S [[Gen-24-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

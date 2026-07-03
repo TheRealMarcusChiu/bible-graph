@@ -1,0 +1,1 @@
+(function(){var b="70e43b148d3c",m="# Acts 12:18 (New International Version)\nIn the morning, there was no small commotion among the soldiers as to what had become of Peter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

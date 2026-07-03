@@ -1,0 +1,1 @@
+(function(){var b="ecb35484b344",m="# Luke 1:57 (New International Version)\nThe Birth of John the Baptist\nWhen it was time for Elizabeth to have her baby, she gave birth to a son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

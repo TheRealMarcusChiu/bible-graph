@@ -1,0 +1,1 @@
+(function(){var b="15e757afcb3c",m="# Luke 3:4 (New International Version)\nAs it is written in the book of the words of Isaiah the prophet:\n\"A voice of one calling in the wilderness,  \n'Prepare the way for the Lord,  \n    make straight paths for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

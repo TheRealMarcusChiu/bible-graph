@@ -1,0 +1,1 @@
+(function(){var b="fae4adb600dd",m="# John 15:14 (New International Version)\nYou are my friends[^A] if you do what I command.[^B] \n\n### Crossrefs\n[^A]: [[Job-16-20|Job 16:20]]; [[Prov-18-24|Pr 18:24]]; [[Luke-12-4|Lk 12:4]]\n[^B]: [[Matt-12-50|Mt 12:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

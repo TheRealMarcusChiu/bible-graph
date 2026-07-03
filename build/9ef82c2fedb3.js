@@ -1,0 +1,1 @@
+(function(){var b="9ef82c2fedb3",m="# John 7:41 (New International Version)\nOthers said, \"He is the Messiah.\"\nStill others asked, \"How can the Messiah come from Galilee?[^A] \n\n### Crossrefs\n[^A]: [[John-7-52|ver 52]]; [[John-1-46|Jn 1:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="86145582baa0",m="# Exodus 27:15 (New International Version)\nand curtains fifteen cubits long are to be on the other side, with three posts and three bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

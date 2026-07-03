@@ -1,0 +1,1 @@
+(function(){var b="eaad9c1f9914",m="# Philippians 4:19 (New International Version)\nAnd my God will meet all your needs[^A] according to the riches of his glory[^B] in Christ Jesus.\n\n### Crossrefs\n[^A]: [[Ps-23-1|Ps 23:1]]; [[2Cor-9-8|2Co 9:8]]\n[^B]: S [[Rom-2-4|Ro 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6a3f255731c6",m="# Joshua 22:25 (New International Version)\nThe LORD has made the Jordan a boundary between us and you--you Reubenites and Gadites! You have no share in the LORD.' So your descendants might cause ours to stop fearing the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

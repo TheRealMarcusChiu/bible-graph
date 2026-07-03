@@ -1,0 +1,1 @@
+(function(){var b="f215a0b83cf8",m="# Luke 19:27 (New International Version)\nBut those enemies of mine who did not want me to be king over them--bring them here and kill them in front of me.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

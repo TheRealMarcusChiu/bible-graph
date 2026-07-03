@@ -1,0 +1,1 @@
+(function(){var b="04fbe29db7a4",m="# Numbers 17:1 (New International Version)\nThe Budding of Aaron's Staff\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1a7153e06cb9",m="# Deuteronomy 27:10 (New International Version)\nObey the LORD your God and follow his commands and decrees that I give you today.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

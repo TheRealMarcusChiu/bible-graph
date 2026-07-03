@@ -1,0 +1,1 @@
+(function(){var b="d86dd0e5ef8e",m="# Mark 12:20 (New International Version)\nNow there were seven brothers. The first one married and died without leaving any children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

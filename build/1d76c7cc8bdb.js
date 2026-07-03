@@ -1,0 +1,1 @@
+(function(){var b="1d76c7cc8bdb",m="# John 20:23 (New International Version)\nIf you forgive anyone's sins, their sins are forgiven; if you do not forgive them, they are not forgiven.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-16-19|Mt 16:19]]; [[Matt-18-18|18:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

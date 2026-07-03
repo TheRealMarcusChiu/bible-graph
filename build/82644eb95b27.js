@@ -1,0 +1,1 @@
+(function(){var b="82644eb95b27",m="# Matthew 7:25 (New International Version)\nThe rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

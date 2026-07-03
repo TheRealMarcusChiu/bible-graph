@@ -1,0 +1,1 @@
+(function(){var b="01b6f1e53c74",m="# Luke 1:70 (New International Version)\n(as he said through his holy prophets of long ago),[^A]\n\n### Crossrefs\n[^A]: [[Jer-23-5|Jer 23:5]]; [[Acts-3-21|Ac 3:21]]; [[Rom-1-2|Ro 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

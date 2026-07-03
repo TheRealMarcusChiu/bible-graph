@@ -1,0 +1,1 @@
+(function(){var b="3dde90b81763",m="# Deuteronomy 27:13 (New International Version)\nAnd these tribes shall stand on Mount Ebal[^A] to pronounce curses: Reuben, Gad, Asher, Zebulun, Dan and Naphtali.\n\n### Crossrefs\n[^A]: S [[Deut-11-29|Dt 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eacecfafe2a7",m="# Hebrews 11:29 (New International Version)\nBy faith the people passed through the Red Sea as on dry land; but when the Egyptians tried to do so, they were drowned.[^A]\n\n### Crossrefs\n[^A]: [[Exod-14-21|Ex 14:21-31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

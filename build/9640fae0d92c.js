@@ -1,0 +1,1 @@
+(function(){var b="9640fae0d92c",m="# Genesis 36:23 (New International Version)\nThe sons of Shobal:\nAlvan, Manahath, Ebal, Shepho and Onam.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6693daaa8cde",m="# Exodus 37:24 (New International Version)\nThey made the lampstand and all its accessories from one talent of pure gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

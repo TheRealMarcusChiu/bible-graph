@@ -1,0 +1,1 @@
+(function(){var b="f31b018ee39e",m="# Genesis 29:21 (New International Version)\nThen Jacob said to Laban, \"Give me my wife. My time is completed, and I want to make love to her.[^A]\"\n\n### Crossrefs\n[^A]: [[Judg-15-1|Jdg 15:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

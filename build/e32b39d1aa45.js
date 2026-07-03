@@ -1,0 +1,1 @@
+(function(){var b="e32b39d1aa45",m="# Judges 4:24 (New International Version)\nAnd the hand of the Israelites pressed harder and harder against Jabin king of Canaan until they destroyed him.[^A]\n\n### Crossrefs\n[^A]: [[Ps-83-9|Ps 83:9]]; [[Ps-106-43|106:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

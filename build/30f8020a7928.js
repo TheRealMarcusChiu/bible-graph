@@ -1,0 +1,1 @@
+(function(){var b="30f8020a7928",m="# Acts 7:57 (New International Version)\nAt this they covered their ears and, yelling at the top of their voices, they all rushed at him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

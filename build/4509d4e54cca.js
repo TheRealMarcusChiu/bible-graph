@@ -1,0 +1,1 @@
+(function(){var b="4509d4e54cca",m="# Acts 27:13 (New International Version)\nThe Storm\nWhen a gentle south wind began to blow, they saw their opportunity; so they weighed anchor and sailed along the shore of Crete.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

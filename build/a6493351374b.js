@@ -1,0 +1,1 @@
+(function(){var b="a6493351374b",m="# Deuteronomy 23:13 (New International Version)\nAs part of your equipment have something to dig with, and when you relieve yourself, dig a hole and cover up your excrement.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

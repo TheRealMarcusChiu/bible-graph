@@ -1,0 +1,1 @@
+(function(){var b="fa5ef4b05d2f",m="# Ephesians 1:8 (New International Version)\nthat he lavished on us. With all wisdom and understanding,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

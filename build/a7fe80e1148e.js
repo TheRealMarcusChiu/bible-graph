@@ -1,0 +1,1 @@
+(function(){var b="a7fe80e1148e",m="# John 1:50 (New International Version)\nJesus said, \"You believe because I told you I saw you under the fig tree. You will see greater things than that.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

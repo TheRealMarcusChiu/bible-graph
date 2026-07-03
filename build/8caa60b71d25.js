@@ -1,0 +1,1 @@
+(function(){var b="8caa60b71d25",m="# John 10:17 (New International Version)\nThe reason my Father loves me is that I lay down my life[^A]--only to take it up again. \n\n### Crossrefs\n[^A]: [[John-10-11|ver 11]], [[John-10-15|15]], [[John-10-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c90370b876f3",m="# Hebrews 7:2 (New International Version)\nand Abraham gave him a tenth of everything. First, the name Melchizedek means \"king of righteousness\"; then also, \"king of Salem\" means \"king of peace.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

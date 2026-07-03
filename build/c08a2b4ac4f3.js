@@ -1,0 +1,1 @@
+(function(){var b="c08a2b4ac4f3",m="# 1 Corinthians 14:27 (New International Version)\nIf anyone speaks in a tongue, two--or at the most three--should speak, one at a time, and someone must interpret.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

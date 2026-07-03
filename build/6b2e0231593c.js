@@ -1,0 +1,1 @@
+(function(){var b="6b2e0231593c",m="# Judges 11:22 (New International Version)\ncapturing all of it from the Arnon to the Jabbok and from the desert to the Jordan.[^A]\n\n### Crossrefs\n[^A]: [[Num-21-21|Nu 21:21-26]]; S [[Deut-2-26|Dt 2:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

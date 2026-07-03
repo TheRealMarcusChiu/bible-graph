@@ -1,0 +1,1 @@
+(function(){var b="e94b21edf626",m="# Numbers 26:40 (New International Version)\nThe descendants of Bela through Ard[^A] and Naaman were:\nthrough Ard, the Ardite clan;\nthrough Naaman, the Naamite clan.\n\n### Crossrefs\n[^A]: S [[Gen-46-21|Ge 46:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

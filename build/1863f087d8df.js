@@ -1,0 +1,1 @@
+(function(){var b="1863f087d8df",m="# Leviticus 13:50 (New International Version)\nThe priest is to examine the affected area[^A] and isolate the article for seven days. \n\n### Crossrefs\n[^A]: [[Ezek-44-23|Eze 44:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

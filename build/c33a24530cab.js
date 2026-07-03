@@ -1,0 +1,1 @@
+(function(){var b="c33a24530cab",m="# Matthew 16:6 (New International Version)\n\"Be careful,\" Jesus said to them. \"Be on your guard against the yeast of the Pharisees and Sadducees.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-12-1|Lk 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

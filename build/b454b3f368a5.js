@@ -1,0 +1,1 @@
+(function(){var b="b454b3f368a5",m="# Genesis 10:8 (New International Version)\nCush was the father of Nimrod,[^A] who became a mighty warrior on the earth. \n\n### Crossrefs\n[^A]: [[Mic-5-6|Mic 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

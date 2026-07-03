@@ -1,0 +1,1 @@
+(function(){var b="fddf4dfa4b05",m="# Romans 8:7 (New International Version)\nThe mind governed by the flesh is hostile to God;[^A] it does not submit to God's law, nor can it do so. \n\n### Crossrefs\n[^A]: [[Jas-4-4|Jas 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

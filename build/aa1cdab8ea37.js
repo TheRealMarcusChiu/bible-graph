@@ -1,0 +1,1 @@
+(function(){var b="aa1cdab8ea37",m="# Romans 2:23 (New International Version)\nYou who boast in the law,[^A] do you dishonor God by breaking the law? \n\n### Crossrefs\n[^A]: S [[Rom-2-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

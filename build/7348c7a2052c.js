@@ -1,0 +1,1 @@
+(function(){var b="7348c7a2052c",m="# Ephesians 6:6 (New International Version)\nObey them not only to win their favor when their eye is on you, but as slaves of Christ,[^A] doing the will of God from your heart. \n\n### Crossrefs\n[^A]: S [[Rom-6-22|Ro 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dcaed9b4f51a",m="# Luke 1:28 (New International Version)\nThe angel went to her and said, \"Greetings, you who are highly favored! The Lord is with you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

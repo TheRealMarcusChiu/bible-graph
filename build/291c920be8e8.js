@@ -1,0 +1,1 @@
+(function(){var b="291c920be8e8",m="# Luke 16:3 (New International Version)\n\"The manager said to himself, 'What shall I do now? My master is taking away my job. I'm not strong enough to dig, and I'm ashamed to beg--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

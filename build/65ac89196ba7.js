@@ -1,0 +1,1 @@
+(function(){var b="65ac89196ba7",m="# Genesis 7:7 (New International Version)\nAnd Noah and his sons and his wife and his sons' wives entered the ark[^A] to escape the waters of the flood. \n\n### Crossrefs\n[^A]: S [[Gen-6-18|Ge 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

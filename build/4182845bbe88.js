@@ -1,0 +1,1 @@
+(function(){var b="4182845bbe88",m="# Genesis 36:37 (New International Version)\nWhen Samlah died, Shaul from Rehoboth[^A] on the river succeeded him as king.\n\n### Crossrefs\n[^A]: [[Gen-26-22|Ge 26:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

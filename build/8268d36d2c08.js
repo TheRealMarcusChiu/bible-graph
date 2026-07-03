@@ -1,0 +1,1 @@
+(function(){var b="8268d36d2c08",m="# Deuteronomy 6:8 (New International Version)\nTie them as symbols on your hands and bind them on your foreheads.[^A] \n\n### Crossrefs\n[^A]: S [[Deut-6-6|ver 6]]; S [[Exod-13-9|Ex 13:9]]; [[Matt-23-5|Mt 23:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

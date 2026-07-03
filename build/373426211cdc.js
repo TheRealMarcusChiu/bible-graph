@@ -1,0 +1,1 @@
+(function(){var b="373426211cdc",m="# Mark 6:24 (New International Version)\nShe went out and said to her mother, \"What shall I ask for?\"\n\"The head of John the Baptist,\" she answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

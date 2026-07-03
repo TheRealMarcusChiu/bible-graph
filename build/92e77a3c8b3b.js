@@ -1,0 +1,1 @@
+(function(){var b="92e77a3c8b3b",m="# Genesis 41:50 (New International Version)\nBefore the years of famine came, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-41-45|ver 45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

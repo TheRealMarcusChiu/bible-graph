@@ -1,0 +1,1 @@
+(function(){var b="823790554c66",m="# Luke 21:19 (New International Version)\nStand firm, and you will win life.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-10-22|Mt 10:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

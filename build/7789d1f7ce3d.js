@@ -1,0 +1,1 @@
+(function(){var b="7789d1f7ce3d",m="# Luke 23:23 (New International Version)\nBut with loud shouts they insistently demanded that he be crucified, and their shouts prevailed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

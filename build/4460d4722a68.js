@@ -1,0 +1,1 @@
+(function(){var b="4460d4722a68",m="# Numbers 2:11 (New International Version)\nHis division numbers 46,500.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

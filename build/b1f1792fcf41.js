@@ -1,0 +1,1 @@
+(function(){var b="b1f1792fcf41",m="# Acts 17:16 (New International Version)\nIn Athens\nWhile Paul was waiting for them in Athens, he was greatly distressed to see that the city was full of idols.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

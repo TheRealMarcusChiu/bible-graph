@@ -1,0 +1,1 @@
+(function(){var b="bc7cfd1f335e",m="# Luke 22:60 (New International Version)\nPeter replied, \"Man, I don't know what you're talking about!\" Just as he was speaking, the rooster crowed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

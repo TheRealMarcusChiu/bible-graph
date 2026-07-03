@@ -1,0 +1,1 @@
+(function(){var b="c7f3eca7d715",m="# Mark 4:37 (New International Version)\nA furious squall came up, and the waves broke over the boat, so that it was nearly swamped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

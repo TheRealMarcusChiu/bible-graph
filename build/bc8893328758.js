@@ -1,0 +1,1 @@
+(function(){var b="bc8893328758",m="# John 12:29 (New International Version)\nThe crowd that was there and heard it said it had thundered; others said an angel had spoken to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

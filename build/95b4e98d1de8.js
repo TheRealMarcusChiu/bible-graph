@@ -1,0 +1,1 @@
+(function(){var b="95b4e98d1de8",m="# Mark 6:19 (New International Version)\nSo Herodias nursed a grudge against John and wanted to kill him. But she was not able to,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

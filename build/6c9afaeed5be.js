@@ -1,0 +1,1 @@
+(function(){var b="6c9afaeed5be",m="# Leviticus 25:7 (New International Version)\nas well as for your livestock and the wild animals[^A] in your land. Whatever the land produces may be eaten.\n\n### Crossrefs\n[^A]: [[Exod-23-11|Ex 23:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

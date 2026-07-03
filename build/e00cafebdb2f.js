@@ -1,0 +1,1 @@
+(function(){var b="e00cafebdb2f",m="# Luke 9:58 (New International Version)\nJesus replied, \"Foxes have dens and birds have nests, but the Son of Man[^A] has no place to lay his head.\"\n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="41aef6a4bbc2",m="# Numbers 4:33 (New International Version)\nThis is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar[^A] son of Aaron, the priest.\"\n\n### Crossrefs\n[^A]: S [[Exod-38-21|Ex 38:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

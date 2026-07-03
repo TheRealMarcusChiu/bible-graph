@@ -1,0 +1,1 @@
+(function(){var b="7e59c051515b",m="# Acts 15:19 (New International Version)\n\"It is my judgment, therefore, that we should not make it difficult for the Gentiles who are turning to God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

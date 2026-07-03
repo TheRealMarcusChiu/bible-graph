@@ -1,0 +1,1 @@
+(function(){var b="baee5247418f",m="# Luke 20:33 (New International Version)\nNow then, at the resurrection whose wife will she be, since the seven were married to her?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

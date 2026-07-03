@@ -1,0 +1,1 @@
+(function(){var b="ac2aa822e6e2",m="# Jude 2 (New International Version)\nMercy, peace[^A] and love be yours in abundance.[^B]\n\n### Crossrefs\n[^A]: [[Gal-6-16|Gal 6:16]]; [[1Tim-1-2|1Ti 1:2]]\n[^B]: S [[Rom-1-7|Ro 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

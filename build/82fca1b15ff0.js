@@ -1,0 +1,1 @@
+(function(){var b="82fca1b15ff0",m="# Luke 16:22 (New International Version)\n\"The time came when the beggar died and the angels carried him to Abraham's side. The rich man also died and was buried.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

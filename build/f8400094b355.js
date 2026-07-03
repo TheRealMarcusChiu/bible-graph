@@ -1,0 +1,1 @@
+(function(){var b="f8400094b355",m="# Genesis 28:1 (New International Version)\nSo Isaac called for Jacob and blessed[^A] him. Then he commanded him: \"Do not marry a Canaanite woman.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-24-60|Ge 24:60]]\n[^B]: [[Gen-24-3|Ge 24:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

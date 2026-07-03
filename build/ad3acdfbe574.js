@@ -1,0 +1,1 @@
+(function(){var b="ad3acdfbe574",m="# 1 Corinthians 16:24 (New International Version)\nMy love to all of you in Christ Jesus. Amen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

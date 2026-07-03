@@ -1,0 +1,1 @@
+(function(){var b="773c601c261e",m="# Galatians 1:21 (New International Version)\nThen I went to Syria[^A] and Cilicia.[^B] \n\n### Crossrefs\n[^A]: S [[Luke-2-2|Lk 2:2]]\n[^B]: S [[Acts-6-9|Ac 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

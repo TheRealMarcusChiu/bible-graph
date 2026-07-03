@@ -1,0 +1,1 @@
+(function(){var b="77aa7c2c652f",m="# Joshua 22:11 (New International Version)\nAnd when the Israelites heard that they had built the altar on the border of Canaan at Geliloth near the Jordan on the Israelite side,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

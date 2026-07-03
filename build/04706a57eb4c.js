@@ -1,0 +1,1 @@
+(function(){var b="04706a57eb4c",m="# Mark 8:13 (New International Version)\nThen he left them, got back into the boat and crossed to the other side.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

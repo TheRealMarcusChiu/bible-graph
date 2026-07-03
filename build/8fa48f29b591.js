@@ -1,0 +1,1 @@
+(function(){var b="8fa48f29b591",m="# Acts 2:25 (New International Version)\nDavid said about him:\n\"'I saw the Lord always before me.  \n    Because he is at my right hand,  \n    I will not be shaken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

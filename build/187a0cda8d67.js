@@ -1,0 +1,1 @@
+(function(){var b="187a0cda8d67",m="# Deuteronomy 4:4 (New International Version)\nbut all of you who held fast to the LORD your God are still alive today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

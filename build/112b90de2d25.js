@@ -1,0 +1,1 @@
+(function(){var b="112b90de2d25",m="# Acts 18:7 (New International Version)\nThen Paul left the synagogue and went next door to the house of Titius Justus, a worshiper of God.[^A] \n\n### Crossrefs\n[^A]: [[Acts-16-14|Ac 16:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

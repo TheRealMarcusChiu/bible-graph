@@ -1,0 +1,1 @@
+(function(){var b="2899f5fe0e31",m="# Acts 14:24 (New International Version)\nAfter going through Pisidia, they came into Pamphylia,[^A] \n\n### Crossrefs\n[^A]: S [[Acts-2-10|Ac 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

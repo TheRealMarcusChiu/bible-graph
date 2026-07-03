@@ -1,0 +1,1 @@
+(function(){var b="a39af281d8c5",m="# Exodus 39:13 (New International Version)\nthe fourth row was topaz, onyx and jasper. They were mounted in gold filigree settings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

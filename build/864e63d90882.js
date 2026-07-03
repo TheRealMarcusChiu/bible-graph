@@ -1,0 +1,1 @@
+(function(){var b="864e63d90882",m="# Numbers 9:2 (New International Version)\n\"Have the Israelites celebrate the Passover[^A] at the appointed time.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-12-11|Ex 12:11]]\n[^B]: [[Num-9-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

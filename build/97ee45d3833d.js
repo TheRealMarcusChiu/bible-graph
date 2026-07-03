@@ -1,0 +1,1 @@
+(function(){var b="97ee45d3833d",m="# Exodus 39:42 (New International Version)\nThe Israelites had done all the work just as the LORD had commanded Moses.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-25-9|Ex 25:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

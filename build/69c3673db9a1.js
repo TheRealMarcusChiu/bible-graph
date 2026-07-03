@@ -1,0 +1,1 @@
+(function(){var b="69c3673db9a1",m="# Luke 24:29 (New International Version)\nBut they urged him strongly, \"Stay with us, for it is nearly evening; the day is almost over.\" So he went in to stay with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

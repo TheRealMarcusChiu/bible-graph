@@ -1,0 +1,1 @@
+(function(){var b="7908db071a40",m="# John 4:17 (New International Version)\n\"I have no husband,\" she replied.\nJesus said to her, \"You are right when you say you have no husband.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

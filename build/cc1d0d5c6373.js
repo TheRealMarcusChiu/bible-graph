@@ -1,0 +1,1 @@
+(function(){var b="cc1d0d5c6373",m="# Numbers 26:14 (New International Version)\nThese were the clans of Simeon;[^A] those numbered were 22,200.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-46-10|Ge 46:10]]\n[^B]: [[Num-1-23|Nu 1:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

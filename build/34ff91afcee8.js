@@ -1,0 +1,1 @@
+(function(){var b="34ff91afcee8",m="# Acts 18:16 (New International Version)\nSo he drove them off.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

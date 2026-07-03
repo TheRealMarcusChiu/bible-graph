@@ -1,0 +1,1 @@
+(function(){var b="735e83078e95",m="# Luke 16:26 (New International Version)\nAnd besides all this, between us and you a great chasm has been set in place, so that those who want to go from here to you cannot, nor can anyone cross over from there to us.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

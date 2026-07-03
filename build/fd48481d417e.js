@@ -1,0 +1,1 @@
+(function(){var b="fd48481d417e",m="# Luke 14:7 (New International Version)\nWhen he noticed how the guests picked the places of honor at the table,[^A] he told them this parable: \n\n### Crossrefs\n[^A]: S [[Luke-11-43|Lk 11:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

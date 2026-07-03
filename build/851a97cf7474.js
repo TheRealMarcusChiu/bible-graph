@@ -1,0 +1,1 @@
+(function(){var b="851a97cf7474",m="# 1 Corinthians 11:15 (New International Version)\nbut that if a woman has long hair, it is her glory? For long hair is given to her as a covering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="821b5806dea4",m="# Matthew 9:30 (New International Version)\nand their sight was restored. Jesus warned them sternly, \"See that no one knows about this.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-8-4|Mt 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

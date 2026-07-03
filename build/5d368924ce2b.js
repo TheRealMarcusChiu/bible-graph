@@ -1,0 +1,1 @@
+(function(){var b="5d368924ce2b",m="# Exodus 16:30 (New International Version)\nSo the people rested on the seventh day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

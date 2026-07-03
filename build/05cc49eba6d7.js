@@ -1,0 +1,1 @@
+(function(){var b="05cc49eba6d7",m="# Joshua 13:20 (New International Version)\nBeth Peor,[^A] the slopes of Pisgah, and Beth Jeshimoth-- \n\n### Crossrefs\n[^A]: S [[Deut-3-29|Dt 3:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

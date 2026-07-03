@@ -1,0 +1,1 @@
+(function(){var b="c1d854170fff",m="# John 10:22 (New International Version)\nFurther Conflict Over Jesus' Claims\nThen came the Festival of Dedication at Jerusalem. It was winter,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

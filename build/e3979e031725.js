@@ -1,0 +1,1 @@
+(function(){var b="e3979e031725",m="# James 2:8 (New International Version)\nIf you really keep the royal law found in Scripture, \"Love your neighbor as yourself,\"[^A] you are doing right. \n\n### Crossrefs\n[^A]: [[Lev-19-18|Lev 19:18]]; S [[Matt-5-43|Mt 5:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

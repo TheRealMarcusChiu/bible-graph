@@ -1,0 +1,1 @@
+(function(){var b="521ee1ebe8ad",m="# Mark 14:51 (New International Version)\nA young man, wearing nothing but a linen garment, was following Jesus. When they seized him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

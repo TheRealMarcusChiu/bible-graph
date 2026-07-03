@@ -1,0 +1,1 @@
+(function(){var b="0d64b56f0d4e",m="# Acts 4:23 (New International Version)\nThe Believers Pray\nOn their release, Peter and John went back to their own people and reported all that the chief priests and the elders had said to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

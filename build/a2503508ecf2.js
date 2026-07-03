@@ -1,0 +1,1 @@
+(function(){var b="a2503508ecf2",m="# 1 Corinthians 3:15 (New International Version)\nIf it is burned up, the builder will suffer loss but yet will be saved--even though only as one escaping through the flames.[^A]\n\n### Crossrefs\n[^A]: [[Jude-1-23|Jude 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

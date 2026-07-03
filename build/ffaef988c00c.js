@@ -1,0 +1,1 @@
+(function(){var b="ffaef988c00c",m="# Colossians 1\n\nThe supremacy of Christ over all powers, and life rooted in him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

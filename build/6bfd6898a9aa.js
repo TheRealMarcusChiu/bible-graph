@@ -1,0 +1,1 @@
+(function(){var b="6bfd6898a9aa",m="# Deuteronomy 2:17 (New International Version)\nthe LORD said to me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4dba6765a81",m="# Numbers 8:13 (New International Version)\nHave the Levites stand in front of Aaron and his sons and then present them as a wave offering[^A] to the LORD. \n\n### Crossrefs\n[^A]: S [[Exod-29-24|Ex 29:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="81d1543b2844",m="# Mark 9:29 (New International Version)\nHe replied, \"This kind can come out only by prayer.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

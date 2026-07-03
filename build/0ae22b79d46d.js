@@ -1,1 +1,0 @@
-(function(){var b="0ae22b79d46d",m="# Relational\n\nNotes on Relational.\n\n## Linked notes\n\n- [[MVCC — Internals]]\n- [[Query Engines — sharding]]\n- [[Relational — sharding]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

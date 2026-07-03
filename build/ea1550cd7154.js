@@ -1,0 +1,1 @@
+(function(){var b="ea1550cd7154",m="# John 20:7 (New International Version)\nas well as the cloth that had been wrapped around Jesus' head.[^A] The cloth was still lying in its place, separate from the linen. \n\n### Crossrefs\n[^A]: [[John-11-44|Jn 11:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1b00d41d007d",m="# Exodus 36:34 (New International Version)\nThey overlaid the frames with gold and made gold rings to hold the crossbars. They also overlaid the crossbars with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

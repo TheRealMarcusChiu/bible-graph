@@ -1,0 +1,1 @@
+(function(){var b="a83411ed8a05",m="# Genesis 26:19 (New International Version)\nIsaac's servants dug in the valley and discovered a well of fresh water there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

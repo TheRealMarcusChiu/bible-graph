@@ -1,0 +1,1 @@
+(function(){var b="a6fb099d89da",m="# Genesis 11:15 (New International Version)\nAnd after he became the father of Eber, Shelah lived 403 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

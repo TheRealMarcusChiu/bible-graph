@@ -1,0 +1,1 @@
+(function(){var b="0e9d2f0e4d5d",m="# 1 Timothy 1:11 (New International Version)\nthat conforms to the gospel concerning the glory of the blessed God, which he entrusted to me.[^A]\n\n### Crossrefs\n[^A]: [[Gal-2-7|Gal 2:7]]; [[1Thess-2-4|1Th 2:4]]; [[Titus-1-3|Tit 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

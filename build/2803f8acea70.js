@@ -1,0 +1,1 @@
+(function(){var b="2803f8acea70",m="# Numbers 1:39 (New International Version)\nThe number from the tribe of Dan was 62,700.[^A]\n\n### Crossrefs\n[^A]: [[Num-26-43|Nu 26:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

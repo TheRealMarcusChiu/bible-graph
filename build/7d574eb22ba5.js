@@ -1,0 +1,1 @@
+(function(){var b="7d574eb22ba5",m="# Numbers 6:23 (New International Version)\n\"Tell Aaron and his sons, 'This is how you are to bless[^A] the Israelites. Say to them:\n\n### Crossrefs\n[^A]: [[Deut-21-5|Dt 21:5]]; [[1Chr-23-13|1Ch 23:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

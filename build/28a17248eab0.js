@@ -1,0 +1,1 @@
+(function(){var b="28a17248eab0",m="# Mark 4:10 (New International Version)\nWhen he was alone, the Twelve and the others around him asked him about the parables.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

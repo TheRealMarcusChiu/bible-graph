@@ -1,0 +1,1 @@
+(function(){var b="f5b7d516d773",m="# Joshua 4:17 (New International Version)\nSo Joshua commanded the priests, \"Come up out of the Jordan.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="58a364eb1c44",m="# Genesis 41:4 (New International Version)\nAnd the cows that were ugly and gaunt ate up the seven sleek, fat cows. Then Pharaoh woke up.[^A]\n\n### Crossrefs\n[^A]: [[Gen-41-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3fb1cde770b4",m="# Genesis 7:15 (New International Version)\nPairs of all creatures that have the breath of life in them came to Noah and entered the ark.[^A] \n\n### Crossrefs\n[^A]: [[Gen-7-8|ver 8-9]]; [[Gen-6-19|Ge 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

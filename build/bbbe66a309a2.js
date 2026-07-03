@@ -1,0 +1,1 @@
+(function(){var b="bbbe66a309a2",m="# Numbers 8:11 (New International Version)\nAaron is to present the Levites before the LORD as a wave offering[^A] from the Israelites, so that they may be ready to do the work of the LORD.\n\n### Crossrefs\n[^A]: S [[Exod-29-24|Ex 29:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

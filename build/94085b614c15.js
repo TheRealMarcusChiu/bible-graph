@@ -1,0 +1,1 @@
+(function(){var b="94085b614c15",m="# Exodus 30:34 (New International Version)\nIncense\nThen the LORD said to Moses, \"Take fragrant spices[^A]--gum resin, onycha and galbanum--and pure frankincense, all in equal amounts, \n\n### Crossrefs\n[^A]: [[Song-3-6|SS 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

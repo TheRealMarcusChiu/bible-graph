@@ -1,0 +1,1 @@
+(function(){var b="903ea4d9a50d",m="# Genesis 32:30 (New International Version)\nSo Jacob called the place Peniel, saying, \"It is because I saw God face to face,[^A] and yet my life was spared.\"\n\n### Crossrefs\n[^A]: S [[Gen-16-13|Ge 16:13]]; [[1Cor-13-12|1Co 13:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

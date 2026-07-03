@@ -1,0 +1,1 @@
+(function(){var b="18e36bb35654",m="# 1 Peter 2:1 (New International Version)\nTherefore, rid yourselves[^A] of all malice and all deceit, hypocrisy, envy, and slander[^B] of every kind. \n\n### Crossrefs\n[^A]: S [[Eph-4-22|Eph 4:22]]\n[^B]: S [[Jas-4-11|Jas 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

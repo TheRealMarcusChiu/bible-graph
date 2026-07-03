@@ -1,0 +1,1 @@
+(function(){var b="43b4bd11a62e",m="# Luke 3:20 (New International Version)\nHerod added this to them all: He locked John up in prison.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-14-3|Mt 14:3]], [[Matt-14-4|4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

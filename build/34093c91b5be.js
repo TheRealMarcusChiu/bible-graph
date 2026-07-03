@@ -1,0 +1,1 @@
+(function(){var b="34093c91b5be",m="# James 1:13 (New International Version)\nWhen tempted, no one should say, \"God is tempting me.\" For God cannot be tempted by evil, nor does he tempt anyone;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

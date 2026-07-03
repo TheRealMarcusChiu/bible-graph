@@ -1,0 +1,1 @@
+(function(){var b="76bce254cee3",m="# Mark 13:28 (New International Version)\n\"Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

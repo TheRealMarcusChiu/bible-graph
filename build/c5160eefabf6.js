@@ -1,0 +1,1 @@
+(function(){var b="c5160eefabf6",m="# Genesis 20:8 (New International Version)\nEarly the next morning Abimelek summoned all his officials, and when he told them all that had happened, they were very much afraid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

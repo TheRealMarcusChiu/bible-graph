@@ -1,0 +1,1 @@
+(function(){var b="72458af04d4e",m="# Deuteronomy 24:2 (New International Version)\nand if after she leaves his house she becomes the wife of another man,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

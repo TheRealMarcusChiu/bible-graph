@@ -1,0 +1,1 @@
+(function(){var b="517afb4e2a66",m="# Exodus 39:10 (New International Version)\nThen they mounted four rows of precious stones on it. The first row was carnelian, chrysolite and beryl;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

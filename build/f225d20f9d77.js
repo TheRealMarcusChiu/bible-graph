@@ -1,0 +1,1 @@
+(function(){var b="f225d20f9d77",m="# Luke 1:24 (New International Version)\nAfter this his wife Elizabeth became pregnant and for five months remained in seclusion.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

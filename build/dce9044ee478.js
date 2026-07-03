@@ -1,0 +1,1 @@
+(function(){var b="dce9044ee478",m="# John 18:31 (New International Version)\nPilate said, \"Take him yourselves and judge him by your own law.\"\n\"But we have no right to execute anyone,\" they objected.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

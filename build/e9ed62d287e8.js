@@ -1,0 +1,1 @@
+(function(){var b="e9ed62d287e8",m="# Acts 2:26 (New International Version)\nTherefore my heart is glad and my tongue rejoices;  \n    my body also will rest in hope,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

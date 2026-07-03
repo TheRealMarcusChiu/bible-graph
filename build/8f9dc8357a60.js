@@ -1,0 +1,1 @@
+(function(){var b="8f9dc8357a60",m="# John 8:22 (New International Version)\nThis made the Jews ask, \"Will he kill himself? Is that why he says, 'Where I go, you cannot come'?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

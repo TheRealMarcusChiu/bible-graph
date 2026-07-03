@@ -1,0 +1,1 @@
+(function(){var b="f6297eb3d540",m="# Acts 19:40 (New International Version)\nAs it is, we are in danger of being charged with rioting because of what happened today. In that case we would not be able to account for this commotion, since there is no reason for it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

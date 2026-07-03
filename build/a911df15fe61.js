@@ -1,0 +1,1 @@
+(function(){var b="a911df15fe61",m="# Deuteronomy 6:16 (New International Version)\nDo not put the LORD your God to the test[^A] as you did at Massah. \n\n### Crossrefs\n[^A]: S [[Exod-17-2|Ex 17:2]]; Mt 4:7*; Lk 4:12*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

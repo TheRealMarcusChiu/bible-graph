@@ -1,0 +1,1 @@
+(function(){var b="fe1d28ad0a46",m="# Mark 15:3 (New International Version)\nThe chief priests accused him of many things.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

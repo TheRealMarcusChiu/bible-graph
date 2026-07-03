@@ -1,0 +1,1 @@
+(function(){var b="ac296328b32e",m="# 1 Timothy 3:14 (New International Version)\nReasons for Paul's Instructions\nAlthough I hope to come to you soon, I am writing you these instructions so that,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

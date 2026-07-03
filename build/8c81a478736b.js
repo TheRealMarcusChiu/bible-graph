@@ -1,0 +1,1 @@
+(function(){var b="8c81a478736b",m="# 1 Corinthians 5:4 (New International Version)\nSo when you are assembled and I am with you in spirit, and the power of our Lord Jesus is present,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f61f58d1b38c",m="# Deuteronomy 14:18 (New International Version)\nthe stork, any kind of heron, the hoopoe and the bat.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

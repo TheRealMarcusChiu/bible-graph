@@ -1,0 +1,1 @@
+(function(){var b="e003a5a475fa",m="# Acts 19:3 (New International Version)\nSo Paul asked, \"Then what baptism did you receive?\"\n\"John's baptism,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

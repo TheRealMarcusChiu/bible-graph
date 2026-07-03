@@ -1,0 +1,1 @@
+(function(){var b="70131f9b743e",m="# Exodus 39:11 (New International Version)\nthe second row was turquoise, lapis lazuli and emerald;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

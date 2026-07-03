@@ -1,0 +1,1 @@
+(function(){var b="142b48e64eb2",m="# John 11:4 (New International Version)\nWhen he heard this, Jesus said, \"This sickness will not end in death. No, it is for God's glory[^A] so that God's Son may be glorified through it.\" \n\n### Crossrefs\n[^A]: [[John-11-40|ver 40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

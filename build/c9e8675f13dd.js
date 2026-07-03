@@ -1,0 +1,1 @@
+(function(){var b="c9e8675f13dd",m="# Luke 10:4 (New International Version)\nDo not take a purse or bag or sandals; and do not greet anyone on the road.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

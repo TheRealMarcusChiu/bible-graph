@@ -1,0 +1,1 @@
+(function(){var b="13bdec1e685a",m="# Matthew 26:59 (New International Version)\nThe chief priests and the whole Sanhedrin[^A] were looking for false evidence against Jesus so that they could put him to death. \n\n### Crossrefs\n[^A]: S [[Matt-5-22|Mt 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

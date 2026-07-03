@@ -1,0 +1,1 @@
+(function(){var b="589bc3b5bb72",m="# Galatians 3:26 (New International Version)\nSo in Christ Jesus you are all children of God[^A] through faith, \n\n### Crossrefs\n[^A]: S [[Rom-8-14|Ro 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

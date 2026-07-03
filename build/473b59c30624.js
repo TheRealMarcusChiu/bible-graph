@@ -1,0 +1,1 @@
+(function(){var b="473b59c30624",m="# Hebrews 13\n\nJesus the great high priest -- better than angels, Moses, and the old sacrifices; a call to persevering faith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

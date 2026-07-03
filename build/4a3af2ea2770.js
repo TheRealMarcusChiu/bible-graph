@@ -1,0 +1,1 @@
+(function(){var b="4a3af2ea2770",m="# Mark 7:17 (New International Version)\nAfter he had left the crowd and entered the house, his disciples asked him[^A] about this parable. \n\n### Crossrefs\n[^A]: [[Mark-9-28|Mk 9:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

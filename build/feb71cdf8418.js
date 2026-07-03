@@ -1,0 +1,1 @@
+(function(){var b="feb71cdf8418",m="# Exodus 36:19 (New International Version)\nThen they made for the tent a covering of ram skins dyed red, and over that a covering of the other durable leather.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

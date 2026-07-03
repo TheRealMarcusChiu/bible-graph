@@ -1,0 +1,1 @@
+(function(){var b="c2805cd8dd6f",m="# Numbers 30:3 (New International Version)\n\"When a young woman still living in her father's household makes a vow to the LORD or obligates herself by a pledge";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

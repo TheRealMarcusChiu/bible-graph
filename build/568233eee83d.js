@@ -1,0 +1,1 @@
+(function(){var b="568233eee83d",m="# Mark 5:17 (New International Version)\nThen the people began to plead with Jesus to leave their region.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

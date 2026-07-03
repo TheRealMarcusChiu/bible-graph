@@ -1,0 +1,1 @@
+(function(){var b="0c049c2eda4e",m="# Deuteronomy 18:11 (New International Version)\nor casts spells,[^A] or who is a medium or spiritist[^B] or who consults the dead. \n\n### Crossrefs\n[^A]: [[Isa-47-9|Isa 47:9]]\n[^B]: S [[Exod-22-18|Ex 22:18]]; S [[1Sam-28-13|1Sa 28:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

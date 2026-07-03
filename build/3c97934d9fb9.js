@@ -1,0 +1,1 @@
+(function(){var b="3c97934d9fb9",m="# Acts 15:28 (New International Version)\nIt seemed good to the Holy Spirit[^A] and to us not to burden you with anything beyond the following requirements: \n\n### Crossrefs\n[^A]: [[Acts-5-32|Ac 5:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

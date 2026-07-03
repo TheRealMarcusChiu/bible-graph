@@ -1,0 +1,1 @@
+(function(){var b="efac27e0db52",m="# Leviticus 15:1 (New International Version)\nDischarges Causing Uncleanness\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d6325a23879a",m="# Exodus 39:3 (New International Version)\nThey hammered out thin sheets of gold and cut strands to be worked into the blue, purple and scarlet yarn and fine linen--the work of skilled hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

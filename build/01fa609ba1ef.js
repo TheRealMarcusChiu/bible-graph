@@ -1,0 +1,1 @@
+(function(){var b="01fa609ba1ef",m="# Matthew 13:27 (New International Version)\n\"The owner's servants came to him and said, 'Sir, didn't you sow good seed in your field? Where then did the weeds come from?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

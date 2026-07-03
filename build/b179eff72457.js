@@ -1,0 +1,1 @@
+(function(){var b="b179eff72457",m="# Acts 4:22 (New International Version)\nFor the man who was miraculously healed was over forty years old.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

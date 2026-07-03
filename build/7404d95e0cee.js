@@ -1,0 +1,1 @@
+(function(){var b="7404d95e0cee",m="# Mark 3:21 (New International Version)\nWhen his family heard about this, they went to take charge of him, for they said, \"He is out of his mind.\"[^A]\n\n### Crossrefs\n[^A]: [[John-10-20|Jn 10:20]]; [[Acts-26-24|Ac 26:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

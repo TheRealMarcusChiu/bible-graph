@@ -1,0 +1,1 @@
+(function(){var b="23519dd4f27b",m="# Matthew 9:19 (New International Version)\nJesus got up and went with him, and so did his disciples.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

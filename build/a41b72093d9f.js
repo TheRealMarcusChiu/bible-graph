@@ -1,0 +1,1 @@
+(function(){var b="a41b72093d9f",m="# Matthew 6:23 (New International Version)\nBut if your eyes are unhealthy, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6048f114a96d",m="# John 3:30 (New International Version)\nHe must become greater; I must become less.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

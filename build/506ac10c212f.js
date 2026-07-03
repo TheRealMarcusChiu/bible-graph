@@ -1,0 +1,1 @@
+(function(){var b="506ac10c212f",m="# Matthew 22:14 (New International Version)\n\"For many are invited, but few are chosen.\"[^A]\n\n### Crossrefs\n[^A]: [[Rev-17-14|Rev 17:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

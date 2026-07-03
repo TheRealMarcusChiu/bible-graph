@@ -1,0 +1,1 @@
+(function(){var b="5b5928db12dd",m="# Luke 12:57 (New International Version)\n\"Why don't you judge for yourselves what is right?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

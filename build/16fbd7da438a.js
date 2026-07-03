@@ -1,0 +1,1 @@
+(function(){var b="16fbd7da438a",m="# Leviticus 11:5 (New International Version)\nThe hyrax, though it chews the cud, does not have a divided hoof; it is unclean for you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="943fbc28b35f",m="# Luke 3:33 (New International Version)\nthe son of Amminadab, the son of Ram,\nthe son of Hezron, the son of Perez,[^A]\nthe son of Judah, \n\n### Crossrefs\n[^A]: [[Ruth-4-18|Ru 4:18-22]]; [[1Chr-2-10|1Ch 2:10-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

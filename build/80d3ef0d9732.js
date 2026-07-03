@@ -1,0 +1,1 @@
+(function(){var b="80d3ef0d9732",m="# Acts 2:12 (New International Version)\nAmazed and perplexed, they asked one another, \"What does this mean?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

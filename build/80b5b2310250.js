@@ -1,0 +1,1 @@
+(function(){var b="80b5b2310250",m="# Exodus 35:26 (New International Version)\nAnd all the women who were willing and had the skill spun the goat hair.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

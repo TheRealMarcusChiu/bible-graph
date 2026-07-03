@@ -1,0 +1,1 @@
+(function(){var b="6862b6a241aa",m="# Genesis 5:15 (New International Version)\nWhen Mahalalel had lived 65 years, he became the father of Jared.[^A] \n\n### Crossrefs\n[^A]: [[1Chr-1-2|1Ch 1:2]]; [[Luke-3-37|Lk 3:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

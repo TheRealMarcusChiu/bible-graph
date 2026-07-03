@@ -1,0 +1,1 @@
+(function(){var b="03f97be8d442",m="# Deuteronomy 19:20 (New International Version)\nThe rest of the people will hear of this and be afraid,[^A] and never again will such an evil thing be done among you. \n\n### Crossrefs\n[^A]: S [[Deut-13-11|Dt 13:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

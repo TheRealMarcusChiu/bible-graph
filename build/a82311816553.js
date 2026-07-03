@@ -1,0 +1,1 @@
+(function(){var b="a82311816553",m="# Numbers 22:13 (New International Version)\nThe next morning Balaam got up and said to Balak's officials, \"Go back to your own country, for the LORD has refused to let me go with you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="17ac75cb8235",m="# 1 Timothy 5:9 (New International Version)\nNo widow may be put on the list of widows unless she is over sixty, has been faithful to her husband,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

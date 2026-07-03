@@ -1,0 +1,1 @@
+(function(){var b="a0494086a3ac",m="# Exodus 40:1 (New International Version)\nSetting Up the Tabernacle\nThen the LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

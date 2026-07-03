@@ -1,0 +1,1 @@
+(function(){var b="aabbbf5019c4",m="# Mark 12:3 (New International Version)\nBut they seized him, beat him and sent him away empty-handed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

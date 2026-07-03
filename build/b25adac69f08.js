@@ -1,0 +1,1 @@
+(function(){var b="b25adac69f08",m="# Acts 2:8 (New International Version)\nThen how is it that each of us hears them in our native language?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

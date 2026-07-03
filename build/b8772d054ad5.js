@@ -1,0 +1,1 @@
+(function(){var b="b8772d054ad5",m="# Matthew 17:10 (New International Version)\nThe disciples asked him, \"Why then do the teachers of the law say that Elijah must come first?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

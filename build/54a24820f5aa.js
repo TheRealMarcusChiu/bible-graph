@@ -1,0 +1,1 @@
+(function(){var b="54a24820f5aa",m="# Luke 1:56 (New International Version)\nMary stayed with Elizabeth for about three months and then returned home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

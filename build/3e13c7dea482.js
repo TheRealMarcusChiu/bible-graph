@@ -1,0 +1,1 @@
+(function(){var b="3e13c7dea482",m="# Exodus 32:29 (New International Version)\nThen Moses said, \"You have been set apart to the LORD today, for you were against your own sons and brothers, and he has blessed you this day.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

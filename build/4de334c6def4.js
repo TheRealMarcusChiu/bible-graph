@@ -1,0 +1,1 @@
+(function(){var b="4de334c6def4",m="# Exodus 7:12 (New International Version)\nEach one threw down his staff and it became a snake. But Aaron's staff swallowed up their staffs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bee2078d1bcc",m="# Luke 17:8 (New International Version)\nWon't he rather say, 'Prepare my supper, get yourself ready and wait on me[^A] while I eat and drink; after that you may eat and drink'? \n\n### Crossrefs\n[^A]: [[Luke-12-37|Lk 12:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

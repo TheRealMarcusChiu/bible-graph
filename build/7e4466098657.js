@@ -1,0 +1,1 @@
+(function(){var b="7e4466098657",m="# Deuteronomy 21:12 (New International Version)\nBring her into your home and have her shave her head,[^A] trim her nails \n\n### Crossrefs\n[^A]: S [[Lev-14-9|Lev 14:9]]; S [[Num-8-7|Nu 8:7]]; [[1Cor-11-5|1Co 11:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c573c5170e57",m="# John 3:14 (New International Version)\nJust as Moses lifted up the snake in the wilderness,[^A] so the Son of Man must be lifted up,[^B] \n\n### Crossrefs\n[^A]: [[Num-21-8|Nu 21:8]], [[Num-21-9|9]]\n[^B]: S [[John-12-32|Jn 12:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

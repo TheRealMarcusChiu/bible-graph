@@ -1,0 +1,1 @@
+(function(){var b="f8e408a52ab8",m="# Romans 15:21 (New International Version)\nRather, as it is written:\n\"Those who were not told about him will see,  \n    and those who have not heard will understand.\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-52-15|Isa 52:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

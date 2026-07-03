@@ -1,0 +1,1 @@
+(function(){var b="744d978a9d46",m="# Luke 8:5 (New International Version)\n\"A farmer went out to sow his seed. As he was scattering the seed, some fell along the path; it was trampled on, and the birds ate it up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

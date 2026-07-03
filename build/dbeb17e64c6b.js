@@ -1,0 +1,1 @@
+(function(){var b="dbeb17e64c6b",m="# Luke 20:31 (New International Version)\nand then the third married her, and in the same way the seven died, leaving no children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e7f2ce83511e",m="# 1 Corinthians 15:19 (New International Version)\nIf only for this life we have hope in Christ, we are of all people most to be pitied.[^A]\n\n### Crossrefs\n[^A]: S [[1Cor-4-9|1Co 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

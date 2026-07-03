@@ -1,0 +1,1 @@
+(function(){var b="5c57209edf89",m="# Matthew 25:25 (New International Version)\nSo I was afraid and went out and hid your gold in the ground. See, here is what belongs to you.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

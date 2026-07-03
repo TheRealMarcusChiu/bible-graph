@@ -1,0 +1,1 @@
+(function(){var b="30d5955cfeb6",m="# Deuteronomy 10:11 (New International Version)\n\"Go,\" the LORD said to me, \"and lead the people on their way, so that they may enter and possess the land I swore to their ancestors to give them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e0d3d2246383",m="# Luke 3:36 (New International Version)\nthe son of Cainan,\nthe son of Arphaxad,[^A] the son of Shem,\nthe son of Noah, the son of Lamech,[^B]\n\n### Crossrefs\n[^A]: [[Gen-11-12|Ge 11:12]]\n[^B]: [[Gen-5-28|Ge 5:28-32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

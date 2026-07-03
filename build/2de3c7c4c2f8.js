@@ -1,0 +1,1 @@
+(function(){var b="2de3c7c4c2f8",m="# Genesis 6:10 (New International Version)\nNoah had three sons: Shem,[^A] Ham and Japheth.[^B]\n\n### Crossrefs\n[^A]: [[Luke-3-36|Lk 3:36]]\n[^B]: S [[Gen-5-32|Ge 5:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e5a91cd73724",m="# Philippians 1:15 (New International Version)\nIt is true that some preach Christ out of envy and rivalry, but others out of goodwill.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

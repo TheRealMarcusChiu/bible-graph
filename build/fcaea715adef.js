@@ -1,0 +1,1 @@
+(function(){var b="fcaea715adef",m="# Exodus 29:32 (New International Version)\nAt the entrance to the tent of meeting, Aaron and his sons are to eat the meat of the ram and the bread[^A] that is in the basket. \n\n### Crossrefs\n[^A]: [[Matt-12-4|Mt 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

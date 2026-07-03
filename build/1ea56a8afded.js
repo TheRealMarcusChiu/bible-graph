@@ -1,0 +1,1 @@
+(function(){var b="1ea56a8afded",m="# Exodus 21:3 (New International Version)\nIf he comes alone, he is to go free alone; but if he has a wife when he comes, she is to go with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

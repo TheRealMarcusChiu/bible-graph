@@ -1,0 +1,1 @@
+(function(){var b="ebca582fe173",m="# Mark 11:10 (New International Version)\n\"Blessed is the coming kingdom of our father David!\"\n\"Hosanna in the highest heaven!\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-2-14|Lk 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

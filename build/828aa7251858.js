@@ -1,0 +1,1 @@
+(function(){var b="828aa7251858",m="# Luke 7:5 (New International Version)\nbecause he loves our nation and has built our synagogue.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

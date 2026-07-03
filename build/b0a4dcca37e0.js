@@ -1,0 +1,1 @@
+(function(){var b="b0a4dcca37e0",m="# Leviticus 24:1 (New International Version)\nOlive Oil and Bread Set Before the LORD[^A]\nThe LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Lev-24-1|24:1-3pp]] — [[Exod-27-20|Ex 27:20-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

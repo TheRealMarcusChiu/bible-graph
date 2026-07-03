@@ -1,0 +1,1 @@
+(function(){var b="96fc94fb325d",m="# Mark 15:23 (New International Version)\nThen they offered him wine mixed with myrrh,[^A] but he did not take it. \n\n### Crossrefs\n[^A]: [[Mark-15-36|ver 36]]; [[Ps-69-21|Ps 69:21]]; [[Prov-31-6|Pr 31:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

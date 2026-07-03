@@ -1,0 +1,1 @@
+(function(){var b="7bc839145fe1",m="# Genesis 40:11 (New International Version)\nPharaoh's cup was in my hand, and I took the grapes, squeezed them into Pharaoh's cup and put the cup in his hand.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

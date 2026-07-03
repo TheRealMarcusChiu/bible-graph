@@ -1,0 +1,1 @@
+(function(){var b="80c53b276927",m="# Numbers 29:5 (New International Version)\nInclude one male goat[^A] as a sin offering to make atonement for you. \n\n### Crossrefs\n[^A]: [[Num-28-15|Nu 28:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

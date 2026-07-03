@@ -1,0 +1,1 @@
+(function(){var b="af6bbcdc61e1",m="# Acts 8:17 (New International Version)\nThen Peter and John placed their hands on them,[^A] and they received the Holy Spirit.[^B]\n\n### Crossrefs\n[^A]: S [[Acts-6-6|Ac 6:6]]\n[^B]: S [[John-20-22|Jn 20:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

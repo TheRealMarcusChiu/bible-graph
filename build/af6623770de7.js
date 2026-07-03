@@ -1,0 +1,1 @@
+(function(){var b="af6623770de7",m="# 1 Peter 5:14 (New International Version)\nGreet one another with a kiss of love.[^A]\nPeace[^B] to all of you who are in Christ.\n\n### Crossrefs\n[^A]: S [[Rom-16-16|Ro 16:16]]\n[^B]: S [[Eph-6-23|Eph 6:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

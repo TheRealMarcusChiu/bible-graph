@@ -1,0 +1,1 @@
+(function(){var b="1551a582a48d",m="# John 8:35 (New International Version)\nNow a slave has no permanent place in the family, but a son belongs to it forever.[^A] \n\n### Crossrefs\n[^A]: [[Gal-4-30|Gal 4:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1a80f16ba17f",m="# Acts 7:15 (New International Version)\nThen Jacob went down to Egypt, where he and our ancestors died.[^A] \n\n### Crossrefs\n[^A]: [[Gen-46-5|Ge 46:5-7]]; [[Gen-49-33|49:33]]; [[Exod-1-6|Ex 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

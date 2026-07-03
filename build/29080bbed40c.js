@@ -1,0 +1,1 @@
+(function(){var b="29080bbed40c",m="# John 5:47 (New International Version)\nBut since you do not believe what he wrote, how are you going to believe what I say?\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-16-29|Lk 16:29]], [[Luke-16-31|31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

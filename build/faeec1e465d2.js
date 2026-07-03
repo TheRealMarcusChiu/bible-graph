@@ -1,0 +1,1 @@
+(function(){var b="faeec1e465d2",m="# Numbers 9:16 (New International Version)\nThat is how it continued to be; the cloud covered it, and at night it looked like fire.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-40-38|Ex 40:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

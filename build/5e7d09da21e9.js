@@ -1,0 +1,1 @@
+(function(){var b="5e7d09da21e9",m="# Philippians 3:16 (New International Version)\nOnly let us live up to what we have already attained.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

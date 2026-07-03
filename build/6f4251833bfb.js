@@ -1,0 +1,1 @@
+(function(){var b="6f4251833bfb",m="# Mark 6:25 (New International Version)\nAt once the girl hurried in to the king with the request: \"I want you to give me right now the head of John the Baptist on a platter.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

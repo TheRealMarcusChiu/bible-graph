@@ -1,0 +1,1 @@
+(function(){var b="0ab3e338cee0",m="# Acts 28:7 (New International Version)\nThere was an estate nearby that belonged to Publius, the chief official of the island. He welcomed us to his home and showed us generous hospitality for three days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1a45f6aae597",m="# Joshua 10:2 (New International Version)\nHe and his people were very much alarmed at this, because Gibeon was an important city, like one of the royal cities; it was larger than Ai, and all its men were good fighters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

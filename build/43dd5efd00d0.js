@@ -1,0 +1,1 @@
+(function(){var b="43dd5efd00d0",m="# Luke 21:20 (New International Version)\n\"When you see Jerusalem being surrounded by armies,[^A] you will know that its desolation is near. \n\n### Crossrefs\n[^A]: S [[Luke-19-43|Lk 19:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

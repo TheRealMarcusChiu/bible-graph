@@ -1,0 +1,1 @@
+(function(){var b="770a753c157e",m="# Leviticus 22:24 (New International Version)\nYou must not offer to the LORD an animal whose testicles are bruised, crushed, torn or cut.[^A] You must not do this in your own land, \n\n### Crossrefs\n[^A]: S [[Lev-21-20|Lev 21:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

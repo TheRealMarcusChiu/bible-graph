@@ -1,0 +1,1 @@
+(function(){var b="be60a44ec3bb",m="# 2 Timothy 4:19 (New International Version)\nFinal Greetings\nGreet Priscilla and Aquila[^A] and the household of Onesiphorus.[^B] \n\n### Crossrefs\n[^A]: S [[Acts-18-2|Ac 18:2]]\n[^B]: [[2Tim-1-16|2Ti 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

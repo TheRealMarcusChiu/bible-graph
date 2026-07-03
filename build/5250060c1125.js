@@ -1,0 +1,1 @@
+(function(){var b="5250060c1125",m="# Genesis 10:30 (New International Version)\nThe region where they lived stretched from Mesha toward Sephar, in the eastern hill country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

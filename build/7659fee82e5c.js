@@ -1,0 +1,1 @@
+(function(){var b="7659fee82e5c",m="# Genesis 2:13 (New International Version)\nThe name of the second river is the Gihon; it winds through the entire land of Cush.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

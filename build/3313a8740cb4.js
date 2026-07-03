@@ -1,0 +1,1 @@
+(function(){var b="3313a8740cb4",m="# John 4:13 (New International Version)\nJesus answered, \"Everyone who drinks this water will be thirsty again,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

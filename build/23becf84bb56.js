@@ -1,0 +1,1 @@
+(function(){var b="23becf84bb56",m="# Matthew 6:17 (New International Version)\nBut when you fast, put oil on your head and wash your face,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

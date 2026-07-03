@@ -1,0 +1,1 @@
+(function(){var b="a30874a74189",m="# Deuteronomy 7:11 (New International Version)\nTherefore, take care to follow the commands, decrees and laws I give you today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

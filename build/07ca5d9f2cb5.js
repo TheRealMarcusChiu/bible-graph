@@ -1,0 +1,1 @@
+(function(){var b="07ca5d9f2cb5",m="# Numbers 31:13 (New International Version)\nMoses, Eleazar the priest and all the leaders of the community went to meet them outside the camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

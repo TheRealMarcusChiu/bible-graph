@@ -1,0 +1,1 @@
+(function(){var b="fe6eb3d171de",m="# John 5:35 (New International Version)\nJohn was a lamp that burned and gave light,[^A] and you chose for a time to enjoy his light.\n\n### Crossrefs\n[^A]: [[Dan-12-3|Da 12:3]]; [[2Pet-1-19|2Pe 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

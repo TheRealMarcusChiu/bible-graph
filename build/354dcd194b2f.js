@@ -1,0 +1,1 @@
+(function(){var b="354dcd194b2f",m="# Matthew 6:29 (New International Version)\nYet I tell you that not even Solomon in all his splendor[^A] was dressed like one of these. \n\n### Crossrefs\n[^A]: [[1Kgs-10-4|1Ki 10:4-7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

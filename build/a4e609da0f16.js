@@ -1,0 +1,1 @@
+(function(){var b="a4e609da0f16",m="# Romans 11:19 (New International Version)\nYou will say then, \"Branches were broken off so that I could be grafted in.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e8e9f8157184",m="# Judges 7:17 (New International Version)\n\"Watch me,\" he told them. \"Follow my lead. When I get to the edge of the camp, do exactly as I do.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

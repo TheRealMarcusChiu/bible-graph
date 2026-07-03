@@ -1,0 +1,1 @@
+(function(){var b="aef9b0c4d15d",m="# 1 Corinthians 10:18 (New International Version)\nConsider the people of Israel: Do not those who eat the sacrifices[^A] participate in the altar? \n\n### Crossrefs\n[^A]: [[Lev-7-6|Lev 7:6]], [[Lev-7-14|14]], [[Lev-7-15|15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

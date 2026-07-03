@@ -1,0 +1,1 @@
+(function(){var b="ccceae0014d6",m="# Acts 19:39 (New International Version)\nIf there is anything further you want to bring up, it must be settled in a legal assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

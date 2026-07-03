@@ -1,0 +1,1 @@
+(function(){var b="bce8d6d06a0a",m="# Mark 1:16 (New International Version)\nJesus Calls His First Disciples\nAs Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the lake, for they were fishermen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

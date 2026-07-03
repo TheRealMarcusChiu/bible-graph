@@ -1,0 +1,1 @@
+(function(){var b="f0960fe46d2c",m="# Acts 7:24 (New International Version)\nHe saw one of them being mistreated by an Egyptian, so he went to his defense and avenged him by killing the Egyptian.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

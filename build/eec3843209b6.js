@@ -1,0 +1,1 @@
+(function(){var b="eec3843209b6",m="# 1 Corinthians 2:5 (New International Version)\nso that your faith might not rest on human wisdom, but on God's power.[^A]\n\n### Crossrefs\n[^A]: [[2Cor-4-7|2Co 4:7]]; [[2Cor-6-7|6:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

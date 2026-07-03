@@ -1,0 +1,1 @@
+(function(){var b="af38895a8d6a",m="# Matthew 26:32 (New International Version)\nBut after I have risen, I will go ahead of you into Galilee.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-28-7|Mt 28:7]], [[Matt-28-10|10]], [[Matt-28-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

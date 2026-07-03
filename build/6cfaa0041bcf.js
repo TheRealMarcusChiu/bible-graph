@@ -1,0 +1,1 @@
+(function(){var b="6cfaa0041bcf",m="# John 10:40 (New International Version)\nThen Jesus went back across the Jordan[^A] to the place where John had been baptizing in the early days. There he stayed, \n\n### Crossrefs\n[^A]: [[John-1-28|Jn 1:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4a1dd291442",m="# Genesis 16:9 (New International Version)\nThen the angel of the LORD told her, \"Go back to your mistress and submit to her.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

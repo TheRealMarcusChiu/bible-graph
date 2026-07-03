@@ -1,0 +1,1 @@
+(function(){var b="e6bcc1aeb2bd",m="# Genesis 42:3 (New International Version)\nThen ten of Joseph's brothers went down to buy grain[^A] from Egypt. \n\n### Crossrefs\n[^A]: [[Gen-42-10|ver 10]]; [[Gen-43-20|Ge 43:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7bc5e67f3341",m="# Joshua 7:23 (New International Version)\nThey took the things from the tent, brought them to Joshua and all the Israelites and spread them out before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

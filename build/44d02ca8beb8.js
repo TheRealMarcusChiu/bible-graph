@@ -1,0 +1,1 @@
+(function(){var b="44d02ca8beb8",m="# Leviticus 27:7 (New International Version)\nfor a person sixty years old or more, set the value of a male at fifteen shekels and of a female at ten shekels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

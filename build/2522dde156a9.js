@@ -1,0 +1,1 @@
+(function(){var b="2522dde156a9",m="# Leviticus 8:16 (New International Version)\nMoses also took all the fat around the internal organs, the long lobe of the liver, and both kidneys and their fat, and burned it on the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

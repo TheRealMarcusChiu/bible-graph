@@ -1,0 +1,1 @@
+(function(){var b="d7ff6e0c17ca",m="# Luke 12:17 (New International Version)\nHe thought to himself, 'What shall I do? I have no place to store my crops.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

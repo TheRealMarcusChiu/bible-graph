@@ -1,0 +1,1 @@
+(function(){var b="f5cae470cde5",m="# Exodus 5:5 (New International Version)\nThen Pharaoh said, \"Look, the people of the land are now numerous,[^A] and you are stopping them from working.\"\n\n### Crossrefs\n[^A]: S [[Gen-12-2|Ge 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

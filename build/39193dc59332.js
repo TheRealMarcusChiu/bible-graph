@@ -1,0 +1,1 @@
+(function(){var b="39193dc59332",m="# Exodus 35:33 (New International Version)\nto cut and set stones, to work in wood and to engage in all kinds of artistic crafts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

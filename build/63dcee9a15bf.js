@@ -1,0 +1,1 @@
+(function(){var b="63dcee9a15bf",m="# Romans 2:18 (New International Version)\nif you know his will and approve of what is superior because you are instructed by the law;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

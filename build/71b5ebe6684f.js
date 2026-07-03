@@ -1,0 +1,1 @@
+(function(){var b="71b5ebe6684f",m="# Acts 16:21 (New International Version)\nby advocating customs unlawful for us Romans[^A] to accept or practice.\"[^B]\n\n### Crossrefs\n[^A]: [[Acts-16-12|ver 12]]\n[^B]: [[Esth-3-8|Est 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

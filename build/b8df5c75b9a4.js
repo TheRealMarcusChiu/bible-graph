@@ -1,0 +1,1 @@
+(function(){var b="b8df5c75b9a4",m="# Exodus 9:20 (New International Version)\nThose officials of Pharaoh who feared[^A] the word of the LORD hurried to bring their slaves and their livestock inside. \n\n### Crossrefs\n[^A]: [[Prov-13-13|Pr 13:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

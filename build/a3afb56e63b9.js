@@ -1,0 +1,1 @@
+(function(){var b="a3afb56e63b9",m="# Judges 9:50 (New International Version)\nNext Abimelek went to Thebez[^A] and besieged it and captured it. \n\n### Crossrefs\n[^A]: [[2Sam-11-21|2Sa 11:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

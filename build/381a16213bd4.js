@@ -1,0 +1,1 @@
+(function(){var b="381a16213bd4",m="# Genesis 30:31 (New International Version)\n\"What shall I give you?\" he asked.\n\"Don't give me anything,\" Jacob replied. \"But if you will do this one thing for me, I will go on tending your flocks and watching over them:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

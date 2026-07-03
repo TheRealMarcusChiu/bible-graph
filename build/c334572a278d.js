@@ -1,0 +1,1 @@
+(function(){var b="c334572a278d",m="# Luke 10:42 (New International Version)\nbut few things are needed--or indeed only one.[^A] Mary has chosen what is better, and it will not be taken away from her.\"\n\n### Crossrefs\n[^A]: [[Ps-27-4|Ps 27:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="74b19166bfeb",m="# Deuteronomy 30:17 (New International Version)\nBut if your heart turns away and you are not obedient, and if you are drawn away to bow down to other gods and worship them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b571edd943ba",m="# Matthew 16:22 (New International Version)\nPeter took him aside and began to rebuke him. \"Never, Lord!\" he said. \"This shall never happen to you!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

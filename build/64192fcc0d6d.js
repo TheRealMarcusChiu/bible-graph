@@ -1,0 +1,1 @@
+(function(){var b="64192fcc0d6d",m="# Deuteronomy 2:32 (New International Version)\nWhen Sihon and all his army came out to meet us in battle[^A] at Jahaz, \n\n### Crossrefs\n[^A]: S [[Num-21-23|Nu 21:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

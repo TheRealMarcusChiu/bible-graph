@@ -1,0 +1,1 @@
+(function(){var b="6b05e483ffe5",m="# Joshua 5:7 (New International Version)\nSo he raised up their sons in their place, and these were the ones Joshua circumcised. They were still uncircumcised because they had not been circumcised on the way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

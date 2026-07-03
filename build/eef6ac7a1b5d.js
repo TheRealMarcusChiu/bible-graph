@@ -1,0 +1,1 @@
+(function(){var b="eef6ac7a1b5d",m="# Mark 5:11 (New International Version)\nA large herd of pigs was feeding on the nearby hillside.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

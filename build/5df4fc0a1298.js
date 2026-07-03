@@ -1,0 +1,1 @@
+(function(){var b="5df4fc0a1298",m="# Mark 7:13 (New International Version)\nThus you nullify the word of God[^A] by your tradition[^B] that you have handed down. And you do many things like that.\"\n\n### Crossrefs\n[^A]: S [[Heb-4-12|Heb 4:12]]\n[^B]: S [[Mark-7-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

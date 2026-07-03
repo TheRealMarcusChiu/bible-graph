@@ -1,0 +1,1 @@
+(function(){var b="210b213d1020",m="# Judges 8:9 (New International Version)\nSo he said to the men of Peniel, \"When I return in triumph, I will tear down this tower.\"[^A]\n\n### Crossrefs\n[^A]: [[Judg-8-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

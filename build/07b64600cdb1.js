@@ -1,0 +1,1 @@
+(function(){var b="07b64600cdb1",m="# Matthew 22:37 (New International Version)\nJesus replied: \"'Love the Lord your God with all your heart and with all your soul and with all your mind.'[^A] \n\n### Crossrefs\n[^A]: [[Deut-6-5|Dt 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

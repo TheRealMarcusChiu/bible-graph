@@ -1,0 +1,1 @@
+(function(){var b="93a5de0fbf9c",m="# Exodus 38:16 (New International Version)\nAll the curtains around the courtyard were of finely twisted linen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

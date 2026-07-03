@@ -1,0 +1,1 @@
+(function(){var b="7d02a9dcf7b1",m="# Genesis 5:10 (New International Version)\nAfter he became the father of Kenan, Enosh lived 815 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

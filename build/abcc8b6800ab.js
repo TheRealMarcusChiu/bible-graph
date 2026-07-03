@@ -1,0 +1,1 @@
+(function(){var b="abcc8b6800ab",m="# Genesis 33:15 (New International Version)\nEsau said, \"Then let me leave some of my men with you.\"\n\"But why do that?\" Jacob asked. \"Just let me find favor in the eyes of my lord.\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-32-5|Ge 32:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

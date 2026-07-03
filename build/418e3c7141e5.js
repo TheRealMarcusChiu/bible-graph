@@ -1,0 +1,1 @@
+(function(){var b="418e3c7141e5",m="# Luke 6:29 (New International Version)\nIf someone slaps you on one cheek, turn to them the other also. If someone takes your coat, do not withhold your shirt from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

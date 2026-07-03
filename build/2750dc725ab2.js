@@ -1,0 +1,1 @@
+(function(){var b="2750dc725ab2",m="# Numbers 1:54 (New International Version)\nThe Israelites did all this just as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

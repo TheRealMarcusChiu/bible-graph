@@ -1,0 +1,1 @@
+(function(){var b="c30d01111786",m="# Judges 10:7 (New International Version)\nhe became angry[^A] with them. He sold them[^B] into the hands of the Philistines and the Ammonites, \n\n### Crossrefs\n[^A]: S [[Deut-31-17|Dt 31:17]]\n[^B]: S [[Deut-32-30|Dt 32:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1f6b55fc996b",m="# 1 Corinthians 3\n\nPaul corrects a divided church on unity, purity, worship, spiritual gifts, love, and the resurrection.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

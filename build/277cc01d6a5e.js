@@ -1,0 +1,1 @@
+(function(){var b="277cc01d6a5e",m="# Luke 5:29 (New International Version)\nThen Levi held a great banquet for Jesus at his house, and a large crowd of tax collectors[^A] and others were eating with them. \n\n### Crossrefs\n[^A]: [[Luke-15-1|Lk 15:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

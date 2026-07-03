@@ -1,0 +1,1 @@
+(function(){var b="9ebee83ead4b",m="# Luke 8:39 (New International Version)\n\"Return home and tell how much God has done for you.\" So the man went away and told all over town how much Jesus had done for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

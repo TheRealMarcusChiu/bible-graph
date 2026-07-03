@@ -1,0 +1,1 @@
+(function(){var b="159094f23bd3",m="# Judges 9:40 (New International Version)\nAbimelek chased him all the way to the entrance of the gate, and many were killed as they fled.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

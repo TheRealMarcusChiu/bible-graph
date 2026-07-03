@@ -1,0 +1,1 @@
+(function(){var b="c3aca61bd1a1",m="# Luke 11:25 (New International Version)\nWhen it arrives, it finds the house swept clean and put in order.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

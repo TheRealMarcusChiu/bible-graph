@@ -1,0 +1,1 @@
+(function(){var b="2de5c9122fe6",m="# Mark 12:43 (New International Version)\nCalling his disciples to him, Jesus said, \"Truly I tell you, this poor widow has put more into the treasury than all the others.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

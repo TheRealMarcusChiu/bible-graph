@@ -1,0 +1,1 @@
+(function(){var b="82f2395cdaaf",m="# 1 Corinthians 7:24 (New International Version)\nBrothers and sisters, each person, as responsible to God, should remain in the situation they were in when God called them.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-7-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fd3fdcee4121",m="# Luke 1:34 (New International Version)\n\"How will this be,\" Mary asked the angel, \"since I am a virgin?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

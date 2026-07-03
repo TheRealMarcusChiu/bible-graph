@@ -1,0 +1,1 @@
+(function(){var b="51a90be21b76",m="# Mark 6:12 (New International Version)\nThey went out and preached that people should repent.[^A] \n\n### Crossrefs\n[^A]: [[Luke-9-6|Lk 9:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

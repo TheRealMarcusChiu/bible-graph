@@ -1,0 +1,1 @@
+(function(){var b="278267192764",m="# Numbers 25:16 (New International Version)\nThe LORD said to Moses,[^A] \n\n### Crossrefs\n[^A]: [[Num-31-7|Nu 31:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

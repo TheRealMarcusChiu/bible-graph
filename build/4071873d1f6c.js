@@ -1,0 +1,1 @@
+(function(){var b="4071873d1f6c",m="# Hebrews 11:30 (New International Version)\nBy faith the walls of Jericho fell, after the army had marched around them for seven days.[^A]\n\n### Crossrefs\n[^A]: [[Josh-6-12|Jos 6:12-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

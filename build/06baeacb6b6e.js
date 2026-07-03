@@ -1,0 +1,1 @@
+(function(){var b="06baeacb6b6e",m="# Luke 1:60 (New International Version)\nbut his mother spoke up and said, \"No! He is to be called John.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-1-13|ver 13]], [[Luke-1-63|63]]; S [[Matt-3-1|Mt 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

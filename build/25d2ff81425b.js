@@ -1,0 +1,1 @@
+(function(){var b="25d2ff81425b",m="# Matthew 25:8 (New International Version)\nThe foolish ones said to the wise, 'Give us some of your oil; our lamps are going out.'[^A]\n\n### Crossrefs\n[^A]: [[Luke-12-35|Lk 12:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

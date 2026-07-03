@@ -1,0 +1,1 @@
+(function(){var b="bd37f778ab4a",m="# Numbers 10:5 (New International Version)\nWhen a trumpet blast is sounded, the tribes camping on the east are to set out.[^A] \n\n### Crossrefs\n[^A]: [[Num-10-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

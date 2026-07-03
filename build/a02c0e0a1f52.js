@@ -1,0 +1,1 @@
+(function(){var b="a02c0e0a1f52",m="# 1 Corinthians 1:6 (New International Version)\nGod thus confirming our testimony[^A] about Christ among you. \n\n### Crossrefs\n[^A]: [[2Thess-1-10|2Th 1:10]]; [[1Tim-2-6|1Ti 2:6]]; [[Rev-1-2|Rev 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

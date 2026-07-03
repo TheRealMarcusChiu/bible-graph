@@ -1,0 +1,1 @@
+(function(){var b="5566d04ef906",m="# Exodus 26:23 (New International Version)\nand make two frames for the corners at the far end.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

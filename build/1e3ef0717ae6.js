@@ -1,0 +1,1 @@
+(function(){var b="1e3ef0717ae6",m="# Exodus 30:31 (New International Version)\nSay to the Israelites, 'This is to be my sacred anointing oil[^A] for the generations to come.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-29-7|Ex 29:7]]\n[^B]: S [[Exod-29-42|Ex 29:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5bd9540a99de",m="# Leviticus 25:32 (New International Version)\n\"'The Levites always have the right to redeem their houses in the Levitical towns,[^A] which they possess. \n\n### Crossrefs\n[^A]: [[Num-35-1|Nu 35:1-8]]; [[Josh-21-2|Jos 21:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c5c7b297007d",m="# Matthew 7:4 (New International Version)\nHow can you say to your brother, 'Let me take the speck out of your eye,' when all the time there is a plank in your own eye?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

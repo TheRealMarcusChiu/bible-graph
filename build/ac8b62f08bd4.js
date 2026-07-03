@@ -1,0 +1,1 @@
+(function(){var b="ac8b62f08bd4",m="# Genesis 41:23 (New International Version)\nAfter them, seven other heads sprouted--withered and thin and scorched by the east wind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="119f3d5c4ad7",m="# John 15:17 (New International Version)\nThis is my command: Love each other.[^A]\n\n### Crossrefs\n[^A]: [[John-15-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

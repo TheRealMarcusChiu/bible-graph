@@ -1,0 +1,1 @@
+(function(){var b="626aa970cb65",m="# Genesis 43:20 (New International Version)\n\"We beg your pardon, our lord,\" they said, \"we came down here the first time to buy food.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-42-3|Ge 42:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

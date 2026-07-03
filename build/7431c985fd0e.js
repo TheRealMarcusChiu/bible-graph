@@ -1,0 +1,1 @@
+(function(){var b="7431c985fd0e",m="# Luke 1:29 (New International Version)\nMary was greatly troubled at his words and wondered what kind of greeting this might be.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

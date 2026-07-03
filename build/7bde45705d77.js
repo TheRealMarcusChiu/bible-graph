@@ -1,0 +1,1 @@
+(function(){var b="7bde45705d77",m="# Numbers 14:26 (New International Version)\nThe LORD said to Moses and Aaron:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fea78bf61afa",m="# Luke 6:9 (New International Version)\nThen Jesus said to them, \"I ask you, which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5d8e61868198",m="# Numbers 13:11 (New International Version)\nfrom the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

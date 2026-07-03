@@ -1,0 +1,1 @@
+(function(){var b="1a03a582346f",m="# Mark 7:15 (New International Version)\nNothing outside a person can defile them by going into them. Rather, it is what comes out of a person that defiles them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

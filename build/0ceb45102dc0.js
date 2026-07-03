@@ -1,0 +1,1 @@
+(function(){var b="0ceb45102dc0",m="# 2 Corinthians 4:11 (New International Version)\nFor we who are alive are always being given over to death for Jesus' sake,[^A] so that his life may also be revealed in our mortal body. \n\n### Crossrefs\n[^A]: [[Rom-8-36|Ro 8:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

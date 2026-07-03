@@ -1,0 +1,1 @@
+(function(){var b="5aefecf802fd",m="# Numbers 28:27 (New International Version)\nPresent a burnt offering of two young bulls, one ram and seven male lambs a year old as an aroma pleasing to the LORD.[^A] \n\n### Crossrefs\n[^A]: [[Num-28-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

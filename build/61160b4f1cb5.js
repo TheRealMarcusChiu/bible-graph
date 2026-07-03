@@ -1,0 +1,1 @@
+(function(){var b="61160b4f1cb5",m="# Joshua 15:54 (New International Version)\nHumtah, Kiriath Arba[^A] (that is, Hebron) and Zior--nine towns and their villages.\n\n### Crossrefs\n[^A]: S [[Gen-35-27|Ge 35:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

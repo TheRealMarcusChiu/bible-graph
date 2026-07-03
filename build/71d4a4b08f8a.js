@@ -1,0 +1,1 @@
+(function(){var b="71d4a4b08f8a",m="# 1 Corinthians 15:40 (New International Version)\nThere are also heavenly bodies and there are earthly bodies; but the splendor of the heavenly bodies is one kind, and the splendor of the earthly bodies is another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

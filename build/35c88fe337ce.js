@@ -1,0 +1,1 @@
+(function(){var b="35c88fe337ce",m="# Exodus 28:22 (New International Version)\n\"For the breastpiece make braided chains of pure gold, like a rope.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

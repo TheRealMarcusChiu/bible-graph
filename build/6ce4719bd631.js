@@ -1,0 +1,1 @@
+(function(){var b="6ce4719bd631",m="# Exodus 26:28 (New International Version)\nThe center crossbar is to extend from end to end at the middle of the frames.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

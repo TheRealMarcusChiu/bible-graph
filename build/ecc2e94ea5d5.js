@@ -1,0 +1,1 @@
+(function(){var b="ecc2e94ea5d5",m="# Luke 19:5 (New International Version)\nWhen Jesus reached the spot, he looked up and said to him, \"Zacchaeus, come down immediately. I must stay at your house today.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

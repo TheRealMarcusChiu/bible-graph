@@ -1,0 +1,1 @@
+(function(){var b="bde7d5b82859",m="# Matthew 4:15 (New International Version)\n\"Land of Zebulun and land of Naphtali,  \n    the Way of the Sea, beyond the Jordan,  \n    Galilee of the Gentiles--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

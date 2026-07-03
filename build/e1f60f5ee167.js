@@ -1,0 +1,1 @@
+(function(){var b="e1f60f5ee167",m="# Deuteronomy 8\n\nMoses' farewell speeches restating the Law and urging Israel to love and obey God as they enter the promised land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

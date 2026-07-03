@@ -1,0 +1,1 @@
+(function(){var b="d6e86e76f7eb",m="# John 7:4 (New International Version)\nNo one who wants to become a public figure acts in secret. Since you are doing these things, show yourself to the world.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

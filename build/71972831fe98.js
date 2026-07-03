@@ -1,0 +1,1 @@
+(function(){var b="71972831fe98",m="# Exodus 21:21 (New International Version)\nbut they are not to be punished if the slave recovers after a day or two, since the slave is their property.[^A]\n\n### Crossrefs\n[^A]: [[Lev-25-44|Lev 25:44-46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

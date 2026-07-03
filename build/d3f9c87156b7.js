@@ -1,0 +1,1 @@
+(function(){var b="d3f9c87156b7",m="# Joshua 15:22 (New International Version)\nKinah, Dimonah, Adadah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8439ab8643ce",m="# John 3:12 (New International Version)\nI have spoken to you of earthly things and you do not believe; how then will you believe if I speak of heavenly things?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

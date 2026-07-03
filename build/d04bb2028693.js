@@ -1,0 +1,1 @@
+(function(){var b="d04bb2028693",m="# Genesis 28:7 (New International Version)\nand that Jacob had obeyed his father and mother and had gone to Paddan Aram.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

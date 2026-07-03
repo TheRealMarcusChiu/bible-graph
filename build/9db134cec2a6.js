@@ -1,0 +1,1 @@
+(function(){var b="9db134cec2a6",m="# Philippians 1:10 (New International Version)\nso that you may be able to discern what is best and may be pure and blameless for the day of Christ,[^A] \n\n### Crossrefs\n[^A]: [[Phil-1-6|ver 6]]; S [[1Cor-1-8|1Co 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

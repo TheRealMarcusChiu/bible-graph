@@ -1,0 +1,1 @@
+(function(){var b="1a402cacda47",m="# Genesis 50:9 (New International Version)\nChariots[^A] and horsemen also went up with him. It was a very large company.\n\n### Crossrefs\n[^A]: S [[Gen-41-43|Ge 41:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

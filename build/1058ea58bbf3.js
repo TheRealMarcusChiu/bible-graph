@@ -1,0 +1,1 @@
+(function(){var b="1058ea58bbf3",m="# Leviticus 17:1 (New International Version)\nEating Blood Forbidden\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

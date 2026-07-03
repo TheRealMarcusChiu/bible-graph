@@ -1,0 +1,1 @@
+(function(){var b="1ea8e26d5830",m="# Matthew 26:11 (New International Version)\nThe poor you will always have with you,[^A] but you will not always have me. \n\n### Crossrefs\n[^A]: [[Deut-15-11|Dt 15:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

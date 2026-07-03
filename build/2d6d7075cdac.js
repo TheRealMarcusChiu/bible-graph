@@ -1,0 +1,1 @@
+(function(){var b="2d6d7075cdac",m="# Matthew 5:7 (New International Version)\nBlessed are the merciful,  \n    for they will be shown mercy.[^A]\n\n### Crossrefs\n[^A]: S [[Jas-2-13|Jas 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="525727a88693",m="# Matthew 14:24 (New International Version)\nand the boat was already a considerable distance from land, buffeted by the waves because the wind was against it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

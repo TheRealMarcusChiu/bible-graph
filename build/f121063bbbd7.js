@@ -1,0 +1,1 @@
+(function(){var b="f121063bbbd7",m="# Mark 4:17 (New International Version)\nBut since they have no root, they last only a short time. When trouble or persecution comes because of the word, they quickly fall away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

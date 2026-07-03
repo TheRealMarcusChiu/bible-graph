@@ -1,0 +1,1 @@
+(function(){var b="778d858cc7a0",m="# Exodus 27:19 (New International Version)\nAll the other articles used in the service of the tabernacle, whatever their function, including all the tent pegs for it and those for the courtyard, are to be of bronze.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

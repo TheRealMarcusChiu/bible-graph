@@ -1,0 +1,1 @@
+(function(){var b="ed620c966b13",m="# Joshua 19:30 (New International Version)\nUmmah, Aphek[^A] and Rehob.[^B] There were twenty-two towns and their villages.\n\n### Crossrefs\n[^A]: S [[Josh-12-18|Jos 12:18]]\n[^B]: S [[Josh-19-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

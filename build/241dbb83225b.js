@@ -1,0 +1,1 @@
+(function(){var b="241dbb83225b",m="# Luke 1:7 (New International Version)\nBut they were childless because Elizabeth was not able to conceive, and they were both very old.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

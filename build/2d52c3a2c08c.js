@@ -1,0 +1,1 @@
+(function(){var b="2d52c3a2c08c",m="# Exodus 2:7 (New International Version)\nThen his sister asked Pharaoh's daughter, \"Shall I go and get one of the Hebrew women to nurse the baby for you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

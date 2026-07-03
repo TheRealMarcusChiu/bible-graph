@@ -1,0 +1,1 @@
+(function(){var b="d1962f911dab",m="# 1 Timothy 5:2 (New International Version)\nolder women as mothers, and younger women as sisters, with absolute purity.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

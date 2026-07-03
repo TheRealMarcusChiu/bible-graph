@@ -1,0 +1,1 @@
+(function(){var b="c19f74b9df06",m="# Numbers 15:1 (New International Version)\nSupplementary Offerings\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

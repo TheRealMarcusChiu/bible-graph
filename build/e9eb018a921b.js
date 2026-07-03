@@ -1,0 +1,1 @@
+(function(){var b="e9eb018a921b",m="# Numbers 4:22 (New International Version)\n\"Take a census also of the Gershonites by their families and clans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

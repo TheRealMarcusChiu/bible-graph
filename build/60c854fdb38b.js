@@ -1,0 +1,1 @@
+(function(){var b="60c854fdb38b",m="# Matthew 14:7 (New International Version)\nthat he promised with an oath to give her whatever she asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

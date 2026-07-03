@@ -1,0 +1,1 @@
+(function(){var b="92d322b114dc",m="# Exodus 36:11 (New International Version)\nThen they made loops of blue material along the edge of the end curtain in one set, and the same was done with the end curtain in the other set.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

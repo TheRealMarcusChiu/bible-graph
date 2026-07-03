@@ -1,0 +1,1 @@
+(function(){var b="5b174d299e44",m="# Mark 2:15 (New International Version)\nWhile Jesus was having dinner at Levi's house, many tax collectors and sinners were eating with him and his disciples, for there were many who followed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

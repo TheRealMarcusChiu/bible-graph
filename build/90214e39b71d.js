@@ -1,0 +1,1 @@
+(function(){var b="90214e39b71d",m="# Deuteronomy 24:21 (New International Version)\nWhen you harvest the grapes in your vineyard, do not go over the vines again. Leave what remains for the foreigner, the fatherless and the widow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

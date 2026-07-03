@@ -1,0 +1,1 @@
+(function(){var b="8fd9e126830b",m="# Titus 2:8 (New International Version)\nand soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.[^A]\n\n### Crossrefs\n[^A]: S [[1Pet-2-12|1Pe 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

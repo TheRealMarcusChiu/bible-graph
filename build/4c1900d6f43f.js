@@ -1,0 +1,1 @@
+(function(){var b="4c1900d6f43f",m="# James 1:23 (New International Version)\nAnyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

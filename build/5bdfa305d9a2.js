@@ -1,0 +1,1 @@
+(function(){var b="5bdfa305d9a2",m="# Exodus 27:14 (New International Version)\nCurtains fifteen cubits long are to be on one side of the entrance, with three posts and three bases,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b89e5dc1f221",m="# Matthew 18:32 (New International Version)\n\"Then the master called the servant in. 'You wicked servant,' he said, 'I canceled all that debt of yours because you begged me to.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a9b9297e4fa",m="# Joshua 15:16 (New International Version)\nAnd Caleb said, \"I will give my daughter Aksah[^A] in marriage to the man who attacks and captures Kiriath Sepher.\" \n\n### Crossrefs\n[^A]: [[1Chr-2-49|1Ch 2:49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4809720cb18f",m="# Exodus 39:26 (New International Version)\nThe bells and pomegranates alternated around the hem of the robe to be worn for ministering, as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

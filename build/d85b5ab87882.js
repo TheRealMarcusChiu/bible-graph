@@ -1,0 +1,1 @@
+(function(){var b="d85b5ab87882",m="# John 21:9 (New International Version)\nWhen they landed, they saw a fire[^A] of burning coals there with fish on it,[^B] and some bread.\n\n### Crossrefs\n[^A]: [[John-18-18|Jn 18:18]]\n[^B]: [[John-21-10|ver 10]], [[John-21-13|13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

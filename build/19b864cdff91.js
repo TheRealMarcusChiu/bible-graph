@@ -1,0 +1,1 @@
+(function(){var b="19b864cdff91",m="# Mark 9:6 (New International Version)\n(He did not know what to say, they were so frightened.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

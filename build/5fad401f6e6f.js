@@ -1,0 +1,1 @@
+(function(){var b="5fad401f6e6f",m="# Matthew 14:30 (New International Version)\nBut when he saw the wind, he was afraid and, beginning to sink, cried out, \"Lord, save me!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

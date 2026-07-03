@@ -1,0 +1,1 @@
+(function(){var b="dfe328ee579b",m="# Leviticus 14:27 (New International Version)\nand with his right forefinger sprinkle some of the oil from his palm seven times before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

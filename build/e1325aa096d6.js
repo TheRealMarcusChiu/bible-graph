@@ -1,0 +1,1 @@
+(function(){var b="e1325aa096d6",m="# Judges 11:6 (New International Version)\n\"Come,\" they said, \"be our commander, so we can fight the Ammonites.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

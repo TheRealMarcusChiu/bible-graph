@@ -1,0 +1,1 @@
+(function(){var b="dec3f21d732f",m="# Luke 8:9 (New International Version)\nHis disciples asked him what this parable meant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

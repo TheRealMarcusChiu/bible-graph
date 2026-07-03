@@ -1,0 +1,1 @@
+(function(){var b="7aae6fc474a3",m="# Exodus 32:24 (New International Version)\nSo I told them, 'Whoever has any gold jewelry, take it off.' Then they gave me the gold, and I threw it into the fire, and out came this calf!\"[^A]\n\n### Crossrefs\n[^A]: S [[Exod-32-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

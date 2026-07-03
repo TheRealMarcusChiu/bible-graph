@@ -1,0 +1,1 @@
+(function(){var b="e304ad79f174",m="# Judges 1:23 (New International Version)\nWhen they sent men to spy out Bethel (formerly called Luz),[^A] \n\n### Crossrefs\n[^A]: S [[Gen-28-19|Ge 28:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

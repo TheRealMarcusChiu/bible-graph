@@ -1,0 +1,1 @@
+(function(){var b="30e7189e3032",m="# Genesis 11:1 (New International Version)\nThe Tower of Babel\nNow the whole world had one language[^A] and a common speech. \n\n### Crossrefs\n[^A]: [[Gen-11-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

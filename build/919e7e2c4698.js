@@ -1,0 +1,1 @@
+(function(){var b="919e7e2c4698",m="# Genesis 5:9 (New International Version)\nWhen Enosh had lived 90 years, he became the father of Kenan.[^A] \n\n### Crossrefs\n[^A]: [[1Chr-1-2|1Ch 1:2]]; [[Luke-3-37|Lk 3:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

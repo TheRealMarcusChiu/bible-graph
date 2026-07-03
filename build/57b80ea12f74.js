@@ -1,0 +1,1 @@
+(function(){var b="57b80ea12f74",m="# Luke 14:8 (New International Version)\n\"When someone invites you to a wedding feast, do not take the place of honor, for a person more distinguished than you may have been invited.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

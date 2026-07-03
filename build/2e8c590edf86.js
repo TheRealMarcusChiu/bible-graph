@@ -1,0 +1,1 @@
+(function(){var b="2e8c590edf86",m="# Luke 5:39 (New International Version)\nAnd no one after drinking old wine wants the new, for they say, 'The old is better.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b8d22d825680",m="# Deuteronomy 1:18 (New International Version)\nAnd at that time I told you everything you were to do.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-39-11|Ge 39:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

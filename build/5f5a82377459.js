@@ -1,0 +1,1 @@
+(function(){var b="5f5a82377459",m="# Luke 8:55 (New International Version)\nHer spirit returned, and at once she stood up. Then Jesus told them to give her something to eat.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

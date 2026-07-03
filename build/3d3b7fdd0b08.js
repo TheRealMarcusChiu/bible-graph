@@ -1,0 +1,1 @@
+(function(){var b="3d3b7fdd0b08",m="# Leviticus 12:5 (New International Version)\nIf she gives birth to a daughter, for two weeks the woman will be unclean, as during her period. Then she must wait sixty-six days to be purified from her bleeding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

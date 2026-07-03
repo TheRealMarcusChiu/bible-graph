@@ -1,0 +1,1 @@
+(function(){var b="83c55b18f6ea",m="# Genesis 39:7 (New International Version)\nand after a while his master's wife took notice of Joseph and said, \"Come to bed with me!\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-38-16|Ge 38:16]]; [[Prov-7-15|Pr 7:15-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8a9c9f84eb86",m="# Leviticus 16:7 (New International Version)\nThen he is to take the two goats and present them before the LORD at the entrance to the tent of meeting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

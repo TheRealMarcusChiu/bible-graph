@@ -1,0 +1,1 @@
+(function(){var b="00c619e00187",m="# Exodus 31:12 (New International Version)\nThe Sabbath\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7b96b1834d33",m="# Matthew 23:21 (New International Version)\nAnd anyone who swears by the temple swears by it and by the one who dwells[^A] in it. \n\n### Crossrefs\n[^A]: [[1Kgs-8-13|1Ki 8:13]]; [[Ps-26-8|Ps 26:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c668bdcb8b03",m="# Leviticus 24:17 (New International Version)\n\"'Anyone who takes the life of a human being is to be put to death.[^A] \n\n### Crossrefs\n[^A]: [[Lev-24-21|ver 21]]; [[Gen-9-6|Ge 9:6]]; S [[Exod-21-12|Ex 21:12]]; [[Deut-27-24|Dt 27:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

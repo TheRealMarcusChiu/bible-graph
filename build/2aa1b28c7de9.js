@@ -1,0 +1,1 @@
+(function(){var b="2aa1b28c7de9",m="# Leviticus 8:36 (New International Version)\nSo Aaron and his sons did everything the LORD commanded through Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0820c4966ca4",m="# Matthew 23:36 (New International Version)\nTruly I tell you, all this will come on this generation.[^A]\n\n### Crossrefs\n[^A]: [[Matt-10-23|Mt 10:23]]; [[Matt-24-34|24:34]]; [[Luke-11-50|Lk 11:50]], [[Luke-11-51|51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

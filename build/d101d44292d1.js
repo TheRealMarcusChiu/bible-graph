@@ -1,0 +1,1 @@
+(function(){var b="d101d44292d1",m="# Genesis 31:14 (New International Version)\nThen Rachel and Leah replied, \"Do we still have any share[^A] in the inheritance of our father's estate? \n\n### Crossrefs\n[^A]: [[2Sam-20-1|2Sa 20:1]]; [[1Kgs-12-16|1Ki 12:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

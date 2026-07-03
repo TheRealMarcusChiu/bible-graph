@@ -1,0 +1,1 @@
+(function(){var b="321503ff42ce",m="# Exodus 25:32 (New International Version)\nSix branches are to extend from the sides of the lampstand--three on one side and three on the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

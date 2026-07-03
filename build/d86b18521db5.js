@@ -1,0 +1,1 @@
+(function(){var b="d86b18521db5",m="# Mark 12:9 (New International Version)\n\"What then will the owner of the vineyard do? He will come and kill those tenants and give the vineyard to others.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af74a92935b8",m="# Luke 4:28 (New International Version)\nAll the people in the synagogue were furious when they heard this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

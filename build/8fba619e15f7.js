@@ -1,0 +1,1 @@
+(function(){var b="8fba619e15f7",m="# Matthew 11:30 (New International Version)\nFor my yoke is easy and my burden is light.\"[^A]\n\n### Crossrefs\n[^A]: [[1John-5-3|1Jn 5:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

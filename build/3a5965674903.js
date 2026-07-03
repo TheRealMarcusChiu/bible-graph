@@ -1,0 +1,1 @@
+(function(){var b="3a5965674903",m="# Matthew 21:27 (New International Version)\nSo they answered Jesus, \"We don't know.\"\nThen he said, \"Neither will I tell you by what authority I am doing these things.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

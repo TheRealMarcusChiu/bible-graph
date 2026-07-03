@@ -1,0 +1,1 @@
+(function(){var b="e62628eb7e5e",m="# Genesis 42:20 (New International Version)\nBut you must bring your youngest brother to me,[^A] so that your words may be verified and that you may not die.\" This they proceeded to do.\n\n### Crossrefs\n[^A]: S [[Gen-42-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

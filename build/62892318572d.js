@@ -1,0 +1,1 @@
+(function(){var b="62892318572d",m="# Luke 23:55 (New International Version)\nThe women who had come with Jesus from Galilee[^A] followed Joseph and saw the tomb and how his body was laid in it. \n\n### Crossrefs\n[^A]: [[Luke-23-49|ver 49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

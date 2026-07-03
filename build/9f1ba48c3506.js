@@ -1,0 +1,1 @@
+(function(){var b="9f1ba48c3506",m="# Acts 5:27 (New International Version)\nThe apostles were brought in and made to appear before the Sanhedrin[^A] to be questioned by the high priest. \n\n### Crossrefs\n[^A]: S [[Matt-5-22|Mt 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="21b9a9888947",m="# Romans 2:2 (New International Version)\nNow we know that God's judgment against those who do such things is based on truth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

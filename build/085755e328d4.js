@@ -1,0 +1,1 @@
+(function(){var b="085755e328d4",m="# Numbers 36:10 (New International Version)\nSo Zelophehad's daughters did as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

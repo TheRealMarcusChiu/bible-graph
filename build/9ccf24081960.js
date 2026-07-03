@@ -1,0 +1,1 @@
+(function(){var b="9ccf24081960",m="# Exodus 21:24 (New International Version)\neye for eye, tooth for tooth,[^A] hand for hand, foot for foot, \n\n### Crossrefs\n[^A]: S [[Exod-21-23|ver 23]]; Mt 5:38*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

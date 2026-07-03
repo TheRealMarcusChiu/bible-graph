@@ -1,0 +1,1 @@
+(function(){var b="14c0a9478bc9",m="# Genesis 49:23 (New International Version)\nWith bitterness archers attacked him;[^A]  \n    they shot at him with hostility.[^B]\n\n### Crossrefs\n[^A]: [[1Chr-10-3|1Ch 10:3]]\n[^B]: S [[Gen-27-41|Ge 27:41]]; S [[Gen-37-24|37:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

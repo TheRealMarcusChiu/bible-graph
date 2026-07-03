@@ -1,0 +1,1 @@
+(function(){var b="8d6d3e122052",m="# Mark 6:8 (New International Version)\nThese were his instructions: \"Take nothing for the journey except a staff--no bread, no bag, no money in your belts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

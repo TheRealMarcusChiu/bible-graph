@@ -1,0 +1,1 @@
+(function(){var b="978de12b4de3",m="# John 9:12 (New International Version)\n\"Where is this man?\" they asked him.\n\"I don't know,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

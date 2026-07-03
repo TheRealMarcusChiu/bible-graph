@@ -1,0 +1,1 @@
+(function(){var b="bc5b1d9ecede",m="# Luke 20:42 (New International Version)\nDavid himself declares in the Book of Psalms:\n\"'The Lord said to my Lord:  \n    \"Sit at my right hand";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

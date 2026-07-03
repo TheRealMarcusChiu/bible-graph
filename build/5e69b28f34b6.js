@@ -1,0 +1,1 @@
+(function(){var b="5e69b28f34b6",m="# Numbers 3:18 (New International Version)\nThese were the names of the Gershonite clans:\nLibni and Shimei.[^A]\n\n### Crossrefs\n[^A]: [[Exod-6-17|Ex 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="393da439f22b",m="# Acts 14:16 (New International Version)\nIn the past, he let[^A] all nations go their own way.[^B] \n\n### Crossrefs\n[^A]: [[Acts-17-30|Ac 17:30]]\n[^B]: [[Ps-81-12|Ps 81:12]]; [[Mic-4-5|Mic 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

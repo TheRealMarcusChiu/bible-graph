@@ -1,0 +1,1 @@
+(function(){var b="001a918ebff4",m="# Exodus 21:31 (New International Version)\nThis law also applies if the bull gores a son or daughter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

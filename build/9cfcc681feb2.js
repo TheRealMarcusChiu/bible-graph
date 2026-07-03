@@ -1,0 +1,1 @@
+(function(){var b="9cfcc681feb2",m="# Numbers 35:27 (New International Version)\nand the avenger of blood finds them outside the city, the avenger of blood may kill the accused without being guilty of murder.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f248915a469e",m="# Genesis 32:17 (New International Version)\nHe instructed the one in the lead: \"When my brother Esau meets you and asks, 'Who do you belong to, and where are you going, and who owns all these animals in front of you?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

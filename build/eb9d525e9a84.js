@@ -1,0 +1,1 @@
+(function(){var b="eb9d525e9a84",m="# Leviticus 14:35 (New International Version)\nthe owner of the house must go and tell the priest, 'I have seen something that looks like a defiling mold in my house.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

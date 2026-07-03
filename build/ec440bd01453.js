@@ -1,0 +1,1 @@
+(function(){var b="ec440bd01453",m="# Exodus 2:25 (New International Version)\nSo God looked on the Israelites and was concerned[^A] about them.\n\n### Crossrefs\n[^A]: [[Exod-3-7|Ex 3:7]]; [[Exod-4-31|4:31]]; [[Luke-1-25|Lk 1:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

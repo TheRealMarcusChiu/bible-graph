@@ -1,0 +1,1 @@
+(function(){var b="83dc68c1796f",m="# Genesis 37:32 (New International Version)\nThey took the ornate robe[^A] back to their father and said, \"We found this. Examine it to see whether it is your son's robe.\"\n\n### Crossrefs\n[^A]: S [[Gen-37-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

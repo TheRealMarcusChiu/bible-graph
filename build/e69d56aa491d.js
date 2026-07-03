@@ -1,0 +1,1 @@
+(function(){var b="e69d56aa491d",m="# Mark 7:12 (New International Version)\nthen you no longer let them do anything for their father or mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d30a3c4b0d88",m="# Acts 18:20 (New International Version)\nWhen they asked him to spend more time with them, he declined.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

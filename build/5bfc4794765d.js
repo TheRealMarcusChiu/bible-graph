@@ -1,0 +1,1 @@
+(function(){var b="5bfc4794765d",m="# Joshua 10:17 (New International Version)\nWhen Joshua was told that the five kings had been found hiding in the cave at Makkedah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

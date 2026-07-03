@@ -1,0 +1,1 @@
+(function(){var b="4a4464a90899",m="# John 3:7 (New International Version)\nYou should not be surprised at my saying, 'You must be born again.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

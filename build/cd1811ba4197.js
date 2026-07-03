@@ -1,0 +1,1 @@
+(function(){var b="cd1811ba4197",m="# Genesis 21:9 (New International Version)\nBut Sarah saw that the son whom Hagar the Egyptian had borne to Abraham[^A] was mocking,[^B] \n\n### Crossrefs\n[^A]: S [[Gen-16-15|Ge 16:15]]\n[^B]: [[Gen-39-14|Ge 39:14]]; [[Gal-4-29|Gal 4:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

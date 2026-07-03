@@ -1,0 +1,1 @@
+(function(){var b="d4def9123543",m="# Luke 12:19 (New International Version)\nAnd I'll say to myself, \"You have plenty of grain laid up for many years. Take life easy; eat, drink and be merry.\"'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

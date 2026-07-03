@@ -1,0 +1,1 @@
+(function(){var b="a9f8ed961083",m="# Leviticus 27:31 (New International Version)\nWhoever would redeem[^A] any of their tithe must add a fifth of the value[^B] to it. \n\n### Crossrefs\n[^A]: S [[Lev-25-25|Lev 25:25]]\n[^B]: [[Lev-5-16|Lev 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

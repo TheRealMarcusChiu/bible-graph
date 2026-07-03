@@ -1,0 +1,1 @@
+(function(){var b="f12e7bc3f1fb",m="# John 6:46 (New International Version)\nNo one has seen the Father except the one who is from God;[^A] only he has seen the Father. \n\n### Crossrefs\n[^A]: S [[John-1-18|Jn 1:18]]; [[John-5-37|5:37]]; [[John-7-29|7:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

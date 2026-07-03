@@ -1,0 +1,1 @@
+(function(){var b="78efd33a2590",m="# Joshua 21:9 (New International Version)\nFrom the tribes of Judah and Simeon they allotted the following towns by name";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

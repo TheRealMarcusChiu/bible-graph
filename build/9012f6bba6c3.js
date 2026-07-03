@@ -1,0 +1,1 @@
+(function(){var b="9012f6bba6c3",m="# Titus 3:13 (New International Version)\nDo everything you can to help Zenas the lawyer and Apollos[^A] on their way and see that they have everything they need. \n\n### Crossrefs\n[^A]: S [[Acts-18-24|Ac 18:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

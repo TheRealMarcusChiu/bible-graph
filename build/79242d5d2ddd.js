@@ -1,0 +1,1 @@
+(function(){var b="79242d5d2ddd",m="# Mark 13:24 (New International Version)\n\"But in those days, following that distress,\n\"'the sun will be darkened,  \n    and the moon will not give its light;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a772f179710c",m="# Leviticus 22:33 (New International Version)\nand who brought you out of Egypt[^A] to be your God.[^B] I am the LORD.\"\n\n### Crossrefs\n[^A]: S [[Exod-6-6|Ex 6:6]]\n[^B]: S [[Gen-17-7|Ge 17:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

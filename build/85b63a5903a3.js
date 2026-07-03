@@ -1,0 +1,1 @@
+(function(){var b="85b63a5903a3",m="# Leviticus 19:24 (New International Version)\nIn the fourth year all its fruit will be holy,[^A] an offering of praise to the LORD. \n\n### Crossrefs\n[^A]: S [[Exod-22-29|Ex 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

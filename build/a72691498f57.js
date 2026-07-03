@@ -1,0 +1,1 @@
+(function(){var b="a72691498f57",m="# 1 John 3:19 (New International Version)\nThis is how we know that we belong to the truth and how we set our hearts at rest in his presence:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

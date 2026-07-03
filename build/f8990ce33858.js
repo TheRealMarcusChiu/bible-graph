@@ -1,0 +1,1 @@
+(function(){var b="f8990ce33858",m="# Joshua 19:21 (New International Version)\nRemeth, En Gannim,[^A] En Haddah and Beth Pazzez. \n\n### Crossrefs\n[^A]: S [[Josh-15-34|Jos 15:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

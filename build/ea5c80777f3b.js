@@ -1,0 +1,1 @@
+(function(){var b="ea5c80777f3b",m="# Colossians 3:23 (New International Version)\nWhatever you do, work at it with all your heart, as working for the Lord, not for human masters,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

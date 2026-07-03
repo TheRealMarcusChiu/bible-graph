@@ -1,0 +1,1 @@
+(function(){var b="0e5c64b563a6",m="# Acts 12:22 (New International Version)\nThey shouted, \"This is the voice of a god, not of a man.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

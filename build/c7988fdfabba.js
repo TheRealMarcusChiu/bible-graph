@@ -1,0 +1,1 @@
+(function(){var b="c7988fdfabba",m="# Luke 24:40 (New International Version)\nWhen he had said this, he showed them his hands and feet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

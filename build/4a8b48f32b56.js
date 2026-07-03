@@ -1,0 +1,1 @@
+(function(){var b="4a8b48f32b56",m="# Deuteronomy 9:15 (New International Version)\nSo I turned and went down from the mountain while it was ablaze with fire. And the two tablets of the covenant were in my hands.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-32-15|Ex 32:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

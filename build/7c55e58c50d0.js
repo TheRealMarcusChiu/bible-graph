@@ -1,0 +1,1 @@
+(function(){var b="7c55e58c50d0",m="# John 8:46 (New International Version)\nCan any of you prove me guilty of sin? If I am telling the truth, why don't you believe me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

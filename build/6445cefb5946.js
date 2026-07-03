@@ -1,0 +1,1 @@
+(function(){var b="6445cefb5946",m="# Matthew 18:23 (New International Version)\n\"Therefore, the kingdom of heaven is like[^A] a king who wanted to settle accounts[^B] with his servants. \n\n### Crossrefs\n[^A]: S [[Matt-13-24|Mt 13:24]]\n[^B]: [[Matt-25-19|Mt 25:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

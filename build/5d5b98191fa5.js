@@ -1,0 +1,1 @@
+(function(){var b="5d5b98191fa5",m="# Mark 7:7 (New International Version)\nThey worship me in vain;  \n    their teachings are merely human rules.'[^A]\n\n### Crossrefs\n[^A]: [[Isa-29-13|Isa 29:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

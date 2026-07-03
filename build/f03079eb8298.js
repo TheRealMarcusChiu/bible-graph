@@ -1,0 +1,1 @@
+(function(){var b="f03079eb8298",m="# Leviticus 13:56 (New International Version)\nIf, when the priest examines it, the mold has faded after the article has been washed, he is to tear the spoiled part out of the fabric, the leather, or the woven or knitted material.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

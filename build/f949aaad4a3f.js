@@ -1,0 +1,1 @@
+(function(){var b="f949aaad4a3f",m="# Luke 18:27 (New International Version)\nJesus replied, \"What is impossible with man is possible with God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-19-26|Mt 19:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

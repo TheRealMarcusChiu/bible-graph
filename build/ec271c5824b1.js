@@ -1,0 +1,1 @@
+(function(){var b="ec271c5824b1",m="# Luke 10:12 (New International Version)\nI tell you, it will be more bearable on that day for Sodom[^A] than for that town.[^B]\n\n### Crossrefs\n[^A]: S [[Matt-10-15|Mt 10:15]]\n[^B]: [[Matt-11-24|Mt 11:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="39c07aea3a55",m="# 1 Corinthians 16:8 (New International Version)\nBut I will stay on at Ephesus[^A] until Pentecost,[^B] \n\n### Crossrefs\n[^A]: S [[Acts-18-19|Ac 18:19]]\n[^B]: S [[Acts-2-1|Ac 2:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

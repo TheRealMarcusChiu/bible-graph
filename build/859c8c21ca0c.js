@@ -1,0 +1,1 @@
+(function(){var b="859c8c21ca0c",m="# Acts 26:25 (New International Version)\n\"I am not insane, most excellent[^A] Festus,\" Paul replied. \"What I am saying is true and reasonable. \n\n### Crossrefs\n[^A]: S [[Acts-23-26|Ac 23:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

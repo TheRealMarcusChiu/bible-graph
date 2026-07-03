@@ -1,0 +1,1 @@
+(function(){var b="e322d0c7dc55",m="# Numbers 3:37 (New International Version)\nas well as the posts of the surrounding courtyard[^A] with their bases, tent pegs[^B] and ropes.\n\n### Crossrefs\n[^A]: [[Exod-27-10|Ex 27:10-17]]\n[^B]: [[Exod-27-19|Ex 27:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

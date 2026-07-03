@@ -1,0 +1,1 @@
+(function(){var b="f7465f34f99a",m="# Matthew 26:35 (New International Version)\nBut Peter declared, \"Even if I have to die with you,[^A] I will never disown you.\" And all the other disciples said the same.\n\n### Crossrefs\n[^A]: [[John-13-37|Jn 13:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

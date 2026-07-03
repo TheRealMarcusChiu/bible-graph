@@ -1,0 +1,1 @@
+(function(){var b="7a01cd853b79",m="# Mark 9:10 (New International Version)\nThey kept the matter to themselves, discussing what \"rising from the dead\" meant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

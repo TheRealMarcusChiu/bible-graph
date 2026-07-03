@@ -1,0 +1,1 @@
+(function(){var b="fef962e1a987",m="# Exodus 10:17 (New International Version)\nNow forgive[^A] my sin once more and pray[^B] to the LORD your God to take this deadly plague away from me.\"\n\n### Crossrefs\n[^A]: [[1Sam-15-25|1Sa 15:25]]\n[^B]: S [[Exod-8-8|Ex 8:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

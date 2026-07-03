@@ -1,0 +1,1 @@
+(function(){var b="1d20fcf67be6",m="# Matthew 23:17 (New International Version)\nYou blind fools! Which is greater: the gold, or the temple that makes the gold sacred?[^A] \n\n### Crossrefs\n[^A]: [[Exod-30-29|Ex 30:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

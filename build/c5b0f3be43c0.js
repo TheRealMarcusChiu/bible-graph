@@ -1,0 +1,1 @@
+(function(){var b="c5b0f3be43c0",m="# Mark 2:19 (New International Version)\nJesus answered, \"How can the guests of the bridegroom fast while he is with them? They cannot, so long as they have him with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

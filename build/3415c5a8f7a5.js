@@ -1,0 +1,1 @@
+(function(){var b="3415c5a8f7a5",m="# Matthew 23:38 (New International Version)\nLook, your house is left to you desolate.[^A] \n\n### Crossrefs\n[^A]: [[1Kgs-9-7|1Ki 9:7]], [[1Kgs-9-8|8]]; [[Jer-22-5|Jer 22:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

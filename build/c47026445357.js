@@ -1,0 +1,1 @@
+(function(){var b="c47026445357",m="# John 12:30 (New International Version)\nJesus said, \"This voice was for your benefit,[^A] not mine. \n\n### Crossrefs\n[^A]: [[Exod-19-9|Ex 19:9]]; [[John-11-42|Jn 11:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

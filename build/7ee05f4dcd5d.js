@@ -1,0 +1,1 @@
+(function(){var b="7ee05f4dcd5d",m="# Numbers 16:8 (New International Version)\nMoses also said to Korah, \"Now listen, you Levites!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

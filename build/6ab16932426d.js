@@ -1,0 +1,1 @@
+(function(){var b="6ab16932426d",m="# Leviticus 8:4 (New International Version)\nMoses did as the LORD commanded him, and the assembly gathered at the entrance to the tent of meeting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

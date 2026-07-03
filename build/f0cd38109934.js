@@ -1,0 +1,1 @@
+(function(){var b="f0cd38109934",m="# Genesis 41:26 (New International Version)\nThe seven good cows[^A] are seven years, and the seven good heads of grain are seven years; it is one and the same dream. \n\n### Crossrefs\n[^A]: S [[Gen-41-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a4d563e6b384",m="# Numbers 27:5 (New International Version)\nSo Moses brought their case[^A] before the LORD,[^B] \n\n### Crossrefs\n[^A]: S [[Gen-25-22|Ge 25:22]]; S [[Exod-18-19|Ex 18:19]]\n[^B]: S [[Num-9-8|Nu 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

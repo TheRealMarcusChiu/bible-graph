@@ -1,0 +1,1 @@
+(function(){var b="596dd17bd626",m="# Luke 16:7 (New International Version)\n\"Then he asked the second, 'And how much do you owe?'\n\"'A thousand bushels of wheat,' he replied.\n\"He told him, 'Take your bill and make it eight hundred.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

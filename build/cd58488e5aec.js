@@ -1,0 +1,1 @@
+(function(){var b="cd58488e5aec",m="# Exodus 21:18 (New International Version)\n\"If people quarrel and one person hits another with a stone or with their fist and the victim does not die but is confined to bed,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

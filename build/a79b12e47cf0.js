@@ -1,0 +1,1 @@
+(function(){var b="a79b12e47cf0",m="# Genesis 21:25 (New International Version)\nThen Abraham complained to Abimelek about a well of water that Abimelek's servants had seized.[^A] \n\n### Crossrefs\n[^A]: [[Gen-26-15|Ge 26:15]], [[Gen-26-18|18]], [[Gen-26-20|20-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

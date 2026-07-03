@@ -1,0 +1,1 @@
+(function(){var b="1632f887f03a",m="# Luke 22:10 (New International Version)\nHe replied, \"As you enter the city, a man carrying a jar of water will meet you. Follow him to the house that he enters,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

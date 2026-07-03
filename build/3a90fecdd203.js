@@ -1,0 +1,1 @@
+(function(){var b="3a90fecdd203",m="# Philemon 6 (New International Version)\nI pray that your partnership with us in the faith may be effective in deepening your understanding of every good thing we share for the sake of Christ.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f5f952e327cf",m="# Matthew 5:36 (New International Version)\nAnd do not swear by your head, for you cannot make even one hair white or black.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

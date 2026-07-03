@@ -1,0 +1,1 @@
+(function(){var b="5b9b2cf81d4c",m="# Revelation 8:1 (New International Version)\nThe Seventh Seal and the Golden Censer\nWhen he opened the seventh seal,[^A] there was silence in heaven for about half an hour.\n\n### Crossrefs\n[^A]: [[Rev-6-1|Rev 6:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

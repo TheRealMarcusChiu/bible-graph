@@ -1,0 +1,1 @@
+(function(){var b="e8d960660d95",m="# 1 Corinthians 15:14 (New International Version)\nAnd if Christ has not been raised,[^A] our preaching is useless and so is your faith. \n\n### Crossrefs\n[^A]: [[1Thess-4-14|1Th 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

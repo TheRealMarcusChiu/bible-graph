@@ -1,0 +1,1 @@
+(function(){var b="2d385cc514b2",m="# John 14:4 (New International Version)\nYou know the way to the place where I am going.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba72cd8d7035",m="# Numbers 26:36 (New International Version)\nThese were the descendants of Shuthelah:\nthrough Eran, the Eranite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

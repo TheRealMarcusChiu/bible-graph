@@ -1,0 +1,1 @@
+(function(){var b="c0633e219ccd",m="# Exodus 38:29 (New International Version)\nThe bronze from the wave offering was 70 talents and 2,400 shekels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

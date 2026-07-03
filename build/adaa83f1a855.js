@@ -1,0 +1,1 @@
+(function(){var b="adaa83f1a855",m="# Leviticus 11:1 (New International Version)\nClean and Unclean Food[^A]\nThe LORD said to Moses and Aaron, \n\n### Crossrefs\n[^A]: [[Lev-11-1|11:1-23pp]] — [[Deut-14-3|Dt 14:3-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

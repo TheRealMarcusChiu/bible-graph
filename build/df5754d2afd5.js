@@ -1,0 +1,1 @@
+(function(){var b="df5754d2afd5",m="# Matthew 22:25 (New International Version)\nNow there were seven brothers among us. The first one married and died, and since he had no children, he left his wife to his brother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

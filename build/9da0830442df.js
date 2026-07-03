@@ -1,0 +1,1 @@
+(function(){var b="9da0830442df",m="# 2 Corinthians 9:14 (New International Version)\nAnd in their prayers for you their hearts will go out to you, because of the surpassing grace God has given you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

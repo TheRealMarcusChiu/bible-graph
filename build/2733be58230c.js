@@ -1,0 +1,1 @@
+(function(){var b="2733be58230c",m="# Luke 2:8 (New International Version)\nAnd there were shepherds living out in the fields nearby, keeping watch over their flocks at night.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

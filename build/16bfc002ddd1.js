@@ -1,0 +1,1 @@
+(function(){var b="16bfc002ddd1",m="# Acts 19:14 (New International Version)\nSeven sons of Sceva, a Jewish chief priest, were doing this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

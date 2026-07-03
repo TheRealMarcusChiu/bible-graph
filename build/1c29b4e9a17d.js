@@ -1,0 +1,1 @@
+(function(){var b="1c29b4e9a17d",m="# 2 Timothy 4:9 (New International Version)\nPersonal Remarks\nDo your best to come to me quickly,[^A] \n\n### Crossrefs\n[^A]: [[2Tim-4-21|ver 21]]; [[Titus-3-12|Tit 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

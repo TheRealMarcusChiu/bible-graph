@@ -1,0 +1,1 @@
+(function(){var b="78a06bae4a84",m="# Joshua 3:6 (New International Version)\nJoshua said to the priests, \"Take up the ark of the covenant and pass on ahead of the people.\" So they took it up and went ahead of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

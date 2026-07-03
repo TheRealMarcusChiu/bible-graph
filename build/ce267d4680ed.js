@@ -1,0 +1,1 @@
+(function(){var b="ce267d4680ed",m="# Revelation 12:15 (New International Version)\nThen from his mouth the serpent[^A] spewed water like a river, to overtake the woman and sweep her away with the torrent. \n\n### Crossrefs\n[^A]: [[Rev-12-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

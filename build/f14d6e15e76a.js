@@ -1,0 +1,1 @@
+(function(){var b="f14d6e15e76a",m="# Exodus 25:27 (New International Version)\nThe rings are to be close to the rim to hold the poles used in carrying the table.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="16f55a2de8d3",m="# Joshua 20:2 (New International Version)\n\"Tell the Israelites to designate the cities of refuge, as I instructed you through Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

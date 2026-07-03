@@ -1,0 +1,1 @@
+(function(){var b="1c0f19d57db7",m="# Matthew 3:8 (New International Version)\nProduce fruit in keeping with repentance.[^A] \n\n### Crossrefs\n[^A]: [[Acts-26-20|Ac 26:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

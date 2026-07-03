@@ -1,0 +1,1 @@
+(function(){var b="00dd64a8d1e8",m="# Romans 11:21 (New International Version)\nFor if God did not spare the natural branches, he will not spare you either.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

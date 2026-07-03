@@ -1,0 +1,1 @@
+(function(){var b="b269f5877a66",m="# Revelation 3:6 (New International Version)\nWhoever has ears, let them hear[^A] what the Spirit says to the churches.\n\n### Crossrefs\n[^A]: S [[Rev-2-7|Rev 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

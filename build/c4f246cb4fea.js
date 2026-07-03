@@ -1,0 +1,1 @@
+(function(){var b="c4f246cb4fea",m="# Mark 12:4 (New International Version)\nThen he sent another servant to them; they struck this man on the head and treated him shamefully.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

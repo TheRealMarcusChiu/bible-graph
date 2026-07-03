@@ -1,0 +1,1 @@
+(function(){var b="d06b08409dc5",m="# Romans 11:31 (New International Version)\nso they too have now become disobedient in order that they too may now receive mercy as a result of God's mercy to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cb7ffd409788",m="# Acts 26:21 (New International Version)\nThat is why some Jews seized me[^A] in the temple courts and tried to kill me.[^B] \n\n### Crossrefs\n[^A]: [[Acts-21-27|Ac 21:27]], [[Acts-21-30|30]]\n[^B]: [[Acts-21-31|Ac 21:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

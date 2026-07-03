@@ -1,0 +1,1 @@
+(function(){var b="75cfc79b0f44",m="# Philemon 8 (New International Version)\nPaul's Plea for Onesimus\nTherefore, although in Christ I could be bold and order you to do what you ought to do,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

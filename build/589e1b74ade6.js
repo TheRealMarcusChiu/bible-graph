@@ -1,0 +1,1 @@
+(function(){var b="589e1b74ade6",m="# Numbers 16:25 (New International Version)\nMoses got up and went to Dathan and Abiram, and the elders of Israel[^A] followed him. \n\n### Crossrefs\n[^A]: S [[Exod-19-7|Ex 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

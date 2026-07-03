@@ -1,0 +1,1 @@
+(function(){var b="74e2e6a85664",m="# Hebrews 5:9 (New International Version)\nand, once made perfect,[^A] he became the source of eternal salvation for all who obey him \n\n### Crossrefs\n[^A]: S [[Heb-2-10|Heb 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

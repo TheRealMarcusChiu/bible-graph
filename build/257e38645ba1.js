@@ -1,0 +1,1 @@
+(function(){var b="257e38645ba1",m="# Acts 22:21 (New International Version)\n\"Then the Lord said to me, 'Go; I will send you far away to the Gentiles.' \"[^A]\n\n### Crossrefs\n[^A]: S [[Acts-9-15|Ac 9:15]]; S [[Acts-13-46|13:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

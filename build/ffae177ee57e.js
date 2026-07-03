@@ -1,0 +1,1 @@
+(function(){var b="ffae177ee57e",m="# Acts 13:40 (New International Version)\nTake care that what the prophets have said does not happen to you:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

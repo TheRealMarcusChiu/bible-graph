@@ -1,0 +1,1 @@
+(function(){var b="9e02ffe0ae52",m="# Galatians 6:15 (New International Version)\nNeither circumcision nor uncircumcision means anything;[^A] what counts is the new creation.[^B] \n\n### Crossrefs\n[^A]: S [[1Cor-7-19|1Co 7:19]]\n[^B]: S [[2Cor-5-17|2Co 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="56a1ae650dc0",m="# Luke 11:34 (New International Version)\nYour eye is the lamp of your body. When your eyes are healthy, your whole body also is full of light. But when they are unhealthy, your body also is full of darkness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f8935a9d6328",m="# Numbers 7:46 (New International Version)\none male goat for a sin offering;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

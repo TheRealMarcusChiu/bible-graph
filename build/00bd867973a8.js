@@ -1,0 +1,1 @@
+(function(){var b="00bd867973a8",m="# John 8:3 (New International Version)\n_The teachers of the law and the Pharisees brought in a woman caught in adultery. They made her stand before the group_";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

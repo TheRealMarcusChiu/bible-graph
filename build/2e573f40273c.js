@@ -1,0 +1,1 @@
+(function(){var b="2e573f40273c",m="# Numbers 16:45 (New International Version)\n\"Get away from this assembly so I can put an end[^A] to them at once.\" And they fell facedown.\n\n### Crossrefs\n[^A]: S [[Exod-32-10|Ex 32:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

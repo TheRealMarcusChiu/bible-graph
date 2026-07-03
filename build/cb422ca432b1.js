@@ -1,0 +1,1 @@
+(function(){var b="cb422ca432b1",m="# Mark 4:38 (New International Version)\nJesus was in the stern, sleeping on a cushion. The disciples woke him and said to him, \"Teacher, don't you care if we drown?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc6089b7bc7c",m="# Mark 12:5 (New International Version)\nHe sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="88d81dcd164c",m="# Luke 11:5 (New International Version)\nThen Jesus said to them, \"Suppose you have a friend, and you go to him at midnight and say, 'Friend, lend me three loaves of bread;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

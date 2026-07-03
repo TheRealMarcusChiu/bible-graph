@@ -1,0 +1,1 @@
+(function(){var b="9fdb13c3fa73",m="# Matthew 17:15 (New International Version)\n\"Lord, have mercy on my son,\" he said. \"He has seizures[^A] and is suffering greatly. He often falls into the fire or into the water. \n\n### Crossrefs\n[^A]: [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

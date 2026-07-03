@@ -1,0 +1,1 @@
+(function(){var b="6a63a83463d2",m="# Luke 2:44 (New International Version)\nThinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

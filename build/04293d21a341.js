@@ -1,0 +1,1 @@
+(function(){var b="04293d21a341",m="# Luke 9:62 (New International Version)\nJesus replied, \"No one who puts a hand to the plow and looks back is fit for service in the kingdom of God.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

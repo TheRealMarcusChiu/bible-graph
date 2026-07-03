@@ -1,0 +1,1 @@
+(function(){var b="580f7da719fc",m="# John 5:11 (New International Version)\nBut he replied, \"The man who made me well said to me, 'Pick up your mat and walk.' \"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

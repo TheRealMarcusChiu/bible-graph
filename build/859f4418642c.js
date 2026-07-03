@@ -1,0 +1,1 @@
+(function(){var b="859f4418642c",m="# Mark 4:33 (New International Version)\nWith many similar parables Jesus spoke the word to them, as much as they could understand.[^A] \n\n### Crossrefs\n[^A]: [[John-16-12|Jn 16:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

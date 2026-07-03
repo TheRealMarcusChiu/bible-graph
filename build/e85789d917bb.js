@@ -1,0 +1,1 @@
+(function(){var b="e85789d917bb",m="# Revelation 3:2 (New International Version)\nWake up! Strengthen what remains and is about to die, for I have found your deeds unfinished in the sight of my God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

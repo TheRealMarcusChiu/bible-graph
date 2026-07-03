@@ -1,0 +1,1 @@
+(function(){var b="83ed265e1db7",m="# Acts 9:14 (New International Version)\nAnd he has come here with authority from the chief priests[^A] to arrest all who call on your name.\"[^B]\n\n### Crossrefs\n[^A]: [[Acts-9-2|ver 2]], [[Acts-9-21|21]]\n[^B]: S [[Acts-2-21|Ac 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

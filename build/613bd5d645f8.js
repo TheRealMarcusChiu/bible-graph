@@ -1,0 +1,1 @@
+(function(){var b="613bd5d645f8",m="# Matthew 22:20 (New International Version)\nand he asked them, \"Whose image is this? And whose inscription?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

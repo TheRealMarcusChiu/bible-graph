@@ -1,0 +1,1 @@
+(function(){var b="d0852a8c15ea",m="# Acts 17:4 (New International Version)\nSome of the Jews were persuaded and joined Paul and Silas,[^A] as did a large number of God-fearing Greeks and quite a few prominent women.\n\n### Crossrefs\n[^A]: S [[Acts-15-22|Ac 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

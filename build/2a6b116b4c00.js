@@ -1,0 +1,1 @@
+(function(){var b="2a6b116b4c00",m="# Deuteronomy 22:29 (New International Version)\nhe shall pay her father fifty shekels of silver. He must marry the young woman, for he has violated her. He can never divorce her as long as he lives.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

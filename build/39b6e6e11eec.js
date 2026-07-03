@@ -1,0 +1,1 @@
+(function(){var b="39b6e6e11eec",m="# Luke 1:55 (New International Version)\nto Abraham and his descendants[^A] forever,  \n    just as he promised our ancestors.\"\n\n### Crossrefs\n[^A]: S [[Gal-3-16|Gal 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

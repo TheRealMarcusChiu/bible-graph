@@ -1,0 +1,1 @@
+(function(){var b="23df40abd7dc",m="# Numbers 4:24 (New International Version)\n\"This is the service of the Gershonite clans in their carrying and their other work:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

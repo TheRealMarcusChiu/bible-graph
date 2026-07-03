@@ -1,0 +1,1 @@
+(function(){var b="6a064e65ae2b",m="# Exodus 25:35 (New International Version)\nOne bud shall be under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

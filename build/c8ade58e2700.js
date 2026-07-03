@@ -1,0 +1,1 @@
+(function(){var b="c8ade58e2700",m="# Acts 7:53 (New International Version)\nyou who have received the law that was given through angels[^A] but have not obeyed it.\"\n\n### Crossrefs\n[^A]: [[Acts-7-38|ver 38]]; [[Gal-3-19|Gal 3:19]]; [[Heb-2-2|Heb 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

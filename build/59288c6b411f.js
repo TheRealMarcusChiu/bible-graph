@@ -1,0 +1,1 @@
+(function(){var b="59288c6b411f",m="# John 6:54 (New International Version)\nWhoever eats my flesh and drinks my blood has eternal life, and I will raise them up at the last day.[^A] \n\n### Crossrefs\n[^A]: [[John-6-39|ver 39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

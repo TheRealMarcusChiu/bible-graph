@@ -1,0 +1,1 @@
+(function(){var b="2e8597c2c40f",m="# 1 Corinthians 7:35 (New International Version)\nI am saying this for your own good, not to restrict you, but that you may live in a right way in undivided[^A] devotion to the Lord.\n\n### Crossrefs\n[^A]: [[Ps-86-11|Ps 86:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

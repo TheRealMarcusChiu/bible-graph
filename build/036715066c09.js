@@ -1,0 +1,1 @@
+(function(){var b="036715066c09",m="# Luke 22:22 (New International Version)\nThe Son of Man[^A] will go as it has been decreed.[^B] But woe to that man who betrays him!\" \n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]\n[^B]: [[Acts-2-23|Ac 2:23]]; [[Acts-4-28|4:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c92b3a5efb03",m="# Romans 11:9 (New International Version)\nAnd David says:\n\"May their table become a snare and a trap,  \n    a stumbling block and a retribution for them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e54126932153",m="# 1 Corinthians 11:4 (New International Version)\nEvery man who prays or prophesies[^A] with his head covered dishonors his head. \n\n### Crossrefs\n[^A]: S [[Acts-11-27|Ac 11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f1bdd8efaf78",m="# Numbers 35:18 (New International Version)\nOr if anyone is holding a wooden object and strikes someone a fatal blow with it, that person is a murderer; the murderer is to be put to death.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a86d66532334",m="# 1 Peter\n\nHope for exiles -- standing firm in grace through suffering, following Christ's example.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

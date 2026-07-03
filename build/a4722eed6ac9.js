@@ -1,0 +1,1 @@
+(function(){var b="a4722eed6ac9",m="# Genesis 11:11 (New International Version)\nAnd after he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

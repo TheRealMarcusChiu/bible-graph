@@ -1,0 +1,1 @@
+(function(){var b="3f5268be6850",m="# Acts 8:4 (New International Version)\nPhilip in Samaria\nThose who had been scattered[^A] preached the word wherever they went.[^B] \n\n### Crossrefs\n[^A]: [[Acts-8-1|ver 1]]\n[^B]: [[Acts-15-35|Ac 15:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0acabf6a8d52",m="# Genesis 46:19 (New International Version)\nThe sons of Jacob's wife Rachel:[^A]\nJoseph and Benjamin.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-29-6|Ge 29:6]]\n[^B]: [[Gen-44-27|Ge 44:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

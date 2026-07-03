@@ -1,0 +1,1 @@
+(function(){var b="a7d645be2676",m="# Exodus 2:8 (New International Version)\n\"Yes, go,\" she answered. So the girl went and got the baby's mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7468068bfed4",m="# Genesis 46:22 (New International Version)\nThese were the sons of Rachel[^A] who were born to Jacob--fourteen in all.\n\n### Crossrefs\n[^A]: S [[Gen-29-6|Ge 29:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

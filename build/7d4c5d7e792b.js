@@ -1,0 +1,1 @@
+(function(){var b="7d4c5d7e792b",m="# Joshua 19:41 (New International Version)\nThe territory of their inheritance included:\nZorah, Eshtaol,[^A] Ir Shemesh, \n\n### Crossrefs\n[^A]: S [[Josh-15-33|Jos 15:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

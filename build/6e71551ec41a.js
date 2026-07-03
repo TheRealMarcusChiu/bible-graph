@@ -1,0 +1,1 @@
+(function(){var b="6e71551ec41a",m="# Mark 3:26 (New International Version)\nAnd if Satan opposes himself and is divided, he cannot stand; his end has come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

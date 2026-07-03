@@ -1,0 +1,1 @@
+(function(){var b="a0e4cb05b35a",m="# Matthew 20:31 (New International Version)\nThe crowd rebuked them and told them to be quiet, but they shouted all the louder, \"Lord, Son of David, have mercy on us!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

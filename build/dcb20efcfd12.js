@@ -1,0 +1,1 @@
+(function(){var b="dcb20efcfd12",m="# Exodus 33:21 (New International Version)\nThen the LORD said, \"There is a place near me where you may stand on a rock.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

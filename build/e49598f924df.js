@@ -1,0 +1,1 @@
+(function(){var b="e49598f924df",m="# Genesis 46:17 (New International Version)\nThe sons of Asher:[^A]\nImnah, Ishvah, Ishvi and Beriah.\nTheir sister was Serah.\nThe sons of Beriah:\nHeber and Malkiel.\n\n### Crossrefs\n[^A]: S [[Gen-30-13|Ge 30:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

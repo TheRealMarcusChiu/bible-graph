@@ -1,0 +1,1 @@
+(function(){var b="62e69b648d26",m="# Exodus 39:16 (New International Version)\nThey made two gold filigree settings and two gold rings, and fastened the rings to two of the corners of the breastpiece.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="deafc6fa4b4d",m="# 2 Corinthians 5:3 (New International Version)\nbecause when we are clothed, we will not be found naked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

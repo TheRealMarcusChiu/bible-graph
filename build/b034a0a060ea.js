@@ -1,0 +1,1 @@
+(function(){var b="b034a0a060ea",m="# Deuteronomy 3:5 (New International Version)\nAll these cities were fortified with high walls and with gates and bars, and there were also a great many unwalled villages.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

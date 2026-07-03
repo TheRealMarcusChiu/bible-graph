@@ -1,0 +1,1 @@
+(function(){var b="bfb39dc41fde",m="# Matthew 17:18 (New International Version)\nJesus rebuked the demon, and it came out of the boy, and he was healed at that moment.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="05d1e9741752",m="# Romans 3:14 (New International Version)\n\"Their mouths are full of cursing and bitterness.\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-10-7|Ps 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

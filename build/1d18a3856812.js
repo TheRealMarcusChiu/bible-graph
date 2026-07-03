@@ -1,0 +1,1 @@
+(function(){var b="1d18a3856812",m="# Matthew 23:28 (New International Version)\nIn the same way, on the outside you appear to people as righteous but on the inside you are full of hypocrisy and wickedness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="368545a36dc2",m="# Genesis 44:22 (New International Version)\nAnd we said to my lord,[^A] 'The boy cannot leave his father; if he leaves him, his father will die.'[^B] \n\n### Crossrefs\n[^A]: S [[Gen-44-16|ver 16]]\n[^B]: S [[Gen-37-35|Ge 37:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

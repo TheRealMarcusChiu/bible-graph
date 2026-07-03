@@ -1,0 +1,1 @@
+(function(){var b="c48cd20f1515",m="# Romans 9:21 (New International Version)\nDoes not the potter have the right to make out of the same lump of clay some pottery for special purposes and some for common use?[^A]\n\n### Crossrefs\n[^A]: [[2Tim-2-20|2Ti 2:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

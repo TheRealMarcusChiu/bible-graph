@@ -1,0 +1,1 @@
+(function(){var b="7d79f1217cc8",m="# Leviticus 23:9 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

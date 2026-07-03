@@ -1,0 +1,1 @@
+(function(){var b="3c2cbcea3830",m="# Mark 5:10 (New International Version)\nAnd he begged Jesus again and again not to send them out of the area.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

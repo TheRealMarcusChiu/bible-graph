@@ -1,0 +1,1 @@
+(function(){var b="26b2b32c61ed",m="# Luke 24:51 (New International Version)\nWhile he was blessing them, he left them and was taken up into heaven.[^A] \n\n### Crossrefs\n[^A]: [[2Kgs-2-11|2Ki 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

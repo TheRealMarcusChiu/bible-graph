@@ -1,0 +1,1 @@
+(function(){var b="a96116152e4f",m="# Mark 4:32 (New International Version)\nYet when planted, it grows and becomes the largest of all garden plants, with such big branches that the birds can perch in its shade.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

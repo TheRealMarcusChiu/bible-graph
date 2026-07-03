@@ -1,0 +1,1 @@
+(function(){var b="fcdcb6eda56c",m="# Numbers 1:35 (New International Version)\nThe number from the tribe of Manasseh was 32,200.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

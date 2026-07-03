@@ -1,0 +1,1 @@
+(function(){var b="839c5690836d",m="# Joshua 10:22 (New International Version)\nJoshua said, \"Open the mouth of the cave and bring those five kings out to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

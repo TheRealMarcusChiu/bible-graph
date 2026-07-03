@@ -1,0 +1,1 @@
+(function(){var b="1ab53d73a61b",m="# Deuteronomy 15:23 (New International Version)\nBut you must not eat the blood; pour it out on the ground like water.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-9-4|Ge 9:4]]; [[Deut-12-16|Dt 12:16]]; [[Ezek-33-25|Eze 33:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

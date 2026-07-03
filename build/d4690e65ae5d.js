@@ -1,0 +1,1 @@
+(function(){var b="d4690e65ae5d",m="# Joshua 15:53 (New International Version)\nJanim, Beth Tappuah, Aphekah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

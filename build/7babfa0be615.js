@@ -1,0 +1,1 @@
+(function(){var b="7babfa0be615",m="# Deuteronomy 21:7 (New International Version)\nand they shall declare: \"Our hands did not shed this blood, nor did our eyes see it done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

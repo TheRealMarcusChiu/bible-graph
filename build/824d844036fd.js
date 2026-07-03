@@ -1,0 +1,1 @@
+(function(){var b="824d844036fd",m="# Leviticus 13:8 (New International Version)\nThe priest is to examine that person, and if the rash has spread in the skin, he shall pronounce them unclean; it is a defiling skin disease.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

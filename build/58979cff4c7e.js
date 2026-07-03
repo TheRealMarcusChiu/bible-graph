@@ -1,0 +1,1 @@
+(function(){var b="58979cff4c7e",m="# Acts 26:13 (New International Version)\nAbout noon, King Agrippa, as I was on the road, I saw a light from heaven, brighter than the sun, blazing around me and my companions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

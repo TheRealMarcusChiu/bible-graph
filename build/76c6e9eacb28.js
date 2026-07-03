@@ -1,0 +1,1 @@
+(function(){var b="76c6e9eacb28",m="# 2 Corinthians 1:7 (New International Version)\nAnd our hope for you is firm, because we know that just as you share in our sufferings,[^A] so also you share in our comfort.\n\n### Crossrefs\n[^A]: S [[2Cor-1-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

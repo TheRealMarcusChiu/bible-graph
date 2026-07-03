@@ -1,0 +1,1 @@
+(function(){var b="b328b1de3dee",m="# Revelation 17:13 (New International Version)\nThey have one purpose and will give their power and authority to the beast.[^A] \n\n### Crossrefs\n[^A]: [[Rev-17-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

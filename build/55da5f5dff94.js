@@ -1,0 +1,1 @@
+(function(){var b="55da5f5dff94",m="# Exodus 37:15 (New International Version)\nThe poles for carrying the table were made of acacia wood and were overlaid with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

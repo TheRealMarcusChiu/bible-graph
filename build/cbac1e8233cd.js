@@ -1,0 +1,1 @@
+(function(){var b="cbac1e8233cd",m="# Matthew 6:34 (New International Version)\nTherefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

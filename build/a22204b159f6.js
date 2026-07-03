@@ -1,0 +1,1 @@
+(function(){var b="a22204b159f6",m="# Numbers 16:49 (New International Version)\nBut 14,700 people died from the plague, in addition to those who had died because of Korah.[^A] \n\n### Crossrefs\n[^A]: [[Num-16-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

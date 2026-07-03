@@ -1,0 +1,1 @@
+(function(){var b="bf4d4306bcce",m="# Exodus 6:22 (New International Version)\nThe sons of Uzziel were Mishael, Elzaphan[^A] and Sithri.\n\n### Crossrefs\n[^A]: [[Lev-10-4|Lev 10:4]]; [[Num-3-30|Nu 3:30]]; [[1Chr-15-8|1Ch 15:8]]; [[2Chr-29-13|2Ch 29:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

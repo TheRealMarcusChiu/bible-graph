@@ -1,0 +1,1 @@
+(function(){var b="5dfecc4c04f7",m="# Exodus 34:33 (New International Version)\nWhen Moses finished speaking to them, he put a veil[^A] over his face. \n\n### Crossrefs\n[^A]: [[2Cor-3-13|2Co 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

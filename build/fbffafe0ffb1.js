@@ -1,0 +1,1 @@
+(function(){var b="fbffafe0ffb1",m="# Numbers 3:43 (New International Version)\nThe total number of firstborn males a month old or more,[^A] listed by name, was 22,273.[^B]\n\n### Crossrefs\n[^A]: [[Num-3-15|ver 15]]\n[^B]: [[Num-3-39|ver 39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

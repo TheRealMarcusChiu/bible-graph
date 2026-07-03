@@ -1,0 +1,1 @@
+(function(){var b="c8d764ade3d9",m="# Acts 27:5 (New International Version)\nWhen we had sailed across the open sea off the coast of Cilicia[^A] and Pamphylia,[^B] we landed at Myra in Lycia. \n\n### Crossrefs\n[^A]: S [[Acts-6-9|Ac 6:9]]\n[^B]: S [[Acts-2-10|Ac 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

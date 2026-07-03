@@ -1,0 +1,1 @@
+(function(){var b="7b1509ed1c42",m="# Matthew 14:29 (New International Version)\n\"Come,\" he said.\nThen Peter got down out of the boat, walked on the water and came toward Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

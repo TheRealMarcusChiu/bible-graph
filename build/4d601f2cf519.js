@@ -1,0 +1,1 @@
+(function(){var b="4d601f2cf519",m="# Acts 19:16 (New International Version)\nThen the man who had the evil spirit jumped on them and overpowered them all. He gave them such a beating that they ran out of the house naked and bleeding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

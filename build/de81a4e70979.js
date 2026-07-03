@@ -1,0 +1,1 @@
+(function(){var b="de81a4e70979",m="# Ephesians 5:30 (New International Version)\nfor we are members of his body.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-12-5|Ro 12:5]]; S [[1Cor-12-27|1Co 12:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

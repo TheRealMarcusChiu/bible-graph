@@ -1,0 +1,1 @@
+(function(){var b="59020a466129",m="# Deuteronomy 11:27 (New International Version)\nthe blessing[^A] if you obey the commands of the LORD your God that I am giving you today; \n\n### Crossrefs\n[^A]: [[Deut-28-1|Dt 28:1-14]]; [[Ps-24-5|Ps 24:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d085f58d266",m="# Mark 8:29 (New International Version)\n\"But what about you?\" he asked. \"Who do you say I am?\"\nPeter answered, \"You are the Messiah.\"[^A]\n\n### Crossrefs\n[^A]: [[John-6-69|Jn 6:69]]; [[John-11-27|11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

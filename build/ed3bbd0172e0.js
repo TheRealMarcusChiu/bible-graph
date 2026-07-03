@@ -1,0 +1,1 @@
+(function(){var b="ed3bbd0172e0",m="# Numbers 23:25 (New International Version)\nThen Balak said to Balaam, \"Neither curse them at all nor bless them at all!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

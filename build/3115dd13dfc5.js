@@ -1,0 +1,1 @@
+(function(){var b="3115dd13dfc5",m="# John 12:44 (New International Version)\nThen Jesus cried out, \"Whoever believes in me does not believe in me only, but in the one who sent me.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-10-40|Mt 10:40]]; [[John-5-24|Jn 5:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

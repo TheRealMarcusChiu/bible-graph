@@ -1,0 +1,1 @@
+(function(){var b="4177117818fa",m="# Luke 9:43 (New International Version)\nAnd they were all amazed at the greatness of God.Jesus Predicts His Death a Second Time\nWhile everyone was marveling at all that Jesus did, he said to his disciples,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

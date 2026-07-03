@@ -1,0 +1,1 @@
+(function(){var b="28aaf3ed54b0",m="# Luke 23:52 (New International Version)\nGoing to Pilate, he asked for Jesus' body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

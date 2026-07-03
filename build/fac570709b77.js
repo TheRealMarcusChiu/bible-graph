@@ -1,0 +1,1 @@
+(function(){var b="fac570709b77",m="# Acts 13:37 (New International Version)\nBut the one whom God raised from the dead[^A] did not see decay.\n\n### Crossrefs\n[^A]: S [[Acts-2-24|Ac 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

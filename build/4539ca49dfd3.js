@@ -1,0 +1,1 @@
+(function(){var b="4539ca49dfd3",m="# Genesis 38:19 (New International Version)\nAfter she left, she took off her veil and put on her widow's clothes[^A] again.\n\n### Crossrefs\n[^A]: [[Gen-38-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

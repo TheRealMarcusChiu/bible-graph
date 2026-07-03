@@ -1,0 +1,1 @@
+(function(){var b="5cb98819557c",m="# 1 Corinthians 10:3 (New International Version)\nThey all ate the same spiritual food[^A] \n\n### Crossrefs\n[^A]: S [[John-6-31|Jn 6:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

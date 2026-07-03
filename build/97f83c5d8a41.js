@@ -1,0 +1,1 @@
+(function(){var b="97f83c5d8a41",m="# Acts 11:7 (New International Version)\nThen I heard a voice telling me, 'Get up, Peter. Kill and eat.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

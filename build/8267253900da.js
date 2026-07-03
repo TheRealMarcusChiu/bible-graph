@@ -1,0 +1,1 @@
+(function(){var b="8267253900da",m="# Ephesians 5:29 (New International Version)\nAfter all, no one ever hated their own body, but they feed and care for their body, just as Christ does the church--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

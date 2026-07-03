@@ -1,0 +1,1 @@
+(function(){var b="7bbf82471271",m="# Deuteronomy 23:12 (New International Version)\nDesignate a place outside the camp where you can go to relieve yourself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

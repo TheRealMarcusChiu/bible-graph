@@ -1,0 +1,1 @@
+(function(){var b="85615ce0b035",m="# Romans 2:20 (New International Version)\nan instructor of the foolish, a teacher of little children, because you have in the law the embodiment of knowledge and truth--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

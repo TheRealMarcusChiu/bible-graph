@@ -1,0 +1,1 @@
+(function(){var b="1a857f22867a",m="# Romans 1:30 (New International Version)\nslanderers, God-haters, insolent, arrogant and boastful; they invent ways of doing evil; they disobey their parents;[^A] \n\n### Crossrefs\n[^A]: [[2Tim-3-2|2Ti 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a5078cc78556",m="# Exodus 9:34 (New International Version)\nWhen Pharaoh saw that the rain and hail and thunder had stopped, he sinned again: He and his officials hardened their hearts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

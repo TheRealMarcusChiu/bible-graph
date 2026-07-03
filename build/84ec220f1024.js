@@ -1,0 +1,1 @@
+(function(){var b="84ec220f1024",m="# Luke 12:49 (New International Version)\nNot Peace but Division[^A]\n\"I have come to bring fire on the earth, and how I wish it were already kindled! \n\n### Crossrefs\n[^A]: [[Luke-12-51|12:51-53pp]] — [[Matt-10-34|Mt 10:34-36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

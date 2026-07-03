@@ -1,0 +1,1 @@
+(function(){var b="caad05ba7401",m="# Matthew 20:4 (New International Version)\nHe told them, 'You also go and work in my vineyard, and I will pay you whatever is right.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

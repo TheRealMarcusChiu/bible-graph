@@ -1,0 +1,1 @@
+(function(){var b="d2f3d87b0c1c",m="# John 9:13 (New International Version)\nThe Pharisees Investigate the Healing\nThey brought to the Pharisees the man who had been blind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

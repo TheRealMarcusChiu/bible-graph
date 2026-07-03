@@ -1,0 +1,1 @@
+(function(){var b="e45b3d1c3c0e",m="# John 1:28 (New International Version)\nThis all happened at Bethany on the other side of the Jordan,[^A] where John was baptizing.\n\n### Crossrefs\n[^A]: [[John-3-26|Jn 3:26]]; [[John-10-40|10:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

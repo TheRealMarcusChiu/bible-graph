@@ -1,0 +1,1 @@
+(function(){var b="c9bc7c29e75b",m="# Deuteronomy 27:11 (New International Version)\nOn the same day Moses commanded the people:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

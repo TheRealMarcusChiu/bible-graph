@@ -1,0 +1,1 @@
+(function(){var b="1505c0c3e5a7",m="# Luke 9:39 (New International Version)\nA spirit seizes him and he suddenly screams; it throws him into convulsions so that he foams at the mouth. It scarcely ever leaves him and is destroying him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="68608e8eba67",m="# 1 Corinthians 7:13 (New International Version)\nAnd if a woman has a husband who is not a believer and he is willing to live with her, she must not divorce him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

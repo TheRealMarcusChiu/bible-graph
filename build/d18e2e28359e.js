@@ -1,0 +1,1 @@
+(function(){var b="d18e2e28359e",m="# Numbers 7:16 (New International Version)\none male goat for a sin offering;[^A] \n\n### Crossrefs\n[^A]: [[Lev-4-3|Lev 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

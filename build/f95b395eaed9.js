@@ -1,0 +1,1 @@
+(function(){var b="f95b395eaed9",m="# Matthew 2:8 (New International Version)\nHe sent them to Bethlehem and said, \"Go and search carefully for the child. As soon as you find him, report to me, so that I too may go and worship him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

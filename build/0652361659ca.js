@@ -1,0 +1,1 @@
+(function(){var b="0652361659ca",m="# Acts 10:16 (New International Version)\nThis happened three times, and immediately the sheet was taken back to heaven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

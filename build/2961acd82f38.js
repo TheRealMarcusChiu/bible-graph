@@ -1,0 +1,1 @@
+(function(){var b="2961acd82f38",m="# Matthew 27:26 (New International Version)\nThen he released Barabbas to them. But he had Jesus flogged,[^A] and handed him over to be crucified.\n\n### Crossrefs\n[^A]: [[Isa-53-5|Isa 53:5]]; [[John-19-1|Jn 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

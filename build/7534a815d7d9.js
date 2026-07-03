@@ -1,0 +1,1 @@
+(function(){var b="7534a815d7d9",m="# Acts 27:15 (New International Version)\nThe ship was caught by the storm and could not head into the wind; so we gave way to it and were driven along.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a157ae6a1222",m="# Romans 15:22 (New International Version)\nThis is why I have often been hindered from coming to you.[^A]\n\n### Crossrefs\n[^A]: [[Rom-1-13|Ro 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

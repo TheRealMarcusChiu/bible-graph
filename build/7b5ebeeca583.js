@@ -1,0 +1,1 @@
+(function(){var b="7b5ebeeca583",m="# Genesis 33:12 (New International Version)\nThen Esau said, \"Let us be on our way; I'll accompany you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

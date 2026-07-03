@@ -1,0 +1,1 @@
+(function(){var b="95057ace47e4",m="# Luke 22:16 (New International Version)\nFor I tell you, I will not eat it again until it finds fulfillment in the kingdom of God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Luke-14-15|Lk 14:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

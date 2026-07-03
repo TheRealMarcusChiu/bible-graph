@@ -1,0 +1,1 @@
+(function(){var b="743a1523c96c",m="# Luke 11:9 (New International Version)\n\"So I say to you: Ask and it will be given to you;[^A] seek and you will find; knock and the door will be opened to you. \n\n### Crossrefs\n[^A]: S [[Matt-7-7|Mt 7:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

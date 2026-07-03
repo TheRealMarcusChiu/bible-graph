@@ -1,0 +1,1 @@
+(function(){var b="25cf48b7f420",m="# John 12:21 (New International Version)\nThey came to Philip, who was from Bethsaida[^A] in Galilee, with a request. \"Sir,\" they said, \"we would like to see Jesus.\" \n\n### Crossrefs\n[^A]: S [[Matt-11-21|Mt 11:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

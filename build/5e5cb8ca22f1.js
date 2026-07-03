@@ -1,0 +1,1 @@
+(function(){var b="5e5cb8ca22f1",m="# 1 Peter 4:7 (New International Version)\nThe end of all things is near.[^A] Therefore be alert and of sober mind[^B] so that you may pray. \n\n### Crossrefs\n[^A]: S [[Rom-13-11|Ro 13:11]]\n[^B]: S [[Acts-24-25|Ac 24:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

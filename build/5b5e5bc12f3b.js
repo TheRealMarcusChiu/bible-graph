@@ -1,0 +1,1 @@
+(function(){var b="5b5e5bc12f3b",m="# Numbers 30:16 (New International Version)\nThese are the regulations the LORD gave Moses concerning relationships between a man and his wife, and between a father and his young daughter still living at home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

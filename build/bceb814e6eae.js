@@ -1,0 +1,1 @@
+(function(){var b="bceb814e6eae",m="# Genesis 21:28 (New International Version)\nAbraham set apart seven ewe lambs from the flock,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

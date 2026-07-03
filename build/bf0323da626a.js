@@ -1,0 +1,1 @@
+(function(){var b="bf0323da626a",m="# Deuteronomy 15:13 (New International Version)\nAnd when you release them, do not send them away empty-handed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

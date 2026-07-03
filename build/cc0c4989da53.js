@@ -1,0 +1,1 @@
+(function(){var b="cc0c4989da53",m="# Revelation 3:15 (New International Version)\nI know your deeds,[^A] that you are neither cold nor hot.[^B] I wish you were either one or the other! \n\n### Crossrefs\n[^A]: S [[Rev-2-2|Rev 2:2]]\n[^B]: [[Rom-12-11|Ro 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

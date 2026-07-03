@@ -1,0 +1,1 @@
+(function(){var b="abdb4bd597c5",m="# Genesis 41:11 (New International Version)\nEach of us had a dream the same night, and each dream had a meaning of its own.[^A] \n\n### Crossrefs\n[^A]: [[Gen-40-5|Ge 40:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

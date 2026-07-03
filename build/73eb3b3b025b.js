@@ -1,0 +1,1 @@
+(function(){var b="73eb3b3b025b",m="# John 6:48 (New International Version)\nI am the bread of life.[^A] \n\n### Crossrefs\n[^A]: [[John-6-35|ver 35]], [[John-6-51|51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

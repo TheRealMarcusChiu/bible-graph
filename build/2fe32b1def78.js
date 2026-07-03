@@ -1,0 +1,1 @@
+(function(){var b="2fe32b1def78",m="# Acts 20:2 (New International Version)\nHe traveled through that area, speaking many words of encouragement to the people, and finally arrived in Greece,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

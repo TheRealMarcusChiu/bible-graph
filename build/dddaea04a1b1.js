@@ -1,0 +1,1 @@
+(function(){var b="dddaea04a1b1",m="# Exodus 35:12 (New International Version)\nthe ark[^A] with its poles and the atonement cover and the curtain[^B] that shields it; \n\n### Crossrefs\n[^A]: [[Exod-25-10|Ex 25:10-22]]; [[Exod-37-1|37:1-9]]\n[^B]: S [[Exod-26-33|Ex 26:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

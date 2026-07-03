@@ -1,0 +1,1 @@
+(function(){var b="06a94de762a5",m="# 1 Corinthians 12:16 (New International Version)\nAnd if the ear should say, \"Because I am not an eye, I do not belong to the body,\" it would not for that reason stop being part of the body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

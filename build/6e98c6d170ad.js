@@ -1,0 +1,1 @@
+(function(){var b="6e98c6d170ad",m="# John 6:12 (New International Version)\nWhen they had all had enough to eat, he said to his disciples, \"Gather the pieces that are left over. Let nothing be wasted.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

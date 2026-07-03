@@ -1,0 +1,1 @@
+(function(){var b="53d1f4edb4c7",m="# Acts 18:9 (New International Version)\nOne night the Lord spoke to Paul in a vision:[^A] \"Do not be afraid;[^B] keep on speaking, do not be silent. \n\n### Crossrefs\n[^A]: S [[Acts-9-10|Ac 9:10]]\n[^B]: S [[Matt-14-27|Mt 14:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b53349c7d9a5",m="# Deuteronomy 25:16 (New International Version)\nFor the LORD your God detests anyone who does these things, anyone who deals dishonestly.[^A]\n\n### Crossrefs\n[^A]: [[Prov-11-1|Pr 11:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

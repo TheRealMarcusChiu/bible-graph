@@ -1,0 +1,1 @@
+(function(){var b="68f5800ee796",m="# Mark 5:27 (New International Version)\nWhen she heard about Jesus, she came up behind him in the crowd and touched his cloak,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="50133c87fa82",m="# Judges 9:56 (New International Version)\nThus God repaid the wickedness that Abimelek had done to his father by murdering his seventy brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9223f1badc06",m="# Mark 15:4 (New International Version)\nSo again Pilate asked him, \"Aren't you going to answer? See how many things they are accusing you of.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

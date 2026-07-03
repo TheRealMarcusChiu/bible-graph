@@ -1,0 +1,1 @@
+(function(){var b="95f525444fe4",m="# Deuteronomy 25:15 (New International Version)\nYou must have accurate and honest weights and measures, so that you may live long[^A] in the land the LORD your God is giving you. \n\n### Crossrefs\n[^A]: S [[Exod-20-12|Ex 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

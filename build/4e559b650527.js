@@ -1,0 +1,1 @@
+(function(){var b="4e559b650527",m="# Matthew 21:29 (New International Version)\n\"'I will not,' he answered, but later he changed his mind and went.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

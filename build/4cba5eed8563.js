@@ -1,0 +1,1 @@
+(function(){var b="4cba5eed8563",m="# Exodus 26:21 (New International Version)\nand forty silver bases[^A]--two under each frame. \n\n### Crossrefs\n[^A]: S [[Exod-26-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

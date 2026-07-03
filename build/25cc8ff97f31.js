@@ -1,0 +1,1 @@
+(function(){var b="25cc8ff97f31",m="# Luke 12:38 (New International Version)\nIt will be good for those servants whose master finds them ready, even if he comes in the middle of the night or toward daybreak.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d547a7d8af2",m="# Colossians 3:25 (New International Version)\nAnyone who does wrong will be repaid for their wrongs, and there is no favoritism.[^A]\n\n### Crossrefs\n[^A]: S [[Acts-10-34|Ac 10:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

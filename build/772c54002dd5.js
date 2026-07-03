@@ -1,0 +1,1 @@
+(function(){var b="772c54002dd5",m="# Joshua 22:1 (New International Version)\nEastern Tribes Return Home\nThen Joshua summoned the Reubenites, the Gadites and the half-tribe of Manasseh";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

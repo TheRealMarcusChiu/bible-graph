@@ -1,0 +1,1 @@
+(function(){var b="5251848cc817",m="# Joshua 21:35 (New International Version)\nDimnah and Nahalal,[^A] together with their pasturelands--four towns;\n\n### Crossrefs\n[^A]: [[Josh-19-15|Jos 19:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="96dad00caf17",m="# Acts 22:27 (New International Version)\nThe commander went to Paul and asked, \"Tell me, are you a Roman citizen?\"\n\"Yes, I am,\" he answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

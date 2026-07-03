@@ -1,0 +1,1 @@
+(function(){var b="43038ae5dbfa",m="# Matthew 27:16 (New International Version)\nAt that time they had a well-known prisoner whose name was Jesus Barabbas.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6e2257cb1209",m="# Joshua 9:26 (New International Version)\nSo Joshua saved them from the Israelites, and they did not kill them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

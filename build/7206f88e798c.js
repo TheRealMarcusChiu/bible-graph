@@ -1,0 +1,1 @@
+(function(){var b="7206f88e798c",m="# Deuteronomy 12:4 (New International Version)\nYou must not worship the LORD your God in their way.[^A] \n\n### Crossrefs\n[^A]: [[Deut-12-30|ver 30]]; [[2Kgs-17-15|2Ki 17:15]]; [[Jer-10-2|Jer 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

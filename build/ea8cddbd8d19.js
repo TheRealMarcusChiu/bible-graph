@@ -1,0 +1,1 @@
+(function(){var b="ea8cddbd8d19",m="# Exodus 35:9 (New International Version)\nand onyx stones and other gems to be mounted on the ephod and breastpiece.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

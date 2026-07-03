@@ -1,0 +1,1 @@
+(function(){var b="cb87eefd14c1",m="# Acts 16:38 (New International Version)\nThe officers reported this to the magistrates, and when they heard that Paul and Silas were Roman citizens, they were alarmed.[^A] \n\n### Crossrefs\n[^A]: [[Acts-22-29|Ac 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

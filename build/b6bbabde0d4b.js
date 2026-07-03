@@ -1,0 +1,1 @@
+(function(){var b="b6bbabde0d4b",m="# Matthew 9:38 (New International Version)\nAsk the Lord of the harvest, therefore, to send out workers into his harvest field.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

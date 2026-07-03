@@ -1,0 +1,1 @@
+(function(){var b="bf98ccd1a292",m="# Exodus 38:15 (New International Version)\nand curtains fifteen cubits long were on the other side of the entrance to the courtyard, with three posts and three bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="adb888eb588d",m="# Leviticus 11:19 (New International Version)\nthe stork,[^A] any kind[^B] of heron, the hoopoe and the bat.[^C]\n\n### Crossrefs\n[^A]: [[Zech-5-9|Zec 5:9]]\n[^B]: S [[Gen-1-11|Ge 1:11]]\n[^C]: [[Isa-2-20|Isa 2:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

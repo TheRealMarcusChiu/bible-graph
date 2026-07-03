@@ -1,0 +1,1 @@
+(function(){var b="ddcd1bae0e78",m="# Luke 7:35 (New International Version)\nBut wisdom is proved right by all her children.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

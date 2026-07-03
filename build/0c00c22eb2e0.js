@@ -1,0 +1,1 @@
+(function(){var b="0c00c22eb2e0",m="# Luke 12:55 (New International Version)\nAnd when the south wind blows, you say, 'It's going to be hot,' and it is.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

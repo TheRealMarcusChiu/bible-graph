@@ -1,0 +1,1 @@
+(function(){var b="7da9271396aa",m="# Numbers 35:23 (New International Version)\nor, without seeing them, drops on them a stone heavy enough to kill them, and they die, then since that other person was not an enemy and no harm was intended,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

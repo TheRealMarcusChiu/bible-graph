@@ -1,0 +1,1 @@
+(function(){var b="44f5388f7b7b",m="# Genesis 25:14 (New International Version)\nMishma, Dumah,[^A] Massa, \n\n### Crossrefs\n[^A]: [[Josh-15-52|Jos 15:52]]; [[Isa-21-11|Isa 21:11]]; [[Obad-1-1|Ob 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

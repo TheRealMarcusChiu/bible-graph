@@ -1,0 +1,1 @@
+(function(){var b="8831073bbc54",m="# Luke 14:28 (New International Version)\n\"Suppose one of you wants to build a tower. Won't you first sit down and estimate the cost to see if you have enough money to complete it?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="068272f61347",m="# Leviticus 25:51 (New International Version)\nIf many years remain, they must pay for their redemption a larger share of the price paid for them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="92ab91e626bf",m="# Joshua 14:14 (New International Version)\nSo Hebron has belonged to Caleb son of Jephunneh the Kenizzite ever since, because he followed the LORD, the God of Israel, wholeheartedly.[^A] \n\n### Crossrefs\n[^A]: S [[Num-14-24|Nu 14:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

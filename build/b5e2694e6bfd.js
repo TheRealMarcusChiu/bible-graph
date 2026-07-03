@@ -1,0 +1,1 @@
+(function(){var b="b5e2694e6bfd",m="# Exodus 1:12 (New International Version)\nBut the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

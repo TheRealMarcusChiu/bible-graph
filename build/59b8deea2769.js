@@ -1,0 +1,1 @@
+(function(){var b="59b8deea2769",m="# John 20:5 (New International Version)\nHe bent over and looked in[^A] at the strips of linen[^B] lying there but did not go in. \n\n### Crossrefs\n[^A]: [[John-20-11|ver 11]]\n[^B]: S [[John-19-40|Jn 19:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

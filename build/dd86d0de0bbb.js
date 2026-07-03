@@ -1,0 +1,1 @@
+(function(){var b="dd86d0de0bbb",m="# Exodus 17:11 (New International Version)\nAs long as Moses held up his hands, the Israelites were winning,[^A] but whenever he lowered his hands, the Amalekites were winning. \n\n### Crossrefs\n[^A]: [[Jas-5-16|Jas 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

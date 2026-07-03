@@ -1,0 +1,1 @@
+(function(){var b="89eb7bfa2099",m="# 1 Corinthians 3:7 (New International Version)\nSo neither the one who plants nor the one who waters is anything, but only God, who makes things grow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9fab38fd2580",m="# Deuteronomy 27:1 (New International Version)\nThe Altar on Mount Ebal\nMoses and the elders of Israel commanded the people: \"Keep all these commands[^A] that I give you today. \n\n### Crossrefs\n[^A]: [[Ps-78-7|Ps 78:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

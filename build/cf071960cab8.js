@@ -1,0 +1,1 @@
+(function(){var b="cf071960cab8",m="# Matthew 12:3 (New International Version)\nHe answered, \"Haven't you read what David did when he and his companions were hungry?[^A] \n\n### Crossrefs\n[^A]: [[1Sam-21-6|1Sa 21:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

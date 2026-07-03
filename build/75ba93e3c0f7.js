@@ -1,0 +1,1 @@
+(function(){var b="75ba93e3c0f7",m="# Deuteronomy 34:6 (New International Version)\nHe buried him in Moab, in the valley opposite Beth Peor,[^A] but to this day no one knows where his grave is.[^B] \n\n### Crossrefs\n[^A]: S [[Deut-3-29|Dt 3:29]]\n[^B]: [[Jude-1-9|Jude 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

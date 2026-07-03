@@ -1,0 +1,1 @@
+(function(){var b="7275a740ee45",m="# Romans 2:24 (New International Version)\nAs it is written: \"God's name is blasphemed among the Gentiles because of you.\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-52-5|Isa 52:5]]; [[Ezek-36-22|Eze 36:22]]; [[2Pet-2-2|2Pe 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

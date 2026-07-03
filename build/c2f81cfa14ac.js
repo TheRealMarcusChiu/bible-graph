@@ -1,0 +1,1 @@
+(function(){var b="c2f81cfa14ac",m="# 1 John 1\n\nAssurance for believers -- walking in the light, loving one another, believing in the Son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

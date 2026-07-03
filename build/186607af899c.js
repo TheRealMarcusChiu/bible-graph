@@ -1,0 +1,1 @@
+(function(){var b="186607af899c",m="# Numbers 31:31 (New International Version)\nSo Moses and Eleazar the priest did as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

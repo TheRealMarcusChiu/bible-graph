@@ -1,0 +1,1 @@
+(function(){var b="21cef6b604e4",m="# Luke 15:14 (New International Version)\nAfter he had spent everything, there was a severe famine in that whole country, and he began to be in need.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

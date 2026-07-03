@@ -1,0 +1,1 @@
+(function(){var b="5af7983e93eb",m="# Leviticus 9:8 (New International Version)\nSo Aaron came to the altar and slaughtered the calf as a sin offering[^A] for himself. \n\n### Crossrefs\n[^A]: [[Lev-4-1|Lev 4:1-12]]; [[Lev-10-19|10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

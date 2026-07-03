@@ -1,0 +1,1 @@
+(function(){var b="38c7fad59fed",m="# Mark 1:12 (New International Version)\nAt once the Spirit sent him out into the wilderness,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

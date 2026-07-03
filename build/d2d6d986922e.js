@@ -1,0 +1,1 @@
+(function(){var b="d2d6d986922e",m="# Luke 17:28 (New International Version)\n\"It was the same in the days of Lot.[^A] People were eating and drinking, buying and selling, planting and building. \n\n### Crossrefs\n[^A]: [[Gen-19-1|Ge 19:1-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

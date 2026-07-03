@@ -1,0 +1,1 @@
+(function(){var b="fd0274225ac0",m="# Luke 20:38 (New International Version)\nHe is not the God of the dead, but of the living, for to him all are alive.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

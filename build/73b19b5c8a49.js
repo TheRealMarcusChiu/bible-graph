@@ -1,0 +1,1 @@
+(function(){var b="73b19b5c8a49",m="# Exodus 12:18 (New International Version)\nIn the first month[^A] you are to eat bread made without yeast, from the evening of the fourteenth day until the evening of the twenty-first day. \n\n### Crossrefs\n[^A]: S [[Exod-12-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

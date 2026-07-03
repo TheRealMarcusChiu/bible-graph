@@ -1,0 +1,1 @@
+(function(){var b="04d0ff2e4a06",m="# Genesis 44:25 (New International Version)\n\"Then our father said, 'Go back and buy a little more food.'[^A] \n\n### Crossrefs\n[^A]: S [[Gen-42-2|Ge 42:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e9daf0f0134e",m="# Leviticus 19:33 (New International Version)\n\"'When a foreigner resides among you in your land, do not mistreat them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

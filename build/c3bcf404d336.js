@@ -1,0 +1,1 @@
+(function(){var b="c3bcf404d336",m="# Deuteronomy 27:14 (New International Version)\nThe Levites shall recite to all the people of Israel in a loud voice:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

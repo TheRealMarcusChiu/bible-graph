@@ -1,0 +1,1 @@
+(function(){var b="9a35b8e967bc",m="# Mark 7:14 (New International Version)\nAgain Jesus called the crowd to him and said, \"Listen to me, everyone, and understand this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

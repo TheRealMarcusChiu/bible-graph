@@ -1,0 +1,1 @@
+(function(){var b="c390dce0e35b",m="# Matthew 8:30 (New International Version)\nSome distance from them a large herd of pigs was feeding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

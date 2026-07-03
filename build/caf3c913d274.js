@@ -1,0 +1,1 @@
+(function(){var b="caf3c913d274",m="# Luke 24:15 (New International Version)\nAs they talked and discussed these things with each other, Jesus himself came up and walked along with them;[^A] \n\n### Crossrefs\n[^A]: [[Luke-24-36|ver 36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

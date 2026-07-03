@@ -1,0 +1,1 @@
+(function(){var b="739bb15bd780",m="# 1 Corinthians 10:30 (New International Version)\nIf I take part in the meal with thankfulness, why am I denounced because of something I thank God for?[^A]\n\n### Crossrefs\n[^A]: S [[Rom-14-6|Ro 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

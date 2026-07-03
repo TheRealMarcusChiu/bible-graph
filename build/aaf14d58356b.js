@@ -1,0 +1,1 @@
+(function(){var b="aaf14d58356b",m="# Luke 9:14 (New International Version)\n(About five thousand men were there.)\nBut he said to his disciples, \"Have them sit down in groups of about fifty each.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

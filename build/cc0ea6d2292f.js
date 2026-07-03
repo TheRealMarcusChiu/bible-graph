@@ -1,0 +1,1 @@
+(function(){var b="cc0ea6d2292f",m="# Hebrews 12:20 (New International Version)\nbecause they could not bear what was commanded: \"If even an animal touches the mountain, it must be stoned to death.\"[^A] \n\n### Crossrefs\n[^A]: [[Exod-19-12|Ex 19:12]], [[Exod-19-13|13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

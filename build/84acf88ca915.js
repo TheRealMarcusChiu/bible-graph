@@ -1,0 +1,1 @@
+(function(){var b="84acf88ca915",m="# Matthew 7:29 (New International Version)\nbecause he taught as one who had authority, and not as their teachers of the law.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

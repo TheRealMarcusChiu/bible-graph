@@ -1,0 +1,1 @@
+(function(){var b="e3a81f83d65f",m="# Acts 18:14 (New International Version)\nJust as Paul was about to speak, Gallio said to them, \"If you Jews were making a complaint about some misdemeanor or serious crime, it would be reasonable for me to listen to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

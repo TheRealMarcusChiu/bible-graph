@@ -1,0 +1,1 @@
+(function(){var b="227a0e787e1d",m="# Luke 10:5 (New International Version)\n\"When you enter a house, first say, 'Peace to this house.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

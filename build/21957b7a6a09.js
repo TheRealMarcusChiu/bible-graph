@@ -1,0 +1,1 @@
+(function(){var b="21957b7a6a09",m="# 1 Thessalonians 1:4 (New International Version)\nFor we know, brothers and sisters loved by God,[^A] that he has chosen you, \n\n### Crossrefs\n[^A]: [[Col-3-12|Col 3:12]]; [[2Thess-2-13|2Th 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

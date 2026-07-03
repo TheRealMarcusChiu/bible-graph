@@ -1,0 +1,1 @@
+(function(){var b="3f917dcf79b7",m="# Luke 12:30 (New International Version)\nFor the pagan world runs after all such things, and your Father[^A] knows that you need them.[^B] \n\n### Crossrefs\n[^A]: S [[Luke-6-36|Lk 6:36]]\n[^B]: [[Matt-6-8|Mt 6:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

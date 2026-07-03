@@ -1,0 +1,1 @@
+(function(){var b="413647a213d4",m="# Luke 8:41 (New International Version)\nThen a man named Jairus, a synagogue leader,[^A] came and fell at Jesus' feet, pleading with him to come to his house \n\n### Crossrefs\n[^A]: [[Luke-8-49|ver 49]]; S [[Mark-5-22|Mk 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

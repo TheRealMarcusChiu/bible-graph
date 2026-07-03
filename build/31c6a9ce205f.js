@@ -1,0 +1,1 @@
+(function(){var b="31c6a9ce205f",m="# Leviticus 13:43 (New International Version)\nThe priest is to examine him, and if the swollen sore on his head or forehead is reddish-white like a defiling skin disease,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

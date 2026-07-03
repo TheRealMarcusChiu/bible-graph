@@ -1,0 +1,1 @@
+(function(){var b="2d56e503c646",m="# Acts 25:3 (New International Version)\nThey requested Festus, as a favor to them, to have Paul transferred to Jerusalem, for they were preparing an ambush to kill him along the way.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-20-3|Ac 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

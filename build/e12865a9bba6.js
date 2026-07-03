@@ -1,0 +1,1 @@
+(function(){var b="e12865a9bba6",m="# John 17:22 (New International Version)\nI have given them the glory that you gave me,[^A] that they may be one as we are one[^B]-- \n\n### Crossrefs\n[^A]: [[John-1-14|Jn 1:14]]\n[^B]: S [[John-14-20|Jn 14:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

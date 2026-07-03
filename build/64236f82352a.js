@@ -1,0 +1,1 @@
+(function(){var b="64236f82352a",m="# Numbers 34:1 (New International Version)\nBoundaries of Canaan\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="741a773e03eb",m="# Numbers 2:28 (New International Version)\nHis division numbers 41,500.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

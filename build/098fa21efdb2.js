@@ -1,0 +1,1 @@
+(function(){var b="098fa21efdb2",m="# Exodus 21:23 (New International Version)\nBut if there is serious injury, you are to take life for life,[^A] \n\n### Crossrefs\n[^A]: [[Lev-24-19|Lev 24:19]]; [[Deut-19-21|Dt 19:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

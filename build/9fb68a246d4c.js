@@ -1,0 +1,1 @@
+(function(){var b="9fb68a246d4c",m="# Exodus 1:6 (New International Version)\nNow Joseph and all his brothers and all that generation died,[^A] \n\n### Crossrefs\n[^A]: [[Gen-50-26|Ge 50:26]]; [[Acts-7-15|Ac 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

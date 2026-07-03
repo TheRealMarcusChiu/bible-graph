@@ -1,0 +1,1 @@
+(function(){var b="e5e759e5adb8",m="# Genesis 32:26 (New International Version)\nThen the man said, \"Let me go, for it is daybreak.\"\nBut Jacob replied, \"I will not let you go unless you bless me.\"[^A]\n\n### Crossrefs\n[^A]: [[Hos-12-4|Hos 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5b4a4b7739e0",m="# Joshua 21:15 (New International Version)\nHolon,[^A] Debir,[^B] \n\n### Crossrefs\n[^A]: S [[Josh-15-51|Jos 15:51]]\n[^B]: S [[Josh-10-3|Jos 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

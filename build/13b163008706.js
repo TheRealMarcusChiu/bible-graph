@@ -1,0 +1,1 @@
+(function(){var b="13b163008706",m="# Matthew 1:15 (New International Version)\nElihud the father of Eleazar,\nEleazar the father of Matthan,\nMatthan the father of Jacob,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

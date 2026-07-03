@@ -1,0 +1,1 @@
+(function(){var b="ef0ffc03111d",m="# Galatians 3:4 (New International Version)\nHave you experienced so much in vain--if it really was in vain?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

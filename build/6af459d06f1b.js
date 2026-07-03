@@ -1,0 +1,1 @@
+(function(){var b="6af459d06f1b",m="# Genesis 5:14 (New International Version)\nAltogether, Kenan lived a total of 910 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

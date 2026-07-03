@@ -1,0 +1,1 @@
+(function(){var b="28224205ef16",m="# Acts 9:12 (New International Version)\nIn a vision he has seen a man named Ananias come and place his hands on[^A] him to restore his sight.\"\n\n### Crossrefs\n[^A]: S [[Mark-5-23|Mk 5:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

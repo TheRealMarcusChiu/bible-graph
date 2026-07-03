@@ -1,0 +1,1 @@
+(function(){var b="24adf8b65d9a",m="# Leviticus 2:12 (New International Version)\nYou may bring them to the LORD as an offering of the firstfruits,[^A] but they are not to be offered on the altar as a pleasing aroma. \n\n### Crossrefs\n[^A]: S [[Exod-34-22|Ex 34:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a9570dbbcefe",m="# Numbers 3:24 (New International Version)\nThe leader of the families of the Gershonites was Eliasaph son of Lael.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

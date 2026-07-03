@@ -1,0 +1,1 @@
+(function(){var b="b636c9cfe9e2",m="# Mark 9:37 (New International Version)\n\"Whoever welcomes one of these little children in my name welcomes me; and whoever welcomes me does not welcome me but the one who sent me.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-10-40|Mt 10:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

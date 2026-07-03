@@ -1,0 +1,1 @@
+(function(){var b="a1653750fa02",m="# Numbers 10:17 (New International Version)\nThen the tabernacle was taken down, and the Gershonites and Merarites, who carried it, set out.[^A]\n\n### Crossrefs\n[^A]: [[Num-10-21|ver 21]]; [[Num-4-21|Nu 4:21-32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

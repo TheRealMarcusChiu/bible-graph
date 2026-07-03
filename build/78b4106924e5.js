@@ -1,0 +1,1 @@
+(function(){var b="78b4106924e5",m="# John 6:55 (New International Version)\nFor my flesh is real food and my blood is real drink.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

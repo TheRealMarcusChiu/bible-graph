@@ -1,0 +1,1 @@
+(function(){var b="ba64178eea02",m="# Genesis 29:5 (New International Version)\nHe said to them, \"Do you know Laban, Nahor's grandson?\"[^A]\n\"Yes, we know him,\" they answered.\n\n### Crossrefs\n[^A]: S [[Gen-11-29|Ge 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

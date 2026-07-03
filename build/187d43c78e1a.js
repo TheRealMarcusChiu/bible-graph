@@ -1,0 +1,1 @@
+(function(){var b="187d43c78e1a",m="# Matthew 23:18 (New International Version)\nYou also say, 'If anyone swears by the altar, it means nothing; but anyone who swears by the gift on the altar is bound by that oath.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

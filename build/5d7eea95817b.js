@@ -1,0 +1,1 @@
+(function(){var b="5d7eea95817b",m="# Genesis 5:19 (New International Version)\nAfter he became the father of Enoch, Jared lived 800 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

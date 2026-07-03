@@ -1,0 +1,1 @@
+(function(){var b="0f68638232e2",m="# Genesis 1:15 (New International Version)\nand let them be lights in the vault of the sky to give light on the earth.\" And it was so.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-1-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

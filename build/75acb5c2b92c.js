@@ -1,0 +1,1 @@
+(function(){var b="75acb5c2b92c",m="# Matthew 15:37 (New International Version)\nThey all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.[^A] \n\n### Crossrefs\n[^A]: [[Matt-16-10|Mt 16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d6c94eccce5a",m="# Luke 23:10 (New International Version)\nThe chief priests and the teachers of the law were standing there, vehemently accusing him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

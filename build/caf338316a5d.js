@@ -1,0 +1,1 @@
+(function(){var b="caf338316a5d",m="# Luke 7:41 (New International Version)\n\"Two people owed money to a certain moneylender. One owed him five hundred denarii, and the other fifty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

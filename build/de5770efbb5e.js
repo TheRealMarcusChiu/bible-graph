@@ -1,0 +1,1 @@
+(function(){var b="de5770efbb5e",m="# Leviticus 11:9 (New International Version)\n\"'Of all the creatures living in the water of the seas and the streams you may eat any that have fins and scales.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

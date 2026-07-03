@@ -1,0 +1,1 @@
+(function(){var b="8a5633341e0d",m="# John 6:24 (New International Version)\nOnce the crowd realized that neither Jesus nor his disciples were there, they got into the boats and went to Capernaum in search of Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

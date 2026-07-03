@@ -1,0 +1,1 @@
+(function(){var b="81d72f9d59f0",m="# Matthew 8:27 (New International Version)\nThe men were amazed and asked, \"What kind of man is this? Even the winds and the waves obey him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

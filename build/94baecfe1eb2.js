@@ -1,0 +1,1 @@
+(function(){var b="94baecfe1eb2",m="# Exodus 37:3 (New International Version)\nHe cast four gold rings for it and fastened them to its four feet, with two rings on one side and two rings on the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

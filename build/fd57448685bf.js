@@ -1,0 +1,1 @@
+(function(){var b="fd57448685bf",m="# Leviticus 26:7 (New International Version)\nYou will pursue your enemies,[^A] and they will fall by the sword before you. \n\n### Crossrefs\n[^A]: [[Ps-18-37|Ps 18:37]]; [[Ps-44-5|44:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

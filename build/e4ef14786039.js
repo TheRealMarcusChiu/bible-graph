@@ -1,0 +1,1 @@
+(function(){var b="e4ef14786039",m="# Numbers 12:11 (New International Version)\nand he said to Moses, \"Please, my lord, I ask you not to hold against us the sin we have so foolishly committed.[^A] \n\n### Crossrefs\n[^A]: [[2Sam-19-19|2Sa 19:19]]; [[2Sam-24-10|24:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

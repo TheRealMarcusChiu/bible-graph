@@ -1,0 +1,1 @@
+(function(){var b="fe6b218cbd39",m="# Mark 6:16 (New International Version)\nBut when Herod heard this, he said, \"John, whom I beheaded, has been raised from the dead!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

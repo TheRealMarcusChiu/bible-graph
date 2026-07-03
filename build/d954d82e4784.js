@@ -1,0 +1,1 @@
+(function(){var b="d954d82e4784",m="# Acts 24:3 (New International Version)\nEverywhere and in every way, most excellent[^A] Felix, we acknowledge this with profound gratitude. \n\n### Crossrefs\n[^A]: [[Luke-1-3|Lk 1:3]]; [[Acts-23-26|Ac 23:26]]; [[Acts-26-25|26:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

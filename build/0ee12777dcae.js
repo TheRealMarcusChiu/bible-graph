@@ -1,0 +1,1 @@
+(function(){var b="0ee12777dcae",m="# James 1:7 (New International Version)\nThat person should not expect to receive anything from the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

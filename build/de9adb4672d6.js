@@ -1,0 +1,1 @@
+(function(){var b="de9adb4672d6",m="# Joshua 9:13 (New International Version)\nAnd these wineskins that we filled were new, but see how cracked they are. And our clothes and sandals are worn out by the very long journey.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9353b118bb08",m="# Matthew 13:37 (New International Version)\nHe answered, \"The one who sowed the good seed is the Son of Man.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

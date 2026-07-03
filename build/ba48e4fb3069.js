@@ -1,0 +1,1 @@
+(function(){var b="ba48e4fb3069",m="# Judges 8:20 (New International Version)\nTurning to Jether, his oldest son, he said, \"Kill them!\" But Jether did not draw his sword, because he was only a boy and was afraid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

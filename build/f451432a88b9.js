@@ -1,0 +1,1 @@
+(function(){var b="f451432a88b9",m="# John 11:20 (New International Version)\nWhen Martha heard that Jesus was coming, she went out to meet him, but Mary stayed at home.[^A]\n\n### Crossrefs\n[^A]: [[Luke-10-38|Lk 10:38-42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

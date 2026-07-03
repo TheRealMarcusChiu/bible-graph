@@ -1,0 +1,1 @@
+(function(){var b="3dd318e4d150",m="# Deuteronomy 28:5 (New International Version)\nYour basket and your kneading trough will be blessed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

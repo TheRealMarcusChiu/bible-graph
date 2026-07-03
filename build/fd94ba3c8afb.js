@@ -1,0 +1,1 @@
+(function(){var b="fd94ba3c8afb",m="# Mark 9:16 (New International Version)\n\"What are you arguing with them about?\" he asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

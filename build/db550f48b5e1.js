@@ -1,0 +1,1 @@
+(function(){var b="db550f48b5e1",m="# Genesis 22:20 (New International Version)\nNahor's Sons\nSome time later Abraham was told, \"Milkah is also a mother; she has borne sons to your brother Nahor:[^A] \n\n### Crossrefs\n[^A]: S [[Gen-11-29|Ge 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

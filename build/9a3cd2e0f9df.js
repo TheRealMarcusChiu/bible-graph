@@ -1,0 +1,1 @@
+(function(){var b="9a3cd2e0f9df",m="# Exodus 3:3 (New International Version)\nSo Moses thought, \"I will go over and see this strange sight--why the bush does not burn up.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

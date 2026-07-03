@@ -1,0 +1,1 @@
+(function(){var b="98fa7f7201bc",m="# Luke 19:33 (New International Version)\nAs they were untying the colt, its owners asked them, \"Why are you untying the colt?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

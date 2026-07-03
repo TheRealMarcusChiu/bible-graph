@@ -1,0 +1,1 @@
+(function(){var b="b162300a4a9e",m="# Luke 5:35 (New International Version)\nBut the time will come when the bridegroom will be taken from them;[^A] in those days they will fast.\"\n\n### Crossrefs\n[^A]: [[Luke-9-22|Lk 9:22]]; [[Luke-17-22|17:22]]; [[John-16-5|Jn 16:5-7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5fb473aca9c8",m="# Exodus 38:28 (New International Version)\nThey used the 1,775 shekels to make the hooks for the posts, to overlay the tops of the posts, and to make their bands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

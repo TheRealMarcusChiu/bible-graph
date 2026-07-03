@@ -1,0 +1,1 @@
+(function(){var b="2609e5ea596d",m="# Matthew 22:33 (New International Version)\nWhen the crowds heard this, they were astonished at his teaching.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-7-28|Mt 7:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

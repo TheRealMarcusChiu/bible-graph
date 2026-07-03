@@ -1,0 +1,1 @@
+(function(){var b="2115607c74d3",m="# Luke 4:9 (New International Version)\nThe devil led him to Jerusalem and had him stand on the highest point of the temple. \"If you are the Son of God,\" he said, \"throw yourself down from here.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

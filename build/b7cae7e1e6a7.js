@@ -1,0 +1,1 @@
+(function(){var b="b7cae7e1e6a7",m="# Acts 12:8 (New International Version)\nThen the angel said to him, \"Put on your clothes and sandals.\" And Peter did so. \"Wrap your cloak around you and follow me,\" the angel told him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

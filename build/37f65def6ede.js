@@ -1,0 +1,1 @@
+(function(){var b="37f65def6ede",m="# Luke 21:33 (New International Version)\nHeaven and earth will pass away, but my words will never pass away.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-5-18|Mt 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

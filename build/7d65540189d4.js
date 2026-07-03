@@ -1,0 +1,1 @@
+(function(){var b="7d65540189d4",m="# Titus 3:4 (New International Version)\nBut when the kindness[^A] and love of God our Savior[^B] appeared,[^C] \n\n### Crossrefs\n[^A]: [[Eph-2-7|Eph 2:7]]\n[^B]: S [[Luke-1-47|Lk 1:47]]\n[^C]: [[Titus-2-11|Tit 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

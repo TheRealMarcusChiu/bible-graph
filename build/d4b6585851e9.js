@@ -1,0 +1,1 @@
+(function(){var b="d4b6585851e9",m="# Deuteronomy 28:59 (New International Version)\nthe LORD will send fearful plagues on you and your descendants, harsh and prolonged disasters, and severe and lingering illnesses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

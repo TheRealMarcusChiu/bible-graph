@@ -1,0 +1,1 @@
+(function(){var b="3a5cfca4ed62",m="# Joshua 22:26 (New International Version)\n\"That is why we said, 'Let us get ready and build an altar--but not for burnt offerings or sacrifices.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

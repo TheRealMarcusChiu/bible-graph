@@ -1,0 +1,1 @@
+(function(){var b="e7194864b1c0",m="# Leviticus 9:2 (New International Version)\nHe said to Aaron, \"Take a bull calf for your sin offering and a ram for your burnt offering, both without defect, and present them before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2554a371964a",m="# Luke 5:22 (New International Version)\nJesus knew what they were thinking and asked, \"Why are you thinking these things in your hearts?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

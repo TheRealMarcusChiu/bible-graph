@@ -1,0 +1,1 @@
+(function(){var b="a48067cae5b1",m="# Acts 23:26 (New International Version)\nClaudius Lysias,\nTo His Excellency,[^A] Governor Felix:\nGreetings.[^B]\n\n### Crossrefs\n[^A]: [[Luke-1-3|Lk 1:3]]; [[Acts-24-3|Ac 24:3]]; [[Acts-26-25|26:25]]\n[^B]: [[Acts-15-23|Ac 15:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

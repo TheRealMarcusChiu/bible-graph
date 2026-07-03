@@ -1,0 +1,1 @@
+(function(){var b="a16834fa3dec",m="# Matthew 21:34 (New International Version)\nWhen the harvest time approached, he sent his servants[^A] to the tenants to collect his fruit.\n\n### Crossrefs\n[^A]: [[Matt-22-3|Mt 22:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

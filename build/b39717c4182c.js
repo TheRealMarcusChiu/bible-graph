@@ -1,0 +1,1 @@
+(function(){var b="b39717c4182c",m="# Luke 19:34 (New International Version)\nThey replied, \"The Lord needs it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="80bfa7599db6",m="# Acts 24:26 (New International Version)\nAt the same time he was hoping that Paul would offer him a bribe, so he sent for him frequently and talked with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

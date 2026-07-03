@@ -1,0 +1,1 @@
+(function(){var b="2f3bbfa19156",m="# Genesis 31:31 (New International Version)\nJacob answered Laban, \"I was afraid, because I thought you would take your daughters away from me by force.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-20-11|Ge 20:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

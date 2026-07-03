@@ -1,0 +1,1 @@
+(function(){var b="d046aad21a72",m="# Luke 1:38 (New International Version)\n\"I am the Lord's servant,\" Mary answered. \"May your word to me be fulfilled.\" Then the angel left her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

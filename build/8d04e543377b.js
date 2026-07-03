@@ -1,0 +1,1 @@
+(function(){var b="8d04e543377b",m="# Luke 24:2 (New International Version)\nThey found the stone rolled away from the tomb,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

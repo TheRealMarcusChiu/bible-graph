@@ -1,0 +1,1 @@
+(function(){var b="30a0efbe24d1",m="# Matthew 7:18 (New International Version)\nA good tree cannot bear bad fruit, and a bad tree cannot bear good fruit.[^A] \n\n### Crossrefs\n[^A]: [[Luke-6-43|Lk 6:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

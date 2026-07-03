@@ -1,0 +1,1 @@
+(function(){var b="61bbfceae972",m="# 2 Corinthians 8:22 (New International Version)\nIn addition, we are sending with them our brother who has often proved to us in many ways that he is zealous, and now even more so because of his great confidence in you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

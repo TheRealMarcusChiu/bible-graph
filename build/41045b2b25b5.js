@@ -1,0 +1,1 @@
+(function(){var b="41045b2b25b5",m="# Deuteronomy 22:3 (New International Version)\nDo the same if you find their donkey or cloak or anything else they have lost. Do not ignore it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e219dbf6a954",m="# Judges 9:16 (New International Version)\n\"Have you acted honorably and in good faith by making Abimelek king? Have you been fair to Jerub-Baal and his family? Have you treated him as he deserves?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

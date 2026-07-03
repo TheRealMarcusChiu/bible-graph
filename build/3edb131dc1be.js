@@ -1,0 +1,1 @@
+(function(){var b="3edb131dc1be",m="# John 16:8 (New International Version)\nWhen he comes, he will prove the world to be in the wrong about sin and righteousness and judgment:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

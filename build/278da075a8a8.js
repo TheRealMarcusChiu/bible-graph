@@ -1,0 +1,1 @@
+(function(){var b="278da075a8a8",m="# 2 Corinthians 3:4 (New International Version)\nSuch confidence[^A] we have through Christ before God. \n\n### Crossrefs\n[^A]: S [[Eph-3-12|Eph 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

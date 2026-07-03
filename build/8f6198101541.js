@@ -1,0 +1,1 @@
+(function(){var b="8f6198101541",m="# Matthew 18:5 (New International Version)\nAnd whoever welcomes one such child in my name welcomes me.[^A]\n\n### Crossrefs\n[^A]: [[Matt-10-40|Mt 10:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

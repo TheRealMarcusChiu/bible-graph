@@ -1,0 +1,1 @@
+(function(){var b="803e2d5e7f2e",m="# Luke 7:2 (New International Version)\nThere a centurion's servant, whom his master valued highly, was sick and about to die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

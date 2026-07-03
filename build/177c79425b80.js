@@ -1,0 +1,1 @@
+(function(){var b="177c79425b80",m="# Acts 2:15 (New International Version)\nThese people are not drunk, as you suppose. It's only nine in the morning![^A] \n\n### Crossrefs\n[^A]: [[1Thess-5-7|1Th 5:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

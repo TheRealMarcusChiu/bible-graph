@@ -1,0 +1,1 @@
+(function(){var b="d03bc7425ea2",m="# Romans 9:15 (New International Version)\nFor he says to Moses,\n\"I will have mercy on whom I have mercy,  \n    and I will have compassion on whom I have compassion.\"[^A]\n\n### Crossrefs\n[^A]: [[Exod-33-19|Ex 33:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

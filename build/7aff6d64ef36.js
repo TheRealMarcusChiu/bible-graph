@@ -1,0 +1,1 @@
+(function(){var b="7aff6d64ef36",m="# 2 Corinthians 3:8 (New International Version)\nwill not the ministry of the Spirit be even more glorious?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

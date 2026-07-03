@@ -1,0 +1,1 @@
+(function(){var b="c6134d5418a2",m="# James 4:5 (New International Version)\nOr do you think Scripture says without reason that he jealously longs for the spirit he has caused to dwell in us?[^A] \n\n### Crossrefs\n[^A]: [[1Cor-6-19|1Co 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

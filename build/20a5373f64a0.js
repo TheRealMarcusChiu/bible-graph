@@ -1,0 +1,1 @@
+(function(){var b="20a5373f64a0",m="# Matthew 20:5 (New International Version)\nSo they went.\n\"He went out again about noon and about three in the afternoon and did the same thing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

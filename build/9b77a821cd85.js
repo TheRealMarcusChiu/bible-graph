@@ -1,0 +1,1 @@
+(function(){var b="9b77a821cd85",m="# Mark 12:8 (New International Version)\nSo they took him and killed him, and threw him out of the vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

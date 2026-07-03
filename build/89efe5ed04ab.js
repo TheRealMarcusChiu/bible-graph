@@ -1,0 +1,1 @@
+(function(){var b="89efe5ed04ab",m="# 3 John 9 (New International Version)\nI wrote to the church, but Diotrephes, who loves to be first, will not welcome us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f5185e888b7a",m="# Mark 14:17 (New International Version)\nWhen evening came, Jesus arrived with the Twelve.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

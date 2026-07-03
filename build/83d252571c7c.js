@@ -1,0 +1,1 @@
+(function(){var b="83d252571c7c",m="# Matthew 14:11 (New International Version)\nHis head was brought in on a platter and given to the girl, who carried it to her mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

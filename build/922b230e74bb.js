@@ -1,0 +1,1 @@
+(function(){var b="922b230e74bb",m="# Ephesians 6:11 (New International Version)\nPut on the full armor of God,[^A] so that you can take your stand against the devil's schemes. \n\n### Crossrefs\n[^A]: [[Eph-6-13|ver 13]]; [[Rom-13-12|Ro 13:12]]; [[1Thess-5-8|1Th 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

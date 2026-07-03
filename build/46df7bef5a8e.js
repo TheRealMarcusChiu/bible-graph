@@ -1,0 +1,1 @@
+(function(){var b="46df7bef5a8e",m="# Deuteronomy 14:12 (New International Version)\nBut these you may not eat: the eagle, the vulture, the black vulture,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

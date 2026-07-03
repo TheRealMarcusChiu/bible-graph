@@ -1,0 +1,1 @@
+(function(){var b="7d28276323f4",m="# Matthew 4:14 (New International Version)\nto fulfill[^A] what was said through the prophet Isaiah:\n\n### Crossrefs\n[^A]: S [[Matt-1-22|Mt 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

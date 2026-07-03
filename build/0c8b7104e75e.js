@@ -1,0 +1,1 @@
+(function(){var b="0c8b7104e75e",m="# Joshua 15:50 (New International Version)\nAnab,[^A] Eshtemoh,[^B] Anim, \n\n### Crossrefs\n[^A]: [[Josh-11-21|Jos 11:21]]\n[^B]: [[Josh-21-14|Jos 21:14]]; [[1Sam-30-28|1Sa 30:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

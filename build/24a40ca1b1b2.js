@@ -1,0 +1,1 @@
+(function(){var b="24a40ca1b1b2",m="# Genesis 2:25 (New International Version)\nAdam and his wife were both naked,[^A] and they felt no shame.\n\n### Crossrefs\n[^A]: [[Gen-3-7|Ge 3:7]], [[Gen-3-10|10-11]]; [[Isa-47-3|Isa 47:3]]; [[Lam-1-8|La 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

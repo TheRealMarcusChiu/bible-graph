@@ -1,0 +1,1 @@
+(function(){var b="e41367ab0b61",m="# John 19:37 (New International Version)\nand, as another scripture says, \"They will look on the one they have pierced.\"[^A]\n\n### Crossrefs\n[^A]: [[Zech-12-10|Zec 12:10]]; [[Rev-1-7|Rev 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

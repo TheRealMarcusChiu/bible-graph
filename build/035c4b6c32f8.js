@@ -1,0 +1,1 @@
+(function(){var b="035c4b6c32f8",m="# Numbers 8:14 (New International Version)\nIn this way you are to set the Levites apart from the other Israelites, and the Levites will be mine.[^A]\n\n### Crossrefs\n[^A]: S [[Num-3-12|Nu 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

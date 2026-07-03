@@ -1,0 +1,1 @@
+(function(){var b="11cbc8f1de7b",m="# Leviticus 22:7 (New International Version)\nWhen the sun goes down, he will be clean, and after that he may eat the sacred offerings, for they are his food.[^A] \n\n### Crossrefs\n[^A]: [[Num-18-11|Nu 18:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

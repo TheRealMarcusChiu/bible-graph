@@ -1,0 +1,1 @@
+(function(){var b="9ebabf9012e7",m="# Numbers 33:25 (New International Version)\nThey left Haradah and camped at Makheloth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

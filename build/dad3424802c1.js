@@ -1,0 +1,1 @@
+(function(){var b="dad3424802c1",m="# Luke 20:29 (New International Version)\nNow there were seven brothers. The first one married a woman and died childless.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

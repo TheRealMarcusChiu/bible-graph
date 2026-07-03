@@ -1,0 +1,1 @@
+(function(){var b="cded58f4d0f5",m="# Luke 20:14 (New International Version)\n\"But when the tenants saw him, they talked the matter over. 'This is the heir,' they said. 'Let's kill him, and the inheritance will be ours.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

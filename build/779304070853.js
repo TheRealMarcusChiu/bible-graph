@@ -1,0 +1,1 @@
+(function(){var b="779304070853",m="# Numbers 20:25 (New International Version)\nGet Aaron and his son Eleazar and take them up Mount Hor.[^A] \n\n### Crossrefs\n[^A]: [[Num-33-38|Nu 33:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bc7b5eb4461d",m="# Mark 14:29 (New International Version)\nPeter declared, \"Even if all fall away, I will not.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

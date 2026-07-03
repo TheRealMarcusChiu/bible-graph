@@ -1,0 +1,1 @@
+(function(){var b="dce456b62e04",m="# Acts 27:31 (New International Version)\nThen Paul said to the centurion and the soldiers, \"Unless these men stay with the ship, you cannot be saved.\"[^A] \n\n### Crossrefs\n[^A]: [[Acts-27-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

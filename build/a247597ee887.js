@@ -1,0 +1,1 @@
+(function(){var b="a247597ee887",m="# Deuteronomy 25:14 (New International Version)\nDo not have two differing measures in your house--one large, one small.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

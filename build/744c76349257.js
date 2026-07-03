@@ -1,0 +1,1 @@
+(function(){var b="744c76349257",m="# Numbers 32:27 (New International Version)\nBut your servants, every man who is armed for battle, will cross over to fight[^A] before the LORD, just as our lord says.\"\n\n### Crossrefs\n[^A]: [[Num-32-17|ver 17]], [[Num-32-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

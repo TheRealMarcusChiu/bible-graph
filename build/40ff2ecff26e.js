@@ -1,0 +1,1 @@
+(function(){var b="40ff2ecff26e",m="# Mark 1:20 (New International Version)\nWithout delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8f70b8ad0cf1",m="# Mark 12:23 (New International Version)\nAt the resurrection whose wife will she be, since the seven were married to her?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

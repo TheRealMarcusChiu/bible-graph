@@ -1,0 +1,1 @@
+(function(){var b="4614df4660d3",m="# Romans 6:8 (New International Version)\nNow if we died with Christ, we believe that we will also live with him.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-6-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

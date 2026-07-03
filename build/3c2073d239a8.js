@@ -1,0 +1,1 @@
+(function(){var b="3c2073d239a8",m="# Romans 10:14 (New International Version)\nHow, then, can they call on the one they have not believed in? And how can they believe in the one of whom they have not heard? And how can they hear without someone preaching to them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

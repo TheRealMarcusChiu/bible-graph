@@ -1,0 +1,1 @@
+(function(){var b="5760803f05f4",m="# Hebrews 12:12 (New International Version)\nTherefore, strengthen your feeble arms and weak knees.[^A] \n\n### Crossrefs\n[^A]: [[Isa-35-3|Isa 35:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

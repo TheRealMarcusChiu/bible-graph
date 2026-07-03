@@ -1,0 +1,1 @@
+(function(){var b="cf106e1de0d4",m="# Luke 21:29 (New International Version)\nHe told them this parable: \"Look at the fig tree and all the trees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

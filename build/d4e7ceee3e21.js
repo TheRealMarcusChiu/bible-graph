@@ -1,0 +1,1 @@
+(function(){var b="d4e7ceee3e21",m="# Numbers 16:23 (New International Version)\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c2acdcf4603f",m="# Exodus 25:19 (New International Version)\nMake one cherub on one end and the second cherub on the other; make the cherubim of one piece with the cover, at the two ends.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

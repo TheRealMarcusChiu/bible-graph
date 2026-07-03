@@ -1,0 +1,1 @@
+(function(){var b="071071c39bf2",m="# Luke 23:48 (New International Version)\nWhen all the people who had gathered to witness this sight saw what took place, they beat their breasts[^A] and went away. \n\n### Crossrefs\n[^A]: [[Luke-18-13|Lk 18:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

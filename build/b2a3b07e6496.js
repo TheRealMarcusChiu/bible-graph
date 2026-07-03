@@ -1,0 +1,1 @@
+(function(){var b="b2a3b07e6496",m="# Acts 27:8 (New International Version)\nWe moved along the coast with difficulty and came to a place called Fair Havens, near the town of Lasea.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

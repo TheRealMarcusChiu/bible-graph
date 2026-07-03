@@ -1,0 +1,1 @@
+(function(){var b="f36ec31a65cc",m="# Deuteronomy 21:2 (New International Version)\nyour elders and judges shall go out and measure the distance from the body to the neighboring towns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

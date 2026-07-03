@@ -1,0 +1,1 @@
+(function(){var b="9b6e26dbd6d1",m="# Joshua 7:20 (New International Version)\nAchan replied, \"It is true! I have sinned against the LORD, the God of Israel. This is what I have done:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

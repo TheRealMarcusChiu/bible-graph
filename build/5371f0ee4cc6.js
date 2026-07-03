@@ -1,0 +1,1 @@
+(function(){var b="5371f0ee4cc6",m="# Acts 24:8 (New International Version)\nBy examining him yourself you will be able to learn the truth about all these charges we are bringing against him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

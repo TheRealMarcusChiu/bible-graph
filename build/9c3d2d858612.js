@@ -1,0 +1,1 @@
+(function(){var b="9c3d2d858612",m="# Luke 9:55 (New International Version)\nBut Jesus turned and rebuked them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

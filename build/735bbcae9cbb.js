@@ -1,0 +1,1 @@
+(function(){var b="735bbcae9cbb",m="# Matthew 6:28 (New International Version)\n\"And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

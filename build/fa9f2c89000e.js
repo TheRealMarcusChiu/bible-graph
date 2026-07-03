@@ -1,0 +1,1 @@
+(function(){var b="fa9f2c89000e",m="# Romans 3:1 (New International Version)\nGod's Faithfulness\nWhat advantage, then, is there in being a Jew, or what value is there in circumcision?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

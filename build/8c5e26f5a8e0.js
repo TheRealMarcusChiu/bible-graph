@@ -1,0 +1,1 @@
+(function(){var b="8c5e26f5a8e0",m="# Luke 21:18 (New International Version)\nBut not a hair of your head will perish.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-10-30|Mt 10:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

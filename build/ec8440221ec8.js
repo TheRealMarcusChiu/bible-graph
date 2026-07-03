@@ -1,0 +1,1 @@
+(function(){var b="ec8440221ec8",m="# Mark 15:25 (New International Version)\nIt was nine in the morning when they crucified him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

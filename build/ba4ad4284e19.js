@@ -1,0 +1,1 @@
+(function(){var b="ba4ad4284e19",m="# John 18:13 (New International Version)\nand brought him first to Annas, who was the father-in-law of Caiaphas,[^A] the high priest that year. \n\n### Crossrefs\n[^A]: [[John-18-24|ver 24]]; S [[Matt-26-3|Mt 26:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

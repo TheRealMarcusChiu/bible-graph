@@ -1,0 +1,1 @@
+(function(){var b="0f2f22d74ddc",m="# Luke 20:3 (New International Version)\nHe replied, \"I will also ask you a question. Tell me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

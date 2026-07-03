@@ -1,0 +1,1 @@
+(function(){var b="009444c77956",m="# Luke 24:11 (New International Version)\nBut they did not believe[^A] the women, because their words seemed to them like nonsense. \n\n### Crossrefs\n[^A]: [[Mark-16-11|Mk 16:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

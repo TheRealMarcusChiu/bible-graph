@@ -1,0 +1,1 @@
+(function(){var b="fe7b8c4b41e0",m="# Mark 12:40 (New International Version)\nThey devour widows' houses and for a show make lengthy prayers. These men will be punished most severely.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

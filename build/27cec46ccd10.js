@@ -1,0 +1,1 @@
+(function(){var b="27cec46ccd10",m="# Acts 13:24 (New International Version)\nBefore the coming of Jesus, John preached repentance and baptism to all the people of Israel.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-1-4|Mk 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

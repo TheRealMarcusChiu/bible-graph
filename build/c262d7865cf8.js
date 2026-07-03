@@ -1,0 +1,1 @@
+(function(){var b="c262d7865cf8",m="# Deuteronomy 20:2 (New International Version)\nWhen you are about to go into battle, the priest shall come forward and address the army.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

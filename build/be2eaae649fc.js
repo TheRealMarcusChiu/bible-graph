@@ -1,0 +1,1 @@
+(function(){var b="be2eaae649fc",m="# 2 Corinthians 3:15 (New International Version)\nEven to this day when Moses is read, a veil covers their hearts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

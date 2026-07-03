@@ -1,0 +1,1 @@
+(function(){var b="85e22425297c",m="# Matthew 15:6 (New International Version)\nthey are not to 'honor their father or mother' with it. Thus you nullify the word of God for the sake of your tradition.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

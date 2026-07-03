@@ -1,0 +1,1 @@
+(function(){var b="8e150f4ff078",m="# Romans 3:8 (New International Version)\nWhy not say--as some slanderously claim that we say--\"Let us do evil that good may result\"?[^A] Their condemnation is just!\n\n### Crossrefs\n[^A]: [[Rom-6-1|Ro 6:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

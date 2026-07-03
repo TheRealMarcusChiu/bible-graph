@@ -1,0 +1,1 @@
+(function(){var b="d80b252301d2",m="# Numbers 1:48 (New International Version)\nThe LORD had said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b78168c5325",m="# Exodus 34:35 (New International Version)\nthey saw that his face was radiant.[^A] Then Moses would put the veil back over his face until he went in to speak with the LORD.\n\n### Crossrefs\n[^A]: S [[Exod-34-29|ver 29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

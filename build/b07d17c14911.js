@@ -1,0 +1,1 @@
+(function(){var b="b07d17c14911",m="# Luke 17:9 (New International Version)\nWill he thank the servant because he did what he was told to do?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

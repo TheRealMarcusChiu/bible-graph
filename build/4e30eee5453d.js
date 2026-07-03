@@ -1,0 +1,1 @@
+(function(){var b="4e30eee5453d",m="# Matthew 4:17 (New International Version)\nFrom that time on Jesus began to preach, \"Repent, for the kingdom of heaven[^A] has come near.\"\n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

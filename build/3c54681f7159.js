@@ -1,0 +1,1 @@
+(function(){var b="3c54681f7159",m="# Acts 11:6 (New International Version)\nI looked into it and saw four-footed animals of the earth, wild beasts, reptiles and birds.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6bce23c60389",m="# Mark 2:28 (New International Version)\nSo the Son of Man[^A] is Lord even of the Sabbath.\"\n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="75650449cb90",m="# Joshua 10:18 (New International Version)\nhe said, \"Roll large rocks up to the mouth of the cave, and post some men there to guard it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

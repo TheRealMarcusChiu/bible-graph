@@ -1,0 +1,1 @@
+(function(){var b="9cb7cc11453b",m="# Acts 28:16 (New International Version)\nWhen we got to Rome, Paul was allowed to live by himself, with a soldier to guard him.[^A]\n\n### Crossrefs\n[^A]: [[Acts-24-23|Ac 24:23]]; [[Acts-27-3|27:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

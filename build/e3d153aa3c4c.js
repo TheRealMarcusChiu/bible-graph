@@ -1,0 +1,1 @@
+(function(){var b="e3d153aa3c4c",m="# Acts 5:26 (New International Version)\nAt that, the captain went with his officers and brought the apostles. They did not use force, because they feared that the people[^A] would stone them.\n\n### Crossrefs\n[^A]: [[Acts-4-21|Ac 4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

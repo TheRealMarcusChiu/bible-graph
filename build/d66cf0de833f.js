@@ -1,0 +1,1 @@
+(function(){var b="d66cf0de833f",m="# Luke 22:64 (New International Version)\nThey blindfolded him and demanded, \"Prophesy! Who hit you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

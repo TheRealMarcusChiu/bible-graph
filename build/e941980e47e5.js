@@ -1,0 +1,1 @@
+(function(){var b="e941980e47e5",m="# Deuteronomy 16:17 (New International Version)\nEach of you must bring a gift in proportion to the way the LORD your God has blessed you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

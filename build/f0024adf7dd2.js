@@ -1,0 +1,1 @@
+(function(){var b="f0024adf7dd2",m="# Acts 25:22 (New International Version)\nThen Agrippa said to Festus, \"I would like to hear this man myself.\"\nHe replied, \"Tomorrow you will hear him.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-9-15|Ac 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

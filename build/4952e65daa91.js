@@ -1,0 +1,1 @@
+(function(){var b="4952e65daa91",m="# Matthew 13:46 (New International Version)\nWhen he found one of great value, he went away and sold everything he had and bought it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

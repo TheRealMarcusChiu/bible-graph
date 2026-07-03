@@ -1,0 +1,1 @@
+(function(){var b="edab61df0b8a",m="# Numbers 12\n\nIsrael's forty years of wilderness wandering between Sinai and the edge of the promised land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="625ba41a0e54",m="# Leviticus 15:3 (New International Version)\nWhether it continues flowing from his body or is blocked, it will make him unclean. This is how his discharge will bring about uncleanness:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

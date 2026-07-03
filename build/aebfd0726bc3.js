@@ -1,0 +1,1 @@
+(function(){var b="aebfd0726bc3",m="# Leviticus 25:30 (New International Version)\nIf it is not redeemed before a full year has passed, the house in the walled city shall belong permanently to the buyer and the buyer's descendants. It is not to be returned in the Jubilee.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

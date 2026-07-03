@@ -1,0 +1,1 @@
+(function(){var b="14c9b6f190b1",m="# Matthew 21:30 (New International Version)\n\"Then the father went to the other son and said the same thing. He answered, 'I will, sir,' but he did not go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

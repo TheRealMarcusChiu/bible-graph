@@ -1,0 +1,1 @@
+(function(){var b="3db36e3eacef",m="# Luke 3:26 (New International Version)\nthe son of Maath,\nthe son of Mattathias, the son of Semein,\nthe son of Josek, the son of Joda,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

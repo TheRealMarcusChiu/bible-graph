@@ -1,0 +1,1 @@
+(function(){var b="b16f566b8f51",m="# Joshua 7:10 (New International Version)\nThe LORD said to Joshua, \"Stand up! What are you doing down on your face?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

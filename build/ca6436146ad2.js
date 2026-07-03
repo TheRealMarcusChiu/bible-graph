@@ -1,0 +1,1 @@
+(function(){var b="ca6436146ad2",m="# 1 Kings 1:1 (New International Version)\nAdonijah Sets Himself Up as King\nWhen King David was very old, he could not keep warm even when they put covers over him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

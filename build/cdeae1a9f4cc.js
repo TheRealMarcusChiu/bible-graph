@@ -1,0 +1,1 @@
+(function(){var b="cdeae1a9f4cc",m="# Leviticus 13:14 (New International Version)\nBut whenever raw flesh appears on them, they will be unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

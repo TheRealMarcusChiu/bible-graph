@@ -1,0 +1,1 @@
+(function(){var b="123946afce18",m="# Leviticus 11:35 (New International Version)\nAnything that one of their carcasses falls on becomes unclean; an oven or cooking pot must be broken up. They are unclean, and you are to regard them as unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

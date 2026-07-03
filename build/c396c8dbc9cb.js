@@ -1,0 +1,1 @@
+(function(){var b="c396c8dbc9cb",m="# Luke 1:43 (New International Version)\nBut why am I so favored, that the mother of my Lord[^A] should come to me? \n\n### Crossrefs\n[^A]: S [[John-13-13|Jn 13:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

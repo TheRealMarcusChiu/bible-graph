@@ -1,0 +1,1 @@
+(function(){var b="85151666410b",m="# Romans 8:19 (New International Version)\nFor the creation waits in eager expectation for the children of God[^A] to be revealed. \n\n### Crossrefs\n[^A]: S [[Rom-8-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

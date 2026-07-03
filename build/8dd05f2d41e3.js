@@ -1,0 +1,1 @@
+(function(){var b="8dd05f2d41e3",m="# Acts 15:15 (New International Version)\nThe words of the prophets are in agreement with this, as it is written:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

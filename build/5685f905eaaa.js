@@ -1,0 +1,1 @@
+(function(){var b="5685f905eaaa",m="# Luke 22:50 (New International Version)\nAnd one of them struck the servant of the high priest, cutting off his right ear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

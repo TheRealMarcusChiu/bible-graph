@@ -1,0 +1,1 @@
+(function(){var b="3eb6b86be6da",m="# Colossians 3:2 (New International Version)\nSet your minds on things above, not on earthly things.[^A] \n\n### Crossrefs\n[^A]: [[Phil-3-19|Php 3:19]], [[Phil-3-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

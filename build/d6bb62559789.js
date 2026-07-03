@@ -1,0 +1,1 @@
+(function(){var b="d6bb62559789",m="# Numbers 16:24 (New International Version)\n\"Say to the assembly, 'Move away from the tents of Korah, Dathan and Abiram.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

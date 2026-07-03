@@ -1,0 +1,1 @@
+(function(){var b="2d702466e0b9",m="# Leviticus 9:6 (New International Version)\nThen Moses said, \"This is what the LORD has commanded you to do, so that the glory of the LORD[^A] may appear to you.\"\n\n### Crossrefs\n[^A]: S [[Exod-16-7|Ex 16:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

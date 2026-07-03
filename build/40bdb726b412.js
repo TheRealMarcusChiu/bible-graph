@@ -1,0 +1,1 @@
+(function(){var b="40bdb726b412",m="# Matthew 18:26 (New International Version)\n\"At this the servant fell on his knees before him.[^A] 'Be patient with me,' he begged, 'and I will pay back everything.' \n\n### Crossrefs\n[^A]: S [[Matt-8-2|Mt 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

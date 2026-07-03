@@ -1,0 +1,1 @@
+(function(){var b="c199590ef214",m="# Exodus 38:13 (New International Version)\nThe east end, toward the sunrise, was also fifty cubits wide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

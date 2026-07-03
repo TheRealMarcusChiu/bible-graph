@@ -1,0 +1,1 @@
+(function(){var b="c890667eec17",m="# 1 Corinthians 14:17 (New International Version)\nYou are giving thanks well enough, but no one else is edified.[^A]\n\n### Crossrefs\n[^A]: S [[1Cor-14-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5cb815df1346",m="# John 8:36 (New International Version)\nSo if the Son sets you free,[^A] you will be free indeed. \n\n### Crossrefs\n[^A]: [[John-8-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8c207fbb681e",m="# Mark 1:6 (New International Version)\nJohn wore clothing made of camel's hair, with a leather belt around his waist,[^A] and he ate locusts[^B] and wild honey. \n\n### Crossrefs\n[^A]: [[2Kgs-1-8|2Ki 1:8]]\n[^B]: [[Lev-11-22|Lev 11:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

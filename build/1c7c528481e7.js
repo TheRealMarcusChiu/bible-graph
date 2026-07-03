@@ -1,0 +1,1 @@
+(function(){var b="1c7c528481e7",m="# Deuteronomy 19:2 (New International Version)\nthen set aside for yourselves three cities in the land the LORD your God is giving you to possess.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

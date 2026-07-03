@@ -1,0 +1,1 @@
+(function(){var b="2dffebbdc189",m="# 1 Corinthians 3:17 (New International Version)\nIf anyone destroys God's temple, God will destroy that person; for God's temple is sacred, and you together are that temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

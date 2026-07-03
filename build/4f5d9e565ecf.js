@@ -1,0 +1,1 @@
+(function(){var b="4f5d9e565ecf",m="# Hebrews 2:7 (New International Version)\nYou made them a little lower than the angels;  \n    you crowned them with glory and honor";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c6c6cc9f2dc5",m="# Revelation 3:16 (New International Version)\nSo, because you are lukewarm--neither hot nor cold--I am about to spit you out of my mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

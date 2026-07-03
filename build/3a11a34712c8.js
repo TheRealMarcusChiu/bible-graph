@@ -1,0 +1,1 @@
+(function(){var b="3a11a34712c8",m="# John 8:16 (New International Version)\nBut if I do judge, my decisions are true, because I am not alone. I stand with the Father, who sent me.[^A] \n\n### Crossrefs\n[^A]: [[John-5-30|Jn 5:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8d14e9dba06",m="# 1 Corinthians 14:35 (New International Version)\nIf they want to inquire about something, they should ask their own husbands at home; for it is disgraceful for a woman to speak in the church.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

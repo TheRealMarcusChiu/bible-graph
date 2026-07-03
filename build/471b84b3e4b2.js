@@ -1,0 +1,1 @@
+(function(){var b="471b84b3e4b2",m="# Leviticus 11:37 (New International Version)\nIf a carcass falls on any seeds that are to be planted, they remain clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0f9c9f38adf4",m="# Acts 16:29 (New International Version)\nThe jailer called for lights, rushed in and fell trembling before Paul and Silas.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-15-22|Ac 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

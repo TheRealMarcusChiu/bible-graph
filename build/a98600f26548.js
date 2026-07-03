@@ -1,0 +1,1 @@
+(function(){var b="a98600f26548",m="# Leviticus 23:35 (New International Version)\nThe first day is a sacred assembly;[^A] do no regular work.[^B] \n\n### Crossrefs\n[^A]: [[Lev-23-2|ver 2]]\n[^B]: [[Lev-23-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

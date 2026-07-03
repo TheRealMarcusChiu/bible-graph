@@ -1,0 +1,1 @@
+(function(){var b="544c22572949",m="# Leviticus 8:19 (New International Version)\nThen Moses slaughtered the ram and splashed the blood against the sides of the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

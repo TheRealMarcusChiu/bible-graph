@@ -1,0 +1,1 @@
+(function(){var b="e613ce1b0859",m="# Luke 22:45 (New International Version)\nWhen he rose from prayer and went back to the disciples, he found them asleep, exhausted from sorrow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

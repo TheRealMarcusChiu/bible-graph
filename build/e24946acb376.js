@@ -1,0 +1,1 @@
+(function(){var b="e24946acb376",m="# Leviticus 27:34 (New International Version)\nThese are the commands the LORD gave Moses at Mount Sinai[^A] for the Israelites.[^B]\n\n### Crossrefs\n[^A]: S [[Exod-19-11|Ex 19:11]]\n[^B]: S [[Lev-7-38|Lev 7:38]]; [[Acts-7-38|Ac 7:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

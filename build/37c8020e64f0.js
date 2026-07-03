@@ -1,0 +1,1 @@
+(function(){var b="37c8020e64f0",m="# Exodus 39:23 (New International Version)\nwith an opening in the center of the robe like the opening of a collar, and a band around this opening, so that it would not tear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="edc3fec9deb6",m="# Matthew 11:8 (New International Version)\nIf not, what did you go out to see? A man dressed in fine clothes? No, those who wear fine clothes are in kings' palaces.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

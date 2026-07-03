@@ -1,0 +1,1 @@
+(function(){var b="9264f27094eb",m="# Revelation 8:6 (New International Version)\nThe Trumpets\nThen the seven angels who had the seven trumpets[^A] prepared to sound them.\n\n### Crossrefs\n[^A]: S [[Rev-8-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

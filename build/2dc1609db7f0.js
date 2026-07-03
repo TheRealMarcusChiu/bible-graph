@@ -1,0 +1,1 @@
+(function(){var b="2dc1609db7f0",m="# Numbers 2:27 (New International Version)\nThe tribe of Asher will camp next to them. The leader of the people of Asher is Pagiel son of Okran.[^A] \n\n### Crossrefs\n[^A]: [[Num-1-13|Nu 1:13]]; [[Num-10-26|10:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

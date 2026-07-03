@@ -1,0 +1,1 @@
+(function(){var b="090128dddd5b",m="# Luke 4:4 (New International Version)\nJesus answered, \"It is written: 'Man shall not live on bread alone.'\"[^A]\n\n### Crossrefs\n[^A]: [[Deut-8-3|Dt 8:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

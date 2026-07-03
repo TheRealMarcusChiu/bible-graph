@@ -1,0 +1,1 @@
+(function(){var b="b2310a0bb7c8",m="# Genesis 5:11 (New International Version)\nAltogether, Enosh lived a total of 905 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8ee0a8b5f6ae",m="# 1 Thessalonians 2:3 (New International Version)\nFor the appeal we make does not spring from error or impure motives,[^A] nor are we trying to trick you.[^B] \n\n### Crossrefs\n[^A]: [[2Cor-2-17|2Co 2:17]]\n[^B]: [[2Cor-4-2|2Co 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

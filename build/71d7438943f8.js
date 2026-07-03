@@ -1,0 +1,1 @@
+(function(){var b="71d7438943f8",m="# John 11:5 (New International Version)\nNow Jesus loved Martha and her sister and Lazarus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

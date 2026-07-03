@@ -1,0 +1,1 @@
+(function(){var b="8a1290fd42a3",m="# John 10:39 (New International Version)\nAgain they tried to seize him,[^A] but he escaped their grasp.[^B]\n\n### Crossrefs\n[^A]: [[John-7-30|Jn 7:30]]\n[^B]: [[Luke-4-30|Lk 4:30]]; [[John-8-59|Jn 8:59]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

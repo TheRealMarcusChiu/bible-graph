@@ -1,0 +1,1 @@
+(function(){var b="44f7cb63377d",m="# Joshua 23:11 (New International Version)\nSo be very careful[^A] to love the LORD[^B] your God.\n\n### Crossrefs\n[^A]: S [[Deut-4-15|Dt 4:15]]\n[^B]: [[Josh-22-5|Jos 22:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

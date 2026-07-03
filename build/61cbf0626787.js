@@ -1,0 +1,1 @@
+(function(){var b="61cbf0626787",m="# Mark 4:24 (New International Version)\n\"Consider carefully what you hear,\" he continued. \"With the measure you use, it will be measured to you--and even more.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-7-2|Mt 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

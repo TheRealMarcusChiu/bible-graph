@@ -1,0 +1,1 @@
+(function(){var b="9472364adcf5",m="# Numbers 13:10 (New International Version)\nfrom the tribe of Zebulun, Gaddiel son of Sodi;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

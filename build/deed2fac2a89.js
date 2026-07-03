@@ -1,0 +1,1 @@
+(function(){var b="deed2fac2a89",m="# 2 Corinthians 3:11 (New International Version)\nAnd if what was transitory came with glory, how much greater is the glory of that which lasts!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

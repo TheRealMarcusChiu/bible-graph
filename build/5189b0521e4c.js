@@ -1,0 +1,1 @@
+(function(){var b="5189b0521e4c",m="# Judges 9:9 (New International Version)\n\"But the olive tree answered, 'Should I give up my oil, by which both gods and humans are honored, to hold sway over the trees?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

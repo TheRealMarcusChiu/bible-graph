@@ -1,0 +1,1 @@
+(function(){var b="c96f305a666f",m="# Genesis 25:24 (New International Version)\nWhen the time came for her to give birth,[^A] there were twin boys in her womb.[^B] \n\n### Crossrefs\n[^A]: [[Luke-1-57|Lk 1:57]]; [[Luke-2-6|2:6]]\n[^B]: [[Gen-38-27|Ge 38:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

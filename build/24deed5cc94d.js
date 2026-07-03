@@ -1,0 +1,1 @@
+(function(){var b="24deed5cc94d",m="# Genesis 26:8 (New International Version)\nWhen Isaac had been there a long time, Abimelek king of the Philistines[^A] looked down from a window and saw Isaac caressing his wife Rebekah. \n\n### Crossrefs\n[^A]: S [[Gen-10-14|Ge 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

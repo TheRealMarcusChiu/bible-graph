@@ -1,0 +1,1 @@
+(function(){var b="b4f4ee89fa25",m="# Joshua 20:5 (New International Version)\nIf the avenger of blood comes in pursuit, the elders must not surrender the fugitive, because the fugitive killed their neighbor unintentionally and without malice aforethought.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

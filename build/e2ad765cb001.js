@@ -1,0 +1,1 @@
+(function(){var b="e2ad765cb001",m="# Acts 7:33 (New International Version)\n\"Then the Lord said to him, 'Take off your sandals, for the place where you are standing is holy ground.[^A] \n\n### Crossrefs\n[^A]: [[Exod-3-5|Ex 3:5]]; [[Josh-5-15|Jos 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

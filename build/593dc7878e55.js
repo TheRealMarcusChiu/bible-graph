@@ -1,0 +1,1 @@
+(function(){var b="593dc7878e55",m="# Acts 10:25 (New International Version)\nAs Peter entered the house, Cornelius met him and fell at his feet in reverence.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

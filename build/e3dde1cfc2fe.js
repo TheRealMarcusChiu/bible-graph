@@ -1,0 +1,1 @@
+(function(){var b="e3dde1cfc2fe",m="# Acts 23:7 (New International Version)\nWhen he said this, a dispute broke out between the Pharisees and the Sadducees, and the assembly was divided.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

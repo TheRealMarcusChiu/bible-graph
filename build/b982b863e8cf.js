@@ -1,0 +1,1 @@
+(function(){var b="b982b863e8cf",m="# Genesis 40:17 (New International Version)\nIn the top basket were all kinds of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

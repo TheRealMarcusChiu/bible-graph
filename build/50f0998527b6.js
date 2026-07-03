@@ -1,0 +1,1 @@
+(function(){var b="50f0998527b6",m="# 2 Peter 2:19 (New International Version)\nThey promise them freedom, while they themselves are slaves of depravity--for \"people are slaves to whatever has mastered them.\"[^A] \n\n### Crossrefs\n[^A]: S [[Rom-6-16|Ro 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

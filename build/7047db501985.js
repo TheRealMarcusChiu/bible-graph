@@ -1,0 +1,1 @@
+(function(){var b="7047db501985",m="# Numbers 34:7 (New International Version)\n\"'For your northern boundary,[^A] run a line from the Mediterranean Sea to Mount Hor[^B] \n\n### Crossrefs\n[^A]: [[Ezek-47-15|Eze 47:15-17]]\n[^B]: S [[Num-20-22|Nu 20:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

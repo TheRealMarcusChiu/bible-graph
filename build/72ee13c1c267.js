@@ -1,0 +1,1 @@
+(function(){var b="72ee13c1c267",m="# Luke 4:11 (New International Version)\nthey will lift you up in their hands,  \n    so that you will not strike your foot against a stone.'\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-91-11|Ps 91:11]], [[Ps-91-12|12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

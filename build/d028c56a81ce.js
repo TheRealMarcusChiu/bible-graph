@@ -1,0 +1,1 @@
+(function(){var b="d028c56a81ce",m="# Joshua 10:9 (New International Version)\nAfter an all-night march from Gilgal, Joshua took them by surprise.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

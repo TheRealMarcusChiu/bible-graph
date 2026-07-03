@@ -1,0 +1,1 @@
+(function(){var b="ff8eb62540dc",m="# Leviticus 18:10 (New International Version)\n\"'Do not have sexual relations with your son's daughter or your daughter's daughter; that would dishonor you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

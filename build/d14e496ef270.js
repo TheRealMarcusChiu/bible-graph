@@ -1,0 +1,1 @@
+(function(){var b="d14e496ef270",m="# Luke 24:50 (New International Version)\nThe Ascension of Jesus\nWhen he had led them out to the vicinity of Bethany,[^A] he lifted up his hands and blessed them. \n\n### Crossrefs\n[^A]: S [[Matt-21-17|Mt 21:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

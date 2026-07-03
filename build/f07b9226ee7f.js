@@ -1,0 +1,1 @@
+(function(){var b="f07b9226ee7f",m="# Genesis 17:25 (New International Version)\nand his son Ishmael[^A] was thirteen; \n\n### Crossrefs\n[^A]: [[Gen-16-16|Ge 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

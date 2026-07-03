@@ -1,0 +1,1 @@
+(function(){var b="ba34ecc55855",m="# John 18:11 (New International Version)\nJesus commanded Peter, \"Put your sword away! Shall I not drink the cup[^A] the Father has given me?\"\n\n### Crossrefs\n[^A]: S [[Matt-20-22|Mt 20:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f035039efb5d",m="# 1 Corinthians 10:12 (New International Version)\nSo, if you think you are standing firm,[^A] be careful that you don't fall! \n\n### Crossrefs\n[^A]: [[Rom-11-20|Ro 11:20]]; [[2Cor-1-24|2Co 1:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

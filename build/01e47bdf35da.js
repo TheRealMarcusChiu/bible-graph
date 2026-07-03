@@ -1,0 +1,1 @@
+(function(){var b="01e47bdf35da",m="# Acts 18:10 (New International Version)\nFor I am with you,[^A] and no one is going to attack and harm you, because I have many people in this city.\" \n\n### Crossrefs\n[^A]: S [[Matt-28-20|Mt 28:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

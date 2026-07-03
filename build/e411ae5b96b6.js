@@ -1,0 +1,1 @@
+(function(){var b="e411ae5b96b6",m="# Mark 6:36 (New International Version)\nSend the people away so that they can go to the surrounding countryside and villages and buy themselves something to eat.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="44ebc35441cc",m="# 1 Thessalonians 4:12 (New International Version)\nso that your daily life may win the respect of outsiders[^A] and so that you will not be dependent on anybody.\n\n### Crossrefs\n[^A]: S [[Mark-4-11|Mk 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

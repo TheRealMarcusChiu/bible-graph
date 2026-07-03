@@ -1,0 +1,1 @@
+(function(){var b="39ddc96f4fd9",m="# Genesis 24:51 (New International Version)\nHere is Rebekah; take her and go, and let her become the wife of your master's son, as the LORD has directed.[^A]\"\n\n### Crossrefs\n[^A]: S [[Gen-24-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

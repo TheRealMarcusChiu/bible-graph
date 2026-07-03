@@ -1,0 +1,1 @@
+(function(){var b="9b1afdcc256f",m="# Luke 9:38 (New International Version)\nA man in the crowd called out, \"Teacher, I beg you to look at my son, for he is my only child.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

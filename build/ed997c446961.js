@@ -1,0 +1,1 @@
+(function(){var b="ed997c446961",m="# Numbers 7:36 (New International Version)\nOn the fifth day Shelumiel son of Zurishaddai,[^A] the leader of the people of Simeon, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-6|Nu 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

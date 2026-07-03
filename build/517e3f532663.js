@@ -1,0 +1,1 @@
+(function(){var b="517e3f532663",m="# Numbers 22:7 (New International Version)\nThe elders of Moab and Midian left, taking with them the fee for divination.[^A] When they came to Balaam, they told him what Balak had said.\n\n### Crossrefs\n[^A]: S [[Gen-30-27|Ge 30:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

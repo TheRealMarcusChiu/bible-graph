@@ -1,0 +1,1 @@
+(function(){var b="64ce1cf84580",m="# Luke 21:16 (New International Version)\nYou will be betrayed even by parents, brothers and sisters, relatives and friends,[^A] and they will put some of you to death. \n\n### Crossrefs\n[^A]: [[Luke-12-52|Lk 12:52]], [[Luke-12-53|53]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

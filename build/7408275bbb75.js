@@ -1,0 +1,1 @@
+(function(){var b="7408275bbb75",m="# Exodus 1:1 (New International Version)\nThe Israelites Oppressed\nThese are the names of the sons of Israel[^A] who went to Egypt with Jacob, each with his family: \n\n### Crossrefs\n[^A]: S [[Gen-46-8|Ge 46:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

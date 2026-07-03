@@ -1,0 +1,1 @@
+(function(){var b="1f58cb6ed800",m="# Numbers 27:22 (New International Version)\nMoses did as the LORD commanded him. He took Joshua and had him stand before Eleazar the priest and the whole assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

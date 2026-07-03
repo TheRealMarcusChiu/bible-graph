@@ -1,0 +1,1 @@
+(function(){var b="6167d05feca7",m="# Genesis 23:12 (New International Version)\nAgain Abraham bowed down before the people of the land";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

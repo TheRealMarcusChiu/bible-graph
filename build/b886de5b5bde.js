@@ -1,0 +1,1 @@
+(function(){var b="b886de5b5bde",m="# Numbers 11:27 (New International Version)\nA young man ran and told Moses, \"Eldad and Medad are prophesying in the camp.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

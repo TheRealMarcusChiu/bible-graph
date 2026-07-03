@@ -1,0 +1,1 @@
+(function(){var b="4782207eec3a",m="# Numbers 31:29 (New International Version)\nTake this tribute from their half share and give it to Eleazar the priest as the LORD's part.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b5f8e4c001fb",m="# Luke 22:14 (New International Version)\nWhen the hour came, Jesus and his apostles[^A] reclined at the table.[^B] \n\n### Crossrefs\n[^A]: S [[Mark-6-30|Mk 6:30]]\n[^B]: [[Matt-26-20|Mt 26:20]]; [[Mark-14-17|Mk 14:17]], [[Mark-14-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

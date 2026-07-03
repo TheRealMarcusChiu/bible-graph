@@ -1,0 +1,1 @@
+(function(){var b="0b0e85ad0c34",m="# Revelation 7:8 (New International Version)\nfrom the tribe of Zebulun 12,000,\nfrom the tribe of Joseph 12,000,\nfrom the tribe of Benjamin 12,000.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

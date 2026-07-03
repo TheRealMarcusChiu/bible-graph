@@ -1,0 +1,1 @@
+(function(){var b="3f54c39e0fd8",m="# Revelation 2:4 (New International Version)\nYet I hold this against you: You have forsaken the love you had at first.[^A] \n\n### Crossrefs\n[^A]: [[Jer-2-2|Jer 2:2]]; [[Matt-24-12|Mt 24:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

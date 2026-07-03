@@ -1,0 +1,1 @@
+(function(){var b="69a39b35724b",m="# Numbers 11:35 (New International Version)\nFrom Kibroth Hattaavah the people traveled to Hazeroth[^A] and stayed there.\n\n### Crossrefs\n[^A]: [[Num-33-17|Nu 33:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

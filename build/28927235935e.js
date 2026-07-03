@@ -1,0 +1,1 @@
+(function(){var b="28927235935e",m="# Joshua 19:38 (New International Version)\nIron, Migdal El, Horem, Beth Anath[^A] and Beth Shemesh.[^B] There were nineteen towns and their villages.\n\n### Crossrefs\n[^A]: [[Judg-1-33|Jdg 1:33]]\n[^B]: S [[Josh-15-10|Jos 15:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

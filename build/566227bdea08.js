@@ -1,0 +1,1 @@
+(function(){var b="566227bdea08",m="# Romans 7:16 (New International Version)\nAnd if I do what I do not want to do, I agree that the law is good.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-7-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

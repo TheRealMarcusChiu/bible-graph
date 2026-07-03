@@ -1,0 +1,1 @@
+(function(){var b="97306b11e2d0",m="# Judges 11:39 (New International Version)\nAfter the two months, she returned to her father, and he did to her as he had vowed. And she was a virgin.\nFrom this comes the Israelite tradition";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

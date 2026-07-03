@@ -1,0 +1,1 @@
+(function(){var b="e662388cdc5c",m="# 1 Timothy 5:24 (New International Version)\nThe sins of some are obvious, reaching the place of judgment ahead of them; the sins of others trail behind them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="209264958ca4",m="# Acts 20:31 (New International Version)\nSo be on your guard! Remember that for three years[^A] I never stopped warning each of you night and day with tears.[^B]\n\n### Crossrefs\n[^A]: [[Acts-19-10|Ac 19:10]]\n[^B]: [[Acts-20-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

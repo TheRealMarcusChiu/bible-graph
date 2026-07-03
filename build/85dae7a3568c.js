@@ -1,0 +1,1 @@
+(function(){var b="85dae7a3568c",m="# Luke 1:39 (New International Version)\nMary Visits Elizabeth\nAt that time Mary got ready and hurried to a town in the hill country of Judea,[^A] \n\n### Crossrefs\n[^A]: [[Luke-1-65|ver 65]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

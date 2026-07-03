@@ -1,0 +1,1 @@
+(function(){var b="a84b45b7db70",m="# Genesis 24:17 (New International Version)\nThe servant hurried to meet her and said, \"Please give me a little water from your jar.\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-24-45|ver 45]]; [[1Kgs-17-10|1Ki 17:10]]; [[John-4-7|Jn 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

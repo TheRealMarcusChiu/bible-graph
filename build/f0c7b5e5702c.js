@@ -1,0 +1,1 @@
+(function(){var b="f0c7b5e5702c",m="# Acts 28:14 (New International Version)\nThere we found some brothers and sisters[^A] who invited us to spend a week with them. And so we came to Rome. \n\n### Crossrefs\n[^A]: S [[Acts-1-16|Ac 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

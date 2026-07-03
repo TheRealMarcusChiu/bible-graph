@@ -1,0 +1,1 @@
+(function(){var b="75bad9297709",m="# John 1:32 (New International Version)\nThen John gave this testimony: \"I saw the Spirit come down from heaven as a dove and remain on him.[^A] \n\n### Crossrefs\n[^A]: [[Matt-3-16|Mt 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

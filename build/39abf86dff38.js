@@ -1,0 +1,1 @@
+(function(){var b="39abf86dff38",m="# Numbers 22:16 (New International Version)\nThey came to Balaam and said:\n\"This is what Balak son of Zippor says: Do not let anything keep you from coming to me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

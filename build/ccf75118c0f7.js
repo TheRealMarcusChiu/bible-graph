@@ -1,0 +1,1 @@
+(function(){var b="ccf75118c0f7",m="# Luke 6:20 (New International Version)\nLooking at his disciples, he said:\n\"Blessed are you who are poor,  \n    for yours is the kingdom of God.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-25-34|Mt 25:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

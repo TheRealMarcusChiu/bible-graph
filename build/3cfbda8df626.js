@@ -1,0 +1,1 @@
+(function(){var b="3cfbda8df626",m="# Luke 22:55 (New International Version)\nAnd when some there had kindled a fire in the middle of the courtyard and had sat down together, Peter sat down with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c6fd8bcda3be",m="# Romans 3:15 (New International Version)\n\"Their feet are swift to shed blood;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

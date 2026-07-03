@@ -1,0 +1,1 @@
+(function(){var b="3765de71be59",m="# Numbers 31:5 (New International Version)\nSo twelve thousand men armed for battle,[^A] a thousand from each tribe, were supplied from the clans of Israel. \n\n### Crossrefs\n[^A]: [[Num-31-6|ver 6]], [[Num-31-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

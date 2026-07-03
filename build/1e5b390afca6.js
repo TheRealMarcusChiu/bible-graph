@@ -1,0 +1,1 @@
+(function(){var b="1e5b390afca6",m="# Genesis 25:15 (New International Version)\nHadad, Tema,[^A] Jetur,[^B] Naphish and Kedemah. \n\n### Crossrefs\n[^A]: [[Job-6-19|Job 6:19]]; [[Isa-21-14|Isa 21:14]]; [[Jer-25-23|Jer 25:23]]\n[^B]: [[1Chr-5-19|1Ch 5:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

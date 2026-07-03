@@ -1,0 +1,1 @@
+(function(){var b="4072b8bfca77",m="# Luke 20:45 (New International Version)\nWarning Against the Teachers of the Law\nWhile all the people were listening, Jesus said to his disciples,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

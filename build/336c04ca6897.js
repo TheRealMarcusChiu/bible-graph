@@ -1,0 +1,1 @@
+(function(){var b="336c04ca6897",m="# Matthew 27:7 (New International Version)\nSo they decided to use the money to buy the potter's field as a burial place for foreigners.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

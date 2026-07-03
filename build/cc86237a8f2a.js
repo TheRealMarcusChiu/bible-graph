@@ -1,0 +1,1 @@
+(function(){var b="cc86237a8f2a",m="# Acts 25:5 (New International Version)\nLet some of your leaders come with me, and if the man has done anything wrong, they can press charges against him there.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

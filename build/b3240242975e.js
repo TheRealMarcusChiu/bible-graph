@@ -1,0 +1,1 @@
+(function(){var b="b3240242975e",m="# Luke 7:48 (New International Version)\nThen Jesus said to her, \"Your sins are forgiven.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-9-2|Mt 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

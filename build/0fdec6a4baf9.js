@@ -1,0 +1,1 @@
+(function(){var b="0fdec6a4baf9",m="# Genesis 32:24 (New International Version)\nSo Jacob was left alone,[^A] and a man[^B] wrestled with him till daybreak. \n\n### Crossrefs\n[^A]: [[Dan-10-8|Da 10:8]]\n[^B]: S [[Gen-18-2|Ge 18:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

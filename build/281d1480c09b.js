@@ -1,0 +1,1 @@
+(function(){var b="281d1480c09b",m="# Joshua 9:5 (New International Version)\nThey put worn and patched sandals on their feet and wore old clothes. All the bread of their food supply was dry and moldy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

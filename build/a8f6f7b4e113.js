@@ -1,0 +1,1 @@
+(function(){var b="a8f6f7b4e113",m="# Judges 11:38 (New International Version)\n\"You may go,\" he said. And he let her go for two months. She and her friends went into the hills and wept because she would never marry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

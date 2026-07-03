@@ -1,0 +1,1 @@
+(function(){var b="4a5e370c02fe",m="# Judges 11:37 (New International Version)\nBut grant me this one request,\" she said. \"Give me two months to roam the hills and weep with my friends, because I will never marry.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

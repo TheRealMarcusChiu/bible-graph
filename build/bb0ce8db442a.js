@@ -1,0 +1,1 @@
+(function(){var b="bb0ce8db442a",m="# Luke 22:44 (New International Version)\nAnd being in anguish, he prayed more earnestly, and his sweat was like drops of blood falling to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

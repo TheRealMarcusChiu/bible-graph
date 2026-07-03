@@ -1,0 +1,1 @@
+(function(){var b="01e2058e7885",m="# Exodus 36:25 (New International Version)\nFor the other side, the north side of the tabernacle, they made twenty frames";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

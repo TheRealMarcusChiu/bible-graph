@@ -1,0 +1,1 @@
+(function(){var b="ca737cd5a554",m="# Deuteronomy 20:12 (New International Version)\nIf they refuse to make peace and they engage you in battle, lay siege to that city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

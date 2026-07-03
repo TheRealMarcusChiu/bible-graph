@@ -1,0 +1,1 @@
+(function(){var b="f4eb16fe1503",m="# Luke 11:36 (New International Version)\nTherefore, if your whole body is full of light, and no part of it dark, it will be just as full of light as when a lamp shines its light on you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

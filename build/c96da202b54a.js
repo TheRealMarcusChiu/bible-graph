@@ -1,0 +1,1 @@
+(function(){var b="c96da202b54a",m="# Matthew 10:27 (New International Version)\nWhat I tell you in the dark, speak in the daylight; what is whispered in your ear, proclaim from the roofs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

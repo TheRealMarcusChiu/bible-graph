@@ -1,0 +1,1 @@
+(function(){var b="ddba74530f4f",m="# 2 Corinthians 2:8 (New International Version)\nI urge you, therefore, to reaffirm your love for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

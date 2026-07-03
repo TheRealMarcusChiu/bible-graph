@@ -1,0 +1,1 @@
+(function(){var b="def2ffcbd221",m="# Matthew 11:22 (New International Version)\nBut I tell you, it will be more bearable for Tyre and Sidon on the day of judgment than for you.[^A] \n\n### Crossrefs\n[^A]: [[Matt-11-24|ver 24]]; [[Matt-10-15|Mt 10:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

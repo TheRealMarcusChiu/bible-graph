@@ -1,0 +1,1 @@
+(function(){var b="38d5c600bfb6",m="# Matthew 25:22 (New International Version)\n\"The man with two bags of gold also came. 'Master,' he said, 'you entrusted me with two bags of gold; see, I have gained two more.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="321b57bbee2c",m="# Deuteronomy 14:17 (New International Version)\nthe desert owl,[^A] the osprey, the cormorant, \n\n### Crossrefs\n[^A]: [[Ps-102-6|Ps 102:6]]; [[Isa-13-21|Isa 13:21]]; [[Isa-14-23|14:23]]; [[Isa-34-11|34:11]]; [[Zeph-2-14|Zep 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

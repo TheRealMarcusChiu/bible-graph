@@ -1,0 +1,1 @@
+(function(){var b="bb67010bc3d9",m="# Galatians 1:19 (New International Version)\nI saw none of the other apostles--only James,[^A] the Lord's brother. \n\n### Crossrefs\n[^A]: [[Matt-13-55|Mt 13:55]]; S [[Acts-15-13|Ac 15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

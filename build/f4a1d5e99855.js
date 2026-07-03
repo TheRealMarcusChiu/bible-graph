@@ -1,0 +1,1 @@
+(function(){var b="f4a1d5e99855",m="# Acts 7:1 (New International Version)\nStephen's Speech to the Sanhedrin\nThen the high priest asked Stephen, \"Are these charges true?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

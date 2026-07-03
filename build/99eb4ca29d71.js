@@ -1,0 +1,1 @@
+(function(){var b="99eb4ca29d71",m="# Mark 11:31 (New International Version)\nThey discussed it among themselves and said, \"If we say, 'From heaven,' he will ask, 'Then why didn't you believe him?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

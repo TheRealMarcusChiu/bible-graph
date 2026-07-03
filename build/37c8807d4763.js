@@ -1,0 +1,1 @@
+(function(){var b="37c8807d4763",m="# Genesis 39:15 (New International Version)\nWhen he heard me scream for help, he left his cloak beside me and ran out of the house.\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-39-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

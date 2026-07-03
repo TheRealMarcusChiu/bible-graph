@@ -1,0 +1,1 @@
+(function(){var b="29229eea4baa",m="# Luke 20:12 (New International Version)\nHe sent still a third, and they wounded him and threw him out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

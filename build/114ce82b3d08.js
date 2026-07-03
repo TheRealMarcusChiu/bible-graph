@@ -1,0 +1,1 @@
+(function(){var b="114ce82b3d08",m="# Luke 18:19 (New International Version)\n\"Why do you call me good?\" Jesus answered. \"No one is good--except God alone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

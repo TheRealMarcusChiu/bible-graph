@@ -1,0 +1,1 @@
+(function(){var b="39173e0ea2e6",m="# 1 Peter 4:15 (New International Version)\nIf you suffer, it should not be as a murderer or thief or any other kind of criminal, or even as a meddler.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

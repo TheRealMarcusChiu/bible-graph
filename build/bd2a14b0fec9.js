@@ -1,0 +1,1 @@
+(function(){var b="bd2a14b0fec9",m="# Matthew 10:36 (New International Version)\na man's enemies will be the members of his own household.'[^A]\n\n### Crossrefs\n[^A]: [[Mic-7-6|Mic 7:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

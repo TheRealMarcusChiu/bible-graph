@@ -1,0 +1,1 @@
+(function(){var b="1761900a4534",m="# Luke 24:46 (New International Version)\nHe told them, \"This is what is written: The Messiah will suffer[^A] and rise from the dead on the third day,[^B] \n\n### Crossrefs\n[^A]: S [[Matt-16-21|Mt 16:21]]\n[^B]: S [[Matt-16-21|Mt 16:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

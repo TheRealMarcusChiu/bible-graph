@@ -1,0 +1,1 @@
+(function(){var b="6ba58454c878",m="# Philippians 1:11 (New International Version)\nfilled with the fruit of righteousness[^A] that comes through Jesus Christ--to the glory and praise of God.\n\n### Crossrefs\n[^A]: S [[Jas-3-18|Jas 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

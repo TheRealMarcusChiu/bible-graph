@@ -1,0 +1,1 @@
+(function(){var b="5a8e9475b7f9",m="# Acts 2\n\nThe Spirit-empowered spread of the gospel from Jerusalem to Rome through Peter and Paul.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

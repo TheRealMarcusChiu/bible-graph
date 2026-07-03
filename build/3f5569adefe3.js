@@ -1,0 +1,1 @@
+(function(){var b="3f5569adefe3",m="# 2 Peter 3:11 (New International Version)\nSince everything will be destroyed in this way, what kind of people ought you to be? You ought to live holy and godly lives";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

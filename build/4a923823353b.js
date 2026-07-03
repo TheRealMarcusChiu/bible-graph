@@ -1,0 +1,1 @@
+(function(){var b="4a923823353b",m="# Numbers 34:12 (New International Version)\nThen the boundary will go down along the Jordan and end at the Dead Sea.\n\"'This will be your land, with its boundaries on every side.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

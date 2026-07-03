@@ -1,0 +1,1 @@
+(function(){var b="fb218eb95d2e",m="# Luke 6:31 (New International Version)\nDo to others as you would have them do to you.[^A]\n\n### Crossrefs\n[^A]: [[Matt-7-12|Mt 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

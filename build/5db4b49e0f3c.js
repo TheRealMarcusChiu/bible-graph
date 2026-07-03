@@ -1,0 +1,1 @@
+(function(){var b="5db4b49e0f3c",m="# Mark 16:2 (New International Version)\nVery early on the first day of the week, just after sunrise, they were on their way to the tomb";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

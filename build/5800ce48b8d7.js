@@ -1,0 +1,1 @@
+(function(){var b="5800ce48b8d7",m="# Deuteronomy 12:8 (New International Version)\nYou are not to do as we do here today, everyone doing as they see fit,[^A] \n\n### Crossrefs\n[^A]: [[Judg-17-6|Jdg 17:6]]; [[Judg-21-25|21:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

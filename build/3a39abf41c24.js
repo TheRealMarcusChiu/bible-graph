@@ -1,0 +1,1 @@
+(function(){var b="3a39abf41c24",m="# Matthew 24:47 (New International Version)\nTruly I tell you, he will put him in charge of all his possessions.[^A] \n\n### Crossrefs\n[^A]: [[Matt-25-21|Mt 25:21]], [[Matt-25-23|23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

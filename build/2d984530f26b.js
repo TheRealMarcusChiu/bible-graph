@@ -1,0 +1,1 @@
+(function(){var b="2d984530f26b",m="# Acts 7:13 (New International Version)\nOn their second visit, Joseph told his brothers who he was,[^A] and Pharaoh learned about Joseph's family.[^B] \n\n### Crossrefs\n[^A]: [[Gen-45-1|Ge 45:1-4]]\n[^B]: [[Gen-45-16|Ge 45:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

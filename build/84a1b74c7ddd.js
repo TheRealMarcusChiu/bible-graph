@@ -1,0 +1,1 @@
+(function(){var b="84a1b74c7ddd",m="# Mark 3:10 (New International Version)\nFor he had healed many,[^A] so that those with diseases were pushing forward to touch him.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]\n[^B]: S [[Matt-9-20|Mt 9:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

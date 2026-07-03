@@ -1,0 +1,1 @@
+(function(){var b="c6f1b1d5e7b8",m="# Mark 9:18 (New International Version)\nWhenever it seizes him, it throws him to the ground. He foams at the mouth, gnashes his teeth and becomes rigid. I asked your disciples to drive out the spirit, but they could not.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="160aa1f9a699",m="# Deuteronomy 28:17 (New International Version)\nYour basket and your kneading trough will be cursed.[^A]\n\n### Crossrefs\n[^A]: [[Deut-28-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

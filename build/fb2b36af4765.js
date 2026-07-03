@@ -1,0 +1,1 @@
+(function(){var b="fb2b36af4765",m="# Luke 14:25 (New International Version)\nThe Cost of Being a Disciple\nLarge crowds were traveling with Jesus, and turning to them he said:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

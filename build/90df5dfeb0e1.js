@@ -1,0 +1,1 @@
+(function(){var b="90df5dfeb0e1",m="# Deuteronomy 23:9 (New International Version)\nUncleanness in the Camp\nWhen you are encamped against your enemies, keep away from everything impure.[^A] \n\n### Crossrefs\n[^A]: [[Lev-15-1|Lev 15:1-33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

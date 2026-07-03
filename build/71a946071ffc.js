@@ -1,0 +1,1 @@
+(function(){var b="71a946071ffc",m="# John 13:9 (New International Version)\n\"Then, Lord,\" Simon Peter replied, \"not just my feet but my hands and my head as well!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

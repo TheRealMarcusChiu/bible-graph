@@ -1,0 +1,1 @@
+(function(){var b="d7255631ca4a",m="# 1 Peter 1:24 (New International Version)\nFor,\n\"All people are like grass,  \n    and all their glory is like the flowers of the field;  \nthe grass withers and the flowers fall,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

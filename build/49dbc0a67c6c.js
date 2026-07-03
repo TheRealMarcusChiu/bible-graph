@@ -1,0 +1,1 @@
+(function(){var b="49dbc0a67c6c",m="# Acts 25:27 (New International Version)\nFor I think it is unreasonable to send a prisoner on to Rome without specifying the charges against him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

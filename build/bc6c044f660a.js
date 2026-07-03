@@ -1,0 +1,1 @@
+(function(){var b="bc6c044f660a",m="# Luke 11:7 (New International Version)\nAnd suppose the one inside answers, 'Don't bother me. The door is already locked, and my children and I are in bed. I can't get up and give you anything.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5ffe0c82937a",m="# 1 Corinthians 11:9 (New International Version)\nneither was man created for woman, but woman for man.[^A] \n\n### Crossrefs\n[^A]: [[Gen-2-18|Ge 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

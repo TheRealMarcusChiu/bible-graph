@@ -1,0 +1,1 @@
+(function(){var b="fa2e17673724",m="# Numbers 35:28 (New International Version)\nThe accused must stay in the city of refuge until the death of the high priest; only after the death of the high priest may they return to their own property.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

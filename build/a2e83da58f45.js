@@ -1,0 +1,1 @@
+(function(){var b="a2e83da58f45",m="# Leviticus 24:18 (New International Version)\nAnyone who takes the life of someone's animal must make restitution[^A]--life for life. \n\n### Crossrefs\n[^A]: [[Lev-24-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

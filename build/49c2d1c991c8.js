@@ -1,0 +1,1 @@
+(function(){var b="49c2d1c991c8",m="# Numbers 31:21 (New International Version)\nThen Eleazar the priest said to the soldiers who had gone into battle,[^A] \"This is what is required by the law that the LORD gave Moses: \n\n### Crossrefs\n[^A]: S [[Num-31-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc435722df21",m="# John 10:14 (New International Version)\n\"I am the good shepherd;[^A] I know my sheep[^B] and my sheep know me-- \n\n### Crossrefs\n[^A]: S [[John-10-11|ver 11]]\n[^B]: [[John-10-27|ver 27]]; [[Exod-33-12|Ex 33:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

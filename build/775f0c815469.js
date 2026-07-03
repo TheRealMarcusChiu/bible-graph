@@ -1,0 +1,1 @@
+(function(){var b="775f0c815469",m="# Jude 22 (New International Version)\nBe merciful to those who doubt;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

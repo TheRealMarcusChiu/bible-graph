@@ -1,0 +1,1 @@
+(function(){var b="24cc19e2c457",m="# Mark 13:15 (New International Version)\nLet no one on the housetop go down or enter the house to take anything out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

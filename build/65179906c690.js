@@ -1,0 +1,1 @@
+(function(){var b="65179906c690",m="# Luke 13:27 (New International Version)\n\"But he will reply, 'I don't know you or where you come from. Away from me, all you evildoers!'[^A]\n\n### Crossrefs\n[^A]: S [[Matt-7-23|Mt 7:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

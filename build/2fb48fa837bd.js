@@ -1,0 +1,1 @@
+(function(){var b="2fb48fa837bd",m="# James 3:7 (New International Version)\nAll kinds of animals, birds, reptiles and sea creatures are being tamed and have been tamed by mankind,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

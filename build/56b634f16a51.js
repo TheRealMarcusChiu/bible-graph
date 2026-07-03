@@ -1,0 +1,1 @@
+(function(){var b="56b634f16a51",m="# Mark 10:11 (New International Version)\nHe answered, \"Anyone who divorces his wife and marries another woman commits adultery against her.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-16-18|Lk 16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

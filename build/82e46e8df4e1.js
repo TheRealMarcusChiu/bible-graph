@@ -1,0 +1,1 @@
+(function(){var b="82e46e8df4e1",m="# Numbers 17:13 (New International Version)\nAnyone who even comes near the tabernacle of the LORD will die.[^A] Are we all going to die?\"\n\n### Crossrefs\n[^A]: [[Num-1-51|Nu 1:51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

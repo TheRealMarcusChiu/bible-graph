@@ -1,0 +1,1 @@
+(function(){var b="28f6f899b48f",m="# Mark 11:32 (New International Version)\nBut if we say, 'Of human origin' …\" (They feared the people, for everyone held that John really was a prophet.)[^A]\n\n### Crossrefs\n[^A]: S [[Matt-11-9|Mt 11:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

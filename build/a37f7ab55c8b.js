@@ -1,0 +1,1 @@
+(function(){var b="a37f7ab55c8b",m="# Judges 9:25 (New International Version)\nIn opposition to him these citizens of Shechem set men on the hilltops to ambush and rob everyone who passed by, and this was reported to Abimelek.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

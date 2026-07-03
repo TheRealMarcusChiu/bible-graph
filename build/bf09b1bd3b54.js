@@ -1,0 +1,1 @@
+(function(){var b="bf09b1bd3b54",m="# Genesis 39:16 (New International Version)\nShe kept his cloak beside her until his master came home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

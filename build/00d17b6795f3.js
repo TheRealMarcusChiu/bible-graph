@@ -1,0 +1,1 @@
+(function(){var b="00d17b6795f3",m="# John 9:17 (New International Version)\nThen they turned again to the blind man, \"What have you to say about him? It was your eyes he opened.\"\nThe man replied, \"He is a prophet.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-21-11|Mt 21:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

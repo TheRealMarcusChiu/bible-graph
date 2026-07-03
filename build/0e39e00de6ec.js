@@ -1,0 +1,1 @@
+(function(){var b="0e39e00de6ec",m="# Leviticus 7:11 (New International Version)\nThe Fellowship Offering\n\"'These are the regulations for the fellowship offering anyone may present to the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

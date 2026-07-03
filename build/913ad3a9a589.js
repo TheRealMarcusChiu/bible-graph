@@ -1,0 +1,1 @@
+(function(){var b="913ad3a9a589",m="# Luke 1:16 (New International Version)\nHe will bring back many of the people of Israel to the Lord their God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

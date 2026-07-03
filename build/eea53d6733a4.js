@@ -1,0 +1,1 @@
+(function(){var b="eea53d6733a4",m="# Revelation 2:25 (New International Version)\nexcept to hold on to what you have[^A] until I come.'[^B]\n\n### Crossrefs\n[^A]: [[Rev-3-11|Rev 3:11]]\n[^B]: S [[Matt-16-27|Mt 16:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

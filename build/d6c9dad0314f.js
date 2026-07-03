@@ -1,0 +1,1 @@
+(function(){var b="d6c9dad0314f",m="# Luke 9:30 (New International Version)\nTwo men, Moses and Elijah, appeared in glorious splendor, talking with Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

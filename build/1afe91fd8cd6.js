@@ -1,0 +1,1 @@
+(function(){var b="1afe91fd8cd6",m="# Deuteronomy 23:8 (New International Version)\nThe third generation of children born to them may enter the assembly of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

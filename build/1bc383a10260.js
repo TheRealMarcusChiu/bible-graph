@@ -1,0 +1,1 @@
+(function(){var b="1bc383a10260",m="# Mark 14:14 (New International Version)\nSay to the owner of the house he enters, 'The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

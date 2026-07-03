@@ -1,0 +1,1 @@
+(function(){var b="3179fc917716",m="# Mark 9:27 (New International Version)\nBut Jesus took him by the hand and lifted him to his feet, and he stood up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

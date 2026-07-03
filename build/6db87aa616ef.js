@@ -1,0 +1,1 @@
+(function(){var b="6db87aa616ef",m="# Genesis 31:4 (New International Version)\nSo Jacob sent word to Rachel and Leah to come out to the fields where his flocks were.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

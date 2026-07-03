@@ -1,0 +1,1 @@
+(function(){var b="8d849e82e397",m="# Matthew 8:6 (New International Version)\n\"Lord,\" he said, \"my servant lies at home paralyzed,[^A] suffering terribly.\"\n\n### Crossrefs\n[^A]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

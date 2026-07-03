@@ -1,0 +1,1 @@
+(function(){var b="a335bbb0e114",m="# Exodus 26:5 (New International Version)\nMake fifty loops on one curtain and fifty loops on the end curtain of the other set, with the loops opposite each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

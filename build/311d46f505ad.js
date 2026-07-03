@@ -1,0 +1,1 @@
+(function(){var b="311d46f505ad",m="# Matthew 17:11 (New International Version)\nJesus replied, \"To be sure, Elijah comes and will restore all things.[^A] \n\n### Crossrefs\n[^A]: [[Mal-4-6|Mal 4:6]]; [[Luke-1-16|Lk 1:16]], [[Luke-1-17|17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4482f534f867",m="# Matthew 26:8 (New International Version)\nWhen the disciples saw this, they were indignant. \"Why this waste?\" they asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

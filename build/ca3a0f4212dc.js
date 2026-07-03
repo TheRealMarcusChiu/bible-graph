@@ -1,0 +1,1 @@
+(function(){var b="ca3a0f4212dc",m="# Ephesians 3:3 (New International Version)\nthat is, the mystery[^A] made known to me by revelation,[^B] as I have already written briefly. \n\n### Crossrefs\n[^A]: S [[Rom-16-25|Ro 16:25]]\n[^B]: S [[1Cor-2-10|1Co 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

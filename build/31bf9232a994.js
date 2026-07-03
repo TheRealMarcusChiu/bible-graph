@@ -1,0 +1,1 @@
+(function(){var b="31bf9232a994",m="# Matthew 10:2 (New International Version)\nThese are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

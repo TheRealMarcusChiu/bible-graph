@@ -1,0 +1,1 @@
+(function(){var b="ac1efc36b887",m="# Revelation 16:4 (New International Version)\nThe third angel poured out his bowl on the rivers and springs of water,[^A] and they became blood.[^B] \n\n### Crossrefs\n[^A]: [[Rev-8-10|Rev 8:10]]\n[^B]: [[Exod-7-17|Ex 7:17-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aea64fa5c0d2",m="# Matthew 13:28 (New International Version)\n\"'An enemy did this,' he replied.\n\"The servants asked him, 'Do you want us to go and pull them up?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

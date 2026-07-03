@@ -1,0 +1,1 @@
+(function(){var b="6910a44fff24",m="# Revelation 12:8 (New International Version)\nBut he was not strong enough, and they lost their place in heaven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

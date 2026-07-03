@@ -1,0 +1,1 @@
+(function(){var b="3e88ed184939",m="# Matthew 16:11 (New International Version)\nHow is it you don't understand that I was not talking to you about bread? But be on your guard against the yeast of the Pharisees and Sadducees.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

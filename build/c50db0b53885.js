@@ -1,0 +1,1 @@
+(function(){var b="c50db0b53885",m="# Romans 15:6 (New International Version)\nso that with one mind and one voice you may glorify[^A] the God and Father[^B] of our Lord Jesus Christ.\n\n### Crossrefs\n[^A]: [[Ps-34-3|Ps 34:3]]\n[^B]: [[Rev-1-6|Rev 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

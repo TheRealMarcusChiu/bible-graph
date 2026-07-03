@@ -1,0 +1,1 @@
+(function(){var b="608c63447ef1",m="# Mark 12:2 (New International Version)\nAt harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

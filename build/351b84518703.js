@@ -1,0 +1,1 @@
+(function(){var b="351b84518703",m="# Hebrews 2:5 (New International Version)\nJesus Made Fully Human\nIt is not to angels that he has subjected the world to come, about which we are speaking.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

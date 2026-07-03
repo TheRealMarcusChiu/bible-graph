@@ -1,0 +1,1 @@
+(function(){var b="3945cac9bbe7",m="# John 7:49 (New International Version)\nNo! But this mob that knows nothing of the law--there is a curse on them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

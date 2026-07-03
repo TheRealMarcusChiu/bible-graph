@@ -1,0 +1,1 @@
+(function(){var b="cb9a514fe7f7",m="# Exodus 39:29 (New International Version)\nThe sash was made of finely twisted linen and blue, purple and scarlet yarn--the work of an embroiderer--as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

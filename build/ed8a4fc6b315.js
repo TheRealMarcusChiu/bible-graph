@@ -1,0 +1,1 @@
+(function(){var b="ed8a4fc6b315",m="# Genesis 50:6 (New International Version)\nPharaoh said, \"Go up and bury your father, as he made you swear to do.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

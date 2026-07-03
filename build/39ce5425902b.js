@@ -1,0 +1,1 @@
+(function(){var b="39ce5425902b",m="# Mark 1:43 (New International Version)\nJesus sent him away at once with a strong warning:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

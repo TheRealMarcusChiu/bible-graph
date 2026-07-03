@@ -1,0 +1,1 @@
+(function(){var b="8a785f066b4e",m="# Matthew 1:9 (New International Version)\nUzziah the father of Jotham,\nJotham the father of Ahaz,\nAhaz the father of Hezekiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

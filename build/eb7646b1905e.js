@@ -1,0 +1,1 @@
+(function(){var b="eb7646b1905e",m="# Judges 11:23 (New International Version)\n\"Now since the LORD, the God of Israel, has driven the Amorites out before his people Israel, what right have you to take it over?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

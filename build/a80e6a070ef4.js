@@ -1,0 +1,1 @@
+(function(){var b="a80e6a070ef4",m="# Joshua 7:8 (New International Version)\nPardon your servant, Lord. What can I say, now that Israel has been routed by its enemies?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

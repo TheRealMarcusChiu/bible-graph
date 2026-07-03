@@ -1,0 +1,1 @@
+(function(){var b="c4afd7de58e0",m="# Exodus 38:12 (New International Version)\nThe west end was fifty cubits wide and had curtains, with ten posts and ten bases, with silver hooks and bands on the posts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

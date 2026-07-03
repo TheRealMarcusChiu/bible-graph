@@ -1,0 +1,1 @@
+(function(){var b="84ab115304ae",m="# Exodus 28:20 (New International Version)\nthe fourth row shall be topaz, onyx and jasper. Mount them in gold filigree settings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

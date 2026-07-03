@@ -1,0 +1,1 @@
+(function(){var b="ced5a341bd78",m="# Luke 2:33 (New International Version)\nThe child's father and mother marveled at what was said about him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

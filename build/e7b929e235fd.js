@@ -1,0 +1,1 @@
+(function(){var b="e7b929e235fd",m="# Luke 15:31 (New International Version)\n\"'My son,' the father said, 'you are always with me, and everything I have is yours.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

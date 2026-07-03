@@ -1,0 +1,1 @@
+(function(){var b="b05d95bcf70d",m="# Exodus 26:14 (New International Version)\nMake for the tent a covering[^A] of ram skins dyed red, and over that a covering of the other durable leather.[^B]\n\n### Crossrefs\n[^A]: [[Num-3-25|Nu 3:25]]\n[^B]: [[Num-4-25|Nu 4:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

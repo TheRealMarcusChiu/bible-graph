@@ -1,0 +1,1 @@
+(function(){var b="5c86c3726697",m="# 1 Corinthians 3:12 (New International Version)\nIf anyone builds on this foundation using gold, silver, costly stones, wood, hay or straw,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

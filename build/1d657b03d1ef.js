@@ -1,0 +1,1 @@
+(function(){var b="1d657b03d1ef",m="# Luke 11:16 (New International Version)\nOthers tested him by asking for a sign from heaven.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-12-38|Mt 12:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

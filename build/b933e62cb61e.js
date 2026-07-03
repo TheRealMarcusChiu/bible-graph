@@ -1,0 +1,1 @@
+(function(){var b="b933e62cb61e",m="# Mark 6:27 (New International Version)\nSo he immediately sent an executioner with orders to bring John's head. The man went, beheaded John in the prison,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

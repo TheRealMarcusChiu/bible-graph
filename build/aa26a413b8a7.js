@@ -1,0 +1,1 @@
+(function(){var b="aa26a413b8a7",m="# Deuteronomy 1:23 (New International Version)\nThe idea seemed good to me; so I selected[^A] twelve of you, one man from each tribe. \n\n### Crossrefs\n[^A]: [[Num-13-1|Nu 13:1-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

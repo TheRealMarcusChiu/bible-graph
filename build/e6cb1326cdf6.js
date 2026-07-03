@@ -1,0 +1,1 @@
+(function(){var b="e6cb1326cdf6",m="# Leviticus 14:45 (New International Version)\nIt must be torn down--its stones, timbers and all the plaster--and taken out of the town to an unclean place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

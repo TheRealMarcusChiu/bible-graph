@@ -1,0 +1,1 @@
+(function(){var b="28eb1b28e581",m="# Acts 19:32 (New International Version)\nThe assembly was in confusion: Some were shouting one thing, some another.[^A] Most of the people did not even know why they were there. \n\n### Crossrefs\n[^A]: [[Acts-21-34|Ac 21:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

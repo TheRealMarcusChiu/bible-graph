@@ -1,0 +1,1 @@
+(function(){var b="00747d6a3c11",m="# Philippians 2:27 (New International Version)\nIndeed he was ill, and almost died. But God had mercy on him, and not on him only but also on me, to spare me sorrow upon sorrow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

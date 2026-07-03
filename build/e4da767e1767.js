@@ -1,0 +1,1 @@
+(function(){var b="e4da767e1767",m="# Numbers 5:17 (New International Version)\nThen he shall take some holy water in a clay jar and put some dust from the tabernacle floor into the water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

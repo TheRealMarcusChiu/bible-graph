@@ -1,0 +1,1 @@
+(function(){var b="089c4f9e3023",m="# Matthew 22:1 (New International Version)\nThe Parable of the Wedding Banquet[^A]\nJesus spoke to them again in parables, saying: \n\n### Crossrefs\n[^A]: [[Matt-22-2|22:2-14Ref]] — [[Luke-14-16|Lk 14:16-24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

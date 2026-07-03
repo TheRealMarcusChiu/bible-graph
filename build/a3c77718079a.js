@@ -1,0 +1,1 @@
+(function(){var b="a3c77718079a",m="# Numbers 31:36 (New International Version)\nThe half share of those who fought in the battle was:\n337,500 sheep,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

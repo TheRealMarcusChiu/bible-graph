@@ -1,0 +1,1 @@
+(function(){var b="a48b3cddf50b",m="# Acts 10:20 (New International Version)\nSo get up and go downstairs. Do not hesitate to go with them, for I have sent them.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-15-7|Ac 15:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

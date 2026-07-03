@@ -1,0 +1,1 @@
+(function(){var b="a20e7ac4d43f",m="# Numbers 7:18 (New International Version)\nOn the second day Nethanel son of Zuar,[^A] the leader of Issachar, brought his offering.\n\n### Crossrefs\n[^A]: S [[Num-1-8|Nu 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

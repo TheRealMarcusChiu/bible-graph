@@ -1,0 +1,1 @@
+(function(){var b="f2c62b1fb07c",m="# John 19:41 (New International Version)\nAt the place where Jesus was crucified, there was a garden, and in the garden a new tomb, in which no one had ever been laid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

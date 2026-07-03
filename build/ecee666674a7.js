@@ -1,0 +1,1 @@
+(function(){var b="ecee666674a7",m="# John 16:18 (New International Version)\nThey kept asking, \"What does he mean by 'a little while'? We don't understand what he is saying.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

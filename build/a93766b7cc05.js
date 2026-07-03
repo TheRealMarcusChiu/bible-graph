@@ -1,0 +1,1 @@
+(function(){var b="a93766b7cc05",m="# Leviticus 8:8 (New International Version)\nHe placed the breastpiece[^A] on him and put the Urim and Thummim[^B] in the breastpiece. \n\n### Crossrefs\n[^A]: S [[Exod-25-7|Ex 25:7]]\n[^B]: S [[Exod-28-30|Ex 28:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

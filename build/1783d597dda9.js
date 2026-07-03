@@ -1,0 +1,1 @@
+(function(){var b="1783d597dda9",m="# Genesis 41:53 (New International Version)\nThe seven years of abundance in Egypt came to an end,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="de9651da92ae",m="# John 10:27 (New International Version)\nMy sheep listen to my voice; I know them,[^A] and they follow me.[^B] \n\n### Crossrefs\n[^A]: [[John-10-14|ver 14]]\n[^B]: [[John-10-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

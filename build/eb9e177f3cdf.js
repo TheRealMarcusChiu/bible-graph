@@ -1,0 +1,1 @@
+(function(){var b="eb9e177f3cdf",m="# Mark 1:26 (New International Version)\nThe impure spirit shook the man violently and came out of him with a shriek.[^A]\n\n### Crossrefs\n[^A]: [[Mark-9-20|Mk 9:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

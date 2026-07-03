@@ -1,0 +1,1 @@
+(function(){var b="948725fc8861",m="# Genesis 33:9 (New International Version)\nBut Esau said, \"I already have plenty,[^A] my brother. Keep what you have for yourself.\"\n\n### Crossrefs\n[^A]: [[Gen-33-11|ver 11]]; S [[Gen-13-6|Ge 13:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="16c949952afb",m="# 1 Timothy 1:8 (New International Version)\nWe know that the law is good[^A] if one uses it properly. \n\n### Crossrefs\n[^A]: [[Rom-7-12|Ro 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

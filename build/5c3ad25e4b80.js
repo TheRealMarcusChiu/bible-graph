@@ -1,0 +1,1 @@
+(function(){var b="5c3ad25e4b80",m="# Exodus 26:37 (New International Version)\nMake gold hooks for this curtain and five posts of acacia wood overlaid with gold. And cast five bronze bases for them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

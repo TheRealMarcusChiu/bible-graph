@@ -1,0 +1,1 @@
+(function(){var b="d1971c71919c",m="# Acts 27:33 (New International Version)\nJust before dawn Paul urged them all to eat. \"For the last fourteen days,\" he said, \"you have been in constant suspense and have gone without food--you haven't eaten anything.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

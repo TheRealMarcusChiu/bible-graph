@@ -1,0 +1,1 @@
+(function(){var b="f109adc12a64",m="# Ephesians 5:13 (New International Version)\nBut everything exposed by the light[^A] becomes visible--and everything that is illuminated becomes a light. \n\n### Crossrefs\n[^A]: [[John-3-20|Jn 3:20]], [[John-3-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

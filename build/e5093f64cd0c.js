@@ -1,0 +1,1 @@
+(function(){var b="e5093f64cd0c",m="# Joshua 22:15 (New International Version)\nWhen they went to Gilead--to Reuben, Gad and the half-tribe of Manasseh--they said to them:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

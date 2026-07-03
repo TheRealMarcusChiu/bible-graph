@@ -1,0 +1,1 @@
+(function(){var b="f9d89ee34a48",m="# Revelation 21:17 (New International Version)\nThe angel measured the wall using human[^A] measurement, and it was 144 cubits thick. \n\n### Crossrefs\n[^A]: [[Rev-13-18|Rev 13:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

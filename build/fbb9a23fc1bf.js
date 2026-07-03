@@ -1,0 +1,1 @@
+(function(){var b="fbb9a23fc1bf",m="# Genesis 32:23 (New International Version)\nAfter he had sent them across the stream, he sent over all his possessions.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-26-14|Ge 26:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

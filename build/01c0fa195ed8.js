@@ -1,0 +1,1 @@
+(function(){var b="01c0fa195ed8",m="# Exodus 16:29 (New International Version)\nBear in mind that the LORD has given you the Sabbath; that is why on the sixth day he gives you bread for two days. Everyone is to stay where they are on the seventh day; no one is to go out.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

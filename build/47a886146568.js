@@ -1,0 +1,1 @@
+(function(){var b="47a886146568",m="# Numbers 13:1 (New International Version)\nExploring Canaan\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

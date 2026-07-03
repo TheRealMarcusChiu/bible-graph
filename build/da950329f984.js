@@ -1,0 +1,1 @@
+(function(){var b="da950329f984",m="# Mark 14:15 (New International Version)\nHe will show you a large room upstairs,[^A] furnished and ready. Make preparations for us there.\"\n\n### Crossrefs\n[^A]: [[Acts-1-13|Ac 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

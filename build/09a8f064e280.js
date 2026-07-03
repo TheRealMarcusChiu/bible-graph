@@ -1,0 +1,1 @@
+(function(){var b="09a8f064e280",m="# Mark 12:29 (New International Version)\n\"The most important one,\" answered Jesus, \"is this: 'Hear, O Israel: The Lord our God, the Lord is one.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

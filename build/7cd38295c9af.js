@@ -1,0 +1,1 @@
+(function(){var b="7cd38295c9af",m="# Judges 5:23 (New International Version)\n'Curse Meroz,' said the angel of the LORD.  \n    'Curse its people bitterly,  \nbecause they did not come to help the LORD,  \n    to help the LORD against the mighty.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

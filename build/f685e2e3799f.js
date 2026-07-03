@@ -1,0 +1,1 @@
+(function(){var b="f685e2e3799f",m="# John 1:26 (New International Version)\n\"I baptize with water,\"[^A] John replied, \"but among you stands one you do not know. \n\n### Crossrefs\n[^A]: S [[Mark-1-4|Mk 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

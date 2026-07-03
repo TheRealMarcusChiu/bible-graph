@@ -1,0 +1,1 @@
+(function(){var b="608cf7816b09",m="# Numbers 16:6 (New International Version)\nYou, Korah, and all your followers[^A] are to do this: Take censers[^B] \n\n### Crossrefs\n[^A]: [[Num-16-7|ver 7]], [[Num-16-16|16]]\n[^B]: S [[Lev-10-1|Lev 10:1]]; [[Rev-8-3|Rev 8:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

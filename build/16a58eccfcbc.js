@@ -1,0 +1,1 @@
+(function(){var b="16a58eccfcbc",m="# Numbers 9:9 (New International Version)\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="67d75e84bc72",m="# Deuteronomy 16:10 (New International Version)\nThen celebrate the Festival of Weeks to the LORD your God by giving a freewill offering in proportion to the blessings the LORD your God has given you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

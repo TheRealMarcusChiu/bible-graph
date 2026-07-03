@@ -1,0 +1,1 @@
+(function(){var b="c58a9e46f260",m="# Leviticus 25:38 (New International Version)\nI am the LORD your God, who brought you out of Egypt to give you the land of Canaan[^A] and to be your God.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-10-19|Ge 10:19]]\n[^B]: S [[Gen-17-7|Ge 17:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

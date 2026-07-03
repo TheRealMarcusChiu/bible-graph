@@ -1,0 +1,1 @@
+(function(){var b="8a6823805b33",m="# Leviticus 26:27 (New International Version)\n\"'If in spite of this you still do not listen to me[^A] but continue to be hostile toward me, \n\n### Crossrefs\n[^A]: [[Lev-26-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5ea5a2469844",m="# Leviticus 13:21 (New International Version)\nBut if, when the priest examines it, there is no white hair in it and it is not more than skin deep and has faded, then the priest is to isolate them for seven days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc7d69b5a315",m="# Acts 1:21 (New International Version)\nTherefore it is necessary to choose one of the men who have been with us the whole time the Lord Jesus was living among us,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

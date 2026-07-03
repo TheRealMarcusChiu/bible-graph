@@ -1,0 +1,1 @@
+(function(){var b="a002188e5a4f",m="# Luke 11:54 (New International Version)\nwaiting to catch him in something he might say.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-12-10|Mt 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

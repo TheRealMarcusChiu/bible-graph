@@ -1,0 +1,1 @@
+(function(){var b="194f3133ecf6",m="# Matthew 14:35 (New International Version)\nAnd when the men of that place recognized Jesus, they sent word to all the surrounding country. People brought all their sick to him";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

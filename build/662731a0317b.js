@@ -1,0 +1,1 @@
+(function(){var b="662731a0317b",m="# Luke 2:26 (New International Version)\nIt had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord's Messiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

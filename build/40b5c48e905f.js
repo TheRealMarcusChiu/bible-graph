@@ -1,0 +1,1 @@
+(function(){var b="40b5c48e905f",m="# Leviticus 11:38 (New International Version)\nBut if water has been put on the seed and a carcass falls on it, it is unclean for you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="adb0eb439e5e",m="# Genesis 24:52 (New International Version)\nWhen Abraham's servant heard what they said, he bowed down to the ground before the LORD.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-24-26|ver 26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

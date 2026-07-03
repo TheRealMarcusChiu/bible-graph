@@ -1,0 +1,1 @@
+(function(){var b="6613433a0f72",m="# Leviticus 9:13 (New International Version)\nThey handed him the burnt offering piece by piece, including the head, and he burned them on the altar.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-1-8|Lev 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

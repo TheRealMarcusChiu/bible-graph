@@ -1,0 +1,1 @@
+(function(){var b="85848ff54034",m="# Leviticus 27:12 (New International Version)\nwho will judge its quality as good or bad. Whatever value the priest then sets, that is what it will be.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

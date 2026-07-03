@@ -1,0 +1,1 @@
+(function(){var b="b2762a9cd1ba",m="# Matthew 22:28 (New International Version)\nNow then, at the resurrection, whose wife will she be of the seven, since all of them were married to her?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

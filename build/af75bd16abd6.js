@@ -1,0 +1,1 @@
+(function(){var b="af75bd16abd6",m="# Mark 4:34 (New International Version)\nHe did not say anything to them without using a parable.[^A] But when he was alone with his own disciples, he explained everything.\n\n### Crossrefs\n[^A]: S [[John-16-25|Jn 16:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

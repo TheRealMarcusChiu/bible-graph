@@ -1,0 +1,1 @@
+(function(){var b="cc6dacfde1ed",m="# Deuteronomy 13:12 (New International Version)\nIf you hear it said about one of the towns the LORD your God is giving you to live in";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

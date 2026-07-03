@@ -1,0 +1,1 @@
+(function(){var b="898453662941",m="# Numbers 14:42 (New International Version)\nDo not go up, because the LORD is not with you. You will be defeated by your enemies,[^A] \n\n### Crossrefs\n[^A]: [[Deut-1-42|Dt 1:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="338dd8326be1",m="# Joshua 21:26 (New International Version)\nAll these ten towns and their pasturelands were given to the rest of the Kohathite clans.[^A]\n\n### Crossrefs\n[^A]: [[Josh-21-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

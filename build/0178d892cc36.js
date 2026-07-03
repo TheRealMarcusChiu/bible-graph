@@ -1,0 +1,1 @@
+(function(){var b="0178d892cc36",m="# Leviticus 23:29 (New International Version)\nThose who do not deny themselves on that day must be cut off from their people.[^A] \n\n### Crossrefs\n[^A]: [[Gen-17-14|Ge 17:14]]; [[Lev-7-20|Lev 7:20]]; [[Num-5-2|Nu 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4c57eb7096e3",m="# John 5:16 (New International Version)\nThe Authority of the Son\nSo, because Jesus was doing these things on the Sabbath, the Jewish leaders began to persecute him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

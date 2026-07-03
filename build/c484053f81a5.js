@@ -1,0 +1,1 @@
+(function(){var b="c484053f81a5",m="# 2 Corinthians 6:12 (New International Version)\nWe are not withholding our affection from you, but you are withholding yours from us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

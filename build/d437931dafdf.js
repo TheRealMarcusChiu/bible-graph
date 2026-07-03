@@ -1,0 +1,1 @@
+(function(){var b="d437931dafdf",m="# Matthew 26:13 (New International Version)\nTruly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

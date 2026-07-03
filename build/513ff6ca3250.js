@@ -1,0 +1,1 @@
+(function(){var b="513ff6ca3250",m="# 2 Timothy 1:17 (New International Version)\nOn the contrary, when he was in Rome, he searched hard for me until he found me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

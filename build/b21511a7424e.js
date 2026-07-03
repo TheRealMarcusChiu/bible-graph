@@ -1,0 +1,1 @@
+(function(){var b="b21511a7424e",m="# 1 Corinthians 3:11 (New International Version)\nFor no one can lay any foundation other than the one already laid, which is Jesus Christ.[^A] \n\n### Crossrefs\n[^A]: [[Isa-28-16|Isa 28:16]]; [[Eph-2-20|Eph 2:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

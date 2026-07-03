@@ -1,0 +1,1 @@
+(function(){var b="737e8440c670",m="# 1 Corinthians 14:7 (New International Version)\nEven in the case of lifeless things that make sounds, such as the pipe or harp, how will anyone know what tune is being played unless there is a distinction in the notes?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

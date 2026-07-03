@@ -1,0 +1,1 @@
+(function(){var b="29876ad1b6dc",m="# Luke 17:29 (New International Version)\nBut the day Lot left Sodom, fire and sulfur rained down from heaven and destroyed them all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="065c6bff76d7",m="# Leviticus 9:21 (New International Version)\nAaron waved the breasts and the right thigh before the LORD as a wave offering,[^A] as Moses commanded.\n\n### Crossrefs\n[^A]: S [[Exod-29-24|Ex 29:24]], [[Exod-29-26|26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

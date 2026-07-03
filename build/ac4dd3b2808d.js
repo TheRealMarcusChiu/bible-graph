@@ -1,0 +1,1 @@
+(function(){var b="ac4dd3b2808d",m="# Galatians 6:2 (New International Version)\nCarry each other's burdens, and in this way you will fulfill the law of Christ.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-9-21|1Co 9:21]]; [[Jas-2-8|Jas 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

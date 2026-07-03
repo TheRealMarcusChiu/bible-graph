@@ -1,0 +1,1 @@
+(function(){var b="cc71002fce98",m="# Exodus 36:27 (New International Version)\nThey made six frames for the far end, that is, the west end of the tabernacle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

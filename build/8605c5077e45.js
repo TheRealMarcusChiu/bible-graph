@@ -1,0 +1,1 @@
+(function(){var b="8605c5077e45",m="# Genesis 23:7 (New International Version)\nThen Abraham rose and bowed down before the people of the land, the Hittites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4ce37d4107b0",m="# Exodus 32:28 (New International Version)\nThe Levites did as Moses commanded, and that day about three thousand of the people died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

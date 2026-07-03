@@ -1,0 +1,1 @@
+(function(){var b="014b1dfea8bd",m="# Deuteronomy 15:16 (New International Version)\nBut if your servant says to you, \"I do not want to leave you,\" because he loves you and your family and is well off with you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

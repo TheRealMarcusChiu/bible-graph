@@ -1,0 +1,1 @@
+(function(){var b="47759733d91c",m="# Numbers 29:32 (New International Version)\n\"'On the seventh day offer seven bulls, two rams and fourteen male lambs a year old, all without defect.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

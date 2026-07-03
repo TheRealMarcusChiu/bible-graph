@@ -1,0 +1,1 @@
+(function(){var b="6a7af8f5b403",m="# Luke 10:10 (New International Version)\nBut when you enter a town and are not welcomed, go into its streets and say,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

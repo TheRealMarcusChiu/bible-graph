@@ -1,0 +1,1 @@
+(function(){var b="f1b5db414aea",m="# Exodus 35:5 (New International Version)\nFrom what you have, take an offering for the LORD. Everyone who is willing is to bring to the LORD an offering of gold, silver and bronze;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

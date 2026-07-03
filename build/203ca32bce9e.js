@@ -1,0 +1,1 @@
+(function(){var b="203ca32bce9e",m="# Leviticus 19:30 (New International Version)\n\"'Observe my Sabbaths[^A] and have reverence for my sanctuary. I am the LORD.[^B]\n\n### Crossrefs\n[^A]: S [[Exod-20-8|Ex 20:8]]\n[^B]: [[Lev-26-2|Lev 26:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

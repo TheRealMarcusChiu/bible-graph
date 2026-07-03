@@ -1,0 +1,1 @@
+(function(){var b="987e873ab9dc",m="# Luke 21:2 (New International Version)\nHe also saw a poor widow put in two very small copper coins.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

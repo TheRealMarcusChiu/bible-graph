@@ -1,0 +1,1 @@
+(function(){var b="065ad3b8993a",m="# Deuteronomy 19:7 (New International Version)\nThis is why I command you to set aside for yourselves three cities.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

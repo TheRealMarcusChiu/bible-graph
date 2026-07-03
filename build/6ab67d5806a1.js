@@ -1,0 +1,1 @@
+(function(){var b="6ab67d5806a1",m="# Hebrews 4:10 (New International Version)\nfor anyone who enters God's rest also rests from their works,[^A] just as God did from his.[^B] \n\n### Crossrefs\n[^A]: [[Lev-23-3|Lev 23:3]]; [[Rev-14-13|Rev 14:13]]\n[^B]: [[Heb-4-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

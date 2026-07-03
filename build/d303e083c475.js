@@ -1,0 +1,1 @@
+(function(){var b="d303e083c475",m="# Luke 4:44 (New International Version)\nAnd he kept on preaching in the synagogues of Judea.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="02a24f999637",m="# Luke 9:60 (New International Version)\nJesus said to him, \"Let the dead bury their own dead, but you go and proclaim the kingdom of God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

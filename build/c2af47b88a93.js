@@ -1,0 +1,1 @@
+(function(){var b="c2af47b88a93",m="# Matthew 13:7 (New International Version)\nOther seed fell among thorns, which grew up and choked the plants.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

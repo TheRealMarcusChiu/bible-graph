@@ -1,0 +1,1 @@
+(function(){var b="b4ea08d4db86",m="# Deuteronomy 25:8 (New International Version)\nThen the elders of his town shall summon him and talk to him. If he persists in saying, \"I do not want to marry her,\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

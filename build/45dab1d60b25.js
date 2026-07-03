@@ -1,0 +1,1 @@
+(function(){var b="45dab1d60b25",m="# Joshua 15:62 (New International Version)\nNibshan, the City of Salt and En Gedi[^A]--six towns and their villages.\n\n### Crossrefs\n[^A]: [[1Sam-23-29|1Sa 23:29]]; [[1Sam-24-1|24:1]]; [[Ezek-47-10|Eze 47:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

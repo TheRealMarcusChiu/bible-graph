@@ -1,0 +1,1 @@
+(function(){var b="79d951359770",m="# Acts 21:6 (New International Version)\nAfter saying goodbye to each other, we went aboard the ship, and they returned home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

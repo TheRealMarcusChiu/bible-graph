@@ -1,0 +1,1 @@
+(function(){var b="083e2fb14092",m="# Luke 13:3 (New International Version)\nI tell you, no! But unless you repent, you too will all perish.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

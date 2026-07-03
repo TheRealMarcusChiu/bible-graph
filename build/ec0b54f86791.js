@@ -1,0 +1,1 @@
+(function(){var b="ec0b54f86791",m="# Matthew 5:31 (New International Version)\nDivorce\n\"It has been said, 'Anyone who divorces his wife must give her a certificate of divorce.'[^A] \n\n### Crossrefs\n[^A]: [[Deut-24-1|Dt 24:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

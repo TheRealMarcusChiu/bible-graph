@@ -1,0 +1,1 @@
+(function(){var b="8a1ec916f940",m="# Romans 6:10 (New International Version)\nThe death he died, he died to sin[^A] once for all;[^B] but the life he lives, he lives to God.\n\n### Crossrefs\n[^A]: S [[Rom-6-2|ver 2]]\n[^B]: S [[Heb-7-27|Heb 7:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

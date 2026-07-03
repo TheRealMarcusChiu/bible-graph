@@ -1,0 +1,1 @@
+(function(){var b="c9ed863e883e",m="# Matthew 27:23 (New International Version)\n\"Why? What crime has he committed?\" asked Pilate.\nBut they shouted all the louder, \"Crucify him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

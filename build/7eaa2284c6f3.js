@@ -1,0 +1,1 @@
+(function(){var b="7eaa2284c6f3",m="# Acts 8:11 (New International Version)\nThey followed him because he had amazed them for a long time with his sorcery.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2fd7e54fc301",m="# Mark 10:42 (New International Version)\nJesus called them together and said, \"You know that those who are regarded as rulers of the Gentiles lord it over them, and their high officials exercise authority over them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

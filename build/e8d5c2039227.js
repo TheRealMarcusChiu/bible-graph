@@ -1,0 +1,1 @@
+(function(){var b="e8d5c2039227",m="# Acts 2:30 (New International Version)\nBut he was a prophet and knew that God had promised him on oath that he would place one of his descendants on his throne.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-1-1|Mt 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

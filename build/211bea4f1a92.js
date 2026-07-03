@@ -1,0 +1,1 @@
+(function(){var b="211bea4f1a92",m="# Matthew 6:3 (New International Version)\nBut when you give to the needy, do not let your left hand know what your right hand is doing,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

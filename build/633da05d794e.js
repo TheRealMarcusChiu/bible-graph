@@ -1,0 +1,1 @@
+(function(){var b="633da05d794e",m="# John 11:26 (New International Version)\nand whoever lives by believing[^A] in me will never die.[^B] Do you believe this?\"\n\n### Crossrefs\n[^A]: S [[John-3-15|Jn 3:15]]\n[^B]: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

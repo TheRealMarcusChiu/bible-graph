@@ -1,0 +1,1 @@
+(function(){var b="c87b6dd2e436",m="# Acts 9:3 (New International Version)\nAs he neared Damascus on his journey, suddenly a light from heaven flashed around him.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-15-8|1Co 15:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

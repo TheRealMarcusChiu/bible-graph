@@ -1,0 +1,1 @@
+(function(){var b="ba119777970b",m="# Ephesians 5:28 (New International Version)\nIn this same way, husbands ought to love their wives[^A] as their own bodies. He who loves his wife loves himself. \n\n### Crossrefs\n[^A]: [[Eph-5-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

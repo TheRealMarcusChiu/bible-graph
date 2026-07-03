@@ -1,0 +1,1 @@
+(function(){var b="fb3cdfc7d586",m="# Ephesians 4:12 (New International Version)\nto equip his people for works of service, so that the body of Christ[^A] may be built up[^B] \n\n### Crossrefs\n[^A]: S [[1Cor-12-27|1Co 12:27]]\n[^B]: S [[Rom-14-19|Ro 14:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

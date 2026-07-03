@@ -1,0 +1,1 @@
+(function(){var b="0fcd9a351a24",m="# Acts 2:11 (New International Version)\n(both Jews and converts to Judaism); Cretans and Arabs--we hear them declaring the wonders of God in our own tongues!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

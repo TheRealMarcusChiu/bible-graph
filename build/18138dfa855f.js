@@ -1,0 +1,1 @@
+(function(){var b="18138dfa855f",m="# John 19:18 (New International Version)\nThere they crucified him, and with him two others[^A]--one on each side and Jesus in the middle.\n\n### Crossrefs\n[^A]: [[Luke-23-32|Lk 23:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

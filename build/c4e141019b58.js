@@ -1,0 +1,1 @@
+(function(){var b="c4e141019b58",m="# Numbers 1:27 (New International Version)\nThe number from the tribe of Judah[^A] was 74,600.\n\n### Crossrefs\n[^A]: [[Num-26-22|Nu 26:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

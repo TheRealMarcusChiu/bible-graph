@@ -1,0 +1,1 @@
+(function(){var b="47e2e39715a0",m="# Romans 10:21 (New International Version)\nBut concerning Israel he says,\n\"All day long I have held out my hands  \n    to a disobedient and obstinate people.\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-65-2|Isa 65:2]]; [[Jer-35-17|Jer 35:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

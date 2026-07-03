@@ -1,0 +1,1 @@
+(function(){var b="0c366c08d269",m="# Genesis 5:8 (New International Version)\nAltogether, Seth lived a total of 912 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

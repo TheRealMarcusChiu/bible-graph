@@ -1,0 +1,1 @@
+(function(){var b="3e891facd1fc",m="# Acts 9:32 (New International Version)\nAeneas and Dorcas\nAs Peter traveled about the country, he went to visit the Lord's people[^A] who lived in Lydda. \n\n### Crossrefs\n[^A]: S [[Acts-9-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

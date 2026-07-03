@@ -1,0 +1,1 @@
+(function(){var b="fe5212b39b95",m="# 2 Corinthians 10:6 (New International Version)\nAnd we will be ready to punish every act of disobedience, once your obedience is complete.[^A]\n\n### Crossrefs\n[^A]: [[2Cor-2-9|2Co 2:9]]; [[2Cor-7-15|7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

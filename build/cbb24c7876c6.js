@@ -1,0 +1,1 @@
+(function(){var b="cbb24c7876c6",m="# Matthew 19:22 (New International Version)\nWhen the young man heard this, he went away sad, because he had great wealth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

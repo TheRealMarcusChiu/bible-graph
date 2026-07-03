@@ -1,0 +1,1 @@
+(function(){var b="0ef96674fba2",m="# Mark 9:22 (New International Version)\n\"It has often thrown him into fire or water to kill him. But if you can do anything, take pity on us and help us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

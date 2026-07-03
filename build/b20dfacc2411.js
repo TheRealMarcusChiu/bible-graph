@@ -1,0 +1,1 @@
+(function(){var b="b20dfacc2411",m="# John 9:9 (New International Version)\nSome claimed that he was.\nOthers said, \"No, he only looks like him.\"\nBut he himself insisted, \"I am the man.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

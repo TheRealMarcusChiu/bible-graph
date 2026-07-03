@@ -1,0 +1,1 @@
+(function(){var b="5542055052ce",m="# Deuteronomy 25:10 (New International Version)\nThat man's line shall be known in Israel as The Family of the Unsandaled.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

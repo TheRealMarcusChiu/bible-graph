@@ -1,0 +1,1 @@
+(function(){var b="ec8b05fb7026",m="# 1 Timothy 5:23 (New International Version)\nStop drinking only water, and use a little wine[^A] because of your stomach and your frequent illnesses.\n\n### Crossrefs\n[^A]: [[1Tim-3-8|1Ti 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

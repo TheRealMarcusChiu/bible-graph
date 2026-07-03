@@ -1,0 +1,1 @@
+(function(){var b="121e299b3ff7",m="# James 1:24 (New International Version)\nand, after looking at himself, goes away and immediately forgets what he looks like.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="96bf121c09da",m="# Matthew 20:2 (New International Version)\nHe agreed to pay them a denarius for the day and sent them into his vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

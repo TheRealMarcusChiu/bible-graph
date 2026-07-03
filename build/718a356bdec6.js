@@ -1,0 +1,1 @@
+(function(){var b="718a356bdec6",m="# Mark 9:23 (New International Version)\n\"'If you can'?\" said Jesus. \"Everything is possible for one who believes.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-21-21|Mt 21:21]]; [[Mark-11-23|Mk 11:23]]; [[John-11-40|Jn 11:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

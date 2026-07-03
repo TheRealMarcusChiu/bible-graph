@@ -1,0 +1,1 @@
+(function(){var b="227b8663230c",m="# Deuteronomy 6:14 (New International Version)\nDo not follow other gods, the gods of the peoples around you;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

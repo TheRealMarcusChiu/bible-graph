@@ -1,0 +1,1 @@
+(function(){var b="595b471b7b2e",m="# Romans 12:7 (New International Version)\nif it is serving, then serve; if it is teaching, then teach;[^A] \n\n### Crossrefs\n[^A]: S [[Eph-4-11|Eph 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

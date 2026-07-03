@@ -1,0 +1,1 @@
+(function(){var b="196c23230367",m="# Acts 9:28 (New International Version)\nSo Saul stayed with them and moved about freely in Jerusalem, speaking boldly in the name of the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

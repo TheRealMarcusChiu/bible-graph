@@ -1,0 +1,1 @@
+(function(){var b="77cfac25ee2a",m="# Judges 6:27 (New International Version)\nSo Gideon took ten of his servants and did as the LORD told him. But because he was afraid of his family and the townspeople, he did it at night rather than in the daytime.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d499b32be237",m="# Deuteronomy 16:12 (New International Version)\nRemember that you were slaves in Egypt,[^A] and follow carefully these decrees.\n\n### Crossrefs\n[^A]: S [[Deut-15-15|Dt 15:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

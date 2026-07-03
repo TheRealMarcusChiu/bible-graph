@@ -1,0 +1,1 @@
+(function(){var b="379cdcbb2991",m="# Numbers 9:4 (New International Version)\nSo Moses told the Israelites to celebrate the Passover,[^A] \n\n### Crossrefs\n[^A]: [[Num-9-2|ver 2]]; S [[Exod-12-11|Ex 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

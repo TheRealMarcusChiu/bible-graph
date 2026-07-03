@@ -1,0 +1,1 @@
+(function(){var b="23586096fd77",m="# Numbers 4:17 (New International Version)\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

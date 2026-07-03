@@ -1,0 +1,1 @@
+(function(){var b="b73e93216f2c",m="# Revelation 2:6 (New International Version)\nBut you have this in your favor: You hate the practices of the Nicolaitans,[^A] which I also hate.\n\n### Crossrefs\n[^A]: [[Rev-2-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

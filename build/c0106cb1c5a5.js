@@ -1,0 +1,1 @@
+(function(){var b="c0106cb1c5a5",m="# Leviticus 15:23 (New International Version)\nWhether it is the bed or anything she was sitting on, when anyone touches it, they will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

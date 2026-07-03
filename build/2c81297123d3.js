@@ -1,0 +1,1 @@
+(function(){var b="2c81297123d3",m="# Hebrews 11:36 (New International Version)\nSome faced jeers and flogging,[^A] and even chains and imprisonment.[^B] \n\n### Crossrefs\n[^A]: [[Jer-20-2|Jer 20:2]]; [[Jer-37-15|37:15]]\n[^B]: [[Gen-39-20|Ge 39:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

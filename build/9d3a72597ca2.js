@@ -1,0 +1,1 @@
+(function(){var b="9d3a72597ca2",m="# Genesis 6:16 (New International Version)\nMake a roof for it, leaving below the roof an opening one cubit high all around. Put a door in the side of the ark and make lower, middle and upper decks.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

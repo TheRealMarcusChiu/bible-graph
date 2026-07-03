@@ -1,0 +1,1 @@
+(function(){var b="ac5216502940",m="# 1 Corinthians 12:22 (New International Version)\nOn the contrary, those parts of the body that seem to be weaker are indispensable,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

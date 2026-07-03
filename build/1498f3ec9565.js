@@ -1,0 +1,1 @@
+(function(){var b="1498f3ec9565",m="# Genesis 5:7 (New International Version)\nAfter he became the father of Enosh, Seth lived 807 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="db3b3c57b42f",m="# Romans 3:31 (New International Version)\nDo we, then, nullify the law by this faith? Not at all! Rather, we uphold the law.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

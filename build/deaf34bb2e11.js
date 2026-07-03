@@ -1,0 +1,1 @@
+(function(){var b="deaf34bb2e11",m="# Leviticus 24:4 (New International Version)\nThe lamps on the pure gold lampstand[^A] before the LORD must be tended continually.\n\n### Crossrefs\n[^A]: S [[Exod-25-31|Ex 25:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

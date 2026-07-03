@@ -1,0 +1,1 @@
+(function(){var b="b2e474c7a56a",m="# Numbers 3:11 (New International Version)\nThe LORD also said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

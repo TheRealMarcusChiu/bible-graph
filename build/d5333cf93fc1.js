@@ -1,0 +1,1 @@
+(function(){var b="d5333cf93fc1",m="# Judges 9:51 (New International Version)\nInside the city, however, was a strong tower, to which all the men and women--all the people of the city--had fled. They had locked themselves in and climbed up on the tower roof.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

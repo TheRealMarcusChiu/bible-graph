@@ -1,0 +1,1 @@
+(function(){var b="462ce66471b8",m="# Luke 10:30 (New International Version)\nIn reply Jesus said: \"A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="158826c8e59e",m="# Deuteronomy 33:14 (New International Version)\nwith the best the sun brings forth  \n    and the finest the moon can yield;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

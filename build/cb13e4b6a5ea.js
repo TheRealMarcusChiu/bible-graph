@@ -1,0 +1,1 @@
+(function(){var b="cb13e4b6a5ea",m="# Philippians 2:5 (New International Version)\nIn your relationships with one another, have the same mindset as Christ Jesus:[^A]\n\n### Crossrefs\n[^A]: S [[Matt-11-29|Mt 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="548211cff4ad",m="# Luke 17:32 (New International Version)\nRemember Lot's wife![^A] \n\n### Crossrefs\n[^A]: [[Gen-19-26|Ge 19:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

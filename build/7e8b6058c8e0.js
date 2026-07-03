@@ -1,0 +1,1 @@
+(function(){var b="7e8b6058c8e0",m="# Joshua 4:11 (New International Version)\nand as soon as all of them had crossed, the ark of the LORD and the priests came to the other side while the people watched.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

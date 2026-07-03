@@ -1,0 +1,1 @@
+(function(){var b="484d66f98afc",m="# Exodus 39:31 (New International Version)\nThen they fastened a blue cord to it to attach it to the turban,[^A] as the LORD commanded Moses.\n\n### Crossrefs\n[^A]: S [[Exod-39-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

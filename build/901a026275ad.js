@@ -1,0 +1,1 @@
+(function(){var b="901a026275ad",m="# Leviticus 21:13 (New International Version)\n\"'The woman he marries must be a virgin.[^A] \n\n### Crossrefs\n[^A]: [[Ezek-44-22|Eze 44:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

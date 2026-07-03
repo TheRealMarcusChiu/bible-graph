@@ -1,0 +1,1 @@
+(function(){var b="58c0551bebd0",m="# Exodus 36:14 (New International Version)\nThey made curtains of goat hair for the tent over the tabernacle--eleven altogether.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

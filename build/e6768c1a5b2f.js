@@ -1,0 +1,1 @@
+(function(){var b="e6768c1a5b2f",m="# Luke 14:30 (New International Version)\nsaying, 'This person began to build and wasn't able to finish.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a4bf0e1de1f7",m="# Acts 27:42 (New International Version)\nThe soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

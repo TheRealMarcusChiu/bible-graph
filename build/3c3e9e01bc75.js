@@ -1,0 +1,1 @@
+(function(){var b="3c3e9e01bc75",m="# Luke 10:23 (New International Version)\nThen he turned to his disciples and said privately, \"Blessed are the eyes that see what you see.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

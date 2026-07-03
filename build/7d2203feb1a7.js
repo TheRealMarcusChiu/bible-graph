@@ -1,0 +1,1 @@
+(function(){var b="7d2203feb1a7",m="# John 5:42 (New International Version)\nbut I know you. I know that you do not have the love of God in your hearts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

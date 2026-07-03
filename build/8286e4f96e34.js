@@ -1,0 +1,1 @@
+(function(){var b="8286e4f96e34",m="# Leviticus 13:39 (New International Version)\nthe priest is to examine them, and if the spots are dull white, it is a harmless rash that has broken out on the skin; they are clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

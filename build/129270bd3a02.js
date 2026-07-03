@@ -1,0 +1,1 @@
+(function(){var b="129270bd3a02",m="# Luke 12:18 (New International Version)\n\"Then he said, 'This is what I'll do. I will tear down my barns and build bigger ones, and there I will store my surplus grain.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

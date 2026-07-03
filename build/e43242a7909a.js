@@ -1,0 +1,1 @@
+(function(){var b="e43242a7909a",m="# Luke 11:24 (New International Version)\n\"When an impure spirit comes out of a person, it goes through arid places seeking rest and does not find it. Then it says, 'I will return to the house I left.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

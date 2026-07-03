@@ -1,0 +1,1 @@
+(function(){var b="3a553316af44",m="# Deuteronomy 22:5 (New International Version)\nA woman must not wear men's clothing, nor a man wear women's clothing, for the LORD your God detests anyone who does this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

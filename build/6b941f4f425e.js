@@ -1,0 +1,1 @@
+(function(){var b="6b941f4f425e",m="# John 10:9 (New International Version)\nI am the gate; whoever enters through me will be saved. They will come in and go out, and find pasture.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

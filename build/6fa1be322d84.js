@@ -1,0 +1,1 @@
+(function(){var b="6fa1be322d84",m="# Mark 4:16 (New International Version)\nOthers, like seed sown on rocky places, hear the word and at once receive it with joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

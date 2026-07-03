@@ -1,0 +1,1 @@
+(function(){var b="46d1d4795fe7",m="# Romans 12:21 (New International Version)\nDo not be overcome by evil, but overcome evil with good.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

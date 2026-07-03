@@ -1,0 +1,1 @@
+(function(){var b="c6e7237c0f2f",m="# Judges 7:10 (New International Version)\nIf you are afraid to attack, go down to the camp with your servant Purah";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

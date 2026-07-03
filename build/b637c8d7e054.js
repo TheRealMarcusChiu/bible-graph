@@ -1,0 +1,1 @@
+(function(){var b="b637c8d7e054",m="# 2 Corinthians 7:10 (New International Version)\nGodly sorrow brings repentance that leads to salvation[^A] and leaves no regret, but worldly sorrow brings death. \n\n### Crossrefs\n[^A]: [[Acts-11-18|Ac 11:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7f0c0e1f804f",m="# Philippians 1:12 (New International Version)\nPaul's Chains Advance the Gospel\nNow I want you to know, brothers and sisters, that what has happened to me has actually served to advance the gospel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

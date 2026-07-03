@@ -1,0 +1,1 @@
+(function(){var b="353dec61e1a6",m="# Romans 3:18 (New International Version)\n\"There is no fear of God before their eyes.\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-36-1|Ps 36:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

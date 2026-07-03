@@ -1,0 +1,1 @@
+(function(){var b="719c83cf0236",m="# 1 Peter 1:16 (New International Version)\nfor it is written: \"Be holy, because I am holy.\"[^A]\n\n### Crossrefs\n[^A]: [[Lev-11-44|Lev 11:44]], [[Lev-11-45|45]]; [[Lev-19-2|19:2]]; [[Lev-20-7|20:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

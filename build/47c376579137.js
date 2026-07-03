@@ -1,0 +1,1 @@
+(function(){var b="47c376579137",m="# Mark 3:3 (New International Version)\nJesus said to the man with the shriveled hand, \"Stand up in front of everyone.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

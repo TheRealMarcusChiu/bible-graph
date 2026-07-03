@@ -1,0 +1,1 @@
+(function(){var b="3837a13991a7",m="# Acts 7:19 (New International Version)\nHe dealt treacherously with our people and oppressed our ancestors by forcing them to throw out their newborn babies so that they would die.[^A]\n\n### Crossrefs\n[^A]: [[Exod-1-10|Ex 1:10-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

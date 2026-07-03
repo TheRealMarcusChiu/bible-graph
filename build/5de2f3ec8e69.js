@@ -1,0 +1,1 @@
+(function(){var b="5de2f3ec8e69",m="# Genesis 34:17 (New International Version)\nBut if you will not agree to be circumcised, we'll take our sister and go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

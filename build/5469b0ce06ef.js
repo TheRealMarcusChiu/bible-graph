@@ -1,0 +1,1 @@
+(function(){var b="5469b0ce06ef",m="# Exodus 16:31 (New International Version)\nThe people of Israel called the bread manna.[^A] It was white like coriander seed and tasted like wafers made with honey. \n\n### Crossrefs\n[^A]: S [[Exod-16-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

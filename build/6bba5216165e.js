@@ -1,0 +1,1 @@
+(function(){var b="6bba5216165e",m="# Joshua 21:17 (New International Version)\nAnd from the tribe of Benjamin they gave them Gibeon,[^A] Geba,[^B] \n\n### Crossrefs\n[^A]: S [[Josh-9-3|Jos 9:3]]\n[^B]: S [[Josh-18-24|Jos 18:24]]; S [[Neh-11-31|Ne 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

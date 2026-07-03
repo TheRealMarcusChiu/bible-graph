@@ -1,0 +1,1 @@
+(function(){var b="97f01679585e",m="# John 10:35 (New International Version)\nIf he called them 'gods,' to whom the word of God[^A] came--and Scripture cannot be set aside[^B]-- \n\n### Crossrefs\n[^A]: S [[Heb-4-12|Heb 4:12]]\n[^B]: S [[Matt-5-18|Mt 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

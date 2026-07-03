@@ -1,0 +1,1 @@
+(function(){var b="55c6016bed99",m="# John 6:18 (New International Version)\nA strong wind was blowing and the waters grew rough.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="227c36e452c6",m="# John 10:5 (New International Version)\nBut they will never follow a stranger; in fact, they will run away from him because they do not recognize a stranger's voice.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

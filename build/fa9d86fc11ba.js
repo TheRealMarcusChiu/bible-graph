@@ -1,0 +1,1 @@
+(function(){var b="fa9d86fc11ba",m="# Genesis 41:13 (New International Version)\nAnd things turned out exactly as he interpreted them to us: I was restored to my position, and the other man was impaled.[^A]\"\n\n### Crossrefs\n[^A]: S [[Gen-40-22|Ge 40:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

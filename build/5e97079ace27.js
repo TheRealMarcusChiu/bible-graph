@@ -1,0 +1,1 @@
+(function(){var b="5e97079ace27",m="# Deuteronomy 23:24 (New International Version)\nIf you enter your neighbor's vineyard, you may eat all the grapes you want, but do not put any in your basket.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

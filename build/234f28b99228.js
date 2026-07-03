@@ -1,0 +1,1 @@
+(function(){var b="234f28b99228",m="# Mark 4:9 (New International Version)\nThen Jesus said, \"Whoever has ears to hear, let them hear.\"[^A]\n\n### Crossrefs\n[^A]: [[Mark-4-23|ver 23]]; S [[Matt-11-15|Mt 11:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

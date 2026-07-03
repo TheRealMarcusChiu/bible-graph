@@ -1,0 +1,1 @@
+(function(){var b="6e0a6c342f35",m="# Genesis 29:22 (New International Version)\nSo Laban brought together all the people of the place and gave a feast.[^A] \n\n### Crossrefs\n[^A]: [[Judg-14-10|Jdg 14:10]]; [[Isa-25-6|Isa 25:6]]; [[John-2-1|Jn 2:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

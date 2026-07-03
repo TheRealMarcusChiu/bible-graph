@@ -1,0 +1,1 @@
+(function(){var b="c00ad27e11bc",m="# Numbers 23:15 (New International Version)\nBalaam said to Balak, \"Stay here beside your offering while I meet with him over there.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

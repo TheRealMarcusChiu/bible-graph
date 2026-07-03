@@ -1,0 +1,1 @@
+(function(){var b="8eba5f0b1100",m="# Luke 19:20 (New International Version)\n\"Then another servant came and said, 'Sir, here is your mina; I have kept it laid away in a piece of cloth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

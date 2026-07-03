@@ -1,0 +1,1 @@
+(function(){var b="6897d81f3483",m="# Mark 10:3 (New International Version)\n\"What did Moses command you?\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

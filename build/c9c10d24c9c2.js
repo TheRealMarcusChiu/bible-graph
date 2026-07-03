@@ -1,0 +1,1 @@
+(function(){var b="c9c10d24c9c2",m="# Numbers 12:12 (New International Version)\nDo not let her be like a stillborn infant coming from its mother's womb with its flesh half eaten away.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

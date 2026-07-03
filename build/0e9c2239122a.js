@@ -1,0 +1,1 @@
+(function(){var b="0e9c2239122a",m="# Matthew 15:23 (New International Version)\nJesus did not answer a word. So his disciples came to him and urged him, \"Send her away, for she keeps crying out after us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

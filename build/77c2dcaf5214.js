@@ -1,0 +1,1 @@
+(function(){var b="77c2dcaf5214",m="# Ephesians 1:16 (New International Version)\nI have not stopped giving thanks for you,[^A] remembering you in my prayers.[^B] \n\n### Crossrefs\n[^A]: S [[Rom-1-8|Ro 1:8]]\n[^B]: S [[Rom-1-10|Ro 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

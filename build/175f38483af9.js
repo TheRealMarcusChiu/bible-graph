@@ -1,0 +1,1 @@
+(function(){var b="175f38483af9",m="# 1 Corinthians 7:21 (New International Version)\nWere you a slave when you were called? Don't let it trouble you--although if you can gain your freedom, do so.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

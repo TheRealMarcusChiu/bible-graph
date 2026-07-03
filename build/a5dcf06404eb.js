@@ -1,0 +1,1 @@
+(function(){var b="a5dcf06404eb",m="# Leviticus 20:5 (New International Version)\nI myself will set my face against him and his family and will cut them off from their people together with all who follow him in prostituting themselves to Molek.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

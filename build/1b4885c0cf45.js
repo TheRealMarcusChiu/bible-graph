@@ -1,0 +1,1 @@
+(function(){var b="1b4885c0cf45",m="# Leviticus 14:50 (New International Version)\nHe shall kill one of the birds over fresh water in a clay pot.[^A] \n\n### Crossrefs\n[^A]: [[Lev-14-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

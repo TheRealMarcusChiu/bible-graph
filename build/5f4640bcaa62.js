@@ -1,0 +1,1 @@
+(function(){var b="5f4640bcaa62",m="# Exodus 21:27 (New International Version)\nAnd an owner who knocks out the tooth of a male or female slave must let the slave go free to compensate for the tooth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

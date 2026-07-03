@@ -1,0 +1,1 @@
+(function(){var b="0495ac811810",m="# Leviticus 9:17 (New International Version)\nHe also brought the grain offering, took a handful of it and burned it on the altar in addition to the morning's burnt offering.[^A]\n\n### Crossrefs\n[^A]: [[Lev-3-5|Lev 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

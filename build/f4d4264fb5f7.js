@@ -1,0 +1,1 @@
+(function(){var b="f4d4264fb5f7",m="# Galatians 1:24 (New International Version)\nAnd they praised God[^A] because of me.\n\n### Crossrefs\n[^A]: S [[Matt-9-8|Mt 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bd2accd03d5e",m="# John 1:39 (New International Version)\n\"Come,\" he replied, \"and you will see.\"\nSo they went and saw where he was staying, and they spent that day with him. It was about four in the afternoon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d971461fcb5e",m="# Numbers 15:11 (New International Version)\nEach bull or ram, each lamb or young goat, is to be prepared in this manner.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

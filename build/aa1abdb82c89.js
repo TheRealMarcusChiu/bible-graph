@@ -1,0 +1,1 @@
+(function(){var b="aa1abdb82c89",m="# Luke 7:38 (New International Version)\nAs she stood behind him at his feet weeping, she began to wet his feet with her tears. Then she wiped them with her hair, kissed them and poured perfume on them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

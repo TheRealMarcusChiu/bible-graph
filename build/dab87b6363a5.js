@@ -1,0 +1,1 @@
+(function(){var b="dab87b6363a5",m="# Matthew 24:22 (New International Version)\n\"If those days had not been cut short, no one would survive, but for the sake of the elect[^A] those days will be shortened. \n\n### Crossrefs\n[^A]: [[Matt-24-24|ver 24]], [[Matt-24-31|31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

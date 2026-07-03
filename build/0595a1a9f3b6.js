@@ -1,0 +1,1 @@
+(function(){var b="0595a1a9f3b6",m="# Matthew 22:8 (New International Version)\n\"Then he said to his servants, 'The wedding banquet is ready, but those I invited did not deserve to come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

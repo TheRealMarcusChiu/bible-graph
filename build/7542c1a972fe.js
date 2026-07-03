@@ -1,0 +1,1 @@
+(function(){var b="7542c1a972fe",m="# Numbers 27:15 (New International Version)\nMoses said to the LORD,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

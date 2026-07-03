@@ -1,0 +1,1 @@
+(function(){var b="ade0895e6163",m="# Exodus 6:9 (New International Version)\nMoses reported this to the Israelites, but they did not listen to him because of their discouragement and harsh labor.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-34-30|Ge 34:30]]; [[Exod-2-23|Ex 2:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

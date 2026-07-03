@@ -1,0 +1,1 @@
+(function(){var b="a7ed64f80e6f",m="# John 5:29 (New International Version)\nand come out--those who have done what is good will rise to live, and those who have done what is evil will rise to be condemned.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

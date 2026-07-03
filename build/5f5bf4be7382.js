@@ -1,0 +1,1 @@
+(function(){var b="5f5bf4be7382",m="# Matthew 21:7 (New International Version)\nThey brought the donkey and the colt and placed their cloaks on them for Jesus to sit on.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

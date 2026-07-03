@@ -1,0 +1,1 @@
+(function(){var b="de736c77eac0",m="# Exodus 7:21 (New International Version)\nThe fish in the Nile died, and the river smelled so bad that the Egyptians could not drink its water. Blood was everywhere in Egypt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

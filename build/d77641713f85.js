@@ -1,0 +1,1 @@
+(function(){var b="d77641713f85",m="# Exodus 37:4 (New International Version)\nThen he made poles of acacia wood and overlaid them with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

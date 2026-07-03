@@ -1,0 +1,1 @@
+(function(){var b="bc2ed64774d2",m="# Mark 9:19 (New International Version)\n\"You unbelieving generation,\" Jesus replied, \"how long shall I stay with you? How long shall I put up with you? Bring the boy to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

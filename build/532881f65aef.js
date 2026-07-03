@@ -1,0 +1,1 @@
+(function(){var b="532881f65aef",m="# Joshua 19:32 (New International Version)\nAllotment for Naphtali\nThe sixth lot came out for Naphtali according to its clans:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

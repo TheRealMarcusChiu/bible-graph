@@ -1,0 +1,1 @@
+(function(){var b="771ceae47f48",m="# Numbers 1:13 (New International Version)\nfrom Asher,[^A] Pagiel son of Okran;[^B]\n\n### Crossrefs\n[^A]: [[Num-1-40|ver 40]]; [[Num-10-26|Nu 10:26]]\n[^B]: [[Num-2-27|Nu 2:27]]; [[Num-7-72|7:72]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

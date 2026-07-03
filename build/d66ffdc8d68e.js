@@ -1,0 +1,1 @@
+(function(){var b="d66ffdc8d68e",m="# Joshua 8:32 (New International Version)\nThere, in the presence of the Israelites, Joshua wrote on stones a copy of the law of Moses.[^A] \n\n### Crossrefs\n[^A]: [[Deut-27-8|Dt 27:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

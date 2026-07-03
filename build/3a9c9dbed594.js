@@ -1,0 +1,1 @@
+(function(){var b="3a9c9dbed594",m="# Philippians 1:24 (New International Version)\nbut it is more necessary for you that I remain in the body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

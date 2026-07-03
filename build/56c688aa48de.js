@@ -1,0 +1,1 @@
+(function(){var b="56c688aa48de",m="# Matthew 13:20 (New International Version)\nThe seed falling on rocky ground refers to someone who hears the word and at once receives it with joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

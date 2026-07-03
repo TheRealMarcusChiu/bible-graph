@@ -1,0 +1,1 @@
+(function(){var b="07081421f3c9",m="# Matthew 5:38 (New International Version)\nEye for Eye\n\"You have heard that it was said, 'Eye for eye, and tooth for tooth.'[^A] \n\n### Crossrefs\n[^A]: [[Exod-21-24|Ex 21:24]]; [[Lev-24-20|Lev 24:20]]; [[Deut-19-21|Dt 19:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

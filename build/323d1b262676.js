@@ -1,0 +1,1 @@
+(function(){var b="323d1b262676",m="# Matthew 28:14 (New International Version)\nIf this report gets to the governor,[^A] we will satisfy him and keep you out of trouble.\" \n\n### Crossrefs\n[^A]: S [[Matt-27-2|Mt 27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

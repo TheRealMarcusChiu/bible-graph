@@ -1,0 +1,1 @@
+(function(){var b="fb81061312ce",m="# Leviticus 20:15 (New International Version)\n\"'If a man has sexual relations with an animal,[^A] he is to be put to death,[^B] and you must kill the animal.\n\n### Crossrefs\n[^A]: S [[Exod-22-19|Ex 22:19]]\n[^B]: [[Lev-20-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

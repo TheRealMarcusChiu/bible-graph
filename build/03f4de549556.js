@@ -1,0 +1,1 @@
+(function(){var b="03f4de549556",m="# Ephesians 3:4 (New International Version)\nIn reading this, then, you will be able to understand my insight[^A] into the mystery of Christ, \n\n### Crossrefs\n[^A]: [[2Cor-11-6|2Co 11:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

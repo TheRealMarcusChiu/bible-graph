@@ -1,0 +1,1 @@
+(function(){var b="361c1c5f991b",m="# Exodus 26:20 (New International Version)\nFor the other side, the north side of the tabernacle, make twenty frames";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="96885145321a",m="# Exodus 36:9 (New International Version)\nAll the curtains were the same size--twenty-eight cubits long and four cubits wide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="db08f343d642",m="# Acts 8:32 (New International Version)\nThis is the passage of Scripture the eunuch was reading:\n\"He was led like a sheep to the slaughter,  \n    and as a lamb before its shearer is silent,  \n    so he did not open his mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

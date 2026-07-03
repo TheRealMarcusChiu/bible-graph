@@ -1,0 +1,1 @@
+(function(){var b="1f38d87fef87",m="# Exodus 10:28 (New International Version)\nPharaoh said to Moses, \"Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

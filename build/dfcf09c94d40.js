@@ -1,0 +1,1 @@
+(function(){var b="dfcf09c94d40",m="# Exodus 32:33 (New International Version)\nThe LORD replied to Moses, \"Whoever has sinned against me I will blot out[^A] of my book. \n\n### Crossrefs\n[^A]: S [[Exod-17-14|Ex 17:14]]; S [[Job-21-20|Job 21:20]]; [[Rev-3-5|Rev 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

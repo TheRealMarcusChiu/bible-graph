@@ -1,0 +1,1 @@
+(function(){var b="b1078c30c389",m="# Matthew 5:26 (New International Version)\nTruly I tell you, you will not get out until you have paid the last penny.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

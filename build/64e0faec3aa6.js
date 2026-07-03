@@ -1,0 +1,1 @@
+(function(){var b="64e0faec3aa6",m="# Philippians 2:14 (New International Version)\nDo everything without grumbling[^A] or arguing, \n\n### Crossrefs\n[^A]: [[1Cor-10-10|1Co 10:10]]; [[1Pet-4-9|1Pe 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

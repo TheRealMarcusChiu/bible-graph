@@ -1,0 +1,1 @@
+(function(){var b="6cf5eec1512a",m="# Numbers 23:26 (New International Version)\nBalaam answered, \"Did I not tell you I must do whatever the LORD says?\"[^A]\n\n### Crossrefs\n[^A]: S [[Num-22-18|Nu 22:18]], [[Num-22-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

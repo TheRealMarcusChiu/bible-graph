@@ -1,0 +1,1 @@
+(function(){var b="3276f82460bb",m="# Leviticus 25:54 (New International Version)\n\"'Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

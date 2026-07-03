@@ -1,0 +1,1 @@
+(function(){var b="96304fb26433",m="# Genesis 9:22 (New International Version)\nHam, the father of Canaan, saw his father naked[^A] and told his two brothers outside. \n\n### Crossrefs\n[^A]: [[Hab-2-15|Hab 2:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

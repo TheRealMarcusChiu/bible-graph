@@ -1,0 +1,1 @@
+(function(){var b="aa64ee174cb7",m="# Leviticus 25:34 (New International Version)\nBut the pastureland belonging to their towns must not be sold; it is their permanent possession.[^A]\n\n### Crossrefs\n[^A]: [[Num-35-2|Nu 35:2-5]]; [[Ezek-48-14|Eze 48:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

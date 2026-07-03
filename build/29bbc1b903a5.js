@@ -1,0 +1,1 @@
+(function(){var b="29bbc1b903a5",m="# Numbers 7:5 (New International Version)\n\"Accept these from them, that they may be used in the work at the tent of meeting. Give them to the Levites as each man's work requires.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

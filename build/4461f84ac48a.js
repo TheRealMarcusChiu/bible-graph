@@ -1,0 +1,1 @@
+(function(){var b="4461f84ac48a",m="# Luke 11:27 (New International Version)\nAs Jesus was saying these things, a woman in the crowd called out, \"Blessed is the mother who gave you birth and nursed you.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-23-29|Lk 23:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

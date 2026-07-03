@@ -1,0 +1,1 @@
+(function(){var b="ed9860f4f1b9",m="# Matthew 24:10 (New International Version)\nAt that time many will turn away from the faith and will betray and hate each other,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

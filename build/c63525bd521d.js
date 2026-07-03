@@ -1,0 +1,1 @@
+(function(){var b="c63525bd521d",m="# Matthew 2:20 (New International Version)\nand said, \"Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child's life are dead.\"[^A]\n\n### Crossrefs\n[^A]: [[Exod-4-19|Ex 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

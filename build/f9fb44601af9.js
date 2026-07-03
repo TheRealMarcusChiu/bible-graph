@@ -1,0 +1,1 @@
+(function(){var b="f9fb44601af9",m="# Luke 1:80 (New International Version)\nAnd the child grew and became strong in spirit;[^A] and he lived in the wilderness until he appeared publicly to Israel.\n\n### Crossrefs\n[^A]: [[Luke-2-40|Lk 2:40]], [[Luke-2-52|52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

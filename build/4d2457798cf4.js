@@ -1,0 +1,1 @@
+(function(){var b="4d2457798cf4",m="# Acts 14:2 (New International Version)\nBut the Jews who refused to believe stirred up the other Gentiles and poisoned their minds against the brothers.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-1-16|Ac 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

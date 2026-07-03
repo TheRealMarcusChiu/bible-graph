@@ -1,0 +1,1 @@
+(function(){var b="7e7ffd6f5c9c",m="# Matthew 22:18 (New International Version)\nBut Jesus, knowing their evil intent, said, \"You hypocrites, why are you trying to trap me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

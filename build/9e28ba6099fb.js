@@ -1,0 +1,1 @@
+(function(){var b="9e28ba6099fb",m="# Matthew 15:39 (New International Version)\nAfter Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

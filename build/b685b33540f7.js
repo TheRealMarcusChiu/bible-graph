@@ -1,0 +1,1 @@
+(function(){var b="b685b33540f7",m="# Matthew 18:4 (New International Version)\nTherefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-9-35|Mk 9:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

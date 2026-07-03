@@ -1,0 +1,1 @@
+(function(){var b="673954a349d2",m="# Luke 9:27 (New International Version)\n\"Truly I tell you, some who are standing here will not taste death before they see the kingdom of God.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

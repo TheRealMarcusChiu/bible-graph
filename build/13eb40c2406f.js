@@ -1,0 +1,1 @@
+(function(){var b="13eb40c2406f",m="# Matthew 5:34 (New International Version)\nBut I tell you, do not swear an oath at all:[^A] either by heaven, for it is God's throne;[^B] \n\n### Crossrefs\n[^A]: [[Jas-5-12|Jas 5:12]]\n[^B]: [[Isa-66-1|Isa 66:1]]; [[Matt-23-22|Mt 23:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

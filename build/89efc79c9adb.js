@@ -1,0 +1,1 @@
+(function(){var b="89efc79c9adb",m="# Judges 9:3 (New International Version)\nWhen the brothers repeated all this to the citizens of Shechem, they were inclined to follow Abimelek, for they said, \"He is related to us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

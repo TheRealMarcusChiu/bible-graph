@@ -1,0 +1,1 @@
+(function(){var b="4a77109163b8",m="# 1 Corinthians 15:16 (New International Version)\nFor if the dead are not raised, then Christ has not been raised either.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

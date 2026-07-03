@@ -1,0 +1,1 @@
+(function(){var b="307598cf3fd1",m="# Acts 5:25 (New International Version)\nThen someone came and said, \"Look! The men you put in jail are standing in the temple courts teaching the people.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

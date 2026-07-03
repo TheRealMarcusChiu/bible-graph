@@ -1,0 +1,1 @@
+(function(){var b="dd7a6ca71d79",m="# Leviticus 14:26 (New International Version)\nThe priest is to pour some of the oil into the palm of his own left hand,[^A] \n\n### Crossrefs\n[^A]: [[Lev-14-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

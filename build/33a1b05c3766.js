@@ -1,0 +1,1 @@
+(function(){var b="33a1b05c3766",m="# Mark 4:29 (New International Version)\nAs soon as the grain is ripe, he puts the sickle to it, because the harvest has come.\"[^A]\n\n### Crossrefs\n[^A]: [[Rev-14-15|Rev 14:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

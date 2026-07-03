@@ -1,0 +1,1 @@
+(function(){var b="af26135496b6",m="# Exodus 28:18 (New International Version)\nthe second row shall be turquoise, lapis lazuli and emerald;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

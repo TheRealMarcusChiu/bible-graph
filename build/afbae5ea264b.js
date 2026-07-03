@@ -1,0 +1,1 @@
+(function(){var b="afbae5ea264b",m="# Mark 11:14 (New International Version)\nThen he said to the tree, \"May no one ever eat fruit from you again.\" And his disciples heard him say it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

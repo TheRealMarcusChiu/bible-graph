@@ -1,0 +1,1 @@
+(function(){var b="40b262f1e901",m="# Acts 16:35 (New International Version)\nWhen it was daylight, the magistrates sent their officers to the jailer with the order: \"Release those men.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

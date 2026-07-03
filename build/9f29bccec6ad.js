@@ -1,0 +1,1 @@
+(function(){var b="9f29bccec6ad",m="# John 6:10 (New International Version)\nJesus said, \"Have the people sit down.\" There was plenty of grass in that place, and they sat down (about five thousand men were there).";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

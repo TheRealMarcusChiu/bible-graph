@@ -1,0 +1,1 @@
+(function(){var b="a2f18c42c1c0",m="# Exodus 32:35 (New International Version)\nAnd the LORD struck the people with a plague because of what they did with the calf[^A] Aaron had made.\n\n### Crossrefs\n[^A]: S [[Exod-32-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

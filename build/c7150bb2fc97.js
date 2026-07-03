@@ -1,0 +1,1 @@
+(function(){var b="c7150bb2fc97",m="# Luke 1:1 (New International Version)\nIntroduction[^A]\nMany have undertaken to draw up an account of the things that have been fulfilled among us, \n\n### Crossrefs\n[^A]: [[Luke-1-1|1:1-4Ref]] — [[Acts-1-1|Ac 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

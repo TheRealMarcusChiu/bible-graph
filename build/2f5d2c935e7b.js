@@ -1,0 +1,1 @@
+(function(){var b="2f5d2c935e7b",m="# Deuteronomy 22:18 (New International Version)\nand the elders[^A] shall take the man and punish him. \n\n### Crossrefs\n[^A]: [[Exod-18-21|Ex 18:21]]; [[Deut-1-9|Dt 1:9-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

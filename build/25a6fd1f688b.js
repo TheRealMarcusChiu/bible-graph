@@ -1,0 +1,1 @@
+(function(){var b="25a6fd1f688b",m="# Judges 10:3 (New International Version)\nJair\nHe was followed by Jair[^A] of Gilead, who led Israel twenty-two years. \n\n### Crossrefs\n[^A]: S [[Num-32-41|Nu 32:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

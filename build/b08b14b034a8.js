@@ -1,0 +1,1 @@
+(function(){var b="b08b14b034a8",m="# Joshua 19:19 (New International Version)\nHapharaim, Shion, Anaharath,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

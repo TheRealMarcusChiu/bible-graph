@@ -1,0 +1,1 @@
+(function(){var b="b5806ffd2eef",m="# Numbers 8:18 (New International Version)\nAnd I have taken the Levites in place of all the firstborn sons in Israel.[^A] \n\n### Crossrefs\n[^A]: S [[Num-3-12|Nu 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

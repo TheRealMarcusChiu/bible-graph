@@ -1,0 +1,1 @@
+(function(){var b="182204e91d30",m="# 1 Thessalonians\n\nEncouragement for a young church -- holy living and the hope of Christ's return.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

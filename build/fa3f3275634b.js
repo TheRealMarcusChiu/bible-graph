@@ -1,0 +1,1 @@
+(function(){var b="fa3f3275634b",m="# Genesis 36:38 (New International Version)\nWhen Shaul died, Baal-Hanan son of Akbor succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

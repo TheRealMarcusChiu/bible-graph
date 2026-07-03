@@ -1,0 +1,1 @@
+(function(){var b="45111c275544",m="# Joshua 11:5 (New International Version)\nAll these kings joined forces[^A] and made camp together at the Waters of Merom[^B] to fight against Israel.\n\n### Crossrefs\n[^A]: [[Judg-5-19|Jdg 5:19]]\n[^B]: [[Josh-11-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

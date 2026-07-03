@@ -1,0 +1,1 @@
+(function(){var b="13c7fec43e5d",m="# Matthew 27:41 (New International Version)\nIn the same way the chief priests, the teachers of the law and the elders mocked him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

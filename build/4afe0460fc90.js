@@ -1,0 +1,1 @@
+(function(){var b="4afe0460fc90",m="# Matthew 19:8 (New International Version)\nJesus replied, \"Moses permitted you to divorce your wives because your hearts were hard. But it was not this way from the beginning.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

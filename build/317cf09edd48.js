@@ -1,0 +1,1 @@
+(function(){var b="317cf09edd48",m="# Mark 6:9 (New International Version)\nWear sandals but not an extra shirt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

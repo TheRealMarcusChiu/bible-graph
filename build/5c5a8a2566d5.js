@@ -1,0 +1,1 @@
+(function(){var b="5c5a8a2566d5",m="# Acts 7:25 (New International Version)\nMoses thought that his own people would realize that God was using him to rescue them, but they did not.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

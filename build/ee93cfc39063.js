@@ -1,0 +1,1 @@
+(function(){var b="ee93cfc39063",m="# John 18:34 (New International Version)\n\"Is that your own idea,\" Jesus asked, \"or did others talk to you about me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

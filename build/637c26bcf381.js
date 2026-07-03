@@ -1,0 +1,1 @@
+(function(){var b="637c26bcf381",m="# Judges 8:16 (New International Version)\nHe took the elders of the town and taught the men of Sukkoth a lesson[^A] by punishing them with desert thorns and briers. \n\n### Crossrefs\n[^A]: [[1Sam-14-12|1Sa 14:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

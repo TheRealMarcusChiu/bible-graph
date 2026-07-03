@@ -1,0 +1,1 @@
+(function(){var b="1d30487785f2",m="# Numbers 11:34 (New International Version)\nTherefore the place was named Kibroth Hattaavah,[^A] because there they buried the people who had craved other food.\n\n### Crossrefs\n[^A]: [[Num-33-16|Nu 33:16]]; [[Deut-9-22|Dt 9:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

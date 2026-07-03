@@ -1,0 +1,1 @@
+(function(){var b="834a940f81f8",m="# Numbers 3:22 (New International Version)\nThe number of all the males a month old or more who were counted was 7,500.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

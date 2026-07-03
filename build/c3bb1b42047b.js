@@ -1,0 +1,1 @@
+(function(){var b="c3bb1b42047b",m="# Joshua 19:35 (New International Version)\nThe fortified towns were Ziddim, Zer, Hammath,[^A] Rakkath, Kinnereth,[^B] \n\n### Crossrefs\n[^A]: [[1Chr-2-55|1Ch 2:55]]\n[^B]: S [[Josh-11-2|Jos 11:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

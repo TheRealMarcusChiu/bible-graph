@@ -1,0 +1,1 @@
+(function(){var b="64e1649b409d",m="# Luke 20:39 (New International Version)\nSome of the teachers of the law responded, \"Well said, teacher!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

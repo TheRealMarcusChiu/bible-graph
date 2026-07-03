@@ -1,0 +1,1 @@
+(function(){var b="e9bfbc606c48",m="# Numbers 3:21 (New International Version)\nTo Gershon[^A] belonged the clans of the Libnites and Shimeites;[^B] these were the Gershonite clans. \n\n### Crossrefs\n[^A]: S [[Gen-46-11|Ge 46:11]]\n[^B]: [[Exod-6-17|Ex 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

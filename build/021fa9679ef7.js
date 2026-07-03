@@ -1,0 +1,1 @@
+(function(){var b="021fa9679ef7",m="# Numbers 31:52 (New International Version)\nAll the gold from the commanders of thousands and commanders of hundreds that Moses and Eleazar presented as a gift to the LORD weighed 16,750 shekels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

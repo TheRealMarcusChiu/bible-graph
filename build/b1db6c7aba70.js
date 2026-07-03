@@ -1,0 +1,1 @@
+(function(){var b="b1db6c7aba70",m="# Joshua 10:35 (New International Version)\nThey captured it that same day and put it to the sword and totally destroyed everyone in it, just as they had done to Lachish.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

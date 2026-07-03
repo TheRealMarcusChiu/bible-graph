@@ -1,0 +1,1 @@
+(function(){var b="50635106f09a",m="# Deuteronomy 18:21 (New International Version)\nYou may say to yourselves, \"How can we know when a message has not been spoken by the LORD?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

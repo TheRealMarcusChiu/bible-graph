@@ -1,0 +1,1 @@
+(function(){var b="f837665c4380",m="# 1 Corinthians 8:11 (New International Version)\nSo this weak brother or sister, for whom Christ died, is destroyed[^A] by your knowledge. \n\n### Crossrefs\n[^A]: [[Rom-14-15|Ro 14:15]], [[Rom-14-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

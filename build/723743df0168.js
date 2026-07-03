@@ -1,0 +1,1 @@
+(function(){var b="723743df0168",m="# Exodus 35:1 (New International Version)\nSabbath Regulations\nMoses assembled the whole Israelite community and said to them, \"These are the things the LORD has commanded[^A] you to do: \n\n### Crossrefs\n[^A]: S [[Exod-34-32|Ex 34:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

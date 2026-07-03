@@ -1,0 +1,1 @@
+(function(){var b="6faa772ce9fc",m="# Judges 1:30 (New International Version)\nNeither did Zebulun drive out the Canaanites living in Kitron or Nahalol, so these Canaanites lived among them, but Zebulun did subject them to forced labor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

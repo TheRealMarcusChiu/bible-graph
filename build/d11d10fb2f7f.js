@@ -1,0 +1,1 @@
+(function(){var b="d11d10fb2f7f",m="# Mark 15:27 (New International Version)\nThey crucified two rebels with him, one on his right and one on his left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

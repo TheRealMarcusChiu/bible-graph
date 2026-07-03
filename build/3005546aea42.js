@@ -1,0 +1,1 @@
+(function(){var b="3005546aea42",m="# Exodus 35:24 (New International Version)\nThose presenting an offering of silver or bronze brought it as an offering to the LORD, and everyone who had acacia wood for any part of the work brought it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="222b3dfff79d",m="# John 19:22 (New International Version)\nPilate answered, \"What I have written, I have written.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cfdacdd90d29",m="# Hebrews 10:31 (New International Version)\nIt is a dreadful thing[^A] to fall into the hands[^B] of the living God.[^C]\n\n### Crossrefs\n[^A]: S [[2Cor-5-11|2Co 5:11]]\n[^B]: [[Isa-19-16|Isa 19:16]]\n[^C]: S [[Matt-16-16|Mt 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="81336b4aa108",m="# John 9:25 (New International Version)\nHe replied, \"Whether he is a sinner or not, I don't know. One thing I do know. I was blind but now I see!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

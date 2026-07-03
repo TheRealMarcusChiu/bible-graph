@@ -1,0 +1,1 @@
+(function(){var b="335c08a76868",m="# 1 Timothy 3:13 (New International Version)\nThose who have served well gain an excellent standing and great assurance in their faith in Christ Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

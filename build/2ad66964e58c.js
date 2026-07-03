@@ -1,0 +1,1 @@
+(function(){var b="2ad66964e58c",m="# Judges 11:32 (New International Version)\nThen Jephthah went over to fight the Ammonites, and the LORD gave them into his hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

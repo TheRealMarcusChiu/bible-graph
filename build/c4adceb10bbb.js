@@ -1,0 +1,1 @@
+(function(){var b="c4adceb10bbb",m="# John 11:7 (New International Version)\nand then he said to his disciples, \"Let us go back to Judea.\"[^A]\n\n### Crossrefs\n[^A]: [[John-10-40|Jn 10:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

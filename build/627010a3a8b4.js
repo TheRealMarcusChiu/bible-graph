@@ -1,0 +1,1 @@
+(function(){var b="627010a3a8b4",m="# 2 John 5 (New International Version)\nAnd now, dear lady, I am not writing you a new command but one we have had from the beginning.[^A] I ask that we love one another. \n\n### Crossrefs\n[^A]: S [[1John-2-7|1Jn 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4bd83856ee40",m="# John 6:4 (New International Version)\nThe Jewish Passover Festival[^A] was near.\n\n### Crossrefs\n[^A]: S [[John-11-55|Jn 11:55]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

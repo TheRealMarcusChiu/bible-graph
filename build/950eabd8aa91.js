@@ -1,0 +1,1 @@
+(function(){var b="950eabd8aa91",m="# Joshua 15:39 (New International Version)\nLachish,[^A] Bozkath,[^B] Eglon,[^C] \n\n### Crossrefs\n[^A]: S [[Josh-10-3|Jos 10:3]]\n[^B]: [[2Kgs-22-1|2Ki 22:1]]\n[^C]: S [[Josh-10-3|Jos 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

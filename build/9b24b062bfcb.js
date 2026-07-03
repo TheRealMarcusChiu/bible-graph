@@ -1,0 +1,1 @@
+(function(){var b="9b24b062bfcb",m="# Luke 24:53 (New International Version)\nAnd they stayed continually at the temple,[^A] praising God.\n\n### Crossrefs\n[^A]: S [[Acts-2-46|Ac 2:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

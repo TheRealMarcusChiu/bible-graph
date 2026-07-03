@@ -1,0 +1,1 @@
+(function(){var b="3e76348375c5",m="# Acts 19:28 (New International Version)\nWhen they heard this, they were furious and began shouting: \"Great is Artemis of the Ephesians!\"[^A] \n\n### Crossrefs\n[^A]: S [[Acts-18-19|Ac 18:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

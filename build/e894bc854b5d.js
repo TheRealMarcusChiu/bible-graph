@@ -1,0 +1,1 @@
+(function(){var b="e894bc854b5d",m="# Exodus 11:2 (New International Version)\nTell the people that men and women alike are to ask their neighbors for articles of silver and gold.\"[^A] \n\n### Crossrefs\n[^A]: S [[Exod-3-21|Ex 3:21]], [[Exod-3-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

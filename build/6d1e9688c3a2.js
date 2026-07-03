@@ -1,0 +1,1 @@
+(function(){var b="6d1e9688c3a2",m="# Acts 10:37 (New International Version)\nYou know what has happened throughout the province of Judea, beginning in Galilee after the baptism that John preached--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

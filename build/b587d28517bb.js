@@ -1,0 +1,1 @@
+(function(){var b="b587d28517bb",m="# Exodus 38:5 (New International Version)\nThey cast bronze rings to hold the poles for the four corners of the bronze grating.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

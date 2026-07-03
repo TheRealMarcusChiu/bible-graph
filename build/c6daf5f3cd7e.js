@@ -1,0 +1,1 @@
+(function(){var b="c6daf5f3cd7e",m="# Matthew 27:28 (New International Version)\nThey stripped him and put a scarlet robe on him,[^A] \n\n### Crossrefs\n[^A]: [[John-19-2|Jn 19:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

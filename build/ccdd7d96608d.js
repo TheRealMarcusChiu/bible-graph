@@ -1,0 +1,1 @@
+(function(){var b="ccdd7d96608d",m="# Mark 14:4 (New International Version)\nSome of those present were saying indignantly to one another, \"Why this waste of perfume?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

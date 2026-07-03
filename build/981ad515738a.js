@@ -1,0 +1,1 @@
+(function(){var b="981ad515738a",m="# Deuteronomy 26:4 (New International Version)\nThe priest shall take the basket from your hands and set it down in front of the altar of the LORD your God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

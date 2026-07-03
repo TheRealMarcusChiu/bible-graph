@@ -1,0 +1,1 @@
+(function(){var b="572943d7d49e",m="# Exodus 29:16 (New International Version)\nSlaughter it and take the blood and splash it against the sides of the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

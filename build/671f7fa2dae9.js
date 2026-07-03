@@ -1,0 +1,1 @@
+(function(){var b="671f7fa2dae9",m="# Mark 1:36 (New International Version)\nSimon and his companions went to look for him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

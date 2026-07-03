@@ -1,0 +1,1 @@
+(function(){var b="7c8aced85a48",m="# Luke 7:49 (New International Version)\nThe other guests began to say among themselves, \"Who is this who even forgives sins?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5034839dc6af",m="# John 21:13 (New International Version)\nJesus came, took the bread and gave it to them, and did the same with the fish.[^A] \n\n### Crossrefs\n[^A]: [[John-21-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

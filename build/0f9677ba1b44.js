@@ -1,0 +1,1 @@
+(function(){var b="0f9677ba1b44",m="# Deuteronomy 21:20 (New International Version)\nThey shall say to the elders, \"This son of ours is stubborn and rebellious. He will not obey us. He is a glutton and a drunkard.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

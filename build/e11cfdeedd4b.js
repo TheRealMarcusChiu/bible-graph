@@ -1,0 +1,1 @@
+(function(){var b="e11cfdeedd4b",m="# Numbers 2:14 (New International Version)\nThe tribe of Gad[^A] will be next. The leader of the people of Gad is Eliasaph son of Deuel.[^B] \n\n### Crossrefs\n[^A]: [[Num-10-20|Nu 10:20]]\n[^B]: [[Num-1-14|Nu 1:14]]; [[Num-10-20|10:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

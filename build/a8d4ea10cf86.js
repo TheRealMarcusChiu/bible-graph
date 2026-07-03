@@ -1,0 +1,1 @@
+(function(){var b="a8d4ea10cf86",m="# 1 Peter 2:13 (New International Version)\nSubmit yourselves for the Lord's sake to every human authority:[^A] whether to the emperor, as the supreme authority, \n\n### Crossrefs\n[^A]: [[Rom-13-1|Ro 13:1]]; [[Titus-3-1|Tit 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="98a266d1bf31",m="# Genesis 42:26 (New International Version)\nthey loaded their grain on their donkeys[^A] and left.\n\n### Crossrefs\n[^A]: S [[Gen-32-15|Ge 32:15]]; [[Gen-44-13|44:13]]; [[Gen-45-17|45:17]]; [[1Sam-25-18|1Sa 25:18]]; [[Isa-30-6|Isa 30:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

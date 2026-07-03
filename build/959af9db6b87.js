@@ -1,0 +1,1 @@
+(function(){var b="959af9db6b87",m="# Mark 3:18 (New International Version)\nAndrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Zealot";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a2bf6d8223e6",m="# 1 Peter 4:8 (New International Version)\nAbove all, love each other deeply,[^A] because love covers over a multitude of sins.[^B] \n\n### Crossrefs\n[^A]: S [[1Pet-1-22|1Pe 1:22]]\n[^B]: [[Prov-10-12|Pr 10:12]]; [[Jas-5-20|Jas 5:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fb70d7fed51b",m="# Exodus 39:22 (New International Version)\nOther Priestly Garments[^A]\nThey made the robe of the ephod entirely of blue cloth--the work of a weaver-- \n\n### Crossrefs\n[^A]: [[Exod-39-22|39:22-31pp]] — [[Exod-28-31|Ex 28:31-43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a64ec0d59019",m="# Numbers 3:51 (New International Version)\nMoses gave the redemption money to Aaron and his sons, as he was commanded by the word of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

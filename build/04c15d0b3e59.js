@@ -1,0 +1,1 @@
+(function(){var b="04c15d0b3e59",m="# Matthew 22:31 (New International Version)\nBut about the resurrection of the dead--have you not read what God said to you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

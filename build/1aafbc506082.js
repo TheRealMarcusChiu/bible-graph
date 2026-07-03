@@ -1,0 +1,1 @@
+(function(){var b="1aafbc506082",m="# Acts 4:17 (New International Version)\nBut to stop this thing from spreading any further among the people, we must warn them to speak no longer to anyone in this name.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

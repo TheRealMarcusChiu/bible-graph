@@ -1,0 +1,1 @@
+(function(){var b="fdc66a1c1e6a",m="# Colossians 3:20 (New International Version)\nChildren, obey your parents in everything, for this pleases the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

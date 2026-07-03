@@ -1,0 +1,1 @@
+(function(){var b="2db89a339db5",m="# Matthew 24:50 (New International Version)\nThe master of that servant will come on a day when he does not expect him and at an hour he is not aware of.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

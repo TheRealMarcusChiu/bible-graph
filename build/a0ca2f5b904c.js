@@ -1,0 +1,1 @@
+(function(){var b="a0ca2f5b904c",m="# Judges 1:5 (New International Version)\nIt was there that they found Adoni-Bezek[^A] and fought against him, putting to rout the Canaanites and Perizzites. \n\n### Crossrefs\n[^A]: [[Judg-1-6|ver 6]], [[Judg-1-7|7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

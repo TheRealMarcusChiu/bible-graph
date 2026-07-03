@@ -1,0 +1,1 @@
+(function(){var b="42330b80fcd4",m="# John 6:41 (New International Version)\nAt this the Jews there began to grumble about him because he said, \"I am the bread that came down from heaven.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2f09adb1835d",m="# Luke 7:23 (New International Version)\nBlessed is anyone who does not stumble on account of me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8b44d7b018fe",m="# Luke 3:38 (New International Version)\nthe son of Enosh,\nthe son of Seth, the son of Adam,\nthe son of God.[^A]\n\n### Crossrefs\n[^A]: [[Gen-5-1|Ge 5:1]], [[Gen-5-2|2]], [[Gen-5-6|6-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

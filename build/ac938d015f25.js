@@ -1,0 +1,1 @@
+(function(){var b="ac938d015f25",m="# 2 Thessalonians 3\n\nStanding firm amid persecution and correcting alarm about the day of the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

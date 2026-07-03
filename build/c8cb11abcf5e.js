@@ -1,0 +1,1 @@
+(function(){var b="c8cb11abcf5e",m="# 2 Chronicles\n\nSolomon and the kings of Judah retold, from the temple's building to its destruction and the decree of return.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

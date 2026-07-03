@@ -1,0 +1,1 @@
+(function(){var b="0c8dc844c010",m="# Matthew 27:21 (New International Version)\n\"Which of the two do you want me to release to you?\" asked the governor.\n\"Barabbas,\" they answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

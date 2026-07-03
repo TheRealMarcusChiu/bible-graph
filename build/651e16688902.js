@@ -1,0 +1,1 @@
+(function(){var b="651e16688902",m="# Revelation 9:19 (New International Version)\nThe power of the horses was in their mouths and in their tails; for their tails were like snakes, having heads with which they inflict injury.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

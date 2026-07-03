@@ -1,0 +1,1 @@
+(function(){var b="244b08573a07",m="# Exodus 26:22 (New International Version)\nMake six frames for the far end, that is, the west end of the tabernacle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

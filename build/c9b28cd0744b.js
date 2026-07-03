@@ -1,0 +1,1 @@
+(function(){var b="c9b28cd0744b",m="# Numbers 8:25 (New International Version)\nbut at the age of fifty,[^A] they must retire from their regular service and work no longer. \n\n### Crossrefs\n[^A]: S [[Num-4-3|Nu 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

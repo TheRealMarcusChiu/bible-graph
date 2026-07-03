@@ -1,0 +1,1 @@
+(function(){var b="db1da4bebc94",m="# Acts 2:40 (New International Version)\nWith many other words he warned them; and he pleaded with them, \"Save yourselves from this corrupt generation.\"[^A] \n\n### Crossrefs\n[^A]: [[Deut-32-5|Dt 32:5]]; [[Phil-2-15|Php 2:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

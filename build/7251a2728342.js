@@ -1,0 +1,1 @@
+(function(){var b="7251a2728342",m="# Numbers 14:28 (New International Version)\nSo tell them, 'As surely as I live,[^A] declares the LORD, I will do to you[^B] the very thing I heard you say: \n\n### Crossrefs\n[^A]: S [[Num-14-21|ver 21]]\n[^B]: [[Num-33-56|Nu 33:56]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

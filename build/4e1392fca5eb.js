@@ -1,0 +1,1 @@
+(function(){var b="4e1392fca5eb",m="# Romans 15:7 (New International Version)\nAccept one another,[^A] then, just as Christ accepted you, in order to bring praise to God. \n\n### Crossrefs\n[^A]: [[Rom-14-1|Ro 14:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

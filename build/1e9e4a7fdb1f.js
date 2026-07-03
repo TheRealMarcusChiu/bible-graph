@@ -1,0 +1,1 @@
+(function(){var b="1e9e4a7fdb1f",m="# Leviticus 25:29 (New International Version)\n\"'Anyone who sells a house in a walled city retains the right of redemption a full year after its sale. During that time the seller may redeem it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

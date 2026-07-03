@@ -1,0 +1,1 @@
+(function(){var b="13e30cf03674",m="# Matthew 15:1 (New International Version)\nThat Which Defiles[^A]\nThen some Pharisees and teachers of the law came to Jesus from Jerusalem and asked, \n\n### Crossrefs\n[^A]: [[Matt-15-1|15:1-20pp]] — [[Mark-7-1|Mk 7:1-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

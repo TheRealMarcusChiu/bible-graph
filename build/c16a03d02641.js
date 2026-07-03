@@ -1,0 +1,1 @@
+(function(){var b="c16a03d02641",m="# Matthew 1:7 (New International Version)\nSolomon the father of Rehoboam,\nRehoboam the father of Abijah,\nAbijah the father of Asa,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

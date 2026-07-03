@@ -1,0 +1,1 @@
+(function(){var b="6da6a88a1be7",m="# Acts 9:6 (New International Version)\n\"Now get up and go into the city, and you will be told what you must do.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-9-16|ver 16]]; [[Ezek-3-22|Eze 3:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

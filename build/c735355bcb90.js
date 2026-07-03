@@ -1,0 +1,1 @@
+(function(){var b="c735355bcb90",m="# John 6:67 (New International Version)\n\"You do not want to leave too, do you?\" Jesus asked the Twelve.[^A]\n\n### Crossrefs\n[^A]: [[Matt-10-2|Mt 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

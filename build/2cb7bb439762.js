@@ -1,0 +1,1 @@
+(function(){var b="2cb7bb439762",m="# Numbers 20:23 (New International Version)\nAt Mount Hor, near the border of Edom,[^A] the LORD said to Moses and Aaron, \n\n### Crossrefs\n[^A]: S [[Num-20-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

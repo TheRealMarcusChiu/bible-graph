@@ -1,0 +1,1 @@
+(function(){var b="11e24b304f15",m="# Numbers 1:46 (New International Version)\nThe total number was 603,550.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-12-37|Ex 12:37]]; [[2Sam-24-9|2Sa 24:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

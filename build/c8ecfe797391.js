@@ -1,0 +1,1 @@
+(function(){var b="c8ecfe797391",m="# 1 Corinthians 9:23 (New International Version)\nI do all this for the sake of the gospel, that I may share in its blessings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

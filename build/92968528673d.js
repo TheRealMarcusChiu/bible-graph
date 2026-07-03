@@ -1,0 +1,1 @@
+(function(){var b="92968528673d",m="# Mark 8:28 (New International Version)\nThey replied, \"Some say John the Baptist;[^A] others say Elijah;[^B] and still others, one of the prophets.\"\n\n### Crossrefs\n[^A]: S [[Matt-3-1|Mt 3:1]]\n[^B]: [[Mal-4-5|Mal 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

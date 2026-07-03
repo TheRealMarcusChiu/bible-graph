@@ -1,0 +1,1 @@
+(function(){var b="0b1521423310",m="# Matthew 24:16 (New International Version)\nthen let those who are in Judea flee to the mountains.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

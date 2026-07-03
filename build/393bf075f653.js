@@ -1,0 +1,1 @@
+(function(){var b="393bf075f653",m="# 1 Corinthians 4:3 (New International Version)\nI care very little if I am judged by you or by any human court; indeed, I do not even judge myself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

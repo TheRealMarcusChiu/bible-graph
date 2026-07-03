@@ -1,0 +1,1 @@
+(function(){var b="6f55a873e7e0",m="# John 9:32 (New International Version)\nNobody has ever heard of opening the eyes of a man born blind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

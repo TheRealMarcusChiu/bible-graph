@@ -1,0 +1,1 @@
+(function(){var b="0ff9fae169f2",m="# Mark 1:23 (New International Version)\nJust then a man in their synagogue who was possessed by an impure spirit cried out,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba66ea8b027e",m="# Exodus 21:34 (New International Version)\nthe one who opened the pit must pay the owner for the loss and take the dead animal in exchange.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

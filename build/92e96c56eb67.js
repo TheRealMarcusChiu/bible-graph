@@ -1,0 +1,1 @@
+(function(){var b="92e96c56eb67",m="# Genesis 30:12 (New International Version)\nLeah's servant Zilpah bore Jacob a second son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

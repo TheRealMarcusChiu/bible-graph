@@ -1,0 +1,1 @@
+(function(){var b="5800486d7227",m="# Acts 9:29 (New International Version)\nHe talked and debated with the Hellenistic Jews,[^A] but they tried to kill him.[^B] \n\n### Crossrefs\n[^A]: [[Acts-6-1|Ac 6:1]]\n[^B]: [[2Cor-11-26|2Co 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

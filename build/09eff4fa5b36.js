@@ -1,0 +1,1 @@
+(function(){var b="09eff4fa5b36",m="# John 20:11 (New International Version)\nJesus Appears to Mary Magdalene\nNow Mary stood outside the tomb crying. As she wept, she bent over to look into the tomb[^A] \n\n### Crossrefs\n[^A]: [[John-20-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

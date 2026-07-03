@@ -1,0 +1,1 @@
+(function(){var b="955c6a2df8e2",m="# Leviticus 15:22 (New International Version)\nAnyone who touches anything she sits on will be unclean; they must wash their clothes and bathe with water, and they will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

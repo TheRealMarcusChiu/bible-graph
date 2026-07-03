@@ -1,0 +1,1 @@
+(function(){var b="b74b8d9e0007",m="# Joshua 17\n\nThe conquest of Canaan and the division of the land among the twelve tribes under Joshua.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

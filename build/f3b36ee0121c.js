@@ -1,0 +1,1 @@
+(function(){var b="f3b36ee0121c",m="# Luke 24:45 (New International Version)\nThen he opened their minds so they could understand the Scriptures.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

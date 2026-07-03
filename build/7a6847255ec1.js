@@ -1,0 +1,1 @@
+(function(){var b="7a6847255ec1",m="# Joshua 22:12 (New International Version)\nthe whole assembly of Israel gathered at Shiloh[^A] to go to war against them.\n\n### Crossrefs\n[^A]: [[Josh-18-1|Jos 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

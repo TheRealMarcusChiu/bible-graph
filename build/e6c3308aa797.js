@@ -1,0 +1,1 @@
+(function(){var b="e6c3308aa797",m="# Numbers 31:35 (New International Version)\nand 32,000 women who had never slept with a man.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

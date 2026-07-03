@@ -1,0 +1,1 @@
+(function(){var b="2b1dc16f9766",m="# Acts 26:30 (New International Version)\nThe king rose, and with him the governor and Bernice[^A] and those sitting with them. \n\n### Crossrefs\n[^A]: [[Acts-25-23|Ac 25:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aed4694f4964",m="# Leviticus 15:11 (New International Version)\n\"'Anyone the man with a discharge touches without rinsing his hands with water must wash their clothes and bathe with water, and they will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

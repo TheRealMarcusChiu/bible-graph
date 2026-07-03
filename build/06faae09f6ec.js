@@ -1,0 +1,1 @@
+(function(){var b="06faae09f6ec",m="# Matthew 7:27 (New International Version)\nThe rain came down, the streams rose, and the winds blew and beat against that house, and it fell with a great crash.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

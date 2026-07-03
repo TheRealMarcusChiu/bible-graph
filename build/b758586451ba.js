@@ -1,0 +1,1 @@
+(function(){var b="b758586451ba",m="# John 16:31 (New International Version)\n\"Do you now believe?\" Jesus replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

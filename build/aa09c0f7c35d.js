@@ -1,0 +1,1 @@
+(function(){var b="aa09c0f7c35d",m="# Mark 11:22 (New International Version)\n\"Have faith in God,\" Jesus answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

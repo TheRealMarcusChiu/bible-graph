@@ -1,0 +1,1 @@
+(function(){var b="3199c6a729cb",m="# 3 John 2 (New International Version)\nDear friend, I pray that you may enjoy good health and that all may go well with you, even as your soul is getting along well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b0a9ade14b31",m="# 1 Peter 4\n\nHope for exiles -- standing firm in grace through suffering, following Christ's example.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

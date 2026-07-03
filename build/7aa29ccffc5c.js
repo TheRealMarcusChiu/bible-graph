@@ -1,0 +1,1 @@
+(function(){var b="7aa29ccffc5c",m="# Exodus 38:10 (New International Version)\nwith twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d04dc4622555",m="# Genesis 21:31 (New International Version)\nSo that place was called Beersheba,[^A] because the two men swore an oath[^B] there.\n\n### Crossrefs\n[^A]: S [[Gen-21-14|ver 14]]\n[^B]: S [[Gen-21-23|ver 23]],S [[Gen-21-27|27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

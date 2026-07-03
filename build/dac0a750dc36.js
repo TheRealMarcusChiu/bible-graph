@@ -1,0 +1,1 @@
+(function(){var b="dac0a750dc36",m="# Mark 3\n\nA fast-moving account of Jesus the Son of God, the servant who gives his life as a ransom for many.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

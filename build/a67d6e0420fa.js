@@ -1,0 +1,1 @@
+(function(){var b="a67d6e0420fa",m="# Leviticus 21:15 (New International Version)\nso that he will not defile his offspring among his people. I am the LORD, who makes him holy.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

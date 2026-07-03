@@ -1,0 +1,1 @@
+(function(){var b="fe405e5917a9",m="# Leviticus 7:35 (New International Version)\nThis is the portion of the food offerings presented to the LORD that were allotted to Aaron and his sons on the day they were presented to serve the LORD as priests.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

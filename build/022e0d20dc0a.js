@@ -1,0 +1,1 @@
+(function(){var b="022e0d20dc0a",m="# Mark 3:17 (New International Version)\nJames son of Zebedee and his brother John (to them he gave the name Boanerges, which means \"sons of thunder\"),";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

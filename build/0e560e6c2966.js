@@ -1,0 +1,1 @@
+(function(){var b="0e560e6c2966",m="# Joshua 21:30 (New International Version)\nfrom the tribe of Asher,[^A]\nMishal,[^B] Abdon,[^C] \n\n### Crossrefs\n[^A]: S [[Josh-17-7|Jos 17:7]]\n[^B]: [[Josh-19-26|Jos 19:26]]\n[^C]: S [[Josh-19-28|Jos 19:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f2d901ed27f9",m="# Mark 13:17 (New International Version)\nHow dreadful it will be in those days for pregnant women and nursing mothers![^A] \n\n### Crossrefs\n[^A]: [[Luke-23-29|Lk 23:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

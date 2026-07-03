@@ -1,0 +1,1 @@
+(function(){var b="b78aad8331af",m="# Acts 20:37 (New International Version)\nThey all wept as they embraced him and kissed him.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-15-20|Lk 15:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

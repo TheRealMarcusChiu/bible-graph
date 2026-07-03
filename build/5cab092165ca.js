@@ -1,0 +1,1 @@
+(function(){var b="5cab092165ca",m="# Matthew 15:27 (New International Version)\n\"Yes it is, Lord,\" she said. \"Even the dogs eat the crumbs that fall from their master's table.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

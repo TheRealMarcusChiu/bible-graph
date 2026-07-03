@@ -1,0 +1,1 @@
+(function(){var b="e668ffcb60fa",m="# Ephesians 5:7 (New International Version)\nTherefore do not be partners with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fadf4d927993",m="# John 18:38 (New International Version)\n\"What is truth?\" retorted Pilate. With this he went out again to the Jews gathered there and said, \"I find no basis for a charge against him.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-23-4|Lk 23:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

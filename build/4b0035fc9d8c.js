@@ -1,0 +1,1 @@
+(function(){var b="4b0035fc9d8c",m="# Numbers 7:11 (New International Version)\nFor the LORD had said to Moses, \"Each day one leader is to bring his offering for the dedication of the altar.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

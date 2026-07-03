@@ -1,0 +1,1 @@
+(function(){var b="ce7e43378371",m="# Galatians 3:3 (New International Version)\nAre you so foolish? After beginning by means of the Spirit, are you now trying to finish by means of the flesh?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

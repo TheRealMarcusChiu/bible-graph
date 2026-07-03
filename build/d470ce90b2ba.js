@@ -1,0 +1,1 @@
+(function(){var b="d470ce90b2ba",m="# Genesis 42:30 (New International Version)\n\"The man who is lord over the land spoke harshly to us[^A] and treated us as though we were spying on the land.[^B] \n\n### Crossrefs\n[^A]: [[Gen-42-7|ver 7]]\n[^B]: S [[Gen-42-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

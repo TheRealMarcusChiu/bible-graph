@@ -1,0 +1,1 @@
+(function(){var b="737f35c83e79",m="# Leviticus 8:5 (New International Version)\nMoses said to the assembly, \"This is what the LORD has commanded to be done.[^A]\" \n\n### Crossrefs\n[^A]: [[Exod-29-1|Ex 29:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

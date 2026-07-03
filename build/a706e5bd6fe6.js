@@ -1,0 +1,1 @@
+(function(){var b="a706e5bd6fe6",m="# Joshua 15:20 (New International Version)\nThis is the inheritance of the tribe of Judah, according to its clans:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

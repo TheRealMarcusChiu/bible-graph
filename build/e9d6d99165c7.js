@@ -1,0 +1,1 @@
+(function(){var b="e9d6d99165c7",m="# Genesis 10:27 (New International Version)\nHadoram, Uzal,[^A] Diklah, \n\n### Crossrefs\n[^A]: [[Ezek-27-19|Eze 27:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

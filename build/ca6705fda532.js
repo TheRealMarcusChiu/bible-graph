@@ -1,0 +1,1 @@
+(function(){var b="ca6705fda532",m="# Leviticus 15:6 (New International Version)\nWhoever sits on anything that the man with a discharge sat on must wash their clothes and bathe with water, and they will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

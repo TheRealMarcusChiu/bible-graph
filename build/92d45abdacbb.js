@@ -1,0 +1,1 @@
+(function(){var b="92d45abdacbb",m="# Matthew 27:4 (New International Version)\n\"I have sinned,\" he said, \"for I have betrayed innocent blood.\"\n\"What is that to us?\" they replied. \"That's your responsibility.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-27-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

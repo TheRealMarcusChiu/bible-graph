@@ -1,0 +1,1 @@
+(function(){var b="d9806e054983",m="# 2 Corinthians 11:11 (New International Version)\nWhy? Because I do not love you? God knows[^A] I do![^B]\n\n### Crossrefs\n[^A]: [[2Cor-11-31|ver 31]]; S [[Rom-1-9|Ro 1:9]]\n[^B]: [[2Cor-12-15|2Co 12:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

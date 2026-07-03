@@ -1,0 +1,1 @@
+(function(){var b="24aa607f8df6",m="# John 9:20 (New International Version)\n\"We know he is our son,\" the parents answered, \"and we know he was born blind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

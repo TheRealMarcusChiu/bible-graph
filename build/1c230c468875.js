@@ -1,0 +1,1 @@
+(function(){var b="1c230c468875",m="# Numbers 34:9 (New International Version)\ncontinue to Ziphron and end at Hazar Enan. This will be your boundary on the north.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

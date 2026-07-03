@@ -1,0 +1,1 @@
+(function(){var b="90917b536279",m="# Joshua 15:24 (New International Version)\nZiph,[^A] Telem, Bealoth, \n\n### Crossrefs\n[^A]: [[Josh-15-55|ver 55]]; [[1Sam-23-14|1Sa 23:14]]; [[2Chr-11-8|2Ch 11:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

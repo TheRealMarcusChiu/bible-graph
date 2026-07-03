@@ -1,0 +1,1 @@
+(function(){var b="75fdaf0720c5",m="# John 7\n\nThe Word made flesh -- seven signs and \"I am\" sayings, written so that readers may believe and have life.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

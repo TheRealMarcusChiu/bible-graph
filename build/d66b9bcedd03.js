@@ -1,0 +1,1 @@
+(function(){var b="d66b9bcedd03",m="# Acts 4:25 (New International Version)\nYou spoke by the Holy Spirit through the mouth of your servant, our father David:[^A]\n\"'Why do the nations rage  \n    and the peoples plot in vain?\n\n### Crossrefs\n[^A]: [[Acts-1-16|Ac 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

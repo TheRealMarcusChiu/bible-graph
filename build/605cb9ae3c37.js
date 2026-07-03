@@ -1,0 +1,1 @@
+(function(){var b="605cb9ae3c37",m="# Philippians 1:3 (New International Version)\nThanksgiving and Prayer\nI thank my God every time I remember you.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-1-8|Ro 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="785c020924db",m="# Luke 6:15 (New International Version)\nMatthew,[^A] Thomas, James son of Alphaeus, Simon who was called the Zealot, \n\n### Crossrefs\n[^A]: [[Matt-9-9|Mt 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

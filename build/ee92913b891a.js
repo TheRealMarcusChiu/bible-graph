@@ -1,0 +1,1 @@
+(function(){var b="ee92913b891a",m="# Mark 3:35 (New International Version)\nWhoever does God's will is my brother and sister and mother.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

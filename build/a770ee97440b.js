@@ -1,0 +1,1 @@
+(function(){var b="a770ee97440b",m="# Luke 2:46 (New International Version)\nAfter three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

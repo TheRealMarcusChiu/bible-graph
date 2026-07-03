@@ -1,0 +1,1 @@
+(function(){var b="98f2e8323a10",m="# Leviticus 14:57 (New International Version)\nto determine when something is clean or unclean.\nThese are the regulations for defiling skin diseases and defiling molds.[^A]\n\n### Crossrefs\n[^A]: S [[Lev-10-10|Lev 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

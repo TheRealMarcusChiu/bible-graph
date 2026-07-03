@@ -1,0 +1,1 @@
+(function(){var b="07f5c5ae065f",m="# Luke 7:25 (New International Version)\nIf not, what did you go out to see? A man dressed in fine clothes? No, those who wear expensive clothes and indulge in luxury are in palaces.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

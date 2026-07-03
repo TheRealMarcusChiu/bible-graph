@@ -1,0 +1,1 @@
+(function(){var b="8dab2983cb8d",m="# Luke 20:4 (New International Version)\nJohn's baptism[^A]--was it from heaven, or of human origin?\"\n\n### Crossrefs\n[^A]: S [[Mark-1-4|Mk 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

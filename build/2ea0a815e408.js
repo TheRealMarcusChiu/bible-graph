@@ -1,0 +1,1 @@
+(function(){var b="2ea0a815e408",m="# Numbers 35:9 (New International Version)\nThen the LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

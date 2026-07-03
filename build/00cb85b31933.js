@@ -1,0 +1,1 @@
+(function(){var b="00cb85b31933",m="# Genesis 37:12 (New International Version)\nJoseph Sold by His Brothers\nNow his brothers had gone to graze their father's flocks near Shechem,[^A] \n\n### Crossrefs\n[^A]: S [[Gen-12-6|Ge 12:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

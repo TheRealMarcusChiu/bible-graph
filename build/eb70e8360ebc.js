@@ -1,0 +1,1 @@
+(function(){var b="eb70e8360ebc",m="# John 11:29 (New International Version)\nWhen Mary heard this, she got up quickly and went to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

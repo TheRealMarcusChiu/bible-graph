@@ -1,0 +1,1 @@
+(function(){var b="60b6d6fe8454",m="# Numbers 3:44 (New International Version)\nThe LORD also said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

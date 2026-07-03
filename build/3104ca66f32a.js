@@ -1,0 +1,1 @@
+(function(){var b="3104ca66f32a",m="# Luke 12:47 (New International Version)\n\"The servant who knows the master's will and does not get ready or does not do what the master wants will be beaten with many blows.[^A] \n\n### Crossrefs\n[^A]: [[Deut-25-2|Dt 25:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

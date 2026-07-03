@@ -1,0 +1,1 @@
+(function(){var b="45a1da696bd4",m="# Joshua 2:23 (New International Version)\nThen the two men started back. They went down out of the hills, forded the river and came to Joshua son of Nun and told him everything that had happened to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

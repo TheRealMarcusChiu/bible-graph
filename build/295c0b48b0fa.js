@@ -1,0 +1,1 @@
+(function(){var b="295c0b48b0fa",m="# Matthew 15:19 (New International Version)\nFor out of the heart come evil thoughts--murder, adultery, sexual immorality, theft, false testimony, slander.[^A] \n\n### Crossrefs\n[^A]: [[Gal-5-19|Gal 5:19-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

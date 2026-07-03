@@ -1,0 +1,1 @@
+(function(){var b="f8661c4a7562",m="# Joshua 21:10 (New International Version)\n(these towns were assigned to the descendants of Aaron who were from the Kohathite clans of the Levites, because the first lot fell to them):";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

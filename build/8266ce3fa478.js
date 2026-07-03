@@ -1,0 +1,1 @@
+(function(){var b="8266ce3fa478",m="# Acts 12:21 (New International Version)\nOn the appointed day Herod, wearing his royal robes, sat on his throne and delivered a public address to the people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

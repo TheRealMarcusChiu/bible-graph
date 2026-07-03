@@ -1,0 +1,1 @@
+(function(){var b="d56886aeaca6",m="# Luke 3:24 (New International Version)\nthe son of Matthat,\nthe son of Levi, the son of Melki,\nthe son of Jannai, the son of Joseph,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

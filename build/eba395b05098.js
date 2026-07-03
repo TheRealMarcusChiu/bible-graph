@@ -1,0 +1,1 @@
+(function(){var b="eba395b05098",m="# Genesis 24:66 (New International Version)\nThen the servant told Isaac all he had done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

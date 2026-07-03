@@ -1,0 +1,1 @@
+(function(){var b="55bfc13c677b",m="# Acts 11:22 (New International Version)\nNews of this reached the church in Jerusalem, and they sent Barnabas[^A] to Antioch. \n\n### Crossrefs\n[^A]: S [[Acts-4-36|Ac 4:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

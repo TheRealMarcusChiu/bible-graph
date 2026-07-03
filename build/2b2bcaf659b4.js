@@ -1,0 +1,1 @@
+(function(){var b="2b2bcaf659b4",m="# Matthew 13:50 (New International Version)\nand throw them into the blazing furnace, where there will be weeping and gnashing of teeth.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-8-12|Mt 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

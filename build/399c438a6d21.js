@@ -1,0 +1,1 @@
+(function(){var b="399c438a6d21",m="# Matthew 20:13 (New International Version)\n\"But he answered one of them, 'I am not being unfair to you, friend.[^A] Didn't you agree to work for a denarius? \n\n### Crossrefs\n[^A]: [[Matt-22-12|Mt 22:12]]; [[Matt-26-50|26:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

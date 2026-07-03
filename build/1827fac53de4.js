@@ -1,0 +1,1 @@
+(function(){var b="1827fac53de4",m="# Ephesians 6:20 (New International Version)\nfor which I am an ambassador[^A] in chains.[^B] Pray that I may declare it fearlessly, as I should.\n\n### Crossrefs\n[^A]: [[2Cor-5-20|2Co 5:20]]\n[^B]: S [[Acts-21-33|Ac 21:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

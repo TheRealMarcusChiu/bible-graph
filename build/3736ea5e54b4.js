@@ -1,0 +1,1 @@
+(function(){var b="3736ea5e54b4",m="# John 6:69 (New International Version)\nWe have come to believe and to know that you are the Holy One of God.\"[^A]\n\n### Crossrefs\n[^A]: S [[Mark-1-24|Mk 1:24]]; [[Mark-8-29|8:29]]; [[Luke-9-20|Lk 9:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

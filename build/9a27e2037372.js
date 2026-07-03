@@ -1,0 +1,1 @@
+(function(){var b="9a27e2037372",m="# Mark 1:42 (New International Version)\nImmediately the leprosy left him and he was cleansed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a04c1d3aa6d",m="# Numbers 14:20 (New International Version)\nThe LORD replied, \"I have forgiven them,[^A] as you asked. \n\n### Crossrefs\n[^A]: [[Exod-34-6|Ex 34:6]]; [[Ps-99-8|Ps 99:8]]; [[Ps-106-23|106:23]]; [[Mic-7-18|Mic 7:18-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

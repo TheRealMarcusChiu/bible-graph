@@ -1,0 +1,1 @@
+(function(){var b="bb95f23ae284",m="# Exodus 1:15 (New International Version)\nThe king of Egypt said to the Hebrew midwives,[^A] whose names were Shiphrah and Puah, \n\n### Crossrefs\n[^A]: S [[Gen-35-17|Ge 35:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

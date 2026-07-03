@@ -1,0 +1,1 @@
+(function(){var b="ef42967eb3fb",m="# Deuteronomy 23:23 (New International Version)\nWhatever your lips utter you must be sure to do, because you made your vow freely to the LORD your God with your own mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

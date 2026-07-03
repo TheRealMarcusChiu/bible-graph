@@ -1,0 +1,1 @@
+(function(){var b="b7f65ce547c8",m="# John 9:21 (New International Version)\nBut how he can see now, or who opened his eyes, we don't know. Ask him. He is of age; he will speak for himself.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

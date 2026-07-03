@@ -1,0 +1,1 @@
+(function(){var b="76c42edc452a",m="# Numbers 3:42 (New International Version)\nSo Moses counted all the firstborn of the Israelites, as the LORD commanded him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

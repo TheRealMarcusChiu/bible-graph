@@ -1,0 +1,1 @@
+(function(){var b="cacdba98a9e5",m="# Joshua 19:45 (New International Version)\nJehud, Bene Berak, Gath Rimmon,[^A] \n\n### Crossrefs\n[^A]: [[Josh-21-24|Jos 21:24]]; [[1Chr-6-69|1Ch 6:69]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

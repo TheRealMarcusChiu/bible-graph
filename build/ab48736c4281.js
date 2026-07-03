@@ -1,0 +1,1 @@
+(function(){var b="ab48736c4281",m="# Matthew 23:10 (New International Version)\nNor are you to be called instructors, for you have one Instructor, the Messiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

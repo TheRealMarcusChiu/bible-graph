@@ -1,0 +1,1 @@
+(function(){var b="edb22a4b3e6f",m="# John 7:45 (New International Version)\nUnbelief of the Jewish Leaders\nFinally the temple guards went back to the chief priests and the Pharisees, who asked them, \"Why didn't you bring him in?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

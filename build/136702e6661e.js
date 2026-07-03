@@ -1,0 +1,1 @@
+(function(){var b="136702e6661e",m="# Luke 1:71 (New International Version)\nsalvation from our enemies  \n    and from the hand of all who hate us--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

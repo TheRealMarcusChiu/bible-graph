@@ -1,0 +1,1 @@
+(function(){var b="e9bfa60c949b",m="# Judges 6:23 (New International Version)\nBut the LORD said to him, \"Peace! Do not be afraid.[^A] You are not going to die.\"[^B]\n\n### Crossrefs\n[^A]: [[Dan-10-19|Da 10:19]]\n[^B]: S [[Gen-16-13|Ge 16:13]]; S [[Deut-5-26|Dt 5:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

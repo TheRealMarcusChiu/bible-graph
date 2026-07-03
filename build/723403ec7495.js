@@ -1,0 +1,1 @@
+(function(){var b="723403ec7495",m="# Leviticus 14:1 (New International Version)\nCleansing From Defiling Skin Diseases\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

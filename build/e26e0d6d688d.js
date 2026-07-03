@@ -1,0 +1,1 @@
+(function(){var b="e26e0d6d688d",m="# Mark 15:5 (New International Version)\nBut Jesus still made no reply,[^A] and Pilate was amazed.\n\n### Crossrefs\n[^A]: S [[Mark-14-61|Mk 14:61]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

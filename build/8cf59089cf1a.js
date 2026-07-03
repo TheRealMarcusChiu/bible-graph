@@ -1,0 +1,1 @@
+(function(){var b="8cf59089cf1a",m="# Deuteronomy 12:24 (New International Version)\nYou must not eat the blood; pour it out on the ground like water.[^A] \n\n### Crossrefs\n[^A]: [[Deut-12-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

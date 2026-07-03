@@ -1,0 +1,1 @@
+(function(){var b="f0508f31c640",m="# Numbers 23:16 (New International Version)\nThe LORD met with Balaam and put a word in his mouth[^A] and said, \"Go back to Balak and give him this word.\"\n\n### Crossrefs\n[^A]: S [[Exod-4-15|Ex 4:15]]; S [[Num-22-38|Nu 22:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

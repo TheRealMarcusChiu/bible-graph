@@ -1,0 +1,1 @@
+(function(){var b="36f22de08a27",m="# Genesis 4:20 (New International Version)\nAdah gave birth to Jabal; he was the father of those who live in tents and raise livestock.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

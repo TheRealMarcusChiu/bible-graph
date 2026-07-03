@@ -1,0 +1,1 @@
+(function(){var b="40e14c442c0d",m="# Ephesians 5:4 (New International Version)\nNor should there be obscenity, foolish talk[^A] or coarse joking, which are out of place, but rather thanksgiving.[^B] \n\n### Crossrefs\n[^A]: [[Eph-4-29|Eph 4:29]]\n[^B]: S [[Eph-5-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

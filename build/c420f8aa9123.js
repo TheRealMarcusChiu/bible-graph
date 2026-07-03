@@ -1,0 +1,1 @@
+(function(){var b="c420f8aa9123",m="# Joshua 10:19 (New International Version)\nBut don't stop; pursue your enemies! Attack them from the rear and don't let them reach their cities, for the LORD your God has given them into your hand.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

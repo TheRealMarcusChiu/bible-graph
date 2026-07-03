@@ -1,0 +1,1 @@
+(function(){var b="21fdb767dc4b",m="# Genesis 18:13 (New International Version)\nThen the LORD said to Abraham, \"Why did Sarah laugh and say, 'Will I really have a child, now that I am old?'[^A] \n\n### Crossrefs\n[^A]: S [[Gen-17-17|Ge 17:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="257367628a84",m="# Titus 3:11 (New International Version)\nYou may be sure that such people are warped and sinful; they are self-condemned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

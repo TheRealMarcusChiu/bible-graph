@@ -1,0 +1,1 @@
+(function(){var b="3bd21d05b36f",m="# Numbers 17:11 (New International Version)\nMoses did just as the LORD commanded him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

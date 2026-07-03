@@ -1,0 +1,1 @@
+(function(){var b="d9d3865f9849",m="# Luke 5:31 (New International Version)\nJesus answered them, \"It is not the healthy who need a doctor, but the sick.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

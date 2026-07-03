@@ -1,0 +1,1 @@
+(function(){var b="8f72cd551884",m="# Matthew 8:19 (New International Version)\nThen a teacher of the law came to him and said, \"Teacher, I will follow you wherever you go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

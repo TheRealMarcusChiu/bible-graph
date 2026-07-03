@@ -1,0 +1,1 @@
+(function(){var b="4a6ba8e2ee83",m="# Exodus 38:30 (New International Version)\nThey used it to make the bases for the entrance to the tent of meeting, the bronze altar with its bronze grating and all its utensils,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

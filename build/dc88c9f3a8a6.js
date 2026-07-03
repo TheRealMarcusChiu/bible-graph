@@ -1,0 +1,1 @@
+(function(){var b="dc88c9f3a8a6",m="# Judges 11:12 (New International Version)\nThen Jephthah sent messengers to the Ammonite king with the question: \"What do you have against me that you have attacked my country?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

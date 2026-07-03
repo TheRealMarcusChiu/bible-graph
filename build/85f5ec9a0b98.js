@@ -1,0 +1,1 @@
+(function(){var b="85f5ec9a0b98",m="# Genesis 5:28 (New International Version)\nWhen Lamech had lived 182 years, he had a son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c6d1e0e1e1cb",m="# Revelation 1:19 (New International Version)\n\"Write, therefore, what you have seen,[^A] what is now and what will take place later. \n\n### Crossrefs\n[^A]: [[Rev-1-11|ver 11]]; [[Hab-2-2|Hab 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

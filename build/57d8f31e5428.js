@@ -1,0 +1,1 @@
+(function(){var b="57d8f31e5428",m="# Luke 9:20 (New International Version)\n\"But what about you?\" he asked. \"Who do you say I am?\"\nPeter answered, \"God's Messiah.\"[^A]\n\n### Crossrefs\n[^A]: [[John-1-49|Jn 1:49]]; [[John-6-66|6:66-69]]; [[John-11-27|11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

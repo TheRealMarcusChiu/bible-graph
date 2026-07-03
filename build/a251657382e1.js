@@ -1,0 +1,1 @@
+(function(){var b="a251657382e1",m="# 2 Timothy 3:7 (New International Version)\nalways learning but never able to come to a knowledge of the truth.[^A] \n\n### Crossrefs\n[^A]: S [[1Tim-2-4|1Ti 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

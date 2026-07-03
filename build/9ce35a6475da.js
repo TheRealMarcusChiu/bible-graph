@@ -1,0 +1,1 @@
+(function(){var b="9ce35a6475da",m="# Luke 21:7 (New International Version)\n\"Teacher,\" they asked, \"when will these things happen? And what will be the sign that they are about to take place?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

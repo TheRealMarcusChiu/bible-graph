@@ -1,0 +1,1 @@
+(function(){var b="577d8bf38298",m="# Leviticus 7:6 (New International Version)\nAny male in a priest's family may eat it,[^A] but it must be eaten in the sanctuary area; it is most holy.[^B]\n\n### Crossrefs\n[^A]: S [[Lev-6-18|Lev 6:18]]\n[^B]: [[Ezek-42-13|Eze 42:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

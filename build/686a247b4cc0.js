@@ -1,0 +1,1 @@
+(function(){var b="686a247b4cc0",m="# Titus 2:15 (New International Version)\nThese, then, are the things you should teach. Encourage and rebuke with all authority. Do not let anyone despise you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

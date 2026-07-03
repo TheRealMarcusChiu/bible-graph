@@ -1,0 +1,1 @@
+(function(){var b="a98cec7d61a2",m="# Mark 10:18 (New International Version)\n\"Why do you call me good?\" Jesus answered. \"No one is good--except God alone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

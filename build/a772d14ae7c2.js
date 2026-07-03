@@ -1,0 +1,1 @@
+(function(){var b="a772d14ae7c2",m="# Luke 1:67 (New International Version)\nZechariah's Song\nHis father Zechariah was filled with the Holy Spirit[^A] and prophesied:[^B]\n\n### Crossrefs\n[^A]: S [[Luke-1-15|ver 15]]\n[^B]: [[Joel-2-28|Joel 2:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

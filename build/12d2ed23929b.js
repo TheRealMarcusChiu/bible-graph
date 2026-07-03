@@ -1,1 +1,0 @@
-(function(){var b="12d2ed23929b",m="# Standards Bodies\n\nNotes on Standards Bodies.\n\n## Linked notes\n\n- [[Open Source Foundations]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

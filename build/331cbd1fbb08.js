@@ -1,0 +1,1 @@
+(function(){var b="331cbd1fbb08",m="# Luke 16:27 (New International Version)\n\"He answered, 'Then I beg you, father, send Lazarus to my family,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

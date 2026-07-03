@@ -1,0 +1,1 @@
+(function(){var b="241a7fb3d9b8",m="# Numbers 32:8 (New International Version)\nThis is what your fathers did when I sent them from Kadesh Barnea to look over the land.[^A] \n\n### Crossrefs\n[^A]: [[Num-13-3|Nu 13:3]], [[Num-13-26|26]]; [[Deut-1-19|Dt 1:19-25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c87362802060",m="# Genesis 27:8 (New International Version)\nNow, my son, listen carefully and do what I tell you:[^A] \n\n### Crossrefs\n[^A]: [[Gen-27-13|ver 13]], [[Gen-27-43|43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

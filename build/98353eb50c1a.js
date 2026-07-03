@@ -1,0 +1,1 @@
+(function(){var b="98353eb50c1a",m="# Acts 27:20 (New International Version)\nWhen neither sun nor stars appeared for many days and the storm continued raging, we finally gave up all hope of being saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

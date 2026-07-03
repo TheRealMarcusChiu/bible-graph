@@ -1,0 +1,1 @@
+(function(){var b="daf1897bd22d",m="# Mark 1:28 (New International Version)\nNews about him spread quickly over the whole region[^A] of Galilee.\n\n### Crossrefs\n[^A]: S [[Matt-9-26|Mt 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

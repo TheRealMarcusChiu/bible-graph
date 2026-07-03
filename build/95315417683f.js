@@ -1,0 +1,1 @@
+(function(){var b="95315417683f",m="# Matthew 17:16 (New International Version)\nI brought him to your disciples, but they could not heal him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

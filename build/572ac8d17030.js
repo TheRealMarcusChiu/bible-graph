@@ -1,0 +1,1 @@
+(function(){var b="572ac8d17030",m="# Exodus 4:3 (New International Version)\nThe LORD said, \"Throw it on the ground.\"\nMoses threw it on the ground and it became a snake,[^A] and he ran from it. \n\n### Crossrefs\n[^A]: [[Exod-7-8|Ex 7:8-12]], [[Exod-7-15|15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

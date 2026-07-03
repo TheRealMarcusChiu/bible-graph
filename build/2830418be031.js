@@ -1,0 +1,1 @@
+(function(){var b="2830418be031",m="# 1 Corinthians 12:26 (New International Version)\nIf one part suffers, every part suffers with it; if one part is honored, every part rejoices with it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

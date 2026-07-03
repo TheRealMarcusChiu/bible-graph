@@ -1,0 +1,1 @@
+(function(){var b="29c2b6e5d70e",m="# Mark 11:5 (New International Version)\nsome people standing there asked, \"What are you doing, untying that colt?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

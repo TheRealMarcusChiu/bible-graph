@@ -1,0 +1,1 @@
+(function(){var b="62a0c9d53985",m="# Genesis 49:12 (New International Version)\nHis eyes will be darker than wine,  \n    his teeth whiter than milk.[^A]\n\n### Crossrefs\n[^A]: [[Song-5-12|SS 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

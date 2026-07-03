@@ -1,0 +1,1 @@
+(function(){var b="be8cf73776bb",m="# Mark 6:10 (New International Version)\nWhenever you enter a house, stay there until you leave that town.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

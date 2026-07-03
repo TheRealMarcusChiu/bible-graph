@@ -1,0 +1,1 @@
+(function(){var b="62dc485881c8",m="# Luke 9:34 (New International Version)\nWhile he was speaking, a cloud appeared and covered them, and they were afraid as they entered the cloud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

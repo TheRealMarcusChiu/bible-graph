@@ -1,0 +1,1 @@
+(function(){var b="4d358f24faa1",m="# Acts 16:32 (New International Version)\nThen they spoke the word of the Lord to him and to all the others in his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

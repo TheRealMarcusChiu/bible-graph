@@ -1,0 +1,1 @@
+(function(){var b="81ae5292e77d",m="# Numbers 19:5 (New International Version)\nWhile he watches, the heifer is to be burned--its hide, flesh, blood and intestines.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-29-14|Ex 29:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

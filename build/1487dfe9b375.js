@@ -1,0 +1,1 @@
+(function(){var b="1487dfe9b375",m="# Exodus 26:6 (New International Version)\nThen make fifty gold clasps and use them to fasten the curtains together so that the tabernacle is a unit.[^A]\n\n### Crossrefs\n[^A]: [[Exod-26-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

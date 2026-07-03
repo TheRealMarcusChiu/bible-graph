@@ -1,0 +1,1 @@
+(function(){var b="06af405bacd4",m="# Acts 6:10 (New International Version)\nBut they could not stand up against the wisdom the Spirit gave him as he spoke.[^A]\n\n### Crossrefs\n[^A]: [[Luke-21-15|Lk 21:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

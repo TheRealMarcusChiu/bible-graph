@@ -1,0 +1,1 @@
+(function(){var b="76e751576d98",m="# Mark 15:17 (New International Version)\nThey put a purple robe on him, then twisted together a crown of thorns and set it on him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

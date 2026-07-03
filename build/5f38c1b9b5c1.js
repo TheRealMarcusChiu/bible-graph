@@ -1,0 +1,1 @@
+(function(){var b="5f38c1b9b5c1",m="# Deuteronomy 5:13 (New International Version)\nSix days you shall labor and do all your work,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

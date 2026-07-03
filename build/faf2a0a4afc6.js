@@ -1,0 +1,1 @@
+(function(){var b="faf2a0a4afc6",m="# Leviticus 13:47 (New International Version)\nRegulations About Defiling Molds\n\"As for any fabric that is spoiled with a defiling mold--any woolen or linen clothing,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

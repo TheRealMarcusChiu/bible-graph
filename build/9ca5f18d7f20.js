@@ -1,0 +1,1 @@
+(function(){var b="9ca5f18d7f20",m="# John 4:37 (New International Version)\nThus the saying 'One sows and another reaps'[^A] is true. \n\n### Crossrefs\n[^A]: [[Job-31-8|Job 31:8]]; [[Mic-6-15|Mic 6:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

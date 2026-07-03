@@ -1,0 +1,1 @@
+(function(){var b="15390576d19e",m="# Deuteronomy 27:25 (New International Version)\n\"Cursed is anyone who accepts a bribe to kill an innocent person.\"[^A]\nThen all the people shall say, \"Amen!\"\n\n### Crossrefs\n[^A]: [[Exod-23-7|Ex 23:7-8]]; S [[Lev-19-16|Lev 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

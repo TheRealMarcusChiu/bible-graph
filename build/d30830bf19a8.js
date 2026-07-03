@@ -1,0 +1,1 @@
+(function(){var b="d30830bf19a8",m="# Romans 16:14 (New International Version)\nGreet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the other brothers and sisters with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

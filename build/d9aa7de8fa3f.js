@@ -1,0 +1,1 @@
+(function(){var b="d9aa7de8fa3f",m="# Exodus 36:30 (New International Version)\nSo there were eight frames and sixteen silver bases--two under each frame.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

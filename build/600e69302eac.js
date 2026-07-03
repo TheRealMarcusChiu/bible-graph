@@ -1,0 +1,1 @@
+(function(){var b="600e69302eac",m="# Luke 18:37 (New International Version)\nThey told him, \"Jesus of Nazareth is passing by.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-19-4|Lk 19:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="92fe074b0150",m="# Genesis 29:28 (New International Version)\nAnd Jacob did so. He finished the week with Leah, and then Laban gave him his daughter Rachel to be his wife.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-29-16|ver 16]]; S [[Gen-4-19|Ge 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

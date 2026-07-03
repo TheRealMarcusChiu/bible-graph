@@ -1,0 +1,1 @@
+(function(){var b="6bf085b1b4a0",m="# John 8:53 (New International Version)\nAre you greater than our father Abraham?[^A] He died, and so did the prophets. Who do you think you are?\"\n\n### Crossrefs\n[^A]: [[John-8-39|ver 39]]; [[John-4-12|Jn 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

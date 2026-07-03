@@ -1,0 +1,1 @@
+(function(){var b="973bb9a701e9",m="# Deuteronomy 28:41 (New International Version)\nYou will have sons and daughters but you will not keep them, because they will go into captivity.[^A] \n\n### Crossrefs\n[^A]: [[Deut-28-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

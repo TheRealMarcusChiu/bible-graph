@@ -1,0 +1,1 @@
+(function(){var b="bdc40a3723cc",m="# Deuteronomy 15:14 (New International Version)\nSupply them liberally from your flock, your threshing floor[^A] and your winepress. Give to them as the LORD your God has blessed you. \n\n### Crossrefs\n[^A]: S [[Num-18-27|Nu 18:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

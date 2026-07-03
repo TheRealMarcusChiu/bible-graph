@@ -1,0 +1,1 @@
+(function(){var b="8b29fa550d39",m="# Numbers 15:2 (New International Version)\n\"Speak to the Israelites and say to them: 'After you enter the land I am giving you[^A] as a home \n\n### Crossrefs\n[^A]: S [[Lev-23-10|Lev 23:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

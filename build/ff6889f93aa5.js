@@ -1,0 +1,1 @@
+(function(){var b="ff6889f93aa5",m="# Joshua 8:5 (New International Version)\nI and all those with me will advance on the city, and when the men come out against us, as they did before, we will flee from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

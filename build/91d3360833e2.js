@@ -1,0 +1,1 @@
+(function(){var b="91d3360833e2",m="# Leviticus 24:13 (New International Version)\nThen the LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

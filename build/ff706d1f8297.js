@@ -1,0 +1,1 @@
+(function(){var b="ff706d1f8297",m="# John 6:17 (New International Version)\nwhere they got into a boat and set off across the lake for Capernaum. By now it was dark, and Jesus had not yet joined them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c664e8460754",m="# Mark 9:4 (New International Version)\nAnd there appeared before them Elijah and Moses, who were talking with Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

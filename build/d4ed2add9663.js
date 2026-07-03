@@ -1,0 +1,1 @@
+(function(){var b="d4ed2add9663",m="# Luke 19:3 (New International Version)\nHe wanted to see who Jesus was, but because he was short he could not see over the crowd.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

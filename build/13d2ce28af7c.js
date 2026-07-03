@@ -1,0 +1,1 @@
+(function(){var b="13d2ce28af7c",m="# Leviticus 27:29 (New International Version)\n\"'No person devoted to destruction may be ransomed; they are to be put to death.[^A]\n\n### Crossrefs\n[^A]: [[Deut-7-26|Dt 7:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

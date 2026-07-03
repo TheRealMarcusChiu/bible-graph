@@ -1,0 +1,1 @@
+(function(){var b="fab710c60a4c",m="# Mark 9:41 (New International Version)\nTruly I tell you, anyone who gives you a cup of water in my name because you belong to the Messiah will certainly not lose their reward.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-10-42|Mt 10:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

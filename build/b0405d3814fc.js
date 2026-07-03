@@ -1,0 +1,1 @@
+(function(){var b="b0405d3814fc",m="# Numbers 11:6 (New International Version)\nBut now we have lost our appetite; we never see anything but this manna![^A]\"\n\n### Crossrefs\n[^A]: [[Exod-16-14|Ex 16:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b350ae03e881",m="# Numbers 11:24 (New International Version)\nSo Moses went out and told the people what the LORD had said. He brought together seventy of their elders and had them stand around the tent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

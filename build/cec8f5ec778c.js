@@ -1,0 +1,1 @@
+(function(){var b="cec8f5ec778c",m="# Matthew 21:2 (New International Version)\nsaying to them, \"Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

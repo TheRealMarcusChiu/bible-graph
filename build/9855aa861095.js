@@ -1,0 +1,1 @@
+(function(){var b="9855aa861095",m="# Joshua 8:11 (New International Version)\nThe entire force that was with him marched up and approached the city and arrived in front of it. They set up camp north of Ai, with the valley between them and the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

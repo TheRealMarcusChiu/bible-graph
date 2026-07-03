@@ -1,0 +1,1 @@
+(function(){var b="580f9db429c1",m="# Luke 7:15 (New International Version)\nThe dead man sat up and began to talk, and Jesus gave him back to his mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

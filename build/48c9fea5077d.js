@@ -1,0 +1,1 @@
+(function(){var b="48c9fea5077d",m="# Romans 5:16 (New International Version)\nNor can the gift of God be compared with the result of one man's sin: The judgment followed one sin and brought condemnation, but the gift followed many trespasses and brought justification.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="35ff246376f0",m="# Genesis 26:21 (New International Version)\nThen they dug another well, but they quarreled[^A] over that one also; so he named it Sitnah. \n\n### Crossrefs\n[^A]: S [[Gen-13-7|Ge 13:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

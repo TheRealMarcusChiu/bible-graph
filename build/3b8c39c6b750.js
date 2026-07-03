@@ -1,0 +1,1 @@
+(function(){var b="3b8c39c6b750",m="# Romans 16:13 (New International Version)\nGreet Rufus,[^A] chosen[^B] in the Lord, and his mother, who has been a mother to me, too.\n\n### Crossrefs\n[^A]: [[Mark-15-21|Mk 15:21]]\n[^B]: S [[2John-1-1|2Jn 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

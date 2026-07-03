@@ -1,0 +1,1 @@
+(function(){var b="e129912e5e60",m="# Acts 25:12 (New International Version)\nAfter Festus had conferred with his council, he declared: \"You have appealed to Caesar. To Caesar you will go!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

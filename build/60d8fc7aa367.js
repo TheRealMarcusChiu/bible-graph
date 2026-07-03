@@ -1,0 +1,1 @@
+(function(){var b="60d8fc7aa367",m="# Exodus 9:8 (New International Version)\nThe Plague of Boils\nThen the LORD said to Moses and Aaron, \"Take handfuls of soot from a furnace and have Moses toss it into the air in the presence of Pharaoh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

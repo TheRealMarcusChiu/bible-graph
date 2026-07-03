@@ -1,0 +1,1 @@
+(function(){var b="f229fdbb0416",m="# Numbers 7:6 (New International Version)\nSo Moses took the carts and oxen and gave them to the Levites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

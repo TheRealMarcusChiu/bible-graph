@@ -1,0 +1,1 @@
+(function(){var b="762b97f25158",m="# Deuteronomy 30:8 (New International Version)\nYou will again obey the LORD and follow all his commands I am giving you today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

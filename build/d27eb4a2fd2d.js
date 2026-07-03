@@ -1,0 +1,1 @@
+(function(){var b="d27eb4a2fd2d",m="# Luke 12:2 (New International Version)\nThere is nothing concealed that will not be disclosed, or hidden that will not be made known.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-4-22|Mk 4:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

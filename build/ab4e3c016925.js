@@ -1,0 +1,1 @@
+(function(){var b="ab4e3c016925",m="# Luke 17:27 (New International Version)\nPeople were eating, drinking, marrying and being given in marriage up to the day Noah entered the ark. Then the flood came and destroyed them all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

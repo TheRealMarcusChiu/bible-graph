@@ -1,0 +1,1 @@
+(function(){var b="1c812b7ceb52",m="# Matthew 14:21 (New International Version)\nThe number of those who ate was about five thousand men, besides women and children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

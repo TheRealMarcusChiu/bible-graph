@@ -1,0 +1,1 @@
+(function(){var b="6bd275c67b3f",m="# Exodus 39:15 (New International Version)\nFor the breastpiece they made braided chains of pure gold, like a rope.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

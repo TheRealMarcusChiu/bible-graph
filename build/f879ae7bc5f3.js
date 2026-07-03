@@ -1,0 +1,1 @@
+(function(){var b="f879ae7bc5f3",m="# Leviticus 14:33 (New International Version)\nCleansing From Defiling Molds\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

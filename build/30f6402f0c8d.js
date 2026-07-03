@@ -1,0 +1,1 @@
+(function(){var b="30f6402f0c8d",m="# 1 Corinthians 15:46 (New International Version)\nThe spiritual did not come first, but the natural, and after that the spiritual.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-15-44|ver 44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

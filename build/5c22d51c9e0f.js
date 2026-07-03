@@ -1,0 +1,1 @@
+(function(){var b="5c22d51c9e0f",m="# 1 Timothy 3:10 (New International Version)\nThey must first be tested;[^A] and then if there is nothing against them, let them serve as deacons.\n\n### Crossrefs\n[^A]: [[1Tim-5-22|1Ti 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

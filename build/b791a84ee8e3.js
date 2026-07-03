@@ -1,0 +1,1 @@
+(function(){var b="b791a84ee8e3",m="# Mark 1:41 (New International Version)\nJesus was indignant. He reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

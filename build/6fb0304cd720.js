@@ -1,0 +1,1 @@
+(function(){var b="6fb0304cd720",m="# Leviticus 18:29 (New International Version)\n\"'Everyone who does any of these detestable things--such persons must be cut off from their people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

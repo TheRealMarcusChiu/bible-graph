@@ -1,0 +1,1 @@
+(function(){var b="2753f84348ee",m="# Deuteronomy 23:2 (New International Version)\nNo one born of a forbidden marriage nor any of their descendants may enter the assembly of the LORD, not even in the tenth generation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

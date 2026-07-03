@@ -1,0 +1,1 @@
+(function(){var b="85ab6ee99431",m="# Luke 22:12 (New International Version)\nHe will show you a large room upstairs, all furnished. Make preparations there.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

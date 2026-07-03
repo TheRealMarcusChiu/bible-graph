@@ -1,0 +1,1 @@
+(function(){var b="fc8a3b98427d",m="# Leviticus 8:28 (New International Version)\nThen Moses took them from their hands and burned them on the altar on top of the burnt offering as an ordination offering, a pleasing aroma, a food offering presented to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

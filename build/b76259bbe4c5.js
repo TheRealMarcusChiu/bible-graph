@@ -1,0 +1,1 @@
+(function(){var b="b76259bbe4c5",m="# Numbers 5:9 (New International Version)\nAll the sacred contributions the Israelites bring to a priest will belong to him.[^A] \n\n### Crossrefs\n[^A]: [[Lev-6-17|Lev 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

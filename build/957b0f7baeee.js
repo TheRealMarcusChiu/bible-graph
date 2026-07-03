@@ -1,0 +1,1 @@
+(function(){var b="957b0f7baeee",m="# Joshua 6:3 (New International Version)\nMarch around the city once with all the armed men. Do this for six days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

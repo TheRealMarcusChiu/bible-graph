@@ -1,0 +1,1 @@
+(function(){var b="718c437d95e7",m="# Genesis 36:4 (New International Version)\nAdah bore Eliphaz to Esau, Basemath bore Reuel,[^A] \n\n### Crossrefs\n[^A]: S [[Gen-36-3|ver 3]]; [[1Chr-1-35|1Ch 1:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

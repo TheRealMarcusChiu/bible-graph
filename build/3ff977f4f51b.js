@@ -1,0 +1,1 @@
+(function(){var b="3ff977f4f51b",m="# Romans 7:22 (New International Version)\nFor in my inner being[^A] I delight in God's law;[^B] \n\n### Crossrefs\n[^A]: [[Eph-3-16|Eph 3:16]]\n[^B]: [[Ps-1-2|Ps 1:2]]; [[Ps-40-8|40:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

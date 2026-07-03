@@ -1,0 +1,1 @@
+(function(){var b="ba303f858293",m="# Numbers 21:19 (New International Version)\nfrom Mattanah to Nahaliel, from Nahaliel to Bamoth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

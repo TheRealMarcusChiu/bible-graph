@@ -1,0 +1,1 @@
+(function(){var b="1edff173ab0a",m="# Mark 5:33 (New International Version)\nThen the woman, knowing what had happened to her, came and fell at his feet and, trembling with fear, told him the whole truth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

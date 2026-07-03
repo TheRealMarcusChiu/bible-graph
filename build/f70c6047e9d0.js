@@ -1,0 +1,1 @@
+(function(){var b="f70c6047e9d0",m="# Matthew 15:25 (New International Version)\nThe woman came and knelt before him.[^A] \"Lord, help me!\" she said.\n\n### Crossrefs\n[^A]: S [[Matt-8-2|Mt 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

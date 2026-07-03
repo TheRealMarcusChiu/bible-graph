@@ -1,0 +1,1 @@
+(function(){var b="0c4b22e60e78",m="# Luke 1:14 (New International Version)\nHe will be a joy and delight to you, and many will rejoice because of his birth,[^A] \n\n### Crossrefs\n[^A]: [[Luke-1-58|ver 58]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

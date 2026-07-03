@@ -1,0 +1,1 @@
+(function(){var b="b65b77fc5e1c",m="# Exodus 25:40 (New International Version)\nSee that you make them according to the pattern[^A] shown you on the mountain.\n\n### Crossrefs\n[^A]: S [[Exod-25-9|ver 9]]; [[Acts-7-44|Ac 7:44]]; Heb 8:5*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

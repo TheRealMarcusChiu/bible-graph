@@ -1,0 +1,1 @@
+(function(){var b="49d3a0e53f38",m="# Numbers 14:31 (New International Version)\nAs for your children that you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-26-43|Lev 26:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

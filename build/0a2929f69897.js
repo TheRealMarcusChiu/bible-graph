@@ -1,0 +1,1 @@
+(function(){var b="0a2929f69897",m="# Ephesians 3:15 (New International Version)\nfrom whom every family in heaven and on earth derives its name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

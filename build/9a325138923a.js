@@ -1,0 +1,1 @@
+(function(){var b="9a325138923a",m="# 2 Timothy 4:22 (New International Version)\nThe Lord be with your spirit.[^A] Grace be with you all.[^B]\n\n### Crossrefs\n[^A]: S [[Gal-6-18|Gal 6:18]]\n[^B]: S [[Col-4-18|Col 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ce0ec7848c6f",m="# Luke 15:6 (New International Version)\nand goes home. Then he calls his friends and neighbors together and says, 'Rejoice with me; I have found my lost sheep.'[^A] \n\n### Crossrefs\n[^A]: [[Luke-15-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

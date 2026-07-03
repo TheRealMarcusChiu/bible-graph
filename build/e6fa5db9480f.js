@@ -1,0 +1,1 @@
+(function(){var b="e6fa5db9480f",m="# Luke 7:31 (New International Version)\nJesus went on to say, \"To what, then, can I compare the people of this generation? What are they like?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

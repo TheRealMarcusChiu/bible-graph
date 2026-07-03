@@ -1,0 +1,1 @@
+(function(){var b="e7a99d9694c3",m="# Numbers 35:32 (New International Version)\n\"'Do not accept a ransom for anyone who has fled to a city of refuge and so allow them to go back and live on their own land before the death of the high priest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

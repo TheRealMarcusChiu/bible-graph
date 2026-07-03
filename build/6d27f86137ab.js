@@ -1,0 +1,1 @@
+(function(){var b="6d27f86137ab",m="# Genesis 23:5 (New International Version)\nThe Hittites replied to Abraham,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

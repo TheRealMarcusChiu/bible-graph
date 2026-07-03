@@ -1,0 +1,1 @@
+(function(){var b="30632be102e5",m="# Matthew 13:25 (New International Version)\nBut while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

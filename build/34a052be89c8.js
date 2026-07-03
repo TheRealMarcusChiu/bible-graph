@@ -1,0 +1,1 @@
+(function(){var b="34a052be89c8",m="# Exodus 37:26 (New International Version)\nThey overlaid the top and all the sides and the horns with pure gold, and made a gold molding around it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

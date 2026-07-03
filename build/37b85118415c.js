@@ -1,0 +1,1 @@
+(function(){var b="37b85118415c",m="# Judges 6:36 (New International Version)\nGideon said to God, \"If you will save[^A] Israel by my hand as you have promised-- \n\n### Crossrefs\n[^A]: S [[Judg-6-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

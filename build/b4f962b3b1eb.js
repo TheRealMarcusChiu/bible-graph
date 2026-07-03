@@ -1,0 +1,1 @@
+(function(){var b="b4f962b3b1eb",m="# Romans 2:22 (New International Version)\nYou who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?[^A] \n\n### Crossrefs\n[^A]: [[Acts-19-37|Ac 19:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

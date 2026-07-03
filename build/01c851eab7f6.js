@@ -1,0 +1,1 @@
+(function(){var b="01c851eab7f6",m="# Matthew 14:14 (New International Version)\nWhen Jesus landed and saw a large crowd, he had compassion on them[^A] and healed their sick.[^B]\n\n### Crossrefs\n[^A]: S [[Matt-9-36|Mt 9:36]]\n[^B]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

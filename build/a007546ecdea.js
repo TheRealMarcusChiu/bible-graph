@@ -1,0 +1,1 @@
+(function(){var b="a007546ecdea",m="# Matthew 10:34 (New International Version)\n\"Do not suppose that I have come to bring peace to the earth. I did not come to bring peace, but a sword.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

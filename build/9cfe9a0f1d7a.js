@@ -1,0 +1,1 @@
+(function(){var b="9cfe9a0f1d7a",m="# John 1:31 (New International Version)\nI myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

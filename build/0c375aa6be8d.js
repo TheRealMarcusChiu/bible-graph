@@ -1,0 +1,1 @@
+(function(){var b="0c375aa6be8d",m="# Luke 4:7 (New International Version)\nIf you worship me, it will all be yours.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

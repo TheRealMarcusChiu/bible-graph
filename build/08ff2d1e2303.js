@@ -1,0 +1,1 @@
+(function(){var b="08ff2d1e2303",m="# Matthew 28:4 (New International Version)\nThe guards were so afraid of him that they shook and became like dead men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

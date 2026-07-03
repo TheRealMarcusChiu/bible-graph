@@ -1,0 +1,1 @@
+(function(){var b="d7fd271d5866",m="# Acts 28:9 (New International Version)\nWhen this had happened, the rest of the sick on the island came and were cured.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

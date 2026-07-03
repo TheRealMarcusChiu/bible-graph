@@ -1,0 +1,1 @@
+(function(){var b="db9d8f6d4f91",m="# Leviticus 8:32 (New International Version)\nThen burn up the rest of the meat and the bread.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

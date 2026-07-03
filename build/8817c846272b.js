@@ -1,0 +1,1 @@
+(function(){var b="8817c846272b",m="# Leviticus 7:5 (New International Version)\nThe priest shall burn them on the altar[^A] as a food offering presented to the LORD. It is a guilt offering. \n\n### Crossrefs\n[^A]: S [[Exod-29-13|Ex 29:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

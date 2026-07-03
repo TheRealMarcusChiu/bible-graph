@@ -1,0 +1,1 @@
+(function(){var b="6d820897cbc4",m="# Numbers 10:26 (New International Version)\nPagiel son of Okran was over the division of the tribe of Asher,[^A] \n\n### Crossrefs\n[^A]: S [[Num-1-13|Nu 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

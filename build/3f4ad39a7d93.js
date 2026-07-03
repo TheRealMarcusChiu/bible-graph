@@ -1,0 +1,1 @@
+(function(){var b="3f4ad39a7d93",m="# Mark 5:3 (New International Version)\nThis man lived in the tombs, and no one could bind him anymore, not even with a chain.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

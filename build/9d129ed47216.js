@@ -1,0 +1,1 @@
+(function(){var b="9d129ed47216",m="# Leviticus 11:34 (New International Version)\nAny food you are allowed to eat that has come into contact with water from any such pot is unclean, and any liquid that is drunk from such a pot is unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4fe4b1335095",m="# Luke 11:19 (New International Version)\nNow if I drive out demons by Beelzebul, by whom do your followers drive them out? So then, they will be your judges.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

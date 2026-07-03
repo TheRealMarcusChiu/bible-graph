@@ -1,0 +1,1 @@
+(function(){var b="4799c254f4e8",m="# Exodus 8:2 (New International Version)\nIf you refuse to let them go, I will send a plague of frogs[^A] on your whole country. \n\n### Crossrefs\n[^A]: [[Ps-78-45|Ps 78:45]]; [[Ps-105-30|105:30]]; [[Rev-16-13|Rev 16:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

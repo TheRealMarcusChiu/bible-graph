@@ -1,0 +1,1 @@
+(function(){var b="f749663dd4f2",m="# John 16:14 (New International Version)\nHe will glorify me because it is from me that he will receive what he will make known to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

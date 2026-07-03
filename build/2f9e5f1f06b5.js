@@ -1,0 +1,1 @@
+(function(){var b="2f9e5f1f06b5",m="# Romans 3:16 (New International Version)\nruin and misery mark their ways,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

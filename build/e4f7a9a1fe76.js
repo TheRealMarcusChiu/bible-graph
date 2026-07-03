@@ -1,0 +1,1 @@
+(function(){var b="e4f7a9a1fe76",m="# 2 Corinthians 1:13 (New International Version)\nFor we do not write you anything you cannot read or understand. And I hope that,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

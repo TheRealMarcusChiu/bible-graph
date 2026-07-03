@@ -1,0 +1,1 @@
+(function(){var b="15461b999f4a",m="# Genesis 18:7 (New International Version)\nThen he ran to the herd and selected a choice, tender calf[^A] and gave it to a servant, who hurried to prepare it. \n\n### Crossrefs\n[^A]: [[1Sam-28-24|1Sa 28:24]]; [[Luke-15-23|Lk 15:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

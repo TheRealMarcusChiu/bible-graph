@@ -1,0 +1,1 @@
+(function(){var b="31b36f001c26",m="# Luke 8:27 (New International Version)\nWhen Jesus stepped ashore, he was met by a demon-possessed man from the town. For a long time this man had not worn clothes or lived in a house, but had lived in the tombs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

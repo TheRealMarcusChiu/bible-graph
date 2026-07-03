@@ -1,0 +1,1 @@
+(function(){var b="2054431b07fa",m="# Luke 2:31 (New International Version)\nwhich you have prepared in the sight of all nations:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

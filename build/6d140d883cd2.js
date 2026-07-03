@@ -1,0 +1,1 @@
+(function(){var b="6d140d883cd2",m="# Luke 20:11 (New International Version)\nHe sent another servant, but that one also they beat and treated shamefully and sent away empty-handed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

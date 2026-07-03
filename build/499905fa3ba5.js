@@ -1,0 +1,1 @@
+(function(){var b="499905fa3ba5",m="# Acts 5:1 (New International Version)\nAnanias and Sapphira\nNow a man named Ananias, together with his wife Sapphira, also sold a piece of property.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

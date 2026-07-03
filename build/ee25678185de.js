@@ -1,0 +1,1 @@
+(function(){var b="ee25678185de",m="# Luke 3:35 (New International Version)\nthe son of Serug, the son of Reu,\nthe son of Peleg, the son of Eber,\nthe son of Shelah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

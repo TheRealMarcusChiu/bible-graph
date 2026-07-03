@@ -1,0 +1,1 @@
+(function(){var b="56d198e9abf9",m="# John 5:41 (New International Version)\n\"I do not accept glory from human beings,[^A] \n\n### Crossrefs\n[^A]: [[John-5-44|ver 44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

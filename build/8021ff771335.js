@@ -1,0 +1,1 @@
+(function(){var b="8021ff771335",m="# Revelation 17:2 (New International Version)\nWith her the kings of the earth committed adultery, and the inhabitants of the earth were intoxicated with the wine of her adulteries.\"[^A]\n\n### Crossrefs\n[^A]: S [[Rev-14-8|Rev 14:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

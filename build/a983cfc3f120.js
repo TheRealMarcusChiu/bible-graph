@@ -1,0 +1,1 @@
+(function(){var b="a983cfc3f120",m="# Exodus 28:13 (New International Version)\nMake gold filigree settings";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

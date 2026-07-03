@@ -1,0 +1,1 @@
+(function(){var b="e3e471ad389b",m="# Joshua 7:17 (New International Version)\nThe clans of Judah came forward, and the Zerahites were chosen.[^A] He had the clan of the Zerahites come forward by families, and Zimri was chosen. \n\n### Crossrefs\n[^A]: [[Num-26-20|Nu 26:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

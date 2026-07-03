@@ -1,0 +1,1 @@
+(function(){var b="794973fc1e30",m="# Matthew 24:8 (New International Version)\nAll these are the beginning of birth pains.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7be522a4a69b",m="# Leviticus 22:12 (New International Version)\nIf a priest's daughter marries anyone other than a priest, she may not eat any of the sacred contributions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

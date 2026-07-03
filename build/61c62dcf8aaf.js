@@ -1,0 +1,1 @@
+(function(){var b="61c62dcf8aaf",m="# 1 Thessalonians 3:7 (New International Version)\nTherefore, brothers and sisters, in all our distress and persecution we were encouraged about you because of your faith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

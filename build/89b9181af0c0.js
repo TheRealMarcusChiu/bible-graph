@@ -1,0 +1,1 @@
+(function(){var b="89b9181af0c0",m="# Mark 12:42 (New International Version)\nBut a poor widow came and put in two very small copper coins, worth only a few cents.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

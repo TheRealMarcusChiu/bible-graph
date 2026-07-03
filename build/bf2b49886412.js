@@ -1,0 +1,1 @@
+(function(){var b="bf2b49886412",m="# Mark 8:36 (New International Version)\nWhat good is it for someone to gain the whole world, yet forfeit their soul?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

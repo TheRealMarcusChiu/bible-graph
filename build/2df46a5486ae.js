@@ -1,0 +1,1 @@
+(function(){var b="2df46a5486ae",m="# Acts 26:12 (New International Version)\n\"On one of these journeys I was going to Damascus with the authority and commission of the chief priests.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

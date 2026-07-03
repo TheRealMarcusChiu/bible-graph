@@ -1,0 +1,1 @@
+(function(){var b="734528bf2006",m="# Numbers 10:27 (New International Version)\nand Ahira son of Enan was over the division of the tribe of Naphtali.[^A] \n\n### Crossrefs\n[^A]: S [[Num-1-15|Nu 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

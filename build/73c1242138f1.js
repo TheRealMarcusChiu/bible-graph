@@ -1,0 +1,1 @@
+(function(){var b="73c1242138f1",m="# Romans 6:11 (New International Version)\nIn the same way, count yourselves dead to sin[^A] but alive to God in Christ Jesus. \n\n### Crossrefs\n[^A]: S [[Rom-6-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

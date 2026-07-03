@@ -1,0 +1,1 @@
+(function(){var b="836ad27243d9",m="# John 19:29 (New International Version)\nA jar of wine vinegar[^A] was there, so they soaked a sponge in it, put the sponge on a stalk of the hyssop plant, and lifted it to Jesus' lips. \n\n### Crossrefs\n[^A]: [[Ps-69-21|Ps 69:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

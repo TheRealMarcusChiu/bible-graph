@@ -1,0 +1,1 @@
+(function(){var b="119b9c79307b",m="# Genesis 27:24 (New International Version)\n\"Are you really my son Esau?\" he asked.\n\"I am,\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

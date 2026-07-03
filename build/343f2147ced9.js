@@ -1,0 +1,1 @@
+(function(){var b="343f2147ced9",m="# Genesis 5:20 (New International Version)\nAltogether, Jared lived a total of 962 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

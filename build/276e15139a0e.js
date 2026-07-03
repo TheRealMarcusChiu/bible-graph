@@ -1,0 +1,1 @@
+(function(){var b="276e15139a0e",m="# John 14:25 (New International Version)\n\"All this I have spoken while still with you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="387f501455db",m="# Romans 14:21 (New International Version)\nIt is better not to eat meat or drink wine or to do anything else that will cause your brother or sister to fall.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-5-29|Mt 5:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

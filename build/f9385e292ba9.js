@@ -1,0 +1,1 @@
+(function(){var b="f9385e292ba9",m="# Revelation 21:18 (New International Version)\nThe wall was made of jasper,[^A] and the city of pure gold, as pure as glass.[^B] \n\n### Crossrefs\n[^A]: S [[Rev-21-11|ver 11]]\n[^B]: [[Rev-21-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

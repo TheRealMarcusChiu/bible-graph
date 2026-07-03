@@ -1,0 +1,1 @@
+(function(){var b="b16f954ae6be",m="# John 12:18 (New International Version)\nMany people, because they had heard that he had performed this sign,[^A] went out to meet him. \n\n### Crossrefs\n[^A]: [[John-12-11|ver 11]]; [[Luke-19-37|Lk 19:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

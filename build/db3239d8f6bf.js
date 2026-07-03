@@ -1,0 +1,1 @@
+(function(){var b="db3239d8f6bf",m="# Leviticus 14:47 (New International Version)\nAnyone who sleeps or eats in the house must wash their clothes.[^A]\n\n### Crossrefs\n[^A]: S [[Lev-11-25|Lev 11:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

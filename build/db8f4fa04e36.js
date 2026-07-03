@@ -1,0 +1,1 @@
+(function(){var b="db8f4fa04e36",m="# Luke 19:30 (New International Version)\n\"Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="596dd503cc1e",m="# Genesis 12:20 (New International Version)\nThen Pharaoh gave orders about Abram to his men, and they sent him on his way, with his wife and everything he had.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

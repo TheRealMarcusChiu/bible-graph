@@ -1,0 +1,1 @@
+(function(){var b="e554f4f84092",m="# Luke 4:39 (New International Version)\nSo he bent over her and rebuked[^A] the fever, and it left her. She got up at once and began to wait on them.\n\n### Crossrefs\n[^A]: [[Luke-4-35|ver 35]], [[Luke-4-41|41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

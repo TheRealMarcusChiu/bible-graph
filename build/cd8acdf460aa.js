@@ -1,0 +1,1 @@
+(function(){var b="cd8acdf460aa",m="# Joshua 8:3 (New International Version)\nSo Joshua and the whole army moved out to attack Ai. He chose thirty thousand of his best fighting men and sent them out at night";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

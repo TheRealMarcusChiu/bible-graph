@@ -1,0 +1,1 @@
+(function(){var b="fa1d7c58f069",m="# Acts 15:31 (New International Version)\nThe people read it and were glad for its encouraging message.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

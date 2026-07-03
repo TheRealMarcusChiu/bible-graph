@@ -1,0 +1,1 @@
+(function(){var b="8e5f7995aca9",m="# Romans 1:22 (New International Version)\nAlthough they claimed to be wise, they became fools[^A] \n\n### Crossrefs\n[^A]: [[1Cor-1-20|1Co 1:20]], [[1Cor-1-27|27]]; [[1Cor-3-18|3:18]], [[1Cor-3-19|19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

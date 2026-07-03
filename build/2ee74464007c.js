@@ -1,0 +1,1 @@
+(function(){var b="2ee74464007c",m="# Leviticus 1:6 (New International Version)\nYou are to skin[^A] the burnt offering and cut it into pieces.[^B] \n\n### Crossrefs\n[^A]: [[Lev-7-8|Lev 7:8]]\n[^B]: [[Exod-29-17|Ex 29:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

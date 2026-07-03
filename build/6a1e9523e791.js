@@ -1,0 +1,1 @@
+(function(){var b="6a1e9523e791",m="# Genesis 18:28 (New International Version)\nwhat if the number of the righteous is five less than fifty? Will you destroy the whole city for lack of five people?\"\n\"If I find forty-five there,\" he said, \"I will not destroy it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

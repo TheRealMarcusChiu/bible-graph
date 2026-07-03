@@ -1,0 +1,1 @@
+(function(){var b="b8a8bf9a9f93",m="# 1 Timothy 4:15 (New International Version)\nBe diligent in these matters; give yourself wholly to them, so that everyone may see your progress.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

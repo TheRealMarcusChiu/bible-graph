@@ -1,0 +1,1 @@
+(function(){var b="a78982d2b2dc",m="# Genesis 15:20 (New International Version)\nHittites,[^A] Perizzites,[^B] Rephaites,[^C] \n\n### Crossrefs\n[^A]: S [[Gen-10-15|Ge 10:15]]; S [[Deut-7-1|Dt 7:1]]\n[^B]: S [[Gen-13-7|Ge 13:7]]\n[^C]: S [[Gen-14-5|Ge 14:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

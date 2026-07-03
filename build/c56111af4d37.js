@@ -1,0 +1,1 @@
+(function(){var b="c56111af4d37",m="# James 2:9 (New International Version)\nBut if you show favoritism,[^A] you sin and are convicted by the law as lawbreakers.[^B] \n\n### Crossrefs\n[^A]: [[Jas-2-1|ver 1]]\n[^B]: [[Deut-1-17|Dt 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2ca3cc63985b",m="# John 18:6 (New International Version)\nWhen Jesus said, \"I am he,\" they drew back and fell to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

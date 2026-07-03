@@ -1,0 +1,1 @@
+(function(){var b="5e5af965e2eb",m="# Luke 2:13 (New International Version)\nSuddenly a great company of the heavenly host appeared with the angel, praising God and saying,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

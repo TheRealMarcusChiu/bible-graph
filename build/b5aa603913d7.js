@@ -1,0 +1,1 @@
+(function(){var b="b5aa603913d7",m="# Joshua 15:46 (New International Version)\nwest of Ekron, all that were in the vicinity of Ashdod,[^A] together with their villages; \n\n### Crossrefs\n[^A]: [[Josh-11-22|Jos 11:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

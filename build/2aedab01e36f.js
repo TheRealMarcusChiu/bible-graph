@@ -1,0 +1,1 @@
+(function(){var b="2aedab01e36f",m="# Luke 18:4 (New International Version)\n\"For some time he refused. But finally he said to himself, 'Even though I don't fear God or care what people think,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3a575716e942",m="# Genesis 4:5 (New International Version)\nbut on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

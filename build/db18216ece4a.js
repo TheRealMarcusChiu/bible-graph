@@ -1,0 +1,1 @@
+(function(){var b="db18216ece4a",m="# 1 Corinthians 15:13 (New International Version)\nIf there is no resurrection of the dead, then not even Christ has been raised.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

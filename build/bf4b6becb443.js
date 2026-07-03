@@ -1,0 +1,1 @@
+(function(){var b="bf4b6becb443",m="# John 18:39 (New International Version)\nBut it is your custom for me to release to you one prisoner at the time of the Passover. Do you want me to release 'the king of the Jews'?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

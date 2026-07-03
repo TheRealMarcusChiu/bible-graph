@@ -1,0 +1,1 @@
+(function(){var b="9d3ec9708289",m="# Mark 5:13 (New International Version)\nHe gave them permission, and the impure spirits came out and went into the pigs. The herd, about two thousand in number, rushed down the steep bank into the lake and were drowned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

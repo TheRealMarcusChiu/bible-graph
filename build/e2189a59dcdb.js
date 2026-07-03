@@ -1,0 +1,1 @@
+(function(){var b="e2189a59dcdb",m="# Mark 5:16 (New International Version)\nThose who had seen it told the people what had happened to the demon-possessed man--and told about the pigs as well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="45fc0db2558c",m="# Leviticus 12:4 (New International Version)\nThen the woman must wait thirty-three days to be purified from her bleeding. She must not touch anything sacred or go to the sanctuary until the days of her purification are over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

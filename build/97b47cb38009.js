@@ -1,0 +1,1 @@
+(function(){var b="97b47cb38009",m="# 1 Corinthians 11:8 (New International Version)\nFor man did not come from woman, but woman from man;[^A] \n\n### Crossrefs\n[^A]: [[Gen-2-21|Ge 2:21-23]]; [[1Tim-2-13|1Ti 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

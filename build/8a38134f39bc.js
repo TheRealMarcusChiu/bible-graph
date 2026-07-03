@@ -1,0 +1,1 @@
+(function(){var b="8a38134f39bc",m="# Deuteronomy 1:12 (New International Version)\nBut how can I bear your problems and your burdens and your disputes all by myself?[^A] \n\n### Crossrefs\n[^A]: S [[Exod-5-22|Ex 5:22]]; S [[Exod-18-18|18:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

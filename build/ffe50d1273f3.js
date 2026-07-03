@@ -1,0 +1,1 @@
+(function(){var b="ffe50d1273f3",m="# Acts 8:8 (New International Version)\nSo there was great joy in that city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

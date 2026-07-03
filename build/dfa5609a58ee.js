@@ -1,0 +1,1 @@
+(function(){var b="dfa5609a58ee",m="# Luke 9:53 (New International Version)\nbut the people there did not welcome him, because he was heading for Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

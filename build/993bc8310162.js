@@ -1,0 +1,1 @@
+(function(){var b="993bc8310162",m="# Leviticus 27:22 (New International Version)\n\"'If anyone dedicates to the LORD a field they have bought, which is not part of their family land,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

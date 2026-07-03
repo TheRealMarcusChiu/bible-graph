@@ -1,0 +1,1 @@
+(function(){var b="b17880cae300",m="# Leviticus 25:2 (New International Version)\n\"Speak to the Israelites and say to them: 'When you enter the land I am going to give you, the land itself must observe a sabbath to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

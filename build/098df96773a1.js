@@ -1,0 +1,1 @@
+(function(){var b="098df96773a1",m="# Mark 2:6 (New International Version)\nNow some teachers of the law were sitting there, thinking to themselves,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

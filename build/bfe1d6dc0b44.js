@@ -1,0 +1,1 @@
+(function(){var b="bfe1d6dc0b44",m="# John 8:37 (New International Version)\nI know that you are Abraham's descendants. Yet you are looking for a way to kill me,[^A] because you have no room for my word. \n\n### Crossrefs\n[^A]: [[John-8-39|ver 39]], [[John-8-40|40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

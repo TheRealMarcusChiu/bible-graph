@@ -1,0 +1,1 @@
+(function(){var b="d879968e5608",m="# Matthew 7:3 (New International Version)\n\"Why do you look at the speck of sawdust in your brother's eye and pay no attention to the plank in your own eye?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

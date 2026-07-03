@@ -1,0 +1,1 @@
+(function(){var b="57f3ba1fdb42",m="# John 4:41 (New International Version)\nAnd because of his words many more became believers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

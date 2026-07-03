@@ -1,0 +1,1 @@
+(function(){var b="c0d731436402",m="# Numbers 33:29 (New International Version)\nThey left Mithkah and camped at Hashmonah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

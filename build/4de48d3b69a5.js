@@ -1,0 +1,1 @@
+(function(){var b="4de48d3b69a5",m="# Mark 1:30 (New International Version)\nSimon's mother-in-law was in bed with a fever, and they immediately told Jesus about her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

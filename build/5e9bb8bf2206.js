@@ -1,0 +1,1 @@
+(function(){var b="5e9bb8bf2206",m="# Exodus 35:7 (New International Version)\nram skins dyed red and another type of durable leather; acacia wood;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

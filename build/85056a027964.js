@@ -1,0 +1,1 @@
+(function(){var b="85056a027964",m="# Acts 28:26 (New International Version)\n\"'Go to this people and say,  \n\"You will be ever hearing but never understanding;  \n    you will be ever seeing but never perceiving.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

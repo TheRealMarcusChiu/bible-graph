@@ -1,0 +1,1 @@
+(function(){var b="c1783784aa20",m="# Numbers 32:36 (New International Version)\nBeth Nimrah[^A] and Beth Haran as fortified cities, and built pens for their flocks.[^B] \n\n### Crossrefs\n[^A]: S [[Num-32-3|ver 3]]\n[^B]: S [[Num-32-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

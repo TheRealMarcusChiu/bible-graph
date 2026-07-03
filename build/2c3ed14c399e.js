@@ -1,0 +1,1 @@
+(function(){var b="2c3ed14c399e",m="# Acts 4:37 (New International Version)\nsold a field he owned and brought the money and put it at the apostles' feet.[^A]\n\n### Crossrefs\n[^A]: [[Acts-4-35|ver 35]]; [[Acts-5-2|Ac 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6707ba5d3e9d",m="# Luke 17\n\nA careful, orderly account of Jesus, friend of sinners and outcasts, written for Theophilus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

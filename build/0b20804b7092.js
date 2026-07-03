@@ -1,0 +1,1 @@
+(function(){var b="0b20804b7092",m="# Luke 16:23 (New International Version)\nIn Hades, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

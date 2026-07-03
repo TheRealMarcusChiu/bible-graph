@@ -1,0 +1,1 @@
+(function(){var b="d3424ea8288b",m="# Luke 7:12 (New International Version)\nAs he approached the town gate, a dead person was being carried out--the only son of his mother, and she was a widow. And a large crowd from the town was with her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

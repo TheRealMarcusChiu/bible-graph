@@ -1,0 +1,1 @@
+(function(){var b="05a5a330d449",m="# Matthew 2:14 (New International Version)\nSo he got up, took the child and his mother during the night and left for Egypt,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

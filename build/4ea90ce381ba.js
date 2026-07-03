@@ -1,0 +1,1 @@
+(function(){var b="4ea90ce381ba",m="# John 11:51 (New International Version)\nHe did not say this on his own, but as high priest that year he prophesied that Jesus would die for the Jewish nation,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

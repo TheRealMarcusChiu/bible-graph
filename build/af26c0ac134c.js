@@ -1,0 +1,1 @@
+(function(){var b="af26c0ac134c",m="# Leviticus 14:54 (New International Version)\nThese are the regulations for any defiling skin disease,[^A] for a sore, \n\n### Crossrefs\n[^A]: [[Lev-13-2|Lev 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

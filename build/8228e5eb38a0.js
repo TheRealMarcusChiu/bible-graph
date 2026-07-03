@@ -1,0 +1,1 @@
+(function(){var b="8228e5eb38a0",m="# Joshua 18:9 (New International Version)\nSo the men left and went through the land. They wrote its description on a scroll, town by town, in seven parts, and returned to Joshua in the camp at Shiloh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

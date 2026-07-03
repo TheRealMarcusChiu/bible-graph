@@ -1,0 +1,1 @@
+(function(){var b="3dc1b52cc83c",m="# Joshua 21:42 (New International Version)\nEach of these towns had pasturelands surrounding it; this was true for all these towns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

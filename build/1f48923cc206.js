@@ -1,0 +1,1 @@
+(function(){var b="1f48923cc206",m="# Luke 20:44 (New International Version)\nDavid calls him 'Lord.' How then can he be his son?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aff8427fe492",m="# 1 Corinthians 3:14 (New International Version)\nIf what has been built survives, the builder will receive a reward.[^A] \n\n### Crossrefs\n[^A]: S [[1Cor-3-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

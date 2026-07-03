@@ -1,0 +1,1 @@
+(function(){var b="617175fd33ae",m="# Luke 19:32 (New International Version)\nThose who were sent ahead went and found it just as he had told them.[^A] \n\n### Crossrefs\n[^A]: [[Luke-22-13|Lk 22:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

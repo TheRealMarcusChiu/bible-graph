@@ -1,0 +1,1 @@
+(function(){var b="ce7bd7712cdc",m="# Numbers 33:26 (New International Version)\nThey left Makheloth and camped at Tahath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

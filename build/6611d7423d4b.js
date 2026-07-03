@@ -1,0 +1,1 @@
+(function(){var b="6611d7423d4b",m="# Romans 5:11 (New International Version)\nNot only is this so, but we also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-5-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1307332393bc",m="# Exodus 16:2 (New International Version)\nIn the desert the whole community grumbled[^A] against Moses and Aaron. \n\n### Crossrefs\n[^A]: S [[Exod-15-24|Ex 15:24]]; [[1Cor-10-10|1Co 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

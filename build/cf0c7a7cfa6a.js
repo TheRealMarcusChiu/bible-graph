@@ -1,0 +1,1 @@
+(function(){var b="cf0c7a7cfa6a",m="# Matthew 25:11 (New International Version)\n\"Later the others also came. 'Lord, Lord,' they said, 'open the door for us!'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

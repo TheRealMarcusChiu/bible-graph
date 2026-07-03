@@ -1,0 +1,1 @@
+(function(){var b="9d5e7ae7e3ad",m="# Luke 23:27 (New International Version)\nA large number of people followed him, including women who mourned and wailed[^A] for him. \n\n### Crossrefs\n[^A]: [[Luke-8-52|Lk 8:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

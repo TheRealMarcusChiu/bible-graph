@@ -1,0 +1,1 @@
+(function(){var b="4dfe961b7cf2",m="# Matthew 12:49 (New International Version)\nPointing to his disciples, he said, \"Here are my mother and my brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dac1e1da4f05",m="# Joshua 21:20 (New International Version)\nThe rest of the Kohathite clans of the Levites were allotted towns from the tribe of Ephraim:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

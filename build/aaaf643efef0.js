@@ -1,0 +1,1 @@
+(function(){var b="aaaf643efef0",m="# Genesis 22:5 (New International Version)\nHe said to his servants, \"Stay here with the donkey while I and the boy go over there. We will worship and then we will come back to you.[^A]\"\n\n### Crossrefs\n[^A]: [[Exod-24-14|Ex 24:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

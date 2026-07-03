@@ -1,0 +1,1 @@
+(function(){var b="c5b1db714048",m="# Judges 11:33 (New International Version)\nHe devastated twenty towns from Aroer to the vicinity of Minnith,[^A] as far as Abel Keramim. Thus Israel subdued Ammon.\n\n### Crossrefs\n[^A]: [[Ezek-27-17|Eze 27:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

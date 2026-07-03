@@ -1,0 +1,1 @@
+(function(){var b="1bec6e2cb928",m="# Matthew 22:26 (New International Version)\nThe same thing happened to the second and third brother, right on down to the seventh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

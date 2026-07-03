@@ -1,0 +1,1 @@
+(function(){var b="795b4b2e480f",m="# Numbers 8:20 (New International Version)\nMoses, Aaron and the whole Israelite community did with the Levites just as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

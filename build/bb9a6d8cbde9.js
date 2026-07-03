@@ -1,0 +1,1 @@
+(function(){var b="bb9a6d8cbde9",m="# John 16:6 (New International Version)\nRather, you are filled with grief[^A] because I have said these things. \n\n### Crossrefs\n[^A]: [[John-16-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

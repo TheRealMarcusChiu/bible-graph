@@ -1,0 +1,1 @@
+(function(){var b="b3769776c7a2",m="# Exodus 10:25 (New International Version)\nBut Moses said, \"You must allow us to have sacrifices and burnt offerings[^A] to present to the LORD our God. \n\n### Crossrefs\n[^A]: S [[Gen-8-20|Ge 8:20]]; S [[Exod-18-12|Ex 18:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

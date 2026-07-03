@@ -1,0 +1,1 @@
+(function(){var b="b84f77dc6da8",m="# John 12:23 (New International Version)\nJesus replied, \"The hour[^A] has come for the Son of Man to be glorified.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-26-18|Mt 26:18]]\n[^B]: [[John-13-32|Jn 13:32]]; [[John-17-1|17:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c7227b68c87d",m="# Matthew 5:14 (New International Version)\n\"You are the light of the world.[^A] A town built on a hill cannot be hidden. \n\n### Crossrefs\n[^A]: [[John-8-12|Jn 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

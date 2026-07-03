@@ -1,0 +1,1 @@
+(function(){var b="da352f5587a5",m="# Matthew 6:11 (New International Version)\nGive us today our daily bread.[^A]\n\n### Crossrefs\n[^A]: [[Prov-30-8|Pr 30:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5963f724e38c",m="# Acts 3:3 (New International Version)\nWhen he saw Peter and John about to enter, he asked them for money.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

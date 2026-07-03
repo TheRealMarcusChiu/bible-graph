@@ -1,0 +1,1 @@
+(function(){var b="849cd2839fc8",m="# Luke 8:50 (New International Version)\nHearing this, Jesus said to Jairus, \"Don't be afraid; just believe, and she will be healed.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

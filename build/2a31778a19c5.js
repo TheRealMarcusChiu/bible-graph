@@ -1,0 +1,1 @@
+(function(){var b="2a31778a19c5",m="# Philippians 1:28 (New International Version)\nwithout being frightened in any way by those who oppose you. This is a sign to them that they will be destroyed, but that you will be saved--and that by God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0b45aae11e15",m="# John 18:35 (New International Version)\n\"Am I a Jew?\" Pilate replied. \"Your own people and chief priests handed you over to me. What is it you have done?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

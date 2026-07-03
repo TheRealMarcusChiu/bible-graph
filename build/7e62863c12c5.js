@@ -1,0 +1,1 @@
+(function(){var b="7e62863c12c5",m="# Joshua 19:17 (New International Version)\nAllotment for Issachar\nThe fourth lot came out for Issachar[^A] according to its clans. \n\n### Crossrefs\n[^A]: S [[Gen-30-18|Ge 30:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

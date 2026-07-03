@@ -1,0 +1,1 @@
+(function(){var b="ec327fbc2661",m="# Numbers 29:29 (New International Version)\n\"'On the sixth day offer eight bulls, two rams and fourteen male lambs a year old, all without defect.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5eda2c17b1f6",m="# Joshua 2:17 (New International Version)\nNow the men had said to her, \"This oath[^A] you made us swear will not be binding on us \n\n### Crossrefs\n[^A]: S [[Gen-24-8|Ge 24:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

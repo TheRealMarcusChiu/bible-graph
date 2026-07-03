@@ -1,0 +1,1 @@
+(function(){var b="15aa46f671c2",m="# Numbers 23:12 (New International Version)\nHe answered, \"Must I not speak what the LORD puts in my mouth?\"[^A]\n\n### Crossrefs\n[^A]: S [[Num-22-18|Nu 22:18]], [[Num-22-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

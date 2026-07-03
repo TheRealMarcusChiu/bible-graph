@@ -1,0 +1,1 @@
+(function(){var b="4e4ffa715b35",m="# Luke 11:47 (New International Version)\n\"Woe to you, because you build tombs for the prophets, and it was your ancestors who killed them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

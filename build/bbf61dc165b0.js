@@ -1,0 +1,1 @@
+(function(){var b="bbf61dc165b0",m="# Acts 14:6 (New International Version)\nBut they found out about it and fled[^A] to the Lycaonian cities of Lystra and Derbe and to the surrounding country, \n\n### Crossrefs\n[^A]: [[Matt-10-23|Mt 10:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

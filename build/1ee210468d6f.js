@@ -1,0 +1,1 @@
+(function(){var b="1ee210468d6f",m="# Numbers 12:4 (New International Version)\nAt once the LORD said to Moses, Aaron and Miriam, \"Come out to the tent of meeting, all three of you.\" So the three of them went out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

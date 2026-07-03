@@ -1,0 +1,1 @@
+(function(){var b="ad7d8180b3ae",m="# Matthew 11:12 (New International Version)\nFrom the days of John the Baptist until now, the kingdom of heaven has been subjected to violence, and violent people have been raiding it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1e2b8fb9c695",m="# 1 John 3:4 (New International Version)\nEveryone who sins breaks the law; in fact, sin is lawlessness.[^A] \n\n### Crossrefs\n[^A]: [[1John-5-17|1Jn 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

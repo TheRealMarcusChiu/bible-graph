@@ -1,0 +1,1 @@
+(function(){var b="522398a77232",m="# Luke 20:10 (New International Version)\nAt harvest time he sent a servant to the tenants so they would give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

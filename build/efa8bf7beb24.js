@@ -1,0 +1,1 @@
+(function(){var b="efa8bf7beb24",m="# Deuteronomy 9:20 (New International Version)\nAnd the LORD was angry enough with Aaron to destroy him, but at that time I prayed for Aaron too.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

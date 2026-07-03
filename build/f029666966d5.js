@@ -1,0 +1,1 @@
+(function(){var b="f029666966d5",m="# Romans 12:18 (New International Version)\nIf it is possible, as far as it depends on you, live at peace with everyone.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-9-50|Mk 9:50]]; S [[Rom-14-19|Ro 14:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

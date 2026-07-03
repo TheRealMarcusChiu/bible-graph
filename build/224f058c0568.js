@@ -1,0 +1,1 @@
+(function(){var b="224f058c0568",m="# Luke 5:7 (New International Version)\nSo they signaled their partners in the other boat to come and help them, and they came and filled both boats so full that they began to sink.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

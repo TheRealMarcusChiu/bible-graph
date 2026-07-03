@@ -1,0 +1,1 @@
+(function(){var b="fa20b6d709f9",m="# Matthew 2:3 (New International Version)\nWhen King Herod heard this he was disturbed, and all Jerusalem with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

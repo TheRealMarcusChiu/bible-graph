@@ -1,0 +1,1 @@
+(function(){var b="a487169c020e",m="# 1 Corinthians 16:14 (New International Version)\nDo everything in love.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-14-1|1Co 14:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6cc7411108ae",m="# Leviticus 19:25 (New International Version)\nBut in the fifth year you may eat its fruit. In this way your harvest will be increased. I am the LORD your God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

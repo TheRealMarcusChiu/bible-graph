@@ -1,0 +1,1 @@
+(function(){var b="8019a24914e6",m="# Luke 14:27 (New International Version)\nAnd whoever does not carry their cross and follow me cannot be my disciple.[^A]\n\n### Crossrefs\n[^A]: [[Matt-10-38|Mt 10:38]]; [[Luke-9-23|Lk 9:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

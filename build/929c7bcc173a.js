@@ -1,0 +1,1 @@
+(function(){var b="929c7bcc173a",m="# Romans 2:3 (New International Version)\nSo when you, a mere human being, pass judgment on them and yet do the same things, do you think you will escape God's judgment?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

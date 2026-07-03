@@ -1,0 +1,1 @@
+(function(){var b="5efe2f7e9c75",m="# Matthew 16:8 (New International Version)\nAware of their discussion, Jesus asked, \"You of little faith,[^A] why are you talking among yourselves about having no bread? \n\n### Crossrefs\n[^A]: S [[Matt-6-30|Mt 6:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

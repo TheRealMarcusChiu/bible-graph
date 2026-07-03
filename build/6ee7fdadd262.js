@@ -1,0 +1,1 @@
+(function(){var b="6ee7fdadd262",m="# Acts 28:2 (New International Version)\nThe islanders showed us unusual kindness. They built a fire and welcomed us all because it was raining and cold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

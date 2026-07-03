@@ -1,0 +1,1 @@
+(function(){var b="7906272554b9",m="# Hebrews 7:15 (New International Version)\nAnd what we have said is even more clear if another priest like Melchizedek appears,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

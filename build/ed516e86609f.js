@@ -1,0 +1,1 @@
+(function(){var b="ed516e86609f",m="# Numbers 22:35 (New International Version)\nThe angel of the LORD said to Balaam, \"Go with the men, but speak only what I tell you.\" So Balaam went with Balak's officials.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

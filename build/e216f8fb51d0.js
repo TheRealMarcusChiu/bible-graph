@@ -1,0 +1,1 @@
+(function(){var b="e216f8fb51d0",m="# Leviticus 21:16 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

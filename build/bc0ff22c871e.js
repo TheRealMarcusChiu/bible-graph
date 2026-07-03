@@ -1,0 +1,1 @@
+(function(){var b="bc0ff22c871e",m="# Leviticus 24:10 (New International Version)\nA Blasphemer Put to Death\nNow the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and an Israelite.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

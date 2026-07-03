@@ -1,0 +1,1 @@
+(function(){var b="3812ad8ae583",m="# Acts 27:28 (New International Version)\nThey took soundings and found that the water was a hundred and twenty feet deep. A short time later they took soundings again and found it was ninety feet deep.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

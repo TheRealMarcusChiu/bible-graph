@@ -1,0 +1,1 @@
+(function(){var b="015351b2fec0",m="# Exodus 18:2 (New International Version)\nAfter Moses had sent away his wife Zipporah,[^A] his father-in-law Jethro received her \n\n### Crossrefs\n[^A]: S [[Exod-2-21|Ex 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2431e6627d6b",m="# Exodus 36:22 (New International Version)\nwith two projections set parallel to each other. They made all the frames of the tabernacle in this way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

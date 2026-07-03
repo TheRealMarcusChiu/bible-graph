@@ -1,0 +1,1 @@
+(function(){var b="8e5c97e37130",m="# Matthew 16:28 (New International Version)\n\"Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in his kingdom.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

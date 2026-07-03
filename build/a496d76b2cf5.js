@@ -1,0 +1,1 @@
+(function(){var b="a496d76b2cf5",m="# Leviticus 4:5 (New International Version)\nThen the anointed priest shall take some of the bull's blood[^A] and carry it into the tent of meeting. \n\n### Crossrefs\n[^A]: [[Lev-4-16|ver 16]]; [[Lev-16-14|Lev 16:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

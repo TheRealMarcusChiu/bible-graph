@@ -1,0 +1,1 @@
+(function(){var b="494ed3cbf207",m="# Genesis 27:23 (New International Version)\nHe did not recognize him, for his hands were hairy like those of his brother Esau;[^A] so he proceeded to bless him. \n\n### Crossrefs\n[^A]: [[Gen-27-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

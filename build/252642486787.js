@@ -1,0 +1,1 @@
+(function(){var b="252642486787",m="# Acts 23:4 (New International Version)\nThose who were standing near Paul said, \"How dare you insult God's high priest!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5312cf8c9d91",m="# Luke 23:21 (New International Version)\nBut they kept shouting, \"Crucify him! Crucify him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5133c16bb8c8",m="# Acts 13:35 (New International Version)\nSo it is also stated elsewhere:\n\"'You will not let your holy one see decay.'[^A]\n\n### Crossrefs\n[^A]: [[Ps-16-10|Ps 16:10]]; [[Acts-2-27|Ac 2:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

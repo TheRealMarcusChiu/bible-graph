@@ -1,0 +1,1 @@
+(function(){var b="cfa942698c83",m="# Acts 23:32 (New International Version)\nThe next day they let the cavalry[^A] go on with him, while they returned to the barracks.[^B] \n\n### Crossrefs\n[^A]: [[Acts-23-23|ver 23]]\n[^B]: S [[Acts-21-34|Ac 21:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d9ec6e44aef4",m="# Deuteronomy 6:1 (New International Version)\nLove the LORD Your God\nThese are the commands, decrees and laws the LORD your God directed me to teach you to observe in the land that you are crossing the Jordan to possess,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

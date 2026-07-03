@@ -1,0 +1,1 @@
+(function(){var b="8d108186a3de",m="# Genesis 6:21 (New International Version)\nYou are to take every kind of food that is to be eaten and store it away as food for you and for them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="42a20da5a7b3",m="# 1 Corinthians 12:29 (New International Version)\nAre all apostles? Are all prophets? Are all teachers? Do all work miracles?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

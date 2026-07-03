@@ -1,0 +1,1 @@
+(function(){var b="c3bc7cb48047",m="# John 3:23 (New International Version)\nNow John[^A] also was baptizing at Aenon near Salim, because there was plenty of water, and people were coming and being baptized. \n\n### Crossrefs\n[^A]: S [[Matt-3-1|Mt 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

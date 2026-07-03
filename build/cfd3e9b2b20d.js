@@ -1,0 +1,1 @@
+(function(){var b="cfd3e9b2b20d",m="# John 17:20 (New International Version)\nJesus Prays for All Believers\n\"My prayer is not for them alone. I pray also for those who will believe in me through their message,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

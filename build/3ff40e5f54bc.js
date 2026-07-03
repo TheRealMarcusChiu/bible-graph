@@ -1,0 +1,1 @@
+(function(){var b="3ff40e5f54bc",m="# John 1:25 (New International Version)\nquestioned him, \"Why then do you baptize if you are not the Messiah, nor Elijah, nor the Prophet?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

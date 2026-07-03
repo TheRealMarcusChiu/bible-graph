@@ -1,0 +1,1 @@
+(function(){var b="2c790fe587ae",m="# 1 Corinthians 7:32 (New International Version)\nI would like you to be free from concern. An unmarried man is concerned about the Lord's affairs[^A]--how he can please the Lord. \n\n### Crossrefs\n[^A]: [[1Tim-5-5|1Ti 5:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

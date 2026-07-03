@@ -1,0 +1,1 @@
+(function(){var b="f1d97d6cd883",m="# Mark 5:36 (New International Version)\nOverhearing what they said, Jesus told him, \"Don't be afraid; just believe.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

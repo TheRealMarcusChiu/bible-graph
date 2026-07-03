@@ -1,0 +1,1 @@
+(function(){var b="a7e6c5951562",m="# Leviticus 8:12 (New International Version)\nHe poured some of the anointing oil on Aaron's head and anointed[^A] him to consecrate him.[^B] \n\n### Crossrefs\n[^A]: S [[Lev-7-36|Lev 7:36]]\n[^B]: S [[Exod-30-30|Ex 30:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

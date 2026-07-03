@@ -1,0 +1,1 @@
+(function(){var b="0a7380b15ec3",m="# 1 Corinthians 4:20 (New International Version)\nFor the kingdom of God is not a matter of[^A] talk but of power.[^B] \n\n### Crossrefs\n[^A]: [[Rom-14-17|Ro 14:17]]\n[^B]: S [[Rom-15-13|Ro 15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

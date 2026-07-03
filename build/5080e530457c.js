@@ -1,0 +1,1 @@
+(function(){var b="5080e530457c",m="# Luke 13:21 (New International Version)\nIt is like yeast that a woman took and mixed into about sixty pounds of flour until it worked all through the dough.\"[^A]\n\n### Crossrefs\n[^A]: [[1Cor-5-6|1Co 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2e36e4f4fa69",m="# Matthew 16:7 (New International Version)\nThey discussed this among themselves and said, \"It is because we didn't bring any bread.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

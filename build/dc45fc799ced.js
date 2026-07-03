@@ -1,0 +1,1 @@
+(function(){var b="dc45fc799ced",m="# James 4:10 (New International Version)\nHumble yourselves before the Lord, and he will lift you up.[^A]\n\n### Crossrefs\n[^A]: [[Jas-4-6|ver 6]]; [[Job-5-11|Job 5:11]]; [[1Pet-5-6|1Pe 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

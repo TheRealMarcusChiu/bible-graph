@@ -1,0 +1,1 @@
+(function(){var b="61a0c5638476",m="# Deuteronomy 34:2 (New International Version)\nall of Naphtali, the territory of Ephraim and Manasseh, all the land of Judah as far as the Mediterranean Sea,[^A] \n\n### Crossrefs\n[^A]: S [[Exod-23-31|Ex 23:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

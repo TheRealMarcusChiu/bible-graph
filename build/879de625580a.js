@@ -1,0 +1,1 @@
+(function(){var b="879de625580a",m="# 2 Peter\n\nGrowing in grace and guarding against false teachers while awaiting the day of the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

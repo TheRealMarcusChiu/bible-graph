@@ -1,0 +1,1 @@
+(function(){var b="7a39e52713c1",m="# Luke 4:17 (New International Version)\nand the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

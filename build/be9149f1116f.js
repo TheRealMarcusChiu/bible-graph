@@ -1,0 +1,1 @@
+(function(){var b="be9149f1116f",m="# Matthew 26:54 (New International Version)\nBut how then would the Scriptures be fulfilled[^A] that say it must happen in this way?\"\n\n### Crossrefs\n[^A]: S [[Matt-26-24|ver 24]]; S [[Matt-1-22|Mt 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

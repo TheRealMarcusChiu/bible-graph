@@ -1,0 +1,1 @@
+(function(){var b="359d6c22fca3",m="# Judges 9:41 (New International Version)\nThen Abimelek stayed in Arumah, and Zebul drove Gaal and his clan out of Shechem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

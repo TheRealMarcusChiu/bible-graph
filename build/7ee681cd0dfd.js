@@ -1,0 +1,1 @@
+(function(){var b="7ee681cd0dfd",m="# Numbers 33:51 (New International Version)\n\"Speak to the Israelites and say to them: 'When you cross the Jordan into Canaan,[^A] \n\n### Crossrefs\n[^A]: [[Num-34-2|Nu 34:2]]; [[Josh-3-17|Jos 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

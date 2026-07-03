@@ -1,0 +1,1 @@
+(function(){var b="aed86e50ddd8",m="# Leviticus 23:16 (New International Version)\nCount off fifty days up to the day after the seventh Sabbath,[^A] and then present an offering of new grain to the LORD. \n\n### Crossrefs\n[^A]: [[Acts-2-1|Ac 2:1]]; [[Acts-20-16|20:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

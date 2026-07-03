@@ -1,0 +1,1 @@
+(function(){var b="6eb3fde9458f",m="# Numbers 33:45 (New International Version)\nThey left Iye Abarim and camped at Dibon Gad.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

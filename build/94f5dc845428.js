@@ -1,0 +1,1 @@
+(function(){var b="94f5dc845428",m="# Exodus 4:4 (New International Version)\nThen the LORD said to him, \"Reach out your hand and take it by the tail.\" So Moses reached out and took hold of the snake and it turned back into a staff in his hand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

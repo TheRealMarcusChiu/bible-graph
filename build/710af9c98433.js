@@ -1,0 +1,1 @@
+(function(){var b="710af9c98433",m="# Judges 10:13 (New International Version)\nBut you have forsaken[^A] me and served other gods,[^B] so I will no longer save you. \n\n### Crossrefs\n[^A]: S [[Deut-32-15|Dt 32:15]]\n[^B]: [[Jer-11-10|Jer 11:10]]; [[Jer-13-10|13:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

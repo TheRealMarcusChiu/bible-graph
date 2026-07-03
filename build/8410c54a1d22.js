@@ -1,0 +1,1 @@
+(function(){var b="8410c54a1d22",m="# Exodus 12:26 (New International Version)\nAnd when your children[^A] ask you, 'What does this ceremony mean to you?' \n\n### Crossrefs\n[^A]: [[Exod-10-2|Ex 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5defc220c81b",m="# Colossians 1:14 (New International Version)\nin whom we have redemption,[^A] the forgiveness of sins.[^B]\n\n### Crossrefs\n[^A]: S [[Rom-3-24|Ro 3:24]]\n[^B]: [[Eph-1-7|Eph 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

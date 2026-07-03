@@ -1,0 +1,1 @@
+(function(){var b="83557896eebf",m="# Judges 9:55 (New International Version)\nWhen the Israelites saw that Abimelek was dead, they went home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

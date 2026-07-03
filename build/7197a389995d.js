@@ -1,0 +1,1 @@
+(function(){var b="7197a389995d",m="# Matthew 16:10 (New International Version)\nOr the seven loaves for the four thousand, and how many basketfuls you gathered?[^A] \n\n### Crossrefs\n[^A]: [[Matt-15-34|Mt 15:34-38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

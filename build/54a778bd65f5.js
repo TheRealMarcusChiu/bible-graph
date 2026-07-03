@@ -1,0 +1,1 @@
+(function(){var b="54a778bd65f5",m="# Acts 23:34 (New International Version)\nThe governor read the letter and asked what province he was from. Learning that he was from Cilicia,[^A] \n\n### Crossrefs\n[^A]: S [[Acts-6-9|Ac 6:9]]; [[Acts-21-39|21:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

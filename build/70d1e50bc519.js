@@ -1,0 +1,1 @@
+(function(){var b="70d1e50bc519",m="# 1 Corinthians 16:9 (New International Version)\nbecause a great door for effective work has opened to me,[^A] and there are many who oppose me.\n\n### Crossrefs\n[^A]: S [[Acts-14-27|Ac 14:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

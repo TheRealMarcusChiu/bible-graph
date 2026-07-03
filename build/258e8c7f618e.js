@@ -1,0 +1,1 @@
+(function(){var b="258e8c7f618e",m="# Deuteronomy 31:18 (New International Version)\nAnd I will certainly hide my face in that day because of all their wickedness in turning to other gods.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f6b90d1dc8ae",m="# Exodus 12:47 (New International Version)\nThe whole community of Israel must celebrate it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

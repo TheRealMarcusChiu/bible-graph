@@ -1,0 +1,1 @@
+(function(){var b="9f397aece603",m="# 1 Corinthians 15:55 (New International Version)\n\"Where, O death, is your victory?  \n    Where, O death, is your sting?\"[^A]\n\n### Crossrefs\n[^A]: [[Hos-13-14|Hos 13:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

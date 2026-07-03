@@ -1,0 +1,1 @@
+(function(){var b="6413f0456e2f",m="# Exodus 23:29 (New International Version)\nBut I will not drive them out in a single year, because the land would become desolate and the wild animals[^A] too numerous for you. \n\n### Crossrefs\n[^A]: [[Deut-7-22|Dt 7:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

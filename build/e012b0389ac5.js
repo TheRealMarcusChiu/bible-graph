@@ -1,0 +1,1 @@
+(function(){var b="e012b0389ac5",m="# Exodus 39:14 (New International Version)\nThere were twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.[^A]\n\n### Crossrefs\n[^A]: [[Rev-21-12|Rev 21:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

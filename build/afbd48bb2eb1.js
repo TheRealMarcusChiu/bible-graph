@@ -1,0 +1,1 @@
+(function(){var b="afbd48bb2eb1",m="# Exodus 34:34 (New International Version)\nBut whenever he entered the LORD's presence to speak with him, he removed the veil until he came out. And when he came out and told the Israelites what he had been commanded,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

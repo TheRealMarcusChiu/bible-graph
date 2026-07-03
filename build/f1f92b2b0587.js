@@ -1,0 +1,1 @@
+(function(){var b="f1f92b2b0587",m="# Joshua 21:29 (New International Version)\nJarmuth[^A] and En Gannim,[^B] together with their pasturelands--four towns;\n\n### Crossrefs\n[^A]: S [[Josh-10-3|Jos 10:3]]\n[^B]: S [[Josh-15-34|Jos 15:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

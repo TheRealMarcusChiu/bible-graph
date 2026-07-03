@@ -1,0 +1,1 @@
+(function(){var b="e3537743a5f4",m="# Genesis 36:27 (New International Version)\nThe sons of Ezer:\nBilhan, Zaavan and Akan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

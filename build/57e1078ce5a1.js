@@ -1,0 +1,1 @@
+(function(){var b="57e1078ce5a1",m="# Exodus 28:7 (New International Version)\nIt is to have two shoulder pieces attached to two of its corners, so it can be fastened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

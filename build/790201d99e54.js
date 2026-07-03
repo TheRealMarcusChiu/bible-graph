@@ -1,0 +1,1 @@
+(function(){var b="790201d99e54",m="# Exodus 9:33 (New International Version)\nThen Moses left Pharaoh and went out of the city. He spread out his hands toward the LORD; the thunder and hail stopped, and the rain no longer poured down on the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

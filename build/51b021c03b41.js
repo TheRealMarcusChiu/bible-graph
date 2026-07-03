@@ -1,0 +1,1 @@
+(function(){var b="51b021c03b41",m="# Numbers 24:23 (New International Version)\nBalaam's Seventh Message\nThen he spoke his message:\n\"Alas! Who can live when God does this?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

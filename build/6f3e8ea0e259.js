@@ -1,0 +1,1 @@
+(function(){var b="6f3e8ea0e259",m="# Matthew 28:6 (New International Version)\nHe is not here; he has risen, just as he said.[^A] Come and see the place where he lay. \n\n### Crossrefs\n[^A]: S [[Matt-16-21|Mt 16:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

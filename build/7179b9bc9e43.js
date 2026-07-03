@@ -1,0 +1,1 @@
+(function(){var b="7179b9bc9e43",m="# Judges 8:22 (New International Version)\nGideon's Ephod\nThe Israelites said to Gideon, \"Rule over us--you, your son and your grandson--because you have saved us from the hand of Midian.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

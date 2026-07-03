@@ -1,0 +1,1 @@
+(function(){var b="4b8346af437e",m="# Luke 19:24 (New International Version)\n\"Then he said to those standing by, 'Take his mina away from him and give it to the one who has ten minas.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

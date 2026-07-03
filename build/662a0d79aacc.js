@@ -1,0 +1,1 @@
+(function(){var b="662a0d79aacc",m="# Acts 19:20 (New International Version)\nIn this way the word of the Lord[^A] spread widely and grew in power.[^B]\n\n### Crossrefs\n[^A]: S [[Acts-13-48|Ac 13:48]]\n[^B]: [[Acts-6-7|Ac 6:7]]; [[Acts-12-24|12:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

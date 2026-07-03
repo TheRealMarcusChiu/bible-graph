@@ -1,0 +1,1 @@
+(function(){var b="bbe1d63c76ba",m="# Leviticus 7:27 (New International Version)\nAnyone who eats blood[^A] must be cut off from their people.'\"\n\n### Crossrefs\n[^A]: S [[Gen-9-4|Ge 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

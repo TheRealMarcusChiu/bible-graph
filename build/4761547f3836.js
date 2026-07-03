@@ -1,0 +1,1 @@
+(function(){var b="4761547f3836",m="# Judges 4:15 (New International Version)\nAt Barak's advance, the LORD routed[^A] Sisera and all his chariots and army by the sword, and Sisera got down from his chariot and fled on foot.\n\n### Crossrefs\n[^A]: S [[Josh-10-10|Jos 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

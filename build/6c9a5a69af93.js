@@ -1,0 +1,1 @@
+(function(){var b="6c9a5a69af93",m="# John 11:15 (New International Version)\nand for your sake I am glad I was not there, so that you may believe. But let us go to him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

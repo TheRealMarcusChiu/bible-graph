@@ -1,0 +1,1 @@
+(function(){var b="d40c79bbf4bc",m="# Genesis 7:6 (New International Version)\nNoah was six hundred years old[^A] when the floodwaters came on the earth. \n\n### Crossrefs\n[^A]: S [[Gen-5-32|Ge 5:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

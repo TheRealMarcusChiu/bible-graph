@@ -1,0 +1,1 @@
+(function(){var b="5c7fc1483f0e",m="# John 9:18 (New International Version)\nThey[^A] still did not believe that he had been blind and had received his sight until they sent for the man's parents. \n\n### Crossrefs\n[^A]: S [[John-1-19|Jn 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

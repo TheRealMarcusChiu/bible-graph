@@ -1,0 +1,1 @@
+(function(){var b="93f2d4f6166a",m="# Matthew 24:4 (New International Version)\nJesus answered: \"Watch out that no one deceives you.[^A] \n\n### Crossrefs\n[^A]: S [[Mark-13-5|Mk 13:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="be84d3188fc9",m="# Genesis 2:11 (New International Version)\nThe name of the first is the Pishon; it winds through the entire land of Havilah,[^A] where there is gold. \n\n### Crossrefs\n[^A]: [[Gen-10-7|Ge 10:7]]; [[Gen-25-18|25:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

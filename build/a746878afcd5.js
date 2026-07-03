@@ -1,0 +1,1 @@
+(function(){var b="a746878afcd5",m="# Luke 21:10 (New International Version)\nThen he said to them: \"Nation will rise against nation, and kingdom against kingdom.[^A] \n\n### Crossrefs\n[^A]: [[2Chr-15-6|2Ch 15:6]]; [[Isa-19-2|Isa 19:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7ce10421b40b",m="# Exodus 38:2 (New International Version)\nThey made a horn at each of the four corners, so that the horns and the altar were of one piece, and they overlaid the altar with bronze.[^A] \n\n### Crossrefs\n[^A]: [[2Chr-1-5|2Ch 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="591486cb0295",m="# Luke 15:29 (New International Version)\nBut he answered his father, 'Look! All these years I've been slaving for you and never disobeyed your orders. Yet you never gave me even a young goat so I could celebrate with my friends.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

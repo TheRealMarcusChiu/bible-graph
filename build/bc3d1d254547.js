@@ -1,0 +1,1 @@
+(function(){var b="bc3d1d254547",m="# Colossians 2:7 (New International Version)\nrooted[^A] and built up in him, strengthened in the faith as you were taught,[^B] and overflowing with thankfulness.\n\n### Crossrefs\n[^A]: [[Eph-3-17|Eph 3:17]]\n[^B]: [[Eph-4-21|Eph 4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

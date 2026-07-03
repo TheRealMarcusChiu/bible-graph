@@ -1,0 +1,1 @@
+(function(){var b="24d09fa2b1db",m="# Luke 15:5 (New International Version)\nAnd when he finds it, he joyfully puts it on his shoulders";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8db97aef047c",m="# Matthew 18:29 (New International Version)\n\"His fellow servant fell to his knees and begged him, 'Be patient with me, and I will pay it back.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

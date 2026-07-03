@@ -1,0 +1,1 @@
+(function(){var b="b2dbdee29a50",m="# Galatians 4:11 (New International Version)\nI fear for you, that somehow I have wasted my efforts on you.[^A]\n\n### Crossrefs\n[^A]: [[1Thess-3-5|1Th 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

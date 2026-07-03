@@ -1,0 +1,1 @@
+(function(){var b="051a71c4b76f",m="# Mark 11:16 (New International Version)\nand would not allow anyone to carry merchandise through the temple courts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

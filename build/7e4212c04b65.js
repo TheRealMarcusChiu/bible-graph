@@ -1,0 +1,1 @@
+(function(){var b="7e4212c04b65",m="# Mark 11:21 (New International Version)\nPeter remembered and said to Jesus, \"Rabbi,[^A] look! The fig tree you cursed has withered!\"\n\n### Crossrefs\n[^A]: S [[Matt-23-7|Mt 23:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="10afb1e0ac4b",m="# Judges 4:20 (New International Version)\n\"Stand in the doorway of the tent,\" he told her. \"If someone comes by and asks you, 'Is anyone in there?' say 'No.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

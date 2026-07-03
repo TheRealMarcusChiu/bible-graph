@@ -1,0 +1,1 @@
+(function(){var b="a71e9802e418",m="# Acts 3:12 (New International Version)\nWhen Peter saw this, he said to them: \"Fellow Israelites, why does this surprise you? Why do you stare at us as if by our own power or godliness we had made this man walk?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="105fa936dc33",m="# Numbers 14:17 (New International Version)\n\"Now may the Lord's strength be displayed, just as you have declared:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

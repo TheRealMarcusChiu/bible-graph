@@ -1,0 +1,1 @@
+(function(){var b="fa8c2670fa0f",m="# Genesis 11:21 (New International Version)\nAnd after he became the father of Serug, Reu lived 207 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

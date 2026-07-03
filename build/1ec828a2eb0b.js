@@ -1,0 +1,1 @@
+(function(){var b="1ec828a2eb0b",m="# Joshua 8:10 (New International Version)\nEarly the next morning[^A] Joshua mustered his army, and he and the leaders of Israel[^B] marched before them to Ai. \n\n### Crossrefs\n[^A]: [[Gen-22-3|Ge 22:3]]\n[^B]: S [[Josh-7-6|Jos 7:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

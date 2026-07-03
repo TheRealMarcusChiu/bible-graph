@@ -1,0 +1,1 @@
+(function(){var b="d0850e6edeac",m="# Leviticus 8:1 (New International Version)\nThe Ordination of Aaron and His Sons[^A]\nThe LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Lev-8-1|8:1-36pp]] — [[Exod-29-1|Ex 29:1-37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

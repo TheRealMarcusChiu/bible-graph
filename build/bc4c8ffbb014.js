@@ -1,0 +1,1 @@
+(function(){var b="bc4c8ffbb014",m="# John 21:12 (New International Version)\nJesus said to them, \"Come and have breakfast.\" None of the disciples dared ask him, \"Who are you?\" They knew it was the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

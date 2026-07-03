@@ -1,0 +1,1 @@
+(function(){var b="2de9fe930414",m="# Luke 7:40 (New International Version)\nJesus answered him, \"Simon, I have something to tell you.\"\n\"Tell me, teacher,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

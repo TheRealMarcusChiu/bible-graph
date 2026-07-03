@@ -1,0 +1,1 @@
+(function(){var b="b29b6f14bdb9",m="# Genesis 41:19 (New International Version)\nAfter them, seven other cows came up--scrawny and very ugly and lean. I had never seen such ugly cows in all the land of Egypt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

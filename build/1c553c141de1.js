@@ -1,0 +1,1 @@
+(function(){var b="1c553c141de1",m="# Acts 24:20 (New International Version)\nOr these who are here should state what crime they found in me when I stood before the Sanhedrin--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

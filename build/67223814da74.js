@@ -1,0 +1,1 @@
+(function(){var b="67223814da74",m="# Acts 28:3 (New International Version)\nPaul gathered a pile of brushwood and, as he put it on the fire, a viper, driven out by the heat, fastened itself on his hand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

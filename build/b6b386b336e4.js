@@ -1,0 +1,1 @@
+(function(){var b="b6b386b336e4",m="# Joshua 21:8 (New International Version)\nSo the Israelites allotted to the Levites these towns and their pasturelands, as the LORD had commanded through Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

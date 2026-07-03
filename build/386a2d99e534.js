@@ -1,0 +1,1 @@
+(function(){var b="386a2d99e534",m="# Matthew 10:29 (New International Version)\nAre not two sparrows sold for a penny? Yet not one of them will fall to the ground outside your Father's care.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

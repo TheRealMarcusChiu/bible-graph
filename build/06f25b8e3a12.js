@@ -1,0 +1,1 @@
+(function(){var b="06f25b8e3a12",m="# 2 Corinthians 13:7 (New International Version)\nNow we pray to God that you will not do anything wrong--not so that people will see that we have stood the test but so that you will do what is right even though we may seem to have failed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

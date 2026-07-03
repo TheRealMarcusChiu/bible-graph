@@ -1,0 +1,1 @@
+(function(){var b="6d73c6560147",m="# Ephesians 5:1 (New International Version)\nFollow God's example,[^A] therefore, as dearly loved children[^B] \n\n### Crossrefs\n[^A]: [[Matt-5-48|Mt 5:48]]; [[Luke-6-36|Lk 6:36]]\n[^B]: S [[John-1-12|Jn 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

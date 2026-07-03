@@ -1,0 +1,1 @@
+(function(){var b="961e82d5cb58",m="# Mark 8:26 (New International Version)\nJesus sent him home, saying, \"Don't even go into the village.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

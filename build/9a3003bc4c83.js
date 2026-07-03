@@ -1,0 +1,1 @@
+(function(){var b="9a3003bc4c83",m="# Numbers 8:1 (New International Version)\nSetting Up the Lamps\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

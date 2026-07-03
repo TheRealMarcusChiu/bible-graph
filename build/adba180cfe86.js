@@ -1,0 +1,1 @@
+(function(){var b="adba180cfe86",m="# John 11:48 (New International Version)\nIf we let him go on like this, everyone will believe in him, and then the Romans will come and take away both our temple and our nation.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

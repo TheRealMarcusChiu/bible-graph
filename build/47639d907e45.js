@@ -1,0 +1,1 @@
+(function(){var b="47639d907e45",m="# Numbers 21:31 (New International Version)\nSo Israel settled in the land of the Amorites.[^A]\n\n### Crossrefs\n[^A]: [[Num-13-29|Nu 13:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

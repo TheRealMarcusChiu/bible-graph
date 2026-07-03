@@ -1,0 +1,1 @@
+(function(){var b="4ed53eb27575",m="# Joshua 18:21 (New International Version)\nThe tribe of Benjamin, according to its clans, had the following towns:\nJericho, Beth Hoglah,[^A] Emek Keziz, \n\n### Crossrefs\n[^A]: S [[Josh-15-6|Jos 15:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

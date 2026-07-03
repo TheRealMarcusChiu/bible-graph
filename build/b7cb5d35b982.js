@@ -1,0 +1,1 @@
+(function(){var b="b7cb5d35b982",m="# Exodus 35:21 (New International Version)\nand everyone who was willing and whose heart moved them came and brought an offering to the LORD for the work on the tent of meeting, for all its service, and for the sacred garments.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

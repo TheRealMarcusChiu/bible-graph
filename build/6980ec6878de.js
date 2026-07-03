@@ -1,0 +1,1 @@
+(function(){var b="6980ec6878de",m="# Luke 23:24 (New International Version)\nSo Pilate decided to grant their demand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

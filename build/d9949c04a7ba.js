@@ -1,0 +1,1 @@
+(function(){var b="d9949c04a7ba",m="# 1 Corinthians 14:9 (New International Version)\nSo it is with you. Unless you speak intelligible words with your tongue, how will anyone know what you are saying? You will just be speaking into the air.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

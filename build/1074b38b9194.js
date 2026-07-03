@@ -1,0 +1,1 @@
+(function(){var b="1074b38b9194",m="# Genesis 21:18 (New International Version)\nLift the boy up and take him by the hand, for I will make him into a great nation.[^A]\"\n\n### Crossrefs\n[^A]: [[Gen-21-13|ver 13]]; S [[Gen-17-20|Ge 17:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

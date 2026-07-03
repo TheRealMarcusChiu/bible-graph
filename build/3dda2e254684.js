@@ -1,0 +1,1 @@
+(function(){var b="3dda2e254684",m="# Luke 6:28 (New International Version)\nbless those who curse you, pray for those who mistreat you.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-5-44|Mt 5:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

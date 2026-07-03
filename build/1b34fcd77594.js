@@ -1,0 +1,1 @@
+(function(){var b="1b34fcd77594",m="# Mark 11:25 (New International Version)\nAnd when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-6-14|Mt 6:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

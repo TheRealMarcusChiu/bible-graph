@@ -1,0 +1,1 @@
+(function(){var b="a6ab22c1bd34",m="# Numbers 2:12 (New International Version)\nThe tribe of Simeon[^A] will camp next to them. The leader of the people of Simeon is Shelumiel son of Zurishaddai.[^B] \n\n### Crossrefs\n[^A]: [[Num-10-19|Nu 10:19]]\n[^B]: S [[Num-1-6|Nu 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

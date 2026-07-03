@@ -1,0 +1,1 @@
+(function(){var b="4b7b94ae56ee",m="# Luke 2:47 (New International Version)\nEveryone who heard him was amazed[^A] at his understanding and his answers. \n\n### Crossrefs\n[^A]: S [[Matt-7-28|Mt 7:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

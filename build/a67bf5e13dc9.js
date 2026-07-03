@@ -1,0 +1,1 @@
+(function(){var b="a67bf5e13dc9",m="# Joshua 22:24 (New International Version)\n\"No! We did it for fear that some day your descendants might say to ours, 'What do you have to do with the LORD, the God of Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

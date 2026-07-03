@@ -1,0 +1,1 @@
+(function(){var b="39ccf7db8a04",m="# Leviticus 27:14 (New International Version)\n\"'If anyone dedicates their house as something holy to the LORD, the priest will judge its quality as good or bad. Whatever value the priest then sets, so it will remain.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

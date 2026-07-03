@@ -1,0 +1,1 @@
+(function(){var b="1fb2a1746e70",m="# Exodus 4:13 (New International Version)\nBut Moses said, \"Pardon your servant, Lord. Please send someone else.\"[^A]\n\n### Crossrefs\n[^A]: [[Jonah-1-1|Jnh 1:1-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

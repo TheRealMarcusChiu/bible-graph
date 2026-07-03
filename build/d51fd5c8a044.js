@@ -1,0 +1,1 @@
+(function(){var b="d51fd5c8a044",m="# Deuteronomy 6:22 (New International Version)\nBefore our eyes the LORD sent signs and wonders--great and terrible--on Egypt and Pharaoh and his whole household.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

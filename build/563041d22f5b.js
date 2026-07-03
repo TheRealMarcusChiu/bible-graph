@@ -1,0 +1,1 @@
+(function(){var b="563041d22f5b",m="# Leviticus 25:31 (New International Version)\nBut houses in villages without walls around them are to be considered as belonging to the open country. They can be redeemed, and they are to be returned in the Jubilee.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

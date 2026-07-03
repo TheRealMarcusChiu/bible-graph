@@ -1,0 +1,1 @@
+(function(){var b="409fdffe0f71",m="# Acts 5:23 (New International Version)\n\"We found the jail securely locked, with the guards standing at the doors; but when we opened them, we found no one inside.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

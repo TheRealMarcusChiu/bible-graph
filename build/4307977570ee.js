@@ -1,0 +1,1 @@
+(function(){var b="4307977570ee",m="# Luke 9:31 (New International Version)\nThey spoke about his departure,[^A] which he was about to bring to fulfillment at Jerusalem. \n\n### Crossrefs\n[^A]: [[2Pet-1-15|2Pe 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

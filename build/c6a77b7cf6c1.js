@@ -1,0 +1,1 @@
+(function(){var b="c6a77b7cf6c1",m="# 1 Corinthians 11:1 (New International Version)\nFollow my example,[^A] as I follow the example of Christ.[^B]\n\n### Crossrefs\n[^A]: S [[1Cor-4-16|1Co 4:16]]\n[^B]: [[Rom-15-3|Ro 15:3]]; [[1Pet-2-21|1Pe 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

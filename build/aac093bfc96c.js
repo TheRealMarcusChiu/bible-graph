@@ -1,0 +1,1 @@
+(function(){var b="aac093bfc96c",m="# Mark 15:22 (New International Version)\nThey brought Jesus to the place called Golgotha (which means \"the place of the skull\").";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

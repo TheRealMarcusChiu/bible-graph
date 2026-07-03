@@ -1,0 +1,1 @@
+(function(){var b="7224c5bb4768",m="# Acts 4:14 (New International Version)\nBut since they could see the man who had been healed standing there with them, there was nothing they could say.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

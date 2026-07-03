@@ -1,0 +1,1 @@
+(function(){var b="8b12f4f7172d",m="# Genesis 30:10 (New International Version)\nLeah's servant Zilpah[^A] bore Jacob a son. \n\n### Crossrefs\n[^A]: [[Gen-46-18|Ge 46:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

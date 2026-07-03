@@ -1,0 +1,1 @@
+(function(){var b="9cad4c74b080",m="# Joshua 22:30 (New International Version)\nWhen Phinehas the priest and the leaders of the community--the heads of the clans of the Israelites--heard what Reuben, Gad and Manasseh had to say, they were pleased.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

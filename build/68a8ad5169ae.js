@@ -1,0 +1,1 @@
+(function(){var b="68a8ad5169ae",m="# John 2:2 (New International Version)\nand Jesus and his disciples had also been invited to the wedding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

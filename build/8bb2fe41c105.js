@@ -1,0 +1,1 @@
+(function(){var b="8bb2fe41c105",m="# 1 Corinthians 11:19 (New International Version)\nNo doubt there have to be differences among you to show which of you have God's approval.[^A] \n\n### Crossrefs\n[^A]: [[1John-2-19|1Jn 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

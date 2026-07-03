@@ -1,0 +1,1 @@
+(function(){var b="bd0fafa69970",m="# Luke 10:9 (New International Version)\nHeal the sick who are there and tell them, 'The kingdom of God[^A] has come near to you.' \n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

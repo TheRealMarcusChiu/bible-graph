@@ -1,0 +1,1 @@
+(function(){var b="b3eaaa43f202",m="# Exodus 39:17 (New International Version)\nThey fastened the two gold chains to the rings at the corners of the breastpiece,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

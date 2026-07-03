@@ -1,0 +1,1 @@
+(function(){var b="dad340e24514",m="# Matthew 27:18 (New International Version)\nFor he knew it was out of self-interest that they had handed Jesus over to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

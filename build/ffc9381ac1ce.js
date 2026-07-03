@@ -1,0 +1,1 @@
+(function(){var b="ffc9381ac1ce",m="# Mark 8:37 (New International Version)\nOr what can anyone give in exchange for their soul?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

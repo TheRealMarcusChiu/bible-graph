@@ -1,0 +1,1 @@
+(function(){var b="a6ab33771949",m="# Acts 5:36 (New International Version)\nSome time ago Theudas appeared, claiming to be somebody, and about four hundred men rallied to him. He was killed, all his followers were dispersed, and it all came to nothing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

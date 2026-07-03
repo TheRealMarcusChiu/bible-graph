@@ -1,0 +1,1 @@
+(function(){var b="76009f49e3c3",m="# Deuteronomy 32:45 (New International Version)\nWhen Moses finished reciting all these words to all Israel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

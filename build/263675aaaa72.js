@@ -1,0 +1,1 @@
+(function(){var b="263675aaaa72",m="# Matthew 7:9 (New International Version)\n\"Which of you, if your son asks for bread, will give him a stone?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

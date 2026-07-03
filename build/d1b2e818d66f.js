@@ -1,0 +1,1 @@
+(function(){var b="d1b2e818d66f",m="# Luke 6:10 (New International Version)\nHe looked around at them all, and then said to the man, \"Stretch out your hand.\" He did so, and his hand was completely restored.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

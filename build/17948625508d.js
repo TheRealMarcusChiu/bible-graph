@@ -1,0 +1,1 @@
+(function(){var b="17948625508d",m="# Matthew 25:3 (New International Version)\nThe foolish ones took their lamps but did not take any oil with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

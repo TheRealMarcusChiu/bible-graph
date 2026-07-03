@@ -1,0 +1,1 @@
+(function(){var b="0a85a130ae97",m="# Exodus 40:5 (New International Version)\nPlace the gold altar[^A] of incense in front of the ark of the covenant law and put the curtain at the entrance to the tabernacle.\n\n### Crossrefs\n[^A]: S [[Exod-30-1|Ex 30:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

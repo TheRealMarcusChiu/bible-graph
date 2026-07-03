@@ -1,0 +1,1 @@
+(function(){var b="2c2efb41abcb",m="# Numbers 1:12 (New International Version)\nfrom Dan,[^A] Ahiezer son of Ammishaddai;[^B]\n\n### Crossrefs\n[^A]: [[Num-1-38|ver 38]]\n[^B]: [[Num-2-25|Nu 2:25]]; [[Num-7-66|7:66]]; [[Num-10-25|10:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="470c7f13888e",m="# Deuteronomy 20:13 (New International Version)\nWhen the LORD your God delivers it into your hand, put to the sword all the men in it.[^A] \n\n### Crossrefs\n[^A]: [[Num-31-7|Nu 31:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

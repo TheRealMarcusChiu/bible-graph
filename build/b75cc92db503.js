@@ -1,0 +1,1 @@
+(function(){var b="b75cc92db503",m="# Mark 2:24 (New International Version)\nThe Pharisees said to him, \"Look, why are they doing what is unlawful on the Sabbath?\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-12-2|Mt 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

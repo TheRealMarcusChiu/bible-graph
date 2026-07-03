@@ -1,0 +1,1 @@
+(function(){var b="84c39f899cbd",m="# Romans 16:12 (New International Version)\nGreet Tryphena and Tryphosa, those women who work hard in the Lord.\nGreet my dear friend Persis, another woman who has worked very hard in the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

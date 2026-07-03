@@ -1,0 +1,1 @@
+(function(){var b="f265d6caa2c5",m="# Luke 18:10 (New International Version)\n\"Two men went up to the temple to pray,[^A] one a Pharisee and the other a tax collector. \n\n### Crossrefs\n[^A]: [[Acts-3-1|Ac 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

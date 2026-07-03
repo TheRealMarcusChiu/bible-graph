@@ -1,0 +1,1 @@
+(function(){var b="944630db1efe",m="# John 7:46 (New International Version)\n\"No one ever spoke the way this man does,\"[^A] the guards replied.\n\n### Crossrefs\n[^A]: S [[Matt-7-28|Mt 7:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

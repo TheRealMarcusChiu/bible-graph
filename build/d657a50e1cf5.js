@@ -1,0 +1,1 @@
+(function(){var b="d657a50e1cf5",m="# Exodus 21:11 (New International Version)\nIf he does not provide her with these three things, she is to go free, without any payment of money.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

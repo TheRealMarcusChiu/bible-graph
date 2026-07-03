@@ -1,0 +1,1 @@
+(function(){var b="df5ccb563ba9",m="# Romans 1:19 (New International Version)\nsince what may be known about God is plain to them, because God has made it plain to them.[^A] \n\n### Crossrefs\n[^A]: [[Acts-14-17|Ac 14:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

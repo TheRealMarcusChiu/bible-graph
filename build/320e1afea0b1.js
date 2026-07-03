@@ -1,0 +1,1 @@
+(function(){var b="320e1afea0b1",m="# Genesis 48:6 (New International Version)\nAny children born to you after them will be yours; in the territory they inherit they will be reckoned under the names of their brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

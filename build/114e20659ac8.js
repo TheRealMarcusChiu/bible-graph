@@ -1,0 +1,1 @@
+(function(){var b="114e20659ac8",m="# John 5:3 (New International Version)\nHere a great number of disabled people used to lie--the blind, the lame, the paralyzed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9152fe0fbbad",m="# Mark 1:5 (New International Version)\nThe whole Judean countryside and all the people of Jerusalem went out to him. Confessing their sins, they were baptized by him in the Jordan River.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

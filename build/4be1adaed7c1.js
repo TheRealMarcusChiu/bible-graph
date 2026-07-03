@@ -1,0 +1,1 @@
+(function(){var b="4be1adaed7c1",m="# John 3:21 (New International Version)\nBut whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

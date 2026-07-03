@@ -1,0 +1,1 @@
+(function(){var b="6b8f0397a25e",m="# Mark 1:3 (New International Version)\n\"a voice of one calling in the wilderness,  \n'Prepare the way for the Lord,  \n    make straight paths for him.'\"[^A]\n\n### Crossrefs\n[^A]: [[Isa-40-3|Isa 40:3]]; [[John-1-23|Jn 1:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

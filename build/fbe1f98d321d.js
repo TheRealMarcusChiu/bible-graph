@@ -1,0 +1,1 @@
+(function(){var b="fbe1f98d321d",m="# Matthew 23:26 (New International Version)\nBlind Pharisee! First clean the inside of the cup and dish, and then the outside also will be clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

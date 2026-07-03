@@ -1,0 +1,1 @@
+(function(){var b="307eea3fb5ca",m="# Mark 1:39 (New International Version)\nSo he traveled throughout Galilee, preaching in their synagogues[^A] and driving out demons.[^B]\n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]\n[^B]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

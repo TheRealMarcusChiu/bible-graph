@@ -1,0 +1,1 @@
+(function(){var b="7f8619db6be9",m="# Acts 10:29 (New International Version)\nSo when I was sent for, I came without raising any objection. May I ask why you sent for me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

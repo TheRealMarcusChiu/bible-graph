@@ -1,0 +1,1 @@
+(function(){var b="89111c83ff44",m="# Exodus 9:5 (New International Version)\nThe LORD set a time and said, \"Tomorrow the LORD will do this in the land.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ab439bb7c7fb",m="# Genesis 6:15 (New International Version)\nThis is how you are to build it: The ark is to be three hundred cubits long, fifty cubits wide and thirty cubits high.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

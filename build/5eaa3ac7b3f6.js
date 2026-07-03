@@ -1,0 +1,1 @@
+(function(){var b="5eaa3ac7b3f6",m="# Genesis 22:4 (New International Version)\nOn the third day Abraham looked up and saw the place in the distance.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

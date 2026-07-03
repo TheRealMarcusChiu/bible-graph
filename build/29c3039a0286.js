@@ -1,0 +1,1 @@
+(function(){var b="29c3039a0286",m="# Matthew 26:16 (New International Version)\nFrom then on Judas watched for an opportunity to hand him over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

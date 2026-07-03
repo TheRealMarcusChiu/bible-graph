@@ -1,0 +1,1 @@
+(function(){var b="cc0f9639db7a",m="# Mark 14:19 (New International Version)\nThey were saddened, and one by one they said to him, \"Surely you don't mean me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

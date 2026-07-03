@@ -1,0 +1,1 @@
+(function(){var b="f53379a75f1d",m="# Numbers 30:9 (New International Version)\n\"Any vow or obligation taken by a widow or divorced woman will be binding on her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

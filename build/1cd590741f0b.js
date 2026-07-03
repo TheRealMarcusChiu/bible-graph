@@ -1,0 +1,1 @@
+(function(){var b="1cd590741f0b",m="# Mark 5:12 (New International Version)\nThe demons begged Jesus, \"Send us among the pigs; allow us to go into them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

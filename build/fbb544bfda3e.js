@@ -1,0 +1,1 @@
+(function(){var b="fbb544bfda3e",m="# Joshua 15:49 (New International Version)\nDannah, Kiriath Sannah (that is, Debir[^A]), \n\n### Crossrefs\n[^A]: S [[Josh-10-3|Jos 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

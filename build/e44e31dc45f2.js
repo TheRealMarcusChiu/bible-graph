@@ -1,0 +1,1 @@
+(function(){var b="e44e31dc45f2",m="# Colossians 2:4 (New International Version)\nI tell you this so that no one may deceive you by fine-sounding arguments.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-16-18|Ro 16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

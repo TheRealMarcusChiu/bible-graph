@@ -1,0 +1,1 @@
+(function(){var b="17614049522b",m="# Numbers 30:10 (New International Version)\n\"If a woman living with her husband makes a vow or obligates herself by a pledge under oath";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

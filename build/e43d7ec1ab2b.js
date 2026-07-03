@@ -1,0 +1,1 @@
+(function(){var b="e43d7ec1ab2b",m="# Matthew 8:32 (New International Version)\nHe said to them, \"Go!\" So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e1a18d394c84",m="# Titus 3:6 (New International Version)\nwhom he poured out on us[^A] generously through Jesus Christ our Savior, \n\n### Crossrefs\n[^A]: S [[Rom-5-5|Ro 5:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c9fa0a27ac8e",m="# Joshua 21:39 (New International Version)\nHeshbon and Jazer,[^A] together with their pasturelands--four towns in all.\n\n### Crossrefs\n[^A]: S [[Josh-13-25|Jos 13:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e6f6c00d6272",m="# Matthew 19:25 (New International Version)\nWhen the disciples heard this, they were greatly astonished and asked, \"Who then can be saved?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

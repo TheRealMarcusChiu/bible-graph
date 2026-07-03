@@ -1,0 +1,1 @@
+(function(){var b="edc31d1b94f1",m="# 2 Timothy 2:23 (New International Version)\nDon't have anything to do with foolish and stupid arguments, because you know they produce quarrels.[^A] \n\n### Crossrefs\n[^A]: S [[2Tim-2-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

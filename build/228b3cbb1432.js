@@ -1,0 +1,1 @@
+(function(){var b="228b3cbb1432",m="# 1 Corinthians 12:14 (New International Version)\nEven so the body is not made up of one part but of many.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-12-12|ver 12]], [[1Cor-12-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

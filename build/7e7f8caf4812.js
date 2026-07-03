@@ -1,0 +1,1 @@
+(function(){var b="7e7f8caf4812",m="# Acts 8:18 (New International Version)\nWhen Simon saw that the Spirit was given at the laying on of the apostles' hands, he offered them money";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

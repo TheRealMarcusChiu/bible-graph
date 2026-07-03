@@ -1,0 +1,1 @@
+(function(){var b="aec8ceb122db",m="# Matthew 5:28 (New International Version)\nBut I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.[^A] \n\n### Crossrefs\n[^A]: [[Prov-6-25|Pr 6:25]]; [[2Pet-2-14|2Pe 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

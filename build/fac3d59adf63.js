@@ -1,0 +1,1 @@
+(function(){var b="fac3d59adf63",m="# 1 John 5:8 (New International Version)\nthe Spirit, the water and the blood; and the three are in agreement.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

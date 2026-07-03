@@ -1,0 +1,1 @@
+(function(){var b="51b14ebd8702",m="# Genesis 36:29 (New International Version)\nThese were the Horite chiefs:\nLotan, Shobal, Zibeon, Anah,[^A] \n\n### Crossrefs\n[^A]: [[Gen-36-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

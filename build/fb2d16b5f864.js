@@ -1,0 +1,1 @@
+(function(){var b="fb2d16b5f864",m="# Hebrews 7:7 (New International Version)\nAnd without doubt the lesser is blessed by the greater.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

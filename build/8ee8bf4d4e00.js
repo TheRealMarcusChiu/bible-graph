@@ -1,0 +1,1 @@
+(function(){var b="8ee8bf4d4e00",m="# Joshua 5:5 (New International Version)\nAll the people that came out had been circumcised, but all the people born in the wilderness during the journey from Egypt had not.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

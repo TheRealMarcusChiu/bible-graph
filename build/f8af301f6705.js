@@ -1,0 +1,1 @@
+(function(){var b="f8af301f6705",m="# Matthew 15:7 (New International Version)\nYou hypocrites! Isaiah was right when he prophesied about you:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

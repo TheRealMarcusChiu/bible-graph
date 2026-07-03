@@ -1,0 +1,1 @@
+(function(){var b="8baf275a5efc",m="# Joshua 18:11 (New International Version)\nAllotment for Benjamin\nThe first lot came up for the tribe of Benjamin according to its clans. Their allotted territory lay between the tribes of Judah and Joseph:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

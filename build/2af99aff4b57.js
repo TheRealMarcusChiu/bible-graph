@@ -1,0 +1,1 @@
+(function(){var b="2af99aff4b57",m="# 1 Corinthians 11:24 (New International Version)\nand when he had given thanks, he broke it and said, \"This is my body,[^A] which is for you; do this in remembrance of me.\" \n\n### Crossrefs\n[^A]: [[1Cor-10-16|1Co 10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="be8a8780269f",m="# Colossians 4:17 (New International Version)\nTell Archippus:[^A] \"See to it that you complete the ministry you have received in the Lord.\"[^B]\n\n### Crossrefs\n[^A]: [[Phlm-1-2|Phm 2]]\n[^B]: [[2Tim-4-5|2Ti 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

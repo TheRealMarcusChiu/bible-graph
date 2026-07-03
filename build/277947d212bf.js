@@ -1,0 +1,1 @@
+(function(){var b="277947d212bf",m="# Joshua 4:16 (New International Version)\n\"Command the priests carrying the ark of the covenant law[^A] to come up out of the Jordan.\"\n\n### Crossrefs\n[^A]: [[Exod-25-22|Ex 25:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

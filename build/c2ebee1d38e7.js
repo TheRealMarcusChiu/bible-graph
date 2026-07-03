@@ -1,0 +1,1 @@
+(function(){var b="c2ebee1d38e7",m="# Numbers 5:5 (New International Version)\nRestitution for Wrongs\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

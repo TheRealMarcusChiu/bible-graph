@@ -1,0 +1,1 @@
+(function(){var b="ea6585e31260",m="# Matthew 12:9 (New International Version)\nGoing on from that place, he went into their synagogue,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

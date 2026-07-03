@@ -1,0 +1,1 @@
+(function(){var b="856d0260eccd",m="# Mark 1:7 (New International Version)\nAnd this was his message: \"After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie.[^A] \n\n### Crossrefs\n[^A]: [[Acts-13-25|Ac 13:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

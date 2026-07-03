@@ -1,0 +1,1 @@
+(function(){var b="fdd753891736",m="# Luke 18:3 (New International Version)\nAnd there was a widow in that town who kept coming to him with the plea, 'Grant me justice[^A] against my adversary.'\n\n### Crossrefs\n[^A]: [[Isa-1-17|Isa 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

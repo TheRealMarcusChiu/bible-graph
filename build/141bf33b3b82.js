@@ -1,0 +1,1 @@
+(function(){var b="141bf33b3b82",m="# Numbers 34:28 (New International Version)\nPedahel son of Ammihud,\nthe leader from the tribe of Naphtali.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

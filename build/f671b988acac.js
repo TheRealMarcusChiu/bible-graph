@@ -1,0 +1,1 @@
+(function(){var b="f671b988acac",m="# John 13:12 (New International Version)\nWhen he had finished washing their feet, he put on his clothes and returned to his place. \"Do you understand what I have done for you?\" he asked them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8a84ee68c463",m="# Matthew 22:5 (New International Version)\n\"But they paid no attention and went off--one to his field, another to his business.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

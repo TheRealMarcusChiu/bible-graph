@@ -1,0 +1,1 @@
+(function(){var b="c5f26aac2172",m="# Hebrews 4:5 (New International Version)\nAnd again in the passage above he says, \"They shall never enter my rest.\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-95-11|Ps 95:11]]; S [[Heb-4-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

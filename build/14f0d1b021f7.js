@@ -1,0 +1,1 @@
+(function(){var b="14f0d1b021f7",m="# Luke 24:14 (New International Version)\nThey were talking with each other about everything that had happened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

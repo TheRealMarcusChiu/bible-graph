@@ -1,0 +1,1 @@
+(function(){var b="8302b0ed6469",m="# John 6:13 (New International Version)\nSo they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

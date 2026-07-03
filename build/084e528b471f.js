@@ -1,0 +1,1 @@
+(function(){var b="084e528b471f",m="# Luke 12:23 (New International Version)\nFor life is more than food, and the body more than clothes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

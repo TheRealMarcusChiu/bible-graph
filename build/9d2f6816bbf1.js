@@ -1,0 +1,1 @@
+(function(){var b="9d2f6816bbf1",m="# Romans 16:1 (New International Version)\nPersonal Greetings\nI commend[^A] to you our sister Phoebe, a deacon of the church in Cenchreae.[^B] \n\n### Crossrefs\n[^A]: S [[2Cor-3-1|2Co 3:1]]\n[^B]: [[Acts-18-18|Ac 18:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

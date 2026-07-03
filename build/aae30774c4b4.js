@@ -1,0 +1,1 @@
+(function(){var b="aae30774c4b4",m="# Matthew 14:28 (New International Version)\n\"Lord, if it's you,\" Peter replied, \"tell me to come to you on the water.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

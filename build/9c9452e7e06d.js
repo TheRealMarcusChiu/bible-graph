@@ -1,0 +1,1 @@
+(function(){var b="9c9452e7e06d",m="# Hebrews 13:16 (New International Version)\nAnd do not forget to do good and to share with others,[^A] for with such sacrifices[^B] God is pleased.\n\n### Crossrefs\n[^A]: [[Rom-12-13|Ro 12:13]]\n[^B]: [[Phil-4-18|Php 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

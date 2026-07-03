@@ -1,0 +1,1 @@
+(function(){var b="f77fd19acab8",m="# Numbers 2:13 (New International Version)\nHis division numbers 59,300.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d853a14dcee7",m="# Numbers 6:22 (New International Version)\nThe Priestly Blessing\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

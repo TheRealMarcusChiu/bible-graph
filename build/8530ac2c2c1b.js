@@ -1,0 +1,1 @@
+(function(){var b="8530ac2c2c1b",m="# Mark 5:40 (New International Version)\nBut they laughed at him.\nAfter he put them all out, he took the child's father and mother and the disciples who were with him, and went in where the child was.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

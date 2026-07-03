@@ -1,0 +1,1 @@
+(function(){var b="7284e4eaada5",m="# Leviticus 11:36 (New International Version)\nA spring, however, or a cistern for collecting water remains clean, but anyone who touches one of these carcasses is unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

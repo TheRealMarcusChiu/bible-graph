@@ -1,0 +1,1 @@
+(function(){var b="4361ba370634",m="# Ephesians 5:10 (New International Version)\nand find out what pleases the Lord.[^A] \n\n### Crossrefs\n[^A]: S [[1Tim-5-4|1Ti 5:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

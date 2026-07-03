@@ -1,0 +1,1 @@
+(function(){var b="a7e0de42c171",m="# Luke 8:42 (New International Version)\nbecause his only daughter, a girl of about twelve, was dying.\nAs Jesus was on his way, the crowds almost crushed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

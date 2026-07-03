@@ -1,0 +1,1 @@
+(function(){var b="af0d2daf2476",m="# Genesis 49:19 (New International Version)\n\"Gad[^A] will be attacked by a band of raiders,  \n    but he will attack them at their heels.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-30-11|Ge 30:11]]\n[^B]: [[Gen-49-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

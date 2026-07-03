@@ -1,0 +1,1 @@
+(function(){var b="f229a3e25b86",m="# Exodus 36:28 (New International Version)\nand two frames were made for the corners of the tabernacle at the far end.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f76d3dfdf4a0",m="# Genesis 16:16 (New International Version)\nAbram was eighty-six years old[^A] when Hagar bore him Ishmael.\n\n### Crossrefs\n[^A]: S [[Gen-12-4|Ge 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="889d69d1e882",m="# Exodus 27:11 (New International Version)\nThe north side shall also be a hundred cubits long and is to have curtains, with twenty posts and twenty bronze bases and with silver hooks and bands on the posts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

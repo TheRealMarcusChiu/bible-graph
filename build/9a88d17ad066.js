@@ -1,0 +1,1 @@
+(function(){var b="9a88d17ad066",m="# Genesis 46:18 (New International Version)\nThese were the children born to Jacob by Zilpah,[^A] whom Laban had given to his daughter Leah[^B]--sixteen in all.\n\n### Crossrefs\n[^A]: [[Gen-30-10|Ge 30:10]]\n[^B]: S [[Gen-16-1|Ge 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

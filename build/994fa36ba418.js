@@ -1,0 +1,1 @@
+(function(){var b="994fa36ba418",m="# Numbers 33:36 (New International Version)\nThey left Ezion Geber and camped at Kadesh, in the Desert of Zin.[^A]\n\n### Crossrefs\n[^A]: S [[Num-13-21|Nu 13:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

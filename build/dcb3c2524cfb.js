@@ -1,0 +1,1 @@
+(function(){var b="dcb3c2524cfb",m="# Matthew 7:6 (New International Version)\n\"Do not give dogs what is sacred; do not throw your pearls to pigs. If you do, they may trample them under their feet, and turn and tear you to pieces.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6a22552c86c2",m="# Genesis 44:11 (New International Version)\nEach of them quickly lowered his sack to the ground and opened it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

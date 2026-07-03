@@ -1,0 +1,1 @@
+(function(){var b="99d11a1f15c3",m="# Revelation 7:5 (New International Version)\nFrom the tribe of Judah 12,000 were sealed,\nfrom the tribe of Reuben 12,000,\nfrom the tribe of Gad 12,000,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

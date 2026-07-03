@@ -1,0 +1,1 @@
+(function(){var b="11ba6792c5f3",m="# Genesis 31:44 (New International Version)\nCome now, let's make a covenant,[^A] you and I, and let it serve as a witness between us.\"[^B]\n\n### Crossrefs\n[^A]: S [[Gen-21-27|Ge 21:27]]\n[^B]: S [[Gen-21-30|Ge 21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

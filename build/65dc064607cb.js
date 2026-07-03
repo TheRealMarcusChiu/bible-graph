@@ -1,0 +1,1 @@
+(function(){var b="65dc064607cb",m="# Titus 3:14 (New International Version)\nOur people must learn to devote themselves to doing what is good,[^A] in order to provide for urgent needs and not live unproductive lives.\n\n### Crossrefs\n[^A]: S [[Titus-2-14|Tit 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

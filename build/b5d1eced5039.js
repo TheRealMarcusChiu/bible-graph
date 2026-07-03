@@ -1,0 +1,1 @@
+(function(){var b="b5d1eced5039",m="# Matthew 22:6 (New International Version)\nThe rest seized his servants, mistreated them and killed them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3a4ef2971c9f",m="# Leviticus 21:19 (New International Version)\nno man with a crippled foot or hand,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

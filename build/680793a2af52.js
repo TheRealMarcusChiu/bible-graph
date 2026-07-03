@@ -1,0 +1,1 @@
+(function(){var b="680793a2af52",m="# Numbers 10:16 (New International Version)\nand Eliab son of Helon[^A] was over the division of the tribe of Zebulun.[^B] \n\n### Crossrefs\n[^A]: S [[Num-2-7|Nu 2:7]]\n[^B]: S [[Num-1-9|Nu 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

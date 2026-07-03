@@ -1,0 +1,1 @@
+(function(){var b="fad459728ddb",m="# Luke 7:9 (New International Version)\nWhen Jesus heard this, he was amazed at him, and turning to the crowd following him, he said, \"I tell you, I have not found such great faith even in Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

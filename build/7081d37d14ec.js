@@ -1,0 +1,1 @@
+(function(){var b="7081d37d14ec",m="# Deuteronomy 14:15 (New International Version)\nthe horned owl, the screech owl, the gull, any kind of hawk,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9caf08cc495f",m="# Matthew 23:20 (New International Version)\nTherefore, anyone who swears by the altar swears by it and by everything on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

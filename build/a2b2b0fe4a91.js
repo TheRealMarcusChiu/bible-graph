@@ -1,0 +1,1 @@
+(function(){var b="a2b2b0fe4a91",m="# Romans 11:35 (New International Version)\n\"Who has ever given to God,  \n    that God should repay them?\"[^A]\n\n### Crossrefs\n[^A]: [[Job-41-11|Job 41:11]]; [[Job-35-7|35:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

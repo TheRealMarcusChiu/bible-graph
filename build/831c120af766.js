@@ -1,0 +1,1 @@
+(function(){var b="831c120af766",m="# Judges 3:18 (New International Version)\nAfter Ehud had presented the tribute, he sent on their way those who had carried it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

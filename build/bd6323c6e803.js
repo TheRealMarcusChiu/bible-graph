@@ -1,0 +1,1 @@
+(function(){var b="bd6323c6e803",m="# Numbers 33:14 (New International Version)\nThey left Alush and camped at Rephidim, where there was no water for the people to drink.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-15-22|Ex 15:22]]; S [[Exod-17-2|17:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

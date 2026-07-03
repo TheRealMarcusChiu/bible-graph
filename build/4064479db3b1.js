@@ -1,0 +1,1 @@
+(function(){var b="4064479db3b1",m="# Deuteronomy 21:9 (New International Version)\nand you will have purged[^A] from yourselves the guilt of shedding innocent blood, since you have done what is right in the eyes of the LORD.\n\n### Crossrefs\n[^A]: [[Deut-19-13|Dt 19:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

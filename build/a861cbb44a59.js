@@ -1,0 +1,1 @@
+(function(){var b="a861cbb44a59",m="# Genesis 20:18 (New International Version)\nfor the LORD had kept all the women in Abimelek's household from conceiving because of Abraham's wife Sarah.[^A]\n\n### Crossrefs\n[^A]: [[Gen-12-17|Ge 12:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

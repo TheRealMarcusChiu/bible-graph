@@ -1,0 +1,1 @@
+(function(){var b="17b7e61a9d44",m="# Matthew 18:30 (New International Version)\n\"But he refused. Instead, he went off and had the man thrown into prison until he could pay the debt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

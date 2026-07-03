@@ -1,0 +1,1 @@
+(function(){var b="251df7d1d37c",m="# John 4:30 (New International Version)\nThey came out of the town and made their way toward him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

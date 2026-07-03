@@ -1,0 +1,1 @@
+(function(){var b="5feb44da32f4",m="# Exodus 4\n\nIsrael's deliverance from slavery in Egypt under Moses, the giving of the Law at Sinai, and the building of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

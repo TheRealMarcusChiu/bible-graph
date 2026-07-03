@@ -1,0 +1,1 @@
+(function(){var b="ce2215ca30dc",m="# Exodus 5:19 (New International Version)\nThe Israelite overseers realized they were in trouble when they were told, \"You are not to reduce the number of bricks required of you for each day.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

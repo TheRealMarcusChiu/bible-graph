@@ -1,0 +1,1 @@
+(function(){var b="601cca3b37cc",m="# Matthew 15:26 (New International Version)\nHe replied, \"It is not right to take the children's bread and toss it to the dogs.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

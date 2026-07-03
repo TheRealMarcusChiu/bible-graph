@@ -1,0 +1,1 @@
+(function(){var b="16fff62af46f",m="# Judges 9:26 (New International Version)\nNow Gaal son of Ebed[^A] moved with his clan into Shechem, and its citizens put their confidence in him. \n\n### Crossrefs\n[^A]: [[Judg-9-28|ver 28]], [[Judg-9-31|31]], [[Judg-9-41|41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

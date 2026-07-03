@@ -1,0 +1,1 @@
+(function(){var b="74332e01ecd3",m="# Hebrews 7:12 (New International Version)\nFor when the priesthood is changed, the law must be changed also.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

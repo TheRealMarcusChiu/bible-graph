@@ -1,0 +1,1 @@
+(function(){var b="d81dc3166f9b",m="# Numbers 33:12 (New International Version)\nThey left the Desert of Sin and camped at Dophkah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

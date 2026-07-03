@@ -1,0 +1,1 @@
+(function(){var b="a9e694423406",m="# Matthew 27:49 (New International Version)\nThe rest said, \"Now leave him alone. Let's see if Elijah comes to save him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

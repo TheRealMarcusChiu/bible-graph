@@ -1,0 +1,1 @@
+(function(){var b="c85d9f57fe32",m="# Philippians 1:4 (New International Version)\nIn all my prayers for all of you, I always pray[^A] with joy \n\n### Crossrefs\n[^A]: S [[Rom-1-10|Ro 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

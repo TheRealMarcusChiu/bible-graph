@@ -1,0 +1,1 @@
+(function(){var b="c85dd08c188a",m="# Luke 1:45 (New International Version)\nBlessed is she who has believed that the Lord would fulfill his promises to her!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c2e4368f4caf",m="# Mark 6:5 (New International Version)\nHe could not do any miracles there, except lay his hands on[^A] a few sick people and heal them. \n\n### Crossrefs\n[^A]: S [[Mark-5-23|Mk 5:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

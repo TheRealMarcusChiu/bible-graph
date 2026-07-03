@@ -1,0 +1,1 @@
+(function(){var b="70c8b69258ac",m="# Matthew 11:15 (New International Version)\nWhoever has ears, let them hear.[^A]\n\n### Crossrefs\n[^A]: [[Matt-13-9|Mt 13:9]], [[Matt-13-43|43]]; [[Mark-4-23|Mk 4:23]]; [[Luke-14-35|Lk 14:35]]; S [[Rev-2-7|Rev 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

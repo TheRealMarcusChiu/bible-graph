@@ -1,0 +1,1 @@
+(function(){var b="77235e8566e0",m="# Matthew 15:9 (New International Version)\nThey worship me in vain;  \n    their teachings are merely human rules.[^A]'[^B]\"\n\n### Crossrefs\n[^A]: [[Col-2-20|Col 2:20-22]]\n[^B]: [[Isa-29-13|Isa 29:13]]; [[Mal-2-2|Mal 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

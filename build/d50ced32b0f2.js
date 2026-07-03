@@ -1,0 +1,1 @@
+(function(){var b="d50ced32b0f2",m="# Deuteronomy 1:35 (New International Version)\n\"No one from this evil generation shall see the good land[^A] I swore to give your ancestors, \n\n### Crossrefs\n[^A]: S [[Num-14-29|Nu 14:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

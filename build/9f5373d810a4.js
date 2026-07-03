@@ -1,0 +1,1 @@
+(function(){var b="9f5373d810a4",m="# Deuteronomy 14:22 (New International Version)\nTithes\nBe sure to set aside a tenth[^A] of all that your fields produce each year. \n\n### Crossrefs\n[^A]: S [[Gen-14-20|Ge 14:20]]; S [[Lev-27-30|Lev 27:30]]; S [[Num-18-21|Nu 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

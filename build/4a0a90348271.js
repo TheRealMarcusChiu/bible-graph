@@ -1,0 +1,1 @@
+(function(){var b="4a0a90348271",m="# Acts 15:25 (New International Version)\nSo we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="022c286528fb",m="# Deuteronomy 27:5 (New International Version)\nBuild there an altar[^A] to the LORD your God, an altar of stones. Do not use any iron tool[^B] on them. \n\n### Crossrefs\n[^A]: S [[Exod-20-24|Ex 20:24]]\n[^B]: [[Exod-20-25|Ex 20:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

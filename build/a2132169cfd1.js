@@ -1,0 +1,1 @@
+(function(){var b="a2132169cfd1",m="# Numbers 8:23 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

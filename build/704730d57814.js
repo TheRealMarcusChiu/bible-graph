@@ -1,0 +1,1 @@
+(function(){var b="704730d57814",m="# Exodus 8:12 (New International Version)\nAfter Moses and Aaron left Pharaoh, Moses cried out to the LORD about the frogs he had brought on Pharaoh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

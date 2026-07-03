@@ -1,0 +1,1 @@
+(function(){var b="5b3ff2d1d9d8",m="# Judges 9:21 (New International Version)\nThen Jotham[^A] fled, escaping to Beer,[^B] and he lived there because he was afraid of his brother Abimelek.\n\n### Crossrefs\n[^A]: S [[Judg-9-5|ver 5]]\n[^B]: [[Num-21-16|Nu 21:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

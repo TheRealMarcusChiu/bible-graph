@@ -1,0 +1,1 @@
+(function(){var b="53c5e55ee475",m="# Matthew 25:20 (New International Version)\nThe man who had received five bags of gold brought the other five. 'Master,' he said, 'you entrusted me with five bags of gold. See, I have gained five more.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

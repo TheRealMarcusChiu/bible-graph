@@ -1,0 +1,1 @@
+(function(){var b="903fb5eb06ff",m="# 2 Timothy 4:15 (New International Version)\nYou too should be on your guard against him, because he strongly opposed our message.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

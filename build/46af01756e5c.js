@@ -1,0 +1,1 @@
+(function(){var b="46af01756e5c",m="# 2 Corinthians 10:3 (New International Version)\nFor though we live in the world, we do not wage war as the world does.[^A] \n\n### Crossrefs\n[^A]: [[2Cor-10-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

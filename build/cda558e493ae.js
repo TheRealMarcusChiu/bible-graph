@@ -1,0 +1,1 @@
+(function(){var b="cda558e493ae",m="# Leviticus 6:1 (New International Version)\nThe LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

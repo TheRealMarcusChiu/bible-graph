@@ -1,0 +1,1 @@
+(function(){var b="7748fd456b51",m="# Luke 18:38 (New International Version)\nHe called out, \"Jesus, Son of David,[^A] have mercy[^B] on me!\"\n\n### Crossrefs\n[^A]: [[Luke-18-39|ver 39]]; S [[Matt-9-27|Mt 9:27]]\n[^B]: [[Matt-17-15|Mt 17:15]]; [[Luke-18-13|Lk 18:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

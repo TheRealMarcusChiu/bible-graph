@@ -1,0 +1,1 @@
+(function(){var b="db20e1702b6f",m="# Numbers 26:18 (New International Version)\nThese were the clans of Gad;[^A] those numbered were 40,500.\n\n### Crossrefs\n[^A]: S [[Gen-30-11|Ge 30:11]]; S [[Num-1-25|Nu 1:25]]; S [[Josh-13-24|Jos 13:24-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

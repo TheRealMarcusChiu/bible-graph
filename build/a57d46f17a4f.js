@@ -1,0 +1,1 @@
+(function(){var b="a57d46f17a4f",m="# Numbers 31:1 (New International Version)\nVengeance on the Midianites\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

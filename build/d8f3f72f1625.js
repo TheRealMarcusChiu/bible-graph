@@ -1,0 +1,1 @@
+(function(){var b="d8f3f72f1625",m="# Numbers 33:50 (New International Version)\nOn the plains of Moab by the Jordan across from Jericho[^A] the LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Num-33-48|ver 48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

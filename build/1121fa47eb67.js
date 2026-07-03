@@ -1,0 +1,1 @@
+(function(){var b="1121fa47eb67",m="# Matthew 23:24 (New International Version)\nYou blind guides![^A] You strain out a gnat but swallow a camel.\n\n### Crossrefs\n[^A]: [[Matt-23-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

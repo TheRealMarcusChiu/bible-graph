@@ -1,0 +1,1 @@
+(function(){var b="1dee9f02432f",m="# Exodus 22:17 (New International Version)\nIf her father absolutely refuses to give her to him, he must still pay the bride-price for virgins.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bd62bbf0c754",m="# Numbers 32:12 (New International Version)\nnot one except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, for they followed the LORD wholeheartedly.'[^A] \n\n### Crossrefs\n[^A]: [[Num-14-24|Nu 14:24]], [[Num-14-30|30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

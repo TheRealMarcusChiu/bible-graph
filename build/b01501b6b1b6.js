@@ -1,0 +1,1 @@
+(function(){var b="b01501b6b1b6",m="# John 4:52 (New International Version)\nWhen he inquired as to the time when his son got better, they said to him, \"Yesterday, at one in the afternoon, the fever left him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

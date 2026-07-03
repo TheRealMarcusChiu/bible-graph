@@ -1,0 +1,1 @@
+(function(){var b="98be9c72dab0",m="# Matthew 15:38 (New International Version)\nThe number of those who ate was four thousand men, besides women and children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4ab5065b2122",m="# Numbers 9:23 (New International Version)\nAt the LORD's command they encamped, and at the LORD's command they set out. They obeyed the LORD's order, in accordance with his command through Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

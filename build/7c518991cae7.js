@@ -1,0 +1,1 @@
+(function(){var b="7c518991cae7",m="# Exodus 19:14 (New International Version)\nAfter Moses had gone down the mountain to the people, he consecrated them, and they washed their clothes.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-35-2|Ge 35:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

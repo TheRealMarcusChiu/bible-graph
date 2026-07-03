@@ -1,0 +1,1 @@
+(function(){var b="160d33e8bb67",m="# John 4:16 (New International Version)\nHe told her, \"Go, call your husband and come back.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

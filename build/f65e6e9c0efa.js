@@ -1,0 +1,1 @@
+(function(){var b="f65e6e9c0efa",m="# Acts 14:9 (New International Version)\nHe listened to Paul as he was speaking. Paul looked directly at him, saw that he had faith to be healed[^A] \n\n### Crossrefs\n[^A]: [[Matt-9-28|Mt 9:28]], [[Matt-9-29|29]]; [[Matt-13-58|13:58]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

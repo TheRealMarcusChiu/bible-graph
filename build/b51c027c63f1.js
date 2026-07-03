@@ -1,0 +1,1 @@
+(function(){var b="b51c027c63f1",m="# Luke 17:34 (New International Version)\nI tell you, on that night two people will be in one bed; one will be taken and the other left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

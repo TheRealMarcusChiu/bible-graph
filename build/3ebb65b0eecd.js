@@ -1,0 +1,1 @@
+(function(){var b="3ebb65b0eecd",m="# Exodus 40:3 (New International Version)\nPlace the ark[^A] of the covenant law in it and shield the ark with the curtain. \n\n### Crossrefs\n[^A]: S [[Exod-26-33|Ex 26:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

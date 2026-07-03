@@ -1,0 +1,1 @@
+(function(){var b="d7d23e9e200e",m="# Acts 27:26 (New International Version)\nNevertheless, we must run aground[^A] on some island.\"[^B]\n\n### Crossrefs\n[^A]: [[Acts-27-17|ver 17]], [[Acts-27-39|39]]\n[^B]: [[Acts-28-1|Ac 28:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="91155e02c293",m="# Exodus 37:21 (New International Version)\nOne bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair--six branches in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

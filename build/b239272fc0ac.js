@@ -1,0 +1,1 @@
+(function(){var b="b239272fc0ac",m="# Galatians 2:10 (New International Version)\nAll they asked was that we should continue to remember the poor,[^A] the very thing I had been eager to do all along.\n\n### Crossrefs\n[^A]: S [[Acts-24-17|Ac 24:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

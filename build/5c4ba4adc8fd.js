@@ -1,0 +1,1 @@
+(function(){var b="5c4ba4adc8fd",m="# Acts 21:31 (New International Version)\nWhile they were trying to kill him, news reached the commander of the Roman troops that the whole city of Jerusalem was in an uproar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

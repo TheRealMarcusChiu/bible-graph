@@ -1,0 +1,1 @@
+(function(){var b="395e757fb672",m="# Leviticus 27:4 (New International Version)\nfor a female, set her value at thirty shekels;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

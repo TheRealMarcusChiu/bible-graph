@@ -1,0 +1,1 @@
+(function(){var b="51d71f30f9c9",m="# John 3:28 (New International Version)\nYou yourselves can testify that I said, 'I am not the Messiah but am sent ahead of him.'[^A] \n\n### Crossrefs\n[^A]: [[John-1-20|Jn 1:20]], [[John-1-23|23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

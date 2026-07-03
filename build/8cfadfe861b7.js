@@ -1,0 +1,1 @@
+(function(){var b="8cfadfe861b7",m="# Joshua 4:4 (New International Version)\nSo Joshua called together the twelve men[^A] he had appointed from the Israelites, one from each tribe, \n\n### Crossrefs\n[^A]: S [[Josh-3-12|Jos 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

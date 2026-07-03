@@ -1,0 +1,1 @@
+(function(){var b="0245ab781e90",m="# Acts 22:26 (New International Version)\nWhen the centurion heard this, he went to the commander and reported it. \"What are you going to do?\" he asked. \"This man is a Roman citizen.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

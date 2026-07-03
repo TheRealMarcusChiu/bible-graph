@@ -1,0 +1,1 @@
+(function(){var b="f2c0dd0546b0",m="# Leviticus 13:1 (New International Version)\nRegulations About Defiling Skin Diseases\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

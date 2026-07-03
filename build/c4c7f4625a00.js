@@ -1,0 +1,1 @@
+(function(){var b="c4c7f4625a00",m="# Joshua 10:31 (New International Version)\nThen Joshua and all Israel with him moved on from Libnah to Lachish;[^A] he took up positions against it and attacked it. \n\n### Crossrefs\n[^A]: S [[Josh-10-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

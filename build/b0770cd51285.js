@@ -1,0 +1,1 @@
+(function(){var b="b0770cd51285",m="# Revelation 7:13 (New International Version)\nThen one of the elders asked me, \"These in white robes[^A]--who are they, and where did they come from?\"\n\n### Crossrefs\n[^A]: S [[Rev-3-4|Rev 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

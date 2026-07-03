@@ -1,0 +1,1 @@
+(function(){var b="2f6568027741",m="# Matthew 26:19 (New International Version)\nSo the disciples did as Jesus had directed them and prepared the Passover.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

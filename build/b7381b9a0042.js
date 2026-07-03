@@ -1,0 +1,1 @@
+(function(){var b="b7381b9a0042",m="# Numbers 36:5 (New International Version)\nThen at the LORD's command Moses gave this order to the Israelites: \"What the tribe of the descendants of Joseph is saying is right.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

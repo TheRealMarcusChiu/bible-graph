@@ -1,0 +1,1 @@
+(function(){var b="b6a7b9afd171",m="# Exodus 14:26 (New International Version)\nThen the LORD said to Moses, \"Stretch out your hand over the sea so that the waters may flow back over the Egyptians and their chariots and horsemen.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

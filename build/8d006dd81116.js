@@ -1,0 +1,1 @@
+(function(){var b="8d006dd81116",m="# John 6:47 (New International Version)\nVery truly I tell you, the one who believes has eternal life.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

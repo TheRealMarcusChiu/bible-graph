@@ -1,0 +1,1 @@
+(function(){var b="988e48ca666e",m="# Numbers 31:42 (New International Version)\nThe half belonging to the Israelites, which Moses set apart from that of the fighting men--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

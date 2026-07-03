@@ -1,0 +1,1 @@
+(function(){var b="f64847791a9a",m="# Luke 5:4 (New International Version)\nWhen he had finished speaking, he said to Simon, \"Put out into deep water, and let down the nets for a catch.\"[^A]\n\n### Crossrefs\n[^A]: [[John-21-6|Jn 21:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="370df4f93a4f",m="# Matthew 6:27 (New International Version)\nCan any one of you by worrying add a single hour to your life?[^A]\n\n### Crossrefs\n[^A]: [[Ps-39-5|Ps 39:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

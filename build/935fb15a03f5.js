@@ -1,0 +1,1 @@
+(function(){var b="935fb15a03f5",m="# Acts 11:4 (New International Version)\nStarting from the beginning, Peter told them the whole story:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

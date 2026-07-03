@@ -1,0 +1,1 @@
+(function(){var b="a3b1a10e494f",m="# Hebrews 10:13 (New International Version)\nand since that time he waits for his enemies to be made his footstool.[^A] \n\n### Crossrefs\n[^A]: [[Josh-10-24|Jos 10:24]]; [[Heb-1-13|Heb 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

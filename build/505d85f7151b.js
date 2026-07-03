@@ -1,0 +1,1 @@
+(function(){var b="505d85f7151b",m="# Matthew 12:23 (New International Version)\nAll the people were astonished and said, \"Could this be the Son of David?\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-9-27|Mt 9:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

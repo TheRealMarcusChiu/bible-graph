@@ -1,0 +1,1 @@
+(function(){var b="96c1ba228f90",m="# Joshua 15:40 (New International Version)\nKabbon, Lahmas, Kitlish,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

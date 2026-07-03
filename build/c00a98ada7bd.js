@@ -1,0 +1,1 @@
+(function(){var b="c00a98ada7bd",m="# Genesis 13:5 (New International Version)\nNow Lot,[^A] who was moving about with Abram, also had flocks and herds and tents. \n\n### Crossrefs\n[^A]: S [[Gen-11-27|Ge 11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

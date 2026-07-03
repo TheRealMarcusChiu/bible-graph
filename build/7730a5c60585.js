@@ -1,0 +1,1 @@
+(function(){var b="7730a5c60585",m="# Exodus 36:26 (New International Version)\nand forty silver bases--two under each frame.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

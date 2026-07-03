@@ -1,0 +1,1 @@
+(function(){var b="adcdc0a90ce9",m="# Leviticus 14:41 (New International Version)\nHe must have all the inside walls of the house scraped and the material that is scraped off dumped into an unclean place outside the town.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

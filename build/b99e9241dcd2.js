@@ -1,0 +1,1 @@
+(function(){var b="b99e9241dcd2",m="# 1 Corinthians 14:19 (New International Version)\nBut in the church I would rather speak five intelligible words to instruct others than ten thousand words in a tongue.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-14-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

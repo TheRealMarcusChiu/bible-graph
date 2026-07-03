@@ -1,0 +1,1 @@
+(function(){var b="4e8ee248195b",m="# Deuteronomy 19:18 (New International Version)\nThe judges must make a thorough investigation,[^A] and if the witness proves to be a liar, giving false testimony against a fellow Israelite, \n\n### Crossrefs\n[^A]: S [[Exod-23-7|Ex 23:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

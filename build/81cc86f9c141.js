@@ -1,0 +1,1 @@
+(function(){var b="81cc86f9c141",m="# John 19:8 (New International Version)\nWhen Pilate heard this, he was even more afraid,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c82e0c862427",m="# Romans 6:12 (New International Version)\nTherefore do not let sin reign[^A] in your mortal body so that you obey its evil desires. \n\n### Crossrefs\n[^A]: [[Rom-6-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

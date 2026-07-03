@@ -1,0 +1,1 @@
+(function(){var b="63efdaa560f7",m="# Genesis 8:16 (New International Version)\n\"Come out of the ark, you and your wife and your sons and their wives.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-7-13|Ge 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

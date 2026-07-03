@@ -1,0 +1,1 @@
+(function(){var b="2a5eb317a702",m="# Deuteronomy 4:45 (New International Version)\nThese are the stipulations, decrees and laws Moses gave them when they came out of Egypt";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

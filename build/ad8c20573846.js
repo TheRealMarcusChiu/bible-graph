@@ -1,0 +1,1 @@
+(function(){var b="ad8c20573846",m="# Revelation 21:13 (New International Version)\nThere were three gates on the east, three on the north, three on the south and three on the west.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

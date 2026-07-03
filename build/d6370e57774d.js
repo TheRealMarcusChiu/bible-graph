@@ -1,0 +1,1 @@
+(function(){var b="d6370e57774d",m="# Acts 8:23 (New International Version)\nFor I see that you are full of bitterness and captive to sin.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

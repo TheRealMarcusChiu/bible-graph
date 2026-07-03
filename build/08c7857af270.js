@@ -1,0 +1,1 @@
+(function(){var b="08c7857af270",m="# Numbers 4:36 (New International Version)\ncounted by clans, were 2,750.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

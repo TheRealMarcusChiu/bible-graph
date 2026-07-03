@@ -1,0 +1,1 @@
+(function(){var b="0a0cd71af942",m="# 1 John 4:15 (New International Version)\nIf anyone acknowledges that Jesus is the Son of God,[^A] God lives in them and they in God.[^B] \n\n### Crossrefs\n[^A]: S [[1John-2-23|1Jn 2:23]]; [[1John-5-5|5:5]]\n[^B]: [[1John-3-24|1Jn 3:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

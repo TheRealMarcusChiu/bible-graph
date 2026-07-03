@@ -1,0 +1,1 @@
+(function(){var b="b5b5a7b6669b",m="# Genesis 23:8 (New International Version)\nHe said to them, \"If you are willing to let me bury my dead, then listen to me and intercede with Ephron son of Zohar[^A] on my behalf \n\n### Crossrefs\n[^A]: [[Gen-25-9|Ge 25:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

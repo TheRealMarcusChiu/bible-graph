@@ -1,0 +1,1 @@
+(function(){var b="a931f4f2b5e5",m="# Galatians 3\n\nNo other gospel: justification by faith apart from works of the law, and life by the Spirit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

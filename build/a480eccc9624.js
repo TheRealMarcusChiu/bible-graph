@@ -1,0 +1,1 @@
+(function(){var b="a480eccc9624",m="# 1 Timothy 4:2 (New International Version)\nSuch teachings come through hypocritical liars, whose consciences have been seared as with a hot iron.[^A] \n\n### Crossrefs\n[^A]: [[Eph-4-19|Eph 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

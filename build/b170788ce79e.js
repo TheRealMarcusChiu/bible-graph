@@ -1,0 +1,1 @@
+(function(){var b="b170788ce79e",m="# John 13:24 (New International Version)\nSimon Peter motioned to this disciple and said, \"Ask him which one he means.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

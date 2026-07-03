@@ -1,0 +1,1 @@
+(function(){var b="c7a7d6ddd9b1",m="# Acts 3:9 (New International Version)\nWhen all the people[^A] saw him walking and praising God, \n\n### Crossrefs\n[^A]: [[Acts-4-16|Ac 4:16]], [[Acts-4-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

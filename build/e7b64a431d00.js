@@ -1,0 +1,1 @@
+(function(){var b="e7b64a431d00",m="# John 15:18 (New International Version)\nThe World Hates the Disciples\n\"If the world hates you,[^A] keep in mind that it hated me first. \n\n### Crossrefs\n[^A]: [[Isa-66-5|Isa 66:5]]; [[John-7-7|Jn 7:7]]; [[1John-3-13|1Jn 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

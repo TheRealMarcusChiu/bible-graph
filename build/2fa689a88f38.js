@@ -1,0 +1,1 @@
+(function(){var b="2fa689a88f38",m="# Matthew 9:10 (New International Version)\nWhile Jesus was having dinner at Matthew's house, many tax collectors and sinners came and ate with him and his disciples.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

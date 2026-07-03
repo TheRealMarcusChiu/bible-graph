@@ -1,0 +1,1 @@
+(function(){var b="ae7a88971c01",m="# Matthew 23:3 (New International Version)\nSo you must be careful to do everything they tell you. But do not do what they do, for they do not practice what they preach.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

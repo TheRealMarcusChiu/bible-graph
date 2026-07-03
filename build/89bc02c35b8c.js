@@ -1,0 +1,1 @@
+(function(){var b="89bc02c35b8c",m="# Luke 12:45 (New International Version)\nBut suppose the servant says to himself, 'My master is taking a long time in coming,' and he then begins to beat the other servants, both men and women, and to eat and drink and get drunk.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

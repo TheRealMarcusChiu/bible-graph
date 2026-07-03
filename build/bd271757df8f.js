@@ -1,0 +1,1 @@
+(function(){var b="bd271757df8f",m="# Romans 3:10 (New International Version)\nAs it is written:\n\"There is no one righteous, not even one;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

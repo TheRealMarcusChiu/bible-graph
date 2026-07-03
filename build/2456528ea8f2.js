@@ -1,0 +1,1 @@
+(function(){var b="2456528ea8f2",m="# Mark 9:13 (New International Version)\nBut I tell you, Elijah has come,[^A] and they have done to him everything they wished, just as it is written about him.\"\n\n### Crossrefs\n[^A]: S [[Matt-11-14|Mt 11:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

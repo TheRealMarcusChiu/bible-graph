@@ -1,0 +1,1 @@
+(function(){var b="48aae0e5b032",m="# Genesis 25:32 (New International Version)\n\"Look, I am about to die,\" Esau said. \"What good is the birthright to me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="527149ebbc11",m="# Luke 3:28 (New International Version)\nthe son of Melki,\nthe son of Addi, the son of Cosam,\nthe son of Elmadam, the son of Er,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

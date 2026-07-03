@@ -1,0 +1,1 @@
+(function(){var b="64ea09202cee",m="# Exodus 8:6 (New International Version)\nSo Aaron stretched out his hand over the waters of Egypt, and the frogs[^A] came up and covered the land. \n\n### Crossrefs\n[^A]: [[Ps-78-45|Ps 78:45]]; [[Ps-105-30|105:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

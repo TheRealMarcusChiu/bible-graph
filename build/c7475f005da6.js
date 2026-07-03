@@ -1,0 +1,1 @@
+(function(){var b="c7475f005da6",m="# Judges 4:8 (New International Version)\nBarak said to her, \"If you go with me, I will go; but if you don't go with me, I won't go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

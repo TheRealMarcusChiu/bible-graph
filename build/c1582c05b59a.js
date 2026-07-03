@@ -1,0 +1,1 @@
+(function(){var b="c1582c05b59a",m="# Exodus 8:4 (New International Version)\nThe frogs will come up on you and your people and all your officials.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

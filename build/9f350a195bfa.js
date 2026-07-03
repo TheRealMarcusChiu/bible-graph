@@ -1,0 +1,1 @@
+(function(){var b="9f350a195bfa",m="# Genesis 9:8 (New International Version)\nThen God said to Noah and to his sons with him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

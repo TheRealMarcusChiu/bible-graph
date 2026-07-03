@@ -1,0 +1,1 @@
+(function(){var b="1103430885fb",m="# 2 Corinthians 12:3 (New International Version)\nAnd I know that this man--whether in the body or apart from the body I do not know, but God knows--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

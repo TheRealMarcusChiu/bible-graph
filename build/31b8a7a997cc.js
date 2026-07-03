@@ -1,0 +1,1 @@
+(function(){var b="31b8a7a997cc",m="# Luke 9:4 (New International Version)\nWhatever house you enter, stay there until you leave that town.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

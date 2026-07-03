@@ -1,0 +1,1 @@
+(function(){var b="22e8129f9cbb",m="# Judges 1:13 (New International Version)\nOthniel son of Kenaz, Caleb's younger brother, took it; so Caleb gave his daughter Aksah to him in marriage.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

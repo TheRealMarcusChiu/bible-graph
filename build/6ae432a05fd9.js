@@ -1,0 +1,1 @@
+(function(){var b="6ae432a05fd9",m="# Ephesians 4:9 (New International Version)\n(What does \"he ascended\" mean except that he also descended to the lower, earthly regions?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

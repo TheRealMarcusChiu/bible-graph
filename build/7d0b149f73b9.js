@@ -1,0 +1,1 @@
+(function(){var b="7d0b149f73b9",m="# Exodus 27:12 (New International Version)\n\"The west end of the courtyard shall be fifty cubits wide and have curtains, with ten posts and ten bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="845e9e19ea47",m="# Judges 9:33 (New International Version)\nIn the morning at sunrise, advance against the city. When Gaal and his men come out against you, seize the opportunity to attack them.[^A]\"\n\n### Crossrefs\n[^A]: [[1Sam-10-7|1Sa 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

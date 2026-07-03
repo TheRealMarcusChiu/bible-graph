@@ -1,0 +1,1 @@
+(function(){var b="47a21f85cbeb",m="# John 6:19 (New International Version)\nWhen they had rowed about three or four miles, they saw Jesus approaching the boat, walking on the water;[^A] and they were frightened. \n\n### Crossrefs\n[^A]: [[Job-9-8|Job 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

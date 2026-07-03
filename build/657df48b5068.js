@@ -1,0 +1,1 @@
+(function(){var b="657df48b5068",m="# Mark 15:9 (New International Version)\n\"Do you want me to release to you the king of the Jews?\"[^A] asked Pilate, \n\n### Crossrefs\n[^A]: S [[Mark-15-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

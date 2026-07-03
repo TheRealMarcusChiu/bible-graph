@@ -1,0 +1,1 @@
+(function(){var b="da46f6f85b4c",m="# Philippians 3:2 (New International Version)\nWatch out for those dogs,[^A] those evildoers, those mutilators of the flesh. \n\n### Crossrefs\n[^A]: [[Ps-22-16|Ps 22:16]], [[Ps-22-20|20]]; [[Rev-22-15|Rev 22:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

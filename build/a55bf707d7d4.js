@@ -1,0 +1,1 @@
+(function(){var b="a55bf707d7d4",m="# Revelation 16:20 (New International Version)\nEvery island fled away and the mountains could not be found.[^A] \n\n### Crossrefs\n[^A]: S [[Rev-6-14|Rev 6:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

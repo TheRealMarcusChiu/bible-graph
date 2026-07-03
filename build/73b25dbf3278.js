@@ -1,0 +1,1 @@
+(function(){var b="73b25dbf3278",m="# John 2:8 (New International Version)\nThen he told them, \"Now draw some out and take it to the master of the banquet.\"\nThey did so,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

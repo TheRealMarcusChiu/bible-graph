@@ -1,0 +1,1 @@
+(function(){var b="ab0c5c282aa2",m="# Matthew 15:17 (New International Version)\n\"Don't you see that whatever enters the mouth goes into the stomach and then out of the body?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

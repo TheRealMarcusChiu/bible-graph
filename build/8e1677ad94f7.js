@@ -1,0 +1,1 @@
+(function(){var b="8e1677ad94f7",m="# Colossians 1:26 (New International Version)\nthe mystery[^A] that has been kept hidden for ages and generations, but is now disclosed to the Lord's people. \n\n### Crossrefs\n[^A]: S [[Rom-16-25|Ro 16:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

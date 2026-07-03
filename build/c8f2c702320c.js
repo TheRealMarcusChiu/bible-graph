@@ -1,0 +1,1 @@
+(function(){var b="c8f2c702320c",m="# John 4:33 (New International Version)\nThen his disciples said to each other, \"Could someone have brought him food?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4cf81342b4a2",m="# Matthew 2:9 (New International Version)\nAfter they had heard the king, they went on their way, and the star they had seen when it rose went ahead of them until it stopped over the place where the child was.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

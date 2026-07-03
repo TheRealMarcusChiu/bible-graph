@@ -1,0 +1,1 @@
+(function(){var b="03383a4e1dc1",m="# Exodus 36:36 (New International Version)\nThey made four posts of acacia wood for it and overlaid them with gold. They made gold hooks for them and cast their four silver bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

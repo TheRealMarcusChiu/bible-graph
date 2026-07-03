@@ -1,0 +1,1 @@
+(function(){var b="73cb151320ea",m="# 1 Timothy 5:11 (New International Version)\nAs for younger widows, do not put them on such a list. For when their sensual desires overcome their dedication to Christ, they want to marry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

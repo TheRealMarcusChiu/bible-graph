@@ -1,0 +1,1 @@
+(function(){var b="3ee932b80184",m="# Exodus 34:30 (New International Version)\nWhen Aaron and all the Israelites saw Moses, his face was radiant, and they were afraid to come near him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

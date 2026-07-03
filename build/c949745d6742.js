@@ -1,0 +1,1 @@
+(function(){var b="c949745d6742",m="# Luke 19:42 (New International Version)\nand said, \"If you, even you, had only known on this day what would bring you peace--but now it is hidden from your eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

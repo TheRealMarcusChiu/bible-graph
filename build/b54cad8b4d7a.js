@@ -1,0 +1,1 @@
+(function(){var b="b54cad8b4d7a",m="# Acts 15:26 (New International Version)\nmen who have risked their lives[^A] for the name of our Lord Jesus Christ. \n\n### Crossrefs\n[^A]: [[Acts-9-23|Ac 9:23-25]]; [[Acts-14-19|14:19]]; [[1Cor-15-30|1Co 15:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

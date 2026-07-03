@@ -1,0 +1,1 @@
+(function(){var b="5e5fb1c7ba4d",m="# Genesis 4:18 (New International Version)\nTo Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methushael, and Methushael was the father of Lamech.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

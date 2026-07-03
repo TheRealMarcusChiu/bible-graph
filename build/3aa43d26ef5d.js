@@ -1,0 +1,1 @@
+(function(){var b="3aa43d26ef5d",m="# John 7:52 (New International Version)\nThey replied, \"Are you from Galilee, too? Look into it, and you will find that a prophet does not come out of Galilee.\"[^A]\n\n### Crossrefs\n[^A]: [[John-7-41|ver 41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

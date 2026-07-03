@@ -1,0 +1,1 @@
+(function(){var b="91a69aeeb7bc",m="# Acts 1:6 (New International Version)\nThen they gathered around him and asked him, \"Lord, are you at this time going to restore[^A] the kingdom to Israel?\"\n\n### Crossrefs\n[^A]: [[Matt-17-11|Mt 17:11]]; [[Acts-3-21|Ac 3:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

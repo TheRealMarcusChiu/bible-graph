@@ -1,0 +1,1 @@
+(function(){var b="7d20e723fa46",m="# Exodus 40:23 (New International Version)\nand set out the bread[^A] on it before the LORD, as the LORD commanded[^B] him.\n\n### Crossrefs\n[^A]: S [[Exod-25-30|Ex 25:30]]; [[Lev-24-5|Lev 24:5-8]]\n[^B]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

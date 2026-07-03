@@ -1,0 +1,1 @@
+(function(){var b="8aa18851f24b",m="# 1 Corinthians 12:6 (New International Version)\nThere are different kinds of working, but in all of them and in everyone[^A] it is the same God[^B] at work.\n\n### Crossrefs\n[^A]: S [[Phil-2-13|Php 2:13]]\n[^B]: [[Eph-4-6|Eph 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

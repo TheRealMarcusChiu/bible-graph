@@ -1,0 +1,1 @@
+(function(){var b="65362a664283",m="# Matthew 20:25 (New International Version)\nJesus called them together and said, \"You know that the rulers of the Gentiles lord it over them, and their high officials exercise authority over them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

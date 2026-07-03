@@ -1,0 +1,1 @@
+(function(){var b="dea61a609fcc",m="# Matthew 17:3 (New International Version)\nJust then there appeared before them Moses and Elijah, talking with Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

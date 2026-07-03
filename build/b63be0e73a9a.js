@@ -1,0 +1,1 @@
+(function(){var b="b63be0e73a9a",m="# Revelation 2:15 (New International Version)\nLikewise, you also have those who hold to the teaching of the Nicolaitans.[^A] \n\n### Crossrefs\n[^A]: [[Rev-2-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

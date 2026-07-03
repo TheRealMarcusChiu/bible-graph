@@ -1,0 +1,1 @@
+(function(){var b="f04d58460ded",m="# Deuteronomy 17:13 (New International Version)\nAll the people will hear and be afraid, and will not be contemptuous again.[^A]\n\n### Crossrefs\n[^A]: S [[Deut-17-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

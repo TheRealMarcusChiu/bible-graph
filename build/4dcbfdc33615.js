@@ -1,0 +1,1 @@
+(function(){var b="4dcbfdc33615",m="# Luke 2:18 (New International Version)\nand all who heard it were amazed at what the shepherds said to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

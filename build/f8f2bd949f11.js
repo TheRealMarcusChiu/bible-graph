@@ -1,0 +1,1 @@
+(function(){var b="f8f2bd949f11",m="# Genesis 39:13 (New International Version)\nWhen she saw that he had left his cloak in her hand and had run out of the house,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="23b697e30459",m="# Acts 20:27 (New International Version)\nFor I have not hesitated to proclaim to you the whole will of God.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-20-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

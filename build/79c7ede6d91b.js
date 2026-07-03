@@ -1,0 +1,1 @@
+(function(){var b="79c7ede6d91b",m="# Acts 13:44 (New International Version)\nOn the next Sabbath almost the whole city gathered to hear the word of the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

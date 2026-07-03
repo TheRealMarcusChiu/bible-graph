@@ -1,0 +1,1 @@
+(function(){var b="a5deb3c3ebe1",m="# John 15:8 (New International Version)\nThis is to my Father's glory,[^A] that you bear much fruit, showing yourselves to be my disciples.[^B]\n\n### Crossrefs\n[^A]: S [[Matt-9-8|Mt 9:8]]\n[^B]: [[John-8-31|Jn 8:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4878b94e77df",m="# Hebrews 11:20 (New International Version)\nBy faith Isaac blessed Jacob and Esau in regard to their future.[^A]\n\n### Crossrefs\n[^A]: [[Gen-27-27|Ge 27:27-29]], [[Gen-27-39|39]], [[Gen-27-40|40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

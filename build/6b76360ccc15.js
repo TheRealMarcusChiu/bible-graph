@@ -1,0 +1,1 @@
+(function(){var b="6b76360ccc15",m="# John 9:8 (New International Version)\nHis neighbors and those who had formerly seen him begging asked, \"Isn't this the same man who used to sit and beg?\"[^A] \n\n### Crossrefs\n[^A]: [[Acts-3-2|Ac 3:2]], [[Acts-3-10|10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

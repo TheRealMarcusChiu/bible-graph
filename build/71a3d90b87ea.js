@@ -1,0 +1,1 @@
+(function(){var b="71a3d90b87ea",m="# Luke 18:32 (New International Version)\nHe will be delivered over to the Gentiles.[^A] They will mock him, insult him and spit on him; \n\n### Crossrefs\n[^A]: [[Luke-23-1|Lk 23:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

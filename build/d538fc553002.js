@@ -1,0 +1,1 @@
+(function(){var b="d538fc553002",m="# Romans 4:7 (New International Version)\n\"Blessed are those  \n    whose transgressions are forgiven,  \n    whose sins are covered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

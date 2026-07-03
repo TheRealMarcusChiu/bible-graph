@@ -1,0 +1,1 @@
+(function(){var b="8628fad6841d",m="# Numbers 3:34 (New International Version)\nThe number of all the males a month old or more[^A] who were counted was 6,200. \n\n### Crossrefs\n[^A]: [[Num-3-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

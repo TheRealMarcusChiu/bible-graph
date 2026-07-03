@@ -1,0 +1,1 @@
+(function(){var b="6df1d593167f",m="# Deuteronomy 1:46 (New International Version)\nAnd so you stayed in Kadesh[^A] many days--all the time you spent there.\n\n### Crossrefs\n[^A]: S [[Num-20-1|Nu 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

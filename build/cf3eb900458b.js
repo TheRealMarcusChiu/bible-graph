@@ -1,0 +1,1 @@
+(function(){var b="cf3eb900458b",m="# Matthew 25:9 (New International Version)\n\"'No,' they replied, 'there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

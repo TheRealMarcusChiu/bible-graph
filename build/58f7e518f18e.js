@@ -1,0 +1,1 @@
+(function(){var b="58f7e518f18e",m="# Genesis 24:58 (New International Version)\nSo they called Rebekah and asked her, \"Will you go with this man?\"\n\"I will go,\"[^A] she said.\n\n### Crossrefs\n[^A]: [[Ruth-1-16|Ru 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

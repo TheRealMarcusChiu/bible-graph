@@ -1,0 +1,1 @@
+(function(){var b="99f3a8b2d214",m="# Matthew 18:2 (New International Version)\nHe called a little child to him, and placed the child among them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

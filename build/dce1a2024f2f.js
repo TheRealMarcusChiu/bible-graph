@@ -1,0 +1,1 @@
+(function(){var b="dce1a2024f2f",m="# Genesis 8:14 (New International Version)\nBy the twenty-seventh day of the second month[^A] the earth was completely dry.\n\n### Crossrefs\n[^A]: S [[Gen-7-11|Ge 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

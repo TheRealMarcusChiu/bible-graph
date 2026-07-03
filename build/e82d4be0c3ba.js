@@ -1,0 +1,1 @@
+(function(){var b="e82d4be0c3ba",m="# Exodus 30:28 (New International Version)\nthe altar of burnt offering and all its utensils, and the basin with its stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

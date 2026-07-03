@@ -1,0 +1,1 @@
+(function(){var b="50bf17b84d5a",m="# John 4:11 (New International Version)\n\"Sir,\" the woman said, \"you have nothing to draw with and the well is deep. Where can you get this living water?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="99e8a4d4d8a6",m="# Matthew 7:20 (New International Version)\nThus, by their fruit you will recognize them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="28142158593c",m="# John 4:43 (New International Version)\nJesus Heals an Official's Son\nAfter the two days[^A] he left for Galilee. \n\n### Crossrefs\n[^A]: [[John-4-40|ver 40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

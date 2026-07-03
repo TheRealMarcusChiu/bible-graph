@@ -1,0 +1,1 @@
+(function(){var b="25233e780926",m="# Numbers 4:2 (New International Version)\n\"Take a census[^A] of the Kohathite branch of the Levites by their clans and families. \n\n### Crossrefs\n[^A]: S [[Exod-30-12|Ex 30:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

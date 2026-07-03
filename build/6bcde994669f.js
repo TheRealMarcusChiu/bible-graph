@@ -1,0 +1,1 @@
+(function(){var b="6bcde994669f",m="# Ephesians 3:14 (New International Version)\nA Prayer for the Ephesians\nFor this reason I kneel[^A] before the Father, \n\n### Crossrefs\n[^A]: [[Phil-2-10|Php 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

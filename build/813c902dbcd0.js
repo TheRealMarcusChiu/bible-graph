@@ -1,0 +1,1 @@
+(function(){var b="813c902dbcd0",m="# Luke 8:7 (New International Version)\nOther seed fell among thorns, which grew up with it and choked the plants.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

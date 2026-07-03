@@ -1,0 +1,1 @@
+(function(){var b="3a3b5bca8c9e",m="# James 3:16 (New International Version)\nFor where you have envy and selfish ambition,[^A] there you find disorder and every evil practice.\n\n### Crossrefs\n[^A]: [[Jas-3-14|ver 14]]; [[Gal-5-20|Gal 5:20]], [[Gal-5-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

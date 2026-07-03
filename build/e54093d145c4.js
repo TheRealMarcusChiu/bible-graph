@@ -1,0 +1,1 @@
+(function(){var b="e54093d145c4",m="# Numbers 31:40 (New International Version)\n16,000 people, of whom the tribute for the LORD was 32.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a03541d6c780",m="# Genesis 35:6 (New International Version)\nJacob and all the people with him came to Luz[^A] (that is, Bethel) in the land of Canaan.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-28-19|Ge 28:19]]\n[^B]: S [[Gen-10-19|Ge 10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

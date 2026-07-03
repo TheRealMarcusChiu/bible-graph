@@ -1,0 +1,1 @@
+(function(){var b="18cc4c6e2813",m="# Luke 8:54 (New International Version)\nBut he took her by the hand and said, \"My child, get up!\"[^A] \n\n### Crossrefs\n[^A]: S [[Luke-7-14|Lk 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

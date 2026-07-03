@@ -1,0 +1,1 @@
+(function(){var b="431670657986",m="# 1 Corinthians 14:18 (New International Version)\nI thank God that I speak in tongues more than all of you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

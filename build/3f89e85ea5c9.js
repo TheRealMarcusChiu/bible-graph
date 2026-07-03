@@ -1,0 +1,1 @@
+(function(){var b="3f89e85ea5c9",m="# Exodus 29:23 (New International Version)\nFrom the basket of bread made without yeast, which is before the LORD, take one round loaf, one thick loaf with olive oil mixed in, and one thin loaf.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

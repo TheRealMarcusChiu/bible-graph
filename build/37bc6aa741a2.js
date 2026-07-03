@@ -1,0 +1,1 @@
+(function(){var b="37bc6aa741a2",m="# Matthew 1:4 (New International Version)\nRam the father of Amminadab,\nAmminadab the father of Nahshon,\nNahshon the father of Salmon,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

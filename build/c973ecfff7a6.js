@@ -1,0 +1,1 @@
+(function(){var b="c973ecfff7a6",m="# Numbers 30:13 (New International Version)\nHer husband may confirm or nullify any vow she makes or any sworn pledge to deny herself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c6e0b3027d4b",m="# Numbers 4:42 (New International Version)\nThe Merarites were counted by their clans and families.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="76ba9afb7b86",m="# Revelation 21:16 (New International Version)\nThe city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia in length, and as wide and high as it is long.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

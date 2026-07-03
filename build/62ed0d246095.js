@@ -1,0 +1,1 @@
+(function(){var b="62ed0d246095",m="# Matthew 13:51 (New International Version)\n\"Have you understood all these things?\" Jesus asked.\n\"Yes,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

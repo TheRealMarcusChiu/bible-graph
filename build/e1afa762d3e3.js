@@ -1,0 +1,1 @@
+(function(){var b="e1afa762d3e3",m="# 2 Thessalonians 3:3 (New International Version)\nBut the Lord is faithful,[^A] and he will strengthen you and protect you from the evil one.[^B] \n\n### Crossrefs\n[^A]: S [[1Cor-1-9|1Co 1:9]]\n[^B]: S [[Matt-5-37|Mt 5:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

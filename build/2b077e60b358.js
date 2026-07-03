@@ -1,0 +1,1 @@
+(function(){var b="2b077e60b358",m="# Leviticus 22:1 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5272debbafbf",m="# Numbers 33:15 (New International Version)\nThey left Rephidim[^A] and camped in the Desert of Sinai.[^B]\n\n### Crossrefs\n[^A]: S [[Exod-17-1|Ex 17:1]]\n[^B]: S [[Exod-19-1|Ex 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

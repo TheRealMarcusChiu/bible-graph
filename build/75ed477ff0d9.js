@@ -1,0 +1,1 @@
+(function(){var b="75ed477ff0d9",m="# Numbers 24:19 (New International Version)\nA ruler will come out of Jacob[^A]  \n    and destroy the survivors of the city.\"\n\n### Crossrefs\n[^A]: S [[Gen-49-10|Ge 49:10]]; [[Mic-5-2|Mic 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

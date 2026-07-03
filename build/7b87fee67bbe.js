@@ -1,0 +1,1 @@
+(function(){var b="7b87fee67bbe",m="# Genesis 20:16 (New International Version)\nTo Sarah he said, \"I am giving your brother a thousand shekels of silver. This is to cover the offense against you before all who are with you; you are completely vindicated.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

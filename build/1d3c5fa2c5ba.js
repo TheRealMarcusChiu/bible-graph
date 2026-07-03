@@ -1,0 +1,1 @@
+(function(){var b="1d3c5fa2c5ba",m="# 1 Corinthians 12:24 (New International Version)\nwhile our presentable parts need no special treatment. But God has put the body together, giving greater honor to the parts that lacked it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

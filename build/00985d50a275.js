@@ -1,0 +1,1 @@
+(function(){var b="00985d50a275",m="# 2 John 11 (New International Version)\nAnyone who welcomes them shares[^A] in their wicked work.\n\n### Crossrefs\n[^A]: [[1Tim-5-22|1Ti 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

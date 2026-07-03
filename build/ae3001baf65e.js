@@ -1,0 +1,1 @@
+(function(){var b="ae3001baf65e",m="# Joshua 10:29 (New International Version)\nThen Joshua and all Israel with him moved on from Makkedah to Libnah[^A] and attacked it. \n\n### Crossrefs\n[^A]: S [[Num-33-20|Nu 33:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

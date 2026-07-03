@@ -1,0 +1,1 @@
+(function(){var b="c677f2af1068",m="# Numbers 6:1 (New International Version)\nThe Nazirite\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

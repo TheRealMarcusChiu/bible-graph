@@ -1,0 +1,1 @@
+(function(){var b="9cc8a42e93e2",m="# Exodus 38:19 (New International Version)\nwith four posts and four bronze bases. Their hooks and bands were silver, and their tops were overlaid with silver.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

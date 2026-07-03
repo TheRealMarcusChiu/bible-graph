@@ -1,0 +1,1 @@
+(function(){var b="20ec85b15281",m="# Numbers 26:31 (New International Version)\nthrough Asriel, the Asrielite clan;\nthrough Shechem, the Shechemite clan;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

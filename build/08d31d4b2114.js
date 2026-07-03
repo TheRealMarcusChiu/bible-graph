@@ -1,0 +1,1 @@
+(function(){var b="08d31d4b2114",m="# Leviticus 15:27 (New International Version)\nAnyone who touches them will be unclean; they must wash their clothes and bathe with water, and they will be unclean till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="46fa4239b567",m="# 1 Corinthians 11:13 (New International Version)\nJudge for yourselves: Is it proper for a woman to pray to God with her head uncovered?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

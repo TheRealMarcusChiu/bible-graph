@@ -1,0 +1,1 @@
+(function(){var b="5e417cbd5b2b",m="# Genesis 36:42 (New International Version)\nKenaz, Teman, Mibzar,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

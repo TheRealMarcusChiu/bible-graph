@@ -1,0 +1,1 @@
+(function(){var b="b0977a9bbfa1",m="# Numbers 28:28 (New International Version)\nWith each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;[^A] \n\n### Crossrefs\n[^A]: [[Num-28-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

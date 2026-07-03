@@ -1,0 +1,1 @@
+(function(){var b="df0baa18e394",m="# Acts 10:24 (New International Version)\nThe following day he arrived in Caesarea.[^A] Cornelius was expecting them and had called together his relatives and close friends. \n\n### Crossrefs\n[^A]: S [[Acts-8-40|Ac 8:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

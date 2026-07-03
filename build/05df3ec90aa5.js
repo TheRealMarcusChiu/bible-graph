@@ -1,0 +1,1 @@
+(function(){var b="05df3ec90aa5",m="# Matthew 7:10 (New International Version)\nOr if he asks for a fish, will give him a snake?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

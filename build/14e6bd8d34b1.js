@@ -1,0 +1,1 @@
+(function(){var b="14e6bd8d34b1",m="# Revelation 5:3 (New International Version)\nBut no one in heaven or on earth or under the earth could open the scroll or even look inside it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

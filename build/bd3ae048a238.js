@@ -1,0 +1,1 @@
+(function(){var b="bd3ae048a238",m="# Mark 16:5 (New International Version)\nAs they entered the tomb, they saw a young man dressed in a white robe[^A] sitting on the right side, and they were alarmed.\n\n### Crossrefs\n[^A]: S [[John-20-12|Jn 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

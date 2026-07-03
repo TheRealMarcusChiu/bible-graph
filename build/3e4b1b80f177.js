@@ -1,0 +1,1 @@
+(function(){var b="3e4b1b80f177",m="# Matthew 7:17 (New International Version)\nLikewise, every good tree bears good fruit, but a bad tree bears bad fruit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

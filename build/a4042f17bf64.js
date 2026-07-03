@@ -1,0 +1,1 @@
+(function(){var b="a4042f17bf64",m="# John 4:28 (New International Version)\nThen, leaving her water jar, the woman went back to the town and said to the people,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

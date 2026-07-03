@@ -1,0 +1,1 @@
+(function(){var b="f278a4df9120",m="# Luke 7:32 (New International Version)\nThey are like children sitting in the marketplace and calling out to each other:\n\"'We played the pipe for you,  \n    and you did not dance;  \nwe sang a dirge,  \n    and you did not cry.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

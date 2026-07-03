@@ -1,0 +1,1 @@
+(function(){var b="b852d6142010",m="# Numbers 10:22 (New International Version)\nThe divisions of the camp of Ephraim[^A] went next, under their standard. Elishama son of Ammihud[^B] was in command. \n\n### Crossrefs\n[^A]: [[Num-2-24|Nu 2:24]]\n[^B]: S [[Num-1-10|Nu 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

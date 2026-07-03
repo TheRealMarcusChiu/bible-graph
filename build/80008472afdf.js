@@ -1,0 +1,1 @@
+(function(){var b="80008472afdf",m="# Exodus 39:24 (New International Version)\nThey made pomegranates of blue, purple and scarlet yarn and finely twisted linen around the hem of the robe.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

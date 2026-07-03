@@ -1,0 +1,1 @@
+(function(){var b="c03bbee4353f",m="# Romans 4:23 (New International Version)\nThe words \"it was credited to him\" were written not for him alone,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

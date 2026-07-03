@@ -1,0 +1,1 @@
+(function(){var b="66bc59b3aa3b",m="# Luke 16:19 (New International Version)\nThe Rich Man and Lazarus\n\"There was a rich man who was dressed in purple and fine linen and lived in luxury every day.[^A] \n\n### Crossrefs\n[^A]: [[Ezek-16-49|Eze 16:49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

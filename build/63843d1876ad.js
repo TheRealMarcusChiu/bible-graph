@@ -1,0 +1,1 @@
+(function(){var b="63843d1876ad",m="# Acts 23:19 (New International Version)\nThe commander took the young man by the hand, drew him aside and asked, \"What is it you want to tell me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

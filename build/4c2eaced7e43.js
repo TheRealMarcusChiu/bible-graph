@@ -1,0 +1,1 @@
+(function(){var b="4c2eaced7e43",m="# Numbers 13:25 (New International Version)\nAt the end of forty days[^A] they returned from exploring the land.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-7-4|Ge 7:4]]\n[^B]: [[Num-14-34|Nu 14:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

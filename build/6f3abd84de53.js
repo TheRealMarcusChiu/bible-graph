@@ -1,0 +1,1 @@
+(function(){var b="6f3abd84de53",m="# Acts 16:8 (New International Version)\nSo they passed by Mysia and went down to Troas.[^A] \n\n### Crossrefs\n[^A]: [[Acts-16-11|ver 11]]; [[Acts-20-5|Ac 20:5]]; [[2Cor-2-12|2Co 2:12]]; [[2Tim-4-13|2Ti 4:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

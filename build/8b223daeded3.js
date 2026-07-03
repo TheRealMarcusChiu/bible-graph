@@ -1,0 +1,1 @@
+(function(){var b="8b223daeded3",m="# Numbers 35:17 (New International Version)\nOr if anyone is holding a stone and strikes someone a fatal blow with it, that person is a murderer; the murderer is to be put to death.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

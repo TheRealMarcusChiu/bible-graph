@@ -1,0 +1,1 @@
+(function(){var b="8a081c4236d9",m="# Mark 6:44 (New International Version)\nThe number of the men who had eaten was five thousand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

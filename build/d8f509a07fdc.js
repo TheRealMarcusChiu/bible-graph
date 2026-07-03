@@ -1,0 +1,1 @@
+(function(){var b="d8f509a07fdc",m="# Leviticus 23:5 (New International Version)\nThe LORD's Passover[^A] begins at twilight on the fourteenth day of the first month.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-12-11|Ex 12:11]]\n[^B]: S [[Exod-12-6|Ex 12:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

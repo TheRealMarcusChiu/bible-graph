@@ -1,0 +1,1 @@
+(function(){var b="422d393bfaed",m="# Acts 14:13 (New International Version)\nThe priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates because he and the crowd wanted to offer sacrifices to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0d1a95fff02c",m="# Luke 19:48 (New International Version)\nYet they could not find any way to do it, because all the people hung on his words.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

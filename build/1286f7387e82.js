@@ -1,0 +1,1 @@
+(function(){var b="1286f7387e82",m="# Exodus 38:4 (New International Version)\nThey made a grating for the altar, a bronze network, to be under its ledge, halfway up the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

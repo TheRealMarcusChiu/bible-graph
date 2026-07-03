@@ -1,0 +1,1 @@
+(function(){var b="16ef476c96eb",m="# Exodus 39:18 (New International Version)\nand the other ends of the chains to the two settings, attaching them to the shoulder pieces of the ephod at the front.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

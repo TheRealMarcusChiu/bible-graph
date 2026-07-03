@@ -1,0 +1,1 @@
+(function(){var b="cf6d2ed08df5",m="# Luke 13:22 (New International Version)\nThe Narrow Door\nThen Jesus went through the towns and villages, teaching as he made his way to Jerusalem.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-9-51|Lk 9:51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

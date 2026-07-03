@@ -1,1 +1,0 @@
-(function(){var b="20f81e99b6d5",m="# Open Source Foundations\n\nNotes on Open Source Foundations.\n\n## Linked notes\n\n- [[Cloud Providers — HashiCorp]]\n- [[Game Loops — PBR]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

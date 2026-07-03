@@ -1,0 +1,1 @@
+(function(){var b="226c36ab7774",m="# Numbers 33:56 (New International Version)\nAnd then I will do to you what I plan to do to them.[^A]'\"\n\n### Crossrefs\n[^A]: [[Num-14-28|Nu 14:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1f355cb676ee",m="# Luke 12:44 (New International Version)\nTruly I tell you, he will put him in charge of all his possessions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

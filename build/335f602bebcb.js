@@ -1,0 +1,1 @@
+(function(){var b="335f602bebcb",m="# Philippians 2:21 (New International Version)\nFor everyone looks out for their own interests,[^A] not those of Jesus Christ. \n\n### Crossrefs\n[^A]: S [[1Cor-10-24|1Co 10:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

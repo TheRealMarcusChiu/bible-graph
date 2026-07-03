@@ -1,0 +1,1 @@
+(function(){var b="711538e16b6f",m="# Numbers 26:23 (New International Version)\nThe descendants of Issachar by their clans were:\nthrough Tola,[^A] the Tolaite clan;\nthrough Puah, the Puite clan;\n\n### Crossrefs\n[^A]: S [[Gen-46-13|Ge 46:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

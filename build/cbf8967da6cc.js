@@ -1,0 +1,1 @@
+(function(){var b="cbf8967da6cc",m="# Numbers 13:15 (New International Version)\nfrom the tribe of Gad, Geuel son of Maki.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

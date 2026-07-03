@@ -1,0 +1,1 @@
+(function(){var b="f598076485f7",m="# Matthew 27:47 (New International Version)\nWhen some of those standing there heard this, they said, \"He's calling Elijah.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

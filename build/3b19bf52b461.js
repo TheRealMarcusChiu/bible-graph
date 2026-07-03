@@ -1,0 +1,1 @@
+(function(){var b="3b19bf52b461",m="# Matthew 7:14 (New International Version)\nBut small is the gate and narrow the road that leads to life, and only a few find it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

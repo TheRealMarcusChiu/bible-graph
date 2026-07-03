@@ -1,0 +1,1 @@
+(function(){var b="385a06875b57",m="# John 6:20 (New International Version)\nBut he said to them, \"It is I; don't be afraid.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-14-27|Mt 14:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

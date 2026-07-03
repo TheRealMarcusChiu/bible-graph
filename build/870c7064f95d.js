@@ -1,0 +1,1 @@
+(function(){var b="870c7064f95d",m="# Numbers 13:7 (New International Version)\nfrom the tribe of Issachar, Igal son of Joseph;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

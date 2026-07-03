@@ -1,0 +1,1 @@
+(function(){var b="ee2d7e853279",m="# Numbers 4:18 (New International Version)\n\"See that the Kohathite tribal clans are not destroyed from among the Levites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

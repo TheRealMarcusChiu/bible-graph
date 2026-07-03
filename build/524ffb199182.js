@@ -1,0 +1,1 @@
+(function(){var b="524ffb199182",m="# 1 Corinthians 11:12 (New International Version)\nFor as woman came from man, so also man is born of woman. But everything comes from God.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-11-36|Ro 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

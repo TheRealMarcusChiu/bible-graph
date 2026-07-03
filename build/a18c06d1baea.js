@@ -1,0 +1,1 @@
+(function(){var b="a18c06d1baea",m="# Titus 2:11 (New International Version)\nFor the grace[^A] of God has appeared[^B] that offers salvation to all people.[^C] \n\n### Crossrefs\n[^A]: S [[Rom-3-24|Ro 3:24]]\n[^B]: [[2Tim-1-10|2Ti 1:10]]\n[^C]: S [[1Tim-2-4|1Ti 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

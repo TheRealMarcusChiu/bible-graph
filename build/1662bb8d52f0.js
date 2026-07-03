@@ -1,0 +1,1 @@
+(function(){var b="1662bb8d52f0",m="# Luke 24:9 (New International Version)\nWhen they came back from the tomb, they told all these things to the Eleven and to all the others.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

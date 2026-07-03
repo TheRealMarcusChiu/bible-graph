@@ -1,0 +1,1 @@
+(function(){var b="589d0ff470f8",m="# Exodus 5:9 (New International Version)\nMake the work harder for the people so that they keep working and pay no attention to lies.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

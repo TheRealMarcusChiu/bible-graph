@@ -1,0 +1,1 @@
+(function(){var b="9c16b09d54f2",m="# John 4:15 (New International Version)\nThe woman said to him, \"Sir, give me this water so that I won't get thirsty[^A] and have to keep coming here to draw water.\"\n\n### Crossrefs\n[^A]: [[John-6-34|Jn 6:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

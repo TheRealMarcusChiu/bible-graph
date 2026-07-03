@@ -1,0 +1,1 @@
+(function(){var b="9c5ace268c0c",m="# Luke 9:25 (New International Version)\nWhat good is it for someone to gain the whole world, and yet lose or forfeit their very self?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

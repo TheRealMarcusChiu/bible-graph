@@ -1,0 +1,1 @@
+(function(){var b="76803295d962",m="# Revelation 12:16 (New International Version)\nBut the earth helped the woman by opening its mouth and swallowing the river that the dragon had spewed out of his mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eb60e2ddee8b",m="# Matthew 8:15 (New International Version)\nHe touched her hand and the fever left her, and she got up and began to wait on him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

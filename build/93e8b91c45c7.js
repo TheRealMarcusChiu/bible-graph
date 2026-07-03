@@ -1,0 +1,1 @@
+(function(){var b="93e8b91c45c7",m="# Judges 9:37 (New International Version)\nBut Gaal spoke up again: \"Look, people are coming down from the central hill, and a company is coming from the direction of the diviners' tree.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="56c37737142f",m="# Luke 8:21 (New International Version)\nHe replied, \"My mother and brothers are those who hear God's word and put it into practice.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-6-47|Lk 6:47]]; [[Luke-11-28|11:28]]; [[John-14-21|Jn 14:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="219c6ad77be2",m="# Hebrews 7:16 (New International Version)\none who has become a priest not on the basis of a regulation as to his ancestry but on the basis of the power of an indestructible life.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

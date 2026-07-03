@@ -1,0 +1,1 @@
+(function(){var b="956a1323a1fb",m="# Joshua 2:2 (New International Version)\nThe king of Jericho was told, \"Look, some of the Israelites have come here tonight to spy out the land.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

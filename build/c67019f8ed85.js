@@ -1,0 +1,1 @@
+(function(){var b="c67019f8ed85",m="# Genesis 2:6 (New International Version)\nbut streams came up from the earth and watered the whole surface of the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

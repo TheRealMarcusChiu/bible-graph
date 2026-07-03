@@ -1,0 +1,1 @@
+(function(){var b="da356aac2ce2",m="# Genesis 10:25 (New International Version)\nTwo sons were born to Eber:\nOne was named Peleg, because in his time the earth was divided; his brother was named Joktan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

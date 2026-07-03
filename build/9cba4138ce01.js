@@ -1,0 +1,1 @@
+(function(){var b="9cba4138ce01",m="# Numbers 10:31 (New International Version)\nBut Moses said, \"Please do not leave us. You know where we should camp in the wilderness, and you can be our eyes.[^A] \n\n### Crossrefs\n[^A]: [[Job-29-15|Job 29:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

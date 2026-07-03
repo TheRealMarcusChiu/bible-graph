@@ -1,0 +1,1 @@
+(function(){var b="1bb829e64374",m="# Acts 25:18 (New International Version)\nWhen his accusers got up to speak, they did not charge him with any of the crimes I had expected.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

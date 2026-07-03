@@ -1,0 +1,1 @@
+(function(){var b="007a5465421e",m="# Numbers 14:4 (New International Version)\nAnd they said to each other, \"We should choose a leader and go back to Egypt.[^A]\"\n\n### Crossrefs\n[^A]: [[Neh-9-17|Ne 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

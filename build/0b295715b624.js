@@ -1,0 +1,1 @@
+(function(){var b="0b295715b624",m="# Mark 11:29 (New International Version)\nJesus replied, \"I will ask you one question. Answer me, and I will tell you by what authority I am doing these things.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

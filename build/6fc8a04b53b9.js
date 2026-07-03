@@ -1,0 +1,1 @@
+(function(){var b="6fc8a04b53b9",m="# Leviticus 18:6 (New International Version)\n\"'No one is to approach any close relative to have sexual relations. I am the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

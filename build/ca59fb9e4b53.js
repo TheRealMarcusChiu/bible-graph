@@ -1,0 +1,1 @@
+(function(){var b="ca59fb9e4b53",m="# Luke 20:7 (New International Version)\nSo they answered, \"We don't know where it was from.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

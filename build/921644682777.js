@@ -1,0 +1,1 @@
+(function(){var b="921644682777",m="# Genesis 27:18 (New International Version)\nHe went to his father and said, \"My father.\"\n\"Yes, my son,\" he answered. \"Who is it?\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-27-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

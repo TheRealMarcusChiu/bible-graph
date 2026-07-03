@@ -1,0 +1,1 @@
+(function(){var b="ab18625a02ee",m="# Acts 22:6 (New International Version)\n\"About noon as I came near Damascus, suddenly a bright light from heaven flashed around me.[^A] \n\n### Crossrefs\n[^A]: [[Acts-9-3|Ac 9:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

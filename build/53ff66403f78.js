@@ -1,0 +1,1 @@
+(function(){var b="53ff66403f78",m="# Genesis 32:8 (New International Version)\nHe thought, \"If Esau comes and attacks one group, the group that is left may escape.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

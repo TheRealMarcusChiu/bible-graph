@@ -1,0 +1,1 @@
+(function(){var b="36285fa86ef2",m="# Leviticus 9:10 (New International Version)\nOn the altar he burned the fat, the kidneys and the long lobe of the liver from the sin offering, as the LORD commanded Moses;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0ecdb0df75b0",m="# Exodus 39:34 (New International Version)\nthe covering of ram skins dyed red and the covering of another durable leather and the shielding curtain;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="69f30aa5d870",m="# Acts 2:3 (New International Version)\nThey saw what seemed to be tongues of fire that separated and came to rest on each of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

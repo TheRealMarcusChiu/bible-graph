@@ -1,0 +1,1 @@
+(function(){var b="9f86232c21a7",m="# Joshua 19:44 (New International Version)\nEltekeh, Gibbethon,[^A] Baalath,[^B] \n\n### Crossrefs\n[^A]: [[Josh-21-23|Jos 21:23]]; [[1Kgs-15-27|1Ki 15:27]]; [[1Kgs-16-15|16:15]]\n[^B]: [[1Kgs-9-18|1Ki 9:18]]; [[2Chr-8-6|2Ch 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

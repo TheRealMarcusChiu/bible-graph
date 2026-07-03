@@ -1,0 +1,1 @@
+(function(){var b="312fa40adabc",m="# Acts 10:40 (New International Version)\nbut God raised him from the dead[^A] on the third day and caused him to be seen. \n\n### Crossrefs\n[^A]: S [[Acts-2-24|Ac 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

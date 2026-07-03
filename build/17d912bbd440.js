@@ -1,0 +1,1 @@
+(function(){var b="17d912bbd440",m="# Luke 1:78 (New International Version)\nbecause of the tender mercy of our God,  \n    by which the rising sun[^A] will come to us from heaven\n\n### Crossrefs\n[^A]: [[Mal-4-2|Mal 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

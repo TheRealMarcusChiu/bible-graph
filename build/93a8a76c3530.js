@@ -1,0 +1,1 @@
+(function(){var b="93a8a76c3530",m="# Genesis 26:33 (New International Version)\nHe called it Shibah, and to this day the name of the town has been Beersheba.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-21-14|Ge 21:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

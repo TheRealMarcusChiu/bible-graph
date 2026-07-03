@@ -1,0 +1,1 @@
+(function(){var b="fc145b4d18b4",m="# John 2:7 (New International Version)\nJesus said to the servants, \"Fill the jars with water\"; so they filled them to the brim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

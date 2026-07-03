@@ -1,0 +1,1 @@
+(function(){var b="5401cb774f2e",m="# Numbers 26:7 (New International Version)\nThese were the clans of Reuben; those numbered were 43,730.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

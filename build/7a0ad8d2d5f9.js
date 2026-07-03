@@ -1,0 +1,1 @@
+(function(){var b="7a0ad8d2d5f9",m="# Luke 11:21 (New International Version)\n\"When a strong man, fully armed, guards his own house, his possessions are safe.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c4613e80e83a",m="# Exodus 10:19 (New International Version)\nAnd the LORD changed the wind to a very strong west wind, which caught up the locusts and carried them into the Red Sea. Not a locust was left anywhere in Egypt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

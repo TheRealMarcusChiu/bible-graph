@@ -1,0 +1,1 @@
+(function(){var b="9dd1fdfb5122",m="# Matthew 2:10 (New International Version)\nWhen they saw the star, they were overjoyed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

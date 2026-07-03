@@ -1,0 +1,1 @@
+(function(){var b="f524fd08cd2d",m="# Acts 5:13 (New International Version)\nNo one else dared join them, even though they were highly regarded by the people.[^A] \n\n### Crossrefs\n[^A]: [[Acts-2-47|Ac 2:47]]; [[Acts-4-21|4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

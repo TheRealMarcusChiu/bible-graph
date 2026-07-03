@@ -1,0 +1,1 @@
+(function(){var b="240ec8114060",m="# Luke 7:33 (New International Version)\nFor John the Baptist came neither eating bread nor drinking wine,[^A] and you say, 'He has a demon.' \n\n### Crossrefs\n[^A]: [[Luke-1-15|Lk 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

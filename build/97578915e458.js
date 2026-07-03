@@ -1,0 +1,1 @@
+(function(){var b="97578915e458",m="# Leviticus 19:23 (New International Version)\n\"'When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years you are to consider it forbidden; it must not be eaten.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

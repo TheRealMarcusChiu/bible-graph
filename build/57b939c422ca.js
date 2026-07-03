@@ -1,0 +1,1 @@
+(function(){var b="57b939c422ca",m="# Matthew 22:3 (New International Version)\nHe sent his servants[^A] to those who had been invited to the banquet to tell them to come, but they refused to come.\n\n### Crossrefs\n[^A]: [[Matt-21-34|Mt 21:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

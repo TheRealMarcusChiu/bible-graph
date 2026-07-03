@@ -1,0 +1,1 @@
+(function(){var b="12fb168f3843",m="# John 19:27 (New International Version)\nand to the disciple, \"Here is your mother.\" From that time on, this disciple took her into his home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

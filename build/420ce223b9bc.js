@@ -1,0 +1,1 @@
+(function(){var b="420ce223b9bc",m="# Mark 10:50 (New International Version)\nThrowing his cloak aside, he jumped to his feet and came to Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

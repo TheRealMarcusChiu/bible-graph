@@ -1,0 +1,1 @@
+(function(){var b="60d933fbe29e",m="# Mark 15:37 (New International Version)\nWith a loud cry, Jesus breathed his last.[^A]\n\n### Crossrefs\n[^A]: [[John-19-30|Jn 19:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="49eb6b59cedf",m="# Luke 11:44 (New International Version)\n\"Woe to you, because you are like unmarked graves,[^A] which people walk over without knowing it.\"\n\n### Crossrefs\n[^A]: [[Matt-23-27|Mt 23:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

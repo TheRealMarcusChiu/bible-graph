@@ -1,0 +1,1 @@
+(function(){var b="1c18d6b36e71",m="# Mark 14:44 (New International Version)\nNow the betrayer had arranged a signal with them: \"The one I kiss is the man; arrest him and lead him away under guard.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

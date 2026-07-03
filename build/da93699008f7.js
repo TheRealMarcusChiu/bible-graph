@@ -1,0 +1,1 @@
+(function(){var b="da93699008f7",m="# Genesis 3:21 (New International Version)\nThe LORD God made garments of skin for Adam and his wife and clothed them.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-3-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

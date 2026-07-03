@@ -1,0 +1,1 @@
+(function(){var b="b089bba97c81",m="# Philemon 11 (New International Version)\nFormerly he was useless to you, but now he has become useful both to you and to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

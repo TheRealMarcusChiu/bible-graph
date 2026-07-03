@@ -1,0 +1,1 @@
+(function(){var b="40098982e5d1",m="# Luke 7:3 (New International Version)\nThe centurion heard of Jesus and sent some elders of the Jews to him, asking him to come and heal his servant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

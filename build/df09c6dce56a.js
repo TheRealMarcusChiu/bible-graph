@@ -1,0 +1,1 @@
+(function(){var b="df09c6dce56a",m="# Acts 15:39 (New International Version)\nThey had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

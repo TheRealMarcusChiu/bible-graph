@@ -1,0 +1,1 @@
+(function(){var b="2cf21238569f",m="# John 6:59 (New International Version)\nHe said this while teaching in the synagogue in Capernaum.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6038bf2073e3",m="# Mark 11:7 (New International Version)\nWhen they brought the colt to Jesus and threw their cloaks over it, he sat on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

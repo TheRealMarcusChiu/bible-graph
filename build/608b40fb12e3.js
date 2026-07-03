@@ -1,0 +1,1 @@
+(function(){var b="608b40fb12e3",m="# Matthew 10:11 (New International Version)\nWhatever town or village you enter, search there for some worthy person and stay at their house until you leave.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ed0346af89c5",m="# Exodus 37:7 (New International Version)\nThen he made two cherubim[^A] out of hammered gold at the ends of the cover. \n\n### Crossrefs\n[^A]: [[Ezek-41-18|Eze 41:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

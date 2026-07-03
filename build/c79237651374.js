@@ -1,0 +1,1 @@
+(function(){var b="c79237651374",m="# John 9:19 (New International Version)\n\"Is this your son?\" they asked. \"Is this the one you say was born blind? How is it that now he can see?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

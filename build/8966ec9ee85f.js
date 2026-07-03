@@ -1,0 +1,1 @@
+(function(){var b="8966ec9ee85f",m="# Mark 14:24 (New International Version)\n\"This is my blood of the covenant,[^A] which is poured out for many,\" he said to them. \n\n### Crossrefs\n[^A]: S [[Matt-26-28|Mt 26:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

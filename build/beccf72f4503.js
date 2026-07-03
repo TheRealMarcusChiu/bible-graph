@@ -1,0 +1,1 @@
+(function(){var b="beccf72f4503",m="# Matthew 21:45 (New International Version)\nWhen the chief priests and the Pharisees heard Jesus' parables, they knew he was talking about them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

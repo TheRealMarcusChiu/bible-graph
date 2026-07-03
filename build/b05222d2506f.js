@@ -1,0 +1,1 @@
+(function(){var b="b05222d2506f",m="# Philippians 2:29 (New International Version)\nSo then, welcome him in the Lord with great joy, and honor people like him,[^A] \n\n### Crossrefs\n[^A]: [[1Cor-16-18|1Co 16:18]]; [[1Tim-5-17|1Ti 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

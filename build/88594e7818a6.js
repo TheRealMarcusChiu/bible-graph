@@ -1,0 +1,1 @@
+(function(){var b="88594e7818a6",m="# Luke 10:32 (New International Version)\nSo too, a Levite, when he came to the place and saw him, passed by on the other side.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

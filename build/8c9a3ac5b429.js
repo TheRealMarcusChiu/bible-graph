@@ -1,0 +1,1 @@
+(function(){var b="8c9a3ac5b429",m="# Luke 23:29 (New International Version)\nFor the time will come when you will say, 'Blessed are the childless women, the wombs that never bore and the breasts that never nursed!'[^A] \n\n### Crossrefs\n[^A]: [[Matt-24-19|Mt 24:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8e499996e547",m="# Numbers 31:24 (New International Version)\nOn the seventh day wash your clothes and you will be clean.[^A] Then you may come into the camp.[^B]\"\n\n### Crossrefs\n[^A]: S [[Lev-11-25|Lev 11:25]]\n[^B]: S [[Lev-14-8|Lev 14:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="38bbd12f1f8c",m="# Deuteronomy 33:6 (New International Version)\n\"Let Reuben live and not die,  \n    nor his people be few.\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-34-5|Ge 34:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

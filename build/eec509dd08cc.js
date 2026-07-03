@@ -1,0 +1,1 @@
+(function(){var b="eec509dd08cc",m="# Acts 15:6 (New International Version)\nThe apostles and elders met to consider this question.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ca98f60e47b6",m="# Micah 1\n\nJudgment on Israel and Judah's corruption, and the promised ruler from Bethlehem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

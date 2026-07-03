@@ -1,0 +1,1 @@
+(function(){var b="f1cd64d8920e",m="# Matthew 10:13 (New International Version)\nIf the home is deserving, let your peace rest on it; if it is not, let your peace return to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

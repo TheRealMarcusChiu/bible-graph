@@ -1,0 +1,1 @@
+(function(){var b="12113a01d18c",m="# Matthew 6:8 (New International Version)\nDo not be like them, for your Father knows what you need[^A] before you ask him.\n\n### Crossrefs\n[^A]: [[Matt-6-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

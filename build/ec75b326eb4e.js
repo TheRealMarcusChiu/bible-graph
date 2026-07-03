@@ -1,0 +1,1 @@
+(function(){var b="ec75b326eb4e",m="# Genesis 7:12 (New International Version)\nAnd rain fell on the earth forty days and forty nights.[^A]\n\n### Crossrefs\n[^A]: S [[Gen-7-4|ver 4]]; S [[1Sam-12-17|1Sa 12:17]]; S [[Job-28-26|Job 28:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

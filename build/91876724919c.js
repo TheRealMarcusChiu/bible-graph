@@ -1,0 +1,1 @@
+(function(){var b="91876724919c",m="# Genesis 8:19 (New International Version)\nAll the animals and all the creatures that move along the ground and all the birds--everything that moves on land--came out of the ark, one kind after another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

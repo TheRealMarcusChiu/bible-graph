@@ -1,0 +1,1 @@
+(function(){var b="7e58526bb836",m="# Genesis 3:2 (New International Version)\nThe woman said to the serpent, \"We may eat fruit from the trees in the garden,[^A] \n\n### Crossrefs\n[^A]: [[Gen-2-16|Ge 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

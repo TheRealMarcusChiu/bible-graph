@@ -1,0 +1,1 @@
+(function(){var b="96406053a873",m="# Luke 17:21 (New International Version)\nnor will people say, 'Here it is,' or 'There it is,'[^A] because the kingdom of God is in your midst.\"\n\n### Crossrefs\n[^A]: [[Luke-17-23|ver 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

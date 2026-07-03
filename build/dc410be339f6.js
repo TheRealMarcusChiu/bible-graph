@@ -1,0 +1,1 @@
+(function(){var b="dc410be339f6",m="# Matthew 26:70 (New International Version)\nBut he denied it before them all. \"I don't know what you're talking about,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

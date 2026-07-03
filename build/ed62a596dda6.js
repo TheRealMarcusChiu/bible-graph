@@ -1,0 +1,1 @@
+(function(){var b="ed62a596dda6",m="# Deuteronomy 26:3 (New International Version)\nand say to the priest in office at the time, \"I declare today to the LORD your God that I have come to the land the LORD swore to our ancestors to give us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

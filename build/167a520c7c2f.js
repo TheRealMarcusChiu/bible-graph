@@ -1,0 +1,1 @@
+(function(){var b="167a520c7c2f",m="# Joshua 21:28 (New International Version)\nfrom the tribe of Issachar,[^A]\nKishion,[^B] Daberath,[^C] \n\n### Crossrefs\n[^A]: S [[Gen-30-18|Ge 30:18]]\n[^B]: [[Josh-19-20|Jos 19:20]]\n[^C]: S [[Josh-19-12|Jos 19:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

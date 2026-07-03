@@ -1,0 +1,1 @@
+(function(){var b="6a2b84c6ddec",m="# John 8:57 (New International Version)\n\"You are not yet fifty years old,\" they said to him, \"and you have seen Abraham!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

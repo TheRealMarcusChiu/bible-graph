@@ -1,0 +1,1 @@
+(function(){var b="834f4c57d309",m="# Exodus 26:24 (New International Version)\nAt these two corners they must be double from the bottom all the way to the top and fitted into a single ring; both shall be like that.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

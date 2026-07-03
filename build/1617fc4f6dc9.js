@@ -1,0 +1,1 @@
+(function(){var b="1617fc4f6dc9",m="# Genesis 11:23 (New International Version)\nAnd after he became the father of Nahor, Serug lived 200 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

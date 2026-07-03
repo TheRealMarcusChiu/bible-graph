@@ -1,0 +1,1 @@
+(function(){var b="3481e7b40c18",m="# Acts 17:33 (New International Version)\nAt that, Paul left the Council.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

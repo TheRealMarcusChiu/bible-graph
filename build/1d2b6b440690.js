@@ -1,0 +1,1 @@
+(function(){var b="1d2b6b440690",m="# Exodus 23:3 (New International Version)\nand do not show favoritism[^A] to a poor person in a lawsuit.\n\n### Crossrefs\n[^A]: [[Deut-1-17|Dt 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

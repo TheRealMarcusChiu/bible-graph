@@ -1,0 +1,1 @@
+(function(){var b="1f1706dfefc9",m="# Exodus 39:9 (New International Version)\nIt was square--a span long and a span wide--and folded double.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

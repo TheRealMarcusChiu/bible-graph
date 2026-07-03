@@ -1,0 +1,1 @@
+(function(){var b="8a9b84a41a3b",m="# Matthew 22:30 (New International Version)\nAt the resurrection people will neither marry nor be given in marriage;[^A] they will be like the angels in heaven. \n\n### Crossrefs\n[^A]: [[Matt-24-38|Mt 24:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

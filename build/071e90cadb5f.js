@@ -1,0 +1,1 @@
+(function(){var b="071e90cadb5f",m="# Joshua 11:13 (New International Version)\nYet Israel did not burn any of the cities built on their mounds--except Hazor, which Joshua burned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

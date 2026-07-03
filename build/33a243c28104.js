@@ -1,0 +1,1 @@
+(function(){var b="33a243c28104",m="# Acts 23:17 (New International Version)\nThen Paul called one of the centurions and said, \"Take this young man to the commander; he has something to tell him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

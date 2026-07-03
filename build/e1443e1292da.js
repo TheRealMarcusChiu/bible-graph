@@ -1,0 +1,1 @@
+(function(){var b="e1443e1292da",m="# John 11:10 (New International Version)\nIt is when a person walks at night that they stumble, for they have no light.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="90bf406235b9",m="# John 14:14 (New International Version)\nYou may ask me for anything in my name, and I will do it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3ee4e46aabb4",m="# 1 Timothy 5:15 (New International Version)\nSome have in fact already turned away to follow Satan.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-4-10|Mt 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

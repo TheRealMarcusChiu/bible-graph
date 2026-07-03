@@ -1,0 +1,1 @@
+(function(){var b="0145b23f2795",m="# Luke 9:29 (New International Version)\nAs he was praying, the appearance of his face changed, and his clothes became as bright as a flash of lightning.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

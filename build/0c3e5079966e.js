@@ -1,0 +1,1 @@
+(function(){var b="0c3e5079966e",m="# Philemon 12 (New International Version)\nI am sending him--who is my very heart--back to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

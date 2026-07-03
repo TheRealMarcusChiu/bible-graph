@@ -1,0 +1,1 @@
+(function(){var b="16d21b04a672",m="# Acts 22\n\nThe Spirit-empowered spread of the gospel from Jerusalem to Rome through Peter and Paul.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

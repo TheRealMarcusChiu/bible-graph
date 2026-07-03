@@ -1,0 +1,1 @@
+(function(){var b="da3c76ee2c35",m="# Matthew 24:20 (New International Version)\nPray that your flight will not take place in winter or on the Sabbath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="634b0a77b177",m="# Numbers 4:44 (New International Version)\ncounted by their clans, were 3,200.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

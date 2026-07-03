@@ -1,1 +1,0 @@
-(function(){var b="3ddc21b1eaa5",m="# DNS\n\nNotes on DNS.\n\n## Linked notes\n\n- [[Storage — Postgres]]\n- [[QUIC — Comparison]]\n- [[QUIC — Benchmarks]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

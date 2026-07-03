@@ -1,0 +1,1 @@
+(function(){var b="273b47812ee0",m="# Luke 5:23 (New International Version)\nWhich is easier: to say, 'Your sins are forgiven,' or to say, 'Get up and walk'?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

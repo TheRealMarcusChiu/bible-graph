@@ -1,0 +1,1 @@
+(function(){var b="1b89b0a1e1cc",m="# Acts 15:38 (New International Version)\nbut Paul did not think it wise to take him, because he had deserted them[^A] in Pamphylia and had not continued with them in the work. \n\n### Crossrefs\n[^A]: [[Acts-13-13|Ac 13:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

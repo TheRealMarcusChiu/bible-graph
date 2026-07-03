@@ -1,0 +1,1 @@
+(function(){var b="ae1ce53d333b",m="# Exodus 37:6 (New International Version)\nHe made the atonement cover[^A] of pure gold--two and a half cubits long and a cubit and a half wide. \n\n### Crossrefs\n[^A]: S [[Exod-26-34|Ex 26:34]]; S [[Exod-31-7|31:7]]; [[Heb-9-5|Heb 9:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

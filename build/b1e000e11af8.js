@@ -1,0 +1,1 @@
+(function(){var b="b1e000e11af8",m="# Ephesians 5:16 (New International Version)\nmaking the most of every opportunity,[^A] because the days are evil.[^B] \n\n### Crossrefs\n[^A]: [[Col-4-5|Col 4:5]]\n[^B]: [[Eph-6-13|Eph 6:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

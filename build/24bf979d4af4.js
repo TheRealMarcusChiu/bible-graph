@@ -1,0 +1,1 @@
+(function(){var b="24bf979d4af4",m="# Acts 1:25 (New International Version)\nto take over this apostolic ministry, which Judas left to go where he belongs.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

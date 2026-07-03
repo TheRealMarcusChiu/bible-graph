@@ -1,0 +1,1 @@
+(function(){var b="f2529d3f7050",m="# Leviticus 13:16 (New International Version)\nIf the raw flesh changes and turns white, they must go to the priest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

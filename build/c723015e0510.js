@@ -1,0 +1,1 @@
+(function(){var b="c723015e0510",m="# 1 Corinthians 1:11 (New International Version)\nMy brothers and sisters, some from Chloe's household[^A] have informed me that there are quarrels among you. \n\n### Crossrefs\n[^A]: S [[Acts-11-14|Ac 11:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

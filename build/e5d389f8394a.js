@@ -1,0 +1,1 @@
+(function(){var b="e5d389f8394a",m="# Genesis 11:19 (New International Version)\nAnd after he became the father of Reu, Peleg lived 209 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

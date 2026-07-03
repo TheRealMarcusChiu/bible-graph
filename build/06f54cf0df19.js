@@ -1,0 +1,1 @@
+(function(){var b="06f54cf0df19",m="# 2 Thessalonians 3:2 (New International Version)\nAnd pray that we may be delivered from wicked and evil people,[^A] for not everyone has faith. \n\n### Crossrefs\n[^A]: S [[Rom-15-31|Ro 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

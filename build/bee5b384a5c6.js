@@ -1,0 +1,1 @@
+(function(){var b="bee5b384a5c6",m="# Exodus 18:23 (New International Version)\nIf you do this and God so commands, you will be able to stand the strain, and all these people will go home satisfied.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

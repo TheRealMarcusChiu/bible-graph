@@ -1,0 +1,1 @@
+(function(){var b="36b7880b00e8",m="# Romans 10\n\nPaul's fullest exposition of the gospel -- righteousness from God by faith, for Jew and Gentile alike.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

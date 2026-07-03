@@ -1,0 +1,1 @@
+(function(){var b="cdddcaf1a86b",m="# Numbers 19:14 (New International Version)\n\"This is the law that applies when a person dies in a tent: Anyone who enters the tent and anyone who is in it will be unclean for seven days,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ad639697dcb6",m="# John 11:14 (New International Version)\nSo then he told them plainly, \"Lazarus is dead,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

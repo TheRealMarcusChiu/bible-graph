@@ -1,0 +1,1 @@
+(function(){var b="88ffcea7d457",m="# Acts 15:35 (New International Version)\nBut Paul and Barnabas remained in Antioch, where they and many others taught and preached[^A] the word of the Lord.[^B]\n\n### Crossrefs\n[^A]: [[Acts-8-4|Ac 8:4]]\n[^B]: S [[Acts-13-48|Ac 13:48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

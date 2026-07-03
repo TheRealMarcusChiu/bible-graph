@@ -1,0 +1,1 @@
+(function(){var b="f7e8aeaeb6f7",m="# Leviticus 13:13 (New International Version)\nthe priest is to examine them, and if the disease has covered their whole body, he shall pronounce them clean. Since it has all turned white, they are clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

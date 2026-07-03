@@ -1,0 +1,1 @@
+(function(){var b="9e6a00974fd7",m="# Leviticus 13:38 (New International Version)\n\"When a man or woman has white spots on the skin,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="347002f42e20",m="# John 2:24 (New International Version)\nBut Jesus would not entrust himself to them, for he knew all people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

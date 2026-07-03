@@ -1,0 +1,1 @@
+(function(){var b="27e7a61dda14",m="# 1 Peter 4:4 (New International Version)\nThey are surprised that you do not join them in their reckless, wild living, and they heap abuse on you.[^A] \n\n### Crossrefs\n[^A]: [[1Pet-3-16|1Pe 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

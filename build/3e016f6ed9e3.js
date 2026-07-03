@@ -1,0 +1,1 @@
+(function(){var b="3e016f6ed9e3",m="# Matthew 21:10 (New International Version)\nWhen Jesus entered Jerusalem, the whole city was stirred and asked, \"Who is this?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

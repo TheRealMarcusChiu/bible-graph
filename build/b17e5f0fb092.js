@@ -1,0 +1,1 @@
+(function(){var b="b17e5f0fb092",m="# Numbers 32:40 (New International Version)\nSo Moses gave Gilead to the Makirites,[^A] the descendants of Manasseh, and they settled there. \n\n### Crossrefs\n[^A]: S [[Gen-50-23|Ge 50:23]]; [[Deut-3-15|Dt 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

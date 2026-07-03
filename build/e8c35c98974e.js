@@ -1,0 +1,1 @@
+(function(){var b="e8c35c98974e",m="# Leviticus 7:14 (New International Version)\nThey are to bring one of each kind as an offering, a contribution to the LORD; it belongs to the priest who splashes the blood of the fellowship offering against the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

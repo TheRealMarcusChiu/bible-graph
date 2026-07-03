@@ -1,0 +1,1 @@
+(function(){var b="3c895f8164fd",m="# Deuteronomy 20:17 (New International Version)\nCompletely destroy them--the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites--as the LORD your God has commanded you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

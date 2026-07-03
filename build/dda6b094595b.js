@@ -1,0 +1,1 @@
+(function(){var b="dda6b094595b",m="# Numbers 10:23 (New International Version)\nGamaliel son of Pedahzur was over the division of the tribe of Manasseh,[^A] \n\n### Crossrefs\n[^A]: S [[Num-1-10|Nu 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

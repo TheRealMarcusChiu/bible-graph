@@ -1,0 +1,1 @@
+(function(){var b="1c3666f2fd92",m="# Genesis 37:1 (New International Version)\nJoseph's Dreams\nJacob lived in the land where his father had stayed,[^A] the land of Canaan.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-17-8|Ge 17:8]]\n[^B]: S [[Gen-10-19|Ge 10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

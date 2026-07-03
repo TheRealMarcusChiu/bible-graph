@@ -1,0 +1,1 @@
+(function(){var b="b0d29647e322",m="# Leviticus 13:44 (New International Version)\nthe man is diseased and is unclean. The priest shall pronounce him unclean because of the sore on his head.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

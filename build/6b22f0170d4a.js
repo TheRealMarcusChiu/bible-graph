@@ -1,0 +1,1 @@
+(function(){var b="6b22f0170d4a",m="# Numbers 33:21 (New International Version)\nThey left Libnah and camped at Rissah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

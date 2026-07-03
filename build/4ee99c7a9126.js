@@ -1,0 +1,1 @@
+(function(){var b="4ee99c7a9126",m="# Joshua 4:19 (New International Version)\nOn the tenth day of the first month the people went up from the Jordan and camped at Gilgal[^A] on the eastern border of Jericho. \n\n### Crossrefs\n[^A]: S [[Deut-11-30|Dt 11:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

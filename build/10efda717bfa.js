@@ -1,0 +1,1 @@
+(function(){var b="10efda717bfa",m="# Numbers 33:22 (New International Version)\nThey left Rissah and camped at Kehelathah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

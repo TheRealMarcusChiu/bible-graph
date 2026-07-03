@@ -1,0 +1,1 @@
+(function(){var b="e6fac608f937",m="# John 5:31 (New International Version)\nTestimonies About Jesus\n\"If I testify about myself, my testimony is not true.[^A] \n\n### Crossrefs\n[^A]: [[John-8-14|Jn 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

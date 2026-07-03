@@ -1,0 +1,1 @@
+(function(){var b="65c57f8d6aa2",m="# Luke 17:7 (New International Version)\n\"Suppose one of you has a servant plowing or looking after the sheep. Will he say to the servant when he comes in from the field, 'Come along now and sit down to eat'?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

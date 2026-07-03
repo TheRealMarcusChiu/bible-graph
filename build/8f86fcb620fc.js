@@ -1,0 +1,1 @@
+(function(){var b="8f86fcb620fc",m="# Exodus 25:1 (New International Version)\nOfferings for the Tabernacle[^A]\nThe LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Exod-25-1|25:1-7pp]] — [[Exod-35-4|Ex 35:4-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

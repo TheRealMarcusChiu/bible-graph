@@ -1,0 +1,1 @@
+(function(){var b="2b6e1c2840e2",m="# Judges 5:29 (New International Version)\nThe wisest of her ladies answer her;  \n    indeed, she keeps saying to herself,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

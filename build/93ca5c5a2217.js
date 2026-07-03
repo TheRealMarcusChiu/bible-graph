@@ -1,0 +1,1 @@
+(function(){var b="93ca5c5a2217",m="# Luke 24:34 (New International Version)\nand saying, \"It is true! The Lord[^A] has risen and has appeared to Simon.\"[^B] \n\n### Crossrefs\n[^A]: S [[Luke-7-13|Lk 7:13]]\n[^B]: [[1Cor-15-5|1Co 15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

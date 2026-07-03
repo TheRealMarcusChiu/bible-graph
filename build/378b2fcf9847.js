@@ -1,0 +1,1 @@
+(function(){var b="378b2fcf9847",m="# Exodus 25:39 (New International Version)\nA talent of pure gold is to be used for the lampstand and all these accessories.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

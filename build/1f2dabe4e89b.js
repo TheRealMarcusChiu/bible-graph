@@ -1,0 +1,1 @@
+(function(){var b="1f2dabe4e89b",m="# Luke 23:42 (New International Version)\nThen he said, \"Jesus, remember me when you come into your kingdom.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-16-27|Mt 16:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

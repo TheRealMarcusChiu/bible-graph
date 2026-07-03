@@ -1,0 +1,1 @@
+(function(){var b="d9d37c0cc951",m="# Exodus 1:4 (New International Version)\nDan and Naphtali; Gad and Asher.[^A] \n\n### Crossrefs\n[^A]: [[Gen-35-22|Ge 35:22-26]]; [[Num-1-20|Nu 1:20-43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

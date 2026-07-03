@@ -1,0 +1,1 @@
+(function(){var b="56e7446b8878",m="# Mark 14:71 (New International Version)\nHe began to call down curses, and he swore to them, \"I don't know this man you're talking about.\"[^A]\n\n### Crossrefs\n[^A]: [[Mark-14-30|ver 30]], [[Mark-14-72|72]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

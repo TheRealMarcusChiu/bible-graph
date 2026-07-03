@@ -1,0 +1,1 @@
+(function(){var b="188a530f8f59",m="# Acts 2:44 (New International Version)\nAll the believers were together and had everything in common.[^A] \n\n### Crossrefs\n[^A]: [[Acts-4-32|Ac 4:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

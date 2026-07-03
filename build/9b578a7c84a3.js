@@ -1,0 +1,1 @@
+(function(){var b="9b578a7c84a3",m="# Luke 11:30 (New International Version)\nFor as Jonah was a sign to the Ninevites, so also will the Son of Man be to this generation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f55c20677447",m="# Philippians 2:28 (New International Version)\nTherefore I am all the more eager to send him,[^A] so that when you see him again you may be glad and I may have less anxiety. \n\n### Crossrefs\n[^A]: [[Phil-2-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c7eb1cd5a51c",m="# John 9:40 (New International Version)\nSome Pharisees who were with him heard him say this and asked, \"What? Are we blind too?\"[^A]\n\n### Crossrefs\n[^A]: [[Rom-2-19|Ro 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c17dbd544b87",m="# John 3:25 (New International Version)\nAn argument developed between some of John's disciples and a certain Jew over the matter of ceremonial washing.[^A] \n\n### Crossrefs\n[^A]: [[John-2-6|Jn 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

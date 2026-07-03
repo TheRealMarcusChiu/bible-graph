@@ -1,0 +1,1 @@
+(function(){var b="d6efa7fe00fc",m="# Genesis 35:25 (New International Version)\nThe sons of Rachel's servant Bilhah:[^A]\nDan and Naphtali.[^B]\n\n### Crossrefs\n[^A]: [[Gen-37-2|Ge 37:2]]\n[^B]: S [[Gen-30-8|Ge 30:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

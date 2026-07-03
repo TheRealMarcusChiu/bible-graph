@@ -1,0 +1,1 @@
+(function(){var b="745aea0958e2",m="# Leviticus 16:9 (New International Version)\nAaron shall bring the goat whose lot falls to the LORD and sacrifice it for a sin offering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

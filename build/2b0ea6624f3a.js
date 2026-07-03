@@ -1,0 +1,1 @@
+(function(){var b="2b0ea6624f3a",m="# 1 Corinthians 12:19 (New International Version)\nIf they were all one part, where would the body be?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

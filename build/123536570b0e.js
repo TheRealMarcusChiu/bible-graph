@@ -1,0 +1,1 @@
+(function(){var b="123536570b0e",m="# John 7:51 (New International Version)\n\"Does our law condemn a man without first hearing him to find out what he has been doing?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

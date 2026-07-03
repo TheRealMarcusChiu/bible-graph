@@ -1,0 +1,1 @@
+(function(){var b="5d23050ea553",m="# Mark 7:21 (New International Version)\nFor it is from within, out of a person's heart, that evil thoughts come--sexual immorality, theft, murder,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

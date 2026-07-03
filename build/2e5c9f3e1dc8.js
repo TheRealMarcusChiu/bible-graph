@@ -1,0 +1,1 @@
+(function(){var b="2e5c9f3e1dc8",m="# Matthew 25:37 (New International Version)\n\"Then the righteous will answer him, 'Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

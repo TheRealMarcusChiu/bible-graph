@@ -1,0 +1,1 @@
+(function(){var b="282870e153d0",m="# Numbers 4:20 (New International Version)\nBut the Kohathites must not go in to look[^A] at the holy things, even for a moment, or they will die.\"\n\n### Crossrefs\n[^A]: S [[Exod-19-21|Ex 19:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

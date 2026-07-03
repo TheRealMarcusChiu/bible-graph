@@ -1,0 +1,1 @@
+(function(){var b="4f073e00c3e2",m="# 2 Corinthians 10:9 (New International Version)\nI do not want to seem to be trying to frighten you with my letters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

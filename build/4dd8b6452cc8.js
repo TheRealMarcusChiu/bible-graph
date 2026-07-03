@@ -1,0 +1,1 @@
+(function(){var b="4dd8b6452cc8",m="# Hebrews 3:3 (New International Version)\nJesus has been found worthy of greater honor than Moses,[^A] just as the builder of a house has greater honor than the house itself. \n\n### Crossrefs\n[^A]: [[Deut-34-12|Dt 34:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20a7a23c2fbf",m="# Judges 5:9 (New International Version)\nMy heart is with Israel's princes,  \n    with the willing volunteers[^A] among the people.  \n    Praise the LORD!\n\n### Crossrefs\n[^A]: S [[Judg-5-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

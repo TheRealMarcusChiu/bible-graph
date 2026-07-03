@@ -1,0 +1,1 @@
+(function(){var b="f047c26304df",m="# Deuteronomy 11:3 (New International Version)\nthe signs he performed and the things he did in the heart of Egypt, both to Pharaoh king of Egypt and to his whole country;[^A] \n\n### Crossrefs\n[^A]: [[Exod-7-8|Ex 7:8-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

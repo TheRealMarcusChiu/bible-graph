@@ -1,0 +1,1 @@
+(function(){var b="105611dcff0c",m="# Luke 2:45 (New International Version)\nWhen they did not find him, they went back to Jerusalem to look for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

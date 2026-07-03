@@ -1,0 +1,1 @@
+(function(){var b="512d39579ce3",m="# 1 Corinthians 14:28 (New International Version)\nIf there is no interpreter, the speaker should keep quiet in the church and speak to himself and to God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

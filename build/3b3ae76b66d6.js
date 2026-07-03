@@ -1,0 +1,1 @@
+(function(){var b="3b3ae76b66d6",m="# Acts 21:18 (New International Version)\nThe next day Paul and the rest of us went to see James,[^A] and all the elders[^B] were present. \n\n### Crossrefs\n[^A]: S [[Acts-15-13|Ac 15:13]]\n[^B]: S [[Acts-11-30|Ac 11:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

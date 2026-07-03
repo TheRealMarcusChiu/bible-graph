@@ -1,0 +1,1 @@
+(function(){var b="8de68d2b7523",m="# Mark 6:11 (New International Version)\nAnd if any place will not welcome you or listen to you, leave that place and shake the dust off your feet[^A] as a testimony against them.\"\n\n### Crossrefs\n[^A]: S [[Matt-10-14|Mt 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

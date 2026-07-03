@@ -1,0 +1,1 @@
+(function(){var b="7aa30e771a9d",m="# Exodus 36:33 (New International Version)\nThey made the center crossbar so that it extended from end to end at the middle of the frames.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

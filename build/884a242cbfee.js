@@ -1,0 +1,1 @@
+(function(){var b="884a242cbfee",m="# Leviticus 7:10 (New International Version)\nand every grain offering, whether mixed with olive oil or dry, belongs equally to all the sons of Aaron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

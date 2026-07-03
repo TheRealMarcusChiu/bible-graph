@@ -1,0 +1,1 @@
+(function(){var b="57031bf4359d",m="# Judges 10:2 (New International Version)\nHe led Israel twenty-three years; then he died, and was buried in Shamir.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

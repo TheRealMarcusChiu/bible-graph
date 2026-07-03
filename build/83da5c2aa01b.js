@@ -1,0 +1,1 @@
+(function(){var b="83da5c2aa01b",m="# Hebrews 10:39 (New International Version)\nBut we do not belong to those who shrink back and are destroyed, but to those who have faith and are saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

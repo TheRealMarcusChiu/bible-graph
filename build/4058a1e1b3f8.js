@@ -1,0 +1,1 @@
+(function(){var b="4058a1e1b3f8",m="# Luke 2:43 (New International Version)\nAfter the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

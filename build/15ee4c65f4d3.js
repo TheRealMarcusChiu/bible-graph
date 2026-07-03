@@ -1,0 +1,1 @@
+(function(){var b="15ee4c65f4d3",m="# Ephesians 5:17 (New International Version)\nTherefore do not be foolish, but understand what the Lord's will is.[^A] \n\n### Crossrefs\n[^A]: [[Rom-12-2|Ro 12:2]]; [[Col-1-9|Col 1:9]]; [[1Thess-4-3|1Th 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

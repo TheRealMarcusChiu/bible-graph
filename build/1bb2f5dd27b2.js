@@ -1,0 +1,1 @@
+(function(){var b="1bb2f5dd27b2",m="# Exodus 28:24 (New International Version)\nFasten the two gold chains to the rings at the corners of the breastpiece,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

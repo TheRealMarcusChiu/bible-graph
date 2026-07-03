@@ -1,0 +1,1 @@
+(function(){var b="110eeee9f382",m="# Acts 28:5 (New International Version)\nBut Paul shook the snake off into the fire and suffered no ill effects.[^A] \n\n### Crossrefs\n[^A]: [[Luke-10-19|Lk 10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

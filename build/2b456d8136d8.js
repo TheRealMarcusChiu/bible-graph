@@ -1,0 +1,1 @@
+(function(){var b="2b456d8136d8",m="# John 11:53 (New International Version)\nSo from that day on they plotted to take his life.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-12-14|Mt 12:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

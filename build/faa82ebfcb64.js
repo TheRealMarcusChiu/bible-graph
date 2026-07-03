@@ -1,0 +1,1 @@
+(function(){var b="faa82ebfcb64",m="# 1 John 2:6 (New International Version)\nWhoever claims to live in him must live as Jesus did.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-11-29|Mt 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

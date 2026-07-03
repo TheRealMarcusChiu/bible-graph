@@ -1,0 +1,1 @@
+(function(){var b="0c2366d54fac",m="# John 2:21 (New International Version)\nBut the temple he had spoken of was his body.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-6-19|1Co 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

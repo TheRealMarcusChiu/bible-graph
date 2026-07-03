@@ -1,0 +1,1 @@
+(function(){var b="a181cdab9e17",m="# Leviticus 16:28 (New International Version)\nThe man who burns them must wash his clothes and bathe himself with water; afterward he may come into the camp.[^A]\n\n### Crossrefs\n[^A]: [[Num-19-8|Nu 19:8]], [[Num-19-10|10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

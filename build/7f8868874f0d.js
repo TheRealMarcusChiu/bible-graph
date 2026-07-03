@@ -1,0 +1,1 @@
+(function(){var b="7f8868874f0d",m="# Exodus 24:13 (New International Version)\nThen Moses set out with Joshua[^A] his aide, and Moses went up on the mountain[^B] of God. \n\n### Crossrefs\n[^A]: S [[Exod-17-9|Ex 17:9]]\n[^B]: S [[Exod-3-1|Ex 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

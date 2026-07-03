@@ -1,0 +1,1 @@
+(function(){var b="f8e9ca36d6a7",m="# Nehemiah 1\n\nThe rebuilding of Jerusalem's walls under Nehemiah and the renewal of the covenant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

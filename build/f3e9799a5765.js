@@ -1,0 +1,1 @@
+(function(){var b="f3e9799a5765",m="# John 8:2 (New International Version)\n_At dawn he appeared again in the temple courts, where all the people gathered around him, and he sat down to teach them._[^A] \n\n### Crossrefs\n[^A]: [[John-8-20|ver 20]]; S [[Matt-26-55|Mt 26:55]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

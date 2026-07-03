@@ -1,0 +1,1 @@
+(function(){var b="49f86fbf26d1",m="# Deuteronomy 22:23 (New International Version)\nIf a man happens to meet in a town a virgin pledged to be married and he sleeps with her,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

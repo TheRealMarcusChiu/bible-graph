@@ -1,0 +1,1 @@
+(function(){var b="180085a60566",m="# John 18:30 (New International Version)\n\"If he were not a criminal,\" they replied, \"we would not have handed him over to you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

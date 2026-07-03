@@ -1,0 +1,1 @@
+(function(){var b="35cddef49685",m="# Deuteronomy 16:5 (New International Version)\nYou must not sacrifice the Passover in any town the LORD your God gives you";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

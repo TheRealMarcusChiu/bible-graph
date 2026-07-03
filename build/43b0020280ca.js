@@ -1,0 +1,1 @@
+(function(){var b="43b0020280ca",m="# Exodus 38:31 (New International Version)\nthe bases for the surrounding courtyard and those for its entrance and all the tent pegs for the tabernacle and those for the surrounding courtyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

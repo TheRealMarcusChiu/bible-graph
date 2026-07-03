@@ -1,0 +1,1 @@
+(function(){var b="bfc817fdcc04",m="# Luke 19:23 (New International Version)\nWhy then didn't you put my money on deposit, so that when I came back, I could have collected it with interest?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="80ee2d8f705e",m="# John 7:23 (New International Version)\nNow if a boy can be circumcised on the Sabbath so that the law of Moses may not be broken, why are you angry with me for healing a man's whole body on the Sabbath?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

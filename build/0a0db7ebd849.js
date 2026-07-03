@@ -1,0 +1,1 @@
+(function(){var b="0a0db7ebd849",m="# Romans 10:7 (New International Version)\n\"or 'Who will descend into the deep?'\"[^A] (that is, to bring Christ up from the dead).[^B] \n\n### Crossrefs\n[^A]: [[Deut-30-13|Dt 30:13]]\n[^B]: S [[Acts-2-24|Ac 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

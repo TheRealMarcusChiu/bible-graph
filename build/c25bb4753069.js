@@ -1,0 +1,1 @@
+(function(){var b="c25bb4753069",m="# 2 Timothy 2:6 (New International Version)\nThe hardworking farmer should be the first to receive a share of the crops.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-9-10|1Co 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c92127c7dacd",m="# Matthew 25:38 (New International Version)\nWhen did we see you a stranger and invite you in, or needing clothes and clothe you?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

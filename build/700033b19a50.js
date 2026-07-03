@@ -1,0 +1,1 @@
+(function(){var b="700033b19a50",m="# Exodus 16:9 (New International Version)\nThen Moses told Aaron, \"Say to the entire Israelite community, 'Come before the LORD, for he has heard your grumbling.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

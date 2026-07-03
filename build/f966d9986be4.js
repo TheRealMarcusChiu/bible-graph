@@ -1,0 +1,1 @@
+(function(){var b="f966d9986be4",m="# Ephesians 4:6 (New International Version)\none God and Father of all,[^A] who is over all and through all and in all.[^B]\n\n### Crossrefs\n[^A]: [[Deut-6-4|Dt 6:4]]; [[Zech-14-9|Zec 14:9]]\n[^B]: S [[Rom-11-36|Ro 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

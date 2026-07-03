@@ -1,0 +1,1 @@
+(function(){var b="5f3b051bd0c4",m="# Exodus 40:37 (New International Version)\nbut if the cloud did not lift, they did not set out--until the day it lifted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

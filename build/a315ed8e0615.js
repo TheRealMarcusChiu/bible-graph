@@ -1,0 +1,1 @@
+(function(){var b="a315ed8e0615",m="# Mark 8:9 (New International Version)\nAbout four thousand were present. After he had sent them away,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

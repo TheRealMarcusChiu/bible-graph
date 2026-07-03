@@ -1,0 +1,1 @@
+(function(){var b="3b6ee0e74c41",m="# Numbers 28:30 (New International Version)\nInclude one male goat[^A] to make atonement for you. \n\n### Crossrefs\n[^A]: [[Num-28-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

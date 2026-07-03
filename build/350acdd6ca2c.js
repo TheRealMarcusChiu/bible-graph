@@ -1,0 +1,1 @@
+(function(){var b="350acdd6ca2c",m="# Mark 3:15 (New International Version)\nand to have authority to drive out demons.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-10-1|Mt 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

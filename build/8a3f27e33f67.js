@@ -1,0 +1,1 @@
+(function(){var b="8a3f27e33f67",m="# Numbers 4:1 (New International Version)\nThe Kohathites\nThe LORD said to Moses and Aaron:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

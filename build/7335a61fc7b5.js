@@ -1,0 +1,1 @@
+(function(){var b="7335a61fc7b5",m="# Genesis 30:34 (New International Version)\n\"Agreed,\" said Laban. \"Let it be as you have said.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

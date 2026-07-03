@@ -1,0 +1,1 @@
+(function(){var b="1f5f4f5ad082",m="# Haggai 1\n\nA call to rebuild the temple and put God's house first.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

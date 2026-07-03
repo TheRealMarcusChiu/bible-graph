@@ -1,0 +1,1 @@
+(function(){var b="da90b5163467",m="# 1 Peter 5:6 (New International Version)\nHumble yourselves, therefore, under God's mighty hand, that he may lift you up in due time.[^A] \n\n### Crossrefs\n[^A]: [[Job-5-11|Job 5:11]]; [[Jas-4-10|Jas 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

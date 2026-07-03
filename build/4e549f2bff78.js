@@ -1,0 +1,1 @@
+(function(){var b="4e549f2bff78",m="# Acts 7:28 (New International Version)\nAre you thinking of killing me as you killed the Egyptian yesterday?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

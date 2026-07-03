@@ -1,0 +1,1 @@
+(function(){var b="bd2d47b9b681",m="# Joshua 18:27 (New International Version)\nRekem, Irpeel, Taralah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

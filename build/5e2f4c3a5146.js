@@ -1,0 +1,1 @@
+(function(){var b="5e2f4c3a5146",m="# Genesis 27:17 (New International Version)\nThen she handed to her son Jacob the tasty food and the bread she had made.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

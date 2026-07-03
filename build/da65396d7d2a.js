@@ -1,0 +1,1 @@
+(function(){var b="da65396d7d2a",m="# Leviticus 2:8 (New International Version)\nBring the grain offering made of these things to the LORD; present it to the priest, who shall take it to the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

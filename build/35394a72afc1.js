@@ -1,0 +1,1 @@
+(function(){var b="35394a72afc1",m="# Luke 3:29 (New International Version)\nthe son of Joshua, the son of Eliezer,\nthe son of Jorim, the son of Matthat,\nthe son of Levi,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

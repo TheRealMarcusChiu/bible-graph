@@ -1,0 +1,1 @@
+(function(){var b="642bf16545ad",m="# Leviticus 14:40 (New International Version)\nhe is to order that the contaminated stones be torn out and thrown into an unclean place outside the town.[^A] \n\n### Crossrefs\n[^A]: [[Lev-14-45|ver 45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

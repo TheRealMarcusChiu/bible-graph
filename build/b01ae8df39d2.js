@@ -1,0 +1,1 @@
+(function(){var b="b01ae8df39d2",m="# Judges 9:30 (New International Version)\nWhen Zebul the governor of the city heard what Gaal son of Ebed said, he was very angry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

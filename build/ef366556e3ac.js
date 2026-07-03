@@ -1,0 +1,1 @@
+(function(){var b="ef366556e3ac",m="# Mark 15:10 (New International Version)\nknowing it was out of self-interest that the chief priests had handed Jesus over to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

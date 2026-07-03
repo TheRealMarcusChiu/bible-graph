@@ -1,0 +1,1 @@
+(function(){var b="b4d5688afcb3",m="# 2 Corinthians 8:5 (New International Version)\nAnd they exceeded our expectations: They gave themselves first of all to the Lord, and then by the will of God also to us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

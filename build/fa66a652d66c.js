@@ -1,0 +1,1 @@
+(function(){var b="fa66a652d66c",m="# Leviticus 4:1 (New International Version)\nThe Sin Offering\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

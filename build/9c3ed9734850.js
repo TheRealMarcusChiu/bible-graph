@@ -1,0 +1,1 @@
+(function(){var b="9c3ed9734850",m="# Luke 8:6 (New International Version)\nSome fell on rocky ground, and when it came up, the plants withered because they had no moisture.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b3580d438158",m="# James 1:4 (New International Version)\nLet perseverance finish its work so that you may be mature[^A] and complete, not lacking anything. \n\n### Crossrefs\n[^A]: S [[1Cor-2-6|1Co 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

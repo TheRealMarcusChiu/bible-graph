@@ -1,0 +1,1 @@
+(function(){var b="d951d3c53fde",m="# Numbers 5:24 (New International Version)\nHe shall make the woman drink the bitter water that brings a curse, and this water that brings a curse and causes bitter suffering will enter her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

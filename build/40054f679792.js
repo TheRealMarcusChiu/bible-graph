@@ -1,0 +1,1 @@
+(function(){var b="40054f679792",m="# Mark 16:8 (New International Version)\nTrembling and bewildered, the women went out and fled from the tomb. They said nothing to anyone, because they were afraid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="751762ba17fa",m="# John 20:10 (New International Version)\nThen the disciples went back to where they were staying.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

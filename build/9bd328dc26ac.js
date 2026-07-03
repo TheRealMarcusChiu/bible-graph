@@ -1,0 +1,1 @@
+(function(){var b="9bd328dc26ac",m="# Luke 11:10 (New International Version)\nFor everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

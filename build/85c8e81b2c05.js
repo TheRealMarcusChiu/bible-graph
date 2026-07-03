@@ -1,0 +1,1 @@
+(function(){var b="85c8e81b2c05",m="# Exodus 27:18 (New International Version)\nThe courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely twisted linen five cubits high, and with bronze bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

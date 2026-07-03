@@ -1,0 +1,1 @@
+(function(){var b="568f572c674a",m="# John 11:23 (New International Version)\nJesus said to her, \"Your brother will rise again.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

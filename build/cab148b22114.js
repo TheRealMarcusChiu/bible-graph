@@ -1,0 +1,1 @@
+(function(){var b="cab148b22114",m="# Exodus 37:2 (New International Version)\nHe overlaid it with pure gold,[^A] both inside and out, and made a gold molding around it. \n\n### Crossrefs\n[^A]: [[Exod-37-11|ver 11]], [[Exod-37-26|26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

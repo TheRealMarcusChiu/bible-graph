@@ -1,0 +1,1 @@
+(function(){var b="d5b754bf9f1c",m="# John 6:7 (New International Version)\nPhilip answered him, \"It would take more than half a year's wages to buy enough bread for each one to have a bite!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

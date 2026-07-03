@@ -1,0 +1,1 @@
+(function(){var b="987918d73e62",m="# Mark 9:39 (New International Version)\n\"Do not stop him,\" Jesus said. \"For no one who does a miracle in my name can in the next moment say anything bad about me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

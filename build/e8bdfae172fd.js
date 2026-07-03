@@ -1,0 +1,1 @@
+(function(){var b="e8bdfae172fd",m="# Luke 15:19 (New International Version)\nI am no longer worthy to be called your son; make me like one of your hired servants.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

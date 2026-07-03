@@ -1,0 +1,1 @@
+(function(){var b="fc8205ad836c",m="# Judges 3:23 (New International Version)\nThen Ehud went out to the porch; he shut the doors of the upper room behind him and locked them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

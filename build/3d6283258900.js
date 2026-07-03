@@ -1,0 +1,1 @@
+(function(){var b="3d6283258900",m="# Mark 9:21 (New International Version)\nJesus asked the boy's father, \"How long has he been like this?\"\n\"From childhood,\" he answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

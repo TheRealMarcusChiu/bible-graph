@@ -1,0 +1,1 @@
+(function(){var b="ac0bc550f74e",m="# 1 Corinthians 9:8 (New International Version)\nDo I say this merely on human authority? Doesn't the Law say the same thing?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="988bd6f0d4fe",m="# Numbers 26:39 (New International Version)\nthrough Shupham, the Shuphamite clan;\nthrough Hupham, the Huphamite clan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

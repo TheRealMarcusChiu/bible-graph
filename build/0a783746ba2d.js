@@ -1,0 +1,1 @@
+(function(){var b="0a783746ba2d",m="# Matthew 16:20 (New International Version)\nThen he ordered his disciples not to tell anyone[^A] that he was the Messiah.\n\n### Crossrefs\n[^A]: S [[Mark-8-30|Mk 8:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

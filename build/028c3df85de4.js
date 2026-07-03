@@ -1,0 +1,1 @@
+(function(){var b="028c3df85de4",m="# Matthew 13:29 (New International Version)\n\"'No,' he answered, 'because while you are pulling the weeds, you may uproot the wheat with them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

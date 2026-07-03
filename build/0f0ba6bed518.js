@@ -1,0 +1,1 @@
+(function(){var b="0f0ba6bed518",m="# Acts 9:7 (New International Version)\nThe men traveling with Saul stood there speechless; they heard the sound[^A] but did not see anyone.[^B] \n\n### Crossrefs\n[^A]: [[John-12-29|Jn 12:29]]\n[^B]: [[Dan-10-7|Da 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

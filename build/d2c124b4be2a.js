@@ -1,0 +1,1 @@
+(function(){var b="d2c124b4be2a",m="# Luke 8:15 (New International Version)\nBut the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

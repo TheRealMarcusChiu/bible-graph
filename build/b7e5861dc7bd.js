@@ -1,0 +1,1 @@
+(function(){var b="b7e5861dc7bd",m="# Acts 27:29 (New International Version)\nFearing that we would be dashed against the rocks, they dropped four anchors from the stern and prayed for daylight.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33ee533352d3",m="# Romans 9:16 (New International Version)\nIt does not, therefore, depend on human desire or effort, but on God's mercy.[^A] \n\n### Crossrefs\n[^A]: [[Eph-2-8|Eph 2:8]]; [[Titus-3-5|Tit 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

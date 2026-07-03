@@ -1,0 +1,1 @@
+(function(){var b="a625d91be438",m="# Leviticus 13:35 (New International Version)\nBut if the sore does spread in the skin after they are pronounced clean,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="abb5fe0a36ae",m="# Mark 4:39 (New International Version)\nHe got up, rebuked the wind and said to the waves, \"Quiet! Be still!\" Then the wind died down and it was completely calm.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

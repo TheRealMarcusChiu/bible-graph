@@ -1,0 +1,1 @@
+(function(){var b="3799371c49bf",m="# Deuteronomy 25:17 (New International Version)\nRemember what the Amalekites[^A] did to you along the way when you came out of Egypt. \n\n### Crossrefs\n[^A]: S [[Gen-36-12|Ge 36:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

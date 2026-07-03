@@ -1,0 +1,1 @@
+(function(){var b="17644bdf6a4e",m="# Deuteronomy 22:25 (New International Version)\nBut if out in the country a man happens to meet a young woman pledged to be married and rapes her, only the man who has done this shall die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

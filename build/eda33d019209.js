@@ -1,0 +1,1 @@
+(function(){var b="eda33d019209",m="# Deuteronomy 30:7 (New International Version)\nThe LORD your God will put all these curses[^A] on your enemies who hate and persecute you.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-12-3|Ge 12:3]]\n[^B]: [[Deut-7-15|Dt 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

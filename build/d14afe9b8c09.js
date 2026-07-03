@@ -1,0 +1,1 @@
+(function(){var b="d14afe9b8c09",m="# Luke 9:59 (New International Version)\nHe said to another man, \"Follow me.\"[^A]\nBut he replied, \"Lord, first let me go and bury my father.\"\n\n### Crossrefs\n[^A]: S [[Matt-4-19|Mt 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7bdf385808e6",m="# Joshua 8:25 (New International Version)\nTwelve thousand men and women fell that day--all the people of Ai.[^A] \n\n### Crossrefs\n[^A]: [[Deut-20-16|Dt 20:16-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

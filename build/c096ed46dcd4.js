@@ -1,0 +1,1 @@
+(function(){var b="c096ed46dcd4",m="# Joshua 21:3 (New International Version)\nSo, as the LORD had commanded, the Israelites gave the Levites the following towns and pasturelands out of their own inheritance:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

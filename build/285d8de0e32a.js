@@ -1,0 +1,1 @@
+(function(){var b="285d8de0e32a",m="# Luke 6:44 (New International Version)\nEach tree is recognized by its own fruit.[^A] People do not pick figs from thornbushes, or grapes from briers. \n\n### Crossrefs\n[^A]: [[Matt-12-33|Mt 12:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

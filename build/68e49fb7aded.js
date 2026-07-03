@@ -1,0 +1,1 @@
+(function(){var b="68e49fb7aded",m="# Matthew 12:19 (New International Version)\nHe will not quarrel or cry out;  \n    no one will hear his voice in the streets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

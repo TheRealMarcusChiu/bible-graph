@@ -1,0 +1,1 @@
+(function(){var b="20800bd06e55",m="# Luke 13:13 (New International Version)\nThen he put his hands on her,[^A] and immediately she straightened up and praised God.\n\n### Crossrefs\n[^A]: S [[Mark-5-23|Mk 5:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

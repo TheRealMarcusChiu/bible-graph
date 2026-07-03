@@ -1,0 +1,1 @@
+(function(){var b="84130fe445d0",m="# 1 Corinthians 9:3 (New International Version)\nThis is my defense to those who sit in judgment on me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

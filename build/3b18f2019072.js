@@ -1,0 +1,1 @@
+(function(){var b="3b18f2019072",m="# 1 Corinthians 12:21 (New International Version)\nThe eye cannot say to the hand, \"I don't need you!\" And the head cannot say to the feet, \"I don't need you!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

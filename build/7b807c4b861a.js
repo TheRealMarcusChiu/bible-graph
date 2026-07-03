@@ -1,0 +1,1 @@
+(function(){var b="7b807c4b861a",m="# Matthew 24:42 (New International Version)\n\"Therefore keep watch, because you do not know on what day your Lord will come.[^A] \n\n### Crossrefs\n[^A]: [[Matt-25-13|Mt 25:13]]; [[Luke-12-40|Lk 12:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cfb0d0fdcbd3",m="# Exodus 39:19 (New International Version)\nThey made two gold rings and attached them to the other two corners of the breastpiece on the inside edge next to the ephod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

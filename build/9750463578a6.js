@@ -1,0 +1,1 @@
+(function(){var b="9750463578a6",m="# Exodus 22:12 (New International Version)\nBut if the animal was stolen from the neighbor, restitution[^A] must be made to the owner. \n\n### Crossrefs\n[^A]: [[Exod-22-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

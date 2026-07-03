@@ -1,0 +1,1 @@
+(function(){var b="eb4addc98bb4",m="# Exodus 7:25 (New International Version)\nThe Plague of Frogs\nSeven days passed after the LORD struck the Nile.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

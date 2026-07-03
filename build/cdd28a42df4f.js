@@ -1,0 +1,1 @@
+(function(){var b="cdd28a42df4f",m="# Exodus 36:38 (New International Version)\nand they made five posts with hooks for them. They overlaid the tops of the posts and their bands with gold and made their five bases of bronze.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

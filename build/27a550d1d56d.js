@@ -1,0 +1,1 @@
+(function(){var b="27a550d1d56d",m="# 1 Corinthians 7:30 (New International Version)\nthose who mourn, as if they did not; those who are happy, as if they were not; those who buy something, as if it were not theirs to keep;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

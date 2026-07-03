@@ -1,0 +1,1 @@
+(function(){var b="b76dcea0c050",m="# 2 Timothy 2:11 (New International Version)\nHere is a trustworthy saying:[^A]\nIf we died with him,  \n    we will also live with him;[^B]\n\n### Crossrefs\n[^A]: S [[1Tim-1-15|1Ti 1:15]]\n[^B]: [[Rom-6-2|Ro 6:2-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

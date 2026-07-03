@@ -1,0 +1,1 @@
+(function(){var b="b1f57d2299d3",m="# Judges 11:4 (New International Version)\nSome time later, when the Ammonites[^A] were fighting against Israel, \n\n### Crossrefs\n[^A]: S [[Judg-10-9|Jdg 10:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

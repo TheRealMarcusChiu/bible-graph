@@ -1,0 +1,1 @@
+(function(){var b="c4a9a552278c",m="# Luke 21:6 (New International Version)\n\"As for what you see here, the time will come when not one stone will be left on another;[^A] every one of them will be thrown down.\"\n\n### Crossrefs\n[^A]: [[Luke-19-44|Lk 19:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

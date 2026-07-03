@@ -1,0 +1,1 @@
+(function(){var b="a00f2958b38b",m="# Romans 2:15 (New International Version)\nThey show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts sometimes accusing them and at other times even defending them.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

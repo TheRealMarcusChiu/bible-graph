@@ -1,0 +1,1 @@
+(function(){var b="2660d89bf4cc",m="# Judges 10:17 (New International Version)\nWhen the Ammonites were called to arms and camped in Gilead, the Israelites assembled and camped at Mizpah.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-31-49|Ge 31:49]]; [[Judg-11-29|Jdg 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

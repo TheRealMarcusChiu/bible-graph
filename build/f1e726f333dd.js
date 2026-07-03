@@ -1,0 +1,1 @@
+(function(){var b="f1e726f333dd",m="# Genesis 29:19 (New International Version)\nLaban said, \"It's better that I give her to you than to some other man. Stay here with me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

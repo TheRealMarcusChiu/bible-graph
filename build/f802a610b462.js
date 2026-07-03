@@ -1,0 +1,1 @@
+(function(){var b="f802a610b462",m="# Luke 18:6 (New International Version)\nAnd the Lord[^A] said, \"Listen to what the unjust judge says. \n\n### Crossrefs\n[^A]: S [[Luke-7-13|Lk 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

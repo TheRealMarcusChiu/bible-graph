@@ -1,0 +1,1 @@
+(function(){var b="d07ed3cdb661",m="# Numbers 22:15 (New International Version)\nThen Balak sent other officials, more numerous and more distinguished than the first.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8e0056c7d4d0",m="# Matthew 6:31 (New International Version)\nSo do not worry, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="004d67e1072d",m="# Judges 3:2 (New International Version)\n(he did this only to teach warfare to the descendants of the Israelites who had not had previous battle experience):";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

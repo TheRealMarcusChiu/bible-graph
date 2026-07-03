@@ -1,0 +1,1 @@
+(function(){var b="6055a45bcda4",m="# Exodus 28:34 (New International Version)\nThe gold bells and the pomegranates are to alternate around the hem of the robe.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

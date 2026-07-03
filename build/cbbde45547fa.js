@@ -1,0 +1,1 @@
+(function(){var b="cbbde45547fa",m="# Exodus 34:2 (New International Version)\nBe ready in the morning, and then come up on Mount Sinai.[^A] Present yourself to me there on top of the mountain. \n\n### Crossrefs\n[^A]: S [[Exod-19-11|Ex 19:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

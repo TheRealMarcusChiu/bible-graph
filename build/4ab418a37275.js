@@ -1,0 +1,1 @@
+(function(){var b="4ab418a37275",m="# Exodus 25:4 (New International Version)\nblue, purple and scarlet yarn[^A] and fine linen; goat hair; \n\n### Crossrefs\n[^A]: [[Exod-28-4|Ex 28:4-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

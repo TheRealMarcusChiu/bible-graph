@@ -1,0 +1,1 @@
+(function(){var b="130f224444b1",m="# Mark 12:27 (New International Version)\nHe is not the God of the dead, but of the living. You are badly mistaken!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

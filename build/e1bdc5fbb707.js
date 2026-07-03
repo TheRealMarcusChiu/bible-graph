@@ -1,0 +1,1 @@
+(function(){var b="e1bdc5fbb707",m="# Numbers 4:23 (New International Version)\nCount all the men from thirty to fifty years of age[^A] who come to serve in the work at the tent of meeting.\n\n### Crossrefs\n[^A]: S [[Num-4-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

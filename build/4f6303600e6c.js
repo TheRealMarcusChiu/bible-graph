@@ -1,0 +1,1 @@
+(function(){var b="4f6303600e6c",m="# Mark 4:21 (New International Version)\nA Lamp on a Stand\nHe said to them, \"Do you bring in a lamp to put it under a bowl or a bed? Instead, don't you put it on its stand?[^A] \n\n### Crossrefs\n[^A]: S [[Matt-5-15|Mt 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

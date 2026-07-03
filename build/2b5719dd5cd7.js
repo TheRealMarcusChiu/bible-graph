@@ -1,0 +1,1 @@
+(function(){var b="2b5719dd5cd7",m="# Numbers 1:23 (New International Version)\nThe number from the tribe of Simeon was 59,300.[^A]\n\n### Crossrefs\n[^A]: [[Num-26-14|Nu 26:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

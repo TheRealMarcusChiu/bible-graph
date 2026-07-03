@@ -1,0 +1,1 @@
+(function(){var b="53ca96237d75",m="# John 8:49 (New International Version)\n\"I am not possessed by a demon,\" said Jesus, \"but I honor my Father and you dishonor me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

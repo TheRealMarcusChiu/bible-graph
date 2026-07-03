@@ -1,0 +1,1 @@
+(function(){var b="985d2f33164c",m="# Genesis 27:16 (New International Version)\nShe also covered his hands and the smooth part of his neck with the goatskins.[^A] \n\n### Crossrefs\n[^A]: [[Gen-27-22|ver 22-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

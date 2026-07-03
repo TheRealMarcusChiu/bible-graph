@@ -1,0 +1,1 @@
+(function(){var b="0d27f88765b3",m="# John 7:17 (New International Version)\nAnyone who chooses to do the will of God will find out[^A] whether my teaching comes from God or whether I speak on my own. \n\n### Crossrefs\n[^A]: [[Ps-25-14|Ps 25:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

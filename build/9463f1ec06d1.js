@@ -1,0 +1,1 @@
+(function(){var b="9463f1ec06d1",m="# John 11:6 (New International Version)\nSo when he heard that Lazarus was sick, he stayed where he was two more days,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

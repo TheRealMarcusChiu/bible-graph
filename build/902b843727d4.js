@@ -1,0 +1,1 @@
+(function(){var b="902b843727d4",m="# Exodus 36:31 (New International Version)\nThey also made crossbars of acacia wood: five for the frames on one side of the tabernacle,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

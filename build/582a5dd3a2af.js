@@ -1,0 +1,1 @@
+(function(){var b="582a5dd3a2af",m="# Numbers 33:31 (New International Version)\nThey left Moseroth and camped at Bene Jaakan.[^A]\n\n### Crossrefs\n[^A]: [[Deut-10-6|Dt 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

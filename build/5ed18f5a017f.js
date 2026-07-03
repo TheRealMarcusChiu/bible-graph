@@ -1,0 +1,1 @@
+(function(){var b="5ed18f5a017f",m="# John 4:31 (New International Version)\nMeanwhile his disciples urged him, \"Rabbi,[^A] eat something.\"\n\n### Crossrefs\n[^A]: S [[Matt-23-7|Mt 23:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

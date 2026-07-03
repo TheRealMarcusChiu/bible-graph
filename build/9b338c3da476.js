@@ -1,0 +1,1 @@
+(function(){var b="9b338c3da476",m="# Numbers 27:10 (New International Version)\nIf he has no brothers, give his inheritance to his father's brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

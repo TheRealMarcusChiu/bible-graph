@@ -1,0 +1,1 @@
+(function(){var b="b5ed4226d11c",m="# Mark 4:28 (New International Version)\nAll by itself the soil produces grain--first the stalk, then the head, then the full kernel in the head.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

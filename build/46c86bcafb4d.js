@@ -1,0 +1,1 @@
+(function(){var b="46c86bcafb4d",m="# Acts 9:33 (New International Version)\nThere he found a man named Aeneas, who was paralyzed and had been bedridden for eight years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

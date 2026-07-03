@@ -1,0 +1,1 @@
+(function(){var b="9bffc4a4c3d7",m="# Mark 13:18 (New International Version)\nPray that this will not take place in winter,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

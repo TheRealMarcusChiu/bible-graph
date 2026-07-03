@@ -1,0 +1,1 @@
+(function(){var b="b312ad082a09",m="# Genesis 38:5 (New International Version)\nShe gave birth to still another son and named him Shelah.[^A] It was at Kezib that she gave birth to him.\n\n### Crossrefs\n[^A]: [[Num-26-20|Nu 26:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1eaf846bde13",m="# Numbers 17:6 (New International Version)\nSo Moses spoke to the Israelites, and their leaders gave him twelve staffs, one for the leader of each of their ancestral tribes, and Aaron's staff was among them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

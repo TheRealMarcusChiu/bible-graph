@@ -1,0 +1,1 @@
+(function(){var b="0b3472bf9396",m="# Matthew 21:6 (New International Version)\nThe disciples went and did as Jesus had instructed them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

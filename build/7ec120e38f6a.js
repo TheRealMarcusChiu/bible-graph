@@ -1,0 +1,1 @@
+(function(){var b="7ec120e38f6a",m="# Romans 7:9 (New International Version)\nOnce I was alive apart from the law; but when the commandment came, sin sprang to life and I died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

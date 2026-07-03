@@ -1,0 +1,1 @@
+(function(){var b="24f79c38b6fe",m="# Acts 21:3 (New International Version)\nAfter sighting Cyprus and passing to the south of it, we sailed on to Syria.[^A] We landed at Tyre, where our ship was to unload its cargo. \n\n### Crossrefs\n[^A]: S [[Luke-2-2|Lk 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

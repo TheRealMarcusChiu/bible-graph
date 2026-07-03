@@ -1,0 +1,1 @@
+(function(){var b="98644c2cfa5f",m="# Ephesians 4:3 (New International Version)\nMake every effort to keep the unity[^A] of the Spirit through the bond of peace.[^B] \n\n### Crossrefs\n[^A]: S [[Rom-15-5|Ro 15:5]]\n[^B]: [[Col-3-15|Col 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

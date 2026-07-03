@@ -1,0 +1,1 @@
+(function(){var b="3ecac8e309fe",m="# John 21:5 (New International Version)\nHe called out to them, \"Friends, haven't you any fish?\"\n\"No,\" they answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

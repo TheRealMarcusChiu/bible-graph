@@ -1,0 +1,1 @@
+(function(){var b="b51de7697309",m="# Acts 19:24 (New International Version)\nA silversmith named Demetrius, who made silver shrines of Artemis, brought in a lot of business for the craftsmen there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

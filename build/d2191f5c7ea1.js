@@ -1,0 +1,1 @@
+(function(){var b="d2191f5c7ea1",m="# Luke 24:43 (New International Version)\nand he took it and ate it in their presence.[^A]\n\n### Crossrefs\n[^A]: [[Acts-10-41|Ac 10:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

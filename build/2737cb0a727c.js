@@ -1,0 +1,1 @@
+(function(){var b="2737cb0a727c",m="# Acts 23:22 (New International Version)\nThe commander dismissed the young man with this warning: \"Don't tell anyone that you have reported this to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

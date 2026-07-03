@@ -1,0 +1,1 @@
+(function(){var b="0e8be56551d6",m="# Exodus 12:38 (New International Version)\nMany other people[^A] went up with them, and also large droves of livestock, both flocks and herds. \n\n### Crossrefs\n[^A]: [[Num-11-4|Nu 11:4]]; [[Josh-8-35|Jos 8:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

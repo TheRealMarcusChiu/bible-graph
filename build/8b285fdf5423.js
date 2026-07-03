@@ -1,0 +1,1 @@
+(function(){var b="8b285fdf5423",m="# Luke 19:19 (New International Version)\n\"His master answered, 'You take charge of five cities.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="05424cb7003a",m="# 2 Thessalonians 2:12 (New International Version)\nand so that all will be condemned who have not believed the truth but have delighted in wickedness.[^A]\n\n### Crossrefs\n[^A]: [[Rom-1-32|Ro 1:32]]; [[Rom-2-8|2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

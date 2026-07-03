@@ -1,0 +1,1 @@
+(function(){var b="39e8127a3019",m="# Luke 15:10 (New International Version)\nIn the same way, I tell you, there is rejoicing in the presence of the angels of God over one sinner who repents.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-15-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

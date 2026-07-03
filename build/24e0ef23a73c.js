@@ -1,0 +1,1 @@
+(function(){var b="24e0ef23a73c",m="# 2 Corinthians 11:5 (New International Version)\nI do not think I am in the least inferior to those \"super-apostles.\"[^A] \n\n### Crossrefs\n[^A]: [[2Cor-12-11|2Co 12:11]]; [[Gal-2-6|Gal 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

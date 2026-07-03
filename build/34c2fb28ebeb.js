@@ -1,0 +1,1 @@
+(function(){var b="34c2fb28ebeb",m="# Genesis 7:9 (New International Version)\nmale and female, came to Noah and entered the ark, as God had commanded Noah.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

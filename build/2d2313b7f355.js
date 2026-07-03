@@ -1,0 +1,1 @@
+(function(){var b="2d2313b7f355",m="# John 7:50 (New International Version)\nNicodemus,[^A] who had gone to Jesus earlier and who was one of their own number, asked, \n\n### Crossrefs\n[^A]: [[John-3-1|Jn 3:1]]; [[John-19-39|19:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

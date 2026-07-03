@@ -1,0 +1,1 @@
+(function(){var b="5567559ab8cf",m="# Galatians 4:16 (New International Version)\nHave I now become your enemy by telling you the truth?[^A]\n\n### Crossrefs\n[^A]: [[Amos-5-10|Am 5:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

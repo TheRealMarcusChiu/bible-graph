@@ -1,0 +1,1 @@
+(function(){var b="adbf09820fe9",m="# Leviticus 14:38 (New International Version)\nthe priest shall go out the doorway of the house and close it up for seven days.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-13-4|Lev 13:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

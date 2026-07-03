@@ -1,0 +1,1 @@
+(function(){var b="9fbd75ad9c3a",m="# Judges 9:39 (New International Version)\nSo Gaal led out the citizens of Shechem and fought Abimelek.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

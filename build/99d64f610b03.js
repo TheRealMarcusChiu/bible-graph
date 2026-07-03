@@ -1,0 +1,1 @@
+(function(){var b="99d64f610b03",m="# Genesis 27:44 (New International Version)\nStay with him for a while[^A] until your brother's fury subsides. \n\n### Crossrefs\n[^A]: [[Gen-31-38|Ge 31:38]], [[Gen-31-41|41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

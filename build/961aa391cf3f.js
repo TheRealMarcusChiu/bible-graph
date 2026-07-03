@@ -1,0 +1,1 @@
+(function(){var b="961aa391cf3f",m="# Deuteronomy 14:14 (New International Version)\nany kind of raven,[^A] \n\n### Crossrefs\n[^A]: S [[Gen-8-7|Ge 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2ac19155b5db",m="# 2 Timothy 2:1 (New International Version)\nThe Appeal Renewed\nYou then, my son,[^A] be strong[^B] in the grace that is in Christ Jesus. \n\n### Crossrefs\n[^A]: S [[1Tim-1-2|1Ti 1:2]]\n[^B]: S [[Eph-6-10|Eph 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

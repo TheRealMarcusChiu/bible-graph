@@ -1,0 +1,1 @@
+(function(){var b="21077ae59871",m="# Genesis 8:18 (New International Version)\nSo Noah came out, together with his sons and his wife and his sons' wives.[^A] \n\n### Crossrefs\n[^A]: [[1Pet-3-20|1Pe 3:20]]; [[2Pet-2-5|2Pe 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

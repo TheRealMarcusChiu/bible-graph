@@ -1,0 +1,1 @@
+(function(){var b="acd59d6d6d3f",m="# Galatians 5:7 (New International Version)\nYou were running a good race.[^A] Who cut in on you[^B] to keep you from obeying the truth? \n\n### Crossrefs\n[^A]: S [[1Cor-9-24|1Co 9:24]]\n[^B]: [[Gal-3-1|Gal 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

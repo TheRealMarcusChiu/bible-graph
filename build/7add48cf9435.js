@@ -1,0 +1,1 @@
+(function(){var b="7add48cf9435",m="# Mark 3:32 (New International Version)\nA crowd was sitting around him, and they told him, \"Your mother and brothers are outside looking for you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

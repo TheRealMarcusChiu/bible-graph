@@ -1,0 +1,1 @@
+(function(){var b="cf16e633151f",m="# Genesis 36:28 (New International Version)\nThe sons of Dishan:\nUz and Aran.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

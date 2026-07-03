@@ -1,0 +1,1 @@
+(function(){var b="3dc119f85911",m="# Hebrews 6:7 (New International Version)\nLand that drinks in the rain often falling on it and that produces a crop useful to those for whom it is farmed receives the blessing of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

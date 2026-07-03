@@ -1,0 +1,1 @@
+(function(){var b="be45454aa0ec",m="# Mark 15:24 (New International Version)\nAnd they crucified him. Dividing up his clothes, they cast lots[^A] to see what each would get.\n\n### Crossrefs\n[^A]: [[Ps-22-18|Ps 22:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

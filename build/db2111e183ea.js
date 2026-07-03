@@ -1,0 +1,1 @@
+(function(){var b="db2111e183ea",m="# 1 Timothy 1\n\nInstructions to a young pastor in Ephesus on sound doctrine, church leaders, and godliness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1c5a182d902a",m="# Exodus 23:10 (New International Version)\nSabbath Laws\n\"For six years you are to sow your fields and harvest the crops,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

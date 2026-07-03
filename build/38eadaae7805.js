@@ -1,0 +1,1 @@
+(function(){var b="38eadaae7805",m="# Romans 7:21 (New International Version)\nSo I find this law at work:[^A] Although I want to do good, evil is right there with me. \n\n### Crossrefs\n[^A]: [[Rom-7-23|ver 23]], [[Rom-7-25|25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

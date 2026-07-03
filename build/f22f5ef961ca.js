@@ -1,0 +1,1 @@
+(function(){var b="f22f5ef961ca",m="# Luke 5:34 (New International Version)\nJesus answered, \"Can you make the friends of the bridegroom[^A] fast while he is with them? \n\n### Crossrefs\n[^A]: [[John-3-29|Jn 3:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

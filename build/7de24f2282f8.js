@@ -1,0 +1,1 @@
+(function(){var b="7de24f2282f8",m="# Matthew 18:14 (New International Version)\nIn the same way your Father in heaven is not willing that any of these little ones should perish.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

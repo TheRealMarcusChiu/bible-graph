@@ -1,0 +1,1 @@
+(function(){var b="bfdbd8db5264",m="# Numbers 15:37 (New International Version)\nTassels on Garments\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

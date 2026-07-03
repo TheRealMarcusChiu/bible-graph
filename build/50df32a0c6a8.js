@@ -1,0 +1,1 @@
+(function(){var b="50df32a0c6a8",m="# Numbers 18:31 (New International Version)\nYou and your households may eat the rest of it anywhere, for it is your wages for your work at the tent of meeting.[^A] \n\n### Crossrefs\n[^A]: [[Num-18-23|ver 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

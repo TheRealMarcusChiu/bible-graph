@@ -1,0 +1,1 @@
+(function(){var b="c92cda00b884",m="# Judges 6:38 (New International Version)\nAnd that is what happened. Gideon rose early the next day; he squeezed the fleece and wrung out the dew--a bowlful of water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

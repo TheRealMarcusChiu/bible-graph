@@ -1,0 +1,1 @@
+(function(){var b="75f011515710",m="# 1 Corinthians 11:20 (New International Version)\nSo then, when you come together, it is not the Lord's Supper you eat,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

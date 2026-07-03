@@ -1,0 +1,1 @@
+(function(){var b="c0e2f56d3812",m="# Mark 6:47 (New International Version)\nLater that night, the boat was in the middle of the lake, and he was alone on land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

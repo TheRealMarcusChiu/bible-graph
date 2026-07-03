@@ -1,0 +1,1 @@
+(function(){var b="892aba0335ac",m="# Genesis 41:31 (New International Version)\nThe abundance in the land will not be remembered, because the famine that follows it will be so severe.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

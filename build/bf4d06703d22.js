@@ -1,0 +1,1 @@
+(function(){var b="bf4d06703d22",m="# Mark 6:18 (New International Version)\nFor John had been saying to Herod, \"It is not lawful for you to have your brother's wife.\"[^A] \n\n### Crossrefs\n[^A]: [[Lev-18-16|Lev 18:16]]; [[Lev-20-21|20:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

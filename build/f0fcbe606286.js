@@ -1,0 +1,1 @@
+(function(){var b="f0fcbe606286",m="# Joshua 9:23 (New International Version)\nYou are now under a curse:[^A] You will never be released from service as woodcutters and water carriers for the house of my God.\"\n\n### Crossrefs\n[^A]: S [[Gen-9-25|Ge 9:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

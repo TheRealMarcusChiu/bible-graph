@@ -1,0 +1,1 @@
+(function(){var b="0a529ebc0864",m="# Exodus 17:13 (New International Version)\nSo Joshua overcame the Amalekite[^A] army with the sword.\n\n### Crossrefs\n[^A]: [[Exod-17-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

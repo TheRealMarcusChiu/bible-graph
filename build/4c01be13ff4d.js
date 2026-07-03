@@ -1,0 +1,1 @@
+(function(){var b="4c01be13ff4d",m="# 1 John 5:7 (New International Version)\nFor there are three[^A] that testify: \n\n### Crossrefs\n[^A]: S [[Matt-18-16|Mt 18:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

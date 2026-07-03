@@ -1,0 +1,1 @@
+(function(){var b="0265f90a1e3c",m="# Leviticus 16\n\nLaws on sacrifices, priesthood, purity, and holiness for Israel's worship of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

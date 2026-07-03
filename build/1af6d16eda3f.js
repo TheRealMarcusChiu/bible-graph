@@ -1,0 +1,1 @@
+(function(){var b="1af6d16eda3f",m="# John 8:15 (New International Version)\nYou judge by human standards;[^A] I pass judgment on no one.[^B] \n\n### Crossrefs\n[^A]: S [[John-7-24|Jn 7:24]]\n[^B]: [[John-3-17|Jn 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

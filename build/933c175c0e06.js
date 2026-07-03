@@ -1,0 +1,1 @@
+(function(){var b="933c175c0e06",m="# Deuteronomy 4:44 (New International Version)\nIntroduction to the Law\nThis is the law Moses set before the Israelites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

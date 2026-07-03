@@ -1,0 +1,1 @@
+(function(){var b="0ad715589b69",m="# Luke 9:5 (New International Version)\nIf people do not welcome you, leave their town and shake the dust off your feet as a testimony against them.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-10-14|Mt 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

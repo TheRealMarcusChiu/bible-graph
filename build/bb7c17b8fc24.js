@@ -1,0 +1,1 @@
+(function(){var b="bb7c17b8fc24",m="# Judges 3:26 (New International Version)\nWhile they waited, Ehud got away. He passed by the stone images and escaped to Seirah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

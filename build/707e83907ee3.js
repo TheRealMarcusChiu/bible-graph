@@ -1,0 +1,1 @@
+(function(){var b="707e83907ee3",m="# Deuteronomy 29:3 (New International Version)\nWith your own eyes you saw those great trials, those signs and great wonders.[^A] \n\n### Crossrefs\n[^A]: S [[Deut-4-34|Dt 4:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

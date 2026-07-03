@@ -1,0 +1,1 @@
+(function(){var b="38939effbad2",m="# Numbers 2:1 (New International Version)\nThe Arrangement of the Tribal Camps\nThe LORD said to Moses and Aaron:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

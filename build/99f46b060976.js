@@ -1,0 +1,1 @@
+(function(){var b="99f46b060976",m="# Exodus 37:16 (New International Version)\nAnd they made from pure gold the articles for the table--its plates and dishes and bowls and its pitchers for the pouring out of drink offerings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

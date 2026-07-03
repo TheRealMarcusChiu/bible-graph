@@ -1,0 +1,1 @@
+(function(){var b="ee346edde821",m="# Luke 1:77 (New International Version)\nto give his people the knowledge of salvation  \n    through the forgiveness of their sins,[^A]\n\n### Crossrefs\n[^A]: [[Jer-31-34|Jer 31:34]]; [[Matt-1-21|Mt 1:21]]; [[Mark-1-4|Mk 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

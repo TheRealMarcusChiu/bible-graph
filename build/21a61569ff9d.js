@@ -1,0 +1,1 @@
+(function(){var b="21a61569ff9d",m="# Obadiah 1\n\nJudgment on Edom for gloating over Jerusalem's fall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

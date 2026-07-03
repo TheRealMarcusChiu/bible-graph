@@ -1,0 +1,1 @@
+(function(){var b="9405c29742b6",m="# Leviticus 18:16 (New International Version)\n\"'Do not have sexual relations with your brother's wife;[^A] that would dishonor your brother.\n\n### Crossrefs\n[^A]: [[Lev-20-21|Lev 20:21]]; [[Matt-14-4|Mt 14:4]]; [[Mark-6-18|Mk 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

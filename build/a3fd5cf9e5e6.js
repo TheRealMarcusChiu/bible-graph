@@ -1,1 +1,0 @@
-(function(){var b="a3fd5cf9e5e6",m="# Switching\n\nNotes on Switching.\n\n## Linked notes\n\n- [[Load Balancing — TCP]]\n- [[BGP — Notes]]\n- [[Deep Dive — Case Study]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

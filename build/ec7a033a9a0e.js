@@ -1,0 +1,1 @@
+(function(){var b="ec7a033a9a0e",m="# Deuteronomy 4:33 (New International Version)\nHas any other people heard the voice of God speaking out of fire, as you have, and lived?[^A] \n\n### Crossrefs\n[^A]: [[Exod-20-22|Ex 20:22]]; [[Deut-5-24|Dt 5:24-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

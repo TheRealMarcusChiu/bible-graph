@@ -1,0 +1,1 @@
+(function(){var b="d63dc1280fe5",m="# Exodus 7:10 (New International Version)\nSo Moses and Aaron went to Pharaoh and did just as the LORD commanded. Aaron threw his staff down in front of Pharaoh and his officials, and it became a snake.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

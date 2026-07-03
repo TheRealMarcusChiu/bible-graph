@@ -1,0 +1,1 @@
+(function(){var b="c835b3ea7984",m="# Exodus 27:17 (New International Version)\nAll the posts around the courtyard are to have silver bands and hooks, and bronze bases.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

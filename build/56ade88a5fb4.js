@@ -1,0 +1,1 @@
+(function(){var b="56ade88a5fb4",m="# 1 Corinthians 15:38 (New International Version)\nBut God gives it a body as he has determined, and to each kind of seed he gives its own body.[^A] \n\n### Crossrefs\n[^A]: [[Gen-1-11|Ge 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

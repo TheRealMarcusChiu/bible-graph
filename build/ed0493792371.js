@@ -1,0 +1,1 @@
+(function(){var b="ed0493792371",m="# Joshua 10:4 (New International Version)\n\"Come up and help me attack Gibeon,\" he said, \"because it has made peace[^A] with Joshua and the Israelites.\"\n\n### Crossrefs\n[^A]: S [[Josh-9-15|Jos 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

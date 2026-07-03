@@ -1,0 +1,1 @@
+(function(){var b="e9e673ef8a1f",m="# Leviticus 17:12 (New International Version)\nTherefore I say to the Israelites, \"None of you may eat blood, nor may any foreigner residing among you eat blood.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

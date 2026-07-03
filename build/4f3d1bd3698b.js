@@ -1,0 +1,1 @@
+(function(){var b="4f3d1bd3698b",m="# Matthew 1:5 (New International Version)\nSalmon the father of Boaz, whose mother was Rahab,[^A]\nBoaz the father of Obed, whose mother was Ruth,\nObed the father of Jesse,\n\n### Crossrefs\n[^A]: S [[Heb-11-31|Heb 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

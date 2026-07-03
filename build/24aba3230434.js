@@ -1,0 +1,1 @@
+(function(){var b="24aba3230434",m="# Mark 11:33 (New International Version)\nSo they answered Jesus, \"We don't know.\"\nJesus said, \"Neither will I tell you by what authority I am doing these things.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

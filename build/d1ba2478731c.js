@@ -1,0 +1,1 @@
+(function(){var b="d1ba2478731c",m="# Joshua 19:11 (New International Version)\nGoing west it ran to Maralah, touched Dabbesheth, and extended to the ravine near Jokneam.[^A] \n\n### Crossrefs\n[^A]: S [[Josh-12-22|Jos 12:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

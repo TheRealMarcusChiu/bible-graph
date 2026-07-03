@@ -1,0 +1,1 @@
+(function(){var b="13102847b910",m="# John 6:36 (New International Version)\nBut as I told you, you have seen me and still you do not believe.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

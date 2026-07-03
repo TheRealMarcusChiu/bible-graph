@@ -1,0 +1,1 @@
+(function(){var b="07eb33bcccad",m="# Numbers 3:3 (New International Version)\nThose were the names of Aaron's sons, the anointed priests,[^A] who were ordained to serve as priests. \n\n### Crossrefs\n[^A]: S [[Exod-28-41|Ex 28:41]]; S [[Exod-29-30|29:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

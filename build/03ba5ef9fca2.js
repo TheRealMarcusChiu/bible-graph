@@ -1,0 +1,1 @@
+(function(){var b="03ba5ef9fca2",m="# Numbers 33:19 (New International Version)\nThey left Rithmah and camped at Rimmon Perez.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

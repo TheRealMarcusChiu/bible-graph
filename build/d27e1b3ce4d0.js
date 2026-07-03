@@ -1,0 +1,1 @@
+(function(){var b="d27e1b3ce4d0",m="# Exodus 6:10 (New International Version)\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

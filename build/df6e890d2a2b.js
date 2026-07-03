@@ -1,0 +1,1 @@
+(function(){var b="df6e890d2a2b",m="# Matthew 21:20 (New International Version)\nWhen the disciples saw this, they were amazed. \"How did the fig tree wither so quickly?\" they asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

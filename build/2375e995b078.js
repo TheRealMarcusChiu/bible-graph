@@ -1,0 +1,1 @@
+(function(){var b="2375e995b078",m="# Acts 7:29 (New International Version)\nWhen Moses heard this, he fled to Midian, where he settled as a foreigner and had two sons.[^A]\n\n### Crossrefs\n[^A]: [[Exod-2-11|Ex 2:11-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

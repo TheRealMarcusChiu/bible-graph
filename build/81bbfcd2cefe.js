@@ -1,0 +1,1 @@
+(function(){var b="81bbfcd2cefe",m="# Judges 9:36 (New International Version)\nWhen Gaal saw them, he said to Zebul, \"Look, people are coming down from the tops of the mountains!\"\nZebul replied, \"You mistake the shadows of the mountains for men.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

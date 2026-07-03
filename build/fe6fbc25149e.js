@@ -1,0 +1,1 @@
+(function(){var b="fe6fbc25149e",m="# Numbers 23:2 (New International Version)\nBalak did as Balaam said, and the two of them offered a bull and a ram on each altar.[^A]\n\n### Crossrefs\n[^A]: [[Num-23-14|ver 14]], [[Num-23-30|30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

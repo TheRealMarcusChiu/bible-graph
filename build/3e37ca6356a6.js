@@ -1,0 +1,1 @@
+(function(){var b="3e37ca6356a6",m="# Numbers 14:39 (New International Version)\nWhen Moses reported this[^A] to all the Israelites, they mourned[^B] bitterly. \n\n### Crossrefs\n[^A]: [[Num-14-28|ver 28-35]]\n[^B]: S [[Exod-33-4|Ex 33:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

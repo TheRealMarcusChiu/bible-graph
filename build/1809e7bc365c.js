@@ -1,0 +1,1 @@
+(function(){var b="1809e7bc365c",m="# Matthew 5:47 (New International Version)\nAnd if you greet only your own people, what are you doing more than others? Do not even pagans do that?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

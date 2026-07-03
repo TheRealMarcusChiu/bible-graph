@@ -1,0 +1,1 @@
+(function(){var b="f77d5592fbc4",m="# Exodus 39:4 (New International Version)\nThey made shoulder pieces for the ephod, which were attached to two of its corners, so it could be fastened.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

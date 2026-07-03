@@ -1,0 +1,1 @@
+(function(){var b="fb078ee17dfa",m="# Lamentations\n\nFive laments over the destruction of Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

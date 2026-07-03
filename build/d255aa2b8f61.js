@@ -1,0 +1,1 @@
+(function(){var b="d255aa2b8f61",m="# Numbers 4:31 (New International Version)\nAs part of all their service at the tent, they are to carry the frames of the tabernacle, its crossbars, posts and bases,[^A] \n\n### Crossrefs\n[^A]: [[Num-3-36|Nu 3:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

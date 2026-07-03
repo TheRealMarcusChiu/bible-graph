@@ -1,0 +1,1 @@
+(function(){var b="2886649c8f4d",m="# Deuteronomy 31:30 (New International Version)\nThe Song of Moses\nAnd Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

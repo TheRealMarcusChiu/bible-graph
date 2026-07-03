@@ -1,0 +1,1 @@
+(function(){var b="b9ea1569e5bb",m="# Luke 6:48 (New International Version)\nThey are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

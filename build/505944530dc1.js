@@ -1,0 +1,1 @@
+(function(){var b="505944530dc1",m="# Numbers 36:12 (New International Version)\nThey married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained in their father's tribe and clan.[^A]\n\n### Crossrefs\n[^A]: [[1Chr-7-15|1Ch 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

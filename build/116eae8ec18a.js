@@ -1,0 +1,1 @@
+(function(){var b="116eae8ec18a",m="# Mark 15:19 (New International Version)\nAgain and again they struck him on the head with a staff and spit on him. Falling on their knees, they paid homage to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

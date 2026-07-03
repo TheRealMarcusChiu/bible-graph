@@ -1,0 +1,1 @@
+(function(){var b="0467714ab26d",m="# Acts 1:26 (New International Version)\nThen they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.[^A]\n\n### Crossrefs\n[^A]: [[Acts-2-14|Ac 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

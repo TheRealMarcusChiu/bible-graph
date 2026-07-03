@@ -1,0 +1,1 @@
+(function(){var b="9b4b80cfd980",m="# Matthew 11:11 (New International Version)\nTruly I tell you, among those born of women there has not risen anyone greater than John the Baptist; yet whoever is least in the kingdom of heaven is greater than he.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f7073823b736",m="# Acts 10:12 (New International Version)\nIt contained all kinds of four-footed animals, as well as reptiles and birds.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

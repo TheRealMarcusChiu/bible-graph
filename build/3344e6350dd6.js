@@ -1,0 +1,1 @@
+(function(){var b="3344e6350dd6",m="# Colossians 3:22 (New International Version)\nSlaves, obey your earthly masters in everything; and do it, not only when their eye is on you and to curry their favor, but with sincerity of heart and reverence for the Lord.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

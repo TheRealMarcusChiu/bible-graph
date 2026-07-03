@@ -1,0 +1,1 @@
+(function(){var b="8e2e290696a1",m="# Luke 10:41 (New International Version)\n\"Martha, Martha,\" the Lord answered, \"you are worried[^A] and upset about many things, \n\n### Crossrefs\n[^A]: [[Matt-6-25|Mt 6:25-34]]; [[Luke-12-11|Lk 12:11]], [[Luke-12-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

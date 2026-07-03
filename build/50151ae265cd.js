@@ -1,0 +1,1 @@
+(function(){var b="50151ae265cd",m="# Revelation 5:2 (New International Version)\nAnd I saw a mighty angel[^A] proclaiming in a loud voice, \"Who is worthy to break the seals and open the scroll?\" \n\n### Crossrefs\n[^A]: [[Rev-10-1|Rev 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

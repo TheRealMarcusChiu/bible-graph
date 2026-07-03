@@ -1,0 +1,1 @@
+(function(){var b="0621899c943e",m="# Acts 7:18 (New International Version)\nThen 'a new king, to whom Joseph meant nothing, came to power in Egypt.'[^A] \n\n### Crossrefs\n[^A]: [[Exod-1-8|Ex 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd7455ed648b",m="# Matthew 26:20 (New International Version)\nWhen evening came, Jesus was reclining at the table with the Twelve.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

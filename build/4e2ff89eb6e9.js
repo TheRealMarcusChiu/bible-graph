@@ -1,0 +1,1 @@
+(function(){var b="4e2ff89eb6e9",m="# Luke 4:27 (New International Version)\nAnd there were many in Israel with leprosy in the time of Elisha the prophet, yet not one of them was cleansed--only Naaman the Syrian.\"[^A]\n\n### Crossrefs\n[^A]: [[2Kgs-5-1|2Ki 5:1-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

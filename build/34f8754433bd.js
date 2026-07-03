@@ -1,0 +1,1 @@
+(function(){var b="34f8754433bd",m="# Acts 28:19 (New International Version)\nThe Jews objected, so I was compelled to make an appeal to Caesar.[^A] I certainly did not intend to bring any charge against my own people. \n\n### Crossrefs\n[^A]: S [[Acts-25-11|Ac 25:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

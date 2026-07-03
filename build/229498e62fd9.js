@@ -1,0 +1,1 @@
+(function(){var b="229498e62fd9",m="# Mark 3:5 (New International Version)\nHe looked around at them in anger and, deeply distressed at their stubborn hearts, said to the man, \"Stretch out your hand.\" He stretched it out, and his hand was completely restored.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

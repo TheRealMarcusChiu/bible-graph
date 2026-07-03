@@ -1,0 +1,1 @@
+(function(){var b="37c295330d92",m="# Luke 23:1 (New International Version)\nThen the whole assembly rose and led him off to Pilate.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-27-2|Mt 27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

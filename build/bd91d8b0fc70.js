@@ -1,0 +1,1 @@
+(function(){var b="bd91d8b0fc70",m="# Leviticus 18:18 (New International Version)\n\"'Do not take your wife's sister[^A] as a rival wife and have sexual relations with her while your wife is living.\n\n### Crossrefs\n[^A]: S [[Gen-30-1|Ge 30:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="74041371a786",m="# 1 Corinthians 11:14 (New International Version)\nDoes not the very nature of things teach you that if a man has long hair, it is a disgrace to him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

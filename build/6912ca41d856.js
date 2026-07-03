@@ -1,0 +1,1 @@
+(function(){var b="6912ca41d856",m="# Matthew 10:31 (New International Version)\nSo don't be afraid; you are worth more than many sparrows.[^A]\n\n### Crossrefs\n[^A]: [[Matt-6-26|Mt 6:26]]; [[Matt-12-12|12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

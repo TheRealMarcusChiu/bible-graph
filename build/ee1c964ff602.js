@@ -1,0 +1,1 @@
+(function(){var b="ee1c964ff602",m="# Galatians 5:19 (New International Version)\nThe acts of the flesh are obvious: sexual immorality,[^A] impurity and debauchery; \n\n### Crossrefs\n[^A]: S [[1Cor-6-18|1Co 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

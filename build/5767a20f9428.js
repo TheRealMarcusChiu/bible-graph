@@ -1,0 +1,1 @@
+(function(){var b="5767a20f9428",m="# Luke 7:37 (New International Version)\nA woman in that town who lived a sinful life learned that Jesus was eating at the Pharisee's house, so she came there with an alabaster jar of perfume.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

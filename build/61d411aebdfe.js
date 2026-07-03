@@ -1,0 +1,1 @@
+(function(){var b="61d411aebdfe",m="# Matthew 17:4 (New International Version)\nPeter said to Jesus, \"Lord, it is good for us to be here. If you wish, I will put up three shelters--one for you, one for Moses and one for Elijah.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

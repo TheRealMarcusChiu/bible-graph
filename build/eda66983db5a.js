@@ -1,0 +1,1 @@
+(function(){var b="eda66983db5a",m="# Deuteronomy 23:19 (New International Version)\nDo not charge a fellow Israelite interest, whether on money or food or anything else that may earn interest.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-25-35|Lev 25:35-37]]; [[Neh-5-2|Ne 5:2-7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

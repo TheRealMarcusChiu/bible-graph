@@ -1,0 +1,1 @@
+(function(){var b="3343d7892670",m="# Leviticus 7:28 (New International Version)\nThe Priests' Share\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

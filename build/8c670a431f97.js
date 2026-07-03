@@ -1,0 +1,1 @@
+(function(){var b="8c670a431f97",m="# Genesis 18:29 (New International Version)\nOnce again he spoke to him, \"What if only forty are found there?\"\nHe said, \"For the sake of forty, I will not do it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

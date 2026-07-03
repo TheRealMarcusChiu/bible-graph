@@ -1,0 +1,1 @@
+(function(){var b="5ca0c8dd1bb6",m="# Mark 15:44 (New International Version)\nPilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

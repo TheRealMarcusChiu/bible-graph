@@ -1,0 +1,1 @@
+(function(){var b="070ee1b34785",m="# Luke 22:6 (New International Version)\nHe consented, and watched for an opportunity to hand Jesus over to them when no crowd was present.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

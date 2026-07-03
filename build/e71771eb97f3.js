@@ -1,0 +1,1 @@
+(function(){var b="e71771eb97f3",m="# Deuteronomy 23:1 (New International Version)\nExclusion From the Assembly\nNo one who has been emasculated[^A] by crushing or cutting may enter the assembly of the LORD.\n\n### Crossrefs\n[^A]: S [[Lev-21-20|Lev 21:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

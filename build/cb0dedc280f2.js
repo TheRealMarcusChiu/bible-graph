@@ -1,0 +1,1 @@
+(function(){var b="cb0dedc280f2",m="# Numbers 26:55 (New International Version)\nBe sure that the land is distributed by lot.[^A] What each group inherits will be according to the names for its ancestral tribe. \n\n### Crossrefs\n[^A]: S [[Lev-16-8|Lev 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

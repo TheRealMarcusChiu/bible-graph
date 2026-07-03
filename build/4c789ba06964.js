@@ -1,0 +1,1 @@
+(function(){var b="4c789ba06964",m="# Exodus 2:9 (New International Version)\nPharaoh's daughter said to her, \"Take this baby and nurse him for me, and I will pay you.\" So the woman took the baby and nursed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

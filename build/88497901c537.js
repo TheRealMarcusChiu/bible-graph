@@ -1,0 +1,1 @@
+(function(){var b="88497901c537",m="# Matthew 8:3 (New International Version)\nJesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\" Immediately he was cleansed of his leprosy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

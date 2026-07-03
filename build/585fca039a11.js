@@ -1,0 +1,1 @@
+(function(){var b="585fca039a11",m="# Jonah 1\n\nA reluctant prophet, a great fish, and God's mercy on repentant Nineveh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20d2d0a1c52d",m="# Genesis 37:16 (New International Version)\nHe replied, \"I'm looking for my brothers. Can you tell me where they are grazing their flocks?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

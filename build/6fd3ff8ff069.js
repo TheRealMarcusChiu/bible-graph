@@ -1,0 +1,1 @@
+(function(){var b="6fd3ff8ff069",m="# Galatians 1:5 (New International Version)\nto whom be glory for ever and ever. Amen.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-11-36|Ro 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

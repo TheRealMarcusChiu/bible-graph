@@ -1,0 +1,1 @@
+(function(){var b="767f25b15ce5",m="# Exodus 30:17 (New International Version)\nBasin for Washing\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

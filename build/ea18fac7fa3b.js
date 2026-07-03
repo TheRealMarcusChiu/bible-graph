@@ -1,0 +1,1 @@
+(function(){var b="ea18fac7fa3b",m="# Mark 4:13 (New International Version)\nThen Jesus said to them, \"Don't you understand this parable? How then will you understand any parable?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

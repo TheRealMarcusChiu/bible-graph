@@ -1,0 +1,1 @@
+(function(){var b="a373313b24d5",m="# Luke 22:58 (New International Version)\nA little later someone else saw him and said, \"You also are one of them.\"\n\"Man, I am not!\" Peter replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

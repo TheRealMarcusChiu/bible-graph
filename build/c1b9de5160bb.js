@@ -1,0 +1,1 @@
+(function(){var b="c1b9de5160bb",m="# Mark 5:31 (New International Version)\n\"You see the people crowding against you,\" his disciples answered, \"and yet you can ask, 'Who touched me?' \"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

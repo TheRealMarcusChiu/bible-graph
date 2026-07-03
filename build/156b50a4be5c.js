@@ -1,0 +1,1 @@
+(function(){var b="156b50a4be5c",m="# Numbers 17:7 (New International Version)\nMoses placed the staffs before the LORD in the tent of the covenant law.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-38-21|Ex 38:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

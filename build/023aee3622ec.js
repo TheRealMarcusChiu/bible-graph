@@ -1,0 +1,1 @@
+(function(){var b="023aee3622ec",m="# Hebrews 10:21 (New International Version)\nand since we have a great priest[^A] over the house of God,[^B] \n\n### Crossrefs\n[^A]: S [[Heb-2-17|Heb 2:17]]\n[^B]: S [[Heb-3-6|Heb 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

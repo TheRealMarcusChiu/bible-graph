@@ -1,0 +1,1 @@
+(function(){var b="5df5beb596e0",m="# Luke 2:17 (New International Version)\nWhen they had seen him, they spread the word concerning what had been told them about this child,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

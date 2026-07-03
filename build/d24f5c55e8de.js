@@ -1,0 +1,1 @@
+(function(){var b="d24f5c55e8de",m="# James 2:22 (New International Version)\nYou see that his faith and his actions were working together,[^A] and his faith was made complete by what he did.[^B] \n\n### Crossrefs\n[^A]: [[Heb-11-17|Heb 11:17]]\n[^B]: [[1Thess-1-3|1Th 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

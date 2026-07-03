@@ -1,0 +1,1 @@
+(function(){var b="5a076a530fa2",m="# Deuteronomy 8:10 (New International Version)\nWhen you have eaten and are satisfied,[^A] praise the LORD your God for the good land he has given you. \n\n### Crossrefs\n[^A]: [[Deut-6-10|Dt 6:10-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

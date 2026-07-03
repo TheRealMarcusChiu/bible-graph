@@ -1,0 +1,1 @@
+(function(){var b="cddd20b7feaf",m="# 1 Peter 3:11 (New International Version)\nThey must turn from evil and do good;  \n    they must seek peace and pursue it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

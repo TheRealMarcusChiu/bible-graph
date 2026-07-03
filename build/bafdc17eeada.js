@@ -1,0 +1,1 @@
+(function(){var b="bafdc17eeada",m="# Mark 10:22 (New International Version)\nAt this the man's face fell. He went away sad, because he had great wealth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

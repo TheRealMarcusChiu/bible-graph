@@ -1,0 +1,1 @@
+(function(){var b="f13c46b16437",m="# Mark 4:5 (New International Version)\nSome fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

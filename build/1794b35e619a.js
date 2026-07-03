@@ -1,0 +1,1 @@
+(function(){var b="1794b35e619a",m="# Leviticus 27:20 (New International Version)\nIf, however, they do not redeem the field, or if they have sold it to someone else, it can never be redeemed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

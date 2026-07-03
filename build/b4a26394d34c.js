@@ -1,0 +1,1 @@
+(function(){var b="b4a26394d34c",m="# Luke 3:32 (New International Version)\nthe son of Jesse,\nthe son of Obed, the son of Boaz,\nthe son of Salmon, the son of Nahshon,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

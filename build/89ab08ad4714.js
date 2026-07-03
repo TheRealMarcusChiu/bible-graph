@@ -1,0 +1,1 @@
+(function(){var b="89ab08ad4714",m="# Exodus 4:26 (New International Version)\nSo the LORD let him alone. (At that time she said \"bridegroom of blood,\" referring to circumcision.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

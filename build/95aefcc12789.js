@@ -1,0 +1,1 @@
+(function(){var b="95aefcc12789",m="# 1 Thessalonians 4:2 (New International Version)\nFor you know what instructions we gave you by the authority of the Lord Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

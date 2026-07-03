@@ -1,0 +1,1 @@
+(function(){var b="0fe947fa4006",m="# Mark 2:11 (New International Version)\n\"I tell you, get up, take your mat and go home.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="384d6beb2f15",m="# Numbers 2:30 (New International Version)\nHis division numbers 53,400.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

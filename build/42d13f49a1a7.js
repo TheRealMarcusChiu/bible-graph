@@ -1,0 +1,1 @@
+(function(){var b="42d13f49a1a7",m="# Exodus 36:23 (New International Version)\nThey made twenty frames for the south side of the tabernacle";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

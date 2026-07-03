@@ -1,0 +1,1 @@
+(function(){var b="bdcfea3d8c3d",m="# Numbers 29:23 (New International Version)\n\"'On the fourth day offer ten bulls, two rams and fourteen male lambs a year old, all without defect.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

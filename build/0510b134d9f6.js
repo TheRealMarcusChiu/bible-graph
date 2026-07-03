@@ -1,0 +1,1 @@
+(function(){var b="0510b134d9f6",m="# Luke 3:27 (New International Version)\nthe son of Joanan, the son of Rhesa,\nthe son of Zerubbabel,[^A] the son of Shealtiel,\nthe son of Neri, \n\n### Crossrefs\n[^A]: [[Matt-1-12|Mt 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

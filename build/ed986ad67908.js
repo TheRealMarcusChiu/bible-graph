@@ -1,0 +1,1 @@
+(function(){var b="ed986ad67908",m="# Luke 22:41 (New International Version)\nHe withdrew about a stone's throw beyond them, knelt down[^A] and prayed, \n\n### Crossrefs\n[^A]: [[Luke-18-11|Lk 18:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

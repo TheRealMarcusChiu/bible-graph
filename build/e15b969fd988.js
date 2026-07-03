@@ -1,0 +1,1 @@
+(function(){var b="e15b969fd988",m="# 1 Peter 1:15 (New International Version)\nBut just as he who called you is holy, so be holy in all you do;[^A] \n\n### Crossrefs\n[^A]: [[Isa-35-8|Isa 35:8]]; [[1Thess-4-7|1Th 4:7]]; [[1John-3-3|1Jn 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e328a5a58765",m="# Galatians 6:11 (New International Version)\nNot Circumcision but the New Creation\nSee what large letters I use as I write to you with my own hand![^A]\n\n### Crossrefs\n[^A]: S [[1Cor-16-21|1Co 16:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

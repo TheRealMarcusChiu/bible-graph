@@ -1,0 +1,1 @@
+(function(){var b="80a7ee25bbde",m="# Leviticus 15:20 (New International Version)\n\"'Anything she lies on during her period will be unclean, and anything she sits on will be unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

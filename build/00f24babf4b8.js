@@ -1,0 +1,1 @@
+(function(){var b="00f24babf4b8",m="# Numbers 15:17 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

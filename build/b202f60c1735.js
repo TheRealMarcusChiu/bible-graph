@@ -1,0 +1,1 @@
+(function(){var b="b202f60c1735",m="# Deuteronomy 32:31 (New International Version)\nFor their rock is not like our Rock,[^A]  \n    as even our enemies concede.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-49-24|Ge 49:24]]\n[^B]: S [[Exod-14-25|Ex 14:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

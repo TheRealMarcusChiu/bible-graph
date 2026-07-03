@@ -1,0 +1,1 @@
+(function(){var b="845de8a61c2f",m="# Leviticus 6:21 (New International Version)\nIt must be prepared with oil on a griddle;[^A] bring it well-mixed and present the grain offering broken in pieces as an aroma pleasing to the LORD. \n\n### Crossrefs\n[^A]: [[Lev-2-5|Lev 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

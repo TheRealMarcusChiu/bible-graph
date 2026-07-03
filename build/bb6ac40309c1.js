@@ -1,0 +1,1 @@
+(function(){var b="bb6ac40309c1",m="# Luke 19:31 (New International Version)\nIf anyone asks you, 'Why are you untying it?' say, 'The Lord needs it.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

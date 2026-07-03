@@ -1,0 +1,1 @@
+(function(){var b="79942b70e388",m="# Genesis 16\n\nCreation, the fall, the flood, and the patriarchs Abraham, Isaac, Jacob, and Joseph -- the beginnings of God's covenant people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

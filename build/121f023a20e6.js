@@ -1,0 +1,1 @@
+(function(){var b="121f023a20e6",m="# Genesis 19:7 (New International Version)\nand said, \"No, my friends. Don't do this wicked thing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

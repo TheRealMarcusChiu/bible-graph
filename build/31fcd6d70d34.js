@@ -1,0 +1,1 @@
+(function(){var b="31fcd6d70d34",m="# Revelation 7:6 (New International Version)\nfrom the tribe of Asher 12,000,\nfrom the tribe of Naphtali 12,000,\nfrom the tribe of Manasseh 12,000,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

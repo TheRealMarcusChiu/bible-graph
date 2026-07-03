@@ -1,0 +1,1 @@
+(function(){var b="4a9fd0d56bbb",m="# Acts 28:12 (New International Version)\nWe put in at Syracuse and stayed there three days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

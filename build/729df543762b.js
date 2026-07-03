@@ -1,0 +1,1 @@
+(function(){var b="729df543762b",m="# Numbers 13:24 (New International Version)\nThat place was called the Valley of Eshkol because of the cluster of grapes the Israelites cut off there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

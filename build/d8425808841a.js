@@ -1,0 +1,1 @@
+(function(){var b="d8425808841a",m="# Acts 3:7 (New International Version)\nTaking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

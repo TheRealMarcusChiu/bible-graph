@@ -1,0 +1,1 @@
+(function(){var b="e0481e211d2f",m="# Joshua 15:42 (New International Version)\nLibnah,[^A] Ether, Ashan,[^B] \n\n### Crossrefs\n[^A]: S [[Num-33-20|Nu 33:20]]\n[^B]: [[Josh-19-7|Jos 19:7]]; [[1Sam-30-30|1Sa 30:30]]; [[1Chr-4-32|1Ch 4:32]]; [[1Chr-6-59|6:59]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bfc9c7e4f59e",m="# John 10:13 (New International Version)\nThe man runs away because he is a hired hand and cares nothing for the sheep.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

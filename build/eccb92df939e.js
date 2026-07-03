@@ -1,0 +1,1 @@
+(function(){var b="eccb92df939e",m="# Luke 24:3 (New International Version)\nbut when they entered, they did not find the body of the Lord Jesus.[^A] \n\n### Crossrefs\n[^A]: [[Luke-24-23|ver 23]], [[Luke-24-24|24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

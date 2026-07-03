@@ -1,0 +1,1 @@
+(function(){var b="b0dadc939b6c",m="# 2 Timothy 3:12 (New International Version)\nIn fact, everyone who wants to live a godly life in Christ Jesus will be persecuted,[^A] \n\n### Crossrefs\n[^A]: [[John-15-20|Jn 15:20]]; S [[Acts-14-22|Ac 14:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

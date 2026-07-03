@@ -1,0 +1,1 @@
+(function(){var b="8d9da29f67aa",m="# Galatians 2:18 (New International Version)\nIf I rebuild what I destroyed, then I really would be a lawbreaker.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

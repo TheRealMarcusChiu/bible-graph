@@ -1,0 +1,1 @@
+(function(){var b="bcae40453511",m="# Mark 7:36 (New International Version)\nJesus commanded them not to tell anyone.[^A] But the more he did so, the more they kept talking about it. \n\n### Crossrefs\n[^A]: S [[Matt-8-4|Mt 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f0586e262332",m="# Acts 19:5 (New International Version)\nOn hearing this, they were baptized in the name of the Lord Jesus.[^A] \n\n### Crossrefs\n[^A]: S [[Acts-2-38|Ac 2:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

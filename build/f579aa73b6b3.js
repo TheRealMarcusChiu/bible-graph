@@ -1,0 +1,1 @@
+(function(){var b="f579aa73b6b3",m="# Luke 22:2 (New International Version)\nand the chief priests and the teachers of the law were looking for some way to get rid of Jesus,[^A] for they were afraid of the people. \n\n### Crossrefs\n[^A]: S [[Matt-12-14|Mt 12:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

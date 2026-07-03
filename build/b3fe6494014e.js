@@ -1,0 +1,1 @@
+(function(){var b="b3fe6494014e",m="# John 9:1 (New International Version)\nJesus Heals a Man Born Blind\nAs he went along, he saw a man blind from birth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

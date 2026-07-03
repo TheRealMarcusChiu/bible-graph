@@ -1,0 +1,1 @@
+(function(){var b="525915738f11",m="# Numbers 32:6 (New International Version)\nMoses said to the Gadites and Reubenites, \"Should your fellow Israelites go to war while you sit here?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

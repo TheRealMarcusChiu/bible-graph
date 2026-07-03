@@ -1,0 +1,1 @@
+(function(){var b="995e8cc5f405",m="# Leviticus 11:42 (New International Version)\nYou are not to eat any creature that moves along the ground, whether it moves on its belly or walks on all fours or on many feet; it is unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

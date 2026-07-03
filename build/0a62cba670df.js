@@ -1,0 +1,1 @@
+(function(){var b="0a62cba670df",m="# Numbers 27:6 (New International Version)\nand the LORD said to him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ea296934b45c",m="# Numbers 11:21 (New International Version)\nBut Moses said, \"Here I am among six hundred thousand men[^A] on foot, and you say, 'I will give them meat to eat for a whole month!' \n\n### Crossrefs\n[^A]: S [[Exod-12-37|Ex 12:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

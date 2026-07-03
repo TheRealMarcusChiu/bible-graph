@@ -1,0 +1,1 @@
+(function(){var b="5bd12a15c61d",m="# Numbers 22:14 (New International Version)\nSo the Moabite officials returned to Balak and said, \"Balaam refused to come with us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

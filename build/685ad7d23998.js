@@ -1,0 +1,1 @@
+(function(){var b="685ad7d23998",m="# Leviticus 11:17 (New International Version)\nthe little owl, the cormorant, the great owl,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

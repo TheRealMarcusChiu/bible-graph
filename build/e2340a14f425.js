@@ -1,0 +1,1 @@
+(function(){var b="e2340a14f425",m="# 1 Timothy 4:11 (New International Version)\nCommand and teach these things.[^A] \n\n### Crossrefs\n[^A]: [[1Tim-5-7|1Ti 5:7]]; [[1Tim-6-2|6:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

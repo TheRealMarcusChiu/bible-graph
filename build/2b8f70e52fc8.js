@@ -1,0 +1,1 @@
+(function(){var b="2b8f70e52fc8",m="# 2 Corinthians 13:6 (New International Version)\nAnd I trust that you will discover that we have not failed the test.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e6fe680b45f2",m="# Exodus 26:7 (New International Version)\n\"Make curtains of goat hair for the tent over the tabernacle--eleven altogether.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

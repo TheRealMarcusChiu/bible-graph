@@ -1,0 +1,1 @@
+(function(){var b="0b9abbbb650b",m="# Acts 10:13 (New International Version)\nThen a voice told him, \"Get up, Peter. Kill and eat.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

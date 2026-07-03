@@ -1,0 +1,1 @@
+(function(){var b="ee7073b10c00",m="# Luke 17:35 (New International Version)\nTwo women will be grinding grain together; one will be taken and the other left.\"[^A] \n\n### Crossrefs\n[^A]: [[Matt-24-41|Mt 24:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

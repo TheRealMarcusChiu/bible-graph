@@ -1,0 +1,1 @@
+(function(){var b="acaff7df42cb",m="# Mark 6:48 (New International Version)\nHe saw the disciples straining at the oars, because the wind was against them. Shortly before dawn he went out to them, walking on the lake. He was about to pass by them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f82ec6c02ef5",m="# Acts 11:11 (New International Version)\n\"Right then three men who had been sent to me from Caesarea[^A] stopped at the house where I was staying. \n\n### Crossrefs\n[^A]: S [[Acts-8-40|Ac 8:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

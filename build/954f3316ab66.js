@@ -1,0 +1,1 @@
+(function(){var b="954f3316ab66",m="# Matthew 26:48 (New International Version)\nNow the betrayer had arranged a signal with them: \"The one I kiss is the man; arrest him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

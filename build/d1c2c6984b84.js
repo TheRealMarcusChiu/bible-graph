@@ -1,0 +1,1 @@
+(function(){var b="d1c2c6984b84",m="# Numbers 16:50 (New International Version)\nThen Aaron returned to Moses at the entrance to the tent of meeting, for the plague had stopped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

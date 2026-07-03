@@ -1,0 +1,1 @@
+(function(){var b="213c6d2caade",m="# Exodus 1:18 (New International Version)\nThen the king of Egypt summoned the midwives and asked them, \"Why have you done this? Why have you let the boys live?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

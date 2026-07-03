@@ -1,0 +1,1 @@
+(function(){var b="c9c5d93f6e0c",m="# Luke 21:14 (New International Version)\nBut make up your mind not to worry beforehand how you will defend yourselves.[^A] \n\n### Crossrefs\n[^A]: [[Luke-12-11|Lk 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

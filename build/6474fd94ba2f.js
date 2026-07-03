@@ -1,0 +1,1 @@
+(function(){var b="6474fd94ba2f",m="# Matthew 11:17 (New International Version)\n\"'We played the pipe for you,  \n    and you did not dance;  \nwe sang a dirge,  \n    and you did not mourn.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

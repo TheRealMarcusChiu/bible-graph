@@ -1,0 +1,1 @@
+(function(){var b="d1521c5c935e",m="# Matthew 12:50 (New International Version)\nFor whoever does the will of my Father in heaven[^A] is my brother and sister and mother.\"\n\n### Crossrefs\n[^A]: [[Matt-6-10|Mt 6:10]]; [[John-15-14|Jn 15:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

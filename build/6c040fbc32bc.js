@@ -1,0 +1,1 @@
+(function(){var b="6c040fbc32bc",m="# Galatians 5:25 (New International Version)\nSince we live by the Spirit,[^A] let us keep in step with the Spirit. \n\n### Crossrefs\n[^A]: S [[Gal-5-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

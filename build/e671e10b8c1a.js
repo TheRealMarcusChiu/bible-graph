@@ -1,0 +1,1 @@
+(function(){var b="e671e10b8c1a",m="# Numbers 13:4 (New International Version)\nThese are their names:\nfrom the tribe of Reuben, Shammua son of Zakkur;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

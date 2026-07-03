@@ -1,0 +1,1 @@
+(function(){var b="5f276c5304f7",m="# Joshua 8:12 (New International Version)\nJoshua had taken about five thousand men and set them in ambush between Bethel and Ai, to the west of the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

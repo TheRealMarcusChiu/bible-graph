@@ -1,0 +1,1 @@
+(function(){var b="d9e3c3824308",m="# Numbers 10:1 (New International Version)\nThe Silver Trumpets\nThe LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

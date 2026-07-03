@@ -1,0 +1,1 @@
+(function(){var b="6c3523563b71",m="# Luke 10:34 (New International Version)\nHe went to him and bandaged his wounds, pouring on oil and wine. Then he put the man on his own donkey, brought him to an inn and took care of him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

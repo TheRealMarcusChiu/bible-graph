@@ -1,0 +1,1 @@
+(function(){var b="1fbd693ecdcc",m="# Luke 1:12 (New International Version)\nWhen Zechariah saw him, he was startled and was gripped with fear.[^A] \n\n### Crossrefs\n[^A]: [[Judg-6-22|Jdg 6:22]], [[Judg-6-23|23]]; [[Judg-13-22|13:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

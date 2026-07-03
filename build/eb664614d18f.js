@@ -1,0 +1,1 @@
+(function(){var b="eb664614d18f",m="# Luke 1:30 (New International Version)\nBut the angel said to her, \"Do not be afraid,[^A] Mary; you have found favor with God.[^B] \n\n### Crossrefs\n[^A]: [[Luke-1-13|ver 13]]; S [[Matt-14-27|Mt 14:27]]\n[^B]: [[Gen-6-8|Ge 6:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3958bd1918f5",m="# Genesis 13:11 (New International Version)\nSo Lot chose for himself the whole plain of the Jordan and set out toward the east. The two men parted company:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

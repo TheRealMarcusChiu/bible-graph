@@ -1,0 +1,1 @@
+(function(){var b="1c68642922ac",m="# Mark 9:26 (New International Version)\nThe spirit shrieked, convulsed him violently and came out. The boy looked so much like a corpse that many said, \"He's dead.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

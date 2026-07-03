@@ -1,0 +1,1 @@
+(function(){var b="85089de205c7",m="# Matthew 20:9 (New International Version)\n\"The workers who were hired about five in the afternoon came and each received a denarius.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

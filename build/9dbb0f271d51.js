@@ -1,0 +1,1 @@
+(function(){var b="9dbb0f271d51",m="# 1 Peter 4:18 (New International Version)\nAnd,\n\"If it is hard for the righteous to be saved,  \n    what will become of the ungodly and the sinner?\"[^A]\n\n### Crossrefs\n[^A]: [[Prov-11-31|Pr 11:31]]; [[Luke-23-31|Lk 23:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

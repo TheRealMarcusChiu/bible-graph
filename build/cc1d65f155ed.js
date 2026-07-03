@@ -1,0 +1,1 @@
+(function(){var b="cc1d65f155ed",m="# Hebrews 7:20 (New International Version)\nAnd it was not without an oath! Others became priests without any oath,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

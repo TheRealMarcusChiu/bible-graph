@@ -1,0 +1,1 @@
+(function(){var b="b526e4e0f471",m="# Galatians 4:26 (New International Version)\nBut the Jerusalem that is above[^A] is free, and she is our mother. \n\n### Crossrefs\n[^A]: [[Heb-12-22|Heb 12:22]]; [[Rev-3-12|Rev 3:12]]; [[Rev-21-2|21:2]], [[Rev-21-10|10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

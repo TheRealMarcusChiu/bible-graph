@@ -1,0 +1,1 @@
+(function(){var b="dd4cff42f0d7",m="# Matthew 26:33 (New International Version)\nPeter replied, \"Even if all fall away on account of you, I never will.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

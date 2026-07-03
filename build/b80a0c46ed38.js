@@ -1,0 +1,1 @@
+(function(){var b="b80a0c46ed38",m="# Numbers 4:38 (New International Version)\nThe Gershonites[^A] were counted by their clans and families. \n\n### Crossrefs\n[^A]: S [[Gen-46-11|Ge 46:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8cb179a29d84",m="# Exodus 26:12 (New International Version)\nAs for the additional length of the tent curtains, the half curtain that is left over is to hang down at the rear of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

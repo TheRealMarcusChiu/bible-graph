@@ -1,0 +1,1 @@
+(function(){var b="748de09ec157",m="# Joshua 21:36 (New International Version)\nfrom the tribe of Reuben,\nBezer,[^A] Jahaz,[^B] \n\n### Crossrefs\n[^A]: S [[Josh-20-8|Jos 20:8]]\n[^B]: S [[Num-21-23|Nu 21:23]]; [[Deut-2-32|Dt 2:32]]; [[Judg-11-20|Jdg 11:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

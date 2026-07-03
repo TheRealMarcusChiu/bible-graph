@@ -1,0 +1,1 @@
+(function(){var b="10a68cd96af5",m="# John 2:5 (New International Version)\nHis mother said to the servants, \"Do whatever he tells you.\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-41-55|Ge 41:55]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

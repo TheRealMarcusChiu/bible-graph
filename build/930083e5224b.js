@@ -1,0 +1,1 @@
+(function(){var b="930083e5224b",m="# Exodus 21:26 (New International Version)\n\"An owner who hits a male or female slave in the eye and destroys it must let the slave go free to compensate for the eye.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

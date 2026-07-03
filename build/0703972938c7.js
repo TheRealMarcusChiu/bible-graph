@@ -1,0 +1,1 @@
+(function(){var b="0703972938c7",m="# Genesis 32:25 (New International Version)\nWhen the man saw that he could not overpower him, he touched the socket of Jacob's hip[^A] so that his hip was wrenched as he wrestled with the man. \n\n### Crossrefs\n[^A]: [[Gen-32-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c7a58b2b918e",m="# Luke 16:12 (New International Version)\nAnd if you have not been trustworthy with someone else's property, who will give you property of your own?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

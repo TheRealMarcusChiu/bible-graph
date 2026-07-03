@@ -1,0 +1,1 @@
+(function(){var b="14206ea2a6e0",m="# Revelation 17:10 (New International Version)\nThey are also seven kings. Five have fallen, one is, the other has not yet come; but when he does come, he must remain for only a little while.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2780c6a6fc72",m="# Leviticus 14:42 (New International Version)\nThen they are to take other stones to replace these and take new clay and plaster the house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

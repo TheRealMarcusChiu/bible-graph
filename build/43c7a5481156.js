@@ -1,0 +1,1 @@
+(function(){var b="43c7a5481156",m="# Numbers 34:5 (New International Version)\nwhere it will turn, join the Wadi of Egypt[^A] and end at the Mediterranean Sea.\n\n### Crossrefs\n[^A]: [[Gen-15-18|Ge 15:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

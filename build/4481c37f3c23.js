@@ -1,0 +1,1 @@
+(function(){var b="4481c37f3c23",m="# Matthew 20:26 (New International Version)\nNot so with you. Instead, whoever wants to become great among you must be your servant,[^A] \n\n### Crossrefs\n[^A]: S [[Mark-9-35|Mk 9:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

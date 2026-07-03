@@ -1,0 +1,1 @@
+(function(){var b="97af26a705b6",m="# Luke 16:30 (New International Version)\n\"'No, father Abraham,'[^A] he said, 'but if someone from the dead goes to them, they will repent.'\n\n### Crossrefs\n[^A]: [[Luke-16-24|ver 24]]; S [[Luke-3-8|Lk 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

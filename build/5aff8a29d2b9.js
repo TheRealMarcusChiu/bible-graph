@@ -1,0 +1,1 @@
+(function(){var b="5aff8a29d2b9",m="# 2 Thessalonians 1:2 (New International Version)\nGrace and peace to you from God the Father and the Lord Jesus Christ.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-1-7|Ro 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

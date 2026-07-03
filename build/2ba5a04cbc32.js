@@ -1,0 +1,1 @@
+(function(){var b="2ba5a04cbc32",m="# John 3:6 (New International Version)\nFlesh gives birth to flesh, but the Spirit gives birth to spirit.[^A] \n\n### Crossrefs\n[^A]: S [[John-1-13|Jn 1:13]]; [[1Cor-15-50|1Co 15:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

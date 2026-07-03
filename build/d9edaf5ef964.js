@@ -1,0 +1,1 @@
+(function(){var b="d9edaf5ef964",m="# Leviticus 11:6 (New International Version)\nThe rabbit, though it chews the cud, does not have a divided hoof; it is unclean for you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

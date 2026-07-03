@@ -1,0 +1,1 @@
+(function(){var b="e442f6d14743",m="# Genesis 32:19 (New International Version)\nHe also instructed the second, the third and all the others who followed the herds: \"You are to say the same thing to Esau when you meet him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

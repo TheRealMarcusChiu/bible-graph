@@ -1,0 +1,1 @@
+(function(){var b="ff34c3905dc9",m="# Joshua 15:15 (New International Version)\nFrom there he marched against the people living in Debir (formerly called Kiriath Sepher).";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

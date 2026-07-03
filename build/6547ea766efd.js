@@ -1,0 +1,1 @@
+(function(){var b="6547ea766efd",m="# Philippians 2:18 (New International Version)\nSo you too should be glad and rejoice with me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

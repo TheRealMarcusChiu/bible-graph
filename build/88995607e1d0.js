@@ -1,0 +1,1 @@
+(function(){var b="88995607e1d0",m="# Joshua 18:3 (New International Version)\nSo Joshua said to the Israelites: \"How long will you wait before you begin to take possession of the land that the LORD, the God of your ancestors, has given you?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

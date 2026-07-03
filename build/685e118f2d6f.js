@@ -1,0 +1,1 @@
+(function(){var b="685e118f2d6f",m="# Leviticus 23:7 (New International Version)\nOn the first day hold a sacred assembly[^A] and do no regular work. \n\n### Crossrefs\n[^A]: [[Lev-23-3|ver 3]], [[Lev-23-8|8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

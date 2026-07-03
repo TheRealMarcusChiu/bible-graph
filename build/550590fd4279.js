@@ -1,0 +1,1 @@
+(function(){var b="550590fd4279",m="# Matthew 26:5 (New International Version)\n\"But not during the festival,\" they said, \"or there may be a riot[^A] among the people.\"\n\n### Crossrefs\n[^A]: [[Matt-27-24|Mt 27:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

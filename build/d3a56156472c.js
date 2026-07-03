@@ -1,0 +1,1 @@
+(function(){var b="d3a56156472c",m="# Acts 24:13 (New International Version)\nAnd they cannot prove to you the charges they are now making against me.[^A] \n\n### Crossrefs\n[^A]: [[Acts-25-7|Ac 25:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

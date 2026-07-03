@@ -1,0 +1,1 @@
+(function(){var b="b010c6378bfb",m="# John 19:32 (New International Version)\nThe soldiers therefore came and broke the legs of the first man who had been crucified with Jesus, and then those of the other.[^A] \n\n### Crossrefs\n[^A]: [[John-19-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

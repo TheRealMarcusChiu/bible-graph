@@ -1,0 +1,1 @@
+(function(){var b="85979063721b",m="# John 2:3 (New International Version)\nWhen the wine was gone, Jesus' mother said to him, \"They have no more wine.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

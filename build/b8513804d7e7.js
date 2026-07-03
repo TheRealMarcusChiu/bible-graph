@@ -1,0 +1,1 @@
+(function(){var b="b8513804d7e7",m="# Numbers 33:37 (New International Version)\nThey left Kadesh and camped at Mount Hor,[^A] on the border of Edom.[^B] \n\n### Crossrefs\n[^A]: S [[Num-20-22|Nu 20:22]]\n[^B]: S [[Gen-36-16|Ge 36:16]]; S [[Num-20-16|Nu 20:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

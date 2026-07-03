@@ -1,0 +1,1 @@
+(function(){var b="389d4c1760f7",m="# Numbers 13:19 (New International Version)\nWhat kind of land do they live in? Is it good or bad? What kind of towns do they live in? Are they unwalled or fortified?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

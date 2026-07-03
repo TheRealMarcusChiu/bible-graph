@@ -1,0 +1,1 @@
+(function(){var b="8acbc61eef85",m="# Numbers 29:34 (New International Version)\nInclude one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

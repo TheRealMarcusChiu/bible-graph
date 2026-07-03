@@ -1,0 +1,1 @@
+(function(){var b="2aaaf8b19fd3",m="# Numbers 7:68 (New International Version)\none gold dish weighing ten shekels, filled with incense;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

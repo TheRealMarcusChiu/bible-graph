@@ -1,0 +1,1 @@
+(function(){var b="750826af2b22",m="# Numbers 31:43 (New International Version)\nthe community's half--was 337,500 sheep,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

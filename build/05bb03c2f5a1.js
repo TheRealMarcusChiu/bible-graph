@@ -1,0 +1,1 @@
+(function(){var b="05bb03c2f5a1",m="# Matthew 20:14 (New International Version)\nTake your pay and go. I want to give the one who was hired last the same as I gave you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

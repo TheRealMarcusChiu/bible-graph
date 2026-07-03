@@ -1,0 +1,1 @@
+(function(){var b="4c0f4f770dec",m="# Numbers 27:4 (New International Version)\nWhy should our father's name disappear from his clan because he had no son? Give us property among our father's relatives.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

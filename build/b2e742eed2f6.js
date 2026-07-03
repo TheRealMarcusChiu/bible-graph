@@ -1,0 +1,1 @@
+(function(){var b="b2e742eed2f6",m="# 2 Corinthians 3:16 (New International Version)\nBut whenever anyone turns to the Lord,[^A] the veil is taken away.[^B] \n\n### Crossrefs\n[^A]: [[Rom-11-23|Ro 11:23]]\n[^B]: [[Exod-34-34|Ex 34:34]]; [[Isa-25-7|Isa 25:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

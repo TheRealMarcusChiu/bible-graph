@@ -1,0 +1,1 @@
+(function(){var b="a477addad580",m="# Exodus 18:13 (New International Version)\nThe next day Moses took his seat to serve as judge for the people, and they stood around him from morning till evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="281328238f7f",m="# Luke 13:12 (New International Version)\nWhen Jesus saw her, he called her forward and said to her, \"Woman, you are set free from your infirmity.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="efadf987249c",m="# Exodus 21:9 (New International Version)\nIf he selects her for his son, he must grant her the rights of a daughter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

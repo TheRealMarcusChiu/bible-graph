@@ -1,0 +1,1 @@
+(function(){var b="7c50e7cb0cf4",m="# Luke 5:25 (New International Version)\nImmediately he stood up in front of them, took what he had been lying on and went home praising God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

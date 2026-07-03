@@ -1,0 +1,1 @@
+(function(){var b="8a3d18537fde",m="# John 5:12 (New International Version)\nSo they asked him, \"Who is this fellow who told you to pick it up and walk?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

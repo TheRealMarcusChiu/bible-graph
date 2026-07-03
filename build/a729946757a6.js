@@ -1,0 +1,1 @@
+(function(){var b="a729946757a6",m="# Exodus 18:6 (New International Version)\nJethro had sent word to him, \"I, your father-in-law Jethro, am coming to you with your wife and her two sons.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

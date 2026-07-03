@@ -1,0 +1,1 @@
+(function(){var b="052ad3e03f5b",m="# Revelation 14:19 (New International Version)\nThe angel swung his sickle on the earth, gathered its grapes and threw them into the great winepress of God's wrath.[^A] \n\n### Crossrefs\n[^A]: [[Rev-19-15|Rev 19:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

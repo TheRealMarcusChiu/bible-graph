@@ -1,0 +1,1 @@
+(function(){var b="0e57f13a939f",m="# Matthew 10:12 (New International Version)\nAs you enter the home, give it your greeting.[^A] \n\n### Crossrefs\n[^A]: [[1Sam-25-6|1Sa 25:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="36f786755a52",m="# Mark 12:15 (New International Version)\nShould we pay or shouldn't we?\"\nBut Jesus knew their hypocrisy. \"Why are you trying to trap me?\" he asked. \"Bring me a denarius and let me look at it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

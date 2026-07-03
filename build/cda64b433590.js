@@ -1,0 +1,1 @@
+(function(){var b="cda64b433590",m="# Matthew 2:5 (New International Version)\n\"In Bethlehem[^A] in Judea,\" they replied, \"for this is what the prophet has written:\n\n### Crossrefs\n[^A]: [[John-7-42|Jn 7:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

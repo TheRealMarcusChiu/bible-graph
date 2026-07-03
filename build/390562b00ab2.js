@@ -1,0 +1,1 @@
+(function(){var b="390562b00ab2",m="# James 3:10 (New International Version)\nOut of the same mouth come praise and cursing. My brothers and sisters, this should not be.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

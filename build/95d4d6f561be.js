@@ -1,0 +1,1 @@
+(function(){var b="95d4d6f561be",m="# Exodus 15:5 (New International Version)\nThe deep waters[^A] have covered them;  \n    they sank to the depths like a stone.[^B]\n\n### Crossrefs\n[^A]: S [[Exod-14-28|Ex 14:28]]\n[^B]: [[Exod-15-10|ver 10]]; [[Neh-9-11|Ne 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

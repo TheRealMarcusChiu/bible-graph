@@ -1,0 +1,1 @@
+(function(){var b="81d3e2581daf",m="# Genesis 41:21 (New International Version)\nBut even after they ate them, no one could tell that they had done so; they looked just as ugly as before. Then I woke up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2daaeefa637d",m="# James 2:12 (New International Version)\nSpeak and act as those who are going to be judged[^A] by the law that gives freedom,[^B] \n\n### Crossrefs\n[^A]: S [[Matt-16-27|Mt 16:27]]\n[^B]: S [[Jas-1-25|Jas 1:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

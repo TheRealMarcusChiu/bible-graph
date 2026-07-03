@@ -1,0 +1,1 @@
+(function(){var b="a94ba8852ace",m="# Numbers 11:10 (New International Version)\nMoses heard the people of every family wailing[^A] at the entrance to their tents. The LORD became exceedingly angry, and Moses was troubled. \n\n### Crossrefs\n[^A]: [[Num-11-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

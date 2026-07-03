@@ -1,0 +1,1 @@
+(function(){var b="f5d3235ba2a0",m="# Acts 22:23 (New International Version)\nAs they were shouting and throwing off their cloaks[^A] and flinging dust into the air,[^B] \n\n### Crossrefs\n[^A]: [[Acts-7-58|Ac 7:58]]\n[^B]: [[2Sam-16-13|2Sa 16:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

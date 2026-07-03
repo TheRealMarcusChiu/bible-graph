@@ -1,0 +1,1 @@
+(function(){var b="6a06c15b39ed",m="# Mark 10:41 (New International Version)\nWhen the ten heard about this, they became indignant with James and John.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

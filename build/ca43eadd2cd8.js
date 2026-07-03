@@ -1,0 +1,1 @@
+(function(){var b="ca43eadd2cd8",m="# Genesis 10:31 (New International Version)\nThese are the sons of Shem by their clans and languages, in their territories and nations.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

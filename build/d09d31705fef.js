@@ -1,0 +1,1 @@
+(function(){var b="d09d31705fef",m="# Luke 13:20 (New International Version)\nAgain he asked, \"What shall I compare the kingdom of God to?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

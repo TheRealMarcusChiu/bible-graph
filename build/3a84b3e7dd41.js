@@ -1,0 +1,1 @@
+(function(){var b="3a84b3e7dd41",m="# Deuteronomy 2:2 (New International Version)\nThen the LORD said to me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b282eb58786f",m="# Mark 8:16 (New International Version)\nThey discussed this with one another and said, \"It is because we have no bread.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

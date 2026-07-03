@@ -1,0 +1,1 @@
+(function(){var b="34bfcda14b61",m="# Luke 4:8 (New International Version)\nJesus answered, \"It is written: 'Worship the Lord your God and serve him only.'\"[^A]\n\n### Crossrefs\n[^A]: [[Deut-6-13|Dt 6:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

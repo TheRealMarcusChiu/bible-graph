@@ -1,0 +1,1 @@
+(function(){var b="894780534808",m="# Numbers 6:4 (New International Version)\nAs long as they remain under their Nazirite vow, they must not eat anything that comes from the grapevine, not even the seeds or skins.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

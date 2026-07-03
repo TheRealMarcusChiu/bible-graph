@@ -1,0 +1,1 @@
+(function(){var b="8edf0bc16a71",m="# Mark 7:27 (New International Version)\n\"First let the children eat all they want,\" he told her, \"for it is not right to take the children's bread and toss it to the dogs.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

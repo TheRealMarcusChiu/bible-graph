@@ -1,0 +1,1 @@
+(function(){var b="032e529abbc9",m="# Mark 11:20 (New International Version)\nIn the morning, as they went along, they saw the fig tree withered from the roots.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

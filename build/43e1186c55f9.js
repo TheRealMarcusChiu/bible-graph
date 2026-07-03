@@ -1,0 +1,1 @@
+(function(){var b="43e1186c55f9",m="# 1 Timothy 1:6 (New International Version)\nSome have departed from these and have turned to meaningless talk.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

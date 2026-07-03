@@ -1,0 +1,1 @@
+(function(){var b="3c4a713a2709",m="# Genesis 27:3 (New International Version)\nNow then, get your equipment--your quiver and bow--and go out to the open country[^A] to hunt some wild game for me. \n\n### Crossrefs\n[^A]: S [[Gen-25-27|Ge 25:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

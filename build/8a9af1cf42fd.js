@@ -1,0 +1,1 @@
+(function(){var b="8a9af1cf42fd",m="# Luke 19:9 (New International Version)\nJesus said to him, \"Today salvation has come to this house, because this man, too, is a son of Abraham.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-3-8|Lk 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="84c9853e6524",m="# Luke 13:26 (New International Version)\n\"Then you will say, 'We ate and drank with you, and you taught in our streets.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

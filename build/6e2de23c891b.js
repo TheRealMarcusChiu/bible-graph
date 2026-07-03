@@ -1,0 +1,1 @@
+(function(){var b="6e2de23c891b",m="# Acts 27:19 (New International Version)\nOn the third day, they threw the ship's tackle overboard with their own hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

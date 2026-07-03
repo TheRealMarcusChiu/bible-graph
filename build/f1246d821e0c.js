@@ -1,0 +1,1 @@
+(function(){var b="f1246d821e0c",m="# Matthew 25:6 (New International Version)\n\"At midnight the cry rang out: 'Here's the bridegroom! Come out to meet him!'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

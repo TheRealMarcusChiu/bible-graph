@@ -1,0 +1,1 @@
+(function(){var b="628fb70c2443",m="# Joshua 10:26 (New International Version)\nThen Joshua put the kings to death and exposed their bodies on five poles, and they were left hanging on the poles until evening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="671908e254a4",m="# Luke 22:57 (New International Version)\nBut he denied it. \"Woman, I don't know him,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

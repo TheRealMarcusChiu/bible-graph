@@ -1,0 +1,1 @@
+(function(){var b="37ff4955b1fc",m="# Mark 4:4 (New International Version)\nAs he was scattering the seed, some fell along the path, and the birds came and ate it up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

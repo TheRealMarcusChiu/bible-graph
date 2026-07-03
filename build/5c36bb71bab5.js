@@ -1,0 +1,1 @@
+(function(){var b="5c36bb71bab5",m="# Acts 3:23 (New International Version)\nAnyone who does not listen to him will be completely cut off from their people.'[^A]\n\n### Crossrefs\n[^A]: [[Deut-18-19|Dt 18:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

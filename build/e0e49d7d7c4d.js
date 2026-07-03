@@ -1,0 +1,1 @@
+(function(){var b="e0e49d7d7c4d",m="# Exodus 36:10 (New International Version)\nThey joined five of the curtains together and did the same with the other five.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="828241812186",m="# Luke 2:3 (New International Version)\nAnd everyone went to their own town to register.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

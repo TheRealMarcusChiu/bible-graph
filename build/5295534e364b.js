@@ -1,0 +1,1 @@
+(function(){var b="5295534e364b",m="# Matthew 15\n\nJesus as Israel's Messiah -- his birth, the Sermon on the Mount, his death and resurrection, fulfilling the Scriptures.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

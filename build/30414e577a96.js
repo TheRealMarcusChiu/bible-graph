@@ -1,0 +1,1 @@
+(function(){var b="30414e577a96",m="# Acts 8:31 (New International Version)\n\"How can I,\" he said, \"unless someone explains it to me?\" So he invited Philip to come up and sit with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

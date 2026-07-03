@@ -1,0 +1,1 @@
+(function(){var b="553b7ddcb4ce",m="# Luke 22:70 (New International Version)\nThey all asked, \"Are you then the Son of God?\"[^A]\nHe replied, \"You say that I am.\"[^B]\n\n### Crossrefs\n[^A]: S [[Matt-4-3|Mt 4:3]]\n[^B]: [[Matt-27-11|Mt 27:11]]; [[Luke-23-3|Lk 23:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cd74363c1261",m="# James 2:3 (New International Version)\nIf you show special attention to the man wearing fine clothes and say, \"Here's a good seat for you,\" but say to the poor man, \"You stand there\" or \"Sit on the floor by my feet,\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="36d69c2bacd1",m="# Numbers 19:22 (New International Version)\nAnything that an unclean[^A] person touches becomes unclean, and anyone who touches it becomes unclean till evening.\"\n\n### Crossrefs\n[^A]: S [[Lev-5-2|Lev 5:2]]; [[Lev-15-4|15:4-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

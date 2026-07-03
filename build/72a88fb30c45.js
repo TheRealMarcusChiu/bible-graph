@@ -1,0 +1,1 @@
+(function(){var b="72a88fb30c45",m="# Matthew 25:43 (New International Version)\nI was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

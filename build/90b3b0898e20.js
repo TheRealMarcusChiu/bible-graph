@@ -1,0 +1,1 @@
+(function(){var b="90b3b0898e20",m="# Mark 1:33 (New International Version)\nThe whole town gathered at the door,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

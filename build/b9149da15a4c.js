@@ -1,0 +1,1 @@
+(function(){var b="b9149da15a4c",m="# Matthew 24:49 (New International Version)\nand he then begins to beat his fellow servants and to eat and drink with drunkards.[^A] \n\n### Crossrefs\n[^A]: [[Luke-21-34|Lk 21:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

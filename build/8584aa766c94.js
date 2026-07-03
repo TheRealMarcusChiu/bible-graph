@@ -1,0 +1,1 @@
+(function(){var b="8584aa766c94",m="# Genesis 41:24 (New International Version)\nThe thin heads of grain swallowed up the seven good heads. I told this to the magicians, but none of them could explain it to me.[^A]\"\n\n### Crossrefs\n[^A]: S [[Gen-41-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

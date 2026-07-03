@@ -1,0 +1,1 @@
+(function(){var b="b9eb5e475868",m="# 3 John 13 (New International Version)\nI have much to write you, but I do not want to do so with pen and ink.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dda0de746450",m="# Luke 18:30 (New International Version)\nwill fail to receive many times as much in this age, and in the age to come[^A] eternal life.\"[^B]\n\n### Crossrefs\n[^A]: S [[Matt-12-32|Mt 12:32]]\n[^B]: S [[Matt-25-46|Mt 25:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

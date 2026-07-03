@@ -1,0 +1,1 @@
+(function(){var b="92d3a57dee8d",m="# Mark 5:32 (New International Version)\nBut Jesus kept looking around to see who had done it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="25c9caefa9ff",m="# Mark 14:40 (New International Version)\nWhen he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

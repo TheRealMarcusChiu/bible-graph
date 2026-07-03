@@ -1,0 +1,1 @@
+(function(){var b="8008139e368a",m="# Genesis 6:19 (New International Version)\nYou are to bring into the ark two of all living creatures, male and female, to keep them alive with you.[^A] \n\n### Crossrefs\n[^A]: [[Gen-7-15|Ge 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

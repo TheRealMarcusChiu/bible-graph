@@ -1,0 +1,1 @@
+(function(){var b="8120c6b58969",m="# Leviticus 13:54 (New International Version)\nhe shall order that the spoiled article be washed. Then he is to isolate it for another seven days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

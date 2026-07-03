@@ -1,0 +1,1 @@
+(function(){var b="52e1b7181671",m="# Leviticus 25:45 (New International Version)\nYou may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

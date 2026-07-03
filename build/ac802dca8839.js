@@ -1,0 +1,1 @@
+(function(){var b="ac802dca8839",m="# Hebrews 11:15 (New International Version)\nIf they had been thinking of the country they had left, they would have had opportunity to return.[^A] \n\n### Crossrefs\n[^A]: [[Gen-24-6|Ge 24:6-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

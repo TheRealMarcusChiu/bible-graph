@@ -1,0 +1,1 @@
+(function(){var b="8f70072f1537",m="# Luke 10:7 (New International Version)\nStay there, eating and drinking whatever they give you, for the worker deserves his wages.[^A] Do not move around from house to house.\n\n### Crossrefs\n[^A]: S [[1Tim-5-18|1Ti 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

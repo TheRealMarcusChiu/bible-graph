@@ -1,0 +1,1 @@
+(function(){var b="49c17565654a",m="# Hebrews 12:13 (New International Version)\n\"Make level paths for your feet,\"[^A] so that the lame may not be disabled, but rather healed.[^B]\n\n### Crossrefs\n[^A]: [[Prov-4-26|Pr 4:26]]\n[^B]: [[Gal-6-1|Gal 6:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

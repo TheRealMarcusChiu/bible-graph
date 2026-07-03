@@ -1,0 +1,1 @@
+(function(){var b="d833b003c7a7",m="# Genesis 49:16 (New International Version)\n\"Dan[^A] will provide justice for his people  \n    as one of the tribes of Israel.[^B]\n\n### Crossrefs\n[^A]: [[Gen-30-6|Ge 30:6]]\n[^B]: S [[Gen-49-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

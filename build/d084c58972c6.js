@@ -1,0 +1,1 @@
+(function(){var b="d084c58972c6",m="# Joshua 15:2 (New International Version)\nTheir southern boundary started from the bay at the southern end of the Dead Sea,[^A] \n\n### Crossrefs\n[^A]: S [[Gen-14-3|Ge 14:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

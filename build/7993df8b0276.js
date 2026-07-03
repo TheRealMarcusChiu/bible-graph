@@ -1,0 +1,1 @@
+(function(){var b="7993df8b0276",m="# Exodus 26:10 (New International Version)\nMake fifty loops along the edge of the end curtain in one set and also along the edge of the end curtain in the other set.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

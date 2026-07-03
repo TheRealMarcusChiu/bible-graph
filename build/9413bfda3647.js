@@ -1,0 +1,1 @@
+(function(){var b="9413bfda3647",m="# Acts 4:18 (New International Version)\nThen they called them in again and commanded them not to speak or teach at all in the name of Jesus.[^A] \n\n### Crossrefs\n[^A]: [[Amos-7-13|Am 7:13]]; [[Acts-5-40|Ac 5:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

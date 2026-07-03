@@ -1,0 +1,1 @@
+(function(){var b="1dd0249d3e3b",m="# Matthew 26:43 (New International Version)\nWhen he came back, he again found them sleeping, because their eyes were heavy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

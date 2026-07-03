@@ -1,0 +1,1 @@
+(function(){var b="711bbc80e4fc",m="# 1 Peter 3:6 (New International Version)\nlike Sarah, who obeyed Abraham and called him her lord.[^A] You are her daughters if you do what is right and do not give way to fear.\n\n### Crossrefs\n[^A]: [[Gen-18-12|Ge 18:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

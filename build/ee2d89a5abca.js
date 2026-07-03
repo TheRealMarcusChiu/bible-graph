@@ -1,0 +1,1 @@
+(function(){var b="ee2d89a5abca",m="# Numbers 35:13 (New International Version)\nThese six towns you give will be your cities of refuge.[^A] \n\n### Crossrefs\n[^A]: [[Num-35-6|ver 6]], [[Num-35-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

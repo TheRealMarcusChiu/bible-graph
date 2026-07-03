@@ -1,0 +1,1 @@
+(function(){var b="32007ed49fe1",m="# Mark 4:7 (New International Version)\nOther seed fell among thorns, which grew up and choked the plants, so that they did not bear grain.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

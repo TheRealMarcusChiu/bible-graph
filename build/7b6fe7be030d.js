@@ -1,0 +1,1 @@
+(function(){var b="7b6fe7be030d",m="# John 17:7 (New International Version)\nNow they know that everything you have given me comes from you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

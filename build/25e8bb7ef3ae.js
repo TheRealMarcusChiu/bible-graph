@@ -1,0 +1,1 @@
+(function(){var b="25e8bb7ef3ae",m="# Luke 24:25 (New International Version)\nHe said to them, \"How foolish you are, and how slow to believe all that the prophets have spoken!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

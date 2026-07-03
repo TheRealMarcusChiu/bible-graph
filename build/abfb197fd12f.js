@@ -1,0 +1,1 @@
+(function(){var b="abfb197fd12f",m="# Luke 11:35 (New International Version)\nSee to it, then, that the light within you is not darkness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

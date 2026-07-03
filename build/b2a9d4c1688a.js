@@ -1,0 +1,1 @@
+(function(){var b="b2a9d4c1688a",m="# Leviticus 13:12 (New International Version)\n\"If the disease breaks out all over their skin and, so far as the priest can see, it covers all the skin of the affected person from head to foot,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

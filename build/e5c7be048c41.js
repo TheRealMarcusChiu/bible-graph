@@ -1,0 +1,1 @@
+(function(){var b="e5c7be048c41",m="# Joshua 10:32 (New International Version)\nThe LORD gave Lachish into Israel's hands, and Joshua took it on the second day. The city and everyone in it he put to the sword, just as he had done to Libnah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

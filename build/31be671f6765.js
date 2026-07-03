@@ -1,0 +1,1 @@
+(function(){var b="31be671f6765",m="# Ephesians 2:21 (New International Version)\nIn him the whole building is joined together and rises to become a holy temple[^A] in the Lord. \n\n### Crossrefs\n[^A]: [[1Cor-3-16|1Co 3:16]], [[1Cor-3-17|17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

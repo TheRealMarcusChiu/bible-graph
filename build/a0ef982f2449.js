@@ -1,0 +1,1 @@
+(function(){var b="a0ef982f2449",m="# Exodus 8:14 (New International Version)\nThey were piled into heaps, and the land reeked of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

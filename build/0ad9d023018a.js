@@ -1,0 +1,1 @@
+(function(){var b="0ad9d023018a",m="# Exodus 7:24 (New International Version)\nAnd all the Egyptians dug along the Nile to get drinking water[^A], because they could not drink the water of the river.\n\n### Crossrefs\n[^A]: S [[Exod-7-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

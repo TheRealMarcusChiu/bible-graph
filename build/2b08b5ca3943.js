@@ -1,0 +1,1 @@
+(function(){var b="2b08b5ca3943",m="# Joshua 15:27 (New International Version)\nHazar Gaddah, Heshmon, Beth Pelet,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

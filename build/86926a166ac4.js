@@ -1,0 +1,1 @@
+(function(){var b="86926a166ac4",m="# Genesis 9:24 (New International Version)\nWhen Noah awoke from his wine and found out what his youngest son had done to him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

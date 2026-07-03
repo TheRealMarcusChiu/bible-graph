@@ -1,0 +1,1 @@
+(function(){var b="5d0689d027e1",m="# Luke 2:35 (New International Version)\nso that the thoughts of many hearts will be revealed. And a sword will pierce your own soul too.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

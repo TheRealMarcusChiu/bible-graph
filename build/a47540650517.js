@@ -1,0 +1,1 @@
+(function(){var b="a47540650517",m="# Leviticus 22:28 (New International Version)\nDo not slaughter a cow or a sheep and its young on the same day.[^A]\n\n### Crossrefs\n[^A]: [[Deut-22-6|Dt 22:6]], [[Deut-22-7|7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

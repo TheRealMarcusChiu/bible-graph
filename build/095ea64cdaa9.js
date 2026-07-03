@@ -1,0 +1,1 @@
+(function(){var b="095ea64cdaa9",m="# Acts 8:7 (New International Version)\nFor with shrieks, impure spirits came out of many,[^A] and many who were paralyzed or lame were healed.[^B] \n\n### Crossrefs\n[^A]: S [[Mark-16-17|Mk 16:17]]\n[^B]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

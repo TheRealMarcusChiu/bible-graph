@@ -1,0 +1,1 @@
+(function(){var b="c0bb8ed91df9",m="# Luke 16:4 (New International Version)\nI know what I'll do so that, when I lose my job here, people will welcome me into their houses.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

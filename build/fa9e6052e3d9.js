@@ -1,0 +1,1 @@
+(function(){var b="fa9e6052e3d9",m="# Luke 20:24 (New International Version)\n\"Show me a denarius. Whose image and inscription are on it?\"\n\"Caesar's,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

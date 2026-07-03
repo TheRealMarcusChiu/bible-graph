@@ -1,0 +1,1 @@
+(function(){var b="7bf649b3b9d0",m="# 2 Timothy 2:13 (New International Version)\nif we are faithless,  \n    he remains faithful,[^A]  \n    for he cannot disown himself.\n\n### Crossrefs\n[^A]: [[Rom-3-3|Ro 3:3]]; S [[1Cor-1-9|1Co 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

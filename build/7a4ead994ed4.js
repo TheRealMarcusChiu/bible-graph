@@ -1,0 +1,1 @@
+(function(){var b="7a4ead994ed4",m="# Leviticus 13:57 (New International Version)\nBut if it reappears in the fabric, in the woven or knitted material, or in the leather article, it is a spreading mold; whatever has the mold must be burned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fe4354317dd8",m="# Genesis 36:36 (New International Version)\nWhen Hadad died, Samlah from Masrekah succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

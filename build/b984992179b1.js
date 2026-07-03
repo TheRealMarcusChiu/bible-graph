@@ -1,0 +1,1 @@
+(function(){var b="b984992179b1",m="# Acts 27:4 (New International Version)\nFrom there we put out to sea again and passed to the lee of Cyprus because the winds were against us.[^A] \n\n### Crossrefs\n[^A]: [[Acts-27-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd8522f27cce",m="# Numbers 23:4 (New International Version)\nGod met with him,[^A] and Balaam said, \"I have prepared seven altars, and on each altar I have offered a bull and a ram.\"\n\n### Crossrefs\n[^A]: [[Num-23-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="63172054cdc6",m="# Matthew 5:41 (New International Version)\nIf anyone forces you to go one mile, go with them two miles.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

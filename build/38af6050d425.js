@@ -1,0 +1,1 @@
+(function(){var b="38af6050d425",m="# John 18:7 (New International Version)\nAgain he asked them, \"Who is it you want?\"[^A]\n\"Jesus of Nazareth,\" they said.\n\n### Crossrefs\n[^A]: [[John-18-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

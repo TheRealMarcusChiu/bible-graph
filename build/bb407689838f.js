@@ -1,0 +1,1 @@
+(function(){var b="bb407689838f",m="# Romans 10:10 (New International Version)\nFor it is with your heart that you believe and are justified, and it is with your mouth that you profess your faith and are saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

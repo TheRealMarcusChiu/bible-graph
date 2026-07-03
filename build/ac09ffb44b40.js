@@ -1,0 +1,1 @@
+(function(){var b="ac09ffb44b40",m="# Genesis 37:15 (New International Version)\na man found him wandering around in the fields and asked him, \"What are you looking for?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

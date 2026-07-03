@@ -1,0 +1,1 @@
+(function(){var b="820657e8650f",m="# John 12:45 (New International Version)\nThe one who looks at me is seeing the one who sent me.[^A] \n\n### Crossrefs\n[^A]: S [[John-14-9|Jn 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

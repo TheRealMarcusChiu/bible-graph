@@ -1,0 +1,1 @@
+(function(){var b="44dd90d67432",m="# 2 Corinthians 8:8 (New International Version)\nI am not commanding you,[^A] but I want to test the sincerity of your love by comparing it with the earnestness of others. \n\n### Crossrefs\n[^A]: [[1Cor-7-6|1Co 7:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

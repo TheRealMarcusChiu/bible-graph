@@ -1,0 +1,1 @@
+(function(){var b="4fa50aaa1dce",m="# Mark 7:6 (New International Version)\nHe replied, \"Isaiah was right when he prophesied about you hypocrites; as it is written:\n\"'These people honor me with their lips,  \n    but their hearts are far from me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="662abb460d42",m="# Genesis 36:22 (New International Version)\nThe sons of Lotan:\nHori and Homam. Timna was Lotan's sister.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

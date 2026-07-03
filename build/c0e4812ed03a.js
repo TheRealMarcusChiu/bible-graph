@@ -1,1 +1,0 @@
-(function(){var b="c0e4812ed03a",m="# Infrastructure as Code\n\nNotes on Infrastructure as Code.\n\n## Linked notes\n\n- [[autoscaling — Tuning]]\n- [[Kubernetes — autoscaling]]\n- [[Service Mesh]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

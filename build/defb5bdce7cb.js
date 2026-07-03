@@ -1,0 +1,1 @@
+(function(){var b="defb5bdce7cb",m="# Hebrews 7:22 (New International Version)\nBecause of this oath, Jesus has become the guarantor of a better covenant.[^A]\n\n### Crossrefs\n[^A]: S [[Luke-22-20|Lk 22:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

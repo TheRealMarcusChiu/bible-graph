@@ -1,0 +1,1 @@
+(function(){var b="a05080155b73",m="# Numbers 8:2 (New International Version)\n\"Speak to Aaron and say to him, 'When you set up the lamps, see that all seven light up the area in front of the lampstand.[^A]'\"\n\n### Crossrefs\n[^A]: [[Exod-25-37|Ex 25:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

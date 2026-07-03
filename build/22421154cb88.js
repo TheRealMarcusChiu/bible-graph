@@ -1,0 +1,1 @@
+(function(){var b="22421154cb88",m="# John 12:5 (New International Version)\n\"Why wasn't this perfume sold and the money given to the poor? It was worth a year's wages.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

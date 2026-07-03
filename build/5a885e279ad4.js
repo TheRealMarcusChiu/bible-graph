@@ -1,0 +1,1 @@
+(function(){var b="5a885e279ad4",m="# Leviticus 21:14 (New International Version)\nHe must not marry a widow, a divorced woman, or a woman defiled by prostitution, but only a virgin from his own people,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

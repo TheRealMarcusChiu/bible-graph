@@ -1,0 +1,1 @@
+(function(){var b="9bd26ceaef5c",m="# Deuteronomy 23:11 (New International Version)\nBut as evening approaches he is to wash himself, and at sunset[^A] he may return to the camp.[^B]\n\n### Crossrefs\n[^A]: S [[Lev-15-16|Lev 15:16]]\n[^B]: [[1Sam-21-5|1Sa 21:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

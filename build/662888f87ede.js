@@ -1,0 +1,1 @@
+(function(){var b="662888f87ede",m="# Luke 11:45 (New International Version)\nOne of the experts in the law[^A] answered him, \"Teacher, when you say these things, you insult us also.\"\n\n### Crossrefs\n[^A]: S [[Matt-22-35|Mt 22:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

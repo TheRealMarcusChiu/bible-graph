@@ -1,0 +1,1 @@
+(function(){var b="d1a901d9bbb5",m="# Luke 7:42 (New International Version)\nNeither of them had the money to pay him back, so he forgave the debts of both. Now which of them will love him more?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

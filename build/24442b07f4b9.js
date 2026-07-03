@@ -1,0 +1,1 @@
+(function(){var b="24442b07f4b9",m="# Numbers 22:11 (New International Version)\n'A people that has come out of Egypt covers the face of the land. Now come and put a curse on them for me. Perhaps then I will be able to fight them and drive them away.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

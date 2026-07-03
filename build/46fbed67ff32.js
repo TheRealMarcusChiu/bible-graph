@@ -1,0 +1,1 @@
+(function(){var b="46fbed67ff32",m="# Luke 3:34 (New International Version)\nthe son of Jacob,\nthe son of Isaac, the son of Abraham,\nthe son of Terah, the son of Nahor,[^A]\n\n### Crossrefs\n[^A]: [[Gen-11-24|Ge 11:24]], [[Gen-11-26|26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

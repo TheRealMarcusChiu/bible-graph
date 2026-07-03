@@ -1,0 +1,1 @@
+(function(){var b="6fbfa4a41868",m="# Mark 14:11 (New International Version)\nThey were delighted to hear this and promised to give him money. So he watched for an opportunity to hand him over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

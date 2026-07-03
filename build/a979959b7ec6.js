@@ -1,0 +1,1 @@
+(function(){var b="a979959b7ec6",m="# Numbers 34:22 (New International Version)\nBukki son of Jogli,\nthe leader from the tribe of Dan;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

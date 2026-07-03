@@ -1,0 +1,1 @@
+(function(){var b="d8d897c41a3b",m="# Luke 14:5 (New International Version)\nThen he asked them, \"If one of you has a child or an ox that falls into a well on the Sabbath day, will you not immediately pull it out?\"[^A] \n\n### Crossrefs\n[^A]: [[Luke-13-15|Lk 13:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cd97d0fa1e10",m="# Acts 16:28 (New International Version)\nBut Paul shouted, \"Don't harm yourself! We are all here!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

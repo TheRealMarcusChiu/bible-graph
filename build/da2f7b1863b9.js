@@ -1,0 +1,1 @@
+(function(){var b="da2f7b1863b9",m="# Leviticus 7:29 (New International Version)\n\"Say to the Israelites: 'Anyone who brings a fellowship offering to the LORD is to bring part of it as their sacrifice to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

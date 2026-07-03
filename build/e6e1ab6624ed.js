@@ -1,0 +1,1 @@
+(function(){var b="e6e1ab6624ed",m="# Luke 4:37 (New International Version)\nAnd the news about him spread throughout the surrounding area.[^A]\n\n### Crossrefs\n[^A]: [[Luke-4-14|ver 14]]; S [[Matt-9-26|Mt 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

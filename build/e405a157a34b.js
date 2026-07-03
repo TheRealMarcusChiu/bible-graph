@@ -1,0 +1,1 @@
+(function(){var b="e405a157a34b",m="# Genesis 44:3 (New International Version)\nAs morning dawned, the men were sent on their way with their donkeys.[^A] \n\n### Crossrefs\n[^A]: [[Judg-19-9|Jdg 19:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

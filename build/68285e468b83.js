@@ -1,0 +1,1 @@
+(function(){var b="68285e468b83",m="# Hebrews 11:21 (New International Version)\nBy faith Jacob, when he was dying, blessed each of Joseph's sons,[^A] and worshiped as he leaned on the top of his staff.\n\n### Crossrefs\n[^A]: [[Gen-48-1|Ge 48:1]], [[Gen-48-8|8-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

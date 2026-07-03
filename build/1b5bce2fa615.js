@@ -1,0 +1,1 @@
+(function(){var b="1b5bce2fa615",m="# Genesis 5:13 (New International Version)\nAfter he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

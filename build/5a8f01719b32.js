@@ -1,0 +1,1 @@
+(function(){var b="5a8f01719b32",m="# John 6:21 (New International Version)\nThen they were willing to take him into the boat, and immediately the boat reached the shore where they were heading.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

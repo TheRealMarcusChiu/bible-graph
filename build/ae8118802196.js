@@ -1,0 +1,1 @@
+(function(){var b="ae8118802196",m="# Genesis 38:6 (New International Version)\nJudah got a wife for Er, his firstborn, and her name was Tamar.[^A] \n\n### Crossrefs\n[^A]: [[Gen-38-11|ver 11]], [[Gen-38-13|13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

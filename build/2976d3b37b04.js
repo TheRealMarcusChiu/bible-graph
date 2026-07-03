@@ -1,0 +1,1 @@
+(function(){var b="2976d3b37b04",m="# Joshua 1:16 (New International Version)\nThen they answered Joshua, \"Whatever you have commanded us we will do, and wherever you send us we will go.[^A] \n\n### Crossrefs\n[^A]: S [[Num-27-20|Nu 27:20]]; S [[Num-32-25|32:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

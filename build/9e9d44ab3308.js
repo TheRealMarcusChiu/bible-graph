@@ -1,0 +1,1 @@
+(function(){var b="9e9d44ab3308",m="# Luke 22:31 (New International Version)\n\"Simon, Simon, Satan has asked[^A] to sift all of you as wheat.[^B] \n\n### Crossrefs\n[^A]: [[Job-1-6|Job 1:6-12]]\n[^B]: [[Amos-9-9|Am 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

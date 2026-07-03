@@ -1,0 +1,1 @@
+(function(){var b="41492cf1c456",m="# Matthew 15:34 (New International Version)\n\"How many loaves do you have?\" Jesus asked.\n\"Seven,\" they replied, \"and a few small fish.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

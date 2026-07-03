@@ -1,0 +1,1 @@
+(function(){var b="6fd4f51b3daa",m="# Matthew 23:9 (New International Version)\nAnd do not call anyone on earth 'father,' for you have one Father,[^A] and he is in heaven. \n\n### Crossrefs\n[^A]: [[Mal-1-6|Mal 1:6]]; [[Matt-6-9|Mt 6:9]]; [[Matt-7-11|7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

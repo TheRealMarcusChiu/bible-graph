@@ -1,0 +1,1 @@
+(function(){var b="c16ce00d6b59",m="# 1 Timothy 5:6 (New International Version)\nBut the widow who lives for pleasure is dead even while she lives.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-15-24|Lk 15:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

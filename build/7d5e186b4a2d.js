@@ -1,0 +1,1 @@
+(function(){var b="7d5e186b4a2d",m="# Galatians 4:21 (New International Version)\nHagar and Sarah\nTell me, you who want to be under the law,[^A] are you not aware of what the law says? \n\n### Crossrefs\n[^A]: S [[Rom-2-12|Ro 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

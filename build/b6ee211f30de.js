@@ -1,0 +1,1 @@
+(function(){var b="b6ee211f30de",m="# Luke 23:20 (New International Version)\nWanting to release Jesus, Pilate appealed to them again.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

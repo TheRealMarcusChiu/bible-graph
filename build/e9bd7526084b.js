@@ -1,0 +1,1 @@
+(function(){var b="e9bd7526084b",m="# James 3:3 (New International Version)\nWhen we put bits into the mouths of horses to make them obey us, we can turn the whole animal.[^A] \n\n### Crossrefs\n[^A]: [[Ps-32-9|Ps 32:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

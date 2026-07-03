@@ -1,0 +1,1 @@
+(function(){var b="272fae3d327e",m="# Luke 21:3 (New International Version)\n\"Truly I tell you,\" he said, \"this poor widow has put in more than all the others.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

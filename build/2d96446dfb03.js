@@ -1,0 +1,1 @@
+(function(){var b="2d96446dfb03",m="# John 10:37 (New International Version)\nDo not believe me unless I do the works of my Father.[^A] \n\n### Crossrefs\n[^A]: [[John-10-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

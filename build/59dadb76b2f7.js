@@ -1,0 +1,1 @@
+(function(){var b="59dadb76b2f7",m="# Exodus 16:24 (New International Version)\nSo they saved it until morning, as Moses commanded, and it did not stink or get maggots in it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

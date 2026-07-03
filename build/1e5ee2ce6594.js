@@ -1,0 +1,1 @@
+(function(){var b="1e5ee2ce6594",m="# 2 Corinthians 8:20 (New International Version)\nWe want to avoid any criticism of the way we administer this liberal gift.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

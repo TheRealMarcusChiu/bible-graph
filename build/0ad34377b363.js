@@ -1,0 +1,1 @@
+(function(){var b="0ad34377b363",m="# Genesis 43:4 (New International Version)\nIf you will send our brother along with us, we will go down and buy food for you.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-42-2|Ge 42:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

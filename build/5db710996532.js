@@ -1,0 +1,1 @@
+(function(){var b="5db710996532",m="# Romans 13:10 (New International Version)\nLove does no harm to a neighbor. Therefore love is the fulfillment of the law.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-13-8|ver 8]]; [[Rom-13-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

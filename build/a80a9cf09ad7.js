@@ -1,0 +1,1 @@
+(function(){var b="a80a9cf09ad7",m="# Exodus 27:4 (New International Version)\nMake a grating for it, a bronze network, and make a bronze ring at each of the four corners of the network.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

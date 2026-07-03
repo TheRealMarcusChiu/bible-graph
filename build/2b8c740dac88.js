@@ -1,0 +1,1 @@
+(function(){var b="2b8c740dac88",m="# John 11:17 (New International Version)\nJesus Comforts the Sisters of Lazarus\nOn his arrival, Jesus found that Lazarus had already been in the tomb for four days.[^A] \n\n### Crossrefs\n[^A]: [[John-11-6|ver 6]], [[John-11-39|39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

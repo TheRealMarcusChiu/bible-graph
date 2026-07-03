@@ -1,0 +1,1 @@
+(function(){var b="aec76617acca",m="# Genesis 26:32 (New International Version)\nThat day Isaac's servants came and told him about the well[^A] they had dug. They said, \"We've found water!\" \n\n### Crossrefs\n[^A]: S [[Gen-21-30|Ge 21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

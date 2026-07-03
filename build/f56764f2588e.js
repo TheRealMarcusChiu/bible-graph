@@ -1,0 +1,1 @@
+(function(){var b="f56764f2588e",m="# Mark 15:35 (New International Version)\nWhen some of those standing near heard this, they said, \"Listen, he's calling Elijah.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

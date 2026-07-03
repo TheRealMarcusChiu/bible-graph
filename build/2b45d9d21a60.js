@@ -1,0 +1,1 @@
+(function(){var b="2b45d9d21a60",m="# Deuteronomy 14:3 (New International Version)\nDo not eat any detestable thing.[^A] \n\n### Crossrefs\n[^A]: [[Ezek-4-14|Eze 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

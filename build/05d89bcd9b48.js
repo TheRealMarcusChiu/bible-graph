@@ -1,0 +1,1 @@
+(function(){var b="05d89bcd9b48",m="# Matthew 27:15 (New International Version)\nNow it was the governor's custom at the festival to release a prisoner[^A] chosen by the crowd. \n\n### Crossrefs\n[^A]: [[John-18-39|Jn 18:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

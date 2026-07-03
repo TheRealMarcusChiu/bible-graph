@@ -1,0 +1,1 @@
+(function(){var b="91e04ce89c81",m="# Luke 3:25 (New International Version)\nthe son of Mattathias, the son of Amos,\nthe son of Nahum, the son of Esli,\nthe son of Naggai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

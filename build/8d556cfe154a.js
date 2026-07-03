@@ -1,0 +1,1 @@
+(function(){var b="8d556cfe154a",m="# Exodus 5:15 (New International Version)\nThen the Israelite overseers went and appealed to Pharaoh: \"Why have you treated your servants this way?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

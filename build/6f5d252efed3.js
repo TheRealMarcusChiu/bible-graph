@@ -1,0 +1,1 @@
+(function(){var b="6f5d252efed3",m="# Genesis 46:23 (New International Version)\nThe son of Dan:[^A]\nHushim.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-30-6|Ge 30:6]]\n[^B]: [[Num-26-42|Nu 26:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

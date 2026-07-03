@@ -1,0 +1,1 @@
+(function(){var b="ce83795b1803",m="# Joshua 16:4 (New International Version)\nSo Manasseh and Ephraim, the descendants of Joseph, received their inheritance.[^A]\n\n### Crossrefs\n[^A]: [[Josh-18-5|Jos 18:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

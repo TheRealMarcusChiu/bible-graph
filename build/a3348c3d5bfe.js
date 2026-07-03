@@ -1,0 +1,1 @@
+(function(){var b="a3348c3d5bfe",m="# John 12:28 (New International Version)\nFather, glorify your name!\"\nThen a voice came from heaven,[^A] \"I have glorified it, and will glorify it again.\" \n\n### Crossrefs\n[^A]: S [[Matt-3-17|Mt 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

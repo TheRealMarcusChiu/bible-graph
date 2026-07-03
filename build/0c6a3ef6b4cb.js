@@ -1,0 +1,1 @@
+(function(){var b="0c6a3ef6b4cb",m="# Acts 24:4 (New International Version)\nBut in order not to weary you further, I would request that you be kind enough to hear us briefly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

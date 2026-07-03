@@ -1,0 +1,1 @@
+(function(){var b="c377c38a0ba0",m="# Matthew 21:46 (New International Version)\nThey looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-21-11|ver 11]], [[Matt-21-26|26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

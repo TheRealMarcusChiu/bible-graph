@@ -1,0 +1,1 @@
+(function(){var b="72e5d4032bb5",m="# Judges 2:21 (New International Version)\nI will no longer drive out[^A] before them any of the nations Joshua left when he died. \n\n### Crossrefs\n[^A]: S [[Josh-23-5|Jos 23:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

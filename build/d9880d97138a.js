@@ -1,0 +1,1 @@
+(function(){var b="d9880d97138a",m="# Luke 12:29 (New International Version)\nAnd do not set your heart on what you will eat or drink; do not worry about it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

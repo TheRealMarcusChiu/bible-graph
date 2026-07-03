@@ -1,0 +1,1 @@
+(function(){var b="37d99c8ce250",m="# John 1:8 (New International Version)\nHe himself was not the light; he came only as a witness to the light.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bae1972fd49f",m="# Numbers 31:20 (New International Version)\nPurify every garment[^A] as well as everything made of leather, goat hair or wood.[^B]\"\n\n### Crossrefs\n[^A]: [[Num-19-19|Nu 19:19]]\n[^B]: S [[Lev-11-32|Lev 11:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

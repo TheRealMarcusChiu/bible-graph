@@ -1,0 +1,1 @@
+(function(){var b="1ae308a4ff4b",m="# Exodus 28:35 (New International Version)\nAaron must wear it when he ministers. The sound of the bells will be heard when he enters the Holy Place before the LORD and when he comes out, so that he will not die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

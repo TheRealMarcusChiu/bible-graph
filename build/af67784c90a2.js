@@ -1,0 +1,1 @@
+(function(){var b="af67784c90a2",m="# Luke 1:44 (New International Version)\nAs soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

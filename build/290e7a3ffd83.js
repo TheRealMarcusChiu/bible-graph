@@ -1,0 +1,1 @@
+(function(){var b="290e7a3ffd83",m="# John 9:4 (New International Version)\nAs long as it is day,[^A] we must do the works of him who sent me. Night is coming, when no one can work. \n\n### Crossrefs\n[^A]: [[John-11-9|Jn 11:9]]; [[John-12-35|12:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

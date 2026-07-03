@@ -1,0 +1,1 @@
+(function(){var b="dd9277db711b",m="# Luke 5:18 (New International Version)\nSome men came carrying a paralyzed man on a mat and tried to take him into the house to lay him before Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

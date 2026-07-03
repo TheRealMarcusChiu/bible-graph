@@ -1,0 +1,1 @@
+(function(){var b="993eee505fbf",m="# Exodus 30:11 (New International Version)\nAtonement Money\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="774fa771e00d",m="# Deuteronomy 5:19 (New International Version)\n\"You shall not steal.[^A]\n\n### Crossrefs\n[^A]: [[Lev-19-11|Lev 19:11]]; Mt 19:19*; Mk 10:19*; Lk 18:20*; Ro 13:9*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

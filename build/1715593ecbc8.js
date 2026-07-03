@@ -1,0 +1,1 @@
+(function(){var b="1715593ecbc8",m="# Genesis 44:6 (New International Version)\nWhen he caught up with them, he repeated these words to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

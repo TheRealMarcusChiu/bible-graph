@@ -1,0 +1,1 @@
+(function(){var b="599beb18818d",m="# Numbers 22:37 (New International Version)\nBalak said to Balaam, \"Did I not send you an urgent summons? Why didn't you come to me? Am I really not able to reward you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

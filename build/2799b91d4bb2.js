@@ -1,0 +1,1 @@
+(function(){var b="2799b91d4bb2",m="# Exodus 27:13 (New International Version)\nOn the east end, toward the sunrise, the courtyard shall also be fifty cubits wide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

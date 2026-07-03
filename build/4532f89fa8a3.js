@@ -1,0 +1,1 @@
+(function(){var b="4532f89fa8a3",m="# Hebrews 1:7 (New International Version)\nIn speaking of the angels he says,\n\"He makes his angels spirits,  \n    and his servants flames of fire.\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-104-4|Ps 104:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

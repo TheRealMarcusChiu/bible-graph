@@ -1,0 +1,1 @@
+(function(){var b="eb1a18977d7a",m="# James 5:10 (New International Version)\nBrothers and sisters, as an example of patience in the face of suffering, take the prophets[^A] who spoke in the name of the Lord. \n\n### Crossrefs\n[^A]: S [[Matt-5-12|Mt 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

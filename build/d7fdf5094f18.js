@@ -1,0 +1,1 @@
+(function(){var b="d7fdf5094f18",m="# Numbers 30:7 (New International Version)\nand her husband hears about it but says nothing to her, then her vows or the pledges by which she obligated herself will stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

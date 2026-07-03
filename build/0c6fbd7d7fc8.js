@@ -1,0 +1,1 @@
+(function(){var b="0c6fbd7d7fc8",m="# Judges 3:4 (New International Version)\nThey were left to test[^A] the Israelites to see whether they would obey the LORD's commands, which he had given their ancestors through Moses.\n\n### Crossrefs\n[^A]: S [[Exod-15-25|Ex 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

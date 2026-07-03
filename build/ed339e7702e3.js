@@ -1,0 +1,1 @@
+(function(){var b="ed339e7702e3",m="# Romans 11:6 (New International Version)\nAnd if by grace, then it cannot be based on works;[^A] if it were, grace would no longer be grace.\n\n### Crossrefs\n[^A]: [[Rom-4-4|Ro 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

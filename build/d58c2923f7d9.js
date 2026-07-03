@@ -1,0 +1,1 @@
+(function(){var b="d58c2923f7d9",m="# 1 Peter 3:2 (New International Version)\nwhen they see the purity and reverence of your lives.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d1c001aefd5d",m="# Numbers 26:61 (New International Version)\nBut Nadab and Abihu[^A] died when they made an offering before the LORD with unauthorized fire.)[^B]\n\n### Crossrefs\n[^A]: S [[Lev-10-1|Lev 10:1-2]]\n[^B]: [[Num-3-4|Nu 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

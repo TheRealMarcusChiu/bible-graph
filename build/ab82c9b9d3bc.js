@@ -1,0 +1,1 @@
+(function(){var b="ab82c9b9d3bc",m="# Matthew 27:55 (New International Version)\nMany women were there, watching from a distance. They had followed Jesus from Galilee to care for his needs.[^A] \n\n### Crossrefs\n[^A]: [[Luke-8-2|Lk 8:2]], [[Luke-8-3|3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

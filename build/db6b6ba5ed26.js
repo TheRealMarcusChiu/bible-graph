@@ -1,0 +1,1 @@
+(function(){var b="db6b6ba5ed26",m="# Exodus 37:19 (New International Version)\nThree cups shaped like almond flowers with buds and blossoms were on one branch, three on the next branch and the same for all six branches extending from the lampstand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

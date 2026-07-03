@@ -1,0 +1,1 @@
+(function(){var b="1bc895c94fed",m="# Luke 3:30 (New International Version)\nthe son of Simeon,\nthe son of Judah, the son of Joseph,\nthe son of Jonam, the son of Eliakim,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

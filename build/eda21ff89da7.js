@@ -1,0 +1,1 @@
+(function(){var b="eda21ff89da7",m="# John 19:15 (New International Version)\nBut they shouted, \"Take him away! Take him away! Crucify him!\"\n\"Shall I crucify your king?\" Pilate asked.\n\"We have no king but Caesar,\" the chief priests answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9157e6f6bc47",m="# Matthew 10:32 (New International Version)\n\"Whoever acknowledges me before others,[^A] I will also acknowledge before my Father in heaven. \n\n### Crossrefs\n[^A]: [[Rom-10-9|Ro 10:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

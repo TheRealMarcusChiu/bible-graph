@@ -1,0 +1,1 @@
+(function(){var b="f58862bb9957",m="# Leviticus 11:41 (New International Version)\n\"'Every creature that moves along the ground is to be regarded as unclean; it is not to be eaten.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

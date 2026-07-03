@@ -1,0 +1,1 @@
+(function(){var b="605ecef88954",m="# John 7:16 (New International Version)\nJesus answered, \"My teaching is not my own. It comes from the one who sent me.[^A] \n\n### Crossrefs\n[^A]: S [[John-14-24|Jn 14:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="846fdab354f7",m="# Luke 4:43 (New International Version)\nBut he said, \"I must proclaim the good news of the kingdom of God[^A] to the other towns also, because that is why I was sent.\" \n\n### Crossrefs\n[^A]: S [[Matt-3-2|Mt 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

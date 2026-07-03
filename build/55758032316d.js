@@ -1,0 +1,1 @@
+(function(){var b="55758032316d",m="# Exodus 35:14 (New International Version)\nthe lampstand[^A] that is for light with its accessories, lamps and oil for the light; \n\n### Crossrefs\n[^A]: S [[Exod-25-31|Ex 25:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

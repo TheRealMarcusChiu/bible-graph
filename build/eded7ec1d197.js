@@ -1,0 +1,1 @@
+(function(){var b="eded7ec1d197",m="# Numbers 30:15 (New International Version)\nIf, however, he nullifies them[^A] some time after he hears about them, then he must bear the consequences of her wrongdoing.\"\n\n### Crossrefs\n[^A]: S [[Num-30-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

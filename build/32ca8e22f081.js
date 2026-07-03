@@ -1,0 +1,1 @@
+(function(){var b="32ca8e22f081",m="# Mark 14:39 (New International Version)\nOnce more he went away and prayed the same thing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bca6804854fa",m="# Matthew 26:61 (New International Version)\nand declared, \"This fellow said, 'I am able to destroy the temple of God and rebuild it in three days.'\"[^A]\n\n### Crossrefs\n[^A]: S [[John-2-19|Jn 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

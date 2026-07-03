@@ -1,0 +1,1 @@
+(function(){var b="1f0ca3494550",m="# Leviticus 27:3 (New International Version)\nset the value of a male between the ages of twenty and sixty at fifty shekels of silver, according to the sanctuary shekel;[^A] \n\n### Crossrefs\n[^A]: S [[Exod-30-13|Ex 30:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f2ae7976b8c8",m="# Luke 14:3 (New International Version)\nJesus asked the Pharisees and experts in the law,[^A] \"Is it lawful to heal on the Sabbath or not?\"[^B] \n\n### Crossrefs\n[^A]: S [[Matt-22-35|Mt 22:35]]\n[^B]: S [[Matt-12-2|Mt 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8815001b71e4",m="# Genesis 12:12 (New International Version)\nWhen the Egyptians see you, they will say, 'This is his wife.' Then they will kill me but will let you live.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

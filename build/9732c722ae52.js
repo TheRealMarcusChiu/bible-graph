@@ -1,0 +1,1 @@
+(function(){var b="9732c722ae52",m="# Matthew 14:25 (New International Version)\nShortly before dawn Jesus went out to them, walking on the lake.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

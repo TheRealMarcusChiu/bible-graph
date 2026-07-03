@@ -1,0 +1,1 @@
+(function(){var b="627b2dfe71fb",m="# Exodus 32:2 (New International Version)\nAaron answered them, \"Take off the gold earrings[^A] that your wives, your sons and your daughters are wearing, and bring them to me.\" \n\n### Crossrefs\n[^A]: [[Judg-8-24|Jdg 8:24-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

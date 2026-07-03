@@ -1,0 +1,1 @@
+(function(){var b="fe0d9d8bfd1f",m="# Matthew 18:12 (New International Version)\n\"What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

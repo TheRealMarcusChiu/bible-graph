@@ -1,0 +1,1 @@
+(function(){var b="ea6280491dbf",m="# 1 Corinthians 15:18 (New International Version)\nThen those also who have fallen asleep[^A] in Christ are lost. \n\n### Crossrefs\n[^A]: [[1Cor-15-6|ver 6]], [[1Cor-15-20|20]]; S [[Matt-9-24|Mt 9:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

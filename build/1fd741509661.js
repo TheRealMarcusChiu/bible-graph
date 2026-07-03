@@ -1,0 +1,1 @@
+(function(){var b="1fd741509661",m="# Judges 3:22 (New International Version)\nEven the handle sank in after the blade, and his bowels discharged. Ehud did not pull the sword out, and the fat closed in over it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

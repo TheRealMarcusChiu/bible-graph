@@ -1,0 +1,1 @@
+(function(){var b="48ff1a41cafe",m="# Philemon 15 (New International Version)\nPerhaps the reason he was separated from you for a little while was that you might have him back forever--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

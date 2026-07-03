@@ -1,0 +1,1 @@
+(function(){var b="c05c5f3834ef",m="# Judges 6:40 (New International Version)\nThat night God did so. Only the fleece was dry; all the ground was covered with dew.[^A]\n\n### Crossrefs\n[^A]: [[Exod-4-3|Ex 4:3-7]]; [[Isa-38-7|Isa 38:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

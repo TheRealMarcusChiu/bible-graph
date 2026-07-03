@@ -1,0 +1,1 @@
+(function(){var b="d029d8be3f16",m="# 2 Corinthians 9:15 (New International Version)\nThanks be to God[^A] for his indescribable gift![^B]\n\n### Crossrefs\n[^A]: S [[2Cor-2-14|2Co 2:14]]\n[^B]: [[Rom-5-15|Ro 5:15]], [[Rom-5-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

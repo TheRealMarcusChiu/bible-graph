@@ -1,0 +1,1 @@
+(function(){var b="5e9cfbec2dec",m="# Genesis 43:13 (New International Version)\nTake your brother also and go back to the man at once.[^A] \n\n### Crossrefs\n[^A]: [[Gen-43-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

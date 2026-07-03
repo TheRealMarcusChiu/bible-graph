@@ -1,0 +1,1 @@
+(function(){var b="7b34940596d4",m="# Genesis 42:23 (New International Version)\nThey did not realize[^A] that Joseph could understand them,[^B] since he was using an interpreter.\n\n### Crossrefs\n[^A]: [[Gen-38-16|Ge 38:16]]\n[^B]: S [[Gen-11-7|Ge 11:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

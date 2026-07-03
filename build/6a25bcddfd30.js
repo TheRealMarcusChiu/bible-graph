@@ -1,0 +1,1 @@
+(function(){var b="6a25bcddfd30",m="# Exodus 36:20 (New International Version)\nThey made upright frames of acacia wood for the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

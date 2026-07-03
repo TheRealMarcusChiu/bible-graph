@@ -1,0 +1,1 @@
+(function(){var b="f870a3cb3e59",m="# Numbers 4:21 (New International Version)\nThe Gershonites\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

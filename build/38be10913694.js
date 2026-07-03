@@ -1,0 +1,1 @@
+(function(){var b="38be10913694",m="# Hebrews 13:22 (New International Version)\nBrothers and sisters, I urge you to bear with my word of exhortation, for in fact I have written to you quite briefly.[^A]\n\n### Crossrefs\n[^A]: [[1Pet-5-12|1Pe 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="320b12e57115",m="# Joshua 22:21 (New International Version)\nThen Reuben, Gad and the half-tribe of Manasseh replied to the heads of the clans of Israel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

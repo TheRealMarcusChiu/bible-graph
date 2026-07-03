@@ -1,0 +1,1 @@
+(function(){var b="8237276b3c83",m="# Deuteronomy 22:27 (New International Version)\nfor the man found the young woman out in the country, and though the betrothed woman screamed,[^A] there was no one to rescue her.\n\n### Crossrefs\n[^A]: S [[Gen-39-14|Ge 39:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

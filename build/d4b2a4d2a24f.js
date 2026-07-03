@@ -1,0 +1,1 @@
+(function(){var b="d4b2a4d2a24f",m="# Leviticus 25:44 (New International Version)\n\"'Your male and female slaves are to come from the nations around you; from them you may buy slaves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

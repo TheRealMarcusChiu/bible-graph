@@ -1,0 +1,1 @@
+(function(){var b="9b139d950ad6",m="# Luke 18:23 (New International Version)\nWhen he heard this, he became very sad, because he was very wealthy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

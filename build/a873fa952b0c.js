@@ -1,0 +1,1 @@
+(function(){var b="a873fa952b0c",m="# Luke 24:4 (New International Version)\nWhile they were wondering about this, suddenly two men in clothes that gleamed like lightning[^A] stood beside them. \n\n### Crossrefs\n[^A]: S [[John-20-12|Jn 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

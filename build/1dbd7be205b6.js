@@ -1,0 +1,1 @@
+(function(){var b="1dbd7be205b6",m="# Genesis 34:11 (New International Version)\nThen Shechem said to Dinah's father and brothers, \"Let me find favor in your eyes,[^A] and I will give you whatever you ask. \n\n### Crossrefs\n[^A]: S [[Gen-32-5|Ge 32:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

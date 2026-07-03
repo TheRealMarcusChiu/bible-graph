@@ -1,0 +1,1 @@
+(function(){var b="12009031b4a2",m="# Revelation 6:7 (New International Version)\nWhen the Lamb opened the fourth seal, I heard the voice of the fourth living creature[^A] say, \"Come!\" \n\n### Crossrefs\n[^A]: [[Rev-4-7|Rev 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

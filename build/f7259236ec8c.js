@@ -1,0 +1,1 @@
+(function(){var b="f7259236ec8c",m="# Numbers 16:43 (New International Version)\nThen Moses and Aaron went to the front of the tent of meeting,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

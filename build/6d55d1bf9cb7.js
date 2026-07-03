@@ -1,0 +1,1 @@
+(function(){var b="6d55d1bf9cb7",m="# John 11:35 (New International Version)\nJesus wept.[^A]\n\n### Crossrefs\n[^A]: [[Luke-19-41|Lk 19:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

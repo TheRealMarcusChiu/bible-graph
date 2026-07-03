@@ -1,0 +1,1 @@
+(function(){var b="685299ba021f",m="# Acts 9:5 (New International Version)\n\"Who are you, Lord?\" Saul asked.\n\"I am Jesus, whom you are persecuting,\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

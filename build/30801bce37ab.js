@@ -1,0 +1,1 @@
+(function(){var b="30801bce37ab",m="# Deuteronomy 5:18 (New International Version)\n\"You shall not commit adultery.[^A]\n\n### Crossrefs\n[^A]: [[Lev-20-10|Lev 20:10]]; [[Matt-5-27|Mt 5:27-30]]; 19:18*; Mk 10:19*; Lk 18:20*; Ro 13:9*; Jas 2:11*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

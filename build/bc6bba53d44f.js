@@ -1,0 +1,1 @@
+(function(){var b="bc6bba53d44f",m="# Matthew 25:26 (New International Version)\n\"His master replied, 'You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

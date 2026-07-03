@@ -1,0 +1,1 @@
+(function(){var b="68a8f8ff97d5",m="# Exodus 39:20 (New International Version)\nThen they made two more gold rings and attached them to the bottom of the shoulder pieces on the front of the ephod, close to the seam just above the waistband of the ephod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

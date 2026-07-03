@@ -1,0 +1,1 @@
+(function(){var b="15dee419b707",m="# Luke 6:14 (New International Version)\nSimon (whom he named Peter), his brother Andrew, James, John, Philip, Bartholomew,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

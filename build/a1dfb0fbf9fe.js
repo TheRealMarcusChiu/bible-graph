@@ -1,0 +1,1 @@
+(function(){var b="a1dfb0fbf9fe",m="# Exodus 26:4 (New International Version)\nMake loops of blue material along the edge of the end curtain in one set, and do the same with the end curtain in the other set.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

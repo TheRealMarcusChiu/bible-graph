@@ -1,0 +1,1 @@
+(function(){var b="532ae8e550d8",m="# Matthew 20:6 (New International Version)\nAbout five in the afternoon he went out and found still others standing around. He asked them, 'Why have you been standing here all day long doing nothing?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

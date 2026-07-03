@@ -1,0 +1,1 @@
+(function(){var b="5d2eebfb0e4f",m="# Deuteronomy 32:37 (New International Version)\nHe will say: \"Now where are their gods,  \n    the rock they took refuge in,[^A]\n\n### Crossrefs\n[^A]: [[Judg-10-14|Jdg 10:14]]; [[Jer-2-28|Jer 2:28]]; [[Jer-11-12|11:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

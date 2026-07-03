@@ -1,0 +1,1 @@
+(function(){var b="8f8724d21f5d",m="# 1 Corinthians 6:4 (New International Version)\nTherefore, if you have disputes about such matters, do you ask for a ruling from those whose way of life is scorned in the church?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

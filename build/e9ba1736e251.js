@@ -1,0 +1,1 @@
+(function(){var b="e9ba1736e251",m="# Luke 14:17 (New International Version)\nAt the time of the banquet he sent his servant to tell those who had been invited, 'Come, for everything is now ready.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

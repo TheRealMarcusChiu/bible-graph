@@ -1,0 +1,1 @@
+(function(){var b="3f6ebd93aa55",m="# Leviticus 2:6 (New International Version)\nCrumble it and pour oil on it; it is a grain offering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

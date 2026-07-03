@@ -1,0 +1,1 @@
+(function(){var b="ca2d66cd1713",m="# Matthew 20:34 (New International Version)\nJesus had compassion on them and touched their eyes. Immediately they received their sight and followed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="565faaf297a5",m="# 1 Corinthians 15:29 (New International Version)\nNow if there is no resurrection, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

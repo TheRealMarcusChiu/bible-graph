@@ -1,0 +1,1 @@
+(function(){var b="391e8b89b908",m="# Luke 11:6 (New International Version)\na friend of mine on a journey has come to me, and I have no food to offer him.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

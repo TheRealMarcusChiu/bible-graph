@@ -1,0 +1,1 @@
+(function(){var b="d276f41fc267",m="# Deuteronomy 11:20 (New International Version)\nWrite them on the doorframes of your houses and on your gates,[^A] \n\n### Crossrefs\n[^A]: [[Deut-6-9|Dt 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

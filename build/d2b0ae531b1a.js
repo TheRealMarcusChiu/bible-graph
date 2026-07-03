@@ -1,0 +1,1 @@
+(function(){var b="d2b0ae531b1a",m="# Exodus 24:9 (New International Version)\nMoses and Aaron, Nadab and Abihu, and the seventy elders[^A] of Israel went up \n\n### Crossrefs\n[^A]: S [[Exod-24-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

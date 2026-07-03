@@ -1,0 +1,1 @@
+(function(){var b="3c9f81da4ba7",m="# Joshua 19:4 (New International Version)\nEltolad,[^A] Bethul, Hormah,[^B] \n\n### Crossrefs\n[^A]: [[Josh-15-30|Jos 15:30]]\n[^B]: S [[Num-14-45|Nu 14:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

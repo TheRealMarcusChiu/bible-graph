@@ -1,0 +1,1 @@
+(function(){var b="9d884931c255",m="# James 2:21 (New International Version)\nWas not our father Abraham considered righteous for what he did when he offered his son Isaac on the altar?[^A] \n\n### Crossrefs\n[^A]: [[Gen-22-9|Ge 22:9]], [[Gen-22-12|12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

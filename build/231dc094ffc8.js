@@ -1,0 +1,1 @@
+(function(){var b="231dc094ffc8",m="# Luke 6:32 (New International Version)\n\"If you love those who love you, what credit is that to you?[^A] Even sinners love those who love them. \n\n### Crossrefs\n[^A]: [[Matt-5-46|Mt 5:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

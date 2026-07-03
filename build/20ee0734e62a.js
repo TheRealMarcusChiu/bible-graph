@@ -1,0 +1,1 @@
+(function(){var b="20ee0734e62a",m="# Numbers 22:30 (New International Version)\nThe donkey said to Balaam, \"Am I not your own donkey, which you have always ridden, to this day? Have I been in the habit of doing this to you?\"\n\"No,\" he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

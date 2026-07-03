@@ -1,0 +1,1 @@
+(function(){var b="0ea30f43be79",m="# Numbers 10:28 (New International Version)\nThis was the order of march for the Israelite divisions as they set out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

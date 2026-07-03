@@ -1,0 +1,1 @@
+(function(){var b="8561e0ea27da",m="# Genesis 21:11 (New International Version)\nThe matter distressed Abraham greatly because it concerned his son.[^A] \n\n### Crossrefs\n[^A]: [[Gen-17-18|Ge 17:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

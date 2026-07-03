@@ -1,0 +1,1 @@
+(function(){var b="303ebff207b5",m="# Joshua 10:42 (New International Version)\nAll these kings and their lands Joshua conquered in one campaign, because the LORD, the God of Israel, fought[^A] for Israel.\n\n### Crossrefs\n[^A]: S [[Josh-10-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

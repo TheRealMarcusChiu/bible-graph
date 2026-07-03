@@ -1,0 +1,1 @@
+(function(){var b="16d24c43b0d6",m="# Matthew 28:8 (New International Version)\nSo the women hurried away from the tomb, afraid yet filled with joy, and ran to tell his disciples.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

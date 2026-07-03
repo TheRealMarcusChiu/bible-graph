@@ -1,0 +1,1 @@
+(function(){var b="a38d5c0bb0b5",m="# Genesis 30:7 (New International Version)\nRachel's servant Bilhah[^A] conceived again and bore Jacob a second son. \n\n### Crossrefs\n[^A]: S [[Gen-30-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

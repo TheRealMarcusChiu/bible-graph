@@ -1,0 +1,1 @@
+(function(){var b="88268c50b51f",m="# Luke 22:18 (New International Version)\nFor I tell you I will not drink again from the fruit of the vine until the kingdom of God comes.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

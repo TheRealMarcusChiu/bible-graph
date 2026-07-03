@@ -1,0 +1,1 @@
+(function(){var b="38d064902f2a",m="# Exodus 32:18 (New International Version)\nMoses replied:\n\"It is not the sound of victory,  \n    it is not the sound of defeat;  \n    it is the sound of singing that I hear.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

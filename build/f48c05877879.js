@@ -1,0 +1,1 @@
+(function(){var b="f48c05877879",m="# Acts 19:19 (New International Version)\nA number who had practiced sorcery brought their scrolls together and burned them publicly. When they calculated the value of the scrolls, the total came to fifty thousand drachmas.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

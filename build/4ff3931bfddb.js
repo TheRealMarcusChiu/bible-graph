@@ -1,0 +1,1 @@
+(function(){var b="4ff3931bfddb",m="# Galatians 4:20 (New International Version)\nhow I wish I could be with you now and change my tone, because I am perplexed about you!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

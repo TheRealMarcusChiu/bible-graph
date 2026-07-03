@@ -1,0 +1,1 @@
+(function(){var b="58a01ae5207e",m="# Luke 11:50 (New International Version)\nTherefore this generation will be held responsible for the blood of all the prophets that has been shed since the beginning of the world,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

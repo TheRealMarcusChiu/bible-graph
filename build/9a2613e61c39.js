@@ -1,0 +1,1 @@
+(function(){var b="9a2613e61c39",m="# 2 Peter 3:14 (New International Version)\nSo then, dear friends, since you are looking forward to this, make every effort to be found spotless, blameless[^A] and at peace with him. \n\n### Crossrefs\n[^A]: S [[1Thess-3-13|1Th 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

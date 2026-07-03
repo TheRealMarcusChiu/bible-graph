@@ -1,0 +1,1 @@
+(function(){var b="43edac228051",m="# Matthew 22:22 (New International Version)\nWhen they heard this, they were amazed. So they left him and went away.[^A]\n\n### Crossrefs\n[^A]: [[Mark-12-12|Mk 12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

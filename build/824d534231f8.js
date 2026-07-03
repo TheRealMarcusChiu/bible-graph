@@ -1,0 +1,1 @@
+(function(){var b="824d534231f8",m="# Numbers 6:8 (New International Version)\nThroughout the period of their dedication, they are consecrated to the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

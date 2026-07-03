@@ -1,0 +1,1 @@
+(function(){var b="9e477986fe3a",m="# Acts 26:27 (New International Version)\nKing Agrippa, do you believe the prophets? I know you do.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

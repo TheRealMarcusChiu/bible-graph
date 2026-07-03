@@ -1,0 +1,1 @@
+(function(){var b="3594ea66663b",m="# Joshua 24:5 (New International Version)\n\"'Then I sent Moses and Aaron,[^A] and I afflicted the Egyptians by what I did there, and I brought you out.[^B] \n\n### Crossrefs\n[^A]: S [[Exod-3-10|Ex 3:10]]\n[^B]: [[Exod-12-51|Ex 12:51]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

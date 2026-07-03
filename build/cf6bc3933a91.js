@@ -1,0 +1,1 @@
+(function(){var b="cf6bc3933a91",m="# John 5:7 (New International Version)\n\"Sir,\" the invalid replied, \"I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else goes down ahead of me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

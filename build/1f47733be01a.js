@@ -1,0 +1,1 @@
+(function(){var b="1f47733be01a",m="# Luke 14:16 (New International Version)\nJesus replied: \"A certain man was preparing a great banquet and invited many guests.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

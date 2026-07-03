@@ -1,0 +1,1 @@
+(function(){var b="6c9cd5b22e5d",m="# Deuteronomy 2:6 (New International Version)\nYou are to pay them in silver for the food you eat and the water you drink.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

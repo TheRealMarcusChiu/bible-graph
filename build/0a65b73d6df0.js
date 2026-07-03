@@ -1,0 +1,1 @@
+(function(){var b="0a65b73d6df0",m="# Genesis 45:20 (New International Version)\nNever mind about your belongings,[^A] because the best of all Egypt[^B] will be yours.'\"\n\n### Crossrefs\n[^A]: [[Gen-46-6|Ge 46:6]], [[Gen-46-32|32]]\n[^B]: S [[Gen-45-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

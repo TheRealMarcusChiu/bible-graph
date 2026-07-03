@@ -1,0 +1,1 @@
+(function(){var b="970aa2a5a080",m="# Matthew 28:13 (New International Version)\ntelling them, \"You are to say, 'His disciples came during the night and stole him away[^A] while we were asleep.' \n\n### Crossrefs\n[^A]: [[Matt-27-64|Mt 27:64]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

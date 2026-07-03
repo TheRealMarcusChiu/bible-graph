@@ -1,0 +1,1 @@
+(function(){var b="357d08cac7d9",m="# Numbers 31:46 (New International Version)\nand 16,000 people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

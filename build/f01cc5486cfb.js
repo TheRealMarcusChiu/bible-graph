@@ -1,0 +1,1 @@
+(function(){var b="f01cc5486cfb",m="# Genesis 7:10 (New International Version)\nAnd after the seven days[^A] the floodwaters came on the earth.\n\n### Crossrefs\n[^A]: S [[Gen-7-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

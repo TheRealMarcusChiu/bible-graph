@@ -1,0 +1,1 @@
+(function(){var b="55acabbd7839",m="# Exodus 35:6 (New International Version)\nblue, purple and scarlet yarn and fine linen; goat hair;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

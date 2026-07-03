@@ -1,0 +1,1 @@
+(function(){var b="78ce0b8996ba",m="# 1 Corinthians 12:20 (New International Version)\nAs it is, there are many parts, but one body.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-12-12|ver 12]], [[1Cor-12-14|14]]; S [[Rom-12-5|Ro 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

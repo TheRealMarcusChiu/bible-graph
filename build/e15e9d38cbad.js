@@ -1,0 +1,1 @@
+(function(){var b="e15e9d38cbad",m="# Matthew 22:19 (New International Version)\nShow me the coin used for paying the tax.\" They brought him a denarius,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

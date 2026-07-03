@@ -1,0 +1,1 @@
+(function(){var b="51c7f3942a18",m="# Luke 10:6 (New International Version)\nIf someone who promotes peace is there, your peace will rest on them; if not, it will return to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="afa3885f155d",m="# Deuteronomy 26:1 (New International Version)\nFirstfruits and Tithes\nWhen you have entered the land the LORD your God is giving you as an inheritance and have taken possession of it and settled in it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

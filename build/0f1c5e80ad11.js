@@ -1,0 +1,1 @@
+(function(){var b="0f1c5e80ad11",m="# Matthew 25:16 (New International Version)\nThe man who had received five bags of gold went at once and put his money to work and gained five bags more.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

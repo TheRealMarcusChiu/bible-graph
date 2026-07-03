@@ -1,0 +1,1 @@
+(function(){var b="a100544876c3",m="# John 10:7 (New International Version)\nTherefore Jesus said again, \"Very truly I tell you, I am[^A] the gate[^B] for the sheep. \n\n### Crossrefs\n[^A]: S [[John-6-35|Jn 6:35]]\n[^B]: [[John-10-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="67dca37036e5",m="# Leviticus 23:19 (New International Version)\nThen sacrifice one male goat for a sin offering and two lambs, each a year old, for a fellowship offering.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

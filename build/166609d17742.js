@@ -1,0 +1,1 @@
+(function(){var b="166609d17742",m="# 1 Corinthians 7:2 (New International Version)\nBut since sexual immorality is occurring, each man should have sexual relations with his own wife, and each woman with her own husband.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

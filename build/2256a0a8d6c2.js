@@ -1,0 +1,1 @@
+(function(){var b="2256a0a8d6c2",m="# John 9:15 (New International Version)\nTherefore the Pharisees also asked him how he had received his sight.[^A] \"He put mud on my eyes,\" the man replied, \"and I washed, and now I see.\"\n\n### Crossrefs\n[^A]: [[John-9-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

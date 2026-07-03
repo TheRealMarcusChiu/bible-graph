@@ -1,0 +1,1 @@
+(function(){var b="ae657355364e",m="# Matthew 8:24 (New International Version)\nSuddenly a furious storm came up on the lake, so that the waves swept over the boat. But Jesus was sleeping.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

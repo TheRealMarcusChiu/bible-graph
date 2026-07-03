@@ -1,0 +1,1 @@
+(function(){var b="0a529beff459",m="# Numbers 33:18 (New International Version)\nThey left Hazeroth and camped at Rithmah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

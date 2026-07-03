@@ -1,0 +1,1 @@
+(function(){var b="cac73a119973",m="# Joshua 17:8 (New International Version)\n(Manasseh had the land of Tappuah, but Tappuah[^A] itself, on the boundary of Manasseh, belonged to the Ephraimites.) \n\n### Crossrefs\n[^A]: S [[Josh-12-17|Jos 12:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

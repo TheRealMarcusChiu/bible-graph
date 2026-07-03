@@ -1,0 +1,1 @@
+(function(){var b="e744b849b0aa",m="# Genesis 11:16 (New International Version)\nWhen Eber had lived 34 years, he became the father of Peleg.[^A] \n\n### Crossrefs\n[^A]: [[Luke-3-35|Lk 3:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

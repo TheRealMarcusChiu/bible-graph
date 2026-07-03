@@ -1,0 +1,1 @@
+(function(){var b="033a8b764afe",m="# Leviticus 15:9 (New International Version)\n\"'Everything the man sits on when riding will be unclean,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

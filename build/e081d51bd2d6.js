@@ -1,0 +1,1 @@
+(function(){var b="e081d51bd2d6",m="# Matthew 26:10 (New International Version)\nAware of this, Jesus said to them, \"Why are you bothering this woman? She has done a beautiful thing to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

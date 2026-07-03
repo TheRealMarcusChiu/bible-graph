@@ -1,0 +1,1 @@
+(function(){var b="d5a4344d9d6c",m="# Exodus 14:1 (New International Version)\nThen the LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

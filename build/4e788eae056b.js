@@ -1,0 +1,1 @@
+(function(){var b="4e788eae056b",m="# Joshua 1:10 (New International Version)\nSo Joshua ordered the officers of the people:[^A] \n\n### Crossrefs\n[^A]: S [[Deut-1-15|Dt 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

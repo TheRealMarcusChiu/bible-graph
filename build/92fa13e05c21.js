@@ -1,0 +1,1 @@
+(function(){var b="92fa13e05c21",m="# Genesis 5:25 (New International Version)\nWhen Methuselah had lived 187 years, he became the father of Lamech.[^A] \n\n### Crossrefs\n[^A]: [[1Chr-1-3|1Ch 1:3]]; [[Luke-3-36|Lk 3:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

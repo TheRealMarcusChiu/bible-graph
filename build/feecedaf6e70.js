@@ -1,0 +1,1 @@
+(function(){var b="feecedaf6e70",m="# Numbers 26:56 (New International Version)\nEach inheritance is to be distributed by lot among the larger and smaller groups.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

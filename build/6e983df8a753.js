@@ -1,0 +1,1 @@
+(function(){var b="6e983df8a753",m="# Exodus 36:13 (New International Version)\nThen they made fifty gold clasps and used them to fasten the two sets of curtains together so that the tabernacle was a unit.[^A]\n\n### Crossrefs\n[^A]: [[Exod-36-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

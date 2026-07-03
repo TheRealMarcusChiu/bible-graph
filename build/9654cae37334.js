@@ -1,0 +1,1 @@
+(function(){var b="9654cae37334",m="# Genesis 5:30 (New International Version)\nAfter Noah was born, Lamech lived 595 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="64bbd727871c",m="# Mark 14:37 (New International Version)\nThen he returned to his disciples and found them sleeping. \"Simon,\" he said to Peter, \"are you asleep? Couldn't you keep watch for one hour?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4d9f64fc31c9",m="# Numbers 7:41 (New International Version)\nand two oxen, five rams, five male goats and five male lambs a year old to be sacrificed as a fellowship offering. This was the offering of Shelumiel son of Zurishaddai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

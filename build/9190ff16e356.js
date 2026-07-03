@@ -1,0 +1,1 @@
+(function(){var b="9190ff16e356",m="# Exodus 35:10 (New International Version)\n\"All who are skilled among you are to come and make everything the LORD has commanded:[^A] \n\n### Crossrefs\n[^A]: [[Exod-31-6|Ex 31:6]]; [[Exod-39-43|39:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

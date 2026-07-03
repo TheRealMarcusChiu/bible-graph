@@ -1,0 +1,1 @@
+(function(){var b="fd7a2d266677",m="# John 5:43 (New International Version)\nI have come in my Father's name, and you do not accept me; but if someone else comes in his own name, you will accept him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

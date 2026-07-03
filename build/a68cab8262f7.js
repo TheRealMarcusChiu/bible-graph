@@ -1,0 +1,1 @@
+(function(){var b="a68cab8262f7",m="# Matthew 11:4 (New International Version)\nJesus replied, \"Go back and report to John what you hear and see:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

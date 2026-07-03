@@ -1,0 +1,1 @@
+(function(){var b="eb386fdf5d31",m="# Exodus 2:6 (New International Version)\nShe opened it and saw the baby. He was crying, and she felt sorry for him. \"This is one of the Hebrew babies,\" she said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

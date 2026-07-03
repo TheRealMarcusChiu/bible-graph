@@ -1,0 +1,1 @@
+(function(){var b="dae330f63d0a",m="# Luke 9:42 (New International Version)\nEven while the boy was coming, the demon threw him to the ground in a convulsion. But Jesus rebuked the impure spirit, healed the boy and gave him back to his father.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

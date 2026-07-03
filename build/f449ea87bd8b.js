@@ -1,0 +1,1 @@
+(function(){var b="f449ea87bd8b",m="# Mark 1:32 (New International Version)\nThat evening after sunset the people brought to Jesus all the sick and demon-possessed.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-4-24|Mt 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8ac9b69531b5",m="# Exodus 7:23 (New International Version)\nInstead, he turned and went into his palace, and did not take even this to heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4d4278afc8cc",m="# Mark 11:6 (New International Version)\nThey answered as Jesus had told them to, and the people let them go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

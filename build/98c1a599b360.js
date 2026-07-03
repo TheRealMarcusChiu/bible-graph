@@ -1,0 +1,1 @@
+(function(){var b="98c1a599b360",m="# Genesis 42:8 (New International Version)\nAlthough Joseph recognized his brothers, they did not recognize him.[^A] \n\n### Crossrefs\n[^A]: [[Gen-37-2|Ge 37:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d074e2e549d",m="# Acts 3:5 (New International Version)\nSo the man gave them his attention, expecting to get something from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

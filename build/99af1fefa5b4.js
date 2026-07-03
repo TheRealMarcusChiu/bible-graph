@@ -1,0 +1,1 @@
+(function(){var b="99af1fefa5b4",m="# Genesis 41:20 (New International Version)\nThe lean, ugly cows ate up the seven fat cows that came up first.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

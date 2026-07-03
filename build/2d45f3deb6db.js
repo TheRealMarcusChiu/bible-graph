@@ -1,0 +1,1 @@
+(function(){var b="2d45f3deb6db",m="# Genesis 10:26 (New International Version)\nJoktan was the father of\nAlmodad, Sheleph, Hazarmaveth, Jerah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

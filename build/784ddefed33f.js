@@ -1,0 +1,1 @@
+(function(){var b="784ddefed33f",m="# Colossians 3:21 (New International Version)\nFathers, do not embitter your children, or they will become discouraged.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

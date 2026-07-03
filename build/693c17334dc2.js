@@ -1,0 +1,1 @@
+(function(){var b="693c17334dc2",m="# Luke 8:12 (New International Version)\nThose along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

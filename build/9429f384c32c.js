@@ -1,0 +1,1 @@
+(function(){var b="9429f384c32c",m="# Romans 6:15 (New International Version)\nSlaves to Righteousness\nWhat then? Shall we sin because we are not under the law but under grace?[^A] By no means! \n\n### Crossrefs\n[^A]: [[Rom-6-1|ver 1]], [[Rom-6-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

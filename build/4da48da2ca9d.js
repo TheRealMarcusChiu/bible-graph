@@ -1,0 +1,1 @@
+(function(){var b="4da48da2ca9d",m="# Numbers 26:52 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

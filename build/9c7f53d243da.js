@@ -1,0 +1,1 @@
+(function(){var b="9c7f53d243da",m="# Matthew 18:28 (New International Version)\n\"But when that servant went out, he found one of his fellow servants who owed him a hundred silver coins. He grabbed him and began to choke him. 'Pay back what you owe me!' he demanded.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

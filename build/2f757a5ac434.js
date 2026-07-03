@@ -1,0 +1,1 @@
+(function(){var b="2f757a5ac434",m="# Acts 20:13 (New International Version)\nPaul's Farewell to the Ephesian Elders\nWe went on ahead to the ship and sailed for Assos, where we were going to take Paul aboard. He had made this arrangement because he was going there on foot.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

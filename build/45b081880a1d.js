@@ -1,0 +1,1 @@
+(function(){var b="45b081880a1d",m="# Deuteronomy 4:47 (New International Version)\nThey took possession of his land and the land of Og king of Bashan, the two Amorite kings east of the Jordan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

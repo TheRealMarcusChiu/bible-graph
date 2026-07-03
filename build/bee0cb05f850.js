@@ -1,1 +1,0 @@
-(function(){var b="bee0cb05f850",m="# Kubernetes\n\nNotes on Kubernetes.\n\n## Linked notes\n\n- [[Infrastructure as Code — ingress controllers]]\n- [[Service Mesh]]\n- [[Infrastructure as Code — SLOs]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

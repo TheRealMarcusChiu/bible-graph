@@ -1,0 +1,1 @@
+(function(){var b="d969d88c7a67",m="# Matthew 11:3 (New International Version)\nto ask him, \"Are you the one who is to come,[^A] or should we expect someone else?\"\n\n### Crossrefs\n[^A]: [[Ps-118-26|Ps 118:26]]; [[John-11-27|Jn 11:27]]; [[Heb-10-37|Heb 10:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

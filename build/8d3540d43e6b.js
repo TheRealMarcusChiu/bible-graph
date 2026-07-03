@@ -1,0 +1,1 @@
+(function(){var b="8d3540d43e6b",m="# Matthew 20:7 (New International Version)\n\"'Because no one has hired us,' they answered.\n\"He said to them, 'You also go and work in my vineyard.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

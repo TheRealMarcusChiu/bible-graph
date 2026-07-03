@@ -1,0 +1,1 @@
+(function(){var b="e28c687c4234",m="# Mark 5:24 (New International Version)\nSo Jesus went with him.\nA large crowd followed and pressed around him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

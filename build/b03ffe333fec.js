@@ -1,0 +1,1 @@
+(function(){var b="b03ffe333fec",m="# Genesis 27:21 (New International Version)\nThen Isaac said to Jacob, \"Come near so I can touch you,[^A] my son, to know whether you really are my son Esau or not.\"\n\n### Crossrefs\n[^A]: [[Gen-27-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

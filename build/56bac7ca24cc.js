@@ -1,0 +1,1 @@
+(function(){var b="56bac7ca24cc",m="# Leviticus 3:14 (New International Version)\nFrom what you offer you are to present this food offering to the LORD: the internal organs and all the fat that is connected to them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

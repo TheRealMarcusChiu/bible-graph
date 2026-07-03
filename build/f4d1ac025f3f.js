@@ -1,0 +1,1 @@
+(function(){var b="f4d1ac025f3f",m="# Matthew 6:32 (New International Version)\nFor the pagans run after all these things, and your heavenly Father knows that you need them.[^A] \n\n### Crossrefs\n[^A]: [[Matt-6-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1f088e37c42a",m="# Deuteronomy 11:32 (New International Version)\nbe sure that you obey all the decrees and laws I am setting before you today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="77c81ce72b81",m="# John 13:23 (New International Version)\nOne of them, the disciple whom Jesus loved,[^A] was reclining next to him. \n\n### Crossrefs\n[^A]: [[John-19-26|Jn 19:26]]; [[John-20-2|20:2]]; [[John-21-7|21:7]], [[John-21-20|20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

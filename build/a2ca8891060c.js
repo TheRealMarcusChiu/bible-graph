@@ -1,0 +1,1 @@
+(function(){var b="a2ca8891060c",m="# Galatians 4:24 (New International Version)\nThese things are being taken figuratively: The women represent two covenants. One covenant is from Mount Sinai and bears children who are to be slaves: This is Hagar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

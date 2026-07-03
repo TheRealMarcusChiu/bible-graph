@@ -1,0 +1,1 @@
+(function(){var b="62ac403aa79e",m="# Mark 3:19 (New International Version)\nand Judas Iscariot, who betrayed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

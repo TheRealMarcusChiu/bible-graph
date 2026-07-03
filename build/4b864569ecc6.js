@@ -1,0 +1,1 @@
+(function(){var b="4b864569ecc6",m="# Judges 11:14 (New International Version)\nJephthah sent back messengers to the Ammonite king,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

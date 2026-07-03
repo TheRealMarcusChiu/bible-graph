@@ -1,0 +1,1 @@
+(function(){var b="308d58fd5009",m="# Genesis 11:13 (New International Version)\nAnd after he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

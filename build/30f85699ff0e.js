@@ -1,0 +1,1 @@
+(function(){var b="30f85699ff0e",m="# Leviticus 14:55 (New International Version)\nfor defiling molds[^A] in fabric or in a house, \n\n### Crossrefs\n[^A]: [[Lev-13-47|Lev 13:47-52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

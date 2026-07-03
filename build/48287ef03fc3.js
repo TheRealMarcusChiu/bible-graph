@@ -1,0 +1,1 @@
+(function(){var b="48287ef03fc3",m="# Luke 18:42 (New International Version)\nJesus said to him, \"Receive your sight; your faith has healed you.\"[^A] \n\n### Crossrefs\n[^A]: S [[Matt-9-22|Mt 9:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

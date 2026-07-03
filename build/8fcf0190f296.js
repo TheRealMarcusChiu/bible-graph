@@ -1,0 +1,1 @@
+(function(){var b="8fcf0190f296",m="# Acts 10:21 (New International Version)\nPeter went down and said to the men, \"I'm the one you're looking for. Why have you come?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8daaddddc40a",m="# Matthew 6:22 (New International Version)\n\"The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

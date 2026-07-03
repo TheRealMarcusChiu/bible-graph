@@ -1,0 +1,1 @@
+(function(){var b="6866b162c47d",m="# Luke 6:33 (New International Version)\nAnd if you do good to those who are good to you, what credit is that to you? Even sinners do that.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

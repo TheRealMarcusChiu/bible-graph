@@ -1,0 +1,1 @@
+(function(){var b="4901ba5f30ba",m="# Numbers 33:46 (New International Version)\nThey left Dibon Gad and camped at Almon Diblathaim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

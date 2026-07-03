@@ -1,0 +1,1 @@
+(function(){var b="a27432a42618",m="# Deuteronomy 29:16 (New International Version)\nYou yourselves know how we lived in Egypt and how we passed through the countries on the way here.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

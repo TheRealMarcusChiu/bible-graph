@@ -1,0 +1,1 @@
+(function(){var b="04fd0c8d0f1a",m="# Ephesians 3:11 (New International Version)\naccording to his eternal purpose[^A] that he accomplished in Christ Jesus our Lord. \n\n### Crossrefs\n[^A]: S [[Eph-1-11|Eph 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="249534eab7fa",m="# Exodus 10:10 (New International Version)\nPharaoh said, \"The LORD be with you--if I let you go, along with your women and children! Clearly you are bent on evil.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

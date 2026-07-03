@@ -1,0 +1,1 @@
+(function(){var b="38d03d9bd74e",m="# Luke 16:17 (New International Version)\nIt is easier for heaven and earth to disappear than for the least stroke of a pen to drop out of the Law.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-5-18|Mt 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

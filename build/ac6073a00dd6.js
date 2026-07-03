@@ -1,0 +1,1 @@
+(function(){var b="ac6073a00dd6",m="# Romans 4:14 (New International Version)\nFor if those who depend on the law are heirs, faith means nothing and the promise is worthless,[^A] \n\n### Crossrefs\n[^A]: [[Gal-3-18|Gal 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

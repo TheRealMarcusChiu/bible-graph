@@ -1,0 +1,1 @@
+(function(){var b="bac474323ecb",m="# Galatians 5:15 (New International Version)\nIf you bite and devour each other, watch out or you will be destroyed by each other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

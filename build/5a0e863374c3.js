@@ -1,0 +1,1 @@
+(function(){var b="5a0e863374c3",m="# Luke 1:11 (New International Version)\nThen an angel[^A] of the Lord appeared to him, standing at the right side of the altar of incense.[^B] \n\n### Crossrefs\n[^A]: S [[Acts-5-19|Ac 5:19]]\n[^B]: [[Exod-30-1|Ex 30:1-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

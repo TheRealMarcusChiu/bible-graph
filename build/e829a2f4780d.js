@@ -1,0 +1,1 @@
+(function(){var b="e829a2f4780d",m="# John 12:47 (New International Version)\n\"If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.[^A] \n\n### Crossrefs\n[^A]: S [[John-3-17|Jn 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

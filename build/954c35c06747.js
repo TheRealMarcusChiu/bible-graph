@@ -1,0 +1,1 @@
+(function(){var b="954c35c06747",m="# Genesis 12:15 (New International Version)\nAnd when Pharaoh's officials saw her, they praised her to Pharaoh, and she was taken into his palace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

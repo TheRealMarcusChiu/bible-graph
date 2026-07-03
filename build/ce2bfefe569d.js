@@ -1,0 +1,1 @@
+(function(){var b="ce2bfefe569d",m="# Numbers 31:51 (New International Version)\nMoses and Eleazar the priest accepted from them the gold--all the crafted articles.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

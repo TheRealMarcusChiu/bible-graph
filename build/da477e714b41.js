@@ -1,0 +1,1 @@
+(function(){var b="da477e714b41",m="# Matthew 12:26 (New International Version)\nIf Satan[^A] drives out Satan, he is divided against himself. How then can his kingdom stand? \n\n### Crossrefs\n[^A]: S [[Matt-4-10|Mt 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

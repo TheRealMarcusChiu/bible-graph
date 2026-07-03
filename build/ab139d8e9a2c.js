@@ -1,0 +1,1 @@
+(function(){var b="ab139d8e9a2c",m="# Genesis 10:12 (New International Version)\nand Resen, which is between Nineveh and Calah--which is the great city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

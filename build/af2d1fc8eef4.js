@@ -1,0 +1,1 @@
+(function(){var b="af2d1fc8eef4",m="# Exodus 31:5 (New International Version)\nto cut and set stones, to work in wood, and to engage in all kinds of crafts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

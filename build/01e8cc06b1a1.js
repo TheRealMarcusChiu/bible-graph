@@ -1,0 +1,1 @@
+(function(){var b="01e8cc06b1a1",m="# Mark 7:28 (New International Version)\n\"Lord,\" she replied, \"even the dogs under the table eat the children's crumbs.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

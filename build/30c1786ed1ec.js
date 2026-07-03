@@ -1,0 +1,1 @@
+(function(){var b="30c1786ed1ec",m="# Numbers 1:31 (New International Version)\nThe number from the tribe of Zebulun was 57,400.[^A]\n\n### Crossrefs\n[^A]: [[Num-26-27|Nu 26:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

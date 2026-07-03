@@ -1,0 +1,1 @@
+(function(){var b="0a7507a201b9",m="# Matthew 14:8 (New International Version)\nPrompted by her mother, she said, \"Give me here on a platter the head of John the Baptist.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="292f925208e1",m="# Romans 5:13 (New International Version)\nTo be sure, sin was in the world before the law was given, but sin is not charged against anyone's account where there is no law.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-4-15|Ro 4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

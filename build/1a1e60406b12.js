@@ -1,0 +1,1 @@
+(function(){var b="1a1e60406b12",m="# Romans 3\n\nPaul's fullest exposition of the gospel -- righteousness from God by faith, for Jew and Gentile alike.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="68352539656e",m="# Acts 1:10 (New International Version)\nThey were looking intently up into the sky as he was going, when suddenly two men dressed in white[^A] stood beside them. \n\n### Crossrefs\n[^A]: S [[John-20-12|Jn 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

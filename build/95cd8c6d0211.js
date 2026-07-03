@@ -1,0 +1,1 @@
+(function(){var b="95cd8c6d0211",m="# John 8:51 (New International Version)\nVery truly I tell you, whoever obeys my word will never see death.\"[^A]\n\n### Crossrefs\n[^A]: [[John-11-26|Jn 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

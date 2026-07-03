@@ -1,0 +1,1 @@
+(function(){var b="20f143e26ee2",m="# John 1:30 (New International Version)\nThis is the one I meant when I said, 'A man who comes after me has surpassed me because he was before me.'[^A] \n\n### Crossrefs\n[^A]: [[John-1-15|ver 15]], [[John-1-27|27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

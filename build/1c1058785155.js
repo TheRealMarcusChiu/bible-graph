@@ -1,0 +1,1 @@
+(function(){var b="1c1058785155",m="# Leviticus 15:28 (New International Version)\n\"'When she is cleansed from her discharge, she must count off seven days, and after that she will be ceremonially clean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

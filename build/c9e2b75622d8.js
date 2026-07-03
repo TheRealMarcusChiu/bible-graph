@@ -1,0 +1,1 @@
+(function(){var b="c9e2b75622d8",m="# Deuteronomy 16:20 (New International Version)\nFollow justice and justice alone, so that you may live and possess the land the LORD your God is giving you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

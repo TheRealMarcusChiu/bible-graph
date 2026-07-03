@@ -1,0 +1,1 @@
+(function(){var b="c9f3f8912e10",m="# Luke 1:62 (New International Version)\nThen they made signs[^A] to his father, to find out what he would like to name the child. \n\n### Crossrefs\n[^A]: [[Luke-1-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

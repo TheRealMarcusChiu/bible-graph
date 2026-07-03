@@ -1,0 +1,1 @@
+(function(){var b="f6442b6e8f0d",m="# Exodus 36:29 (New International Version)\nAt these two corners the frames were double from the bottom all the way to the top and fitted into a single ring; both were made alike.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

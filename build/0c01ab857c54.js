@@ -1,0 +1,1 @@
+(function(){var b="0c01ab857c54",m="# Exodus 8:32 (New International Version)\nBut this time also Pharaoh hardened his heart[^A] and would not let the people go.\n\n### Crossrefs\n[^A]: S [[Exod-7-14|Ex 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

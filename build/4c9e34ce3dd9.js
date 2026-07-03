@@ -1,0 +1,1 @@
+(function(){var b="4c9e34ce3dd9",m="# 2 Thessalonians 2:17 (New International Version)\nencourage[^A] your hearts and strengthen[^B] you in every good deed and word.\n\n### Crossrefs\n[^A]: [[1Thess-3-2|1Th 3:2]]\n[^B]: [[2Thess-3-3|2Th 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

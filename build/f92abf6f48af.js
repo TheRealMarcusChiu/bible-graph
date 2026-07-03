@@ -1,0 +1,1 @@
+(function(){var b="f92abf6f48af",m="# Matthew 23:8 (New International Version)\n\"But you are not to be called 'Rabbi,' for you have one Teacher, and you are all brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

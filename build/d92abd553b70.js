@@ -1,0 +1,1 @@
+(function(){var b="d92abd553b70",m="# Joshua 24:21 (New International Version)\nBut the people said to Joshua, \"No! We will serve the LORD.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

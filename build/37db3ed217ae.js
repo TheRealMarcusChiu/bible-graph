@@ -1,0 +1,1 @@
+(function(){var b="37db3ed217ae",m="# Acts 9:38 (New International Version)\nLydda was near Joppa; so when the disciples[^A] heard that Peter was in Lydda, they sent two men to him and urged him, \"Please come at once!\"\n\n### Crossrefs\n[^A]: S [[Acts-11-26|Ac 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

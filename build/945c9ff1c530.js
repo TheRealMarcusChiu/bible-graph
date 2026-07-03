@@ -1,0 +1,1 @@
+(function(){var b="945c9ff1c530",m="# 1 Corinthians 15:43 (New International Version)\nit is sown in dishonor, it is raised in glory;[^A] it is sown in weakness, it is raised in power; \n\n### Crossrefs\n[^A]: [[Phil-3-21|Php 3:21]]; [[Col-3-4|Col 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

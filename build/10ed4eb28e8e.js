@@ -1,0 +1,1 @@
+(function(){var b="10ed4eb28e8e",m="# Joshua 19:16 (New International Version)\nThese towns and their villages were the inheritance of Zebulun,[^A] according to its clans.[^B]\n\n### Crossrefs\n[^A]: S [[Josh-19-10|ver 10]]\n[^B]: [[Ezek-48-26|Eze 48:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

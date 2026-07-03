@@ -1,0 +1,1 @@
+(function(){var b="f35c334fbe08",m="# Matthew 26:37 (New International Version)\nHe took Peter and the two sons of Zebedee[^A] along with him, and he began to be sorrowful and troubled. \n\n### Crossrefs\n[^A]: S [[Matt-4-21|Mt 4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

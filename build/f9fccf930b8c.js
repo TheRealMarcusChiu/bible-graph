@@ -1,0 +1,1 @@
+(function(){var b="f9fccf930b8c",m="# John 5:13 (New International Version)\nThe man who was healed had no idea who it was, for Jesus had slipped away into the crowd that was there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

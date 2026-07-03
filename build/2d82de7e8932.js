@@ -1,0 +1,1 @@
+(function(){var b="2d82de7e8932",m="# Numbers 26:34 (New International Version)\nThese were the clans of Manasseh; those numbered were 52,700.[^A]\n\n### Crossrefs\n[^A]: [[Num-1-35|Nu 1:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

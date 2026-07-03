@@ -1,0 +1,1 @@
+(function(){var b="6caaa96f6d09",m="# John 1:40 (New International Version)\nAndrew, Simon Peter's brother, was one of the two who heard what John had said and who had followed Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

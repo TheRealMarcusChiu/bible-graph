@@ -1,0 +1,1 @@
+(function(){var b="b360c796f1ad",m="# John 7:3 (New International Version)\nJesus' brothers[^A] said to him, \"Leave Galilee and go to Judea, so that your disciples there may see the works you do. \n\n### Crossrefs\n[^A]: S [[Matt-12-46|Mt 12:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

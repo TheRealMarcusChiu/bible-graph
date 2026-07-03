@@ -1,0 +1,1 @@
+(function(){var b="4a049ee3b2ad",m="# Matthew 15:8 (New International Version)\n\"'These people honor me with their lips,  \n    but their hearts are far from me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

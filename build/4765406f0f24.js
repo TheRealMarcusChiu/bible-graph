@@ -1,0 +1,1 @@
+(function(){var b="4765406f0f24",m="# Mark 13:6 (New International Version)\nMany will come in my name, claiming, 'I am he,' and will deceive many.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

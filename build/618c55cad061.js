@@ -1,0 +1,1 @@
+(function(){var b="618c55cad061",m="# 1 Corinthians 15:30 (New International Version)\nAnd as for us, why do we endanger ourselves every hour?[^A] \n\n### Crossrefs\n[^A]: [[2Cor-11-26|2Co 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

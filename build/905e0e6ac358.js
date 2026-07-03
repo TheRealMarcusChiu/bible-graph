@@ -1,0 +1,1 @@
+(function(){var b="905e0e6ac358",m="# Genesis 20:15 (New International Version)\nAnd Abimelek said, \"My land is before you; live wherever you like.\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-13-9|Ge 13:9]]; S [[Gen-45-18|45:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

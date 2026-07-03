@@ -1,0 +1,1 @@
+(function(){var b="d58959d990a9",m="# Mark 5:8 (New International Version)\nFor Jesus had said to him, \"Come out of this man, you impure spirit!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

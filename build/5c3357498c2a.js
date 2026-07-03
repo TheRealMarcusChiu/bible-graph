@@ -1,0 +1,1 @@
+(function(){var b="5c3357498c2a",m="# Leviticus 2:15 (New International Version)\nPut oil and incense[^A] on it; it is a grain offering. \n\n### Crossrefs\n[^A]: S [[Lev-2-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

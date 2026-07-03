@@ -1,0 +1,1 @@
+(function(){var b="857f57008170",m="# Numbers 24:15 (New International Version)\nBalaam's Fourth Message\nThen he spoke his message:\n\"The prophecy of Balaam son of Beor,  \n    the prophecy of one whose eye sees clearly,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

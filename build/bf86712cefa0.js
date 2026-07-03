@@ -1,0 +1,1 @@
+(function(){var b="bf86712cefa0",m="# James 3:4 (New International Version)\nOr take ships as an example. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot wants to go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

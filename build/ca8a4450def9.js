@@ -1,0 +1,1 @@
+(function(){var b="ca8a4450def9",m="# Hebrews 8:12 (New International Version)\nFor I will forgive their wickedness  \n    and will remember their sins no more.[^A]\"[^B]\n\n### Crossrefs\n[^A]: [[Heb-10-17|Heb 10:17]]\n[^B]: [[Rom-11-27|Ro 11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

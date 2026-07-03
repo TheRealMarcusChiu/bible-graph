@@ -1,0 +1,1 @@
+(function(){var b="32b58694e1e4",m="# Exodus 28:26 (New International Version)\nMake two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="506a4f118a1b",m="# Luke 22:67 (New International Version)\n\"If you are the Messiah,\" they said, \"tell us.\"\nJesus answered, \"If I tell you, you will not believe me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

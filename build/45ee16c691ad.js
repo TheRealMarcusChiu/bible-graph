@@ -1,0 +1,1 @@
+(function(){var b="45ee16c691ad",m="# Mark 12:7 (New International Version)\n\"But the tenants said to one another, 'This is the heir. Come, let's kill him, and the inheritance will be ours.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

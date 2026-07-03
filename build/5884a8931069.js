@@ -1,0 +1,1 @@
+(function(){var b="5884a8931069",m="# Genesis 4:13 (New International Version)\nCain said to the LORD, \"My punishment is more than I can bear.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

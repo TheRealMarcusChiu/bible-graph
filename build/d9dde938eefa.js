@@ -1,0 +1,1 @@
+(function(){var b="d9dde938eefa",m="# Deuteronomy 31:4 (New International Version)\nAnd the LORD will do to them what he did to Sihon and Og,[^A] the kings of the Amorites, whom he destroyed along with their land. \n\n### Crossrefs\n[^A]: S [[Num-21-33|Nu 21:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

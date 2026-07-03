@@ -1,0 +1,1 @@
+(function(){var b="a238ba294c81",m="# Luke 14:23 (New International Version)\n\"Then the master told his servant, 'Go out to the roads and country lanes and compel them to come in, so that my house will be full.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

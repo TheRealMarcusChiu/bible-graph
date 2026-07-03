@@ -1,0 +1,1 @@
+(function(){var b="0927ae2d029b",m="# Deuteronomy 12:32 (New International Version)\nSee that you do all I command you; do not add[^A] to it or take away from it.\n\n### Crossrefs\n[^A]: S [[Deut-4-2|Dt 4:2]]; [[Rev-22-18|Rev 22:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

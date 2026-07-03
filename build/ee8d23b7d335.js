@@ -1,0 +1,1 @@
+(function(){var b="ee8d23b7d335",m="# Hebrews 10:4 (New International Version)\nIt is impossible for the blood of bulls and goats[^A] to take away sins.[^B]\n\n### Crossrefs\n[^A]: [[Heb-9-12|Heb 9:12]], [[Heb-9-13|13]]\n[^B]: [[Heb-10-1|ver 1]], [[Heb-10-11|11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="43ab6aad694c",m="# Luke 1:21 (New International Version)\nMeanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

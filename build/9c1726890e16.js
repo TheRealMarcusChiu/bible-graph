@@ -1,0 +1,1 @@
+(function(){var b="9c1726890e16",m="# 1 Corinthians 1:14 (New International Version)\nI thank God that I did not baptize any of you except Crispus[^A] and Gaius,[^B] \n\n### Crossrefs\n[^A]: [[Acts-18-8|Ac 18:8]]\n[^B]: S [[Acts-19-29|Ac 19:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

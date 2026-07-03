@@ -1,0 +1,1 @@
+(function(){var b="f64c01bceee1",m="# Matthew 10:24 (New International Version)\n\"The student is not above the teacher, nor a servant above his master.[^A] \n\n### Crossrefs\n[^A]: S [[John-13-16|Jn 13:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

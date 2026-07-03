@@ -1,0 +1,1 @@
+(function(){var b="aa004b70e81e",m="# 1 Corinthians 6:8 (New International Version)\nInstead, you yourselves cheat and do wrong, and you do this to your brothers and sisters.[^A] \n\n### Crossrefs\n[^A]: [[1Thess-4-6|1Th 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

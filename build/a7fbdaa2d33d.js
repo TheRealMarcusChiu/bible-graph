@@ -1,0 +1,1 @@
+(function(){var b="a7fbdaa2d33d",m="# Numbers 26:46 (New International Version)\n(Asher had a daughter named Serah.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8fe3a4774eb3",m="# Mark 8:21 (New International Version)\nHe said to them, \"Do you still not understand?\"[^A]\n\n### Crossrefs\n[^A]: [[Mark-6-52|Mk 6:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

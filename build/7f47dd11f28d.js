@@ -1,0 +1,1 @@
+(function(){var b="7f47dd11f28d",m="# 2 Thessalonians 3:18 (New International Version)\nThe grace of our Lord Jesus Christ be with you all.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-16-20|Ro 16:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

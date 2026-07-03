@@ -1,0 +1,1 @@
+(function(){var b="034f19734e57",m="# 2 Timothy 2\n\nPaul's final letter -- guard the gospel, endure hardship, preach the word.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

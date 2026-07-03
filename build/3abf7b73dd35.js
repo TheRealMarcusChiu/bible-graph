@@ -1,0 +1,1 @@
+(function(){var b="3abf7b73dd35",m="# Luke 15:27 (New International Version)\n'Your brother has come,' he replied, 'and your father has killed the fattened calf because he has him back safe and sound.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

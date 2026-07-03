@@ -1,0 +1,1 @@
+(function(){var b="886ebfb7cfd6",m="# Matthew 15:12 (New International Version)\nThen the disciples came to him and asked, \"Do you know that the Pharisees were offended when they heard this?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

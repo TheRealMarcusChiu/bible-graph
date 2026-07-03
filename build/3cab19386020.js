@@ -1,0 +1,1 @@
+(function(){var b="3cab19386020",m="# 2 Corinthians 11:12 (New International Version)\nAnd I will keep on doing what I am doing in order to cut the ground from under those who want an opportunity to be considered equal with us in the things they boast about.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

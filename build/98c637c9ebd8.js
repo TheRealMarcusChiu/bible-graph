@@ -1,0 +1,1 @@
+(function(){var b="98c637c9ebd8",m="# 1 Corinthians 11:10 (New International Version)\nIt is for this reason that a woman ought to have authority over her own head, because of the angels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

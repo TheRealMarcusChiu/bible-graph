@@ -1,0 +1,1 @@
+(function(){var b="aedb7f7d284b",m="# John 9:5 (New International Version)\nWhile I am in the world, I am the light of the world.\"[^A]\n\n### Crossrefs\n[^A]: S [[John-1-4|Jn 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

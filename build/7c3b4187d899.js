@@ -1,0 +1,1 @@
+(function(){var b="7c3b4187d899",m="# Exodus 38:17 (New International Version)\nThe bases for the posts were bronze. The hooks and bands on the posts were silver, and their tops were overlaid with silver; so all the posts of the courtyard had silver bands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5c0fc8a0aa91",m="# Leviticus 8:3 (New International Version)\nand gather the entire assembly[^A] at the entrance to the tent of meeting.\" \n\n### Crossrefs\n[^A]: [[Num-8-9|Nu 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

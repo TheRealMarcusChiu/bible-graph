@@ -1,0 +1,1 @@
+(function(){var b="2e28e9ff8255",m="# John 19:2 (New International Version)\nThe soldiers twisted together a crown of thorns and put it on his head. They clothed him in a purple robe";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

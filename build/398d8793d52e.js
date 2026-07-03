@@ -1,0 +1,1 @@
+(function(){var b="398d8793d52e",m="# 1 Corinthians 16:4 (New International Version)\nIf it seems advisable for me to go also, they will accompany me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

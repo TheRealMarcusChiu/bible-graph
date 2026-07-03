@@ -1,0 +1,1 @@
+(function(){var b="f42ddc0e44c7",m="# Genesis 46:24 (New International Version)\nThe sons of Naphtali:[^A]\nJahziel, Guni, Jezer and Shillem.\n\n### Crossrefs\n[^A]: S [[Gen-30-8|Ge 30:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

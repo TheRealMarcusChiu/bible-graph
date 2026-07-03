@@ -1,0 +1,1 @@
+(function(){var b="095b234e61e5",m="# Exodus 35:34 (New International Version)\nAnd he has given both him and Oholiab[^A] son of Ahisamak, of the tribe of Dan, the ability to teach[^B] others. \n\n### Crossrefs\n[^A]: S [[Exod-31-6|Ex 31:6]]\n[^B]: [[2Chr-2-14|2Ch 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="01d96c7d69a5",m="# Acts 25:21 (New International Version)\nBut when Paul made his appeal to be held over for the Emperor's decision, I ordered him held until I could send him to Caesar.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-25-11|ver 11]], [[Acts-25-12|12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2e747a3d163c",m="# Galatians 4:1 (New International Version)\nWhat I am saying is that as long as an heir is underage, he is no different from a slave, although he owns the whole estate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

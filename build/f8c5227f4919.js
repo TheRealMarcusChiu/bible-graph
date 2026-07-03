@@ -1,0 +1,1 @@
+(function(){var b="f8c5227f4919",m="# Numbers 33:16 (New International Version)\nThey left the Desert of Sinai and camped at Kibroth Hattaavah.[^A]\n\n### Crossrefs\n[^A]: S [[Num-11-34|Nu 11:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ee0c02b59d34",m="# Luke 12:13 (New International Version)\nThe Parable of the Rich Fool\nSomeone in the crowd said to him, \"Teacher, tell my brother to divide the inheritance with me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

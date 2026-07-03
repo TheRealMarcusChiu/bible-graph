@@ -1,0 +1,1 @@
+(function(){var b="67192cb4d1e7",m="# 1 Corinthians 10:31 (New International Version)\nSo whether you eat or drink or whatever you do, do it all for the glory of God.[^A] \n\n### Crossrefs\n[^A]: [[Zech-14-21|Zec 14:21]]; [[Col-3-17|Col 3:17]]; [[1Pet-4-11|1Pe 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

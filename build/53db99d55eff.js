@@ -1,0 +1,1 @@
+(function(){var b="53db99d55eff",m="# Luke 14:29 (New International Version)\nFor if you lay the foundation and are not able to finish it, everyone who sees it will ridicule you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

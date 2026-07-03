@@ -1,0 +1,1 @@
+(function(){var b="26cc555d9df3",m="# Joshua 6:11 (New International Version)\nSo he had the ark of the LORD carried around the city, circling it once. Then the army returned to camp and spent the night there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

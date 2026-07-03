@@ -1,0 +1,1 @@
+(function(){var b="0df8d9c0c1c3",m="# John 19:33 (New International Version)\nBut when they came to Jesus and found that he was already dead, they did not break his legs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

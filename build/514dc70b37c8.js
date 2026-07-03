@@ -1,0 +1,1 @@
+(function(){var b="514dc70b37c8",m="# Colossians 3:9 (New International Version)\nDo not lie to each other,[^A] since you have taken off your old self[^B] with its practices \n\n### Crossrefs\n[^A]: S [[Eph-4-22|Eph 4:22]], [[Eph-4-25|25]]\n[^B]: S [[Rom-6-6|Ro 6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

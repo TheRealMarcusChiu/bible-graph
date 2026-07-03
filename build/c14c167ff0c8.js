@@ -1,0 +1,1 @@
+(function(){var b="c14c167ff0c8",m="# Deuteronomy 4:18 (New International Version)\nor like any creature that moves along the ground or any fish in the waters below.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

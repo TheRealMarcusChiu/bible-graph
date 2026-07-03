@@ -1,0 +1,1 @@
+(function(){var b="694fbf030550",m="# Luke 4:5 (New International Version)\nThe devil led him up to a high place and showed him in an instant all the kingdoms of the world.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-24-14|Mt 24:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

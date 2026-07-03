@@ -1,0 +1,1 @@
+(function(){var b="98852f0a34c2",m="# Galatians 1:20 (New International Version)\nI assure you before God[^A] that what I am writing you is no lie.[^B]\n\n### Crossrefs\n[^A]: S [[Rom-1-9|Ro 1:9]]\n[^B]: S [[Rom-9-1|Ro 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

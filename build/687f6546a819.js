@@ -1,0 +1,1 @@
+(function(){var b="687f6546a819",m="# Mark 3:25 (New International Version)\nIf a house is divided against itself, that house cannot stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

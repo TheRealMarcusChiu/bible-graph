@@ -1,0 +1,1 @@
+(function(){var b="bb8d07788426",m="# Acts 23:2 (New International Version)\nAt this the high priest Ananias[^A] ordered those standing near Paul to strike him on the mouth.[^B] \n\n### Crossrefs\n[^A]: [[Acts-24-1|Ac 24:1]]\n[^B]: [[John-18-22|Jn 18:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

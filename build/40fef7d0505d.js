@@ -1,0 +1,1 @@
+(function(){var b="40fef7d0505d",m="# Genesis 30:19 (New International Version)\nLeah conceived again and bore Jacob a sixth son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

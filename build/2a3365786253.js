@@ -1,0 +1,1 @@
+(function(){var b="2a3365786253",m="# Exodus 39:5 (New International Version)\nIts skillfully woven waistband was like it--of one piece with the ephod and made with gold, and with blue, purple and scarlet yarn, and with finely twisted linen, as the LORD commanded Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

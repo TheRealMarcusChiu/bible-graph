@@ -1,0 +1,1 @@
+(function(){var b="b9dad3a9a1b3",m="# Genesis 19:26 (New International Version)\nBut Lot's wife looked back,[^A] and she became a pillar of salt.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-19-17|ver 17]]\n[^B]: [[Luke-17-32|Lk 17:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

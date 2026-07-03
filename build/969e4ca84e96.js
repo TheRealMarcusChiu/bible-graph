@@ -1,0 +1,1 @@
+(function(){var b="969e4ca84e96",m="# Matthew 14:9 (New International Version)\nThe king was distressed, but because of his oaths and his dinner guests, he ordered that her request be granted";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

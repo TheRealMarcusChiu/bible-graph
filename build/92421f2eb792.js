@@ -1,0 +1,1 @@
+(function(){var b="92421f2eb792",m="# Philippians 4:14 (New International Version)\nYet it was good of you to share[^A] in my troubles. \n\n### Crossrefs\n[^A]: [[Phil-1-7|Php 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

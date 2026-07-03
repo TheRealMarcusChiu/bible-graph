@@ -1,0 +1,1 @@
+(function(){var b="807141a9d21d",m="# Exodus 7:8 (New International Version)\nAaron's Staff Becomes a Snake\nThe LORD said to Moses and Aaron,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

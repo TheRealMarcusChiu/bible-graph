@@ -1,0 +1,1 @@
+(function(){var b="83f5adf70f27",m="# Luke 16:6 (New International Version)\n\"'Nine hundred gallons of olive oil,' he replied.\n\"The manager told him, 'Take your bill, sit down quickly, and make it four hundred and fifty.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

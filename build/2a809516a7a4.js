@@ -1,0 +1,1 @@
+(function(){var b="2a809516a7a4",m="# Acts 2:6 (New International Version)\nWhen they heard this sound, a crowd came together in bewilderment, because each one heard their own language being spoken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

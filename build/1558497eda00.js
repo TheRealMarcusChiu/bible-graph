@@ -1,0 +1,1 @@
+(function(){var b="1558497eda00",m="# Numbers 35:24 (New International Version)\nthe assembly[^A] must judge between the accused and the avenger of blood according to these regulations. \n\n### Crossrefs\n[^A]: S [[Num-35-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

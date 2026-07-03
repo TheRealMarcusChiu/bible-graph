@@ -1,0 +1,1 @@
+(function(){var b="04e677594c58",m="# Romans 6:3 (New International Version)\nOr don't you know that all of us who were baptized[^A] into Christ Jesus were baptized into his death? \n\n### Crossrefs\n[^A]: S [[Matt-28-19|Mt 28:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b1351d6c08b3",m="# Acts 13:38 (New International Version)\n\"Therefore, my friends, I want you to know that through Jesus the forgiveness of sins is proclaimed to you.[^A] \n\n### Crossrefs\n[^A]: S [[Luke-24-47|Lk 24:47]]; [[Acts-2-38|Ac 2:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

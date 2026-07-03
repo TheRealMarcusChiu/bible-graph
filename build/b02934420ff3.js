@@ -1,0 +1,1 @@
+(function(){var b="b02934420ff3",m="# Mark 2:8 (New International Version)\nImmediately Jesus knew in his spirit that this was what they were thinking in their hearts, and he said to them, \"Why are you thinking these things?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

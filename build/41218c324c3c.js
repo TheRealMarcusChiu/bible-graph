@@ -1,0 +1,1 @@
+(function(){var b="41218c324c3c",m="# John 16:29 (New International Version)\nThen Jesus' disciples said, \"Now you are speaking clearly and without figures of speech.[^A] \n\n### Crossrefs\n[^A]: S [[John-16-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a6c99e10f231",m="# Genesis 40:9 (New International Version)\nSo the chief cupbearer[^A] told Joseph his dream. He said to him, \"In my dream I saw a vine in front of me, \n\n### Crossrefs\n[^A]: S [[Gen-40-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

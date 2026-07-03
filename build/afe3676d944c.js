@@ -1,0 +1,1 @@
+(function(){var b="afe3676d944c",m="# Luke 12:43 (New International Version)\nIt will be good for that servant whom the master finds doing so when he returns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b58e08011a13",m="# Genesis 5:26 (New International Version)\nAfter he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

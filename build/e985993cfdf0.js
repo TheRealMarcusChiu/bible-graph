@@ -1,0 +1,1 @@
+(function(){var b="e985993cfdf0",m="# Matthew 5:24 (New International Version)\nleave your gift there in front of the altar. First go and be reconciled to them; then come and offer your gift.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

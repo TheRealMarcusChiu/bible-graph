@@ -1,0 +1,1 @@
+(function(){var b="b63d9996325c",m="# Numbers 35:4 (New International Version)\n\"The pasturelands around the towns that you give the Levites will extend a thousand cubits from the town wall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f4d0e15cc959",m="# Acts 1:15 (New International Version)\nIn those days Peter stood up among the believers (a group numbering about a hundred and twenty)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="edb13767772f",m="# Mark 13:36 (New International Version)\nIf he comes suddenly, do not let him find you sleeping.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

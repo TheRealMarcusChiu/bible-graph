@@ -1,0 +1,1 @@
+(function(){var b="5ff5c7846c30",m="# Mark 4:6 (New International Version)\nBut when the sun came up, the plants were scorched, and they withered because they had no root.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

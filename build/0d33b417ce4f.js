@@ -1,0 +1,1 @@
+(function(){var b="0d33b417ce4f",m="# Romans 7:24 (New International Version)\nWhat a wretched man I am! Who will rescue me from this body that is subject to death?[^A] \n\n### Crossrefs\n[^A]: [[Rom-6-6|Ro 6:6]]; [[Rom-8-2|8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cae3cad52518",m="# John 4:38 (New International Version)\nI sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labor.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

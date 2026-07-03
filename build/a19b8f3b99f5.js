@@ -1,0 +1,1 @@
+(function(){var b="a19b8f3b99f5",m="# Exodus 1:2 (New International Version)\nReuben, Simeon, Levi and Judah;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

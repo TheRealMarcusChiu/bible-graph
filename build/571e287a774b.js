@@ -1,0 +1,1 @@
+(function(){var b="571e287a774b",m="# Matthew 4:9 (New International Version)\n\"All this I will give you,\" he said, \"if you will bow down and worship me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

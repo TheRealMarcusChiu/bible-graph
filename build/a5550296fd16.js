@@ -1,0 +1,1 @@
+(function(){var b="a5550296fd16",m="# Numbers 7:63 (New International Version)\none young bull, one ram and one male lamb a year old for a burnt offering;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

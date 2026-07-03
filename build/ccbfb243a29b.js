@@ -1,0 +1,1 @@
+(function(){var b="ccbfb243a29b",m="# Luke 11:13 (New International Version)\nIf you then, though you are evil, know how to give good gifts to your children, how much more will your Father in heaven give the Holy Spirit to those who ask him!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

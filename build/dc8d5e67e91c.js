@@ -1,0 +1,1 @@
+(function(){var b="dc8d5e67e91c",m="# Leviticus 25:1 (New International Version)\nThe Sabbath Year\nThe LORD said to Moses at Mount Sinai,[^A] \n\n### Crossrefs\n[^A]: [[Exod-19-11|Ex 19:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

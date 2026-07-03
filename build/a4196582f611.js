@@ -1,0 +1,1 @@
+(function(){var b="a4196582f611",m="# Judges 3:29 (New International Version)\nAt that time they struck down about ten thousand Moabites, all vigorous and strong; not one escaped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

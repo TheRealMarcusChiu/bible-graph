@@ -1,0 +1,1 @@
+(function(){var b="32b4ee767f85",m="# Galatians 4:22 (New International Version)\nFor it is written that Abraham had two sons, one by the slave woman[^A] and the other by the free woman.[^B] \n\n### Crossrefs\n[^A]: [[Gen-16-15|Ge 16:15]]\n[^B]: [[Gen-21-2|Ge 21:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

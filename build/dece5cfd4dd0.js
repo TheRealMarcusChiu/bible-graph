@@ -1,0 +1,1 @@
+(function(){var b="dece5cfd4dd0",m="# Genesis 5:16 (New International Version)\nAfter he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b60eace54ec6",m="# Joshua 19:49 (New International Version)\nAllotment for Joshua\nWhen they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

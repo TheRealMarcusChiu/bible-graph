@@ -1,0 +1,1 @@
+(function(){var b="964631ad145c",m="# Leviticus 24:21 (New International Version)\nWhoever kills an animal must make restitution,[^A] but whoever kills a human being is to be put to death.[^B] \n\n### Crossrefs\n[^A]: S [[Lev-24-18|ver 18]]\n[^B]: S [[Lev-24-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

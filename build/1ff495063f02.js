@@ -1,0 +1,1 @@
+(function(){var b="1ff495063f02",m="# Genesis 29:17 (New International Version)\nLeah had weak eyes, but Rachel[^A] had a lovely figure and was beautiful.[^B] \n\n### Crossrefs\n[^A]: S [[Gen-29-16|ver 16]]\n[^B]: S [[Gen-12-11|Ge 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

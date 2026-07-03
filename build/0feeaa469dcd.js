@@ -1,0 +1,1 @@
+(function(){var b="0feeaa469dcd",m="# Matthew 22:35 (New International Version)\nOne of them, an expert in the law,[^A] tested him with this question: \n\n### Crossrefs\n[^A]: [[Luke-7-30|Lk 7:30]]; [[Luke-10-25|10:25]]; [[Luke-11-45|11:45]]; [[Luke-14-3|14:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

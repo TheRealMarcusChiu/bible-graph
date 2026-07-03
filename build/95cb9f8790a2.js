@@ -1,0 +1,1 @@
+(function(){var b="95cb9f8790a2",m="# Luke 10:35 (New International Version)\nThe next day he took out two denarii and gave them to the innkeeper. 'Look after him,' he said, 'and when I return, I will reimburse you for any extra expense you may have.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6ec446e49600",m="# John 13:28 (New International Version)\nBut no one at the meal understood why Jesus said this to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

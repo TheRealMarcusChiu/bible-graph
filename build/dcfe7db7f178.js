@@ -1,0 +1,1 @@
+(function(){var b="dcfe7db7f178",m="# Hebrews 13:8 (New International Version)\nJesus Christ is the same yesterday and today and forever.[^A]\n\n### Crossrefs\n[^A]: [[Ps-102-27|Ps 102:27]]; [[Heb-1-12|Heb 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d36ca6f903f4",m="# Acts 27:14 (New International Version)\nBefore very long, a wind of hurricane force,[^A] called the Northeaster, swept down from the island. \n\n### Crossrefs\n[^A]: [[Mark-4-37|Mk 4:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

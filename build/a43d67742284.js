@@ -1,0 +1,1 @@
+(function(){var b="a43d67742284",m="# Luke 19:12 (New International Version)\nHe said: \"A man of noble birth went to a distant country to have himself appointed king and then to return.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

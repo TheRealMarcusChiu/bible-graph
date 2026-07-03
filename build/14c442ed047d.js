@@ -1,0 +1,1 @@
+(function(){var b="14c442ed047d",m="# Luke 21:23 (New International Version)\nHow dreadful it will be in those days for pregnant women and nursing mothers! There will be great distress in the land and wrath against this people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

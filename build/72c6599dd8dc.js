@@ -1,0 +1,1 @@
+(function(){var b="72c6599dd8dc",m="# John 9:10 (New International Version)\n\"How then were your eyes opened?\" they asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

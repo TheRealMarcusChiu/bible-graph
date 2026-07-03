@@ -1,0 +1,1 @@
+(function(){var b="6eda4d9ca2c8",m="# Matthew 13:56 (New International Version)\nAren't all his sisters with us? Where then did this man get all these things?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

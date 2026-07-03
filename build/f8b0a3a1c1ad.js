@@ -1,0 +1,1 @@
+(function(){var b="f8b0a3a1c1ad",m="# Joshua 13:15 (New International Version)\nThis is what Moses had given to the tribe of Reuben, according to its clans:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

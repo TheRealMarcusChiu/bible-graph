@@ -1,0 +1,1 @@
+(function(){var b="b99b45e24b59",m="# Leviticus 15:26 (New International Version)\nAny bed she lies on while her discharge continues will be unclean, as is her bed during her monthly period, and anything she sits on will be unclean, as during her period.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

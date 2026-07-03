@@ -1,0 +1,1 @@
+(function(){var b="c9761cd94478",m="# Mark 8:4 (New International Version)\nHis disciples answered, \"But where in this remote place can anyone get enough bread to feed them?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

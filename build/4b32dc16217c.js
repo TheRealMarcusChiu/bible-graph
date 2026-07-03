@@ -1,0 +1,1 @@
+(function(){var b="4b32dc16217c",m="# Mark 14:6 (New International Version)\n\"Leave her alone,\" said Jesus. \"Why are you bothering her? She has done a beautiful thing to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

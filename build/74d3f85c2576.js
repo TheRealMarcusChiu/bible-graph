@@ -1,0 +1,1 @@
+(function(){var b="74d3f85c2576",m="# Exodus 28:37 (New International Version)\nFasten a blue cord to it to attach it to the turban; it is to be on the front of the turban.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

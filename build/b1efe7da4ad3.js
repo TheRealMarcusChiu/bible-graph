@@ -1,0 +1,1 @@
+(function(){var b="b1efe7da4ad3",m="# Mark 8:6 (New International Version)\nHe told the crowd to sit down on the ground. When he had taken the seven loaves and given thanks, he broke them and gave them to his disciples to distribute to the people, and they did so.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

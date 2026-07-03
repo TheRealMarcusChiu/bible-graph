@@ -1,0 +1,1 @@
+(function(){var b="efd226658e13",m="# Romans 3:11 (New International Version)\nthere is no one who understands;  \n    there is no one who seeks God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

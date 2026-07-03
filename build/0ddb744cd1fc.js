@@ -1,0 +1,1 @@
+(function(){var b="0ddb744cd1fc",m="# Joshua 4:15 (New International Version)\nThen the LORD said to Joshua,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

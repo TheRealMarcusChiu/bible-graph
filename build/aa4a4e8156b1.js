@@ -1,0 +1,1 @@
+(function(){var b="aa4a4e8156b1",m="# Ephesians 2:9 (New International Version)\nnot by works,[^A] so that no one can boast.[^B] \n\n### Crossrefs\n[^A]: [[Deut-9-5|Dt 9:5]]; [[Rom-4-2|Ro 4:2]]; [[2Tim-1-9|2Ti 1:9]]; [[Titus-3-5|Tit 3:5]]\n[^B]: [[1Cor-1-29|1Co 1:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aad8b042a867",m="# Joshua 7:16 (New International Version)\nEarly the next morning Joshua had Israel come forward by tribes, and Judah was chosen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

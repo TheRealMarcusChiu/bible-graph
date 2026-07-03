@@ -1,0 +1,1 @@
+(function(){var b="494dde4e5e60",m="# Romans 11:4 (New International Version)\nAnd what was God's answer to him? \"I have reserved for myself seven thousand who have not bowed the knee to Baal.\"[^A] \n\n### Crossrefs\n[^A]: [[1Kgs-19-18|1Ki 19:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

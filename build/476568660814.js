@@ -1,0 +1,1 @@
+(function(){var b="476568660814",m="# Exodus 14:6 (New International Version)\nSo he had his chariot made ready and took his army with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

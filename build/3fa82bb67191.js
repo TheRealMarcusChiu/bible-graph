@@ -1,0 +1,1 @@
+(function(){var b="3fa82bb67191",m="# Luke 23:18 (New International Version)\nBut the whole crowd shouted, \"Away with this man! Release Barabbas to us!\"[^A] \n\n### Crossrefs\n[^A]: [[Acts-3-13|Ac 3:13]], [[Acts-3-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

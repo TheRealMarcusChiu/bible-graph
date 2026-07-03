@@ -1,0 +1,1 @@
+(function(){var b="899560d6abca",m="# Numbers 33:28 (New International Version)\nThey left Terah and camped at Mithkah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

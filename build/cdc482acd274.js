@@ -1,0 +1,1 @@
+(function(){var b="cdc482acd274",m="# Leviticus 13:53 (New International Version)\n\"But if, when the priest examines it, the mold has not spread in the fabric, the woven or knitted material, or the leather article,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

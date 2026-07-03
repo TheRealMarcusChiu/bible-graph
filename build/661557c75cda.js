@@ -1,0 +1,1 @@
+(function(){var b="661557c75cda",m="# Matthew 2:4 (New International Version)\nWhen he had called together all the people's chief priests and teachers of the law, he asked them where the Messiah was to be born.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

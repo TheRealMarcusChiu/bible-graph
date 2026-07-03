@@ -1,0 +1,1 @@
+(function(){var b="4cbce711cbb2",m="# Numbers 29:33 (New International Version)\nWith the bulls, rams and lambs, offer their grain offerings and drink offerings according to the number specified.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

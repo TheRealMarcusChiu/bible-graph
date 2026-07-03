@@ -1,0 +1,1 @@
+(function(){var b="61aaf8c05dbc",m="# Genesis 26:13 (New International Version)\nThe man became rich, and his wealth continued to grow until he became very wealthy.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-13-2|Ge 13:2]]; S [[Deut-8-18|Dt 8:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

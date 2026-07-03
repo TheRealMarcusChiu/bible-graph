@@ -1,0 +1,1 @@
+(function(){var b="fc0a43dda052",m="# Mark 2:21 (New International Version)\n\"No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

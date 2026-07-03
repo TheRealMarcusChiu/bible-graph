@@ -1,0 +1,1 @@
+(function(){var b="27ca052cebf3",m="# Numbers 22:32 (New International Version)\nThe angel of the LORD asked him, \"Why have you beaten your donkey these three times? I have come here to oppose you because your path is a reckless one before me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

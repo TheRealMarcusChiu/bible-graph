@@ -1,0 +1,1 @@
+(function(){var b="4b27ffc839ed",m="# Genesis 47:8 (New International Version)\nPharaoh asked him, \"How old are you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

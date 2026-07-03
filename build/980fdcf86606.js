@@ -1,0 +1,1 @@
+(function(){var b="980fdcf86606",m="# John 1:24 (New International Version)\nNow the Pharisees who had been sent";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

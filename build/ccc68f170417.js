@@ -1,0 +1,1 @@
+(function(){var b="ccc68f170417",m="# John 13:32 (New International Version)\nIf God is glorified in him, God will glorify the Son in himself,[^A] and will glorify him at once.\n\n### Crossrefs\n[^A]: [[John-17-1|Jn 17:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

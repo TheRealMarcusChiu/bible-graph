@@ -1,0 +1,1 @@
+(function(){var b="bb422b90d620",m="# Acts 19:31 (New International Version)\nEven some of the officials of the province, friends of Paul, sent him a message begging him not to venture into the theater.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

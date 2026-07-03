@@ -1,0 +1,1 @@
+(function(){var b="206633dba53e",m="# Deuteronomy 28:28 (New International Version)\nThe LORD will afflict you with madness, blindness and confusion of mind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

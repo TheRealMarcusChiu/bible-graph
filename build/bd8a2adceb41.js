@@ -1,0 +1,1 @@
+(function(){var b="bd8a2adceb41",m="# Acts 24:2 (New International Version)\nWhen Paul was called in, Tertullus presented his case before Felix: \"We have enjoyed a long period of peace under you, and your foresight has brought about reforms in this nation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

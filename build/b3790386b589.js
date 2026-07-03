@@ -1,0 +1,1 @@
+(function(){var b="b3790386b589",m="# Mark 14:5 (New International Version)\nIt could have been sold for more than a year's wages and the money given to the poor.\" And they rebuked her harshly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4e634d8c0abd",m="# Joshua 8:7 (New International Version)\nyou are to rise up from ambush and take the city. The LORD your God will give it into your hand.[^A] \n\n### Crossrefs\n[^A]: [[Judg-7-7|Jdg 7:7]]; [[1Sam-23-4|1Sa 23:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

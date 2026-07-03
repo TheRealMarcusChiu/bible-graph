@@ -1,0 +1,1 @@
+(function(){var b="d3cd9831b826",m="# Luke 17:4 (New International Version)\nEven if they sin against you seven times in a day and seven times come back to you saying 'I repent,' you must forgive them.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-18-21|Mt 18:21]], [[Matt-18-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="35f480b5f030",m="# Philippians 4:21 (New International Version)\nFinal Greetings\nGreet all God's people in Christ Jesus. The brothers and sisters who are with me[^A] send greetings. \n\n### Crossrefs\n[^A]: [[Gal-1-2|Gal 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

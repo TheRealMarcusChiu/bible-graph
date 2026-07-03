@@ -1,0 +1,1 @@
+(function(){var b="1c67649267b2",m="# Deuteronomy 8:12 (New International Version)\nOtherwise, when you eat and are satisfied, when you build fine houses and settle down,[^A] \n\n### Crossrefs\n[^A]: [[Prov-30-9|Pr 30:9]]; [[Hos-13-6|Hos 13:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

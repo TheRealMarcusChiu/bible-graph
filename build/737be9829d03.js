@@ -1,0 +1,1 @@
+(function(){var b="737be9829d03",m="# Matthew 18:33 (New International Version)\nShouldn't you have had mercy on your fellow servant just as I had on you?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

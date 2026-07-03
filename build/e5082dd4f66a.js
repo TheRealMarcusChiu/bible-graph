@@ -1,0 +1,1 @@
+(function(){var b="e5082dd4f66a",m="# Hebrews 6:15 (New International Version)\nAnd so after waiting patiently, Abraham received what was promised.[^A]\n\n### Crossrefs\n[^A]: [[Gen-21-5|Ge 21:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

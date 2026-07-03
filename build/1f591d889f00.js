@@ -1,0 +1,1 @@
+(function(){var b="1f591d889f00",m="# Romans 3:23 (New International Version)\nfor all have sinned[^A] and fall short of the glory of God, \n\n### Crossrefs\n[^A]: S [[Rom-3-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

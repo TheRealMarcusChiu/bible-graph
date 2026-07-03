@@ -1,0 +1,1 @@
+(function(){var b="62cb2c0200f5",m="# Numbers 20:7 (New International Version)\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

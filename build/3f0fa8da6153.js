@@ -1,0 +1,1 @@
+(function(){var b="3f0fa8da6153",m="# Mark 9:11 (New International Version)\nAnd they asked him, \"Why do the teachers of the law say that Elijah must come first?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

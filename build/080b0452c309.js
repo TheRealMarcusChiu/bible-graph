@@ -1,0 +1,1 @@
+(function(){var b="080b0452c309",m="# Matthew 28:12 (New International Version)\nWhen the chief priests had met with the elders and devised a plan, they gave the soldiers a large sum of money,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

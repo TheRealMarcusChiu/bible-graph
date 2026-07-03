@@ -1,0 +1,1 @@
+(function(){var b="1fec44cdbe75",m="# Leviticus 7:8 (New International Version)\nThe priest who offers a burnt offering for anyone may keep its hide[^A] for himself. \n\n### Crossrefs\n[^A]: [[Lev-1-6|Lev 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

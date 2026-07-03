@@ -1,0 +1,1 @@
+(function(){var b="6a1ba8eb4538",m="# Mark 15:8 (New International Version)\nThe crowd came up and asked Pilate to do for them what he usually did.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

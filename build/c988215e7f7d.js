@@ -1,0 +1,1 @@
+(function(){var b="c988215e7f7d",m="# Luke 18:16 (New International Version)\nBut Jesus called the children to him and said, \"Let the little children come to me, and do not hinder them, for the kingdom of God belongs to such as these.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

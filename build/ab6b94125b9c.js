@@ -1,0 +1,1 @@
+(function(){var b="ab6b94125b9c",m="# John 12:10 (New International Version)\nSo the chief priests made plans to kill Lazarus as well,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

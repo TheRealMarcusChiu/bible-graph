@@ -1,0 +1,1 @@
+(function(){var b="4b4abd346d2c",m="# 2 Corinthians 7:9 (New International Version)\nyet now I am happy, not because you were made sorry, but because your sorrow led you to repentance. For you became sorrowful as God intended and so were not harmed in any way by us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

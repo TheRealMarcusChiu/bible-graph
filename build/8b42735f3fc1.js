@@ -1,0 +1,1 @@
+(function(){var b="8b42735f3fc1",m="# Leviticus 2:7 (New International Version)\nIf your grain offering is cooked in a pan,[^A] it is to be made of the finest flour and some olive oil. \n\n### Crossrefs\n[^A]: [[Lev-7-9|Lev 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

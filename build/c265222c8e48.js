@@ -1,0 +1,1 @@
+(function(){var b="c265222c8e48",m="# Acts 8:2 (New International Version)\nGodly men buried Stephen and mourned deeply for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

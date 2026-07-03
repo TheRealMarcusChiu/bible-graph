@@ -1,0 +1,1 @@
+(function(){var b="bf207bb628d4",m="# Joshua 5:8 (New International Version)\nAnd after the whole nation had been circumcised, they remained where they were in camp until they were healed.[^A]\n\n### Crossrefs\n[^A]: [[Gen-34-25|Ge 34:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

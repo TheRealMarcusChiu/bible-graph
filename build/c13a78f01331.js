@@ -1,0 +1,1 @@
+(function(){var b="c13a78f01331",m="# Matthew 19:27 (New International Version)\nPeter answered him, \"We have left everything to follow you![^A] What then will there be for us?\"\n\n### Crossrefs\n[^A]: S [[Matt-4-19|Mt 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

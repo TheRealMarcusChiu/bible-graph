@@ -1,0 +1,1 @@
+(function(){var b="0bb04c06647b",m="# Joshua 7:22 (New International Version)\nSo Joshua sent messengers, and they ran to the tent, and there it was, hidden in his tent, with the silver underneath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

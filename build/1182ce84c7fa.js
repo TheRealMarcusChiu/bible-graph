@@ -1,0 +1,1 @@
+(function(){var b="1182ce84c7fa",m="# Leviticus 4:23 (New International Version)\nand the sin he has committed becomes known, he must bring as his offering a male goat[^A] without defect. \n\n### Crossrefs\n[^A]: S [[Lev-4-3|ver 3]]; S [[Lev-1-10|Lev 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

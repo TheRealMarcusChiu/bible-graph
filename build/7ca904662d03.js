@@ -1,0 +1,1 @@
+(function(){var b="7ca904662d03",m="# Genesis 45:24 (New International Version)\nThen he sent his brothers away, and as they were leaving he said to them, \"Don't quarrel on the way!\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-42-21|Ge 42:21-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

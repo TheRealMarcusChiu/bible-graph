@@ -1,0 +1,1 @@
+(function(){var b="eaff0fa4a508",m="# Deuteronomy 13:7 (New International Version)\ngods of the peoples around you, whether near or far, from one end of the land to the other),";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

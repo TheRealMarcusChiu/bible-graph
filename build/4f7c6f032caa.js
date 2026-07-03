@@ -1,0 +1,1 @@
+(function(){var b="4f7c6f032caa",m="# John 19:5 (New International Version)\nWhen Jesus came out wearing the crown of thorns and the purple robe,[^A] Pilate said to them, \"Here is the man!\"\n\n### Crossrefs\n[^A]: [[John-19-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5c19be2aff80",m="# Luke 11:12 (New International Version)\nOr if he asks for an egg, will give him a scorpion?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

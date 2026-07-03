@@ -1,0 +1,1 @@
+(function(){var b="a1926aec2a24",m="# Mark 6:29 (New International Version)\nOn hearing of this, John's disciples came and took his body and laid it in a tomb.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

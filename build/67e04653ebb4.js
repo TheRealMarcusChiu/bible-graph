@@ -1,0 +1,1 @@
+(function(){var b="67e04653ebb4",m="# 2 Timothy 2:24 (New International Version)\nAnd the Lord's servant must not be quarrelsome but must be kind to everyone, able to teach, not resentful.[^A] \n\n### Crossrefs\n[^A]: [[1Tim-3-2|1Ti 3:2]], [[1Tim-3-3|3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

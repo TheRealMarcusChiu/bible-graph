@@ -1,0 +1,1 @@
+(function(){var b="76760ac86a29",m="# Philippians 1\n\nA joyful letter from prison -- to live is Christ, and the mind of Christ who humbled himself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

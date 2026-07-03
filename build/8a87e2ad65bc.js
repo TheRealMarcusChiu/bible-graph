@@ -1,0 +1,1 @@
+(function(){var b="8a87e2ad65bc",m="# Luke 21:27 (New International Version)\nAt that time they will see the Son of Man[^A] coming in a cloud[^B] with power and great glory. \n\n### Crossrefs\n[^A]: S [[Matt-8-20|Mt 8:20]]\n[^B]: S [[Rev-1-7|Rev 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

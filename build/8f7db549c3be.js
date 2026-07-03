@@ -1,0 +1,1 @@
+(function(){var b="8f7db549c3be",m="# Deuteronomy 1:14 (New International Version)\nYou answered me, \"What you propose to do is good.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e1a70b061b51",m="# Deuteronomy 15:17 (New International Version)\nthen take an awl and push it through his earlobe into the door, and he will become your servant for life. Do the same for your female servant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

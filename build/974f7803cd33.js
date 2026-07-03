@@ -1,0 +1,1 @@
+(function(){var b="974f7803cd33",m="# Matthew 9:7 (New International Version)\nThen the man got up and went home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

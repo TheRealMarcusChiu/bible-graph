@@ -1,0 +1,1 @@
+(function(){var b="3d7136fcc5f1",m="# Exodus 40:36 (New International Version)\nIn all the travels of the Israelites, whenever the cloud lifted from above the tabernacle, they would set out;[^A] \n\n### Crossrefs\n[^A]: [[Num-9-17|Nu 9:17-23]]; [[Num-10-13|10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

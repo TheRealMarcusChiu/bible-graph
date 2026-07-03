@@ -1,0 +1,1 @@
+(function(){var b="bf58ac03ec7a",m="# Numbers 11:32 (New International Version)\nAll that day and night and all the next day the people went out and gathered quail. No one gathered less than ten homers. Then they spread them out all around the camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

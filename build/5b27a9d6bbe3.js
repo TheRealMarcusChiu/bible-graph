@@ -1,0 +1,1 @@
+(function(){var b="5b27a9d6bbe3",m="# Acts 12:16 (New International Version)\nBut Peter kept on knocking, and when they opened the door and saw him, they were astonished.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

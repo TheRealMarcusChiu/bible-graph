@@ -1,0 +1,1 @@
+(function(){var b="1ef04f20798c",m="# 2 Thessalonians 3:4 (New International Version)\nWe have confidence[^A] in the Lord that you are doing and will continue to do the things we command. \n\n### Crossrefs\n[^A]: S [[2Cor-2-3|2Co 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

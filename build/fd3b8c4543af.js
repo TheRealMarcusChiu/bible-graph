@@ -1,0 +1,1 @@
+(function(){var b="fd3b8c4543af",m="# Joshua 10:38 (New International Version)\nThen Joshua and all Israel with him turned around and attacked Debir.[^A] \n\n### Crossrefs\n[^A]: S [[Josh-10-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

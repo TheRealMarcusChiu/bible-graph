@@ -1,0 +1,1 @@
+(function(){var b="b09f0da9e25a",m="# Matthew 27:43 (New International Version)\nHe trusts in God. Let God rescue him[^A] now if he wants him, for he said, 'I am the Son of God.'\" \n\n### Crossrefs\n[^A]: [[Ps-22-8|Ps 22:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

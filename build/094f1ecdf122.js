@@ -1,0 +1,1 @@
+(function(){var b="094f1ecdf122",m="# 1 Peter 2:19 (New International Version)\nFor it is commendable if someone bears up under the pain of unjust suffering because they are conscious of God.[^A] \n\n### Crossrefs\n[^A]: [[1Pet-3-14|1Pe 3:14]], [[1Pet-3-17|17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

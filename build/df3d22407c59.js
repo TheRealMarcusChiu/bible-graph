@@ -1,0 +1,1 @@
+(function(){var b="df3d22407c59",m="# John 18:8 (New International Version)\nJesus answered, \"I told you that I am he. If you are looking for me, then let these men go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

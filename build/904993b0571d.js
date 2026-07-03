@@ -1,0 +1,1 @@
+(function(){var b="904993b0571d",m="# Acts 19:41 (New International Version)\nAfter he had said this, he dismissed the assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

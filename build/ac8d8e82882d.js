@@ -1,0 +1,1 @@
+(function(){var b="ac8d8e82882d",m="# Genesis 36:25 (New International Version)\nThe children of Anah:[^A]\nDishon and Oholibamah[^B] daughter of Anah.\n\n### Crossrefs\n[^A]: S [[Gen-36-2|ver 2]]\n[^B]: S [[Gen-36-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="449dda76efa0",m="# John 1:37 (New International Version)\nWhen the two disciples heard him say this, they followed Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

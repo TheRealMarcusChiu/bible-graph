@@ -1,0 +1,1 @@
+(function(){var b="9173cdf62f83",m="# Matthew 16:26 (New International Version)\nWhat good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

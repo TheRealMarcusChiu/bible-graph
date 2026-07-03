@@ -1,0 +1,1 @@
+(function(){var b="a0d7da2e7ee4",m="# Luke 12:32 (New International Version)\n\"Do not be afraid,[^A] little flock, for your Father has been pleased to give you the kingdom.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-14-27|Mt 14:27]]\n[^B]: S [[Matt-25-34|Mt 25:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

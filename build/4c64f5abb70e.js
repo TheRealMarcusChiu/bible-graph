@@ -1,0 +1,1 @@
+(function(){var b="4c64f5abb70e",m="# Acts 7:12 (New International Version)\nWhen Jacob heard that there was grain in Egypt, he sent our forefathers on their first visit.[^A] \n\n### Crossrefs\n[^A]: [[Gen-42-1|Ge 42:1]], [[Gen-42-2|2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

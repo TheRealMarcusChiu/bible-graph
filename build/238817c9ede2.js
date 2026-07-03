@@ -1,0 +1,1 @@
+(function(){var b="238817c9ede2",m="# Luke 23:13 (New International Version)\nPilate called together the chief priests, the rulers and the people,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

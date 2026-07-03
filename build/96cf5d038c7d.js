@@ -1,0 +1,1 @@
+(function(){var b="96cf5d038c7d",m="# Joshua 4:1 (New International Version)\nWhen the whole nation had finished crossing the Jordan,[^A] the LORD said to Joshua, \n\n### Crossrefs\n[^A]: [[Deut-27-2|Dt 27:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

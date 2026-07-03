@@ -1,0 +1,1 @@
+(function(){var b="093537b92ef4",m="# Exodus 18\n\nIsrael's deliverance from slavery in Egypt under Moses, the giving of the Law at Sinai, and the building of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

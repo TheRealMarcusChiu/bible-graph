@@ -1,0 +1,1 @@
+(function(){var b="55f1232763e3",m="# Genesis 4:16 (New International Version)\nSo Cain went out from the LORD's presence[^A] and lived in the land of Nod, east of Eden.[^B]\n\n### Crossrefs\n[^A]: [[Jude-1-11|Jude 1:11]]\n[^B]: S [[Gen-2-8|Ge 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

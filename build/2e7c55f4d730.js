@@ -1,0 +1,1 @@
+(function(){var b="2e7c55f4d730",m="# Numbers 14:7 (New International Version)\nand said to the entire Israelite assembly, \"The land we passed through and explored is exceedingly good.[^A] \n\n### Crossrefs\n[^A]: [[Num-13-27|Nu 13:27]]; [[Deut-1-25|Dt 1:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

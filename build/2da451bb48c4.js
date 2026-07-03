@@ -1,0 +1,1 @@
+(function(){var b="2da451bb48c4",m="# John 13:6 (New International Version)\nHe came to Simon Peter, who said to him, \"Lord, are you going to wash my feet?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

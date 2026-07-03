@@ -1,0 +1,1 @@
+(function(){var b="0fc9991d183c",m="# Mark 4:27 (New International Version)\nNight and day, whether he sleeps or gets up, the seed sprouts and grows, though he does not know how.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

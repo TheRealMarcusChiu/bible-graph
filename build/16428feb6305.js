@@ -1,0 +1,1 @@
+(function(){var b="16428feb6305",m="# Luke 16:11 (New International Version)\nSo if you have not been trustworthy in handling worldly wealth,[^A] who will trust you with true riches? \n\n### Crossrefs\n[^A]: [[Luke-16-9|ver 9]], [[Luke-16-13|13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

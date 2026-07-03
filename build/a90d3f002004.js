@@ -1,0 +1,1 @@
+(function(){var b="a90d3f002004",m="# Romans 15:2 (New International Version)\nEach of us should please our neighbors for their good,[^A] to build them up.[^B] \n\n### Crossrefs\n[^A]: S [[1Cor-10-24|1Co 10:24]]\n[^B]: S [[Rom-14-19|Ro 14:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="560623af2498",m="# Genesis 28:16 (New International Version)\nWhen Jacob awoke from his sleep,[^A] he thought, \"Surely the LORD is in this place, and I was not aware of it.\" \n\n### Crossrefs\n[^A]: [[1Kgs-3-15|1Ki 3:15]]; [[Jer-31-26|Jer 31:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

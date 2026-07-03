@@ -1,0 +1,1 @@
+(function(){var b="2d6da951caa2",m="# John 9:27 (New International Version)\nHe answered, \"I have told you already[^A] and you did not listen. Why do you want to hear it again? Do you want to become his disciples too?\"\n\n### Crossrefs\n[^A]: [[John-9-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

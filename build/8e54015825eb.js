@@ -1,0 +1,1 @@
+(function(){var b="8e54015825eb",m="# Luke 10:15 (New International Version)\nAnd you, Capernaum,[^A] will you be lifted to the heavens? No, you will go down to Hades.\n\n### Crossrefs\n[^A]: S [[Matt-4-13|Mt 4:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

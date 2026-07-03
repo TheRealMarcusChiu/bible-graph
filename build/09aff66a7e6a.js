@@ -1,0 +1,1 @@
+(function(){var b="09aff66a7e6a",m="# Deuteronomy 1:20 (New International Version)\nThen I said to you, \"You have reached the hill country of the Amorites, which the LORD our God is giving us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

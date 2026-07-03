@@ -1,0 +1,1 @@
+(function(){var b="499fb858b3ee",m="# Leviticus 8:34 (New International Version)\nWhat has been done today was commanded by the LORD[^A] to make atonement for you. \n\n### Crossrefs\n[^A]: [[Heb-7-16|Heb 7:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

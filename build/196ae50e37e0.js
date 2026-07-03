@@ -1,0 +1,1 @@
+(function(){var b="196ae50e37e0",m="# Leviticus 14:46 (New International Version)\n\"Anyone who goes into the house while it is closed up will be unclean till evening.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-11-24|Lev 11:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

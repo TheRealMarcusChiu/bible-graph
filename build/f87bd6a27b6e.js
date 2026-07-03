@@ -1,0 +1,1 @@
+(function(){var b="f87bd6a27b6e",m="# John 7:10 (New International Version)\nHowever, after his brothers had left for the festival, he went also, not publicly, but in secret.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

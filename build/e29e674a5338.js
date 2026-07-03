@@ -1,0 +1,1 @@
+(function(){var b="e29e674a5338",m="# Luke 4:33 (New International Version)\nIn the synagogue there was a man possessed by a demon, an impure spirit. He cried out at the top of his voice,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

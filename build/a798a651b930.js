@@ -1,0 +1,1 @@
+(function(){var b="a798a651b930",m="# Judges 6:6 (New International Version)\nMidian so impoverished the Israelites that they cried out[^A] to the LORD for help.\n\n### Crossrefs\n[^A]: S [[Judg-3-9|Jdg 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

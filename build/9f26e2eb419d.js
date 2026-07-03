@@ -1,0 +1,1 @@
+(function(){var b="9f26e2eb419d",m="# Judges 5:22 (New International Version)\nThen thundered the horses' hooves--  \n    galloping, galloping go his mighty steeds.[^A]\n\n### Crossrefs\n[^A]: [[Jer-8-16|Jer 8:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

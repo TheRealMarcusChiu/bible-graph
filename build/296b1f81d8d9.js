@@ -1,0 +1,1 @@
+(function(){var b="296b1f81d8d9",m="# Mark 3:30 (New International Version)\nHe said this because they were saying, \"He has an impure spirit.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

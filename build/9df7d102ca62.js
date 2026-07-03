@@ -1,0 +1,1 @@
+(function(){var b="9df7d102ca62",m="# Leviticus 11:2 (New International Version)\n\"Say to the Israelites: 'Of all the animals that live on land, these are the ones you may eat:[^A] \n\n### Crossrefs\n[^A]: [[Acts-10-12|Ac 10:12-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

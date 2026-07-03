@@ -1,0 +1,1 @@
+(function(){var b="95c6360ea481",m="# Matthew 9:31 (New International Version)\nBut they went out and spread the news about him all over that region.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-9-26|ver 26]]; [[Mark-7-36|Mk 7:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

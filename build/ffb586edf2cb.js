@@ -1,0 +1,1 @@
+(function(){var b="ffb586edf2cb",m="# Deuteronomy 17:10 (New International Version)\nYou must act according to the decisions they give you at the place the LORD will choose. Be careful to do everything they instruct you to do.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="43a482f3c1cf",m="# Luke 9:56 (New International Version)\nThen he and his disciples went to another village.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

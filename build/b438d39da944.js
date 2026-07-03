@@ -1,0 +1,1 @@
+(function(){var b="b438d39da944",m="# Luke 13:9 (New International Version)\nIf it bears fruit next year, fine! If not, then cut it down.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

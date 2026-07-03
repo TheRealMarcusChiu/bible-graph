@@ -1,0 +1,1 @@
+(function(){var b="707eaf46aa77",m="# Galatians 5:8 (New International Version)\nThat kind of persuasion does not come from the one who calls you.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-8-28|Ro 8:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b273d7bb13d3",m="# Numbers 13:8 (New International Version)\nfrom the tribe of Ephraim, Hoshea son of Nun;[^A]\n\n### Crossrefs\n[^A]: S [[Num-11-28|Nu 11:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

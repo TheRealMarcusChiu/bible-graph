@@ -1,0 +1,1 @@
+(function(){var b="b18443a96456",m="# Luke 16:5 (New International Version)\n\"So he called in each one of his master's debtors. He asked the first, 'How much do you owe my master?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

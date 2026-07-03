@@ -1,0 +1,1 @@
+(function(){var b="a59b83657569",m="# Mark 1:37 (New International Version)\nand when they found him, they exclaimed: \"Everyone is looking for you!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

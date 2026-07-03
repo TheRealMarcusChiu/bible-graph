@@ -1,0 +1,1 @@
+(function(){var b="f9838a4765b8",m="# Numbers 28:1 (New International Version)\nDaily Offerings\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

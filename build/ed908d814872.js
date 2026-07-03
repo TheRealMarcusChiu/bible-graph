@@ -1,0 +1,1 @@
+(function(){var b="ed908d814872",m="# Matthew 18:19 (New International Version)\n\"Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them[^A] by my Father in heaven. \n\n### Crossrefs\n[^A]: S [[Matt-7-7|Mt 7:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

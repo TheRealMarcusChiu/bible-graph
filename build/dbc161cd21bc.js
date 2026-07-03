@@ -1,0 +1,1 @@
+(function(){var b="dbc161cd21bc",m="# Judges 9:44 (New International Version)\nAbimelek and the companies with him rushed forward to a position at the entrance of the city gate. Then two companies attacked those in the fields and struck them down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

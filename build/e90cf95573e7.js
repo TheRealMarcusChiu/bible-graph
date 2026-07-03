@@ -1,0 +1,1 @@
+(function(){var b="e90cf95573e7",m="# Luke 8:30 (New International Version)\nJesus asked him, \"What is your name?\"\n\"Legion,\" he replied, because many demons had gone into him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

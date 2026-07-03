@@ -1,0 +1,1 @@
+(function(){var b="96c21f0a10da",m="# Matthew 27:6 (New International Version)\nThe chief priests picked up the coins and said, \"It is against the law to put this into the treasury, since it is blood money.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

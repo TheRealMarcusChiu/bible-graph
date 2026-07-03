@@ -1,0 +1,1 @@
+(function(){var b="c1d213739945",m="# Exodus 36:32 (New International Version)\nfive for those on the other side, and five for the frames on the west, at the far end of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

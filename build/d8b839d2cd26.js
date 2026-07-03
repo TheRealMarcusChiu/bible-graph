@@ -1,0 +1,1 @@
+(function(){var b="d8b839d2cd26",m="# Acts 19:36 (New International Version)\nTherefore, since these facts are undeniable, you ought to calm down and not do anything rash.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

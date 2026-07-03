@@ -1,0 +1,1 @@
+(function(){var b="1bbd2ed37f4e",m="# Matthew 13:45 (New International Version)\n\"Again, the kingdom of heaven is like[^A] a merchant looking for fine pearls. \n\n### Crossrefs\n[^A]: S [[Matt-13-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

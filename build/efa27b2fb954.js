@@ -1,0 +1,1 @@
+(function(){var b="efa27b2fb954",m="# Luke 19:25 (New International Version)\n\"'Sir,' they said, 'he already has ten!'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

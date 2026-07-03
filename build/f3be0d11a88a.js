@@ -1,0 +1,1 @@
+(function(){var b="f3be0d11a88a",m="# 1 Corinthians 7:10 (New International Version)\nTo the married I give this command (not I, but the Lord): A wife must not separate from her husband.[^A] \n\n### Crossrefs\n[^A]: [[Mal-2-14|Mal 2:14-16]]; S [[Luke-16-18|Lk 16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

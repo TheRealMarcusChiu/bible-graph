@@ -1,0 +1,1 @@
+(function(){var b="e67b810e3ff9",m="# Galatians 4:25 (New International Version)\nNow Hagar stands for Mount Sinai in Arabia and corresponds to the present city of Jerusalem, because she is in slavery with her children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

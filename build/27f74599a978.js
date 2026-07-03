@@ -1,0 +1,1 @@
+(function(){var b="27f74599a978",m="# Leviticus 17:8 (New International Version)\n\"Say to them: 'Any Israelite or any foreigner residing among them who offers a burnt offering or sacrifice";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

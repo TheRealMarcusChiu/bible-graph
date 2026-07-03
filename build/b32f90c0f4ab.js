@@ -1,0 +1,1 @@
+(function(){var b="b32f90c0f4ab",m="# Leviticus 7:23 (New International Version)\n\"Say to the Israelites: 'Do not eat any of the fat of cattle, sheep or goats.[^A] \n\n### Crossrefs\n[^A]: [[Lev-17-13|Lev 17:13-14]]; [[Deut-14-4|Dt 14:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

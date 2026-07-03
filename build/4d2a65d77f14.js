@@ -1,0 +1,1 @@
+(function(){var b="4d2a65d77f14",m="# Matthew 5:27 (New International Version)\nAdultery\n\"You have heard that it was said, 'You shall not commit adultery.'[^A] \n\n### Crossrefs\n[^A]: [[Exod-20-14|Ex 20:14]]; [[Deut-5-18|Dt 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

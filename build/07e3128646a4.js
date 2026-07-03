@@ -1,0 +1,1 @@
+(function(){var b="07e3128646a4",m="# Romans 11:23 (New International Version)\nAnd if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.[^A] \n\n### Crossrefs\n[^A]: [[2Cor-3-16|2Co 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

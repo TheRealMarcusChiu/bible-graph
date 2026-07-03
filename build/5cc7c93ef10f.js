@@ -1,0 +1,1 @@
+(function(){var b="5cc7c93ef10f",m="# Judges 9:22 (New International Version)\nAfter Abimelek had governed Israel three years,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e0cb01067f34",m="# Luke 4:42 (New International Version)\nAt daybreak, Jesus went out to a solitary place. The people were looking for him and when they came to where he was, they tried to keep him from leaving them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

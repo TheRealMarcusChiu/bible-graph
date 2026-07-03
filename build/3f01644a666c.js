@@ -1,0 +1,1 @@
+(function(){var b="3f01644a666c",m="# Mark 2:25 (New International Version)\nHe answered, \"Have you never read what David did when he and his companions were hungry and in need?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

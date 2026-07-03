@@ -1,0 +1,1 @@
+(function(){var b="127b6bc07752",m="# Mark 13:4 (New International Version)\n\"Tell us, when will these things happen? And what will be the sign that they are all about to be fulfilled?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

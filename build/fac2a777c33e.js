@@ -1,0 +1,1 @@
+(function(){var b="fac2a777c33e",m="# Exodus 16:25 (New International Version)\n\"Eat it today,\" Moses said, \"because today is a sabbath to the LORD. You will not find any of it on the ground today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

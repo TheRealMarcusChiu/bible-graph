@@ -1,0 +1,1 @@
+(function(){var b="d7a1059082b6",m="# James 3:8 (New International Version)\nbut no human being can tame the tongue. It is a restless evil, full of deadly poison.[^A]\n\n### Crossrefs\n[^A]: [[Ps-140-3|Ps 140:3]]; [[Rom-3-13|Ro 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

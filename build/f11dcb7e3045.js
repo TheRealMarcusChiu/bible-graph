@@ -1,0 +1,1 @@
+(function(){var b="f11dcb7e3045",m="# Mark 15:6 (New International Version)\nNow it was the custom at the festival to release a prisoner whom the people requested.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

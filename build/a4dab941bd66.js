@@ -1,0 +1,1 @@
+(function(){var b="a4dab941bd66",m="# Exodus 40:32 (New International Version)\nThey washed whenever they entered the tent of meeting or approached the altar,[^A] as the LORD commanded[^B] Moses.\n\n### Crossrefs\n[^A]: [[Exod-30-20|Ex 30:20]]\n[^B]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

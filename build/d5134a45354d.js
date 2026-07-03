@@ -1,0 +1,1 @@
+(function(){var b="d5134a45354d",m="# Leviticus 26:35 (New International Version)\nAll the time that it lies desolate, the land will have the rest[^A] it did not have during the sabbaths you lived in it.\n\n### Crossrefs\n[^A]: S [[Lev-25-4|Lev 25:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

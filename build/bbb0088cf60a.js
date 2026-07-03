@@ -1,0 +1,1 @@
+(function(){var b="bbb0088cf60a",m="# Deuteronomy 14:9 (New International Version)\nOf all the creatures living in the water, you may eat any that has fins and scales.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

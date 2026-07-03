@@ -1,0 +1,1 @@
+(function(){var b="e338daa435ef",m="# Numbers 33:24 (New International Version)\nThey left Mount Shepher and camped at Haradah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

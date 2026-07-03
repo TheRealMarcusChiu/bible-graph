@@ -1,0 +1,1 @@
+(function(){var b="b93b9fb96a49",m="# Genesis 10:13 (New International Version)\nEgypt was the father of\nthe Ludites, Anamites, Lehabites, Naphtuhites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

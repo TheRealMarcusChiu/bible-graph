@@ -1,0 +1,1 @@
+(function(){var b="a8c6f86147fd",m="# Exodus 36:4 (New International Version)\nSo all the skilled workers who were doing all the work on the sanctuary left what they were doing";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

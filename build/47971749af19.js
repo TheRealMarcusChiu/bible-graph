@@ -1,0 +1,1 @@
+(function(){var b="47971749af19",m="# Matthew 19:6 (New International Version)\nSo they are no longer two, but one flesh. Therefore what God has joined together, let no one separate.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

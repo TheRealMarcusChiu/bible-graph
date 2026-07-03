@@ -1,0 +1,1 @@
+(function(){var b="6e7d0058e4f5",m="# John 10:30 (New International Version)\nI and the Father are one.\"[^A]\n\n### Crossrefs\n[^A]: [[Deut-6-4|Dt 6:4]]; [[John-17-21|Jn 17:21-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

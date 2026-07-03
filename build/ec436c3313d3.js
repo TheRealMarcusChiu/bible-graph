@@ -1,0 +1,1 @@
+(function(){var b="ec436c3313d3",m="# Numbers 8:5 (New International Version)\nThe Setting Apart of the Levites\nThe LORD said to Moses:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

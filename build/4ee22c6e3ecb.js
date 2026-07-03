@@ -1,0 +1,1 @@
+(function(){var b="4ee22c6e3ecb",m="# Genesis 29:7 (New International Version)\n\"Look,\" he said, \"the sun is still high; it is not time for the flocks to be gathered. Water the sheep and take them back to pasture.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="42bc309bcf35",m="# Acts 28:24 (New International Version)\nSome were convinced by what he said, but others would not believe.[^A] \n\n### Crossrefs\n[^A]: [[Acts-14-4|Ac 14:4]]; [[Acts-17-4|17:4]], [[Acts-17-5|5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

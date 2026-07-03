@@ -1,0 +1,1 @@
+(function(){var b="ff81be3b6f3b",m="# Leviticus 18:11 (New International Version)\n\"'Do not have sexual relations with the daughter of your father's wife, born to your father; she is your sister.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

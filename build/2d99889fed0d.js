@@ -1,0 +1,1 @@
+(function(){var b="2d99889fed0d",m="# Matthew 23:31 (New International Version)\nSo you testify against yourselves that you are the descendants of those who murdered the prophets.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-5-12|Mt 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

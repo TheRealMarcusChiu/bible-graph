@@ -1,0 +1,1 @@
+(function(){var b="6a0ccd718e2f",m="# Acts 8:38 (New International Version)\nAnd he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water and Philip baptized him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

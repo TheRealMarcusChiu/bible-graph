@@ -1,0 +1,1 @@
+(function(){var b="8de83aded208",m="# 2 John 1\n\nWalking in truth and love, and refusing hospitality to deceivers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

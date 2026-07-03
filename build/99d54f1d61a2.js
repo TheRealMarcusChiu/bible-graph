@@ -1,0 +1,1 @@
+(function(){var b="99d54f1d61a2",m="# 1 Thessalonians 5:20 (New International Version)\nDo not treat prophecies[^A] with contempt \n\n### Crossrefs\n[^A]: [[1Cor-14-1|1Co 14:1-40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

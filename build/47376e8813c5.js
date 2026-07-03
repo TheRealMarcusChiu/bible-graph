@@ -1,0 +1,1 @@
+(function(){var b="47376e8813c5",m="# Exodus 32:16 (New International Version)\nThe tablets were the work of God; the writing was the writing of God, engraved on the tablets.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-24-12|Ex 24:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

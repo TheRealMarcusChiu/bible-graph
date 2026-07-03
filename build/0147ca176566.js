@@ -1,0 +1,1 @@
+(function(){var b="0147ca176566",m="# Hebrews 3:10 (New International Version)\nThat is why I was angry with that generation;  \n    I said, 'Their hearts are always going astray,  \n    and they have not known my ways.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

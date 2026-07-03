@@ -1,0 +1,1 @@
+(function(){var b="2ae3ff7ab278",m="# Mark 5:6 (New International Version)\nWhen he saw Jesus from a distance, he ran and fell on his knees in front of him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

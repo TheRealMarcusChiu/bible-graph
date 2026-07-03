@@ -1,0 +1,1 @@
+(function(){var b="99a243731b00",m="# Genesis 15:4 (New International Version)\nThen the word of the LORD came to him: \"This man will not be your heir, but a son who is your own flesh and blood will be your heir.[^A]\" \n\n### Crossrefs\n[^A]: [[Gal-4-28|Gal 4:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

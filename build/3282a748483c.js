@@ -1,0 +1,1 @@
+(function(){var b="3282a748483c",m="# Mark 14:20 (New International Version)\n\"It is one of the Twelve,\" he replied, \"one who dips bread into the bowl with me.[^A] \n\n### Crossrefs\n[^A]: [[John-13-18|Jn 13:18-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d531b46e7d5a",m="# 1 Timothy 5:25 (New International Version)\nIn the same way, good deeds are obvious, and even those that are not obvious cannot remain hidden forever.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

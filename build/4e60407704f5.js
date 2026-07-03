@@ -1,0 +1,1 @@
+(function(){var b="4e60407704f5",m="# Genesis 43:19 (New International Version)\nSo they went up to Joseph's steward[^A] and spoke to him at the entrance to the house. \n\n### Crossrefs\n[^A]: [[Gen-43-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

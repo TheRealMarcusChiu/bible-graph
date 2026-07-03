@@ -1,0 +1,1 @@
+(function(){var b="6dc24e9890fc",m="# Joshua 6:12 (New International Version)\nJoshua got up early the next morning and the priests took up the ark of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

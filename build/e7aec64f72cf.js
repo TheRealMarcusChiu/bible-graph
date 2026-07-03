@@ -1,0 +1,1 @@
+(function(){var b="e7aec64f72cf",m="# Luke 21:26 (New International Version)\nPeople will faint from terror, apprehensive of what is coming on the world, for the heavenly bodies will be shaken.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-24-29|Mt 24:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="df6b17730a80",m="# Colossians 3:7 (New International Version)\nYou used to walk in these ways, in the life you once lived.[^A] \n\n### Crossrefs\n[^A]: S [[Eph-2-2|Eph 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

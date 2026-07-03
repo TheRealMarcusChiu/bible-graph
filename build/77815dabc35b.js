@@ -1,0 +1,1 @@
+(function(){var b="77815dabc35b",m="# Genesis 30:39 (New International Version)\nthey mated in front of the branches.[^A] And they bore young that were streaked or speckled or spotted.[^B] \n\n### Crossrefs\n[^A]: [[Gen-30-41|ver 41]]\n[^B]: S [[Gen-30-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

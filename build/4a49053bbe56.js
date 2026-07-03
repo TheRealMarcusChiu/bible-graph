@@ -1,0 +1,1 @@
+(function(){var b="4a49053bbe56",m="# 1 John 3:18 (New International Version)\nDear children,[^A] let us not love with words or speech but with actions and in truth.[^B]\n\n### Crossrefs\n[^A]: S [[1John-2-1|1Jn 2:1]]\n[^B]: [[Ezek-33-31|Eze 33:31]]; [[Rom-12-9|Ro 12:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

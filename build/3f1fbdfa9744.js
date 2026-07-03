@@ -1,0 +1,1 @@
+(function(){var b="3f1fbdfa9744",m="# Matthew 28:15 (New International Version)\nSo the soldiers took the money and did as they were instructed. And this story has been widely circulated among the Jews to this very day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

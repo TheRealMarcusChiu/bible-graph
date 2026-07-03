@@ -1,0 +1,1 @@
+(function(){var b="fc519d0dd539",m="# Luke 24:38 (New International Version)\nHe said to them, \"Why are you troubled, and why do doubts rise in your minds?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

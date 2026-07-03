@@ -1,0 +1,1 @@
+(function(){var b="afcfaf1fea74",m="# 1 Corinthians 15:11 (New International Version)\nWhether, then, it is I or they,[^A] this is what we preach, and this is what you believed.\n\n### Crossrefs\n[^A]: [[Gal-2-6|Gal 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="462b31387072",m="# Acts 4:3 (New International Version)\nThey seized Peter and John and, because it was evening, they put them in jail[^A] until the next day. \n\n### Crossrefs\n[^A]: [[Acts-5-18|Ac 5:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

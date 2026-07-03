@@ -1,0 +1,1 @@
+(function(){var b="0f93f04a4451",m="# Matthew 25:33 (New International Version)\nHe will put the sheep on his right and the goats on his left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

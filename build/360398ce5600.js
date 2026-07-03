@@ -1,0 +1,1 @@
+(function(){var b="360398ce5600",m="# Luke 18:40 (New International Version)\nJesus stopped and ordered the man to be brought to him. When he came near, Jesus asked him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

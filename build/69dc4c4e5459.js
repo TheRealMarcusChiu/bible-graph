@@ -1,0 +1,1 @@
+(function(){var b="69dc4c4e5459",m="# Mark 5:26 (New International Version)\nShe had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

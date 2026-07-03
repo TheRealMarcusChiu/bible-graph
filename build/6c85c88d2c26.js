@@ -1,0 +1,1 @@
+(function(){var b="6c85c88d2c26",m="# Matthew 3:14 (New International Version)\nBut John tried to deter him, saying, \"I need to be baptized by you, and do you come to me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

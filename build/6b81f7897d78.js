@@ -1,0 +1,1 @@
+(function(){var b="6b81f7897d78",m="# Genesis 36:32 (New International Version)\nBela son of Beor became king of Edom. His city was named Dinhabah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

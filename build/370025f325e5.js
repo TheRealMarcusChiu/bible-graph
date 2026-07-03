@@ -1,0 +1,1 @@
+(function(){var b="370025f325e5",m="# 2 Timothy 1:4 (New International Version)\nRecalling your tears,[^A] I long to see you,[^B] so that I may be filled with joy. \n\n### Crossrefs\n[^A]: [[Acts-20-37|Ac 20:37]]\n[^B]: [[2Tim-4-9|2Ti 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

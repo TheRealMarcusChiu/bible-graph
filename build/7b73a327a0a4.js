@@ -1,0 +1,1 @@
+(function(){var b="7b73a327a0a4",m="# Luke 5:20 (New International Version)\nWhen Jesus saw their faith, he said, \"Friend, your sins are forgiven.\"[^A]\n\n### Crossrefs\n[^A]: [[Luke-7-48|Lk 7:48]], [[Luke-7-49|49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

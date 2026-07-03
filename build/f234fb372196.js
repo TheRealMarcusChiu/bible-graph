@@ -1,0 +1,1 @@
+(function(){var b="f234fb372196",m="# John 4:40 (New International Version)\nSo when the Samaritans came to him, they urged him to stay with them, and he stayed two days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ec6d9fe78309",m="# Exodus 23:30 (New International Version)\nLittle by little I will drive them out before you, until you have increased enough to take possession[^A] of the land.\n\n### Crossrefs\n[^A]: [[Josh-23-5|Jos 23:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

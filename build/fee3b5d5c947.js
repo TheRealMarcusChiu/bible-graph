@@ -1,0 +1,1 @@
+(function(){var b="fee3b5d5c947",m="# Luke 23:33 (New International Version)\nWhen they came to the place called the Skull, they crucified him there, along with the criminals--one on his right, the other on his left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

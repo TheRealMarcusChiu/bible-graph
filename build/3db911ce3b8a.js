@@ -1,0 +1,1 @@
+(function(){var b="3db911ce3b8a",m="# John 11:12 (New International Version)\nHis disciples replied, \"Lord, if he sleeps, he will get better.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

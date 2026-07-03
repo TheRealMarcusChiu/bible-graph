@@ -1,0 +1,1 @@
+(function(){var b="0b892641ec67",m="# Luke 3:9 (New International Version)\nThe ax is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-3-10|Mt 3:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

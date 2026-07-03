@@ -1,0 +1,1 @@
+(function(){var b="aa61c22d731b",m="# Romans 4:10 (New International Version)\nUnder what circumstances was it credited? Was it after he was circumcised, or before? It was not after, but before!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

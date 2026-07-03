@@ -1,0 +1,1 @@
+(function(){var b="a90f0e6f2547",m="# Leviticus 15:29 (New International Version)\nOn the eighth day she must take two doves or two young pigeons[^A] and bring them to the priest at the entrance to the tent of meeting. \n\n### Crossrefs\n[^A]: [[Lev-14-22|Lev 14:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

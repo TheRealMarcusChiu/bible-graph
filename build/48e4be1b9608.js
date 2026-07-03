@@ -1,0 +1,1 @@
+(function(){var b="48e4be1b9608",m="# Exodus 31:16 (New International Version)\nThe Israelites are to observe the Sabbath,[^A] celebrating it for the generations to come as a lasting covenant. \n\n### Crossrefs\n[^A]: S [[Exod-20-8|Ex 20:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

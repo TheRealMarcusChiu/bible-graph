@@ -1,0 +1,1 @@
+(function(){var b="b742741ea64d",m="# Philippians 2:4 (New International Version)\nnot looking to your own interests but each of you to the interests of the others.[^A]\n\n### Crossrefs\n[^A]: S [[1Cor-10-24|1Co 10:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

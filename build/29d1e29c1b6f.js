@@ -1,0 +1,1 @@
+(function(){var b="29d1e29c1b6f",m="# Matthew 3:5 (New International Version)\nPeople went out to him from Jerusalem and all Judea and the whole region of the Jordan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

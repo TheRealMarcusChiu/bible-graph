@@ -1,0 +1,1 @@
+(function(){var b="eba3254c0eee",m="# John 8:8 (New International Version)\n_Again he stooped down and wrote on the ground._";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

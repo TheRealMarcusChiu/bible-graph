@@ -1,0 +1,1 @@
+(function(){var b="28a42498782e",m="# Deuteronomy 28:66 (New International Version)\nYou will live in constant suspense, filled with dread both night and day, never sure of your life.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8a7c82b784d4",m="# Galatians 4:10 (New International Version)\nYou are observing special days and months and seasons and years![^A] \n\n### Crossrefs\n[^A]: [[Rom-14-5|Ro 14:5]]; [[Col-2-16|Col 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b31d0ef183c",m="# Romans 4:12 (New International Version)\nAnd he is then also the father of the circumcised who not only are circumcised but who also follow in the footsteps of the faith that our father Abraham had before he was circumcised.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

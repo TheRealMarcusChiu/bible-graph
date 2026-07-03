@@ -1,0 +1,1 @@
+(function(){var b="5793a24b244a",m="# Leviticus 11:21 (New International Version)\nThere are, however, some flying insects that walk on all fours that you may eat: those that have jointed legs for hopping on the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

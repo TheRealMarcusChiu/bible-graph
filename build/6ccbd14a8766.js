@@ -1,0 +1,1 @@
+(function(){var b="6ccbd14a8766",m="# Acts 28:22 (New International Version)\nBut we want to hear what your views are, for we know that people everywhere are talking against this sect.\"[^A]\n\n### Crossrefs\n[^A]: S [[Acts-24-5|Ac 24:5]], [[Acts-24-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

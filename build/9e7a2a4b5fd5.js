@@ -1,0 +1,1 @@
+(function(){var b="9e7a2a4b5fd5",m="# Mark 15:13 (New International Version)\n\"Crucify him!\" they shouted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

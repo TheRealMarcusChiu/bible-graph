@@ -1,0 +1,1 @@
+(function(){var b="7535bde59fc6",m="# Genesis 27:30 (New International Version)\nAfter Isaac finished blessing him, and Jacob had scarcely left his father's presence, his brother Esau came in from hunting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

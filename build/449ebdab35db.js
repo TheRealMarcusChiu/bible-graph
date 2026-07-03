@@ -1,0 +1,1 @@
+(function(){var b="449ebdab35db",m="# Exodus 37:14 (New International Version)\nThe rings[^A] were put close to the rim to hold the poles used in carrying the table. \n\n### Crossrefs\n[^A]: [[Exod-37-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

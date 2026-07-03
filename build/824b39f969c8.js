@@ -1,0 +1,1 @@
+(function(){var b="824b39f969c8",m="# James 2:17 (New International Version)\nIn the same way, faith by itself, if it is not accompanied by action, is dead.[^A]\n\n### Crossrefs\n[^A]: [[Jas-2-20|ver 20]], [[Jas-2-26|26]]; [[Gal-5-6|Gal 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ee2e33493167",m="# Leviticus 26:14 (New International Version)\nPunishment for Disobedience\n\"'But if you will not listen to me and carry out all these commands,[^A] \n\n### Crossrefs\n[^A]: [[Deut-28-15|Dt 28:15-68]]; [[Mal-2-2|Mal 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

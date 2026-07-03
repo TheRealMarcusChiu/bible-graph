@@ -1,0 +1,1 @@
+(function(){var b="f704de40f91c",m="# John 5:9 (New International Version)\nAt once the man was cured; he picked up his mat and walked.\nThe day on which this took place was a Sabbath,[^A] \n\n### Crossrefs\n[^A]: [[Matt-12-1|Mt 12:1-14]]; [[John-9-14|Jn 9:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

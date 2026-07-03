@@ -1,0 +1,1 @@
+(function(){var b="089663062d96",m="# Numbers 35:7 (New International Version)\nIn all you must give the Levites forty-eight towns, together with their pasturelands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

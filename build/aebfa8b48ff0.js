@@ -1,0 +1,1 @@
+(function(){var b="aebfa8b48ff0",m="# Numbers 9:21 (New International Version)\nSometimes the cloud stayed only from evening till morning, and when it lifted in the morning, they set out. Whether by day or by night, whenever the cloud lifted, they set out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

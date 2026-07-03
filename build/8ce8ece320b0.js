@@ -1,0 +1,1 @@
+(function(){var b="8ce8ece320b0",m="# Judges 11:21 (New International Version)\n\"Then the LORD, the God of Israel, gave Sihon and his whole army into Israel's hands, and they defeated them. Israel took over all the land of the Amorites who lived in that country,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

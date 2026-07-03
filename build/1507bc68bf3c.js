@@ -1,0 +1,1 @@
+(function(){var b="1507bc68bf3c",m="# Exodus 39:25 (New International Version)\nAnd they made bells of pure gold and attached them around the hem between the pomegranates.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

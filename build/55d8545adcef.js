@@ -1,0 +1,1 @@
+(function(){var b="55d8545adcef",m="# 1 Corinthians 11:33 (New International Version)\nSo then, my brothers and sisters, when you gather to eat, you should all eat together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

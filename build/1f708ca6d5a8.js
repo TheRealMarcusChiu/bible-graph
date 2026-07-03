@@ -1,0 +1,1 @@
+(function(){var b="1f708ca6d5a8",m="# Genesis 21:34 (New International Version)\nAnd Abraham stayed in the land of the Philistines[^A] for a long time.\n\n### Crossrefs\n[^A]: S [[Gen-10-14|Ge 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

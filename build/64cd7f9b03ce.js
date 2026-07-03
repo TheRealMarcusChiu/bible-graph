@@ -1,0 +1,1 @@
+(function(){var b="64cd7f9b03ce",m="# 1 Corinthians 8:5 (New International Version)\nFor even if there are so-called gods,[^A] whether in heaven or on earth (as indeed there are many \"gods\" and many \"lords\"), \n\n### Crossrefs\n[^A]: [[2Thess-2-4|2Th 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

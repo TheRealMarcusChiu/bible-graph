@@ -1,0 +1,1 @@
+(function(){var b="ca0cbf69fb71",m="# Exodus 18:15 (New International Version)\nMoses answered him, \"Because the people come to me to seek God's will.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-18-19|ver 19]]; S [[Gen-25-22|Ge 25:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a456e46df40",m="# Numbers 31:34 (New International Version)\n61,000 donkeys";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

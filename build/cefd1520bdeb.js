@@ -1,0 +1,1 @@
+(function(){var b="cefd1520bdeb",m="# Deuteronomy 22:2 (New International Version)\nIf they do not live near you or if you do not know who owns it, take it home with you and keep it until they come looking for it. Then give it back.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

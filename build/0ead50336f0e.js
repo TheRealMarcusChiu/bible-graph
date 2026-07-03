@@ -1,0 +1,1 @@
+(function(){var b="0ead50336f0e",m="# Exodus 28:28 (New International Version)\nThe rings of the breastpiece are to be tied to the rings of the ephod with blue cord, connecting it to the waistband, so that the breastpiece will not swing out from the ephod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

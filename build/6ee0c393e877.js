@@ -1,0 +1,1 @@
+(function(){var b="6ee0c393e877",m="# 1 Corinthians 9:6 (New International Version)\nOr is it only I and Barnabas[^A] who lack the right to not work for a living?\n\n### Crossrefs\n[^A]: S [[Acts-4-36|Ac 4:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e9e789ff82a8",m="# Galatians 4:2 (New International Version)\nThe heir is subject to guardians and trustees until the time set by his father.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

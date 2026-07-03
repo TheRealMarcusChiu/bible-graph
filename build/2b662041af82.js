@@ -1,0 +1,1 @@
+(function(){var b="2b662041af82",m="# Numbers 26:50 (New International Version)\nThese were the clans of Naphtali;[^A] those numbered were 45,400.[^B]\n\n### Crossrefs\n[^A]: [[Num-1-43|Nu 1:43]]\n[^B]: [[Num-1-42|Nu 1:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

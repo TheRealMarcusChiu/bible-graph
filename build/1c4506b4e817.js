@@ -1,0 +1,1 @@
+(function(){var b="1c4506b4e817",m="# Philippians 2:20 (New International Version)\nI have no one else like him,[^A] who will show genuine concern for your welfare. \n\n### Crossrefs\n[^A]: [[1Cor-16-10|1Co 16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b064c142f1c7",m="# Luke 7:10 (New International Version)\nThen the men who had been sent returned to the house and found the servant well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

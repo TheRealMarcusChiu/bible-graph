@@ -1,0 +1,1 @@
+(function(){var b="ccff80e6affb",m="# Joel 1:1 (New International Version)\nThe word of the LORD that came[^A] to Joel[^B] son of Pethuel.\n\n### Crossrefs\n[^A]: S [[Jer-1-2|Jer 1:2]]\n[^B]: [[Acts-2-16|Ac 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

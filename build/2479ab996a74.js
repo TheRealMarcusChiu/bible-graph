@@ -1,0 +1,1 @@
+(function(){var b="2479ab996a74",m="# Acts 9:41 (New International Version)\nHe took her by the hand and helped her to her feet. Then he called for the believers, especially the widows, and presented her to them alive.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

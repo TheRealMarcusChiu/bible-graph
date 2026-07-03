@@ -1,0 +1,1 @@
+(function(){var b="6b4e6bbce74e",m="# Genesis 18:15 (New International Version)\nSarah was afraid, so she lied and said, \"I did not laugh.\"\nBut he said, \"Yes, you did laugh.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

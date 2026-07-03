@@ -1,0 +1,1 @@
+(function(){var b="a8204db6dc5f",m="# Matthew 9:12 (New International Version)\nOn hearing this, Jesus said, \"It is not the healthy who need a doctor, but the sick.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

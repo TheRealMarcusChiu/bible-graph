@@ -1,0 +1,1 @@
+(function(){var b="b6bfee9e05a3",m="# Deuteronomy 14:4 (New International Version)\nThese are the animals you may eat:[^A] the ox, the sheep, the goat,[^B] \n\n### Crossrefs\n[^A]: [[Acts-10-14|Ac 10:14]]\n[^B]: S [[Lev-7-23|Lev 7:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

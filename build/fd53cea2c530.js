@@ -1,0 +1,1 @@
+(function(){var b="fd53cea2c530",m="# John 4:34 (New International Version)\n\"My food,\" said Jesus, \"is to do the will[^A] of him who sent me and to finish his work.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-26-39|Mt 26:39]]\n[^B]: S [[John-19-30|Jn 19:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

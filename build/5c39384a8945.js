@@ -1,0 +1,1 @@
+(function(){var b="5c39384a8945",m="# Luke 8:48 (New International Version)\nThen he said to her, \"Daughter, your faith has healed you.[^A] Go in peace.\"[^B]\n\n### Crossrefs\n[^A]: S [[Matt-9-22|Mt 9:22]]\n[^B]: S [[Acts-15-33|Ac 15:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

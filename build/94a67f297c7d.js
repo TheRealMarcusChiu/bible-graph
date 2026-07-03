@@ -1,0 +1,1 @@
+(function(){var b="94a67f297c7d",m="# Mark 6:4 (New International Version)\nJesus said to them, \"A prophet is not without honor except in his own town, among his relatives and in his own home.\"[^A] \n\n### Crossrefs\n[^A]: [[Luke-4-24|Lk 4:24]]; [[John-4-44|Jn 4:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

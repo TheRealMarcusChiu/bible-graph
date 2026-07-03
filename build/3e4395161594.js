@@ -1,0 +1,1 @@
+(function(){var b="3e4395161594",m="# Luke 22:23 (New International Version)\nThey began to question among themselves which of them it might be who would do this.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

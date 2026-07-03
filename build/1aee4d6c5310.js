@@ -1,0 +1,1 @@
+(function(){var b="1aee4d6c5310",m="# Leviticus 7\n\nLaws on sacrifices, priesthood, purity, and holiness for Israel's worship of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

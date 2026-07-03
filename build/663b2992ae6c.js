@@ -1,0 +1,1 @@
+(function(){var b="663b2992ae6c",m="# Luke 22:21 (New International Version)\nBut the hand of him who is going to betray me is with mine on the table.[^A] \n\n### Crossrefs\n[^A]: [[Ps-41-9|Ps 41:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc3416f0ca38",m="# Luke 8:51 (New International Version)\nWhen he arrived at the house of Jairus, he did not let anyone go in with him except Peter, John and James,[^A] and the child's father and mother. \n\n### Crossrefs\n[^A]: S [[Matt-4-21|Mt 4:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="46ddc531a401",m="# Galatians 6:16 (New International Version)\nPeace and mercy to all who follow this rule--to the Israel of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

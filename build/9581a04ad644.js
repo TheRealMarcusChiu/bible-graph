@@ -1,0 +1,1 @@
+(function(){var b="9581a04ad644",m="# Acts 26:32 (New International Version)\nAgrippa said to Festus, \"This man could have been set free[^A] if he had not appealed to Caesar.\"[^B]\n\n### Crossrefs\n[^A]: [[Acts-28-18|Ac 28:18]]\n[^B]: S [[Acts-25-11|Ac 25:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

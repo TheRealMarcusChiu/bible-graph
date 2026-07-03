@@ -1,0 +1,1 @@
+(function(){var b="b6132fa0dd71",m="# Matthew 27:22 (New International Version)\n\"What shall I do, then, with Jesus who is called the Messiah?\"[^A] Pilate asked.\nThey all answered, \"Crucify him!\"\n\n### Crossrefs\n[^A]: [[Matt-1-16|Mt 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

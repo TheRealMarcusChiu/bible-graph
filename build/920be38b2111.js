@@ -1,0 +1,1 @@
+(function(){var b="920be38b2111",m="# Luke 24:42 (New International Version)\nThey gave him a piece of broiled fish,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

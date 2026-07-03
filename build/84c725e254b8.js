@@ -1,0 +1,1 @@
+(function(){var b="84c725e254b8",m="# Exodus 25:17 (New International Version)\n\"Make an atonement cover[^A] of pure gold--two and a half cubits long and a cubit and a half wide. \n\n### Crossrefs\n[^A]: [[Exod-25-21|ver 21]]; [[Lev-16-13|Lev 16:13]]; [[Rom-3-25|Ro 3:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

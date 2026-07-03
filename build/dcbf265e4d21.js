@@ -1,0 +1,1 @@
+(function(){var b="dcbf265e4d21",m="# Mark 10:40 (New International Version)\nbut to sit at my right or left is not for me to grant. These places belong to those for whom they have been prepared.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

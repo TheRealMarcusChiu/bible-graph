@@ -1,0 +1,1 @@
+(function(){var b="a77d560a3989",m="# Exodus 6:24 (New International Version)\nThe sons of Korah[^A] were Assir, Elkanah and Abiasaph. These were the Korahite clans.\n\n### Crossrefs\n[^A]: [[Exod-6-21|ver 21]]; [[Num-16-1|Nu 16:1]]; [[1Chr-6-22|1Ch 6:22]], [[1Chr-6-37|37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

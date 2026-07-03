@@ -1,0 +1,1 @@
+(function(){var b="6c00b79d762f",m="# Acts 9:37 (New International Version)\nAbout that time she became sick and died, and her body was washed and placed in an upstairs room.[^A] \n\n### Crossrefs\n[^A]: [[Acts-1-13|Ac 1:13]]; [[Acts-20-8|20:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

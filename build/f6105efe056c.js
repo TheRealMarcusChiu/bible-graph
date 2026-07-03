@@ -1,0 +1,1 @@
+(function(){var b="f6105efe056c",m="# Deuteronomy 24:3 (New International Version)\nand her second husband dislikes her and writes her a certificate of divorce, gives it to her and sends her from his house, or if he dies,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

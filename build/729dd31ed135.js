@@ -1,0 +1,1 @@
+(function(){var b="729dd31ed135",m="# Leviticus 25:42 (New International Version)\nBecause the Israelites are my servants, whom I brought out of Egypt,[^A] they must not be sold as slaves. \n\n### Crossrefs\n[^A]: [[Lev-25-38|ver 38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4903795fca4",m="# Leviticus 13:33 (New International Version)\nthen the man or woman must shave themselves, except for the affected area, and the priest is to keep them isolated another seven days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

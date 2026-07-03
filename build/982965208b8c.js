@@ -1,0 +1,1 @@
+(function(){var b="982965208b8c",m="# Genesis 30:4 (New International Version)\nSo she gave him her servant Bilhah as a wife.[^A] Jacob slept with her,[^B] \n\n### Crossrefs\n[^A]: [[Gen-30-9|ver 9]], [[Gen-30-18|18]]\n[^B]: [[Gen-16-3|Ge 16:3-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

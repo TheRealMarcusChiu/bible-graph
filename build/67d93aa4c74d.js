@@ -1,0 +1,1 @@
+(function(){var b="67d93aa4c74d",m="# 2 Timothy 3:17 (New International Version)\nso that the servant of God[^A] may be thoroughly equipped for every good work.[^B]\n\n### Crossrefs\n[^A]: [[1Tim-6-11|1Ti 6:11]]\n[^B]: [[2Tim-2-21|2Ti 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

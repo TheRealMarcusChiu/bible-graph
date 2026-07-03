@@ -1,0 +1,1 @@
+(function(){var b="5cbed6e55fc4",m="# Judges 9:11 (New International Version)\n\"But the fig tree replied, 'Should I give up my fruit, so good and sweet, to hold sway over the trees?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

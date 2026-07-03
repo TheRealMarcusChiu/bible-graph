@@ -1,0 +1,1 @@
+(function(){var b="0536bf2c0a7f",m="# Genesis 27:26 (New International Version)\nThen his father Isaac said to him, \"Come here, my son, and kiss me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

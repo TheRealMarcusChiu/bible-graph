@@ -1,0 +1,1 @@
+(function(){var b="e73f16504330",m="# Genesis 31:9 (New International Version)\nSo God has taken away your father's livestock[^A] and has given them to me.[^B]\n\n### Crossrefs\n[^A]: [[Job-39-2|Job 39:2]]; [[Ezek-31-6|Eze 31:6]]\n[^B]: S [[Gen-30-42|Ge 30:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

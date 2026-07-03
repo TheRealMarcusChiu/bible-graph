@@ -1,0 +1,1 @@
+(function(){var b="f85eb9487b26",m="# John 11:52 (New International Version)\nand not only for that nation but also for the scattered children of God, to bring them together and make them one.[^A] \n\n### Crossrefs\n[^A]: [[Isa-49-6|Isa 49:6]]; [[John-10-16|Jn 10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

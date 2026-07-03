@@ -1,0 +1,1 @@
+(function(){var b="93dff4a59b77",m="# Matthew 1:13 (New International Version)\nZerubbabel the father of Abihud,\nAbihud the father of Eliakim,\nEliakim the father of Azor,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

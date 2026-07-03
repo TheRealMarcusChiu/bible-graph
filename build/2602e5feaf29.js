@@ -1,0 +1,1 @@
+(function(){var b="2602e5feaf29",m="# Luke 18:36 (New International Version)\nWhen he heard the crowd going by, he asked what was happening.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

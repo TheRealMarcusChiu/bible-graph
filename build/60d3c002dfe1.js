@@ -1,0 +1,1 @@
+(function(){var b="60d3c002dfe1",m="# Exodus 30:2 (New International Version)\nIt is to be square, a cubit long and a cubit wide, and two cubits high--its horns[^A] of one piece with it. \n\n### Crossrefs\n[^A]: S [[Exod-27-2|Ex 27:2]]; [[Rev-9-13|Rev 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

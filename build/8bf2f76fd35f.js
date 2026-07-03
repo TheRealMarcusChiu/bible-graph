@@ -1,0 +1,1 @@
+(function(){var b="8bf2f76fd35f",m="# Acts 10:18 (New International Version)\nThey called out, asking if Simon who was known as Peter was staying there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

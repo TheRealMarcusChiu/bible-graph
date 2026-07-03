@@ -1,0 +1,1 @@
+(function(){var b="7d4ce0d1f288",m="# 2 Corinthians 3:10 (New International Version)\nFor what was glorious has no glory now in comparison with the surpassing glory.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

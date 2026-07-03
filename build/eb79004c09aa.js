@@ -1,0 +1,1 @@
+(function(){var b="eb79004c09aa",m="# Revelation 7:7 (New International Version)\nfrom the tribe of Simeon 12,000,\nfrom the tribe of Levi 12,000,\nfrom the tribe of Issachar 12,000,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

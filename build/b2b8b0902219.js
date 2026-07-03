@@ -1,0 +1,1 @@
+(function(){var b="b2b8b0902219",m="# Luke 7:24 (New International Version)\nAfter John's messengers left, Jesus began to speak to the crowd about John: \"What did you go out into the wilderness to see? A reed swayed by the wind?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

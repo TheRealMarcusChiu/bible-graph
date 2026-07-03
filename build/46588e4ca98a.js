@@ -1,0 +1,1 @@
+(function(){var b="46588e4ca98a",m="# John 7:2 (New International Version)\nBut when the Jewish Festival of Tabernacles[^A] was near, \n\n### Crossrefs\n[^A]: [[Lev-23-34|Lev 23:34]]; [[Deut-16-16|Dt 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

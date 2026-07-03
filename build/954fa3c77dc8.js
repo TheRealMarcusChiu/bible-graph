@@ -1,0 +1,1 @@
+(function(){var b="954fa3c77dc8",m="# Luke 7:21 (New International Version)\nAt that very time Jesus cured many who had diseases, sicknesses[^A] and evil spirits, and gave sight to many who were blind. \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="26ea3038945f",m="# Deuteronomy 32:44 (New International Version)\nMoses came with Joshua[^A] son of Nun and spoke all the words of this song in the hearing of the people. \n\n### Crossrefs\n[^A]: [[Num-13-8|Nu 13:8]], [[Num-13-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

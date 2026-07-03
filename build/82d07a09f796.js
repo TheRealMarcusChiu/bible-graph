@@ -1,0 +1,1 @@
+(function(){var b="82d07a09f796",m="# Leviticus 3:12 (New International Version)\n\"'If your offering is a goat,[^A] you are to present it before the LORD, \n\n### Crossrefs\n[^A]: S [[Lev-1-10|Lev 1:10]]; S [[Lev-4-3|4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

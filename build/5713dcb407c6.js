@@ -1,0 +1,1 @@
+(function(){var b="5713dcb407c6",m="# Matthew 26:44 (New International Version)\nSo he left them and went away once more and prayed the third time, saying the same thing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

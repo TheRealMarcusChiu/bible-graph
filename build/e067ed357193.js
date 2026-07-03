@@ -1,0 +1,1 @@
+(function(){var b="e067ed357193",m="# Titus 1:12 (New International Version)\nOne of Crete's own prophets[^A] has said it: \"Cretans[^B] are always liars, evil brutes, lazy gluttons.\" \n\n### Crossrefs\n[^A]: [[Acts-17-28|Ac 17:28]]\n[^B]: [[Acts-2-11|Ac 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dba6db279763",m="# 1 Corinthians 15:44 (New International Version)\nit is sown a natural body, it is raised a spiritual body.[^A]\nIf there is a natural body, there is also a spiritual body. \n\n### Crossrefs\n[^A]: [[1Cor-15-50|ver 50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

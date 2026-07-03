@@ -1,0 +1,1 @@
+(function(){var b="6c236aabdf90",m="# Mark 13:29 (New International Version)\nEven so, when you see these things happening, you know that it is near, right at the door.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

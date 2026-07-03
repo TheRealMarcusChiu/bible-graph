@@ -1,0 +1,1 @@
+(function(){var b="9720557a5ee7",m="# Acts 4:9 (New International Version)\nIf we are being called to account today for an act of kindness shown to a man who was lame[^A] and are being asked how he was healed, \n\n### Crossrefs\n[^A]: [[Acts-3-6|Ac 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

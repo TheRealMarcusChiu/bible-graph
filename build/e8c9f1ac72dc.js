@@ -1,0 +1,1 @@
+(function(){var b="e8c9f1ac72dc",m="# Leviticus 17:10 (New International Version)\n\"'I will set my face against any Israelite or any foreigner residing among them who eats blood,[^A] and I will cut them off from the people. \n\n### Crossrefs\n[^A]: S [[Gen-9-4|Ge 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

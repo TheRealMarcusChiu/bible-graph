@@ -1,0 +1,1 @@
+(function(){var b="e6ba48e90d51",m="# Luke 2:28 (New International Version)\nSimeon took him in his arms and praised God, saying:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

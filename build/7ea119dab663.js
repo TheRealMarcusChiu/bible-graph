@@ -1,0 +1,1 @@
+(function(){var b="7ea119dab663",m="# Luke 14:9 (New International Version)\nIf so, the host who invited both of you will come and say to you, 'Give this person your seat.' Then, humiliated, you will have to take the least important place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

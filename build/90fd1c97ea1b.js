@@ -1,0 +1,1 @@
+(function(){var b="90fd1c97ea1b",m="# Mark 14:58 (New International Version)\n\"We heard him say, 'I will destroy this temple made with human hands and in three days will build another,[^A] not made with hands.'\" \n\n### Crossrefs\n[^A]: S [[John-2-19|Jn 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

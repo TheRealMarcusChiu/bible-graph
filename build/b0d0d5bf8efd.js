@@ -1,0 +1,1 @@
+(function(){var b="b0d0d5bf8efd",m="# Mark 14\n\nA fast-moving account of Jesus the Son of God, the servant who gives his life as a ransom for many.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

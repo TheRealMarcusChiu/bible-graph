@@ -1,0 +1,1 @@
+(function(){var b="d50b007d68ef",m="# Acts 6:12 (New International Version)\nSo they stirred up the people and the elders and the teachers of the law. They seized Stephen and brought him before the Sanhedrin.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-5-22|Mt 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d9b1cfaa7436",m="# Matthew 17:19 (New International Version)\nThen the disciples came to Jesus in private and asked, \"Why couldn't we drive it out?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

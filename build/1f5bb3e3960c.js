@@ -1,0 +1,1 @@
+(function(){var b="1f5bb3e3960c",m="# John 2:20 (New International Version)\nThey replied, \"It has taken forty-six years to build this temple, and you are going to raise it in three days?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

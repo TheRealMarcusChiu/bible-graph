@@ -1,0 +1,1 @@
+(function(){var b="b3d29c559670",m="# Numbers 33:11 (New International Version)\nThey left the Red Sea and camped in the Desert of Sin.[^A]\n\n### Crossrefs\n[^A]: S [[Exod-16-1|Ex 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

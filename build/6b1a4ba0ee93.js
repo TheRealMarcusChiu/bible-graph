@@ -1,0 +1,1 @@
+(function(){var b="6b1a4ba0ee93",m="# Luke 5:9 (New International Version)\nFor he and all his companions were astonished at the catch of fish they had taken,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c55b0b091456",m="# Deuteronomy 1:43 (New International Version)\nSo I told you, but you would not listen. You rebelled against the LORD's command and in your arrogance you marched up into the hill country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

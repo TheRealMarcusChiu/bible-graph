@@ -1,0 +1,1 @@
+(function(){var b="ecad060f62c2",m="# Luke 2:20 (New International Version)\nThe shepherds returned, glorifying and praising God[^A] for all the things they had heard and seen, which were just as they had been told.\n\n### Crossrefs\n[^A]: S [[Matt-9-8|Mt 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="514f7e2dd4f2",m="# Luke 4:21 (New International Version)\nHe began by saying to them, \"Today this scripture is fulfilled[^A] in your hearing.\"\n\n### Crossrefs\n[^A]: S [[Matt-1-22|Mt 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

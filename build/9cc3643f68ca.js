@@ -1,0 +1,1 @@
+(function(){var b="9cc3643f68ca",m="# Exodus 37:27 (New International Version)\nThey made two gold rings[^A] below the molding--two on each of the opposite sides--to hold the poles used to carry it. \n\n### Crossrefs\n[^A]: [[Exod-37-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

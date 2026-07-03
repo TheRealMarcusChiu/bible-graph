@@ -1,0 +1,1 @@
+(function(){var b="73b35f677c92",m="# Exodus 12:50 (New International Version)\nAll the Israelites did just what the LORD had commanded[^A] Moses and Aaron. \n\n### Crossrefs\n[^A]: [[Exod-12-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

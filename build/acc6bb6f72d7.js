@@ -1,0 +1,1 @@
+(function(){var b="acc6bb6f72d7",m="# 1 John 3:13 (New International Version)\nDo not be surprised, my brothers and sisters, if the world hates you.[^A] \n\n### Crossrefs\n[^A]: [[John-15-18|Jn 15:18]], [[John-15-19|19]]; [[John-17-14|17:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

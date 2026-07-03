@@ -1,0 +1,1 @@
+(function(){var b="402f788da085",m="# Genesis 36:30 (New International Version)\nDishon, Ezer and Dishan. These were the Horite chiefs,[^A] according to their divisions, in the land of Seir.\n\n### Crossrefs\n[^A]: [[Gen-36-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

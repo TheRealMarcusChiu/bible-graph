@@ -1,0 +1,1 @@
+(function(){var b="caf8c59caacb",m="# Hebrews 13:25 (New International Version)\nGrace be with you all.[^A]\n\n### Crossrefs\n[^A]: S [[Col-4-18|Col 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="707189777316",m="# Genesis 25:5 (New International Version)\nAbraham left everything he owned to Isaac.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-24-36|Ge 24:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

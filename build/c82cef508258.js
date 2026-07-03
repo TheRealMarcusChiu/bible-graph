@@ -1,0 +1,1 @@
+(function(){var b="c82cef508258",m="# James 4:7 (New International Version)\nSubmit yourselves, then, to God. Resist the devil,[^A] and he will flee from you. \n\n### Crossrefs\n[^A]: [[Eph-4-27|Eph 4:27]]; [[Eph-6-11|6:11]]; [[1Pet-5-6|1Pe 5:6-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

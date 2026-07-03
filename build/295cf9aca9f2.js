@@ -1,0 +1,1 @@
+(function(){var b="295cf9aca9f2",m="# 2 Corinthians 6:11 (New International Version)\nWe have spoken freely to you, Corinthians, and opened wide our hearts to you.[^A] \n\n### Crossrefs\n[^A]: [[2Cor-7-3|2Co 7:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

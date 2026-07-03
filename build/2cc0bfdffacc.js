@@ -1,0 +1,1 @@
+(function(){var b="2cc0bfdffacc",m="# Leviticus 23\n\nLaws on sacrifices, priesthood, purity, and holiness for Israel's worship of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

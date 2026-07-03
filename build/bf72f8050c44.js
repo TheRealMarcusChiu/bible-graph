@@ -1,0 +1,1 @@
+(function(){var b="bf72f8050c44",m="# Luke 17:18 (New International Version)\nHas no one returned to give praise to God except this foreigner?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

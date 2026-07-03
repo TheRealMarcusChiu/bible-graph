@@ -1,0 +1,1 @@
+(function(){var b="ae08bbfd1e61",m="# Numbers 22:21 (New International Version)\nBalaam's Donkey\nBalaam got up in the morning, saddled his donkey and went with the Moabite officials.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

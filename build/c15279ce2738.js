@@ -1,0 +1,1 @@
+(function(){var b="c15279ce2738",m="# Luke 22:68 (New International Version)\nand if I asked you, you would not answer.[^A] \n\n### Crossrefs\n[^A]: [[Luke-20-3|Lk 20:3-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3899a57c98a0",m="# Exodus 26:17 (New International Version)\nwith two projections set parallel to each other. Make all the frames of the tabernacle in this way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

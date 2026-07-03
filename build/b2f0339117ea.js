@@ -1,0 +1,1 @@
+(function(){var b="b2f0339117ea",m="# Joshua 23:8 (New International Version)\nBut you are to hold fast to the LORD[^A] your God, as you have until now.\n\n### Crossrefs\n[^A]: S [[Deut-10-20|Dt 10:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

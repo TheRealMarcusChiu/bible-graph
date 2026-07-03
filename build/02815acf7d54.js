@@ -1,0 +1,1 @@
+(function(){var b="02815acf7d54",m="# Exodus 16:27 (New International Version)\nNevertheless, some of the people went out on the seventh day to gather it, but they found none.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

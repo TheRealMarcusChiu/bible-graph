@@ -1,0 +1,1 @@
+(function(){var b="943edeae45d8",m="# 2 Timothy 2:5 (New International Version)\nSimilarly, anyone who competes as an athlete does not receive the victor's crown[^A] except by competing according to the rules. \n\n### Crossrefs\n[^A]: S [[1Cor-9-25|1Co 9:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

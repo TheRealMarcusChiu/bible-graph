@@ -1,0 +1,1 @@
+(function(){var b="7265b2decacf",m="# Mark 14:18 (New International Version)\nWhile they were reclining at the table eating, he said, \"Truly I tell you, one of you will betray me--one who is eating with me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

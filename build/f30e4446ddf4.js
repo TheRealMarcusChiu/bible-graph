@@ -1,0 +1,1 @@
+(function(){var b="f30e4446ddf4",m="# 2 Corinthians 11:24 (New International Version)\nFive times I received from the Jews the forty lashes[^A] minus one. \n\n### Crossrefs\n[^A]: [[Deut-25-3|Dt 25:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

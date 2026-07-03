@@ -1,0 +1,1 @@
+(function(){var b="8db4b4fa3557",m="# Mark 1:18 (New International Version)\nAt once they left their nets and followed him.[^A]\n\n### Crossrefs\n[^A]: S [[Matt-4-19|Mt 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

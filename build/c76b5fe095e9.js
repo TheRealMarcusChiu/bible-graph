@@ -1,0 +1,1 @@
+(function(){var b="c76b5fe095e9",m="# Exodus 21:4 (New International Version)\nIf his master gives him a wife and she bears him sons or daughters, the woman and her children shall belong to her master, and only the man shall go free.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

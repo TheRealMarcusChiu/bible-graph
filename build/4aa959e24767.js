@@ -1,0 +1,1 @@
+(function(){var b="4aa959e24767",m="# Matthew 20:10 (New International Version)\nSo when those came who were hired first, they expected to receive more. But each one of them also received a denarius.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

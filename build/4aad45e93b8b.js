@@ -1,0 +1,1 @@
+(function(){var b="4aad45e93b8b",m="# Hebrews 11:14 (New International Version)\nPeople who say such things show that they are looking for a country of their own.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

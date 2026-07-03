@@ -1,0 +1,1 @@
+(function(){var b="b500db5b1d50",m="# Matthew 27:44 (New International Version)\nIn the same way the rebels who were crucified with him also heaped insults on him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="84fc932b275c",m="# Luke 17:5 (New International Version)\nThe apostles[^A] said to the Lord,[^B] \"Increase our faith!\"\n\n### Crossrefs\n[^A]: S [[Mark-6-30|Mk 6:30]]\n[^B]: S [[Luke-7-13|Lk 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9439c7c49125",m="# 1 Corinthians 15:36 (New International Version)\nHow foolish![^A] What you sow does not come to life unless it dies.[^B] \n\n### Crossrefs\n[^A]: [[Luke-11-40|Lk 11:40]]; [[Luke-12-20|12:20]]\n[^B]: [[John-12-24|Jn 12:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

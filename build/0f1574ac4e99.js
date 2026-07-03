@@ -1,0 +1,1 @@
+(function(){var b="0f1574ac4e99",m="# Numbers 16:16 (New International Version)\nMoses said to Korah, \"You and all your followers are to appear before the LORD tomorrow--you and they and Aaron.[^A] \n\n### Crossrefs\n[^A]: S [[Num-16-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

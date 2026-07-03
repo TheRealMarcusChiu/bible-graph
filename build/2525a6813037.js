@@ -1,0 +1,1 @@
+(function(){var b="2525a6813037",m="# Numbers 31:15 (New International Version)\n\"Have you allowed all the women to live?\" he asked them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

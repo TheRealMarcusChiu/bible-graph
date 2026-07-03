@@ -1,0 +1,1 @@
+(function(){var b="27bee8830357",m="# Matthew 25:27 (New International Version)\nWell then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

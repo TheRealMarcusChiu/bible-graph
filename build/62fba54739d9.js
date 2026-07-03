@@ -1,0 +1,1 @@
+(function(){var b="62fba54739d9",m="# Deuteronomy 22:16 (New International Version)\nHer father will say to the elders, \"I gave my daughter in marriage to this man, but he dislikes her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

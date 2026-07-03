@@ -1,0 +1,1 @@
+(function(){var b="97704f5ae0c8",m="# Hebrews 10:9 (New International Version)\nThen he said, \"Here I am, I have come to do your will.\"[^A] He sets aside the first to establish the second. \n\n### Crossrefs\n[^A]: [[Heb-10-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

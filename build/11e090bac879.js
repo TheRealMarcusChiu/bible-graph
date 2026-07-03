@@ -1,0 +1,1 @@
+(function(){var b="11e090bac879",m="# Genesis 8:15 (New International Version)\nThen God said to Noah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

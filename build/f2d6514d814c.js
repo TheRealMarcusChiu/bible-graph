@@ -1,0 +1,1 @@
+(function(){var b="f2d6514d814c",m="# 1 Peter 1:9 (New International Version)\nfor you are receiving the end result of your faith, the salvation of your souls.[^A]\n\n### Crossrefs\n[^A]: [[Rom-6-22|Ro 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="410336333280",m="# Luke 9:15 (New International Version)\nThe disciples did so, and everyone sat down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8df30c7785bc",m="# Numbers 15:41 (New International Version)\nI am the LORD your God, who brought you out of Egypt to be your God.[^A] I am the LORD your God.[^B]'\"\n\n### Crossrefs\n[^A]: S [[Gen-17-7|Ge 17:7]]\n[^B]: S [[Exod-20-2|Ex 20:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

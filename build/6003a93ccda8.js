@@ -1,0 +1,1 @@
+(function(){var b="6003a93ccda8",m="# Luke 23:53 (New International Version)\nThen he took it down, wrapped it in linen cloth and placed it in a tomb cut in the rock, one in which no one had yet been laid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

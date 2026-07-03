@@ -1,0 +1,1 @@
+(function(){var b="e71b994259b6",m="# Luke 1:54 (New International Version)\nHe has helped his servant Israel,  \n    remembering to be merciful[^A]\n\n### Crossrefs\n[^A]: [[Ps-98-3|Ps 98:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

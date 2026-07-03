@@ -1,0 +1,1 @@
+(function(){var b="75a45ce4309c",m="# John 6:6 (New International Version)\nHe asked this only to test him, for he already had in mind what he was going to do.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

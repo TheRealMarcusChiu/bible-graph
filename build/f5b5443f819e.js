@@ -1,0 +1,1 @@
+(function(){var b="f5b5443f819e",m="# Matthew 13:18 (New International Version)\n\"Listen then to what the parable of the sower means:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

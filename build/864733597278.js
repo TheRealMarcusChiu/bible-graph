@@ -1,0 +1,1 @@
+(function(){var b="864733597278",m="# Deuteronomy 29:26 (New International Version)\nThey went off and worshiped other gods and bowed down to them, gods they did not know, gods he had not given them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

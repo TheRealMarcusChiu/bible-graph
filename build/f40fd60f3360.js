@@ -1,0 +1,1 @@
+(function(){var b="f40fd60f3360",m="# Luke 5:13 (New International Version)\nJesus reached out his hand and touched the man. \"I am willing,\" he said. \"Be clean!\" And immediately the leprosy left him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

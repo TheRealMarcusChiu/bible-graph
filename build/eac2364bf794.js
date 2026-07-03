@@ -1,0 +1,1 @@
+(function(){var b="eac2364bf794",m="# Luke 3:10 (New International Version)\n\"What should we do then?\"[^A] the crowd asked.\n\n### Crossrefs\n[^A]: [[Luke-3-12|ver 12]], [[Luke-3-14|14]]; [[Acts-2-37|Ac 2:37]]; [[Acts-16-30|16:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

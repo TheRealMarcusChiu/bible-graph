@@ -1,0 +1,1 @@
+(function(){var b="82bdadb76986",m="# Judges 8:4 (New International Version)\nGideon and his three hundred men, exhausted yet keeping up the pursuit, came to the Jordan[^A] and crossed it. \n\n### Crossrefs\n[^A]: [[Judg-7-25|Jdg 7:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

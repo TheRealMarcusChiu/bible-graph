@@ -1,0 +1,1 @@
+(function(){var b="97142f463e3f",m="# Luke 14:34 (New International Version)\n\"Salt is good, but if it loses its saltiness, how can it be made salty again?[^A] \n\n### Crossrefs\n[^A]: [[Mark-9-50|Mk 9:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

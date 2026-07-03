@@ -1,0 +1,1 @@
+(function(){var b="a31252d485f2",m="# John 11:34 (New International Version)\n\"Where have you laid him?\" he asked.\n\"Come and see, Lord,\" they replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

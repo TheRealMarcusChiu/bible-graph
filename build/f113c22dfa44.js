@@ -1,0 +1,1 @@
+(function(){var b="f113c22dfa44",m="# Exodus 38:6 (New International Version)\nThey made the poles of acacia wood and overlaid them with bronze.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

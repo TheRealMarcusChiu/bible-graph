@@ -1,0 +1,1 @@
+(function(){var b="7f84bfd32617",m="# Mark 14:57 (New International Version)\nThen some stood up and gave this false testimony against him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

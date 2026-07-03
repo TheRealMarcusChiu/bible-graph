@@ -1,0 +1,1 @@
+(function(){var b="0f20f68c3de7",m="# Genesis 29:1 (New International Version)\nJacob Arrives in Paddan Aram\nThen Jacob continued on his journey and came to the land of the eastern peoples.[^A] \n\n### Crossrefs\n[^A]: S [[Gen-25-6|Ge 25:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

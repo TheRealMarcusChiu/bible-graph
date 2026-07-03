@@ -1,0 +1,1 @@
+(function(){var b="5399fdcd8a57",m="# Acts 8:6 (New International Version)\nWhen the crowds heard Philip and saw the signs he performed, they all paid close attention to what he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6f405d895309",m="# 1 Corinthians 14:13 (New International Version)\nFor this reason the one who speaks in a tongue should pray that they may interpret what they say.[^A] \n\n### Crossrefs\n[^A]: [[1Cor-14-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

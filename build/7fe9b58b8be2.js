@@ -1,0 +1,1 @@
+(function(){var b="7fe9b58b8be2",m="# Exodus 10:11 (New International Version)\nNo! Have only the men go and worship the LORD, since that's what you have been asking for.\" Then Moses and Aaron were driven out of Pharaoh's presence.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

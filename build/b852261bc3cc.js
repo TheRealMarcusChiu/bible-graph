@@ -1,0 +1,1 @@
+(function(){var b="b852261bc3cc",m="# Genesis 31:17 (New International Version)\nThen Jacob put his children and his wives[^A] on camels,[^B] \n\n### Crossrefs\n[^A]: S [[Gen-27-41|Ge 27:41]]\n[^B]: S [[Gen-24-63|Ge 24:63-64]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

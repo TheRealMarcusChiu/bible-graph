@@ -1,0 +1,1 @@
+(function(){var b="df51654457e4",m="# Leviticus 16:25 (New International Version)\nHe shall also burn the fat of the sin offering on the altar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

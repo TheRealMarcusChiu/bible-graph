@@ -1,0 +1,1 @@
+(function(){var b="5b3019c86cd8",m="# Matthew 12:47 (New International Version)\nSomeone told him, \"Your mother and brothers are standing outside, wanting to speak to you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

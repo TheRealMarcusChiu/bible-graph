@@ -1,0 +1,1 @@
+(function(){var b="7a549c4717b6",m="# John 12:43 (New International Version)\nfor they loved human praise[^A] more than praise from God.[^B]\n\n### Crossrefs\n[^A]: [[1Sam-15-30|1Sa 15:30]]\n[^B]: S [[Rom-2-29|Ro 2:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

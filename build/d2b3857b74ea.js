@@ -1,0 +1,1 @@
+(function(){var b="d2b3857b74ea",m="# Acts 20:14 (New International Version)\nWhen he met us at Assos, we took him aboard and went on to Mitylene.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

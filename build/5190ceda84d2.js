@@ -1,0 +1,1 @@
+(function(){var b="5190ceda84d2",m="# Numbers 31:38 (New International Version)\n36,000 cattle, of which the tribute for the LORD was 72;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

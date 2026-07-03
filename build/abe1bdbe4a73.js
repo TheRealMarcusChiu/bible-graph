@@ -1,0 +1,1 @@
+(function(){var b="abe1bdbe4a73",m="# John 4:12 (New International Version)\nAre you greater than our father Jacob, who gave us the well[^A] and drank from it himself, as did also his sons and his livestock?\"\n\n### Crossrefs\n[^A]: [[John-4-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

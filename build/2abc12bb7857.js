@@ -1,0 +1,1 @@
+(function(){var b="2abc12bb7857",m="# Luke 2:52 (New International Version)\nAnd Jesus grew in wisdom and stature, and in favor with God and man.[^A]\n\n### Crossrefs\n[^A]: [[Luke-2-40|ver 40]]; [[1Sam-2-26|1Sa 2:26]]; [[Prov-3-4|Pr 3:4]]; [[Luke-1-80|Lk 1:80]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

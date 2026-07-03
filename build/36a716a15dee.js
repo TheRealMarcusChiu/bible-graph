@@ -1,0 +1,1 @@
+(function(){var b="36a716a15dee",m="# Acts 10:31 (New International Version)\nand said, 'Cornelius, God has heard your prayer and remembered your gifts to the poor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

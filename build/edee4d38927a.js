@@ -1,0 +1,1 @@
+(function(){var b="edee4d38927a",m="# Matthew 14:16 (New International Version)\nJesus replied, \"They do not need to go away. You give them something to eat.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

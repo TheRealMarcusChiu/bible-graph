@@ -1,0 +1,1 @@
+(function(){var b="6d1775fa2d2d",m="# Leviticus 26:24 (New International Version)\nI myself will be hostile[^A] toward you and will afflict you for your sins seven times over. \n\n### Crossrefs\n[^A]: [[2Sam-22-27|2Sa 22:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

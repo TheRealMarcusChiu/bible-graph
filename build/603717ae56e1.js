@@ -1,0 +1,1 @@
+(function(){var b="603717ae56e1",m="# Luke 9:32 (New International Version)\nPeter and his companions were very sleepy,[^A] but when they became fully awake, they saw his glory and the two men standing with him. \n\n### Crossrefs\n[^A]: [[Matt-26-43|Mt 26:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

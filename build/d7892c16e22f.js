@@ -1,0 +1,1 @@
+(function(){var b="d7892c16e22f",m="# Judges 1:6 (New International Version)\nAdoni-Bezek fled, but they chased him and caught him, and cut off his thumbs and big toes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

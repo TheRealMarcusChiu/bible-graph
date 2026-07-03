@@ -1,0 +1,1 @@
+(function(){var b="882a7f3afb36",m="# Leviticus 21:4 (New International Version)\nHe must not make himself unclean for people related to him by marriage, and so defile himself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e67e762994df",m="# Luke 16:31 (New International Version)\n\"He said to him, 'If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6eb7bffb69a8",m="# Luke 17:17 (New International Version)\nJesus asked, \"Were not all ten cleansed? Where are the other nine?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

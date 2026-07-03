@@ -1,0 +1,1 @@
+(function(){var b="f6bb8d9a63e8",m="# Deuteronomy 19:11 (New International Version)\nBut if out of hate someone lies in wait, assaults and kills a neighbor,[^A] and then flees to one of these cities, \n\n### Crossrefs\n[^A]: S [[Exod-21-12|Ex 21:12]]; [[1John-3-15|1Jn 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

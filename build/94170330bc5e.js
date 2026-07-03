@@ -1,0 +1,1 @@
+(function(){var b="94170330bc5e",m="# Exodus 4:28 (New International Version)\nThen Moses told Aaron everything the LORD had sent him to say, and also about all the signs he had commanded him to perform.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

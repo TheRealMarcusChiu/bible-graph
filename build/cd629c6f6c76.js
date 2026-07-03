@@ -1,0 +1,1 @@
+(function(){var b="cd629c6f6c76",m="# Acts 10:26 (New International Version)\nBut Peter made him get up. \"Stand up,\" he said, \"I am only a man myself.\"[^A]\n\n### Crossrefs\n[^A]: [[Acts-14-15|Ac 14:15]]; [[Rev-19-10|Rev 19:10]]; [[Rev-22-8|22:8]], [[Rev-22-9|9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

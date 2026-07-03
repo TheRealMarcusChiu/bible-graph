@@ -1,0 +1,1 @@
+(function(){var b="5ea5b3642bdd",m="# Romans 8:12 (New International Version)\nTherefore, brothers and sisters, we have an obligation--but it is not to the flesh, to live according to it.[^A] \n\n### Crossrefs\n[^A]: [[Rom-8-4|ver 4]]; S [[Gal-5-24|Gal 5:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

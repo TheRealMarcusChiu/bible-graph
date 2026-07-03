@@ -1,0 +1,1 @@
+(function(){var b="71726cb0e8ad",m="# Luke 23:47 (New International Version)\nThe centurion, seeing what had happened, praised God[^A] and said, \"Surely this was a righteous man.\" \n\n### Crossrefs\n[^A]: S [[Matt-9-8|Mt 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

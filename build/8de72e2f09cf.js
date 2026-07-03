@@ -1,0 +1,1 @@
+(function(){var b="8de72e2f09cf",m="# Joshua 13:32 (New International Version)\nThis is the inheritance Moses had given when he was in the plains of Moab[^A] across the Jordan east of Jericho.[^B] \n\n### Crossrefs\n[^A]: S [[Num-26-3|Nu 26:3]]\n[^B]: S [[Num-22-1|Nu 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

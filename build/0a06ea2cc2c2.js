@@ -1,0 +1,1 @@
+(function(){var b="0a06ea2cc2c2",m="# Genesis 27\n\nCreation, the fall, the flood, and the patriarchs Abraham, Isaac, Jacob, and Joseph -- the beginnings of God's covenant people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

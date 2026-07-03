@@ -1,0 +1,1 @@
+(function(){var b="794fbb7565f8",m="# Mark 7:26 (New International Version)\nThe woman was a Greek, born in Syrian Phoenicia. She begged Jesus to drive the demon out of her daughter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

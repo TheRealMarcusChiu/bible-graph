@@ -1,0 +1,1 @@
+(function(){var b="590425d0e979",m="# Deuteronomy 29:12 (New International Version)\nYou are standing here in order to enter into a covenant with the LORD your God, a covenant the LORD is making with you this day and sealing with an oath,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

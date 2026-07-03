@@ -1,0 +1,1 @@
+(function(){var b="3d4960bf8c0b",m="# Matthew 15:10 (New International Version)\nJesus called the crowd to him and said, \"Listen and understand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="41dc9337d94a",m="# Genesis 5:31 (New International Version)\nAltogether, Lamech lived a total of 777 years, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

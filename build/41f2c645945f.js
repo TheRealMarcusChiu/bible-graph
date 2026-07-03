@@ -1,0 +1,1 @@
+(function(){var b="41f2c645945f",m="# Matthew 14:32 (New International Version)\nAnd when they climbed into the boat, the wind died down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

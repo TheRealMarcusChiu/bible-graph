@@ -1,0 +1,1 @@
+(function(){var b="5d21b2e7e872",m="# Matthew 15:33 (New International Version)\nHis disciples answered, \"Where could we get enough bread in this remote place to feed such a crowd?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c37f5f4db01a",m="# Leviticus 5:19 (New International Version)\nIt is a guilt offering; they have been guilty of wrongdoing against the LORD.\"[^A]\n\n### Crossrefs\n[^A]: [[2Kgs-12-16|2Ki 12:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

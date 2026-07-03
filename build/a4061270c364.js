@@ -1,0 +1,1 @@
+(function(){var b="a4061270c364",m="# John 18:10 (New International Version)\nThen Simon Peter, who had a sword, drew it and struck the high priest's servant, cutting off his right ear. (The servant's name was Malchus.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

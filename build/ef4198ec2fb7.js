@@ -1,0 +1,1 @@
+(function(){var b="ef4198ec2fb7",m="# Acts 17:8 (New International Version)\nWhen they heard this, the crowd and the city officials were thrown into turmoil.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="812b05551da4",m="# John 11:43 (New International Version)\nWhen he had said this, Jesus called in a loud voice, \"Lazarus, come out!\"[^A] \n\n### Crossrefs\n[^A]: S [[Luke-7-14|Lk 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="952528fcce24",m="# Exodus 21:35 (New International Version)\n\"If anyone's bull injures someone else's bull and it dies, the two parties are to sell the live one and divide both the money and the dead animal equally.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="803a68451b9b",m="# Matthew 16:2 (New International Version)\nHe replied, \"When evening comes, you say, 'It will be fair weather, for the sky is red,'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

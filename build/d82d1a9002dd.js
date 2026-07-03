@@ -1,0 +1,1 @@
+(function(){var b="d82d1a9002dd",m="# Numbers 27:8 (New International Version)\n\"Say to the Israelites, 'If a man dies and leaves no son, give his inheritance to his daughter.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

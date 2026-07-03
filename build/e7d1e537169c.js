@@ -1,0 +1,1 @@
+(function(){var b="e7d1e537169c",m="# Mark 9:17 (New International Version)\nA man in the crowd answered, \"Teacher, I brought you my son, who is possessed by a spirit that has robbed him of speech.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

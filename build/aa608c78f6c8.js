@@ -1,0 +1,1 @@
+(function(){var b="aa608c78f6c8",m="# John 12:33 (New International Version)\nHe said this to show the kind of death he was going to die.[^A]\n\n### Crossrefs\n[^A]: [[John-18-32|Jn 18:32]]; [[John-21-19|21:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

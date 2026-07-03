@@ -1,0 +1,1 @@
+(function(){var b="dde6f226fbd8",m="# Deuteronomy 22:14 (New International Version)\nand slanders her and gives her a bad name, saying, \"I married this woman, but when I approached her, I did not find proof of her virginity,\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

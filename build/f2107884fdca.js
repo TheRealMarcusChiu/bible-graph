@@ -1,0 +1,1 @@
+(function(){var b="f2107884fdca",m="# 1 Corinthians 1:3 (New International Version)\nGrace and peace to you from God our Father and the Lord Jesus Christ.[^A]\n\n### Crossrefs\n[^A]: S [[Rom-1-7|Ro 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

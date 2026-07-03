@@ -1,0 +1,1 @@
+(function(){var b="1f8d7132a8b4",m="# Mark 14:50 (New International Version)\nThen everyone deserted him and fled.[^A]\n\n### Crossrefs\n[^A]: [[Mark-14-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

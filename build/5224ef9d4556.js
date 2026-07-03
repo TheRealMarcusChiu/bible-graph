@@ -1,0 +1,1 @@
+(function(){var b="5224ef9d4556",m="# Leviticus 1:12 (New International Version)\nYou are to cut it into pieces, and the priest shall arrange them, including the head and the fat,[^A] on the wood that is burning on the altar. \n\n### Crossrefs\n[^A]: S [[Lev-1-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

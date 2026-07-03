@@ -1,0 +1,1 @@
+(function(){var b="79c4f498a4e0",m="# Ephesians 4:21 (New International Version)\nwhen you heard about Christ and were taught in him in accordance with the truth that is in Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

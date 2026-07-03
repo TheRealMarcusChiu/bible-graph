@@ -1,0 +1,1 @@
+(function(){var b="dc9db9e2d20e",m="# Luke 9:17 (New International Version)\nThey all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="69ee0ace7db4",m="# Mark 15:7 (New International Version)\nA man called Barabbas was in prison with the insurrectionists who had committed murder in the uprising.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

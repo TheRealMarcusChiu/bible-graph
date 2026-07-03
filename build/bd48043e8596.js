@@ -1,0 +1,1 @@
+(function(){var b="bd48043e8596",m="# Luke 12:12 (New International Version)\nfor the Holy Spirit will teach you at that time what you should say.\"[^A]\n\n### Crossrefs\n[^A]: [[Exod-4-12|Ex 4:12]]; [[Matt-10-20|Mt 10:20]]; [[Mark-13-11|Mk 13:11]]; [[Luke-21-15|Lk 21:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

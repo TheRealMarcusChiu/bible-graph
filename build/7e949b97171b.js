@@ -1,0 +1,1 @@
+(function(){var b="7e949b97171b",m="# Luke 24:20 (New International Version)\nThe chief priests and our rulers[^A] handed him over to be sentenced to death, and they crucified him; \n\n### Crossrefs\n[^A]: [[Luke-23-13|Lk 23:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

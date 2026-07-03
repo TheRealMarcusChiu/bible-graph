@@ -1,0 +1,1 @@
+(function(){var b="f34c392deee9",m="# Luke 3:6 (New International Version)\nAnd all people will see God's salvation.'\"[^A]\n\n### Crossrefs\n[^A]: [[Ps-98-2|Ps 98:2]]; [[Isa-40-3|Isa 40:3-5]]; [[Isa-42-16|42:16]]; [[Isa-52-10|52:10]]; [[Luke-2-30|Lk 2:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

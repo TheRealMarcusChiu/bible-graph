@@ -1,0 +1,1 @@
+(function(){var b="71cccc537116",m="# Acts 23:16 (New International Version)\nBut when the son of Paul's sister heard of this plot, he went into the barracks[^A] and told Paul.\n\n### Crossrefs\n[^A]: [[Acts-23-10|ver 10]]; S [[Acts-21-34|Ac 21:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

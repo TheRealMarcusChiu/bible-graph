@@ -1,0 +1,1 @@
+(function(){var b="c767217a954b",m="# Genesis 49:18 (New International Version)\n\"I look for your deliverance,[^A] LORD.[^B]\n\n### Crossrefs\n[^A]: S [[Gen-45-7|Ge 45:7]]; [[Ps-40-1|Ps 40:1-3]]\n[^B]: [[Ps-119-166|Ps 119:166]], [[Ps-119-174|174]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

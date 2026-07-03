@@ -1,0 +1,1 @@
+(function(){var b="4838b73e2ebc",m="# Matthew 6:15 (New International Version)\nBut if you do not forgive others their sins, your Father will not forgive your sins.[^A]\n\n### Crossrefs\n[^A]: [[Matt-18-35|Mt 18:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

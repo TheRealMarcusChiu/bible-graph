@@ -1,0 +1,1 @@
+(function(){var b="3c2c849f5085",m="# Deuteronomy 23:22 (New International Version)\nBut if you refrain from making a vow, you will not be guilty.[^A] \n\n### Crossrefs\n[^A]: [[Acts-5-4|Ac 5:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

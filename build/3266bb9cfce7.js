@@ -1,0 +1,1 @@
+(function(){var b="3266bb9cfce7",m="# Luke 19:2 (New International Version)\nA man was there by the name of Zacchaeus; he was a chief tax collector and was wealthy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

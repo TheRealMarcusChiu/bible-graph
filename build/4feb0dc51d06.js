@@ -1,0 +1,1 @@
+(function(){var b="4feb0dc51d06",m="# Ephesians 5:12 (New International Version)\nIt is shameful even to mention what the disobedient do in secret.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

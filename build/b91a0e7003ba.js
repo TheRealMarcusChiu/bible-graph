@@ -1,0 +1,1 @@
+(function(){var b="b91a0e7003ba",m="# James 2:7 (New International Version)\nAre they not the ones who are blaspheming the noble name of him to whom you belong?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="097c043f6c41",m="# Deuteronomy 14:24 (New International Version)\nBut if that place is too distant and you have been blessed by the LORD your God and cannot carry your tithe (because the place where the LORD will choose to put his Name is so far away),";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

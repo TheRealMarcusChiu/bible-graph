@@ -1,0 +1,1 @@
+(function(){var b="e5d58f49254a",m="# Ephesians 2:1 (New International Version)\nMade Alive in Christ\nAs for you, you were dead in your transgressions and sins,[^A] \n\n### Crossrefs\n[^A]: [[Eph-2-5|ver 5]]; [[Col-2-13|Col 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af0ffa9bf3c7",m="# Leviticus 9:16 (New International Version)\nHe brought the burnt offering and offered it in the prescribed way.[^A] \n\n### Crossrefs\n[^A]: [[Lev-1-1|Lev 1:1-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

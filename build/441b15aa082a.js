@@ -1,0 +1,1 @@
+(function(){var b="441b15aa082a",m="# Luke 2:10 (New International Version)\nBut the angel said to them, \"Do not be afraid.[^A] I bring you good news that will cause great joy for all the people. \n\n### Crossrefs\n[^A]: S [[Matt-14-27|Mt 14:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

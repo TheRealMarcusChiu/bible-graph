@@ -1,0 +1,1 @@
+(function(){var b="58876c3a01e9",m="# Matthew 14:12 (New International Version)\nJohn's disciples came and took his body and buried it.[^A] Then they went and told Jesus.\n\n### Crossrefs\n[^A]: [[Acts-8-2|Ac 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6a91807151b3",m="# Mark 6:39 (New International Version)\nThen Jesus directed them to have all the people sit down in groups on the green grass.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

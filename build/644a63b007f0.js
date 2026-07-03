@@ -1,0 +1,1 @@
+(function(){var b="644a63b007f0",m="# Genesis 22:23 (New International Version)\nBethuel became the father of Rebekah.[^A] Milkah bore these eight sons to Abraham's brother Nahor.[^B] \n\n### Crossrefs\n[^A]: [[Gen-24-15|Ge 24:15]]\n[^B]: S [[Gen-11-29|Ge 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

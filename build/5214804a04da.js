@@ -1,0 +1,1 @@
+(function(){var b="5214804a04da",m="# Acts 25:4 (New International Version)\nFestus answered, \"Paul is being held[^A] at Caesarea,[^B] and I myself am going there soon. \n\n### Crossrefs\n[^A]: [[Acts-24-23|Ac 24:23]]\n[^B]: S [[Acts-8-40|Ac 8:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

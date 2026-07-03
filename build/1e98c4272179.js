@@ -1,0 +1,1 @@
+(function(){var b="1e98c4272179",m="# Genesis 43:22 (New International Version)\nWe have also brought additional silver with us to buy food. We don't know who put our silver in our sacks.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

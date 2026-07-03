@@ -1,0 +1,1 @@
+(function(){var b="56d55ebe43fb",m="# Acts 27:11 (New International Version)\nBut the centurion, instead of listening to what Paul said, followed the advice of the pilot and of the owner of the ship.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

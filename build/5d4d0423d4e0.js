@@ -1,0 +1,1 @@
+(function(){var b="5d4d0423d4e0",m="# Romans 3:26 (New International Version)\nhe did it to demonstrate his righteousness at the present time, so as to be just and the one who justifies those who have faith in Jesus.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

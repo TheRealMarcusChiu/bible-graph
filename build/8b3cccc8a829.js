@@ -1,0 +1,1 @@
+(function(){var b="8b3cccc8a829",m="# Luke 15:16 (New International Version)\nHe longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

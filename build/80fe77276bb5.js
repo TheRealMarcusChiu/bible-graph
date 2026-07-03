@@ -1,0 +1,1 @@
+(function(){var b="80fe77276bb5",m="# Acts 7:59 (New International Version)\nWhile they were stoning him, Stephen prayed, \"Lord Jesus, receive my spirit.\"[^A] \n\n### Crossrefs\n[^A]: [[Ps-31-5|Ps 31:5]]; [[Luke-23-46|Lk 23:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

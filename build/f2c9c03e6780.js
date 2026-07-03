@@ -1,0 +1,1 @@
+(function(){var b="f2c9c03e6780",m="# Leviticus 23:33 (New International Version)\nThe LORD said to Moses, \n\n### Crossrefs\n[^A]: [[Lev-23-33|23:33-43pp]] — [[Num-29-12|Nu 29:12-39]]; [[Deut-16-13|Dt 16:13-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

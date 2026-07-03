@@ -1,0 +1,1 @@
+(function(){var b="ebe0b1d0a2e8",m="# Acts 10:48 (New International Version)\nSo he ordered that they be baptized in the name of Jesus Christ.[^A] Then they asked Peter to stay with them for a few days.\n\n### Crossrefs\n[^A]: S [[Acts-2-38|Ac 2:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

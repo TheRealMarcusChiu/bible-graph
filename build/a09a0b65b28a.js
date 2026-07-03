@@ -1,0 +1,1 @@
+(function(){var b="a09a0b65b28a",m="# Matthew 10:41 (New International Version)\nWhoever welcomes a prophet as a prophet will receive a prophet's reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person's reward.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

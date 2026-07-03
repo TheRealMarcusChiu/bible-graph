@@ -1,0 +1,1 @@
+(function(){var b="a8f809db3d55",m="# Acts 7:30 (New International Version)\n\"After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="28a426ae77a4",m="# Matthew 25:44 (New International Version)\n\"They also will answer, 'Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

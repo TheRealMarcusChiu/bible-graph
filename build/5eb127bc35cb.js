@@ -1,0 +1,1 @@
+(function(){var b="5eb127bc35cb",m="# Exodus 12:32 (New International Version)\nTake your flocks and herds,[^A] as you have said, and go. And also bless[^B] me.\"\n\n### Crossrefs\n[^A]: [[Exod-10-9|Ex 10:9]], [[Exod-10-26|26]]\n[^B]: [[Gen-27-34|Ge 27:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

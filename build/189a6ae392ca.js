@@ -1,0 +1,1 @@
+(function(){var b="189a6ae392ca",m="# Luke 13:8 (New International Version)\n\"'Sir,' the man replied, 'leave it alone for one more year, and I'll dig around it and fertilize it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

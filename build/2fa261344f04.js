@@ -1,0 +1,1 @@
+(function(){var b="2fa261344f04",m="# Deuteronomy 29:10 (New International Version)\nAll of you are standing today in the presence of the LORD your God--your leaders and chief men, your elders and officials, and all the other men of Israel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

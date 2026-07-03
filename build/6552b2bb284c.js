@@ -1,0 +1,1 @@
+(function(){var b="6552b2bb284c",m="# Matthew 16:15 (New International Version)\n\"But what about you?\" he asked. \"Who do you say I am?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

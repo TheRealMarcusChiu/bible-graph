@@ -1,0 +1,1 @@
+(function(){var b="ffb88297f8c4",m="# Hebrews 5:13 (New International Version)\nAnyone who lives on milk, being still an infant,[^A] is not acquainted with the teaching about righteousness. \n\n### Crossrefs\n[^A]: S [[1Cor-14-20|1Co 14:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

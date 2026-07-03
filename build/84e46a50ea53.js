@@ -1,0 +1,1 @@
+(function(){var b="84e46a50ea53",m="# Exodus 28:19 (New International Version)\nthe third row shall be jacinth, agate and amethyst;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

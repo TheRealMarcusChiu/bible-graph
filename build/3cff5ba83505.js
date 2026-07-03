@@ -1,0 +1,1 @@
+(function(){var b="3cff5ba83505",m="# Matthew 22:43 (New International Version)\nHe said to them, \"How is it then that David, speaking by the Spirit, calls him 'Lord'? For he says,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

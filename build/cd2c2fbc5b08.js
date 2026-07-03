@@ -1,0 +1,1 @@
+(function(){var b="cd2c2fbc5b08",m="# Numbers 5:4 (New International Version)\nThe Israelites did so; they sent them outside the camp. They did just as the LORD had instructed Moses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

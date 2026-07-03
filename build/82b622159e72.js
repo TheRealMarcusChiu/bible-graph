@@ -1,0 +1,1 @@
+(function(){var b="82b622159e72",m="# Genesis 3:3 (New International Version)\nbut God did say, 'You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.'\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-2-17|Ge 2:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="adb793e1c4c1",m="# Philippians 1:25 (New International Version)\nConvinced of this, I know that I will remain, and I will continue with all of you for your progress and joy in the faith,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="18d5cdd84376",m="# 1 Corinthians 10:19 (New International Version)\nDo I mean then that food sacrificed to an idol is anything, or that an idol is anything?[^A] \n\n### Crossrefs\n[^A]: S [[1Cor-8-4|1Co 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

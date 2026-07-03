@@ -1,0 +1,1 @@
+(function(){var b="227d013e9908",m="# Joshua 11:18 (New International Version)\nJoshua waged war against all these kings for a long time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

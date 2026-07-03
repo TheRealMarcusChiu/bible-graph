@@ -1,0 +1,1 @@
+(function(){var b="9b8fed4ba9be",m="# Numbers 27:23 (New International Version)\nThen he laid his hands on him and commissioned him,[^A] as the LORD instructed through Moses.\n\n### Crossrefs\n[^A]: S [[Num-27-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

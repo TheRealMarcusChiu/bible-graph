@@ -1,0 +1,1 @@
+(function(){var b="385bb48b0abf",m="# Acts 1:5 (New International Version)\nFor John baptized with water,[^A] but in a few days you will be baptized with the Holy Spirit.\"[^B]\n\n### Crossrefs\n[^A]: S [[Mark-1-4|Mk 1:4]]\n[^B]: S [[Mark-1-8|Mk 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

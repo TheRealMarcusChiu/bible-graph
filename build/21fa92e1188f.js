@@ -1,0 +1,1 @@
+(function(){var b="21fa92e1188f",m="# John 3:27 (New International Version)\nTo this John replied, \"A person can receive only what is given them from heaven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

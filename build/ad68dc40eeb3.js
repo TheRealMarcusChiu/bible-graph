@@ -1,0 +1,1 @@
+(function(){var b="ad68dc40eeb3",m="# Exodus 40:24 (New International Version)\nHe placed the lampstand[^A] in the tent of meeting opposite the table on the south side of the tabernacle \n\n### Crossrefs\n[^A]: S [[Exod-25-31|Ex 25:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8d026cce0887",m="# Acts 20:25 (New International Version)\n\"Now I know that none of you among whom I have gone about preaching the kingdom[^A] will ever see me again.[^B] \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]\n[^B]: [[Acts-20-38|ver 38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

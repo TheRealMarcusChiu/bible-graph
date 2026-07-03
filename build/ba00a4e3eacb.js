@@ -1,0 +1,1 @@
+(function(){var b="ba00a4e3eacb",m="# Acts 18:13 (New International Version)\n\"This man,\" they charged, \"is persuading the people to worship God in ways contrary to the law.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

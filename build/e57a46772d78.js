@@ -1,0 +1,1 @@
+(function(){var b="e57a46772d78",m="# Genesis 47:5 (New International Version)\nPharaoh said to Joseph, \"Your father and your brothers have come to you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0532b7bda51c",m="# Genesis 24:41 (New International Version)\nYou will be released from my oath if, when you go to my clan, they refuse to give her to you--then you will be released from my oath.'[^A]\n\n### Crossrefs\n[^A]: S [[Gen-24-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

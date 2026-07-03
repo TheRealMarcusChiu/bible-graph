@@ -1,0 +1,1 @@
+(function(){var b="a49d1829765a",m="# Exodus 30:4 (New International Version)\nMake two gold rings[^A] for the altar below the molding--two on each of the opposite sides--to hold the poles used to carry it. \n\n### Crossrefs\n[^A]: S [[Exod-25-12|Ex 25:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

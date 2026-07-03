@@ -1,0 +1,1 @@
+(function(){var b="4b26c69bfdd3",m="# Deuteronomy 19:21 (New International Version)\nShow no pity:[^A] life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.[^B]\n\n### Crossrefs\n[^A]: [[Deut-19-13|ver 13]]\n[^B]: S [[Exod-21-24|Ex 21:24]]; Mt 5:38*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="445385ee603f",m="# Luke 20:34 (New International Version)\nJesus replied, \"The people of this age marry and are given in marriage.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b8c6869be786",m="# John 9:29 (New International Version)\nWe know that God spoke to Moses, but as for this fellow, we don't even know where he comes from.\"[^A]\n\n### Crossrefs\n[^A]: [[John-8-14|Jn 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c23338170f5",m="# Mark 7:29 (New International Version)\nThen he told her, \"For such a reply, you may go; the demon has left your daughter.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

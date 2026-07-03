@@ -1,0 +1,1 @@
+(function(){var b="0bbca4633d59",m="# Matthew 27:61 (New International Version)\nMary Magdalene and the other Mary were sitting there opposite the tomb.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

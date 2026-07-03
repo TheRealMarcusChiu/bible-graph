@@ -1,0 +1,1 @@
+(function(){var b="780a82dc0c1e",m="# John 13:7 (New International Version)\nJesus replied, \"You do not realize now what I am doing, but later you will understand.\"[^A]\n\n### Crossrefs\n[^A]: [[John-13-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

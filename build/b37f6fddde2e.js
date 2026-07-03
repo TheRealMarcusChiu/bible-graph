@@ -1,0 +1,1 @@
+(function(){var b="b37f6fddde2e",m="# Acts 24:6 (New International Version)\nand even tried to desecrate the temple;[^A] so we seized him. \n\n### Crossrefs\n[^A]: [[Acts-21-28|Ac 21:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

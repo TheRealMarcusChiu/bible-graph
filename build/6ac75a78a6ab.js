@@ -1,0 +1,1 @@
+(function(){var b="6ac75a78a6ab",m="# Numbers 21:27 (New International Version)\nThat is why the poets say:\n\"Come to Heshbon and let it be rebuilt;  \n    let Sihon's city be restored.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

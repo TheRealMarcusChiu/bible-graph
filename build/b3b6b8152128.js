@@ -1,0 +1,1 @@
+(function(){var b="b3b6b8152128",m="# Exodus 26:13 (New International Version)\nThe tent curtains will be a cubit longer on both sides; what is left will hang over the sides of the tabernacle so as to cover it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fe35dec6ba37",m="# Luke 12:6 (New International Version)\nAre not five sparrows sold for two pennies? Yet not one of them is forgotten by God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

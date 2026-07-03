@@ -1,0 +1,1 @@
+(function(){var b="64be1fe26fd7",m="# Leviticus 25:52 (New International Version)\nIf only a few years remain until the Year of Jubilee, they are to compute that and pay for their redemption accordingly.[^A] \n\n### Crossrefs\n[^A]: S [[Lev-25-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

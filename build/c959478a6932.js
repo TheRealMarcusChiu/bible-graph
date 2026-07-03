@@ -1,0 +1,1 @@
+(function(){var b="c959478a6932",m="# Mark 6:40 (New International Version)\nSo they sat down in groups of hundreds and fifties.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

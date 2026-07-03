@@ -1,0 +1,1 @@
+(function(){var b="80ad33257375",m="# Mark 1:38 (New International Version)\nJesus replied, \"Let us go somewhere else--to the nearby villages--so I can preach there also. That is why I have come.\"[^A] \n\n### Crossrefs\n[^A]: [[Isa-61-1|Isa 61:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

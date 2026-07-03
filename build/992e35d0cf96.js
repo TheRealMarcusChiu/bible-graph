@@ -1,0 +1,1 @@
+(function(){var b="992e35d0cf96",m="# Genesis 36:21 (New International Version)\nDishon, Ezer and Dishan. These sons of Seir in Edom were Horite chiefs.[^A]\n\n### Crossrefs\n[^A]: [[Gen-36-30|ver 30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

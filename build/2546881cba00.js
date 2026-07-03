@@ -1,0 +1,1 @@
+(function(){var b="2546881cba00",m="# Acts 25:13 (New International Version)\nFestus Consults King Agrippa\nA few days later King Agrippa and Bernice arrived at Caesarea[^A] to pay their respects to Festus. \n\n### Crossrefs\n[^A]: S [[Acts-8-40|Ac 8:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

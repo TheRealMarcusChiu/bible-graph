@@ -1,0 +1,1 @@
+(function(){var b="83609343f114",m="# Luke 24:17 (New International Version)\nHe asked them, \"What are you discussing together as you walk along?\"\nThey stood still, their faces downcast.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

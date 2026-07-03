@@ -1,0 +1,1 @@
+(function(){var b="1ae6f5574d1b",m="# John 15:23 (New International Version)\nWhoever hates me hates my Father as well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

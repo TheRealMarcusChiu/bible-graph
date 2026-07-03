@@ -1,0 +1,1 @@
+(function(){var b="5b54444e77bf",m="# Numbers 18:29 (New International Version)\nYou must present as the LORD's portion the best and holiest part of everything given to you.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

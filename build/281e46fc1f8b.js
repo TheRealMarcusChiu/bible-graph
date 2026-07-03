@@ -1,0 +1,1 @@
+(function(){var b="281e46fc1f8b",m="# Exodus 28:23 (New International Version)\nMake two gold rings for it and fasten them to two corners of the breastpiece.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

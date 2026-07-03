@@ -1,0 +1,1 @@
+(function(){var b="f7e54f451597",m="# Acts 11:9 (New International Version)\n\"The voice spoke from heaven a second time, 'Do not call anything impure that God has made clean.'[^A] \n\n### Crossrefs\n[^A]: S [[Acts-10-15|Ac 10:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

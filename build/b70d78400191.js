@@ -1,0 +1,1 @@
+(function(){var b="b70d78400191",m="# Numbers 13:9 (New International Version)\nfrom the tribe of Benjamin, Palti son of Raphu;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

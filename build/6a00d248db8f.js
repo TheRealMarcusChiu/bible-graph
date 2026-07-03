@@ -1,0 +1,1 @@
+(function(){var b="6a00d248db8f",m="# Exodus 21:25 (New International Version)\nburn for burn, wound for wound, bruise for bruise.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a5d3d247f198",m="# Genesis 19:20 (New International Version)\nLook, here is a town near enough to run to, and it is small. Let me flee to it--it is very small, isn't it? Then my life will be spared.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

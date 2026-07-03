@@ -1,0 +1,1 @@
+(function(){var b="55fdf83ab738",m="# Luke 20:23 (New International Version)\nHe saw through their duplicity and said to them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

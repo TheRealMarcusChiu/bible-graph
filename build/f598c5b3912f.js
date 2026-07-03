@@ -1,0 +1,1 @@
+(function(){var b="f598c5b3912f",m="# Luke 14:2 (New International Version)\nThere in front of him was a man suffering from abnormal swelling of his body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

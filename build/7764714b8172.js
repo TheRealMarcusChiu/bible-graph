@@ -1,0 +1,1 @@
+(function(){var b="7764714b8172",m="# Luke 9:13 (New International Version)\nHe replied, \"You give them something to eat.\"\nThey answered, \"We have only five loaves of bread and two fish--unless we go and buy food for all this crowd.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

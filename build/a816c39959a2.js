@@ -1,0 +1,1 @@
+(function(){var b="a816c39959a2",m="# Joshua 13:19 (New International Version)\nKiriathaim,[^A] Sibmah,[^B] Zereth Shahar on the hill in the valley, \n\n### Crossrefs\n[^A]: S [[Num-32-37|Nu 32:37]]\n[^B]: S [[Num-32-3|Nu 32:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

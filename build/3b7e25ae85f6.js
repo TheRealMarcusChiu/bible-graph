@@ -1,0 +1,1 @@
+(function(){var b="3b7e25ae85f6",m="# Deuteronomy 11:15 (New International Version)\nI will provide grass[^A] in the fields for your cattle, and you will eat and be satisfied.[^B]\n\n### Crossrefs\n[^A]: [[Ps-104-14|Ps 104:14]]\n[^B]: S [[Lev-26-5|Lev 26:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a238f4e8818f",m="# Mark 13:21 (New International Version)\nAt that time if anyone says to you, 'Look, here is the Messiah!' or, 'Look, there he is!' do not believe it.[^A] \n\n### Crossrefs\n[^A]: [[Luke-17-23|Lk 17:23]]; [[Luke-21-8|21:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

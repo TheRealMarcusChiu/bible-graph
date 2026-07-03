@@ -1,0 +1,1 @@
+(function(){var b="b4d316d360a1",m="# Hebrews 10:3 (New International Version)\nBut those sacrifices are an annual reminder of sins.[^A] \n\n### Crossrefs\n[^A]: [[Lev-16-34|Lev 16:34]]; [[Heb-9-7|Heb 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

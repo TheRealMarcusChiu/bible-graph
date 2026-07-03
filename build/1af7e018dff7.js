@@ -1,0 +1,1 @@
+(function(){var b="1af7e018dff7",m="# Matthew 11:26 (New International Version)\nYes, Father, for this is what you were pleased to do.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

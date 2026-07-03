@@ -1,0 +1,1 @@
+(function(){var b="6bf4207a033b",m="# 1 Corinthians 7:20 (New International Version)\nEach person should remain in the situation they were in when God called them.[^A]\n\n### Crossrefs\n[^A]: [[1Cor-7-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

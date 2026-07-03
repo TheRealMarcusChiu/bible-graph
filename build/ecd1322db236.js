@@ -1,0 +1,1 @@
+(function(){var b="ecd1322db236",m="# Matthew 25:7 (New International Version)\n\"Then all the virgins woke up and trimmed their lamps.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

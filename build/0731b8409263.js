@@ -1,0 +1,1 @@
+(function(){var b="0731b8409263",m="# Matthew 14:20 (New International Version)\nThey all ate and were satisfied, and the disciples picked up twelve basketfuls of broken pieces that were left over.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

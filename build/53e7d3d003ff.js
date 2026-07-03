@@ -1,0 +1,1 @@
+(function(){var b="53e7d3d003ff",m="# Exodus 35:32 (New International Version)\nto make artistic designs for work in gold, silver and bronze,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

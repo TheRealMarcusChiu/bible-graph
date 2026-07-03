@@ -1,0 +1,1 @@
+(function(){var b="83682d3b4fdb",m="# Numbers 11:30 (New International Version)\nThen Moses and the elders of Israel returned to the camp.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

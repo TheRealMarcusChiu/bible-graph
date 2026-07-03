@@ -1,0 +1,1 @@
+(function(){var b="b288039ebd72",m="# Matthew 17:26 (New International Version)\n\"From others,\" Peter answered.\n\"Then the children are exempt,\" Jesus said to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

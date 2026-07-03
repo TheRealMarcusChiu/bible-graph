@@ -1,0 +1,1 @@
+(function(){var b="bcdb4ee3b74e",m="# Exodus 39:27 (New International Version)\nFor Aaron and his sons, they made tunics of fine linen[^A]--the work of a weaver-- \n\n### Crossrefs\n[^A]: [[Lev-6-10|Lev 6:10]]; [[Lev-8-2|8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

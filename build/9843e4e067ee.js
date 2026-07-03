@@ -1,0 +1,1 @@
+(function(){var b="9843e4e067ee",m="# Hebrews 9:16 (New International Version)\nIn the case of a will, it is necessary to prove the death of the one who made it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

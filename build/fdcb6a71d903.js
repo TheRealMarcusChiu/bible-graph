@@ -1,0 +1,1 @@
+(function(){var b="fdcb6a71d903",m="# John 18:16 (New International Version)\nbut Peter had to wait outside at the door. The other disciple, who was known to the high priest, came back, spoke to the servant girl on duty there and brought Peter in.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

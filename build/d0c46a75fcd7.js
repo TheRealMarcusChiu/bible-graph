@@ -1,0 +1,1 @@
+(function(){var b="d0c46a75fcd7",m="# Luke 8:4 (New International Version)\nWhile a large crowd was gathering and people were coming to Jesus from town after town, he told this parable:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

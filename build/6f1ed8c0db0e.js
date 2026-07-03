@@ -1,0 +1,1 @@
+(function(){var b="6f1ed8c0db0e",m="# 1 Corinthians 12:17 (New International Version)\nIf the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

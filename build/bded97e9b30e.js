@@ -1,0 +1,1 @@
+(function(){var b="bded97e9b30e",m="# Joshua 18:2 (New International Version)\nbut there were still seven Israelite tribes who had not yet received their inheritance.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

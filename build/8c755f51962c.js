@@ -1,0 +1,1 @@
+(function(){var b="8c755f51962c",m="# Joshua 21:24 (New International Version)\nAijalon[^A] and Gath Rimmon,[^B] together with their pasturelands--four towns.\n\n### Crossrefs\n[^A]: S [[Josh-10-12|Jos 10:12]]\n[^B]: S [[Josh-19-45|Jos 19:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

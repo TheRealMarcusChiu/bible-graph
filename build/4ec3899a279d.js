@@ -1,0 +1,1 @@
+(function(){var b="4ec3899a279d",m="# Judges 9:12 (New International Version)\n\"Then the trees said to the vine, 'Come and be our king.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c774990f4289",m="# Matthew 21:22 (New International Version)\nIf you believe, you will receive whatever you ask for[^A] in prayer.\"\n\n### Crossrefs\n[^A]: S [[Matt-7-7|Mt 7:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

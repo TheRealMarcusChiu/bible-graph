@@ -1,0 +1,1 @@
+(function(){var b="07976f38c9fe",m="# 1 Corinthians 11:11 (New International Version)\nNevertheless, in the Lord woman is not independent of man, nor is man independent of woman.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

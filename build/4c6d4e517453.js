@@ -1,0 +1,1 @@
+(function(){var b="4c6d4e517453",m="# 2 Timothy 3:3 (New International Version)\nwithout love, unforgiving, slanderous, without self-control, brutal, not lovers of the good,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

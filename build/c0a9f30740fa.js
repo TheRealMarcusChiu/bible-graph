@@ -1,0 +1,1 @@
+(function(){var b="c0a9f30740fa",m="# Luke 8:38 (New International Version)\nThe man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

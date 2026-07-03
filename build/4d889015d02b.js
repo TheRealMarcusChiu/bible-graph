@@ -1,0 +1,1 @@
+(function(){var b="4d889015d02b",m="# Deuteronomy 2:31 (New International Version)\nThe LORD said to me, \"See, I have begun to deliver Sihon and his country over to you. Now begin to conquer and possess his land.\"[^A]\n\n### Crossrefs\n[^A]: S [[Gen-12-7|Ge 12:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

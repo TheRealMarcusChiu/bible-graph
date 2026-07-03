@@ -1,0 +1,1 @@
+(function(){var b="abf7faa99340",m="# Exodus 26:32 (New International Version)\nHang it with gold hooks on four posts of acacia wood overlaid with gold and standing on four silver bases.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-26-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

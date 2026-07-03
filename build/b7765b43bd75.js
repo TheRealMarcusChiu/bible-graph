@@ -1,0 +1,1 @@
+(function(){var b="b7765b43bd75",m="# Luke 20:2 (New International Version)\n\"Tell us by what authority you are doing these things,\" they said. \"Who gave you this authority?\"[^A]\n\n### Crossrefs\n[^A]: [[John-2-18|Jn 2:18]]; [[Acts-4-7|Ac 4:7]]; [[Acts-7-27|7:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

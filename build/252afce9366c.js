@@ -1,0 +1,1 @@
+(function(){var b="252afce9366c",m="# Acts 19:7 (New International Version)\nThere were about twelve men in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

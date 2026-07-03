@@ -1,0 +1,1 @@
+(function(){var b="31d44da7f693",m="# Luke 5:36 (New International Version)\nHe told them this parable: \"No one tears a piece out of a new garment to patch an old one. Otherwise, they will have torn the new garment, and the patch from the new will not match the old.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

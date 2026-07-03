@@ -1,0 +1,1 @@
+(function(){var b="41af876cdc27",m="# Acts 26:31 (New International Version)\nAfter they left the room, they began saying to one another, \"This man is not doing anything that deserves death or imprisonment.\"[^A]\n\n### Crossrefs\n[^A]: S [[Acts-23-9|Ac 23:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

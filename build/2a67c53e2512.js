@@ -1,0 +1,1 @@
+(function(){var b="2a67c53e2512",m="# Acts 2:16 (New International Version)\nNo, this is what was spoken by the prophet Joel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

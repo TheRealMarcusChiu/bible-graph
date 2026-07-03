@@ -1,0 +1,1 @@
+(function(){var b="9f2a7d094ee6",m="# Deuteronomy 29:17 (New International Version)\nYou saw among them their detestable images and idols of wood and stone, of silver and gold.[^A] \n\n### Crossrefs\n[^A]: [[Exod-20-23|Ex 20:23]]; [[Deut-4-28|Dt 4:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

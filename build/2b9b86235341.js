@@ -1,0 +1,1 @@
+(function(){var b="2b9b86235341",m="# Mark 6:55 (New International Version)\nThey ran throughout that whole region and carried the sick on mats to wherever they heard he was.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2ee2279e5e7b",m="# Genesis 26:12 (New International Version)\nIsaac planted crops in that land and the same year reaped a hundredfold,[^A] because the LORD blessed him.[^B] \n\n### Crossrefs\n[^A]: [[Matt-13-8|Mt 13:8]]\n[^B]: S [[Gen-26-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

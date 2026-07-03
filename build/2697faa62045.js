@@ -1,0 +1,1 @@
+(function(){var b="2697faa62045",m="# Matthew 9:23 (New International Version)\nWhen Jesus entered the synagogue leader's house and saw the noisy crowd and people playing pipes,[^A] \n\n### Crossrefs\n[^A]: [[2Chr-35-25|2Ch 35:25]]; [[Jer-9-17|Jer 9:17]], [[Jer-9-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

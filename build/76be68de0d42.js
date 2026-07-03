@@ -1,0 +1,1 @@
+(function(){var b="76be68de0d42",m="# Acts 7:4 (New International Version)\n\"So he left the land of the Chaldeans and settled in Harran. After the death of his father, God sent him to this land where you are now living.[^A] \n\n### Crossrefs\n[^A]: [[Gen-12-5|Ge 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

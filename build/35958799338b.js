@@ -1,0 +1,1 @@
+(function(){var b="35958799338b",m="# Acts 23:13 (New International Version)\nMore than forty men were involved in this plot.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

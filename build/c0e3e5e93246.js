@@ -1,0 +1,1 @@
+(function(){var b="c0e3e5e93246",m="# Mark 3:9 (New International Version)\nBecause of the crowd he told his disciples to have a small boat ready for him, to keep the people from crowding him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

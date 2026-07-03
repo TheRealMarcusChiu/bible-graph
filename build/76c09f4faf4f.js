@@ -1,0 +1,1 @@
+(function(){var b="76c09f4faf4f",m="# Galatians 1:22 (New International Version)\nI was personally unknown to the churches of Judea[^A] that are in Christ.[^B] \n\n### Crossrefs\n[^A]: [[1Thess-2-14|1Th 2:14]]\n[^B]: S [[Rom-16-3|Ro 16:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

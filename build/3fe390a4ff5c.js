@@ -1,0 +1,1 @@
+(function(){var b="3fe390a4ff5c",m="# Joshua 17:6 (New International Version)\nbecause the daughters of the tribe of Manasseh received an inheritance among the sons. The land of Gilead belonged to the rest of the descendants of Manasseh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

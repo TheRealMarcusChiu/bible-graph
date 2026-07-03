@@ -1,0 +1,1 @@
+(function(){var b="9acbad8d5540",m="# Mark 10:29 (New International Version)\n\"Truly I tell you,\" Jesus replied, \"no one who has left home or brothers or sisters or mother or father or children or fields for me and the gospel";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

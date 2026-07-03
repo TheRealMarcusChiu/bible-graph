@@ -1,0 +1,1 @@
+(function(){var b="48042352df34",m="# Exodus 32:25 (New International Version)\nMoses saw that the people were running wild and that Aaron had let them get out of control and so become a laughingstock[^A] to their enemies. \n\n### Crossrefs\n[^A]: S [[Gen-38-23|Ge 38:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

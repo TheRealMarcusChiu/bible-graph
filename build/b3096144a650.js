@@ -1,0 +1,1 @@
+(function(){var b="b3096144a650",m="# Exodus 9:10 (New International Version)\nSo they took soot from a furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on people and animals.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

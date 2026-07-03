@@ -1,0 +1,1 @@
+(function(){var b="dbe0daa856c7",m="# Mark 10:36 (New International Version)\n\"What do you want me to do for you?\" he asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

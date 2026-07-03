@@ -1,0 +1,1 @@
+(function(){var b="67399970c6d1",m="# Philippians 1:5 (New International Version)\nbecause of your partnership[^A] in the gospel from the first day[^B] until now, \n\n### Crossrefs\n[^A]: [[Acts-2-42|Ac 2:42]]; [[Phil-4-15|Php 4:15]]\n[^B]: [[Acts-16-12|Ac 16:12-40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

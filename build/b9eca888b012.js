@@ -1,0 +1,1 @@
+(function(){var b="b9eca888b012",m="# Exodus 21:5 (New International Version)\n\"But if the servant declares, 'I love my master and my wife and children and do not want to go free,'[^A] \n\n### Crossrefs\n[^A]: [[Deut-15-16|Dt 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

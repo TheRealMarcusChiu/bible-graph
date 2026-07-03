@@ -1,0 +1,1 @@
+(function(){var b="6bf272b4c45f",m="# Mark 7:30 (New International Version)\nShe went home and found her child lying on the bed, and the demon gone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

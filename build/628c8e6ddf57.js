@@ -1,0 +1,1 @@
+(function(){var b="628c8e6ddf57",m="# Exodus 40:19 (New International Version)\nThen he spread the tent over the tabernacle and put the covering[^A] over the tent, as the LORD commanded[^B] him.\n\n### Crossrefs\n[^A]: [[Exod-36-19|Ex 36:19]]\n[^B]: S [[Gen-6-22|Ge 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

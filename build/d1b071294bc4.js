@@ -1,0 +1,1 @@
+(function(){var b="d1b071294bc4",m="# Luke 23:19 (New International Version)\n(Barabbas had been thrown into prison for an insurrection in the city, and for murder.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="df0839d64b5f",m="# Mark 5:42 (New International Version)\nImmediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8712be9d678e",m="# Luke 4:10 (New International Version)\nFor it is written:\n\"'He will command his angels concerning you  \n    to guard you carefully;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

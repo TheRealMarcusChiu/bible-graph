@@ -1,0 +1,1 @@
+(function(){var b="f64f5f588287",m="# Acts 22:7 (New International Version)\nI fell to the ground and heard a voice say to me, 'Saul! Saul! Why do you persecute me?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

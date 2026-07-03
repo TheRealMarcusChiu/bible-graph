@@ -1,0 +1,1 @@
+(function(){var b="9f511afe6a25",m="# Exodus 6:28 (New International Version)\nAaron to Speak for Moses\nNow when the LORD spoke to Moses in Egypt,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

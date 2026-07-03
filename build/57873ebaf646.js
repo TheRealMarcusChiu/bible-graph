@@ -1,0 +1,1 @@
+(function(){var b="57873ebaf646",m="# Acts 9:25 (New International Version)\nBut his followers took him by night and lowered him in a basket through an opening in the wall.[^A]\n\n### Crossrefs\n[^A]: [[1Sam-19-12|1Sa 19:12]]; [[2Cor-11-32|2Co 11:32]], [[2Cor-11-33|33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

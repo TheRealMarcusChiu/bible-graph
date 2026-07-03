@@ -1,0 +1,1 @@
+(function(){var b="5ebeb2f7b7f3",m="# Matthew 10:3 (New International Version)\nPhilip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

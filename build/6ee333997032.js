@@ -1,0 +1,1 @@
+(function(){var b="6ee333997032",m="# Exodus 35:20 (New International Version)\nThen the whole Israelite community withdrew from Moses' presence,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

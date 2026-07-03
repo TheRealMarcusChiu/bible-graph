@@ -1,0 +1,1 @@
+(function(){var b="fb4db6fa1137",m="# Genesis 42:12 (New International Version)\n\"No!\" he said to them. \"You have come to see where our land is unprotected.\"[^A]\n\n### Crossrefs\n[^A]: [[Gen-42-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

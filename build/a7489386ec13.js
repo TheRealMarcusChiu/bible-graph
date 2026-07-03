@@ -1,0 +1,1 @@
+(function(){var b="a7489386ec13",m="# Matthew 13:49 (New International Version)\nThis is how it will be at the end of the age. The angels will come and separate the wicked from the righteous[^A] \n\n### Crossrefs\n[^A]: [[Matt-25-32|Mt 25:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

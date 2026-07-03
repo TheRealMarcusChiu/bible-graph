@@ -1,0 +1,1 @@
+(function(){var b="e27778cee969",m="# Luke 8:11 (New International Version)\n\"This is the meaning of the parable: The seed is the word of God.[^A] \n\n### Crossrefs\n[^A]: S [[Heb-4-12|Heb 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

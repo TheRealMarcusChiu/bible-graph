@@ -1,0 +1,1 @@
+(function(){var b="b2a5c42cffd5",m="# Luke 12:26 (New International Version)\nSince you cannot do this very little thing, why do you worry about the rest?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

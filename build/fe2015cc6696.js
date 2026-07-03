@@ -1,0 +1,1 @@
+(function(){var b="fe2015cc6696",m="# Acts 20:35 (New International Version)\nIn everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words the Lord Jesus himself said: 'It is more blessed to give than to receive.' \"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

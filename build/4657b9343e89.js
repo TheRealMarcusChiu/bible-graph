@@ -1,0 +1,1 @@
+(function(){var b="4657b9343e89",m="# Exodus 12:51 (New International Version)\nAnd on that very day the LORD brought the Israelites out of Egypt[^A] by their divisions.[^B]\n\n### Crossrefs\n[^A]: S [[Exod-3-10|Ex 3:10]]; S [[Exod-6-6|6:6]]\n[^B]: S [[Exod-6-26|Ex 6:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

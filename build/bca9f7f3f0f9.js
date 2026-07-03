@@ -1,0 +1,1 @@
+(function(){var b="bca9f7f3f0f9",m="# Revelation 6\n\nJohn's apocalypse -- letters to seven churches and visions of God's final victory and the new creation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

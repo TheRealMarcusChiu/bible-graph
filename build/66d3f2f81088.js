@@ -1,0 +1,1 @@
+(function(){var b="66d3f2f81088",m="# Exodus 26:29 (New International Version)\nOverlay the frames with gold and make gold rings to hold the crossbars. Also overlay the crossbars with gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

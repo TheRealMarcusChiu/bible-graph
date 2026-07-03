@@ -1,0 +1,1 @@
+(function(){var b="c067982daaa4",m="# Numbers 31:2 (New International Version)\n\"Take vengeance on the Midianites[^A] for the Israelites. After that, you will be gathered to your people.[^B]\"\n\n### Crossrefs\n[^A]: S [[Gen-25-2|Ge 25:2]]\n[^B]: S [[Num-20-26|Nu 20:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

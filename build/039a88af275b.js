@@ -1,0 +1,1 @@
+(function(){var b="039a88af275b",m="# John 1:6 (New International Version)\nThere was a man sent from God whose name was John.[^A] \n\n### Crossrefs\n[^A]: S [[Matt-3-1|Mt 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2237aaefba61",m="# Acts 4:4 (New International Version)\nBut many who heard the message believed; so the number of men who believed grew[^A] to about five thousand.\n\n### Crossrefs\n[^A]: S [[Acts-2-41|Ac 2:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d134aa3465a3",m="# Genesis 19:18 (New International Version)\nBut Lot said to them, \"No, my lords, please!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

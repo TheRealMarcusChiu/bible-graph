@@ -1,0 +1,1 @@
+(function(){var b="d906ff3bdb2e",m="# Mark 1:19 (New International Version)\nWhen he had gone a little farther, he saw James son of Zebedee and his brother John in a boat, preparing their nets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

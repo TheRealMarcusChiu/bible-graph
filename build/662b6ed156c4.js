@@ -1,0 +1,1 @@
+(function(){var b="662b6ed156c4",m="# John 6:43 (New International Version)\n\"Stop grumbling among yourselves,\" Jesus answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

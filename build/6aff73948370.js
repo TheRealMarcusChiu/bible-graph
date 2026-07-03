@@ -1,0 +1,1 @@
+(function(){var b="6aff73948370",m="# Hebrews 10:12 (New International Version)\nBut when this priest had offered for all time one sacrifice for sins,[^A] he sat down at the right hand of God,[^B] \n\n### Crossrefs\n[^A]: [[Heb-5-1|Heb 5:1]]\n[^B]: S [[Mark-16-19|Mk 16:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

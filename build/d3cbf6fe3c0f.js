@@ -1,0 +1,1 @@
+(function(){var b="d3cbf6fe3c0f",m="# 1 Corinthians 4:18 (New International Version)\nSome of you have become arrogant,[^A] as if I were not coming to you.[^B] \n\n### Crossrefs\n[^A]: [[Jer-43-2|Jer 43:2]]\n[^B]: [[1Cor-4-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

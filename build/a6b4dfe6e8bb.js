@@ -1,0 +1,1 @@
+(function(){var b="a6b4dfe6e8bb",m="# Acts 12:15 (New International Version)\n\"You're out of your mind,\" they told her. When she kept insisting that it was so, they said, \"It must be his angel.\"[^A]\n\n### Crossrefs\n[^A]: S [[Matt-18-10|Mt 18:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8b6302ad782b",m="# Matthew 26:34 (New International Version)\n\"Truly I tell you,\" Jesus answered, \"this very night, before the rooster crows, you will disown me three times.\"[^A]\n\n### Crossrefs\n[^A]: [[Matt-26-75|ver 75]]; [[John-13-38|Jn 13:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

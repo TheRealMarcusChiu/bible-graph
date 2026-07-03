@@ -1,0 +1,1 @@
+(function(){var b="ef972e6f7655",m="# 1 Corinthians 14:22 (New International Version)\nTongues, then, are a sign, not for believers but for unbelievers; prophecy,[^A] however, is not for unbelievers but for believers. \n\n### Crossrefs\n[^A]: [[1Cor-14-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

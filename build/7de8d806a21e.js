@@ -1,0 +1,1 @@
+(function(){var b="7de8d806a21e",m="# Luke 13:17 (New International Version)\nWhen he said this, all his opponents were humiliated,[^A] but the people were delighted with all the wonderful things he was doing.\n\n### Crossrefs\n[^A]: [[Isa-66-5|Isa 66:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

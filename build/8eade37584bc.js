@@ -1,0 +1,1 @@
+(function(){var b="8eade37584bc",m="# Genesis 40:6 (New International Version)\nWhen Joseph came to them the next morning, he saw that they were dejected.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

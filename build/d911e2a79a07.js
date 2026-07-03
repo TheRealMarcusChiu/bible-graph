@@ -1,0 +1,1 @@
+(function(){var b="d911e2a79a07",m="# Luke 1:40 (New International Version)\nwhere she entered Zechariah's home and greeted Elizabeth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

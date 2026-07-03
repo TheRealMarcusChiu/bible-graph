@@ -1,0 +1,1 @@
+(function(){var b="6a095ad49865",m="# Mark 11:19 (New International Version)\nWhen evening came, Jesus and his disciples went out of the city.[^A]\n\n### Crossrefs\n[^A]: [[Luke-21-37|Lk 21:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

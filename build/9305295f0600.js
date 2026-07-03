@@ -1,0 +1,1 @@
+(function(){var b="9305295f0600",m="# Joshua 3:9 (New International Version)\nJoshua said to the Israelites, \"Come here and listen to the words of the LORD your God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6964256893bc",m="# Leviticus 23:1 (New International Version)\nThe Appointed Festivals\nThe LORD said to Moses,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

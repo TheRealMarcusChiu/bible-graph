@@ -1,0 +1,1 @@
+(function(){var b="f0959cdfd41d",m="# John 11:46 (New International Version)\nBut some of them went to the Pharisees and told them what Jesus had done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

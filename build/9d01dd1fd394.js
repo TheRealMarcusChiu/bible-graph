@@ -1,0 +1,1 @@
+(function(){var b="9d01dd1fd394",m="# 2 John 13 (New International Version)\nThe children of your sister, who is chosen by God,[^A] send their greetings.\n\n### Crossrefs\n[^A]: [[2John-1-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

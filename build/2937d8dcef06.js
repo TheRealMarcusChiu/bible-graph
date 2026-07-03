@@ -1,0 +1,1 @@
+(function(){var b="2937d8dcef06",m="# Matthew 21:40 (New International Version)\n\"Therefore, when the owner of the vineyard comes, what will he do to those tenants?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

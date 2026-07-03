@@ -1,0 +1,1 @@
+(function(){var b="5448eb6d7907",m="# John 4:44 (New International Version)\n(Now Jesus himself had pointed out that a prophet has no honor in his own country.)[^A] \n\n### Crossrefs\n[^A]: [[Matt-13-57|Mt 13:57]]; [[Luke-4-24|Lk 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

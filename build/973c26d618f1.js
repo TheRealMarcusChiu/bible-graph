@@ -1,0 +1,1 @@
+(function(){var b="973c26d618f1",m="# Judges 5:25 (New International Version)\nHe asked for water, and she gave him milk;[^A]  \n    in a bowl fit for nobles she brought him curdled milk.\n\n### Crossrefs\n[^A]: S [[Gen-18-8|Ge 18:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

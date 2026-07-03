@@ -1,0 +1,1 @@
+(function(){var b="dd81bf7c61cd",m="# Acts 22:13 (New International Version)\nHe stood beside me and said, 'Brother Saul, receive your sight!' And at that very moment I was able to see him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

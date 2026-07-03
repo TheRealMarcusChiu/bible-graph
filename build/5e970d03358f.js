@@ -1,0 +1,1 @@
+(function(){var b="5e970d03358f",m="# Luke 13:10 (New International Version)\nJesus Heals a Crippled Woman on the Sabbath\nOn a Sabbath Jesus was teaching in one of the synagogues,[^A] \n\n### Crossrefs\n[^A]: S [[Matt-4-23|Mt 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

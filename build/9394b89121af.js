@@ -1,0 +1,1 @@
+(function(){var b="9394b89121af",m="# Numbers 3:8 (New International Version)\nThey are to take care of all the furnishings of the tent of meeting, fulfilling the obligations of the Israelites by doing the work of the tabernacle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

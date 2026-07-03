@@ -1,0 +1,1 @@
+(function(){var b="0650a942b3f7",m="# Romans 6:20 (New International Version)\nWhen you were slaves to sin,[^A] you were free from the control of righteousness.[^B] \n\n### Crossrefs\n[^A]: S [[Rom-6-16|ver 16]]\n[^B]: [[Rom-6-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

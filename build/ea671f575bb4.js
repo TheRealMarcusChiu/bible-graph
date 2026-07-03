@@ -1,0 +1,1 @@
+(function(){var b="ea671f575bb4",m="# Genesis 7:18 (New International Version)\nThe waters rose and increased greatly on the earth, and the ark floated on the surface of the water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

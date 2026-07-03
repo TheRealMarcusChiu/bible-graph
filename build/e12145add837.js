@@ -1,0 +1,1 @@
+(function(){var b="e12145add837",m="# Luke 1:65 (New International Version)\nAll the neighbors were filled with awe, and throughout the hill country of Judea[^A] people were talking about all these things. \n\n### Crossrefs\n[^A]: [[Luke-1-39|ver 39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

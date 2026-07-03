@@ -1,0 +1,1 @@
+(function(){var b="a2bf34db7308",m="# Leviticus 21:24 (New International Version)\nSo Moses told this to Aaron and his sons and to all the Israelites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

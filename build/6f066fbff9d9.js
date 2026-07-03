@@ -1,0 +1,1 @@
+(function(){var b="6f066fbff9d9",m="# Acts 5:32 (New International Version)\nWe are witnesses of these things,[^A] and so is the Holy Spirit,[^B] whom God has given to those who obey him.\"\n\n### Crossrefs\n[^A]: S [[Luke-24-48|Lk 24:48]]\n[^B]: [[John-15-26|Jn 15:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

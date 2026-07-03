@@ -1,0 +1,1 @@
+(function(){var b="d376a4beead1",m="# Judges 9:52 (New International Version)\nAbimelek went to the tower and attacked it. But as he approached the entrance to the tower to set it on fire,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

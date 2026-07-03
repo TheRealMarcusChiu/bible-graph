@@ -1,0 +1,1 @@
+(function(){var b="8b15eaa399b3",m="# Luke 10:17 (New International Version)\nThe seventy-two[^A] returned with joy and said, \"Lord, even the demons submit to us in your name.\"[^B]\n\n### Crossrefs\n[^A]: [[Luke-10-1|ver 1]]\n[^B]: S [[Mark-16-17|Mk 16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

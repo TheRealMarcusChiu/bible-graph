@@ -1,0 +1,1 @@
+(function(){var b="7ba9c89d7d6b",m="# Mark 10:7 (New International Version)\n'For this reason a man will leave his father and mother and be united to his wife,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

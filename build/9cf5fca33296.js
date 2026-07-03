@@ -1,0 +1,1 @@
+(function(){var b="9cf5fca33296",m="# Hebrews 2:1 (New International Version)\nWarning to Pay Attention\nWe must pay the most careful attention, therefore, to what we have heard, so that we do not drift away.[^A] \n\n### Crossrefs\n[^A]: S [[Rom-11-22|Ro 11:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

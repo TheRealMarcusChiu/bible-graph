@@ -1,0 +1,1 @@
+(function(){var b="f52dae2ef283",m="# Exodus 9:17 (New International Version)\nYou still set yourself against my people and will not let them go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

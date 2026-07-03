@@ -1,0 +1,1 @@
+(function(){var b="a5b94b9d0574",m="# Judges 5:20 (New International Version)\nFrom the heavens[^A] the stars fought,  \n    from their courses they fought against Sisera.\n\n### Crossrefs\n[^A]: S [[Josh-10-11|Jos 10:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

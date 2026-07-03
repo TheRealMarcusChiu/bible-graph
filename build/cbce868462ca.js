@@ -1,0 +1,1 @@
+(function(){var b="cbce868462ca",m="# Numbers 22:27 (New International Version)\nWhen the donkey saw the angel of the LORD, it lay down under Balaam, and he was angry[^A] and beat it with his staff. \n\n### Crossrefs\n[^A]: [[Num-11-1|Nu 11:1]]; [[Jas-1-19|Jas 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7a7c126e7429",m="# Genesis 21:5 (New International Version)\nAbraham was a hundred years old[^A] when his son Isaac was born to him.\n\n### Crossrefs\n[^A]: S [[Gen-12-4|Ge 12:4]]; [[Heb-6-15|Heb 6:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc29d34ff1ce",m="# 2 Timothy 1:11 (New International Version)\nAnd of this gospel[^A] I was appointed[^B] a herald and an apostle and a teacher.[^C] \n\n### Crossrefs\n[^A]: [[2Tim-1-8|ver 8]]\n[^B]: S [[Acts-9-15|Ac 9:15]]\n[^C]: [[1Tim-2-7|1Ti 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="058c8e52de19",m="# Romans 11:30 (New International Version)\nJust as you who were at one time disobedient[^A] to God have now received mercy as a result of their disobedience, \n\n### Crossrefs\n[^A]: S [[Eph-2-2|Eph 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

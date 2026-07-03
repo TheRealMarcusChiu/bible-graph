@@ -1,0 +1,1 @@
+(function(){var b="d2220eb7978f",m="# Mark 5:19 (New International Version)\nJesus did not let him, but said, \"Go home to your own people and tell them[^A] how much the Lord has done for you, and how he has had mercy on you.\" \n\n### Crossrefs\n[^A]: S [[Matt-8-4|Mt 8:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

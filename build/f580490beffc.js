@@ -1,0 +1,1 @@
+(function(){var b="f580490beffc",m="# Numbers 11:5 (New International Version)\nWe remember the fish we ate in Egypt at no cost--also the cucumbers, melons, leeks, onions and garlic.[^A] \n\n### Crossrefs\n[^A]: S [[Exod-16-3|Ex 16:3]]; [[Num-21-5|Nu 21:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

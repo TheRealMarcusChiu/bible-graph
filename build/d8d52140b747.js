@@ -1,0 +1,1 @@
+(function(){var b="d8d52140b747",m="# 2 Corinthians 2:10 (New International Version)\nAnyone you forgive, I also forgive. And what I have forgiven--if there was anything to forgive--I have forgiven in the sight of Christ for your sake,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

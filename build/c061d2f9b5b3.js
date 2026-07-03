@@ -1,0 +1,1 @@
+(function(){var b="c061d2f9b5b3",m="# Genesis 3:12 (New International Version)\nThe man said, \"The woman you put here with me[^A]--she gave me some fruit from the tree, and I ate it.\"\n\n### Crossrefs\n[^A]: [[Gen-2-22|Ge 2:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a0d38363048c",m="# Matthew 8:25 (New International Version)\nThe disciples went and woke him, saying, \"Lord, save us! We're going to drown!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

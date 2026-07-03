@@ -1,0 +1,1 @@
+(function(){var b="2e843fca9994",m="# Mark 10:6 (New International Version)\n\"But at the beginning of creation God 'made them male and female.'[^A] \n\n### Crossrefs\n[^A]: [[Gen-1-27|Ge 1:27]]; [[Gen-5-2|5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

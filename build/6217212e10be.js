@@ -1,0 +1,1 @@
+(function(){var b="6217212e10be",m="# 1 Corinthians 4:2 (New International Version)\nNow it is required that those who have been given a trust must prove faithful.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

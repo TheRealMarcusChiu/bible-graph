@@ -1,0 +1,1 @@
+(function(){var b="c6f40e38d2fd",m="# Mark 10:9 (New International Version)\nTherefore what God has joined together, let no one separate.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

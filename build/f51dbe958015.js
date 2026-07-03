@@ -1,0 +1,1 @@
+(function(){var b="f51dbe958015",m="# Numbers 30:14 (New International Version)\nBut if her husband says nothing to her about it from day to day, then he confirms all her vows or the pledges binding on her. He confirms them by saying nothing to her when he hears about them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

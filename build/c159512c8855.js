@@ -1,0 +1,1 @@
+(function(){var b="c159512c8855",m="# Exodus 18:24 (New International Version)\nMoses listened to his father-in-law and did everything he said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

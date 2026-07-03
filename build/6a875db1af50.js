@@ -1,0 +1,1 @@
+(function(){var b="6a875db1af50",m="# Judges 9:34 (New International Version)\nSo Abimelek and all his troops set out by night and took up concealed positions near Shechem in four companies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

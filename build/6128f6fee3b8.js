@@ -1,0 +1,1 @@
+(function(){var b="6128f6fee3b8",m="# Joshua 22:34 (New International Version)\nAnd the Reubenites and the Gadites gave the altar this name: A Witness[^A] Between Us--that the LORD is God.\n\n### Crossrefs\n[^A]: S [[Gen-21-30|Ge 21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

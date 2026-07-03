@@ -1,0 +1,1 @@
+(function(){var b="7d545690d5ee",m="# Deuteronomy 19:4 (New International Version)\nThis is the rule concerning anyone who kills a person and flees there for safety--anyone who kills a neighbor unintentionally, without malice aforethought.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
