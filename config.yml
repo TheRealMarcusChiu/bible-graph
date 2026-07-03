@@ -7,22 +7,22 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Browser tab title.
-title: "/var/log"
+title: "/bible/graph"
 
 # Wordmark shown top-left in the header.
-brand: "/var/log"
+brand: "/bible/graph"
 
 # Small caption beside the wordmark.
-subtitle: "knowledge garden"
+subtitle: "the garden"
 
 # Your site's public URL (used internally; safe to leave blank).
-site_url: "https://git.marcuschiu.com/var-log/"
+site_url: "https://git.marcuschiu.com/bible-graph/"
 
 # Hidden signature easter egg: typing the `trigger` word anywhere flashes a
 # credit overlay. Leave `trigger` empty ("") to disable it entirely.
 signature:
-  trigger: "marcus"
-  text: "✦ tended by Marcus Chiu ✦"
+  trigger: "bible"
+  text: "✦ tended by Him ✦"
   url: "git.marcuschiu.com"
 
 # giscus comments (https://giscus.app). Set `enabled: false` to hide the

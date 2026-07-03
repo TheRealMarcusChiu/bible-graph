@@ -12,8 +12,15 @@
   gtag('config', 'G-WKSFZQ4K6F');
 </script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--KG:title--><title>/var/log</title><!--/KG:title-->
-<!--KG:og--><!--/KG:og-->
+<!--KG:title--><title>/bible/graph</title><!--/KG:title-->
+<!--KG:og--><meta property="og:type" content="website">
+<meta property="og:site_name" content="/bible/graph">
+<meta property="og:title" content="/bible/graph">
+<meta property="og:description" content="the garden">
+<meta property="og:url" content="https://git.marcuschiu.com/bible-graph/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="/bible/graph">
+<meta name="twitter:description" content="the garden"><!--/KG:og-->
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <script src="./support.js"></script>
 </head>
@@ -130,8 +137,8 @@
   <!-- ===== TOP BAR ===== -->
   <header ref="{{ setHeaderEl }}" style="position: absolute; top: 0; left: 0; right: 0; z-index: 60; box-sizing: border-box; min-height: 62px; display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; padding: 10px 10px 10px 17px; background: linear-gradient(180deg, rgba(15,12,9,0.96) 0%, rgba(15,12,9,0.86) 64%, rgba(15,12,9,0.66) 100%); backdrop-filter: blur(3px); border-bottom: 1px solid #2a2218;">
     <div onClick="{{ reloadPage }}" title="Reset to root" style="display: {{ brandDisplay }}; align-items: baseline; gap: 13px; cursor: pointer;">
-      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;"><!--KG:brand-->/var/log<!--/KG:brand--></span>
-      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};"><!--KG:subtitle-->knowledge garden<!--/KG:subtitle--></span>
+      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;"><!--KG:brand-->/bible/graph<!--/KG:brand--></span>
+      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};"><!--KG:subtitle-->the garden<!--/KG:subtitle--></span>
     </div>
 
     <div style="{{ searchWrapStyle }}">
@@ -245,7 +252,7 @@
     <div style="position: fixed; inset: 0; z-index: 92; pointer-events: none; overflow: hidden;">
       <div style="position: absolute; left: 50%; top: 50%; width: 44px; height: 44px; border-radius: 50%; border: 2px solid #f4cf6a; box-shadow: 0 0 44px rgba(216,169,66,0.75); animation: eggRing 1.7s ease-out forwards;"></div>
       <div style="position: absolute; left: 50%; bottom: 64px; transform: translateX(-50%); animation: eggFade 4.2s ease both; text-align: center; background: rgba(20,16,11,0.92); border: 1px solid #d8a942; border-radius: 11px; padding: 16px 28px; box-shadow: 0 18px 50px -18px rgba(216,169,66,0.55);">
-        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;"><!--KG:sig_text-->✦ tended by Marcus Chiu ✦<!--/KG:sig_text--></div>
+        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;"><!--KG:sig_text-->✦ tended by Him ✦<!--/KG:sig_text--></div>
         <div style="margin-top: 6px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.3em; text-transform: uppercase; color: #b78f3a;"><!--KG:sig_url-->git.marcuschiu.com<!--/KG:sig_url--></div>
       </div>
     </div>
@@ -704,11 +711,11 @@ class Component extends DCLogic {
   }
 
   GLOW_MS = 2000;
-  SITE = /*KG:site_url*/'https://git.marcuschiu.com/var-log/'/*/KG:site_url*/;
+  SITE = /*KG:site_url*/'https://git.marcuschiu.com/bible-graph/'/*/KG:site_url*/;
 
   // Hidden signature easter egg: typing this word flashes a credit overlay.
   // Empty string disables it. Injected from config.yml by build.js.
-  EGG_TRIGGER = /*KG:trigger*/'marcus'/*/KG:trigger*/;
+  EGG_TRIGGER = /*KG:trigger*/'bible'/*/KG:trigger*/;
 
   // giscus comments — fill these from https://giscus.app for YOUR GitHub repo.
   // Set enabled:false to hide the discussion section. Injected from config.yml.
