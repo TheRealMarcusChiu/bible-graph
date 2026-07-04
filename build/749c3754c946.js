@@ -1,0 +1,1 @@
+(function(){var b="749c3754c946",m="# Nehemiah 10:25 (New International Version)\nRehum, Hashabnah, Maaseiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

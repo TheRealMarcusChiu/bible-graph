@@ -1,0 +1,1 @@
+(function(){var b="3017570b704d",m="# Proverbs 8:34 (New International Version)\nBlessed are those who listen<sup>^A</sup> to me,  \n    watching daily at my doors,  \n    waiting at my doorway.\n\n### Crossrefs\n- A: [[1Kgs-10-8|1Ki 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

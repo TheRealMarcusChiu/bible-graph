@@ -1,0 +1,1 @@
+(function(){var b="2aa17d9e5f65",m="# Zechariah 9:6 (New International Version)\nA mongrel people will occupy Ashdod,  \n    and I will put an end<sup>^A</sup> to the pride of the Philistines.\n\n### Crossrefs\n- A: S [[Isa-14-30|Isa 14:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b4e0e59b2770",m="# Job 30:18 (New International Version)\nIn his great power<sup>^A</sup> God becomes like clothing to me;  \n    he binds me like the neck of my garment.\n\n### Crossrefs\n- A: S [[Job-9-4|Job 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

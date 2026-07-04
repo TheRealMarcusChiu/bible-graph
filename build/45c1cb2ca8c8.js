@@ -1,0 +1,1 @@
+(function(){var b="45c1cb2ca8c8",m="# 1 Chronicles 4:11 (New International Version)\nKelub, Shuhah's brother, was the father of Mehir, who was the father of Eshton.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

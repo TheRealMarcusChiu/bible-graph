@@ -1,0 +1,1 @@
+(function(){var b="a3189eee9686",m="# Ezekiel 40:9 (New International Version)\nit was eight cubits deep and its jambs were two cubits thick. The portico of the gateway faced the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

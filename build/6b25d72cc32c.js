@@ -1,0 +1,1 @@
+(function(){var b="6b25d72cc32c",m="# Nehemiah 7:64 (New International Version)\nThese searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

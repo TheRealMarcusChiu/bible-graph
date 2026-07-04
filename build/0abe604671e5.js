@@ -1,0 +1,1 @@
+(function(){var b="0abe604671e5",m="# 1 Chronicles 27:10 (New International Version)\nThe seventh, for the seventh month, was Helez<sup>^A</sup> the Pelonite, an Ephraimite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: [[2Sam-23-26|2Sa 23:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

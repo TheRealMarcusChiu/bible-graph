@@ -1,0 +1,1 @@
+(function(){var b="b5ca026fabbd",m="# Psalm 119:129 (New International Version)\nYour statutes are wonderful;<sup>^A</sup>  \n    therefore I obey them.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-18|ver 18]]\n- B: [[Ps-119-22|ver 22]],S [[Ps-119-88|88]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

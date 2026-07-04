@@ -1,0 +1,1 @@
+(function(){var b="ba9bb17f6c64",m="# 2 Chronicles 33:4 (New International Version)\nHe built altars in the temple of the LORD, of which the LORD had said, \"My Name<sup>^A</sup> will remain in Jerusalem forever.\" \n\n### Crossrefs\n- A: [[2Chr-7-16|2Ch 7:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

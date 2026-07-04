@@ -1,0 +1,1 @@
+(function(){var b="1f8197d5b20d",m="# Esther 1:17 (New International Version)\nFor the queen's conduct will become known to all the women, and so they will despise their husbands and say, 'King Xerxes commanded Queen Vashti to be brought before him, but she would not come.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

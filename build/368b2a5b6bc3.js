@@ -1,0 +1,1 @@
+(function(){var b="368b2a5b6bc3",m="# Job 6:20 (New International Version)\nThey are distressed, because they had been confident;  \n    they arrive there, only to be disappointed.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-14-3|Jer 14:3]]; [[Joel-1-11|Joel 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

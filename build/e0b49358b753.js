@@ -1,0 +1,1 @@
+(function(){var b="e0b49358b753",m="# Psalm 109:10 (New International Version)\nMay his children be wandering beggars;<sup>^A</sup>  \n    may they be driven from their ruined homes.\n\n### Crossrefs\n- A: S [[Gen-4-12|Ge 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

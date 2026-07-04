@@ -1,0 +1,1 @@
+(function(){var b="83bf5b1a463a",m="# 1 Chronicles 7:11 (New International Version)\nAll these sons of Jediael were heads of families. There were 17,200 fighting men ready to go out to war.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

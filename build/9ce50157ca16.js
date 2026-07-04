@@ -1,0 +1,1 @@
+(function(){var b="9ce50157ca16",m="# Jeremiah 17:15 (New International Version)\nThey keep saying to me,  \n    \"Where is the word of the LORD?  \n    Let it now be fulfilled!\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-5-19|Isa 5:19]]; [[2Pet-3-4|2Pe 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

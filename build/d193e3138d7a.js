@@ -1,0 +1,1 @@
+(function(){var b="d193e3138d7a",m="# 1 Chronicles 8:9 (New International Version)\nBy his wife Hodesh he had Jobab, Zibia, Mesha, Malkam,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

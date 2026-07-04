@@ -1,0 +1,1 @@
+(function(){var b="a47207e9ca41",m="# Jeremiah 36:22 (New International Version)\nIt was the ninth month and the king was sitting in the winter apartment,<sup>^A</sup> with a fire burning in the firepot in front of him. \n\n### Crossrefs\n- A: [[Amos-3-15|Am 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

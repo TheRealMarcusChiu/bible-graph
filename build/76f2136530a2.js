@@ -1,0 +1,1 @@
+(function(){var b="76f2136530a2",m="# Ezra 4:8 (New International Version)\nRehum the commanding officer and Shimshai the secretary wrote a letter against Jerusalem to Artaxerxes the king as follows:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

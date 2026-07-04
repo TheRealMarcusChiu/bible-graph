@@ -1,0 +1,1 @@
+(function(){var b="390f1c7970b6",m="# Psalm 150:5 (New International Version)\npraise him with the clash of cymbals,<sup>^A</sup>  \n    praise him with resounding cymbals.\n\n### Crossrefs\n- A: S [[2Sam-6-5|2Sa 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

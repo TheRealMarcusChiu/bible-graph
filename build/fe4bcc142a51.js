@@ -1,0 +1,1 @@
+(function(){var b="fe4bcc142a51",m="# Song of Songs 7:5 (New International Version)\nYour head crowns you like Mount Carmel.<sup>^A</sup>  \n    Your hair is like royal tapestry;  \n    the king is held captive by its tresses.\n\n### Crossrefs\n- A: [[Isa-35-2|Isa 35:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="182e9cfb1a58",m="# Jeremiah 23:37 (New International Version)\nThis is what you keep saying to a prophet: 'What is the LORD's answer to you?' or 'What has the LORD spoken?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

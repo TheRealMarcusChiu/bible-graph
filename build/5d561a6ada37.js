@@ -1,0 +1,1 @@
+(function(){var b="5d561a6ada37",m="# 1 Chronicles 8:18 (New International Version)\nIshmerai, Izliah and Jobab were the sons of Elpaal.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

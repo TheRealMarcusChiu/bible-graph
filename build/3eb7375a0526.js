@@ -1,0 +1,1 @@
+(function(){var b="3eb7375a0526",m="# Ezekiel 30:19 (New International Version)\nSo I will inflict punishment<sup>^A</sup> on Egypt,  \n    and they will know that I am the LORD.'\"\n\n### Crossrefs\n- A: [[Ezek-28-22|Eze 28:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

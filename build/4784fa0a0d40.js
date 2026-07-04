@@ -1,0 +1,1 @@
+(function(){var b="4784fa0a0d40",m="# 1 Chronicles 23:7 (New International Version)\nGershonites\nBelonging to the Gershonites:<sup>^A</sup>\nLadan and Shimei.\n\n### Crossrefs\n- A: [[1Chr-6-71|1Ch 6:71]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

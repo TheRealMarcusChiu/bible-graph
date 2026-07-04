@@ -1,0 +1,1 @@
+(function(){var b="0e3620923cfc",m="# 2 Chronicles 5:4 (New International Version)\nWhen all the elders of Israel had arrived, the Levites took up the ark,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

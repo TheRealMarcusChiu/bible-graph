@@ -1,0 +1,1 @@
+(function(){var b="bd064ab7f514",m="# 2 Chronicles 36:3 (New International Version)\nThe king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

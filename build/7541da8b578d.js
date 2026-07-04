@@ -1,0 +1,1 @@
+(function(){var b="7541da8b578d",m="# Ezekiel 36:9 (New International Version)\nI am concerned for you and will look on you with favor; you will be plowed and sown,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-36-34|ver 34-36]]; [[Jer-31-27|Jer 31:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

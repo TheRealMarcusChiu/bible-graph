@@ -1,0 +1,1 @@
+(function(){var b="018d6458d831",m="# 2 Chronicles 8:5 (New International Version)\nHe rebuilt Upper Beth Horon<sup>^A</sup> and Lower Beth Horon as fortified cities, with walls and with gates and bars, \n\n### Crossrefs\n- A: S [[Josh-10-10|Jos 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

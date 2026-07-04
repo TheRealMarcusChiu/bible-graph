@@ -1,0 +1,1 @@
+(function(){var b="d6ce635e4bc0",m="# Psalm 72:1 (New International Version)\nPsalm 72\nEndow the king with your justice,<sup>^A</sup> O God,  \n    the royal son with your righteousness.\n\n### Crossrefs\n- A: S [[Deut-1-16|Dt 1:16]]; S [[Ps-9-8|Ps 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

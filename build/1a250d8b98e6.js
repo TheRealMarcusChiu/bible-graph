@@ -1,0 +1,1 @@
+(function(){var b="1a250d8b98e6",m="# 1 Chronicles 25:8 (New International Version)\nYoung and old alike, teacher as well as student, cast lots<sup>^A</sup> for their duties.\n\n### Crossrefs\n- A: [[1Chr-26-13|1Ch 26:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

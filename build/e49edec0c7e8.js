@@ -1,0 +1,1 @@
+(function(){var b="e49edec0c7e8",m="# Proverbs 7:1 (New International Version)\nWarning Against the Adulterous Woman\nMy son,<sup>^A</sup> keep my words  \n    and store up my commands within you.\n\n### Crossrefs\n- A: S [[Prov-1-8|Pr 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="706b4cba3df9",m="# Ezekiel 16:18 (New International Version)\nAnd you took your embroidered clothes to put on them, and you offered my oil and incense<sup>^A</sup> before them. \n\n### Crossrefs\n- A: S [[Jer-44-5|Jer 44:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

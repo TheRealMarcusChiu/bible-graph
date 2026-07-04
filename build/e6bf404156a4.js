@@ -1,0 +1,1 @@
+(function(){var b="e6bf404156a4",m="# Proverbs 31:6 (New International Version)\nLet beer be for those who are perishing,  \n    wine<sup>^A</sup> for those who are in anguish!\n\n### Crossrefs\n- A: S [[Gen-14-18|Ge 14:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

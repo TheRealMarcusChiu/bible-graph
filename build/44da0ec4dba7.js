@@ -1,0 +1,1 @@
+(function(){var b="44da0ec4dba7",m="# Ezekiel 7:6 (New International Version)\nThe end<sup>^A</sup> has come!  \n    The end has come!  \nIt has roused itself against you.  \n    See, it comes!\n\n### Crossrefs\n- A: [[Ezek-39-8|Eze 39:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

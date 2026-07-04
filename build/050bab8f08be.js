@@ -1,0 +1,1 @@
+(function(){var b="050bab8f08be",m="# Jeremiah 4:24 (New International Version)\nI looked at the mountains,  \n    and they were quaking;<sup>^A</sup>  \n    all the hills were swaying.\n\n### Crossrefs\n- A: S [[Exod-19-18|Ex 19:18]]; S [[Job-9-6|Job 9:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

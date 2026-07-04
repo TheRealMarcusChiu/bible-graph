@@ -1,0 +1,1 @@
+(function(){var b="63b3d8a3538f",m="# Esther 5:4 (New International Version)\n\"If it pleases the king,\" replied Esther, \"let the king, together with Haman, come today to a banquet I have prepared for him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

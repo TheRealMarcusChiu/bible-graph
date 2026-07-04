@@ -1,0 +1,1 @@
+(function(){var b="8ea3b568d920",m="# Job 18:2 (New International Version)\n\"When will you end these speeches?<sup>^A</sup>  \n    Be sensible, and then we can talk.\n\n### Crossrefs\n- A: S [[Job-8-2|Job 8:2]]; S [[Job-16-3|16:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

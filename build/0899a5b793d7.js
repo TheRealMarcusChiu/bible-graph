@@ -1,0 +1,1 @@
+(function(){var b="0899a5b793d7",m="# Jeremiah 38:21 (New International Version)\nBut if you refuse to surrender, this is what the LORD has revealed to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="984d40d7abf5",m="# Job 27:1 (New International Version)\nJob's Final Word to His Friends\nAnd Job continued his discourse:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-29-1|Job 29:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c7af093e2cdd",m="# Habakkuk 3:9 (New International Version)\nYou uncovered your bow,  \n    you called for many arrows.<sup>^A</sup>  \nYou split the earth with rivers;\n\n### Crossrefs\n- A: S [[Deut-32-23|Dt 32:23]]; [[Ps-7-12|Ps 7:12-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

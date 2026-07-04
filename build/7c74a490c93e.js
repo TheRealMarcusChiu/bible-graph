@@ -1,0 +1,1 @@
+(function(){var b="7c74a490c93e",m="# Ezekiel 13:4 (New International Version)\nYour prophets, Israel, are like jackals among ruins.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ff68021d1e84",m="# Proverbs 18:11 (New International Version)\nThe wealth of the rich is their fortified city;<sup>^A</sup>  \n    they imagine it a wall too high to scale.\n\n### Crossrefs\n- A: [[Prov-10-15|Pr 10:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

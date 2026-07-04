@@ -1,0 +1,1 @@
+(function(){var b="d355c2540194",m="# Lamentations 3:60 (New International Version)\nYou have seen the depth of their vengeance,  \n    all their plots against me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Jer-11-20|Jer 11:20]]; [[Jer-18-18|18:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

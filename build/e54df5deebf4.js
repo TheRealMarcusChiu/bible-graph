@@ -1,0 +1,1 @@
+(function(){var b="e54df5deebf4",m="# Job 33:21 (New International Version)\nTheir flesh wastes away to nothing,  \n    and their bones,<sup>^A</sup> once hidden, now stick out.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-2-5|Job 2:5]]\n- B: S [[Job-16-8|Job 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c7e8a88bcc97",m="# Job 36:19 (New International Version)\nWould your wealth<sup>^A</sup> or even all your mighty efforts  \n    sustain you so you would not be in distress?\n\n### Crossrefs\n- A: [[Ps-49-6|Ps 49:6]]; [[Jer-9-23|Jer 9:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

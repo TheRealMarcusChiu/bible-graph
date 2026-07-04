@@ -1,0 +1,1 @@
+(function(){var b="c3b8ef43adbd",m="# Jeremiah 5:16 (New International Version)\nTheir quivers<sup>^A</sup> are like an open grave;  \n    all of them are mighty warriors.\n\n### Crossrefs\n- A: S [[Job-39-23|Job 39:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="924695b5c1e5",m="# Proverbs 29:4 (New International Version)\nBy justice a king gives a country stability,<sup>^A</sup>  \n    but those who are greedy for bribes tear it down.\n\n### Crossrefs\n- A: [[Prov-29-14|ver 14]]; S [[Prov-8-15|Pr 8:15-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

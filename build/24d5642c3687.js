@@ -1,0 +1,1 @@
+(function(){var b="24d5642c3687",m="# Jeremiah 35:5 (New International Version)\nThen I set bowls full of wine and some cups before the Rekabites and said to them, \"Drink some wine.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

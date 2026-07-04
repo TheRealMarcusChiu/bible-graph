@@ -1,0 +1,1 @@
+(function(){var b="58a890c2d8af",m="# Psalm 71:3 (New International Version)\nBe my rock of refuge,  \n    to which I can always go;  \ngive the command to save me,  \n    for you are my rock and my fortress.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-18-2|Ps 18:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

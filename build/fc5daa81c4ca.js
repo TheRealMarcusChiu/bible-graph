@@ -1,0 +1,1 @@
+(function(){var b="fc5daa81c4ca",m="# Proverbs 25:18 (New International Version)\nLike a club or a sword or a sharp arrow  \n    is one who gives false testimony against a neighbor.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-12-18|Pr 12:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="046d48a1c008",m="# Psalm 34:12 (New International Version)\nWhoever of you loves life<sup>^A</sup>  \n    and desires to see many good days,\n\n### Crossrefs\n- A: [[Eccl-3-13|Ecc 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

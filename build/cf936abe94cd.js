@@ -1,0 +1,1 @@
+(function(){var b="cf936abe94cd",m="# Hosea 1:8 (New International Version)\nAfter she had weaned Lo-Ruhamah,<sup>^A</sup> Gomer had another son. \n\n### Crossrefs\n- A: S [[Hos-1-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

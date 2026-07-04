@@ -1,0 +1,1 @@
+(function(){var b="3cbd27c182a7",m="# 1 Chronicles 8:20 (New International Version)\nElienai, Zillethai, Eliel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

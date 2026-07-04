@@ -1,0 +1,1 @@
+(function(){var b="801e7866c7ed",m="# 2 Chronicles 13:20 (New International Version)\nJeroboam did not regain power during the time of Abijah. And the LORD struck him down and he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

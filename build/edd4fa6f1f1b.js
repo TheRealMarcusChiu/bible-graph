@@ -1,0 +1,1 @@
+(function(){var b="edd4fa6f1f1b",m="# Esther 6:4 (New International Version)\nThe king said, \"Who is in the court?\" Now Haman had just entered the outer court of the palace to speak to the king about impaling Mordecai on the pole he had set up for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

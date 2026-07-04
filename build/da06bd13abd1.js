@@ -1,0 +1,1 @@
+(function(){var b="da06bd13abd1",m="# Psalm 116:15 (New International Version)\nPrecious in the sight<sup>^A</sup> of the LORD  \n    is the death of his faithful servants.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-72-14|Ps 72:14]]\n- B: S [[Num-23-10|Nu 23:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

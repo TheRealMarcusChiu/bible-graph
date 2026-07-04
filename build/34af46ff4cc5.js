@@ -1,0 +1,1 @@
+(function(){var b="34af46ff4cc5",m="# Ecclesiastes 3:8 (New International Version)\na time to love and a time to hate,  \n    a time for war and a time for peace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

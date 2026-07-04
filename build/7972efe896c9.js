@@ -1,0 +1,1 @@
+(function(){var b="7972efe896c9",m="# 2 Chronicles 12:14 (New International Version)\nHe did evil because he had not set his heart on seeking the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

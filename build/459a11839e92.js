@@ -1,0 +1,1 @@
+(function(){var b="459a11839e92",m="# Job 31:10 (New International Version)\nthen may my wife grind<sup>^A</sup> another man's grain,  \n    and may other men sleep with her.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Judg-16-21|Jdg 16:21]]\n- B: [[Deut-28-30|Dt 28:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

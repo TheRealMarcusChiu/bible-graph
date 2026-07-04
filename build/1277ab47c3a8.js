@@ -1,0 +1,1 @@
+(function(){var b="1277ab47c3a8",m="# 2 Chronicles 26:4 (New International Version)\nHe did what was right in the eyes of the LORD, just as his father Amaziah had done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

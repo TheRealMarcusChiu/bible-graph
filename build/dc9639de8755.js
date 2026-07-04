@@ -1,0 +1,1 @@
+(function(){var b="dc9639de8755",m="# Esther 4:5 (New International Version)\nThen Esther summoned Hathak, one of the king's eunuchs assigned to attend her, and ordered him to find out what was troubling Mordecai and why.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

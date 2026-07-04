@@ -1,0 +1,1 @@
+(function(){var b="7b8c4a6abe8b",m="# 2 Kings 17:28 (New International Version)\nSo one of the priests who had been exiled from Samaria came to live in Bethel and taught them how to worship the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

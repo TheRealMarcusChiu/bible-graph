@@ -1,0 +1,1 @@
+(function(){var b="e87f1f478ba4",m="# Psalm 72:11 (New International Version)\nMay all kings bow down<sup>^A</sup> to him  \n    and all nations serve<sup>^B</sup> him.\n\n### Crossrefs\n- A: S [[Gen-27-29|Ge 27:29]]\n- B: S [[Ezra-1-2|Ezr 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

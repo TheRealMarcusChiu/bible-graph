@@ -1,0 +1,1 @@
+(function(){var b="be5425292ca7",m="# 1 Chronicles 16:28 (New International Version)\nAscribe to the LORD, all you families of nations,  \n    ascribe to the LORD glory and strength.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-29-1|Ps 29:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

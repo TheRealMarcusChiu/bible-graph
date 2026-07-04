@@ -1,0 +1,1 @@
+(function(){var b="246a084ec83e",m="# Proverbs 28:16 (New International Version)\nA tyrannical ruler practices extortion,  \n    but one who hates ill-gotten gain will enjoy a long reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

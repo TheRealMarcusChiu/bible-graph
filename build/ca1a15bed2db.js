@@ -1,0 +1,1 @@
+(function(){var b="ca1a15bed2db",m="# Isaiah 3:4 (New International Version)\n\"I will make mere youths their officials;  \n    children will rule over them.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-3-12|ver 12]]; Ecc 10:16 <i>fn</i>";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="43c41e4074b4",m="# Ezra 10:15 (New International Version)\nOnly Jonathan son of Asahel and Jahzeiah son of Tikvah, supported by Meshullam and Shabbethai<sup>^A</sup> the Levite, opposed this.\n\n### Crossrefs\n- A: [[Neh-11-16|Ne 11:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

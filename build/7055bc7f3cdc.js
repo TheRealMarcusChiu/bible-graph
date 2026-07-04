@@ -1,0 +1,1 @@
+(function(){var b="7055bc7f3cdc",m="# Proverbs 13:15 (New International Version)\nGood judgment wins favor,  \n    but the way of the unfaithful leads to their destruction.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

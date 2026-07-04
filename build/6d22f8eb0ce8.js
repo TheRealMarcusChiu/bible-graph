@@ -1,0 +1,1 @@
+(function(){var b="6d22f8eb0ce8",m="# Jeremiah 25:35 (New International Version)\nThe shepherds will have nowhere to flee,  \n    the leaders of the flock no place to escape.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-11-20|Job 11:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

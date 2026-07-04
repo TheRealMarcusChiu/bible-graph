@@ -1,0 +1,1 @@
+(function(){var b="e62ce0a83d6c",m="# 1 Chronicles 6:34 (New International Version)\nthe son of Elkanah,<sup>^A</sup> the son of Jeroham,\nthe son of Eliel, the son of Toah,\n\n### Crossrefs\n- A: S [[1Sam-1-1|1Sa 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

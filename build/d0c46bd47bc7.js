@@ -1,0 +1,1 @@
+(function(){var b="d0c46bd47bc7",m="# Job 6:23 (New International Version)\ndeliver me from the hand of the enemy,  \n    rescue me from the clutches of the ruthless'?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Kgs-19-19|2Ki 19:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

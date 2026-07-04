@@ -1,0 +1,1 @@
+(function(){var b="7ddd1c028786",m="# Proverbs 31:17 (New International Version)\nShe sets about her work vigorously;  \n    her arms are strong for her tasks.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

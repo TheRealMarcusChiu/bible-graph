@@ -1,0 +1,1 @@
+(function(){var b="02c29d13ce85",m="# Psalm 48:5 (New International Version)\nthey saw her and were astounded;  \n    they fled in terror.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-15-16|Ex 15:16]]; [[Isa-13-8|Isa 13:8]]; [[Jer-46-5|Jer 46:5]]; [[Dan-5-9|Da 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

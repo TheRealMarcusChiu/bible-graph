@@ -1,0 +1,1 @@
+(function(){var b="b4372335738a",m="# Psalm 56:3 (New International Version)\nWhen I am afraid,<sup>^A</sup> I put my trust in you.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-55-4|Ps 55:4-5]]\n- B: S [[Ps-55-23|Ps 55:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

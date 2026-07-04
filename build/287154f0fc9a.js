@@ -1,0 +1,1 @@
+(function(){var b="287154f0fc9a",m="# Daniel 11:9 (New International Version)\nThen the king of the North will invade the realm of the king of the South but will retreat to his own country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

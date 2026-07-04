@@ -1,0 +1,1 @@
+(function(){var b="16d19531b356",m="# 1 Chronicles 10:7 (New International Version)\nWhen all the Israelites in the valley saw that the army had fled and that Saul and his sons had died, they abandoned their towns and fled. And the Philistines came and occupied them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

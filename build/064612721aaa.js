@@ -1,0 +1,1 @@
+(function(){var b="064612721aaa",m="# Psalm 45:6 (New International Version)\nYour throne, O God, will last for ever and ever;<sup>^A</sup>  \n    a scepter of justice will be the scepter of your kingdom.\n\n### Crossrefs\n- A: S [[Gen-21-33|Ge 21:33]]; [[Lam-5-19|La 5:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

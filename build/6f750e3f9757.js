@@ -1,0 +1,1 @@
+(function(){var b="6f750e3f9757",m="# Zechariah 8:2 (New International Version)\nThis is what the LORD Almighty says: \"I am very jealous<sup>^A</sup> for Zion; I am burning with jealousy for her.\"\n\n### Crossrefs\n- A: S [[Joel-2-18|Joel 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

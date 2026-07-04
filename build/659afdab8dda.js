@@ -1,0 +1,1 @@
+(function(){var b="659afdab8dda",m="# Psalm 69:9 (New International Version)\nfor zeal for your house consumes me,<sup>^A</sup>  \n    and the insults of those who insult you fall on me.<sup>^B</sup>\n\n### Crossrefs\n- A: Jn 2:17*\n- B: [[Ps-89-50|Ps 89:50-51]]; Ro 15:3*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

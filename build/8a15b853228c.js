@@ -1,0 +1,1 @@
+(function(){var b="8a15b853228c",m="# Job 25:4 (New International Version)\nHow then can a mortal be righteous before God?  \n    How can one born of woman be pure?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-17|Job 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

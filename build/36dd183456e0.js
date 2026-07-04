@@ -1,0 +1,1 @@
+(function(){var b="36dd183456e0",m="# Proverbs 28:15 (New International Version)\nLike a roaring lion or a charging bear  \n    is a wicked ruler over a helpless people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

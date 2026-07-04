@@ -1,0 +1,1 @@
+(function(){var b="d842092d6aae",m="# 2 Chronicles 25:26 (New International Version)\nAs for the other events of Amaziah's reign, from beginning to end, are they not written in the book of the kings of Judah and Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

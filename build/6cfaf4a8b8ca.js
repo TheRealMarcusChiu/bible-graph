@@ -1,0 +1,1 @@
+(function(){var b="6cfaf4a8b8ca",m="# Psalm 33:19 (New International Version)\nto deliver them from death<sup>^A</sup>  \n    and keep them alive in famine.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-56-13|Ps 56:13]]; [[Acts-12-11|Ac 12:11]]\n- B: S [[Job-5-20|Job 5:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

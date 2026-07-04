@@ -1,0 +1,1 @@
+(function(){var b="9be49c4cc4cb",m="# Isaiah 9:11 (New International Version)\nBut the LORD has strengthened Rezin's<sup>^A</sup> foes against them  \n    and has spurred their enemies on.\n\n### Crossrefs\n- A: S [[Isa-7-8|Isa 7:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

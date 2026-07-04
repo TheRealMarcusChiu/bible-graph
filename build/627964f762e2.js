@@ -1,0 +1,1 @@
+(function(){var b="627964f762e2",m="# Ezekiel 44:22 (New International Version)\nThey must not marry widows or divorced women; they may marry only virgins of Israelite descent or widows of priests.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Lev-21-7|Lev 21:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

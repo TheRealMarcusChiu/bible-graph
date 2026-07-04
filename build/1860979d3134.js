@@ -1,0 +1,1 @@
+(function(){var b="1860979d3134",m="# 1 Chronicles 9:23 (New International Version)\nThey and their descendants were in charge of guarding the gates of the house of the LORD--the house called the tent of meeting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

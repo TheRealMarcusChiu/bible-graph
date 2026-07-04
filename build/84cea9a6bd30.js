@@ -1,0 +1,1 @@
+(function(){var b="84cea9a6bd30",m="# Isaiah 15:7 (New International Version)\nSo the wealth they have acquired<sup>^A</sup> and stored up  \n    they carry away over the Ravine of the Poplars.\n\n### Crossrefs\n- A: [[Isa-30-6|Isa 30:6]]; [[Jer-48-36|Jer 48:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

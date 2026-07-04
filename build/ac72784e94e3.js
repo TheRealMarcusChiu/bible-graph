@@ -1,0 +1,1 @@
+(function(){var b="ac72784e94e3",m="# 2 Kings 19:27 (New International Version)\n\"'But I know<sup>^A</sup> where you are  \n    and when you come and go  \n    and how you rage against me.\n\n### Crossrefs\n- A: [[Ps-139-1|Ps 139:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

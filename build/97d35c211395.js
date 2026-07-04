@@ -1,0 +1,1 @@
+(function(){var b="97d35c211395",m="# Job 40:3 (New International Version)\nThen Job answered the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

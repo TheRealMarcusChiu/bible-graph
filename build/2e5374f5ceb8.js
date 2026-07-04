@@ -1,0 +1,1 @@
+(function(){var b="2e5374f5ceb8",m="# Psalm 108:13 (New International Version)\nWith God we will gain the victory,  \n    and he will trample down<sup>^A</sup> our enemies.\n\n### Crossrefs\n- A: [[Ps-44-5|Ps 44:5]]; [[Isa-22-5|Isa 22:5]]; [[Isa-63-3|63:3]], [[Isa-63-6|6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="17cc9b9969e0",m="# Amos 1:7 (New International Version)\nI will send fire on the walls of Gaza  \n    that will consume her fortresses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

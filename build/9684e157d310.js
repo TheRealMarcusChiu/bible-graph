@@ -1,0 +1,1 @@
+(function(){var b="9684e157d310",m="# Nehemiah 4:11 (New International Version)\nAlso our enemies said, \"Before they know it or see us, we will be right there among them and will kill them and put an end to the work.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8604324a3a1f",m="# 1 Chronicles 1:33 (New International Version)\nThe sons of Midian:\nEphah, Epher, Hanok, Abida and Eldaah.\nAll these were descendants of Keturah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

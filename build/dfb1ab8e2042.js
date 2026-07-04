@@ -1,0 +1,1 @@
+(function(){var b="dfb1ab8e2042",m="# Ezekiel 8:9 (New International Version)\nAnd he said to me, \"Go in and see the wicked and detestable things they are doing here.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

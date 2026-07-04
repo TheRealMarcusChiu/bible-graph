@@ -1,0 +1,1 @@
+(function(){var b="b12c87032548",m="# Ezekiel 23:13 (New International Version)\nI saw that she too defiled herself; both of them went the same way.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Kgs-17-19|2Ki 17:19]]; [[Hos-12-2|Hos 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

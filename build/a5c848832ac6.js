@@ -1,0 +1,1 @@
+(function(){var b="a5c848832ac6",m="# Psalm 124:1 (New International Version)\nPsalm 124\nIf the LORD had not been on our side--  \n    let Israel say<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Ps-129-1|Ps 129:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

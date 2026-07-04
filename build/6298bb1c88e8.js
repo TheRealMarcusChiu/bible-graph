@@ -1,0 +1,1 @@
+(function(){var b="6298bb1c88e8",m="# 2 Chronicles 33:13 (New International Version)\nAnd when he prayed to him, the LORD was moved by his entreaty and listened to his plea; so he brought him back to Jerusalem and to his kingdom. Then Manasseh knew that the LORD is God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

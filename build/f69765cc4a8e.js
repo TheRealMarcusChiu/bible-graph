@@ -1,0 +1,1 @@
+(function(){var b="f69765cc4a8e",m="# 2 Chronicles 11:18 (New International Version)\nRehoboam's Family\nRehoboam married Mahalath, who was the daughter of David's son Jerimoth and of Abihail, the daughter of Jesse's son Eliab.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06cad3bfa8e4",m="# 1 Chronicles 17:5 (New International Version)\nI have not dwelt in a house from the day I brought Israel up out of Egypt to this day. I have moved from one tent site to another, from one dwelling place to another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

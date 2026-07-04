@@ -1,0 +1,1 @@
+(function(){var b="9b40c35b8f6a",m="# Jeremiah 34:10 (New International Version)\nSo all the officials and people who entered into this covenant agreed that they would free their male and female slaves and no longer hold them in bondage. They agreed, and set them free.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

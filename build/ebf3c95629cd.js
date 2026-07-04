@@ -1,0 +1,1 @@
+(function(){var b="ebf3c95629cd",m="# Proverbs 30:30 (New International Version)\na lion, mighty among beasts,  \n    who retreats before nothing;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

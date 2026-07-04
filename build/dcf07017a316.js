@@ -1,0 +1,1 @@
+(function(){var b="dcf07017a316",m="# Ecclesiastes 4:6 (New International Version)\nBetter one handful with tranquillity  \n    than two handfuls with toil<sup>^A</sup>  \n    and chasing after the wind.\n\n### Crossrefs\n- A: [[Prov-15-16|Pr 15:16-17]]; S [[Prov-16-8|16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

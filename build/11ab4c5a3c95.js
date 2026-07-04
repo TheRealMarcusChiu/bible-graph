@@ -1,0 +1,1 @@
+(function(){var b="11ab4c5a3c95",m="# Jeremiah 13:26 (New International Version)\nI will pull up your skirts over your face  \n    that your shame may be seen<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Lam-1-8|La 1:8]]; [[Ezek-16-37|Eze 16:37]]; [[Nah-3-5|Na 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

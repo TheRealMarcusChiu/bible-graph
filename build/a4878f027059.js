@@ -1,0 +1,1 @@
+(function(){var b="a4878f027059",m="# Psalm 29:5 (New International Version)\nThe voice of the LORD breaks the cedars;  \n    the LORD breaks in pieces the cedars of Lebanon.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-9-15|Jdg 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

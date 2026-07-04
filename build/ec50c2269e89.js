@@ -1,0 +1,1 @@
+(function(){var b="ec50c2269e89",m="# Job 40:1 (New International Version)\nThe LORD said to Job:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-5-8|Job 5:8]]; S [[Job-10-2|10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

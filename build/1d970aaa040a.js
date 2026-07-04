@@ -1,0 +1,1 @@
+(function(){var b="1d970aaa040a",m="# Jeremiah 10:1 (New International Version)\nGod and Idols<sup>^A</sup>\nHear what the LORD says to you, people of Israel. \n\n### Crossrefs\n- A: [[Jer-10-12|10:12-16pp]] — [[Jer-51-15|Jer 51:15-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

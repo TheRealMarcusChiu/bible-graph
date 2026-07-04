@@ -1,0 +1,1 @@
+(function(){var b="0d665e595610",m="# Proverbs 24:31 (New International Version)\nthorns had come up everywhere,  \n    the ground was covered with weeds,  \n    and the stone wall was in ruins.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

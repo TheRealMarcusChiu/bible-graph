@@ -1,0 +1,1 @@
+(function(){var b="e9515f34e122",m="# Proverbs 22:24 (New International Version)\nDo not make friends with a hot-tempered person,  \n    do not associate with one easily angered,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

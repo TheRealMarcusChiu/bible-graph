@@ -1,0 +1,1 @@
+(function(){var b="d6161a796c99",m="# Ezekiel 48:26 (New International Version)\n\"Zebulun<sup>^A</sup> will have one portion; it will border the territory of Issachar from east to west.\n\n### Crossrefs\n- A: [[Josh-19-10|Jos 19:10-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

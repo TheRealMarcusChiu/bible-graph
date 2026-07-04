@@ -1,0 +1,1 @@
+(function(){var b="b0aff747f5eb",m="# Lamentations 3:5 (New International Version)\nHe has besieged me and surrounded me  \n    with bitterness<sup>^A</sup> and hardship.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Lam-3-19|ver 19]]\n- B: [[Jer-23-15|Jer 23:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

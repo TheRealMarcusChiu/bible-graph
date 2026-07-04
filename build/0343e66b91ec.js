@@ -1,0 +1,1 @@
+(function(){var b="0343e66b91ec",m="# Psalm 80:18 (New International Version)\nThen we will not turn away from you;  \n    revive<sup>^A</sup> us, and we will call on your name.\n\n### Crossrefs\n- A: [[Ps-85-6|Ps 85:6]]; [[Isa-57-15|Isa 57:15]]; [[Hos-6-2|Hos 6:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

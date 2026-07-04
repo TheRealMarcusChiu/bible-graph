@@ -1,0 +1,1 @@
+(function(){var b="f7f7d389b93d",m="# Esther 4:6 (New International Version)\nSo Hathak went out to Mordecai in the open square of the city in front of the king's gate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

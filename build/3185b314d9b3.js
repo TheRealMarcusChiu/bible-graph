@@ -1,0 +1,1 @@
+(function(){var b="3185b314d9b3",m="# Psalm 37:39 (New International Version)\nThe salvation<sup>^A</sup> of the righteous comes from the LORD;  \n    he is their stronghold in time of trouble.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-3-8|Ps 3:8]]\n- B: S [[Ps-9-9|Ps 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

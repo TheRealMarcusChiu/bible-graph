@@ -1,0 +1,1 @@
+(function(){var b="3a6915c55284",m="# Proverbs 14:25 (New International Version)\nA truthful witness saves lives,  \n    but a false witness is deceitful.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-12-17|Pr 12:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

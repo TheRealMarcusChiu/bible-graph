@@ -1,0 +1,1 @@
+(function(){var b="287ded1318af",m="# Psalm 119:130 (New International Version)\nThe unfolding of your words gives light;<sup>^A</sup>  \n    it gives understanding to the simple.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-119-105|ver 105]]\n- B: S [[Ps-19-7|Ps 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

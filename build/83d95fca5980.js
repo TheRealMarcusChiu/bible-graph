@@ -1,0 +1,1 @@
+(function(){var b="83d95fca5980",m="# 1 Chronicles 6:46 (New International Version)\nthe son of Amzi, the son of Bani,\nthe son of Shemer,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

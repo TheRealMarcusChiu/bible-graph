@@ -1,0 +1,1 @@
+(function(){var b="07c5e2908611",m="# 2 Kings 14:12 (New International Version)\nJudah was routed by Israel, and every man fled to his home.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Kgs-22-36|1Ki 22:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

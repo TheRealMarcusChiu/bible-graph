@@ -1,0 +1,1 @@
+(function(){var b="bcb76684c685",m="# Psalm 147:12 (New International Version)\nExtol the LORD, Jerusalem;<sup>^A</sup>  \n    praise your God, Zion.\n\n### Crossrefs\n- A: [[Ps-48-1|Ps 48:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

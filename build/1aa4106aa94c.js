@@ -1,0 +1,1 @@
+(function(){var b="1aa4106aa94c",m="# Song of Songs 4\n\nA poetic celebration of love between bride and bridegroom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

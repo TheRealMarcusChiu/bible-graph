@@ -1,0 +1,1 @@
+(function(){var b="28035517e5d0",m="# 1 Chronicles 4:13 (New International Version)\nThe sons of Kenaz:\nOthniel<sup>^A</sup> and Seraiah.\nThe sons of Othniel:\nHathath and Meonothai. \n\n### Crossrefs\n- A: S [[Josh-15-17|Jos 15:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

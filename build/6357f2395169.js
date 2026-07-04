@@ -1,0 +1,1 @@
+(function(){var b="6357f2395169",m="# Psalm 63:5 (New International Version)\nI will be fully satisfied as with the richest of foods;<sup>^A</sup>  \n    with singing lips my mouth will praise you.\n\n### Crossrefs\n- A: S [[Ps-36-8|Ps 36:8]]; [[Matt-5-6|Mt 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

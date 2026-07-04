@@ -1,0 +1,1 @@
+(function(){var b="ba032e51ca1e",m="# Jonah 2:5 (New International Version)\nThe engulfing waters threatened me,  \n    the deep surrounded me;  \n    seaweed was wrapped around my head.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-69-1|Ps 69:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

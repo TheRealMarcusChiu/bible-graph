@@ -1,0 +1,1 @@
+(function(){var b="d913fb463a3b",m="# 2 Kings 6:21 (New International Version)\nWhen the king of Israel saw them, he asked Elisha, \"Shall I kill them, my father?<sup>^A</sup> Shall I kill them?\"\n\n### Crossrefs\n- A: S [[2Kgs-5-13|2Ki 5:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

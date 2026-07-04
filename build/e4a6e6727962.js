@@ -1,0 +1,1 @@
+(function(){var b="e4a6e6727962",m="# Jeremiah 36:18 (New International Version)\n\"Yes,\" Baruch replied, \"he dictated<sup>^A</sup> all these words to me, and I wrote them in ink on the scroll.\"\n\n### Crossrefs\n- A: [[Jer-36-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

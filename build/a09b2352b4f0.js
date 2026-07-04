@@ -1,0 +1,1 @@
+(function(){var b="a09b2352b4f0",m="# 1 Chronicles 6:23 (New International Version)\nElkanah his son,\nEbiasaph his son, Assir his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

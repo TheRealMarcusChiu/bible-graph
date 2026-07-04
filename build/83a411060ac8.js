@@ -1,0 +1,1 @@
+(function(){var b="83a411060ac8",m="# Proverbs 13:25 (New International Version)\nThe righteous eat to their hearts' content,  \n    but the stomach of the wicked goes hungry.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-10-3|Pr 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

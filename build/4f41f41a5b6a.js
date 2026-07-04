@@ -1,0 +1,1 @@
+(function(){var b="4f41f41a5b6a",m="# 2 Chronicles 4:20 (New International Version)\nthe lampstands<sup>^A</sup> of pure gold with their lamps, to burn in front of the inner sanctuary as prescribed;\n\n### Crossrefs\n- A: [[Exod-25-31|Ex 25:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c358eee9943",m="# Psalm 33:5 (New International Version)\nThe LORD loves righteousness and justice;<sup>^A</sup>  \n    the earth is full of his unfailing love.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-11-7|Ps 11:7]]\n- B: [[Ps-6-4|Ps 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

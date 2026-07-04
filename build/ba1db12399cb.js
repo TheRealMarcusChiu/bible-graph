@@ -1,0 +1,1 @@
+(function(){var b="ba1db12399cb",m="# Daniel 8:23 (New International Version)\n\"In the latter part of their reign, when rebels have become completely wicked, a fierce-looking king, a master of intrigue, will arise.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="92b24e12dea0",m="# Esther 4:2 (New International Version)\nBut he went only as far as the king's gate,<sup>^A</sup> because no one clothed in sackcloth was allowed to enter it. \n\n### Crossrefs\n- A: S [[Esth-2-19|Est 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

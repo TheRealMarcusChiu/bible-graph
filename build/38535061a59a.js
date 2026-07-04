@@ -1,0 +1,1 @@
+(function(){var b="38535061a59a",m="# Ezra 2:41 (New International Version)\nThe musicians:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-15-16|1Ch 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5faff9542381",m="# Ezra 4:11 (New International Version)\n(This is a copy of the letter they sent him.)\nTo King Artaxerxes,\nFrom your servants in Trans-Euphrates:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

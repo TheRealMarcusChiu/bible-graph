@@ -1,0 +1,1 @@
+(function(){var b="9c9718b8ec3b",m="# Psalm 8:8 (New International Version)\nthe birds in the sky,  \n    and the fish in the sea,<sup>^A</sup>  \n    all that swim the paths of the seas.\n\n### Crossrefs\n- A: [[Gen-1-26|Ge 1:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

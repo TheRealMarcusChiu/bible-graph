@@ -1,0 +1,1 @@
+(function(){var b="7bb90c8c2db3",m="# Proverbs 17:11 (New International Version)\nEvildoers foster rebellion against God;  \n    the messenger of death will be sent against them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

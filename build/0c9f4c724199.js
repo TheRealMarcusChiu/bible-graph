@@ -1,0 +1,1 @@
+(function(){var b="0c9f4c724199",m="# Psalm 57:2 (New International Version)\nI cry out to God Most High,  \n    to God, who vindicates me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-138-8|Ps 138:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

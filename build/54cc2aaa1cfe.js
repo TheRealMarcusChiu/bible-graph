@@ -1,0 +1,1 @@
+(function(){var b="54cc2aaa1cfe",m="# Ecclesiastes 11:4 (New International Version)\nWhoever watches the wind will not plant;  \n    whoever looks at the clouds will not reap.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

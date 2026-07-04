@@ -1,0 +1,1 @@
+(function(){var b="f9bf6c78ad76",m="# Jeremiah 30:22 (New International Version)\n\"'So you will be my people,<sup>^A</sup>  \n    and I will be your God.<sup>^B</sup>'\"\n\n### Crossrefs\n- A: S [[Isa-19-25|Isa 19:25]]; [[Hos-2-23|Hos 2:23]]\n- B: S [[Lev-26-12|Lev 26:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a4d87ea97cd6",m="# Hosea 12:3 (New International Version)\nIn the womb he grasped his brother's heel;<sup>^A</sup>  \n    as a man he struggled<sup>^B</sup> with God.\n\n### Crossrefs\n- A: [[Gen-25-26|Ge 25:26]]\n- B: [[Gen-32-24|Ge 32:24-29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

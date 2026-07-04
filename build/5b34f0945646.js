@@ -1,0 +1,1 @@
+(function(){var b="5b34f0945646",m="# Nehemiah 10:16 (New International Version)\nAdonijah, Bigvai, Adin,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezra-8-6|Ezr 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

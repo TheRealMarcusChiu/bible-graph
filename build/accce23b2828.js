@@ -1,0 +1,1 @@
+(function(){var b="accce23b2828",m="# 2 Kings 13:16 (New International Version)\n\"Take the bow in your hands,\" he said to the king of Israel. When he had taken it, Elisha put his hands on the king's hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

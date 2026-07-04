@@ -1,0 +1,1 @@
+(function(){var b="4634ab6ecc87",m="# Jeremiah 52:34 (New International Version)\nDay by day the king of Babylon gave Jehoiachin a regular allowance<sup>^A</sup> as long as he lived, till the day of his death.\n\n### Crossrefs\n- A: [[2Sam-9-10|2Sa 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

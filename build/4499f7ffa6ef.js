@@ -1,0 +1,1 @@
+(function(){var b="4499f7ffa6ef",m="# Psalm 123:3 (New International Version)\nHave mercy on us, LORD, have mercy on us,  \n    for we have endured no end of contempt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

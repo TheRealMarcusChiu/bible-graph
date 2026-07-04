@@ -1,0 +1,1 @@
+(function(){var b="6c00feefa3a5",m="# Proverbs 26:15 (New International Version)\nA sluggard buries his hand in the dish;  \n    he is too lazy to bring it back to his mouth.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-24|Pr 19:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

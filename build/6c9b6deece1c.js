@@ -1,0 +1,1 @@
+(function(){var b="6c9b6deece1c",m="# Jeremiah 26:1 (New International Version)\nJeremiah Threatened With Death\nEarly in the reign of Jehoiakim<sup>^A</sup> son of Josiah king of Judah, this word came from the LORD: \n\n### Crossrefs\n- A: [[2Kgs-23-36|2Ki 23:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

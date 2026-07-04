@@ -1,0 +1,1 @@
+(function(){var b="e4638ae777d2",m="# 2 Kings 10:36 (New International Version)\nThe time that Jehu reigned over Israel in Samaria was twenty-eight years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

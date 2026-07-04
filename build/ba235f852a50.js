@@ -1,0 +1,1 @@
+(function(){var b="ba235f852a50",m="# 2 Chronicles 30:4 (New International Version)\nThe plan seemed right both to the king and to the whole assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

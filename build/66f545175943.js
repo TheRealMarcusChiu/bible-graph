@@ -1,0 +1,1 @@
+(function(){var b="66f545175943",m="# Jeremiah 33:23 (New International Version)\nThe word of the LORD came to Jeremiah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a63890ce63d",m="# 1 Chronicles 4:32 (New International Version)\nTheir surrounding villages were Etam, Ain,<sup>^A</sup> Rimmon, Token and Ashan<sup>^B</sup>--five towns-- \n\n### Crossrefs\n- A: S [[Num-34-11|Nu 34:11]]\n- B: S [[Josh-15-42|Jos 15:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e167c2a65840",m="# Psalm 89:33 (New International Version)\nbut I will not take my love from him,<sup>^A</sup>  \n    nor will I ever betray my faithfulness.\n\n### Crossrefs\n- A: S [[2Sam-7-15|2Sa 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

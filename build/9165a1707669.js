@@ -1,0 +1,1 @@
+(function(){var b="9165a1707669",m="# Ezra 1:9 (New International Version)\nThis was the inventory:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

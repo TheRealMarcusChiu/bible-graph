@@ -1,0 +1,1 @@
+(function(){var b="6fedc2c2d571",m="# Job 38:30 (New International Version)\nwhen the waters become hard as stone,  \n    when the surface of the deep is frozen?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-37-10|Job 37:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

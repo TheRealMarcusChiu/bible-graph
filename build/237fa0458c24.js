@@ -1,0 +1,1 @@
+(function(){var b="237fa0458c24",m="# Job 38:19 (New International Version)\n\"What is the way to the abode of light?  \n    And where does darkness reside?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-1-4|Ge 1:4]]; S [[Job-28-3|Job 28:3]]; [[Ps-139-11|Ps 139:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

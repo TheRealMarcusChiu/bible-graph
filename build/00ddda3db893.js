@@ -1,0 +1,1 @@
+(function(){var b="00ddda3db893",m="# Ezekiel 3:4 (New International Version)\nHe then said to me: \"Son of man, go now to the people of Israel and speak my words to them.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-11-4|Eze 11:4]], [[Ezek-11-25|25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

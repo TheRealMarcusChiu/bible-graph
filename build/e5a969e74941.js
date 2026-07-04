@@ -1,0 +1,1 @@
+(function(){var b="e5a969e74941",m="# Ezra 10:7 (New International Version)\nA proclamation was then issued throughout Judah and Jerusalem for all the exiles to assemble in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

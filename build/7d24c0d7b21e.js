@@ -1,0 +1,1 @@
+(function(){var b="7d24c0d7b21e",m="# Hosea 13:5 (New International Version)\nI cared for you in the wilderness,<sup>^A</sup>  \n    in the land of burning heat.\n\n### Crossrefs\n- A: S [[Deut-1-19|Dt 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

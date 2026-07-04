@@ -1,0 +1,1 @@
+(function(){var b="a7ee70714f21",m="# Job 40:22 (New International Version)\nThe lotuses conceal it in their shadow;  \n    the poplars by the stream<sup>^A</sup> surround it.\n\n### Crossrefs\n- A: [[Ps-1-3|Ps 1:3]]; [[Isa-44-4|Isa 44:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

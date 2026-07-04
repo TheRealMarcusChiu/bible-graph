@@ -1,0 +1,1 @@
+(function(){var b="58f168fe7eac",m="# Psalm 84:4 (New International Version)\nBlessed are those who dwell in your house;  \n    they are ever praising you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="905f89967818",m="# Proverbs 3:22 (New International Version)\nthey will be life for you,<sup>^A</sup>  \n    an ornament to grace your neck.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-30-20|Dt 30:20]]; [[Prov-4-13|Pr 4:13]]\n- B: S [[Prov-1-8|Pr 1:8-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

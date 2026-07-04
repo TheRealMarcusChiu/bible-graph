@@ -1,0 +1,1 @@
+(function(){var b="e302f159d700",m="# 2 Chronicles 25:19 (New International Version)\nYou say to yourself that you have defeated Edom, and now you are arrogant and proud. But stay at home! Why ask for trouble and cause your own downfall and that of Judah also?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

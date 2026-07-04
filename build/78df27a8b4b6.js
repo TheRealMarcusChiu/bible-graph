@@ -1,0 +1,1 @@
+(function(){var b="78df27a8b4b6",m="# Psalm 119:102 (New International Version)\nI have not departed from your laws,<sup>^A</sup>  \n    for you yourself have taught<sup>^B</sup> me.\n\n### Crossrefs\n- A: S [[Deut-17-20|Dt 17:20]]\n- B: S [[Deut-4-5|Dt 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

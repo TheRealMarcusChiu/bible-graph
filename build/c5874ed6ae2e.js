@@ -1,0 +1,1 @@
+(function(){var b="c5874ed6ae2e",m="# 1 Chronicles 16:13 (New International Version)\nyou his servants, the descendants of Israel,  \n    his chosen ones, the children of Jacob.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

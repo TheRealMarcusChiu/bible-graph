@@ -1,0 +1,1 @@
+(function(){var b="d38c510f49a0",m="# Ezra 7:22 (New International Version)\nup to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine, a hundred baths of olive oil, and salt without limit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

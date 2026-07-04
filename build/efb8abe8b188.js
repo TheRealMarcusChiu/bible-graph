@@ -1,0 +1,1 @@
+(function(){var b="efb8abe8b188",m="# Isaiah 63:4 (New International Version)\nIt was for me the day of vengeance;<sup>^A</sup>  \n    the year for me to redeem had come.\n\n### Crossrefs\n- A: S [[Isa-1-24|Isa 1:24]]; S [[Jer-50-15|Jer 50:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

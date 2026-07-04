@@ -1,0 +1,1 @@
+(function(){var b="b7be19dab584",m="# Proverbs 26:24 (New International Version)\nEnemies disguise themselves with their lips,<sup>^A</sup>  \n    but in their hearts they harbor deceit.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-31-18|Ps 31:18]]\n- B: [[Ps-41-6|Ps 41:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

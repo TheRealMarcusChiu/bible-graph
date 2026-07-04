@@ -1,0 +1,1 @@
+(function(){var b="17f29eea6c3b",m="# Job 21:10 (New International Version)\nTheir bulls never fail to breed;  \n    their cows calve and do not miscarry.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-23-26|Ex 23:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

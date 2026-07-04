@@ -1,0 +1,1 @@
+(function(){var b="e4bf24e6e8f9",m="# Proverbs 8:24 (New International Version)\nWhen there were no watery depths, I was given birth,  \n    when there were no springs overflowing with water;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-7-11|Ge 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

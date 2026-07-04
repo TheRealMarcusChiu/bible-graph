@@ -1,0 +1,1 @@
+(function(){var b="83e6b30596c1",m="# Daniel 11:34 (New International Version)\nWhen they fall, they will receive a little help, and many who are not sincere<sup>^A</sup> will join them. \n\n### Crossrefs\n- A: [[Matt-7-15|Mt 7:15]]; [[Rom-16-18|Ro 16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

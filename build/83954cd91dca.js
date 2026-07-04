@@ -1,0 +1,1 @@
+(function(){var b="83954cd91dca",m="# Ezekiel 16:54 (New International Version)\nso that you may bear your disgrace<sup>^A</sup> and be ashamed of all you have done in giving them comfort. \n\n### Crossrefs\n- A: S [[Jer-2-26|Jer 2:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a7cceff2b0ab",m="# Habakkuk 3:1 (New International Version)\nHabakkuk's Prayer\nA prayer of Habakkuk the prophet. On _shigionoth_.<sup>^A</sup>\n\n### Crossrefs\n- A: Ps 7 Title";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

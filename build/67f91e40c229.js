@@ -1,0 +1,1 @@
+(function(){var b="67f91e40c229",m="# 2 Chronicles 8:3 (New International Version)\nSolomon then went to Hamath Zobah and captured it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

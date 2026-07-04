@@ -1,0 +1,1 @@
+(function(){var b="4f9e3588d406",m="# 1 Chronicles 21:10 (New International Version)\n\"Go and tell David, 'This is what the LORD says: I am giving you three options. Choose one of them for me to carry out against you.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

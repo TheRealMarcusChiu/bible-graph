@@ -1,0 +1,1 @@
+(function(){var b="302a1792b9e6",m="# Ezekiel 11:4 (New International Version)\nTherefore prophesy<sup>^A</sup> against them; prophesy, son of man.\"\n\n### Crossrefs\n- A: S [[Ezek-3-4|Eze 3:4]], [[Ezek-3-17|17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

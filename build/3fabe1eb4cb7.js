@@ -1,0 +1,1 @@
+(function(){var b="3fabe1eb4cb7",m="# 1 Chronicles 22:6 (New International Version)\nThen he called for his son Solomon and charged him to build<sup>^A</sup> a house for the LORD, the God of Israel. \n\n### Crossrefs\n- A: [[Acts-7-47|Ac 7:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a436d756dcb",m="# Malachi 3:9 (New International Version)\nYou are under a curse<sup>^A</sup>--your whole nation--because you are robbing me. \n\n### Crossrefs\n- A: S [[Deut-11-26|Dt 11:26]]; [[Deut-28-15|28:15-68]]; S [[Zech-5-3|Zec 5:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a982d8181a9e",m="# 2 Kings 18:8 (New International Version)\nFrom watchtower to fortified city,<sup>^A</sup> he defeated the Philistines, as far as Gaza and its territory.\n\n### Crossrefs\n- A: [[2Kgs-17-9|2Ki 17:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

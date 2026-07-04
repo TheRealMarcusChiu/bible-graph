@@ -1,0 +1,1 @@
+(function(){var b="d6734a25f910",m="# Psalm 91:6 (New International Version)\nnor the pestilence that stalks in the darkness,  \n    nor the plague that destroys at midday.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

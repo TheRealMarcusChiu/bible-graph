@@ -1,0 +1,1 @@
+(function(){var b="21fd013fbb01",m="# Psalm 13:6 (New International Version)\nI will sing<sup>^A</sup> the LORD's praise,  \n    for he has been good to me.\n\n### Crossrefs\n- A: S [[Exod-15-1|Ex 15:1]]; [[Ps-7-17|Ps 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

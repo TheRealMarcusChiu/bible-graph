@@ -1,0 +1,1 @@
+(function(){var b="0a767eabb29b",m="# Ezekiel 17:2 (New International Version)\n\"Son of man, set forth an allegory and tell it to the Israelites as a parable.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Judg-14-12|Jdg 14:12]]; S [[Ezek-20-49|Eze 20:49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

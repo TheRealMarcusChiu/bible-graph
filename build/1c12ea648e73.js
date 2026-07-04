@@ -1,0 +1,1 @@
+(function(){var b="1c12ea648e73",m="# Psalm 148:3 (New International Version)\nPraise him, sun<sup>^A</sup> and moon;  \n    praise him, all you shining stars.\n\n### Crossrefs\n- A: S [[Ps-19-1|Ps 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

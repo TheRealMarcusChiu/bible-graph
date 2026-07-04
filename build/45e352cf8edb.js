@@ -1,0 +1,1 @@
+(function(){var b="45e352cf8edb",m="# 1 Chronicles 27:14 (New International Version)\nThe eleventh, for the eleventh month, was Benaiah<sup>^A</sup> the Pirathonite, an Ephraimite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: S [[1Chr-11-31|1Ch 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

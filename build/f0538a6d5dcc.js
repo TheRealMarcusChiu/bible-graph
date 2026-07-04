@@ -1,0 +1,1 @@
+(function(){var b="f0538a6d5dcc",m="# Jeremiah 28:5 (New International Version)\nThen the prophet Jeremiah replied to the prophet Hananiah before the priests and all the people who were standing in the house of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

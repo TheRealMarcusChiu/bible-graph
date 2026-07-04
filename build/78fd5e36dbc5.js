@@ -1,0 +1,1 @@
+(function(){var b="78fd5e36dbc5",m="# Psalm 136:24 (New International Version)\nand freed us<sup>^A</sup> from our enemies.<sup>^B</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Josh-10-14|Jos 10:14]]; S [[Neh-9-28|Ne 9:28]]\n- B: S [[Deut-6-19|Dt 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

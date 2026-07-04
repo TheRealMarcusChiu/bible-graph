@@ -1,0 +1,1 @@
+(function(){var b="6cbf02926413",m="# Ecclesiastes 2:22 (New International Version)\nWhat do people get for all the toil and anxious striving with which they labor under the sun?<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Eccl-1-3|Ecc 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

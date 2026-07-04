@@ -1,0 +1,1 @@
+(function(){var b="97ade18b2b19",m="# Proverbs 31:16 (New International Version)\nShe considers a field and buys it;  \n    out of her earnings she plants a vineyard.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

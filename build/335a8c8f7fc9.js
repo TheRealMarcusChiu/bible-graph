@@ -1,0 +1,1 @@
+(function(){var b="335a8c8f7fc9",m="# 1 Chronicles 8:26 (New International Version)\nShamsherai, Shehariah, Athaliah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

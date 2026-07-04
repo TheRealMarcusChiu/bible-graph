@@ -1,0 +1,1 @@
+(function(){var b="7cdf85c13c3b",m="# 2 Chronicles 35:16 (New International Version)\nSo at that time the entire service of the LORD was carried out for the celebration of the Passover and the offering of burnt offerings on the altar of the LORD, as King Josiah had ordered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

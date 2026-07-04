@@ -1,0 +1,1 @@
+(function(){var b="647f14f7211f",m="# Job 32:7 (New International Version)\nI thought, 'Age should speak;  \n    advanced years should teach wisdom.'<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-29-15|1Ch 29:15]]; S [[2Chr-10-6|2Ch 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

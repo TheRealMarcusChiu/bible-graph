@@ -1,0 +1,1 @@
+(function(){var b="44d1ada341e8",m="# Ezra 8:29 (New International Version)\nGuard them carefully until you weigh them out in the chambers of the house of the LORD in Jerusalem before the leading priests and the Levites and the family heads of Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

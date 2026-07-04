@@ -1,0 +1,1 @@
+(function(){var b="5e3faa846cf7",m="# Ezekiel 6:1 (New International Version)\nDoom for the Mountains of Israel\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

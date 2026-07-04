@@ -1,0 +1,1 @@
+(function(){var b="edc892e7100b",m="# 2 Kings 11:3 (New International Version)\nHe remained hidden with his nurse at the temple of the LORD for six years while Athaliah ruled the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

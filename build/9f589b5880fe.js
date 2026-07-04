@@ -1,0 +1,1 @@
+(function(){var b="9f589b5880fe",m="# Proverbs 26:5 (New International Version)\nAnswer a fool according to his folly,  \n    or he will be wise in his own eyes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-26-4|ver 4]]; S [[Prov-3-7|Pr 3:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

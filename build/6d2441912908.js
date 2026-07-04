@@ -1,0 +1,1 @@
+(function(){var b="6d2441912908",m="# Psalm 68:11 (New International Version)\nThe Lord announces the word,  \n    and the women who proclaim it are a mighty throng:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Luke-2-13|Lk 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

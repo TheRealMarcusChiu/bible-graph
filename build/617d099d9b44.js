@@ -1,0 +1,1 @@
+(function(){var b="617d099d9b44",m="# 2 Chronicles 26:2 (New International Version)\nHe was the one who rebuilt Elath and restored it to Judah after Amaziah rested with his ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

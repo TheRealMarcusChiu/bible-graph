@@ -1,0 +1,1 @@
+(function(){var b="e213a9bde5a9",m="# 1 Chronicles 27:26 (New International Version)\nEzri son of Kelub was in charge of the workers who farmed the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

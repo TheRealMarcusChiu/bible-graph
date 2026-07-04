@@ -1,0 +1,1 @@
+(function(){var b="27bb415e1273",m="# 1 Chronicles 1:5 (New International Version)\nThe sons of Japheth:\nGomer, Magog, Madai, Javan, Tubal, Meshek and Tiras.\n\n### Crossrefs\n- A: [[1Chr-1-5|1:5-7pp]] — [[Gen-10-2|Ge 10:2-5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2a2631765ab8",m="# Job 20:21 (New International Version)\nNothing is left for him to devour;  \n    his prosperity will not endure.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-7-8|Job 7:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

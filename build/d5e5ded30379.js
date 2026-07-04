@@ -1,0 +1,1 @@
+(function(){var b="d5e5ded30379",m="# Proverbs 20:19 (New International Version)\nA gossip betrays a confidence;<sup>^A</sup>  \n    so avoid anyone who talks too much.\n\n### Crossrefs\n- A: [[Prov-11-13|Pr 11:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f99a292fd5e0",m="# 2 Kings 10:3 (New International Version)\nchoose the best and most worthy of your master's sons and set him on his father's throne. Then fight for your master's house.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

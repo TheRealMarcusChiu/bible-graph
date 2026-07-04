@@ -1,0 +1,1 @@
+(function(){var b="cd168279f948",m="# 1 Chronicles 23:20 (New International Version)\nThe sons of Uzziel:\nMicah the first and Ishiah the second.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="374621dd1430",m="# 1 Chronicles 26:8 (New International Version)\nAll these were descendants of Obed-Edom; they and their sons and their relatives were capable men with the strength to do the work--descendants of Obed-Edom, 62 in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

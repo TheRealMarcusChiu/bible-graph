@@ -1,0 +1,1 @@
+(function(){var b="f8f9b38b858d",m="# 1 Chronicles 2:37 (New International Version)\nZabad the father of Ephlal,\nEphlal the father of Obed,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

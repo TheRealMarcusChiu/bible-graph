@@ -1,0 +1,1 @@
+(function(){var b="37330907f7ad",m="# 1 Chronicles 27:9 (New International Version)\nThe sixth, for the sixth month, was Ira<sup>^A</sup> the son of Ikkesh the Tekoite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: [[2Sam-23-26|2Sa 23:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

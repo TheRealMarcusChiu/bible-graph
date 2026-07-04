@@ -1,0 +1,1 @@
+(function(){var b="b4712f9b08d8",m="# Job 19:5 (New International Version)\nIf indeed you would exalt yourselves above me<sup>^A</sup>  \n    and use my humiliation against me,\n\n### Crossrefs\n- A: [[Ps-35-26|Ps 35:26]]; [[Ps-38-16|38:16]]; [[Ps-55-12|55:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

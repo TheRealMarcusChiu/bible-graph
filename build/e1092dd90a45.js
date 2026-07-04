@@ -1,0 +1,1 @@
+(function(){var b="e1092dd90a45",m="# Song of Songs 8:4 (New International Version)\nDaughters of Jerusalem, I charge you:  \n    Do not arouse or awaken love  \n    until it so desires.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Song-2-7|SS 2:7]]; S [[Song-3-5|3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

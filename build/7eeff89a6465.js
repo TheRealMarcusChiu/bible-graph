@@ -1,0 +1,1 @@
+(function(){var b="7eeff89a6465",m="# Ecclesiastes 12:12 (New International Version)\nBe warned, my son, of anything in addition to them.\nOf making many books there is no end, and much study wearies the body.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Eccl-1-18|Ecc 1:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

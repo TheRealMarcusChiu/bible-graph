@@ -1,0 +1,1 @@
+(function(){var b="aba6f97245cf",m="# Job 5:6 (New International Version)\nFor hardship does not spring from the soil,  \n    nor does trouble sprout from the ground.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-8|Job 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

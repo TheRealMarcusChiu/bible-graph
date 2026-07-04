@@ -1,0 +1,1 @@
+(function(){var b="9cbcfe7e67d6",m="# Isaiah 22:10 (New International Version)\nYou counted the buildings in Jerusalem  \n    and tore down houses<sup>^A</sup> to strengthen the wall.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-33-4|Jer 33:4]]\n- B: S [[2Chr-32-5|2Ch 32:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

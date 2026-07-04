@@ -1,0 +1,1 @@
+(function(){var b="d98e9214cca6",m="# Psalm 77:14 (New International Version)\nYou are the God who performs miracles;<sup>^A</sup>  \n    you display your power among the peoples.\n\n### Crossrefs\n- A: S [[Exod-3-20|Ex 3:20]]; S [[Exod-34-10|34:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

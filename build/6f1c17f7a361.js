@@ -1,0 +1,1 @@
+(function(){var b="6f1c17f7a361",m="# 1 Chronicles 12:16 (New International Version)\nOther Benjamites<sup>^A</sup> and some men from Judah also came to David in his stronghold. \n\n### Crossrefs\n- A: S [[2Sam-3-19|2Sa 3:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bc8b2beed844",m="# Psalm 135:16 (New International Version)\nThey have mouths, but cannot speak,<sup>^A</sup>  \n    eyes, but cannot see.\n\n### Crossrefs\n- A: S [[1Kgs-18-26|1Ki 18:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

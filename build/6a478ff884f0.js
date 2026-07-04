@@ -1,0 +1,1 @@
+(function(){var b="6a478ff884f0",m="# Daniel 8:22 (New International Version)\nThe four horns that replaced the one that was broken off represent four kingdoms that will emerge from his nation but will not have the same power.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

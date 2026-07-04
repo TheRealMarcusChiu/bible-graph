@@ -1,0 +1,1 @@
+(function(){var b="5a471a1cad64",m="# Proverbs 4:26 (New International Version)\nGive careful thought to the paths for your feet<sup>^A</sup>  \n    and be steadfast in all your ways.\n\n### Crossrefs\n- A: Heb 12:13*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c4df9484484f",m="# Psalm 82:7 (New International Version)\nBut you will die<sup>^A</sup> like mere mortals;  \n    you will fall like every other ruler.\"\n\n### Crossrefs\n- A: [[Ps-49-12|Ps 49:12]]; [[Ezek-31-14|Eze 31:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

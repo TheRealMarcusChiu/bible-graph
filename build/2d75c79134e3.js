@@ -1,0 +1,1 @@
+(function(){var b="2d75c79134e3",m="# Psalm 89:15 (New International Version)\nBlessed are those who have learned to acclaim you,  \n    who walk<sup>^A</sup> in the light<sup>^B</sup> of your presence, LORD.\n\n### Crossrefs\n- A: [[Ps-1-1|Ps 1:1]]\n- B: [[Ps-44-3|Ps 44:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

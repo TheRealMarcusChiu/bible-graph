@@ -1,0 +1,1 @@
+(function(){var b="288f5b88970b",m="# Isaiah 14\n\nJudgment and hope: the Holy One of Israel, the coming Messiah, and the servant who suffers for his people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

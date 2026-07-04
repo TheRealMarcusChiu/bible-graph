@@ -1,0 +1,1 @@
+(function(){var b="ab2c50275a46",m="# 2 Chronicles 23:9 (New International Version)\nThen he gave the commanders of units of a hundred the spears and the large and small shields that had belonged to King David and that were in the temple of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

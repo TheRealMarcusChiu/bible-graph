@@ -1,0 +1,1 @@
+(function(){var b="c8950e7cc88c",m="# 1 Chronicles 27:32 (New International Version)\nJonathan, David's uncle, was a counselor, a man of insight and a scribe. Jehiel son of Hakmoni took care of the king's sons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

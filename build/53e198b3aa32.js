@@ -1,0 +1,1 @@
+(function(){var b="53e198b3aa32",m="# Ezekiel 42:17 (New International Version)\nHe measured the north side; it was five hundred cubits by the measuring rod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

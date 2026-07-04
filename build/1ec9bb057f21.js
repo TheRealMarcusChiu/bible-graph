@@ -1,0 +1,1 @@
+(function(){var b="1ec9bb057f21",m="# Daniel 3:16 (New International Version)\nShadrach, Meshach and Abednego<sup>^A</sup> replied to him, \"King Nebuchadnezzar, we do not need to defend ourselves before you in this matter. \n\n### Crossrefs\n- A: S [[Dan-1-7|Da 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

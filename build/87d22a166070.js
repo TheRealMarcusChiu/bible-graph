@@ -1,0 +1,1 @@
+(function(){var b="87d22a166070",m="# Proverbs 11:21 (New International Version)\nBe sure of this: The wicked will not go unpunished,  \n    but those who are righteous will go free.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-5|Pr 16:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

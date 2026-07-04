@@ -1,0 +1,1 @@
+(function(){var b="586a83500e3a",m="# Ezra 6:1 (New International Version)\nThe Decree of Darius\nKing Darius then issued an order, and they searched in the archives<sup>^A</sup> stored in the treasury at Babylon. \n\n### Crossrefs\n- A: S [[Ezra-4-15|Ezr 4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

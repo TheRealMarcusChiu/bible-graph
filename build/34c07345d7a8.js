@@ -1,0 +1,1 @@
+(function(){var b="34c07345d7a8",m="# Jeremiah 14:1 (New International Version)\nDrought, Famine, Sword\nThis is the word of the LORD that came to Jeremiah concerning the drought:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-28-22|Dt 28:22]]; S [[Isa-5-6|Isa 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="514619286e66",m="# Nehemiah 7:36 (New International Version)\n\n### Crossrefs\n- A: [[Neh-3-2|Ne 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

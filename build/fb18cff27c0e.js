@@ -1,0 +1,1 @@
+(function(){var b="fb18cff27c0e",m="# Nehemiah 3:2 (New International Version)\nThe men of Jericho<sup>^A</sup> built the adjoining section, and Zakkur son of Imri built next to them.\n\n### Crossrefs\n- A: [[Neh-7-36|Ne 7:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

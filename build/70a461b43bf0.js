@@ -1,0 +1,1 @@
+(function(){var b="70a461b43bf0",m="# Nehemiah 7:37 (New International Version)\n\n### Crossrefs\n- A: S [[1Chr-8-12|1Ch 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

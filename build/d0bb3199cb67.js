@@ -1,0 +1,1 @@
+(function(){var b="d0bb3199cb67",m="# Ezekiel 48:32 (New International Version)\n\"On the east side, which is 4,500 cubits long, will be three gates: the gate of Joseph, the gate of Benjamin and the gate of Dan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

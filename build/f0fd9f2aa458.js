@@ -1,0 +1,1 @@
+(function(){var b="f0fd9f2aa458",m="# 1 Chronicles 2:9 (New International Version)\nThe sons born to Hezron<sup>^A</sup> were:\nJerahmeel, Ram and Caleb.\n\n### Crossrefs\n- A: S [[Num-26-21|Nu 26:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="986091db0e96",m="# 1 Chronicles 8:4 (New International Version)\nAbishua, Naaman, Ahoah,<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Sam-23-9|2Sa 23:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

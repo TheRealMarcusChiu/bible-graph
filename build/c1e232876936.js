@@ -1,0 +1,1 @@
+(function(){var b="c1e232876936",m="# Daniel 8:14 (New International Version)\nHe said to me, \"It will take 2,300 evenings and mornings; then the sanctuary will be reconsecrated.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-12-11|Da 12:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

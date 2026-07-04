@@ -1,0 +1,1 @@
+(function(){var b="29b228d3ab5c",m="# Lamentations 3:66 (New International Version)\nPursue<sup>^A</sup> them in anger and destroy them  \n    from under the heavens of the LORD.\n\n### Crossrefs\n- A: S [[Lam-3-43|ver 43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

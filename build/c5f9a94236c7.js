@@ -1,0 +1,1 @@
+(function(){var b="c5f9a94236c7",m="# Proverbs 30:22 (New International Version)\na servant who becomes king,<sup>^A</sup>  \n    a godless fool who gets plenty to eat,\n\n### Crossrefs\n- A: S [[Prov-19-10|Pr 19:10]]; S [[Prov-29-2|29:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

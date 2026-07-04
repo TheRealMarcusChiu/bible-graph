@@ -1,0 +1,1 @@
+(function(){var b="20a82b5227f7",m="# Job 15:27 (New International Version)\n\"Though his face is covered with fat  \n    and his waist bulges with flesh,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-3-17|Jdg 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

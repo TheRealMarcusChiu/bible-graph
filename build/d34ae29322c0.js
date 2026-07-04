@@ -1,0 +1,1 @@
+(function(){var b="d34ae29322c0",m="# 2 Kings 4:28 (New International Version)\n\"Did I ask you for a son, my lord?\" she said. \"Didn't I tell you, 'Don't raise my hopes'?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

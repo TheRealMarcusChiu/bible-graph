@@ -1,0 +1,1 @@
+(function(){var b="e78172468f73",m="# Psalm 86:3 (New International Version)\nhave mercy<sup>^A</sup> on me, Lord,  \n    for I call<sup>^B</sup> to you all day long.\n\n### Crossrefs\n- A: [[Ps-4-1|Ps 4:1]]; S [[Ps-9-13|9:13]]; [[Ps-57-1|57:1]]\n- B: [[Ps-88-9|Ps 88:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

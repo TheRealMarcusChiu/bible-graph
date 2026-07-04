@@ -1,0 +1,1 @@
+(function(){var b="1eefd53cee4b",m="# 2 Kings 4:19 (New International Version)\nHe said to his father, \"My head! My head!\"\nHis father told a servant, \"Carry him to his mother.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

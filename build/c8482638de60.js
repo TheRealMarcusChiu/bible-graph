@@ -1,0 +1,1 @@
+(function(){var b="c8482638de60",m="# Ecclesiastes 12:6 (New International Version)\nRemember him--before the silver cord is severed,  \n    and the golden bowl is broken;  \nbefore the pitcher is shattered at the spring,  \n    and the wheel broken at the well,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

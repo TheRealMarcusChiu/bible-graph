@@ -1,0 +1,1 @@
+(function(){var b="05370472dcfd",m="# Ezekiel 23:44 (New International Version)\nAnd they slept with her. As men sleep with a prostitute, so they slept with those lewd women, Oholah and Oholibah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

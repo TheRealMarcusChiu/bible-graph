@@ -1,0 +1,1 @@
+(function(){var b="4f95a3561db5",m="# Job 20:27 (New International Version)\nThe heavens will expose his guilt;  \n    the earth will rise up against him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-31-28|Dt 31:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

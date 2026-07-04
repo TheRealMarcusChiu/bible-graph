@@ -1,0 +1,1 @@
+(function(){var b="3f28b6174b11",m="# Ezekiel 1:14 (New International Version)\nThe creatures sped back and forth like flashes of lightning.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-29-7|Ps 29:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

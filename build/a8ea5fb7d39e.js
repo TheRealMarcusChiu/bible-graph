@@ -1,0 +1,1 @@
+(function(){var b="a8ea5fb7d39e",m="# Psalm 139:5 (New International Version)\nYou hem me in<sup>^A</sup> behind and before,  \n    and you lay your hand upon me.\n\n### Crossrefs\n- A: S [[1Sam-25-16|1Sa 25:16]]; [[Ps-32-10|Ps 32:10]]; [[Ps-34-7|34:7]]; [[Ps-125-2|125:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

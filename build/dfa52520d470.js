@@ -1,0 +1,1 @@
+(function(){var b="dfa52520d470",m="# Psalm 89:25 (New International Version)\nI will set his hand over the sea,  \n    his right hand over the rivers.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-72-8|Ps 72:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

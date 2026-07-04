@@ -1,0 +1,1 @@
+(function(){var b="734b674ffed2",m="# Nehemiah 12:25 (New International Version)\nMattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub were gatekeepers who guarded the storerooms at the gates.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

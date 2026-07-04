@@ -1,0 +1,1 @@
+(function(){var b="66c9589f2006",m="# 2 Kings 15:2 (New International Version)\nHe was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother's name was Jekoliah; she was from Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

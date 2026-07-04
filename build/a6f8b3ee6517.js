@@ -1,0 +1,1 @@
+(function(){var b="a6f8b3ee6517",m="# Psalm 87:2 (New International Version)\nThe LORD loves the gates of Zion<sup>^A</sup>  \n    more than all the other dwellings of Jacob.\n\n### Crossrefs\n- A: [[Ps-2-6|Ps 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

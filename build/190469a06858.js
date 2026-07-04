@@ -1,0 +1,1 @@
+(function(){var b="190469a06858",m="# Joel 3:20 (New International Version)\nJudah will be inhabited forever<sup>^A</sup>  \n    and Jerusalem through all generations.\n\n### Crossrefs\n- A: S [[Ezra-9-12|Ezr 9:12]]; [[Amos-9-15|Am 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

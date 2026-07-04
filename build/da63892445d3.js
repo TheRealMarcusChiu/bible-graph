@@ -1,0 +1,1 @@
+(function(){var b="da63892445d3",m="# Proverbs 7:11 (New International Version)\n(She is unruly<sup>^A</sup> and defiant,  \n    her feet never stay at home;\n\n### Crossrefs\n- A: [[Prov-9-13|Pr 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

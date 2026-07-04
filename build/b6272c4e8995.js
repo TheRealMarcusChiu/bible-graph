@@ -1,0 +1,1 @@
+(function(){var b="b6272c4e8995",m="# Proverbs 29:13 (New International Version)\nThe poor and the oppressor have this in common:  \n    The LORD gives sight to the eyes of both.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-22-2|Pr 22:2]]; [[Matt-5-45|Mt 5:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3454332a1c4e",m="# 2 Kings 19:11 (New International Version)\nSurely you have heard what the kings of Assyria have done to all the countries, destroying them completely. And will you be delivered?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

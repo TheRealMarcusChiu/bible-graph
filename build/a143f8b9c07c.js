@@ -1,0 +1,1 @@
+(function(){var b="a143f8b9c07c",m="# Nehemiah 6:18 (New International Version)\nFor many in Judah were under oath to him, since he was son-in-law to Shekaniah son of Arah, and his son Jehohanan had married the daughter of Meshullam son of Berekiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

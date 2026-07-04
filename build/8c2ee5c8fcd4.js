@@ -1,0 +1,1 @@
+(function(){var b="8c2ee5c8fcd4",m="# Proverbs 3:13 (New International Version)\nBlessed are those who find wisdom,  \n    those who gain understanding,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

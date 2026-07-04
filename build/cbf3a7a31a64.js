@@ -1,0 +1,1 @@
+(function(){var b="cbf3a7a31a64",m="# 1 Chronicles 21:19 (New International Version)\nSo David went up in obedience to the word that Gad had spoken in the name of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

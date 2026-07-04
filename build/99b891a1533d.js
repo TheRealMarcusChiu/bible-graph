@@ -1,0 +1,1 @@
+(function(){var b="99b891a1533d",m="# Proverbs 29:10 (New International Version)\nThe bloodthirsty hate a person of integrity  \n    and seek to kill the upright.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-29-27|ver 27]]; [[1John-3-12|1Jn 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

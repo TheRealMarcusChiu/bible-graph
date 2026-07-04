@@ -1,0 +1,1 @@
+(function(){var b="e235798d7988",m="# Job 20:3 (New International Version)\nI hear a rebuke<sup>^A</sup> that dishonors me,  \n    and my understanding inspires me to reply.\n\n### Crossrefs\n- A: [[Job-19-3|Job 19:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

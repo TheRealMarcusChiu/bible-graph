@@ -1,0 +1,1 @@
+(function(){var b="f96377ec6e1b",m="# Jeremiah 51:38 (New International Version)\nHer people all roar like young lions,<sup>^A</sup>  \n    they growl like lion cubs.\n\n### Crossrefs\n- A: S [[Isa-5-29|Isa 5:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

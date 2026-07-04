@@ -1,0 +1,1 @@
+(function(){var b="72c1ea58e5e4",m="# Psalm 105:22 (New International Version)\nto instruct his princes<sup>^A</sup> as he pleased  \n    and teach his elders wisdom.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Gen-41-43|Ge 41:43-44]]\n- B: S [[Gen-41-40|Ge 41:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4417f836bc48",m="# Job 8:4 (New International Version)\nWhen your children sinned against him,  \n    he gave them over to the penalty of their sin.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-1-19|Job 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

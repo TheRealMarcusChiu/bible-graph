@@ -1,0 +1,1 @@
+(function(){var b="f4236834afd1",m="# Esther 9:18 (New International Version)\nThe Jews in Susa, however, had assembled on the thirteenth and fourteenth, and then on the fifteenth they rested and made it a day of feasting and joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

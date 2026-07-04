@@ -1,0 +1,1 @@
+(function(){var b="50581edc6ee3",m="# Isaiah 7:6 (New International Version)\n\"Let us invade Judah; let us tear it apart and divide it among ourselves, and make the son of Tabeel king over it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

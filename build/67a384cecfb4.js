@@ -1,0 +1,1 @@
+(function(){var b="67a384cecfb4",m="# 1 Chronicles 20:7 (New International Version)\nWhen he taunted Israel, Jonathan son of Shimea, David's brother, killed him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

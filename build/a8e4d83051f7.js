@@ -1,0 +1,1 @@
+(function(){var b="a8e4d83051f7",m="# Lamentations 3:53 (New International Version)\nThey tried to end my life in a pit<sup>^A</sup>  \n    and threw stones at me;\n\n### Crossrefs\n- A: [[Jer-37-16|Jer 37:16]]; S [[Jer-38-6|38:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

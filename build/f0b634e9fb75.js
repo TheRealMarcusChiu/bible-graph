@@ -1,0 +1,1 @@
+(function(){var b="f0b634e9fb75",m="# Proverbs 10:12 (New International Version)\nHatred stirs up conflict,  \n    but love covers over all wrongs.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-17-9|Pr 17:9]]; [[1Cor-13-4|1Co 13:4-7]]; [[1Pet-4-8|1Pe 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

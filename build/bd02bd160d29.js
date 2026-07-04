@@ -1,0 +1,1 @@
+(function(){var b="bd02bd160d29",m="# Psalm 116:8 (New International Version)\nFor you, LORD, have delivered me<sup>^A</sup> from death,  \n    my eyes from tears,  \n    my feet from stumbling,\n\n### Crossrefs\n- A: S [[Ps-86-13|Ps 86:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

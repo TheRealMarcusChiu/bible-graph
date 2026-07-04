@@ -1,0 +1,1 @@
+(function(){var b="c22d3391149e",m="# Psalm 3:5 (New International Version)\nI lie down and sleep;<sup>^A</sup>  \n    I wake again,<sup>^B</sup> because the LORD sustains me.\n\n### Crossrefs\n- A: S [[Lev-26-6|Lev 26:6]]\n- B: [[Ps-17-15|Ps 17:15]]; [[Ps-139-18|139:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

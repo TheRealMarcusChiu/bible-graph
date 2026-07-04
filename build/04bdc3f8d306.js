@@ -1,0 +1,1 @@
+(function(){var b="04bdc3f8d306",m="# 1 Chronicles 16:7 (New International Version)\nThat day David first appointed Asaph and his associates to give praise<sup>^A</sup> to the LORD in this manner:\n\n### Crossrefs\n- A: [[Ps-47-7|Ps 47:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

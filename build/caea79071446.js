@@ -1,0 +1,1 @@
+(function(){var b="caea79071446",m="# Ezekiel 39:15 (New International Version)\nAs they go through the land, anyone who sees a human bone will leave a marker beside it until the gravediggers bury it in the Valley of Hamon Gog,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

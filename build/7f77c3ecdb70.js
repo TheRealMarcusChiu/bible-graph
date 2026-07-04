@@ -1,0 +1,1 @@
+(function(){var b="7f77c3ecdb70",m="# Psalm 108:6 (New International Version)\nSave us and help us with your right hand,<sup>^A</sup>  \n    that those you love may be delivered.\n\n### Crossrefs\n- A: S [[Job-40-14|Job 40:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06c3b5738103",m="# Proverbs 3:14 (New International Version)\nfor she is more profitable than silver  \n    and yields better returns than gold.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-15|Job 28:15]]; [[Prov-8-19|Pr 8:19]]; [[Prov-16-16|16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

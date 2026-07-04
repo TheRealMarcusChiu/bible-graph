@@ -1,0 +1,1 @@
+(function(){var b="4069c584b8dc",m="# Psalm 84:12 (New International Version)\nLORD Almighty,  \n    blessed<sup>^A</sup> is the one who trusts in you.\n\n### Crossrefs\n- A: [[Ps-2-12|Ps 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

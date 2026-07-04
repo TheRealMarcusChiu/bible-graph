@@ -1,0 +1,1 @@
+(function(){var b="674b372ed089",m="# Ezekiel 12:8 (New International Version)\nIn the morning the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

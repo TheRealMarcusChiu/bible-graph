@@ -1,0 +1,1 @@
+(function(){var b="30d536946baf",m="# Psalm 119:24 (New International Version)\nYour statutes are my delight;  \n    they are my counselors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

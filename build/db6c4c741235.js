@@ -1,0 +1,1 @@
+(function(){var b="db6c4c741235",m="# Proverbs 6:6 (New International Version)\nGo to the ant, you sluggard;<sup>^A</sup>  \n    consider its ways and be wise!\n\n### Crossrefs\n- A: [[Prov-6-6|ver 6-11]]; [[Prov-20-4|Pr 20:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

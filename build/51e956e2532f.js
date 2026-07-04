@@ -1,0 +1,1 @@
+(function(){var b="51e956e2532f",m="# Psalm 78:25 (New International Version)\nHuman beings ate the bread of angels;  \n    he sent them all the food they could eat.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

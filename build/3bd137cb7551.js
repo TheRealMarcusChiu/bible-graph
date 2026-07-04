@@ -1,0 +1,1 @@
+(function(){var b="3bd137cb7551",m="# 1 Chronicles 29:10 (New International Version)\nDavid's Prayer\nDavid praised the LORD in the presence of the whole assembly, saying,\n\"Praise be to you, LORD,  \n    the God of our father Israel,  \n    from everlasting to everlasting.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

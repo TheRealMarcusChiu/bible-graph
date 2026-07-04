@@ -1,0 +1,1 @@
+(function(){var b="a47554d7de38",m="# 2 Chronicles 3:6 (New International Version)\nHe adorned the temple with precious stones. And the gold he used was gold of Parvaim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

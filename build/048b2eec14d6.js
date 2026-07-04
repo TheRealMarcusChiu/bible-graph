@@ -1,0 +1,1 @@
+(function(){var b="048b2eec14d6",m="# 2 Kings 9:5 (New International Version)\nWhen he arrived, he found the army officers sitting together. \"I have a message for you, commander,\" he said.\n\"For which of us?\" asked Jehu.\n\"For you, commander,\" he replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

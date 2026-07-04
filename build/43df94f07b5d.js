@@ -1,0 +1,1 @@
+(function(){var b="43df94f07b5d",m="# Job 32:19 (New International Version)\ninside I am like bottled-up wine,  \n    like new wineskins ready to burst.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-20-9|Jer 20:9]]; [[Amos-3-8|Am 3:8]]; [[Matt-9-17|Mt 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

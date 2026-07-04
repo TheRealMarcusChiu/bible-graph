@@ -1,0 +1,1 @@
+(function(){var b="f1e3b13fee8e",m="# Habakkuk 2:20 (New International Version)\nThe LORD is in his holy temple;<sup>^A</sup>  \n    let all the earth be silent<sup>^B</sup> before him.\n\n### Crossrefs\n- A: S [[Ps-11-4|Ps 11:4]]\n- B: S [[Isa-41-1|Isa 41:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

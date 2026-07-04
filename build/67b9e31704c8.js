@@ -1,0 +1,1 @@
+(function(){var b="67b9e31704c8",m="# Psalm 132:2 (New International Version)\nHe swore an oath to the LORD,  \n    he made a vow to the Mighty One of Jacob:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-49-24|Ge 49:24]]; [[Isa-49-26|Isa 49:26]]; [[Isa-60-16|60:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

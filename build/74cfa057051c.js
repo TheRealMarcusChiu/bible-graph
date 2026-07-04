@@ -1,0 +1,1 @@
+(function(){var b="74cfa057051c",m="# Job 30:8 (New International Version)\nA base and nameless brood,<sup>^A</sup>  \n    they were driven out of the land.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Judg-9-4|Jdg 9:4]]\n- B: S [[Job-18-18|Job 18:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

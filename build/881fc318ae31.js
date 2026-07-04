@@ -1,0 +1,1 @@
+(function(){var b="881fc318ae31",m="# 1 Chronicles 6:41 (New International Version)\nthe son of Ethni,\nthe son of Zerah, the son of Adaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

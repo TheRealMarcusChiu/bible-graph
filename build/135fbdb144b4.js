@@ -1,0 +1,1 @@
+(function(){var b="135fbdb144b4",m="# Psalm 107:3 (New International Version)\nthose he gathered<sup>^A</sup> from the lands,  \n    from east and west, from north and south.\n\n### Crossrefs\n- A: S [[Neh-1-9|Ne 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

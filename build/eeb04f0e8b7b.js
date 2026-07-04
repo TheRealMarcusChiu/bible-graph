@@ -1,0 +1,1 @@
+(function(){var b="eeb04f0e8b7b",m="# Psalm 73:9 (New International Version)\nTheir mouths lay claim to heaven,  \n    and their tongues take possession of the earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

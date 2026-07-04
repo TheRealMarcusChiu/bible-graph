@@ -1,0 +1,1 @@
+(function(){var b="ea0714c48a19",m="# Jeremiah 48:16 (New International Version)\n\"The fall of Moab is at hand;<sup>^A</sup>  \n    her calamity will come quickly.\n\n### Crossrefs\n- A: [[Isa-13-22|Isa 13:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

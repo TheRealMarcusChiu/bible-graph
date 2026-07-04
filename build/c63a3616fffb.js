@@ -1,0 +1,1 @@
+(function(){var b="c63a3616fffb",m="# 2 Chronicles 17:18 (New International Version)\nnext, Jehozabad, with 180,000 men armed for battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

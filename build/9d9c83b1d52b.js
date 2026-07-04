@@ -1,0 +1,1 @@
+(function(){var b="9d9c83b1d52b",m="# Ecclesiastes 3:20 (New International Version)\nAll go to the same place; all come from dust, and to dust all return.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-2-7|Ge 2:7]]; S [[Job-34-15|Job 34:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

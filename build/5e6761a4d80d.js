@@ -1,0 +1,1 @@
+(function(){var b="5e6761a4d80d",m="# Isaiah 28:8 (New International Version)\nAll the tables are covered with vomit<sup>^A</sup>  \n    and there is not a spot without filth.\n\n### Crossrefs\n- A: [[Jer-48-26|Jer 48:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

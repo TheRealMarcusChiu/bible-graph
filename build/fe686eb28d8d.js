@@ -1,0 +1,1 @@
+(function(){var b="fe686eb28d8d",m="# Nehemiah 7:69 (New International Version)\n435 camels and 6,720 donkeys.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

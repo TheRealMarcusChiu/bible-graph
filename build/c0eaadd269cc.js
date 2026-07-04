@@ -1,0 +1,1 @@
+(function(){var b="c0eaadd269cc",m="# Proverbs 7:24 (New International Version)\nNow then, my sons, listen<sup>^A</sup> to me;  \n    pay attention to what I say.\n\n### Crossrefs\n- A: [[Prov-1-8|Pr 1:8-9]]; [[Prov-8-32|8:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

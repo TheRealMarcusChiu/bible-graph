@@ -1,0 +1,1 @@
+(function(){var b="eddd2270c00a",m="# Hosea 13:7 (New International Version)\nSo I will be like a lion<sup>^A</sup> to them,  \n    like a leopard I will lurk by the path.\n\n### Crossrefs\n- A: S [[Job-10-16|Job 10:16]]; S [[Jer-4-7|Jer 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

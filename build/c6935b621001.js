@@ -1,0 +1,1 @@
+(function(){var b="c6935b621001",m="# Psalm 40:15 (New International Version)\nMay those who say to me, \"Aha! Aha!\"<sup>^A</sup>  \n    be appalled at their own shame.\n\n### Crossrefs\n- A: S [[Ps-35-21|Ps 35:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

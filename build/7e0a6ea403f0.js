@@ -1,0 +1,1 @@
+(function(){var b="7e0a6ea403f0",m="# 1 Chronicles 6:38 (New International Version)\nthe son of Izhar,<sup>^A</sup> the son of Kohath,\nthe son of Levi, the son of Israel;\n\n### Crossrefs\n- A: [[Exod-6-21|Ex 6:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

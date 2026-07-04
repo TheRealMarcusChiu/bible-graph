@@ -1,0 +1,1 @@
+(function(){var b="facebb124ae1",m="# 2 Chronicles 20:8 (New International Version)\nThey have lived in it and have built in it a sanctuary<sup>^A</sup> for your Name, saying, \n\n### Crossrefs\n- A: [[2Chr-6-20|2Ch 6:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="73bc682b734c",m="# Nehemiah 10:21 (New International Version)\nMeshezabel, Zadok, Jaddua,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

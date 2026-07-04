@@ -1,0 +1,1 @@
+(function(){var b="40f2ba9ad95d",m="# Daniel 6:6 (New International Version)\nSo these administrators and satraps went as a group to the king and said: \"May King Darius live forever!<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Neh-2-3|Ne 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fd39862521a8",m="# Jeremiah 11:1 (New International Version)\nThe Covenant Is Broken\nThis is the word that came to Jeremiah from the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

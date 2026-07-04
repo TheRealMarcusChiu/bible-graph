@@ -1,0 +1,1 @@
+(function(){var b="0b4d17969404",m="# Proverbs 1:2 (New International Version)\nfor gaining wisdom and instruction;  \n    for understanding words of insight;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

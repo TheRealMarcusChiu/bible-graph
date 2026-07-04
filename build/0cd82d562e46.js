@@ -1,0 +1,1 @@
+(function(){var b="0cd82d562e46",m="# Psalm 116:17 (New International Version)\nI will sacrifice a thank offering<sup>^A</sup> to you  \n    and call on the name of the LORD.\n\n### Crossrefs\n- A: S [[Lev-7-12|Lev 7:12]]; S [[Ezra-1-4|Ezr 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

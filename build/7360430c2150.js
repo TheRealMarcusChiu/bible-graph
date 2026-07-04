@@ -1,0 +1,1 @@
+(function(){var b="7360430c2150",m="# Proverbs 1:17 (New International Version)\nHow useless to spread a net  \n    where every bird can see it!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

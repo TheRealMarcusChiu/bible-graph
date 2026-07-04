@@ -1,0 +1,1 @@
+(function(){var b="0a073b4c4298",m="# Job 42:15 (New International Version)\nNowhere in all the land were there found women as beautiful as Job's daughters, and their father granted them an inheritance along with their brothers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

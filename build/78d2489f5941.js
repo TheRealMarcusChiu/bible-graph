@@ -1,0 +1,1 @@
+(function(){var b="78d2489f5941",m="# Psalm 100:2 (New International Version)\nWorship the LORD<sup>^A</sup> with gladness;  \n    come before him<sup>^B</sup> with joyful songs.\n\n### Crossrefs\n- A: S [[Deut-10-12|Dt 10:12]]\n- B: S [[Ps-95-2|Ps 95:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

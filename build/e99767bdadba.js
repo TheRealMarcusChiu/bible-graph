@@ -1,0 +1,1 @@
+(function(){var b="e99767bdadba",m="# 1 Chronicles 11:13 (New International Version)\nHe was with David at Pas Dammim when the Philistines gathered there for battle. At a place where there was a field full of barley, the troops fled from the Philistines.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

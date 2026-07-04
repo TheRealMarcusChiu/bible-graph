@@ -1,0 +1,1 @@
+(function(){var b="0f54b7cd0e0f",m="# Ezekiel 48:25 (New International Version)\n\"Issachar<sup>^A</sup> will have one portion; it will border the territory of Simeon from east to west.\n\n### Crossrefs\n- A: [[Josh-19-17|Jos 19:17-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

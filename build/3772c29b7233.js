@@ -1,0 +1,1 @@
+(function(){var b="3772c29b7233",m="# Psalm 80:7 (New International Version)\nRestore us, God Almighty;  \n    make your face shine on us,  \n    that we may be saved.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-80-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

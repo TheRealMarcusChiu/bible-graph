@@ -1,0 +1,1 @@
+(function(){var b="93f2b59e864d",m="# Jeremiah 13:7 (New International Version)\nSo I went to Perath and dug up the belt and took it from the place where I had hidden it, but now it was ruined and completely useless.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

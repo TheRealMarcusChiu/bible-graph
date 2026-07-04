@@ -1,0 +1,1 @@
+(function(){var b="80bcc310293d",m="# Psalm 69:19 (New International Version)\nYou know how I am scorned,<sup>^A</sup> disgraced and shamed;  \n    all my enemies are before you.\n\n### Crossrefs\n- A: S [[Ps-22-6|Ps 22:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

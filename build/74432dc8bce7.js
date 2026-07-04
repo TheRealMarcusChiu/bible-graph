@@ -1,0 +1,1 @@
+(function(){var b="74432dc8bce7",m="# Job 39:14 (New International Version)\nShe lays her eggs on the ground  \n    and lets them warm in the sand,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="54b3aa64e438",m="# Psalm 124:5 (New International Version)\nthe raging waters  \n    would have swept us away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

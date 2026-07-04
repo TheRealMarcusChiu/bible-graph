@@ -1,0 +1,1 @@
+(function(){var b="0ca0d402f6a4",m="# Isaiah 3:13 (New International Version)\nThe LORD takes his place in court;<sup>^A</sup>  \n    he rises to judge<sup>^B</sup> the people.\n\n### Crossrefs\n- A: S [[Job-10-2|Job 10:2]]\n- B: S [[Ps-82-1|Ps 82:1]]; S [[Isa-2-4|Isa 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="646e5116b798",m="# Job 7:14 (New International Version)\neven then you frighten me with dreams  \n    and terrify<sup>^A</sup> me with visions,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-9-34|Job 9:34]]\n- B: S [[Gen-41-8|Ge 41:8]]; S [[Job-3-26|Job 3:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

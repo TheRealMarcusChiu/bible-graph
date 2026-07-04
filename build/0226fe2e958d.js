@@ -1,0 +1,1 @@
+(function(){var b="0226fe2e958d",m="# 1 Chronicles 23:9 (New International Version)\nThe sons of Shimei:\nShelomoth, Haziel and Haran--three in all.\nThese were the heads of the families of Ladan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

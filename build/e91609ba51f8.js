@@ -1,0 +1,1 @@
+(function(){var b="e91609ba51f8",m="# 1 Chronicles 17:11 (New International Version)\nWhen your days are over and you go to be with your ancestors, I will raise up your offspring to succeed you, one of your own sons, and I will establish his kingdom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

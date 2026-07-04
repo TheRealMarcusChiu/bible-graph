@@ -1,0 +1,1 @@
+(function(){var b="fc9b0f39ed37",m="# 1 Chronicles 6:70 (New International Version)\nAnd from half the tribe of Manasseh the Israelites gave Aner and Bileam, together with their pasturelands, to the rest of the Kohathite clans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="00e86fd190fe",m="# Song of Songs 7:2 (New International Version)\nYour navel is a rounded goblet  \n    that never lacks blended wine.  \nYour waist is a mound of wheat  \n    encircled by lilies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

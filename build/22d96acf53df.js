@@ -1,0 +1,1 @@
+(function(){var b="22d96acf53df",m="# Ezra 4:21 (New International Version)\nNow issue an order to these men to stop work, so that this city will not be rebuilt until I so order.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

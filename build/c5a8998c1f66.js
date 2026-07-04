@@ -1,0 +1,1 @@
+(function(){var b="c5a8998c1f66",m="# 1 Chronicles 15:4 (New International Version)\nHe called together the descendants of Aaron and the Levites:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-3-17|Nu 3:17-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

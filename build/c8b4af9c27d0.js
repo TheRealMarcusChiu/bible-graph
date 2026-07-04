@@ -1,0 +1,1 @@
+(function(){var b="c8b4af9c27d0",m="# Psalm 119:62 (New International Version)\nAt midnight<sup>^A</sup> I rise to give you thanks  \n    for your righteous laws.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-119-55|ver 55]]; [[Acts-16-25|Ac 16:25]]\n- B: [[Ps-119-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

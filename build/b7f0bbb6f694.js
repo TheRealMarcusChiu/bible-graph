@@ -1,0 +1,1 @@
+(function(){var b="b7f0bbb6f694",m="# 2 Chronicles 29:20 (New International Version)\nEarly the next morning King Hezekiah gathered the city officials together and went up to the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

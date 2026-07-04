@@ -1,0 +1,1 @@
+(function(){var b="46ba063d4449",m="# Job 1:13 (New International Version)\nOne day when Job's sons and daughters<sup>^A</sup> were feasting<sup>^B</sup> and drinking wine at the oldest brother's house, \n\n### Crossrefs\n- A: S [[Job-1-2|ver 2]]\n- B: S [[Job-1-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

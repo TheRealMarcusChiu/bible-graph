@@ -1,0 +1,1 @@
+(function(){var b="86f4cf998724",m="# Jeremiah 8:20 (New International Version)\n\"The harvest is past,  \n    the summer has ended,  \n    and we are not saved.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

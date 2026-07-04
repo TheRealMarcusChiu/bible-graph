@@ -1,0 +1,1 @@
+(function(){var b="4321a60bdc08",m="# Ecclesiastes 6:8 (New International Version)\nWhat advantage have the wise over fools?<sup>^A</sup>  \nWhat do the poor gain  \n    by knowing how to conduct themselves before others?\n\n### Crossrefs\n- A: S [[Eccl-2-15|Ecc 2:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

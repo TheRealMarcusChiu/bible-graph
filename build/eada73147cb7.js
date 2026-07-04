@@ -1,0 +1,1 @@
+(function(){var b="eada73147cb7",m="# Zechariah 6:14 (New International Version)\nThe crown will be given to Heldai, Tobijah, Jedaiah and Hen son of Zephaniah as a memorial<sup>^A</sup> in the temple of the LORD. \n\n### Crossrefs\n- A: S [[Exod-28-12|Ex 28:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

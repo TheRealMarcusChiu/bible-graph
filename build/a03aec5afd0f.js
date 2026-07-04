@@ -1,0 +1,1 @@
+(function(){var b="a03aec5afd0f",m="# Psalm 78:30 (New International Version)\nBut before they turned from what they craved,  \n    even while the food was still in their mouths,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-11-33|Nu 11:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

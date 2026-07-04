@@ -1,0 +1,1 @@
+(function(){var b="3107eba6e551",m="# Psalm 6:1 (New International Version)\nPsalm 6\nLORD, do not rebuke me in your anger<sup>^A</sup>  \n    or discipline me in your wrath.\n\n### Crossrefs\n- A: S [[Ps-2-5|Ps 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="42715c1b1393",m="# Psalm 92:7 (New International Version)\nthat though the wicked spring up like grass  \n    and all evildoers flourish,  \n    they will be destroyed forever.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-37-2|Ps 37:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

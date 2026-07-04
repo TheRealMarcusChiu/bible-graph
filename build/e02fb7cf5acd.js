@@ -1,0 +1,1 @@
+(function(){var b="e02fb7cf5acd",m="# Psalm 71:14 (New International Version)\nAs for me, I will always have hope;<sup>^A</sup>  \n    I will praise you more and more.\n\n### Crossrefs\n- A: [[Ps-25-3|Ps 25:3]]; [[Ps-42-5|42:5]]; [[Ps-130-7|130:7]]; [[Ps-131-3|131:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

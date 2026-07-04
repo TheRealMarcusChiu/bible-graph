@@ -1,0 +1,1 @@
+(function(){var b="71c3966c957a",m="# Isaiah 38:21 (New International Version)\nIsaiah had said, \"Prepare a poultice of figs and apply it to the boil, and he will recover.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

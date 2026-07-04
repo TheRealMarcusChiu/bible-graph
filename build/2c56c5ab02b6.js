@@ -1,0 +1,1 @@
+(function(){var b="2c56c5ab02b6",m="# 2 Chronicles 27:6 (New International Version)\nJotham grew powerful<sup>^A</sup> because he walked steadfastly before the LORD his God.\n\n### Crossrefs\n- A: [[2Chr-26-5|2Ch 26:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

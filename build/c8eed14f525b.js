@@ -1,0 +1,1 @@
+(function(){var b="c8eed14f525b",m="# Psalm 71:12 (New International Version)\nDo not be far<sup>^A</sup> from me, my God;  \n    come quickly, God, to help<sup>^B</sup> me.\n\n### Crossrefs\n- A: S [[Ps-38-21|Ps 38:21]]\n- B: [[Ps-22-19|Ps 22:19]]; [[Ps-38-22|38:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

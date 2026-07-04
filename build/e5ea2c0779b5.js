@@ -1,0 +1,1 @@
+(function(){var b="e5ea2c0779b5",m="# Proverbs 19:27 (New International Version)\nStop listening to instruction, my son,<sup>^A</sup>  \n    and you will stray from the words of knowledge.\n\n### Crossrefs\n- A: S [[Prov-1-8|Pr 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

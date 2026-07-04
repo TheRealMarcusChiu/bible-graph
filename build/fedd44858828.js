@@ -1,0 +1,1 @@
+(function(){var b="fedd44858828",m="# Proverbs 21:3 (New International Version)\nTo do what is right and just  \n    is more acceptable to the LORD than sacrifice.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-15-22|1Sa 15:22]]; [[Isa-1-11|Isa 1:11]]; [[Mic-6-6|Mic 6:6-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8dea05d54d2",m="# Lamentations 3:26 (New International Version)\nit is good to wait quietly<sup>^A</sup>  \n    for the salvation of the LORD.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-7-4|Isa 7:4]]\n- B: [[Ps-37-7|Ps 37:7]]; [[Ps-40-1|40:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eb29a0c83225",m="# Proverbs 9:18 (New International Version)\nBut little do they know that the dead are there,  \n    that her guests are deep in the realm of the dead.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-2-18|Pr 2:18]]; [[Prov-7-26|7:26-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

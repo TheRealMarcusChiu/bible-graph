@@ -1,0 +1,1 @@
+(function(){var b="c7c7df8a742c",m="# Ezra 10:21 (New International Version)\nFrom the descendants of Harim:<sup>^A</sup>\nMaaseiah, Elijah, Shemaiah, Jehiel and Uzziah.\n\n### Crossrefs\n- A: S [[1Chr-24-8|1Ch 24:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

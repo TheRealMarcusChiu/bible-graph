@@ -1,0 +1,1 @@
+(function(){var b="81bb0b6f8371",m="# Job 6:21 (New International Version)\nNow you too have proved to be of no help;  \n    you see something dreadful and are afraid.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-38-11|Ps 38:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

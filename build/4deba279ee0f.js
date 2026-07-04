@@ -1,0 +1,1 @@
+(function(){var b="4deba279ee0f",m="# Nehemiah 7:45 (New International Version)\nThe gatekeepers:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-9-17|1Ch 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

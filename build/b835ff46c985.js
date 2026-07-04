@@ -1,0 +1,1 @@
+(function(){var b="b835ff46c985",m="# Psalm 7:7 (New International Version)\nLet the assembled peoples gather around you,  \n    while you sit enthroned over them on high.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-68-18|Ps 68:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

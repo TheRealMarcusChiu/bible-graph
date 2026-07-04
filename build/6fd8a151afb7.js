@@ -1,0 +1,1 @@
+(function(){var b="6fd8a151afb7",m="# Psalm 79:7 (New International Version)\nfor they have devoured<sup>^A</sup> Jacob  \n    and devastated his homeland.\n\n### Crossrefs\n- A: [[Isa-9-12|Isa 9:12]]; [[Jer-10-25|Jer 10:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

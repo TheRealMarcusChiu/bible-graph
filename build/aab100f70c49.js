@@ -1,0 +1,1 @@
+(function(){var b="aab100f70c49",m="# Psalm 120:6 (New International Version)\nToo long have I lived  \n    among those who hate peace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

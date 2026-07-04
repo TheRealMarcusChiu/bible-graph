@@ -1,0 +1,1 @@
+(function(){var b="c423abe9f0b3",m="# 2 Kings 14:14 (New International Version)\nHe took all the gold and silver and all the articles found in the temple of the LORD and in the treasuries of the royal palace. He also took hostages and returned to Samaria.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

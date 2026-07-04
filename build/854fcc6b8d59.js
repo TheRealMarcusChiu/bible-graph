@@ -1,0 +1,1 @@
+(function(){var b="854fcc6b8d59",m="# 2 Kings 10:28 (New International Version)\nSo Jehu<sup>^A</sup> destroyed Baal worship in Israel. \n\n### Crossrefs\n- A: [[1Kgs-19-17|1Ki 19:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

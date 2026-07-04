@@ -1,0 +1,1 @@
+(function(){var b="0adff7ede366",m="# Psalm 66:9 (New International Version)\nhe has preserved our lives<sup>^A</sup>  \n    and kept our feet from slipping.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-30-3|Ps 30:3]]\n- B: S [[Deut-32-35|Dt 32:35]]; S [[Job-12-5|Job 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

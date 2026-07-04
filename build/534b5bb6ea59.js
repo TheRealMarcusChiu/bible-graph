@@ -1,0 +1,1 @@
+(function(){var b="534b5bb6ea59",m="# 1 Chronicles 7:3 (New International Version)\nThe son of Uzzi:\nIzrahiah.\nThe sons of Izrahiah:\nMichael, Obadiah, Joel and Ishiah. All five of them were chiefs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

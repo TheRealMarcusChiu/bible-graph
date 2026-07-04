@@ -1,0 +1,1 @@
+(function(){var b="a133a035f52c",m="# 1 Chronicles 11:34 (New International Version)\nthe sons of Hashem the Gizonite,\nJonathan son of Shagee the Hararite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

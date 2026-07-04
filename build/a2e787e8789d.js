@@ -1,0 +1,1 @@
+(function(){var b="a2e787e8789d",m="# Nehemiah 12:32 (New International Version)\nHoshaiah and half the leaders of Judah followed them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

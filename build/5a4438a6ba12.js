@@ -1,0 +1,1 @@
+(function(){var b="5a4438a6ba12",m="# 2 Kings 15:23 (New International Version)\nPekahiah King of Israel\nIn the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king of Israel in Samaria, and he reigned two years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="882425a53839",m="# Proverbs 10:5 (New International Version)\nHe who gathers crops in summer is a prudent son,  \n    but he who sleeps during harvest is a disgraceful son.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-24-30|Pr 24:30-34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

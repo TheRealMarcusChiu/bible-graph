@@ -1,0 +1,1 @@
+(function(){var b="a6676b06dc4c",m="# Daniel 1:14 (New International Version)\nSo he agreed to this and tested<sup>^A</sup> them for ten days.\n\n### Crossrefs\n- A: [[Rev-2-10|Rev 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

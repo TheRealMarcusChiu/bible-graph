@@ -1,0 +1,1 @@
+(function(){var b="3705c4b6b61f",m="# Psalm 3:3 (New International Version)\nBut you, LORD, are a shield<sup>^A</sup> around me,  \n    my glory, the One who lifts my head high.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-15-1|Ge 15:1]]\n- B: [[Ps-27-6|Ps 27:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="16a559ee555c",m="# Psalm 56:5 (New International Version)\nAll day long they twist my words;<sup>^A</sup>  \n    all their schemes are for my ruin.\n\n### Crossrefs\n- A: [[Ps-41-7|Ps 41:7]]; [[2Pet-3-16|2Pe 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

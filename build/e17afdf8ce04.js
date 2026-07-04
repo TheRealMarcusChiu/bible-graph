@@ -1,0 +1,1 @@
+(function(){var b="e17afdf8ce04",m="# Job 25:3 (New International Version)\nCan his forces be numbered?  \n    On whom does his light not rise?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-5-45|Mt 5:45]]; [[Jas-1-17|Jas 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

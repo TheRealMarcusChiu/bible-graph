@@ -1,0 +1,1 @@
+(function(){var b="7d1dde03502f",m="# Psalm 94:17 (New International Version)\nUnless the LORD had given me help,<sup>^A</sup>  \n    I would soon have dwelt in the silence of death.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-124-2|Ps 124:2]]\n- B: S [[Ps-31-17|Ps 31:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

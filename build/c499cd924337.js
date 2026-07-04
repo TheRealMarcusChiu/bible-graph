@@ -1,0 +1,1 @@
+(function(){var b="c499cd924337",m="# Ezekiel 13:7 (New International Version)\nHave you not seen false visions<sup>^A</sup> and uttered lying divinations when you say, \"The LORD declares,\" though I have not spoken?\n\n### Crossrefs\n- A: S [[Isa-30-10|Isa 30:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

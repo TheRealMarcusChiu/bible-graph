@@ -1,0 +1,1 @@
+(function(){var b="f16858b283cc",m="# Nehemiah 11:15 (New International Version)\nFrom the Levites:\nShemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

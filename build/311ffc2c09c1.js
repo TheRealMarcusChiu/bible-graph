@@ -1,0 +1,1 @@
+(function(){var b="311ffc2c09c1",m="# Proverbs 21:6 (New International Version)\nA fortune made by a lying tongue  \n    is a fleeting vapor and a deadly snare.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-2|Pr 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

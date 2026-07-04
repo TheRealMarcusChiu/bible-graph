@@ -1,0 +1,1 @@
+(function(){var b="13c892384fce",m="# Jeremiah 36:16 (New International Version)\nWhen they heard all these words, they looked at each other in fear<sup>^A</sup> and said to Baruch, \"We must report all these words to the king.\" \n\n### Crossrefs\n- A: S [[Ps-36-1|Ps 36:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

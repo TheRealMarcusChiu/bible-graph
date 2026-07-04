@@ -1,0 +1,1 @@
+(function(){var b="40d7c67eed43",m="# Jeremiah 37:4 (New International Version)\nNow Jeremiah was free to come and go among the people, for he had not yet been put in prison.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-37-15|ver 15]]; [[Jer-32-2|Jer 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

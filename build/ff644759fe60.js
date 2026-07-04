@@ -1,0 +1,1 @@
+(function(){var b="ff644759fe60",m="# Esther 1:9 (New International Version)\nQueen Vashti also gave a banquet<sup>^A</sup> for the women in the royal palace of King Xerxes.\n\n### Crossrefs\n- A: S [[1Kgs-3-15|1Ki 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba878633a3ee",m="# Proverbs 29:17 (New International Version)\nDiscipline your children, and they will give you peace;  \n    they will bring you the delights you desire.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-29-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

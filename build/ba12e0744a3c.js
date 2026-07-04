@@ -1,0 +1,1 @@
+(function(){var b="ba12e0744a3c",m="# Job 38:34 (New International Version)\n\"Can you raise your voice to the clouds  \n    and cover yourself with a flood of water?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-5-10|Job 5:10]]; S [[Job-22-11|22:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

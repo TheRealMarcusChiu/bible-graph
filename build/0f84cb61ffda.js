@@ -1,0 +1,1 @@
+(function(){var b="0f84cb61ffda",m="# Psalm 78:16 (New International Version)\nhe brought streams out of a rocky crag  \n    and made water flow down like rivers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

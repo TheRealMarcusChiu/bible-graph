@@ -1,0 +1,1 @@
+(function(){var b="7a5cb84c024b",m="# Ezekiel 40:20 (New International Version)\nThen he measured the length and width of the north gate, leading into the outer court.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

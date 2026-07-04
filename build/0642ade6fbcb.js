@@ -1,0 +1,1 @@
+(function(){var b="0642ade6fbcb",m="# Psalm 19:12 (New International Version)\nBut who can discern their own errors?  \n    Forgive my hidden faults.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-51-2|Ps 51:2]]; [[Ps-90-8|90:8]]; [[Eccl-12-14|Ecc 12:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

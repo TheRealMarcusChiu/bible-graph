@@ -1,0 +1,1 @@
+(function(){var b="63218a3419da",m="# Psalm 142:2 (New International Version)\nI pour out before him my complaint;<sup>^A</sup>  \n    before him I tell my trouble.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-64-1|Ps 64:1]]\n- B: S [[Ps-50-15|Ps 50:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

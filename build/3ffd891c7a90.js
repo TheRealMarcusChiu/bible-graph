@@ -1,0 +1,1 @@
+(function(){var b="3ffd891c7a90",m="# Job 34:36 (New International Version)\nOh, that Job might be tested to the utmost  \n    for answering like a wicked man!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-29|Job 6:29]]; S [[Job-22-15|22:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

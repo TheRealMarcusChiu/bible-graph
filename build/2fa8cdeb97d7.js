@@ -1,0 +1,1 @@
+(function(){var b="2fa8cdeb97d7",m="# Job 32:11 (New International Version)\nI waited while you spoke,  \n    I listened to your reasoning;  \nwhile you were searching for words,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

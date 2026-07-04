@@ -1,0 +1,1 @@
+(function(){var b="d39edb771182",m="# Proverbs 9:6 (New International Version)\nLeave your simple ways and you will live;<sup>^A</sup>  \n    walk in the way of insight.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-8-35|Pr 8:35]]\n- B: S [[Prov-3-1|Pr 3:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

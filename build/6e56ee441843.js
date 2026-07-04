@@ -1,0 +1,1 @@
+(function(){var b="6e56ee441843",m="# Psalm 55:20 (New International Version)\nMy companion attacks his friends;<sup>^A</sup>  \n    he violates his covenant.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-7-4|Ps 7:4]]\n- B: S [[Ps-41-9|Ps 41:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

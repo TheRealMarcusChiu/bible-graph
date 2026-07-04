@@ -1,0 +1,1 @@
+(function(){var b="f866004a4270",m="# Jeremiah 25:24 (New International Version)\nall the kings of Arabia<sup>^A</sup> and all the kings of the foreign people<sup>^B</sup> who live in the wilderness; \n\n### Crossrefs\n- A: S [[2Chr-9-14|2Ch 9:14]]\n- B: [[Jer-25-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

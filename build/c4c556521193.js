@@ -1,0 +1,1 @@
+(function(){var b="c4c556521193",m="# Jeremiah 47:7 (New International Version)\nBut how can it rest  \n    when the LORD has commanded it,  \nwhen he has ordered it  \n    to attack Ashkelon and the coast?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-25-15|Eze 25:15-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

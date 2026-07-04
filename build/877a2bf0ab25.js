@@ -1,0 +1,1 @@
+(function(){var b="877a2bf0ab25",m="# Proverbs 20:23 (New International Version)\nThe LORD detests differing weights,  \n    and dishonest scales do not please him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-20-10|ver 10]]; S [[Deut-25-13|Dt 25:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

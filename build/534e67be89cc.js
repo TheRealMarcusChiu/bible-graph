@@ -1,0 +1,1 @@
+(function(){var b="534e67be89cc",m="# 2 Chronicles 27:8 (New International Version)\nHe was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

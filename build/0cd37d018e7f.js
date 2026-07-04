@@ -1,0 +1,1 @@
+(function(){var b="0cd37d018e7f",m="# 1 Chronicles 2:27 (New International Version)\nThe sons of Ram the firstborn of Jerahmeel:\nMaaz, Jamin and Eker.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f7f052262675",m="# 2 Chronicles 33:22 (New International Version)\nHe did evil in the eyes of the LORD, as his father Manasseh had done. Amon worshiped and offered sacrifices to all the idols Manasseh had made.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

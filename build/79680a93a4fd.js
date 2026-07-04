@@ -1,0 +1,1 @@
+(function(){var b="79680a93a4fd",m="# Job 37:22 (New International Version)\nOut of the north he comes in golden splendor;<sup>^A</sup>  \n    God comes in awesome majesty.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-19-5|Ps 19:5]]\n- B: [[Exod-24-17|Ex 24:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

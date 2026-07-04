@@ -1,0 +1,1 @@
+(function(){var b="f2f03994d005",m="# 1 Chronicles 2:11 (New International Version)\nNahshon was the father of Salmon, Salmon the father of Boaz,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

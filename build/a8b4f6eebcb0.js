@@ -1,0 +1,1 @@
+(function(){var b="a8b4f6eebcb0",m="# Nehemiah 7:27 (New International Version)\n\n### Crossrefs\n- A: S [[Josh-21-18|Jos 21:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

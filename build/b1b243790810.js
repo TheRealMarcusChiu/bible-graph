@@ -1,0 +1,1 @@
+(function(){var b="b1b243790810",m="# Isaiah 49:17 (New International Version)\nYour children hasten back,  \n    and those who laid you waste<sup>^A</sup> depart from you.\n\n### Crossrefs\n- A: S [[Isa-5-6|Isa 5:6]]; [[Isa-10-6|10:6]]; [[Isa-37-18|37:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

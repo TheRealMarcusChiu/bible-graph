@@ -1,0 +1,1 @@
+(function(){var b="af493090525a",m="# 2 Chronicles 31:7 (New International Version)\nThey began doing this in the third month and finished in the seventh month.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Exod-23-16|Ex 23:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cac3d9acc02c",m="# Ezra 8:26 (New International Version)\nI weighed out to them 650 talents of silver, silver articles weighing 100 talents, 100 talents of gold,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

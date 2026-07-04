@@ -1,0 +1,1 @@
+(function(){var b="28d315d4901f",m="# Nehemiah 13:3 (New International Version)\nWhen the people heard this law, they excluded from Israel all who were of foreign descent.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Neh-13-23|ver 23]]; S [[Neh-9-2|Ne 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

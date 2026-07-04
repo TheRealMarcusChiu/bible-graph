@@ -1,0 +1,1 @@
+(function(){var b="3627879c1e07",m="# Jeremiah 38:25 (New International Version)\nIf the officials hear that I talked with you, and they come to you and say, 'Tell us what you said to the king and what the king said to you; do not hide it from us or we will kill you,'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b58d8122d733",m="# 1 Chronicles 6:68 (New International Version)\nJokmeam,<sup>^A</sup> Beth Horon,<sup>^B</sup> \n\n### Crossrefs\n- A: [[1Kgs-4-12|1Ki 4:12]]\n- B: S [[Josh-10-10|Jos 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0dfb2838e53e",m="# Jeremiah 32:11 (New International Version)\nI took the deed of purchase--the sealed copy containing the terms and conditions, as well as the unsealed copy--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

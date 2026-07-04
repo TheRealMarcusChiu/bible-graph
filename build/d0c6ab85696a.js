@@ -1,0 +1,1 @@
+(function(){var b="d0c6ab85696a",m="# 1 Chronicles 16:32 (New International Version)\nLet the sea resound, and all that is in it;<sup>^A</sup>  \n    let the fields be jubilant, and everything in them!\n\n### Crossrefs\n- A: [[Exod-20-11|Ex 20:11]]; [[Isa-42-10|Isa 42:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

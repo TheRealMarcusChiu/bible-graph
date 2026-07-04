@@ -1,0 +1,1 @@
+(function(){var b="5c54593bd429",m="# 2 Chronicles 17:1 (New International Version)\nJehoshaphat King of Judah\nJehoshaphat his son succeeded him as king and strengthened<sup>^A</sup> himself against Israel. \n\n### Crossrefs\n- A: S [[1Kgs-2-12|1Ki 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

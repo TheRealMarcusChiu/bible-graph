@@ -1,0 +1,1 @@
+(function(){var b="074fcc080386",m="# Ecclesiastes 4:9 (New International Version)\nTwo are better than one,  \n    because they have a good return for their labor:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="508288082f7a",m="# Job 38:31 (New International Version)\n\"Can you bind the chains of the Pleiades?  \n    Can you loosen Orion's belt?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-9-9|Job 9:9]]; [[Amos-5-8|Am 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

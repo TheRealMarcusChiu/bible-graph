@@ -1,0 +1,1 @@
+(function(){var b="6df8e5382a22",m="# Psalm 22:4 (New International Version)\nIn you our ancestors put their trust;  \n    they trusted and you delivered them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-78-53|Ps 78:53]]; [[Ps-107-6|107:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

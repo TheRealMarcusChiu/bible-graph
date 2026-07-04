@@ -1,0 +1,1 @@
+(function(){var b="10f43e725c7d",m="# Proverbs 14:13 (New International Version)\nEven in laughter<sup>^A</sup> the heart may ache,  \n    and rejoicing may end in grief.\n\n### Crossrefs\n- A: [[Eccl-2-2|Ecc 2:2]]; [[Eccl-7-3|7:3]], [[Eccl-7-6|6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

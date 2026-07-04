@@ -1,0 +1,1 @@
+(function(){var b="350e21a3da06",m="# Psalm 25:22 (New International Version)\nDeliver Israel,<sup>^A</sup> O God,  \n    from all their troubles!\n\n### Crossrefs\n- A: [[Ps-130-8|Ps 130:8]]; [[Luke-24-21|Lk 24:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

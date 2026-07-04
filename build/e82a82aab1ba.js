@@ -1,0 +1,1 @@
+(function(){var b="e82a82aab1ba",m="# Proverbs 4:22 (New International Version)\nfor they are life to those who find them  \n    and health to one's whole body.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-3-8|Pr 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

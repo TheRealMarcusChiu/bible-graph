@@ -1,0 +1,1 @@
+(function(){var b="2684e593a237",m="# 2 Chronicles 9:10 (New International Version)\n(The servants of Hiram and the servants of Solomon brought gold from Ophir;<sup>^A</sup> they also brought algumwood and precious stones. \n\n### Crossrefs\n- A: [[2Chr-8-18|2Ch 8:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

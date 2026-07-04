@@ -1,0 +1,1 @@
+(function(){var b="f4101d2cbb90",m="# Job 18:13 (New International Version)\nIt eats away parts of his skin;<sup>^A</sup>  \n    death's firstborn devours his limbs.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Num-12-12|Nu 12:12]]\n- B: [[Zech-14-12|Zec 14:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

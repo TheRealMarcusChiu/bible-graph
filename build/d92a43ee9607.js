@@ -1,0 +1,1 @@
+(function(){var b="d92a43ee9607",m="# Psalm 32:1 (New International Version)\nPsalm 32\nBlessed is the one  \n    whose transgressions are forgiven,  \n    whose sins are covered.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-85-2|Ps 85:2]]; [[Ps-103-3|103:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ea869d6aab21",m="# Psalm 118:24 (New International Version)\nThe LORD has done it this very day;  \n    let us rejoice today and be glad.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-70-4|Ps 70:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

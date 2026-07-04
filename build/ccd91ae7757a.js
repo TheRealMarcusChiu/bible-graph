@@ -1,0 +1,1 @@
+(function(){var b="ccd91ae7757a",m="# Psalm 119:5 (New International Version)\nOh, that my ways were steadfast  \n    in obeying your decrees!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-19-37|Lev 19:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

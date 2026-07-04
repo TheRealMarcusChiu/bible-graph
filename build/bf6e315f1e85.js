@@ -1,0 +1,1 @@
+(function(){var b="bf6e315f1e85",m="# Ezekiel 27:29 (New International Version)\nAll who handle the oars  \n    will abandon their ships;  \nthe mariners and all the sailors  \n    will stand on the shore.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

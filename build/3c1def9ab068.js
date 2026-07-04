@@ -1,0 +1,1 @@
+(function(){var b="3c1def9ab068",m="# Ezekiel 1:19 (New International Version)\nWhen the living creatures moved, the wheels beside them moved; and when the living creatures rose from the ground, the wheels also rose.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

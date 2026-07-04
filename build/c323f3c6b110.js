@@ -1,0 +1,1 @@
+(function(){var b="c323f3c6b110",m="# Psalm 73:24 (New International Version)\nYou guide<sup>^A</sup> me with your counsel,<sup>^B</sup>  \n    and afterward you will take me into glory.\n\n### Crossrefs\n- A: S [[Ps-48-14|Ps 48:14]]\n- B: S [[1Kgs-22-5|1Ki 22:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

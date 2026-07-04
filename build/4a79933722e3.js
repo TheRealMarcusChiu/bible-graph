@@ -1,0 +1,1 @@
+(function(){var b="4a79933722e3",m="# 1 Chronicles 1:30 (New International Version)\nMishma, Dumah, Massa, Hadad, Tema,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

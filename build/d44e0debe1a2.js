@@ -1,0 +1,1 @@
+(function(){var b="d44e0debe1a2",m="# Ezekiel 48:19 (New International Version)\nThe workers from the city who farm it will come from all the tribes of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

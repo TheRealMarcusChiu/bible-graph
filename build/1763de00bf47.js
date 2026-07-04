@@ -1,0 +1,1 @@
+(function(){var b="1763de00bf47",m="# 1 Chronicles 5:16 (New International Version)\nThe Gadites lived in Gilead, in Bashan and its outlying villages, and on all the pasturelands of Sharon as far as they extended.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

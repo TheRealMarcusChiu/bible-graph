@@ -1,0 +1,1 @@
+(function(){var b="806d5688227a",m="# Job 16:5 (New International Version)\nBut my mouth would encourage you;  \n    comfort<sup>^A</sup> from my lips would bring you relief.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-29-25|Job 29:25]]\n- B: S [[Gen-37-35|Ge 37:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

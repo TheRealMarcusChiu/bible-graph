@@ -1,0 +1,1 @@
+(function(){var b="01a867b1bdc3",m="# Psalm 48:11 (New International Version)\nMount Zion rejoices,  \n    the villages of Judah are glad  \n    because of your judgments.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-97-8|Ps 97:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0e96faf0c3a5",m="# Zechariah 12:13 (New International Version)\nthe clan of the house of Levi and their wives, the clan of Shimei and their wives,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

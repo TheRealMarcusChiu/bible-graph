@@ -1,0 +1,1 @@
+(function(){var b="3a55fc365b7d",m="# Nehemiah 6:15 (New International Version)\nSo the wall was completed on the twenty-fifth of Elul, in fifty-two days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

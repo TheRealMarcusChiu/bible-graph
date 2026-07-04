@@ -1,0 +1,1 @@
+(function(){var b="9c681bb55715",m="# Nehemiah 3:28 (New International Version)\nAbove the Horse Gate,<sup>^A</sup> the priests made repairs, each in front of his own house. \n\n### Crossrefs\n- A: S [[2Kgs-11-16|2Ki 11:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

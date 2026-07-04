@@ -1,0 +1,1 @@
+(function(){var b="5e58413f1cc9",m="# Ecclesiastes 2:10 (New International Version)\nI denied myself nothing my eyes desired;  \n    I refused my heart no pleasure.  \nMy heart took delight in all my labor,  \n    and this was the reward for all my toil.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

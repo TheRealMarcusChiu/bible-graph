@@ -1,0 +1,1 @@
+(function(){var b="bae4162ff7e7",m="# 2 Chronicles 4:21 (New International Version)\nthe gold floral work and lamps and tongs (they were solid gold);";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

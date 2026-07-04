@@ -1,0 +1,1 @@
+(function(){var b="9e36b555d27b",m="# Proverbs 30:10 (New International Version)\n\"Do not slander a servant to their master,  \n    or they will curse you, and you will pay for it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

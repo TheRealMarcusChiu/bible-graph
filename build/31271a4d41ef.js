@@ -1,0 +1,1 @@
+(function(){var b="31271a4d41ef",m="# Daniel 6:21 (New International Version)\nDaniel answered, \"May the king live forever!<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Neh-2-3|Ne 2:3]]; [[Dan-3-9|Da 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

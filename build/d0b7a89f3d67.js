@@ -1,0 +1,1 @@
+(function(){var b="d0b7a89f3d67",m="# Psalm 122:7 (New International Version)\nMay there be peace<sup>^A</sup> within your walls  \n    and security within your citadels.<sup>^B</sup>\"\n\n### Crossrefs\n- A: S [[1Sam-25-6|1Sa 25:6]]\n- B: S [[Ps-48-3|Ps 48:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

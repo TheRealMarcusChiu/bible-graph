@@ -1,0 +1,1 @@
+(function(){var b="f7e6765bbb73",m="# Jeremiah 45:2 (New International Version)\n\"This is what the LORD, the God of Israel, says to you, Baruch:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

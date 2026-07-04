@@ -1,0 +1,1 @@
+(function(){var b="68c7d3481115",m="# Proverbs 12:6 (New International Version)\nThe words of the wicked lie in wait for blood,  \n    but the speech of the upright rescues them.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-11-9|Pr 11:9]]; [[Prov-14-3|14:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

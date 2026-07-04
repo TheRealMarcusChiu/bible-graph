@@ -1,0 +1,1 @@
+(function(){var b="935c4c28c712",m="# Esther 3:10 (New International Version)\nSo the king took his signet ring<sup>^A</sup> from his finger and gave it to Haman son of Hammedatha, the Agagite, the enemy of the Jews. \n\n### Crossrefs\n- A: S [[Gen-41-42|Ge 41:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

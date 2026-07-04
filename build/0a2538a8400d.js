@@ -1,0 +1,1 @@
+(function(){var b="0a2538a8400d",m="# 1 Chronicles 6:73 (New International Version)\nRamoth and Anem, together with their pasturelands;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

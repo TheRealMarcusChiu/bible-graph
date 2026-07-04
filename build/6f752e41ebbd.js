@@ -1,0 +1,1 @@
+(function(){var b="6f752e41ebbd",m="# 2 Chronicles 2:13 (New International Version)\n\"I am sending you Huram-Abi,<sup>^A</sup> a man of great skill, \n\n### Crossrefs\n- A: S [[1Kgs-7-13|1Ki 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

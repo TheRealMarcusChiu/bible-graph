@@ -1,0 +1,1 @@
+(function(){var b="cfac3ad5cb1c",m="# Proverbs 29:19 (New International Version)\nServants cannot be corrected by mere words;  \n    though they understand, they will not respond.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

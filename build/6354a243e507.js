@@ -1,0 +1,1 @@
+(function(){var b="6354a243e507",m="# Psalm 78:36 (New International Version)\nBut then they would flatter him with their mouths,<sup>^A</sup>  \n    lying to him with their tongues;\n\n### Crossrefs\n- A: [[Ezek-33-31|Eze 33:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

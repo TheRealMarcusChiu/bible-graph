@@ -1,0 +1,1 @@
+(function(){var b="92e2c6ab3ece",m="# Proverbs 23:17 (New International Version)\nDo not let your heart envy<sup>^A</sup> sinners,  \n    but always be zealous for the fear of the LORD.\n\n### Crossrefs\n- A: S [[Ps-37-1|Ps 37:1]]; S [[Ps-73-3|73:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

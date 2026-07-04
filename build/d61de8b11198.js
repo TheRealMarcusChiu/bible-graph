@@ -1,0 +1,1 @@
+(function(){var b="d61de8b11198",m="# Proverbs 24:18 (New International Version)\nor the LORD will see and disapprove  \n    and turn his wrath away from them.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-31-29|Job 31:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

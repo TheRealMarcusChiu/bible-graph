@@ -1,0 +1,1 @@
+(function(){var b="a7a7cdf6f619",m="# 1 Chronicles 6:80 (New International Version)\nand from the tribe of Gad\nthey received Ramoth in Gilead,<sup>^A</sup> Mahanaim,<sup>^B</sup> \n\n### Crossrefs\n- A: [[Josh-20-8|Jos 20:8]]\n- B: S [[Gen-32-2|Ge 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

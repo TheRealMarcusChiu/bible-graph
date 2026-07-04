@@ -1,0 +1,1 @@
+(function(){var b="983d3d595ae5",m="# 2 Kings 12:6 (New International Version)\nBut by the twenty-third year of King Joash the priests still had not repaired the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

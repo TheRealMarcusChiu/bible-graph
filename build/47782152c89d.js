@@ -1,0 +1,1 @@
+(function(){var b="47782152c89d",m="# Proverbs 19:8 (New International Version)\nThe one who gets wisdom loves life;  \n    the one who cherishes understanding will soon prosper.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-16-20|Pr 16:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

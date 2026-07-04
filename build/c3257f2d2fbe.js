@@ -1,0 +1,1 @@
+(function(){var b="c3257f2d2fbe",m="# Psalm 9:3 (New International Version)\nMy enemies turn back;  \n    they stumble and perish before you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

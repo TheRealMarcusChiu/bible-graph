@@ -1,0 +1,1 @@
+(function(){var b="e7bd15839a1a",m="# Ecclesiastes 6:1 (New International Version)\nI have seen another evil under the sun, and it weighs heavily on mankind:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

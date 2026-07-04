@@ -1,0 +1,1 @@
+(function(){var b="9a5a30e80aa0",m="# 1 Chronicles 2:32 (New International Version)\nThe sons of Jada, Shammai's brother:\nJether and Jonathan. Jether died without children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

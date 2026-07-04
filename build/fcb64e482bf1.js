@@ -1,0 +1,1 @@
+(function(){var b="fcb64e482bf1",m="# Proverbs 22:5 (New International Version)\nIn the paths of the wicked are snares and pitfalls,<sup>^A</sup>  \n    but those who would preserve their life stay far from them.\n\n### Crossrefs\n- A: [[Prov-15-19|Pr 15:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

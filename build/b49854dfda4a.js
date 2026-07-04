@@ -1,0 +1,1 @@
+(function(){var b="b49854dfda4a",m="# Ezekiel 39:16 (New International Version)\nnear a town called Hamonah. And so they will cleanse the land.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

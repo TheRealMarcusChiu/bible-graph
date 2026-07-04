@@ -1,0 +1,1 @@
+(function(){var b="82aaf649e7e7",m="# Isaiah 37:5 (New International Version)\nWhen King Hezekiah's officials came to Isaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

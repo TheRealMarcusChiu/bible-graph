@@ -1,0 +1,1 @@
+(function(){var b="2cbc8ec87fbd",m="# Ezekiel 24:20 (New International Version)\nSo I said to them, \"The word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d1f456a80c1d",m="# Psalm 91:12 (New International Version)\nthey will lift you up in their hands,  \n    so that you will not strike your foot against a stone.<sup>^A</sup>\n\n### Crossrefs\n- A: Mt 4:6*; Lk 4:10-11*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

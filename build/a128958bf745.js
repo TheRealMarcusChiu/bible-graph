@@ -1,0 +1,1 @@
+(function(){var b="a128958bf745",m="# Proverbs 29:8 (New International Version)\nMockers stir up a city,  \n    but the wise turn away anger.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-11-11|Pr 11:11]]; S [[Prov-16-14|16:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

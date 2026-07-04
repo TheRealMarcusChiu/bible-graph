@@ -1,0 +1,1 @@
+(function(){var b="92547e7d0d1d",m="# Ecclesiastes 8:3 (New International Version)\nDo not be in a hurry to leave the king's presence.<sup>^A</sup> Do not stand up for a bad cause, for he will do whatever he pleases. \n\n### Crossrefs\n- A: [[Eccl-10-4|Ecc 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

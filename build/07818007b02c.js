@@ -1,0 +1,1 @@
+(function(){var b="07818007b02c",m="# Job 19:11 (New International Version)\nHis anger<sup>^A</sup> burns against me;  \n    he counts me among his enemies.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-16-9|Job 16:9]]\n- B: S [[Job-13-24|Job 13:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

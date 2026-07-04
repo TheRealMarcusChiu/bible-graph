@@ -1,0 +1,1 @@
+(function(){var b="da6ab65abd7a",m="# Song of Songs 8:8 (New International Version)\nWe have a little sister,  \n    and her breasts are not yet grown.  \nWhat shall we do for our sister  \n    on the day she is spoken for?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c83d110f763d",m="# Proverbs 4:13 (New International Version)\nHold on to instruction, do not let it go;  \n    guard it well, for it is your life.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-3-22|Pr 3:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

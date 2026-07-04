@@ -1,0 +1,1 @@
+(function(){var b="eee4075b47f7",m="# Job 31:20 (New International Version)\nand their hearts did not bless me<sup>^A</sup>  \n    for warming them with the fleece<sup>^B</sup> from my sheep,\n\n### Crossrefs\n- A: [[Job-29-13|Job 29:13]]\n- B: [[Judg-6-37|Jdg 6:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

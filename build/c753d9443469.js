@@ -1,0 +1,1 @@
+(function(){var b="c753d9443469",m="# Ezekiel 18:11 (New International Version)\n(though the father has done none of them):\n\"He eats at the mountain shrines.<sup>^A</sup>  \nHe defiles his neighbor's wife.\n\n### Crossrefs\n- A: [[Ezek-22-9|Eze 22:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

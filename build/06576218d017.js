@@ -1,0 +1,1 @@
+(function(){var b="06576218d017",m="# Psalm 106:3 (New International Version)\nBlessed are those who act justly,<sup>^A</sup>  \n    who always do what is right.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-112-5|Ps 112:5]]; [[Hos-12-6|Hos 12:6]]\n- B: [[Ps-15-2|Ps 15:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

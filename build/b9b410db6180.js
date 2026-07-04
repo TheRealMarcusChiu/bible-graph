@@ -1,0 +1,1 @@
+(function(){var b="b9b410db6180",m="# Proverbs 21:12 (New International Version)\nThe Righteous One takes note of the house of the wicked  \n    and brings the wicked to ruin.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-14-11|Pr 14:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

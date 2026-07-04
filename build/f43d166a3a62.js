@@ -1,0 +1,1 @@
+(function(){var b="f43d166a3a62",m="# Job 28:9 (New International Version)\nPeople assault the flinty rock<sup>^A</sup> with their hands  \n    and lay bare the roots of the mountains.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-8-15|Dt 8:15]]\n- B: [[Jonah-2-6|Jnh 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

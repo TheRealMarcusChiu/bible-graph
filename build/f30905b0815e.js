@@ -1,0 +1,1 @@
+(function(){var b="f30905b0815e",m="# Proverbs 30:27 (New International Version)\nlocusts<sup>^A</sup> have no king,  \n    yet they advance together in ranks;\n\n### Crossrefs\n- A: S [[Exod-10-4|Ex 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

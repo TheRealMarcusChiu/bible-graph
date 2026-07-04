@@ -1,0 +1,1 @@
+(function(){var b="7d6789ff0de5",m="# 2 Kings 4:36 (New International Version)\nElisha summoned Gehazi and said, \"Call the Shunammite.\" And he did. When she came, he said, \"Take your son.\"<sup>^A</sup> \n\n### Crossrefs\n- A: [[Heb-11-35|Heb 11:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

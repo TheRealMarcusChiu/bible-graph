@@ -1,0 +1,1 @@
+(function(){var b="e29d0f848c23",m="# Psalm 107:27 (New International Version)\nThey reeled<sup>^A</sup> and staggered like drunkards;  \n    they were at their wits' end.\n\n### Crossrefs\n- A: [[Isa-19-14|Isa 19:14]]; [[Isa-24-20|24:20]]; [[Isa-28-7|28:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

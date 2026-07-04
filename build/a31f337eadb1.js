@@ -1,0 +1,1 @@
+(function(){var b="a31f337eadb1",m="# Psalm 108:5 (New International Version)\nBe exalted, O God, above the heavens;<sup>^A</sup>  \n    let your glory be over all the earth.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-8-1|Ps 8:1]]\n- B: S [[Ps-57-5|Ps 57:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

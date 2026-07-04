@@ -1,0 +1,1 @@
+(function(){var b="2199cf9c7f85",m="# Job 36:20 (New International Version)\nDo not long for the night,<sup>^A</sup>  \n    to drag people away from their homes.\n\n### Crossrefs\n- A: [[Job-34-20|Job 34:20]], [[Job-34-25|25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

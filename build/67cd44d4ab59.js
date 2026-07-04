@@ -1,0 +1,1 @@
+(function(){var b="67cd44d4ab59",m="# 1 Chronicles 27:22 (New International Version)\nover Dan: Azarel son of Jeroham.\nThese were the leaders of the tribes of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

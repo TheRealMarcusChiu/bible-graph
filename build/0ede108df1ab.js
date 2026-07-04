@@ -1,0 +1,1 @@
+(function(){var b="0ede108df1ab",m="# Psalm 109:4 (New International Version)\nIn return for my friendship they accuse me,  \n    but I am a man of prayer.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-69-13|Ps 69:13]]; [[Ps-141-5|141:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

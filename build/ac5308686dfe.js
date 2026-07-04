@@ -1,0 +1,1 @@
+(function(){var b="ac5308686dfe",m="# Psalm 94:18 (New International Version)\nWhen I said, \"My foot is slipping,<sup>^A</sup>\"  \n    your unfailing love, LORD, supported me.\n\n### Crossrefs\n- A: S [[Deut-32-35|Dt 32:35]]; S [[Job-12-5|Job 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

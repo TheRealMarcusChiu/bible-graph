@@ -1,0 +1,1 @@
+(function(){var b="9258a57e8aff",m="# Psalm 119:76 (New International Version)\nMay your unfailing love<sup>^A</sup> be my comfort,  \n    according to your promise<sup>^B</sup> to your servant.\n\n### Crossrefs\n- A: [[Ps-6-4|Ps 6:4]]\n- B: S [[Ps-119-41|ver 41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

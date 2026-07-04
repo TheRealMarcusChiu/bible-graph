@@ -1,0 +1,1 @@
+(function(){var b="78ae5d75cd43",m="# Ezekiel 21:13 (New International Version)\n\"'Testing will surely come. And what if even the scepter, which the sword despises, does not continue? declares the Sovereign LORD.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

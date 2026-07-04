@@ -1,0 +1,1 @@
+(function(){var b="13daa2af1f5b",m="# Isaiah 3:6 (New International Version)\nA man will seize one of his brothers  \n    in his father's house, and say,  \n\"You have a cloak, you be our leader;  \n    take charge of this heap of ruins!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

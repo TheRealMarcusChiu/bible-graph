@@ -1,0 +1,1 @@
+(function(){var b="dd4a494cbc81",m="# Lamentations 3:51 (New International Version)\nWhat I see brings grief to my soul  \n    because of all the women of my city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

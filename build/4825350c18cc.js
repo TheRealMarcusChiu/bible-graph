@@ -1,0 +1,1 @@
+(function(){var b="4825350c18cc",m="# 1 Chronicles 23:10 (New International Version)\nAnd the sons of Shimei:\nJahath, Ziza, Jeush and Beriah.\nThese were the sons of Shimei--four in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

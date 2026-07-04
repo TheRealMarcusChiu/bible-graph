@@ -1,0 +1,1 @@
+(function(){var b="a91575bfc9c9",m="# Habakkuk 3:15 (New International Version)\nYou trampled the sea<sup>^A</sup> with your horses,  \n    churning the great waters.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-9-8|Job 9:8]]\n- B: [[Exod-15-8|Ex 15:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

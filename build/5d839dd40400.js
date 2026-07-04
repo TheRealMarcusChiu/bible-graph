@@ -1,0 +1,1 @@
+(function(){var b="5d839dd40400",m="# 2 Chronicles 13:22 (New International Version)\nThe other events of Abijah's reign, what he did and what he said, are written in the annotations of the prophet Iddo.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

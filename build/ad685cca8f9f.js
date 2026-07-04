@@ -1,0 +1,1 @@
+(function(){var b="ad685cca8f9f",m="# 2 Chronicles 11:2 (New International Version)\nBut this word of the LORD came to Shemaiah<sup>^A</sup> the man of God: \n\n### Crossrefs\n- A: S [[1Kgs-12-22|1Ki 12:22]]; [[2Chr-12-5|2Ch 12:5-7]], [[2Chr-12-15|15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

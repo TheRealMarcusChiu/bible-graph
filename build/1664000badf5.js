@@ -1,0 +1,1 @@
+(function(){var b="1664000badf5",m="# Psalm 106:35 (New International Version)\nbut they mingled<sup>^A</sup> with the nations  \n    and adopted their customs.\n\n### Crossrefs\n- A: [[Judg-3-5|Jdg 3:5-6]]; [[Ezra-9-1|Ezr 9:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

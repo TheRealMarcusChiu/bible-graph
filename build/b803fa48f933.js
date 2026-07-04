@@ -1,0 +1,1 @@
+(function(){var b="b803fa48f933",m="# Psalm 107:37 (New International Version)\nThey sowed fields and planted vineyards<sup>^A</sup>  \n    that yielded a fruitful harvest;\n\n### Crossrefs\n- A: S [[2Kgs-19-29|2Ki 19:29]]; S [[Isa-37-30|Isa 37:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

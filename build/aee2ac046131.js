@@ -1,0 +1,1 @@
+(function(){var b="aee2ac046131",m="# Ezra 10:20 (New International Version)\nFrom the descendants of Immer:<sup>^A</sup>\nHanani and Zebadiah.\n\n### Crossrefs\n- A: S [[1Chr-24-14|1Ch 24:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

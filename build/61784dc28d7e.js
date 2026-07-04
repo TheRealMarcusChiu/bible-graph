@@ -1,0 +1,1 @@
+(function(){var b="61784dc28d7e",m="# Job 15:26 (New International Version)\ndefiantly charging against him  \n    with a thick, strong shield.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-44-16|Jer 44:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

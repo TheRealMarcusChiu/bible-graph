@@ -1,0 +1,1 @@
+(function(){var b="c09aaf0e2f2b",m="# 2 Chronicles 24:3 (New International Version)\nJehoiada chose two wives for him, and he had sons and daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

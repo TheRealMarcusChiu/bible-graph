@@ -1,0 +1,1 @@
+(function(){var b="b285978a6635",m="# 2 Chronicles 17:12 (New International Version)\nJehoshaphat became more and more powerful; he built forts and store cities in Judah";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="29934338cb84",m="# Job 20:12 (New International Version)\n\"Though evil<sup>^A</sup> is sweet in his mouth  \n    and he hides it under his tongue,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-15-16|Job 15:16]]\n- B: [[Ps-10-7|Ps 10:7]]; [[Ps-140-3|140:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="83e2228c8edc",m="# 1 Chronicles 26:23 (New International Version)\nFrom the Amramites, the Izharites, the Hebronites and the Uzzielites:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-3-27|Nu 3:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

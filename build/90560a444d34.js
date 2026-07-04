@@ -1,0 +1,1 @@
+(function(){var b="90560a444d34",m="# Psalm 14:5 (New International Version)\nBut there they are, overwhelmed with dread,  \n    for God is present in the company of the righteous.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

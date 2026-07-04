@@ -1,0 +1,1 @@
+(function(){var b="c786e4852d34",m="# Song of Songs 8:9 (New International Version)\nIf she is a wall,  \n    we will build towers of silver on her.  \nIf she is a door,  \n    we will enclose her with panels of cedar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

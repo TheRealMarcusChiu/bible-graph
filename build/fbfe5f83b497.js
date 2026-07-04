@@ -1,0 +1,1 @@
+(function(){var b="fbfe5f83b497",m="# Psalm 119:50 (New International Version)\nMy comfort in my suffering is this:  \n    Your promise preserves my life.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-119-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="68bc4582eef2",m="# Esther 6:5 (New International Version)\nHis attendants answered, \"Haman is standing in the court.\"\n\"Bring him in,\" the king ordered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

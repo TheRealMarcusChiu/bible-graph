@@ -1,0 +1,1 @@
+(function(){var b="4c8d4abed531",m="# Proverbs 28:14 (New International Version)\nBlessed is the one who always trembles before God,  \n    but whoever hardens their heart falls into trouble.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

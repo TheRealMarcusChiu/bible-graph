@@ -1,0 +1,1 @@
+(function(){var b="95fa9d6fc43c",m="# Esther 9:17 (New International Version)\nThis happened on the thirteenth day of the month of Adar, and on the fourteenth they rested and made it a day of feasting<sup>^A</sup> and joy.\n\n### Crossrefs\n- A: S [[1Kgs-3-15|1Ki 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

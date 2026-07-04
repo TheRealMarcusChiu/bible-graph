@@ -1,0 +1,1 @@
+(function(){var b="7a296eec0521",m="# Psalm 109:9 (New International Version)\nMay his children be fatherless  \n    and his wife a widow.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-22-24|Ex 22:24]]; [[Jer-18-21|Jer 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

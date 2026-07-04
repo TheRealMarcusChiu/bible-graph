@@ -1,0 +1,1 @@
+(function(){var b="b99646b97311",m="# Psalm 105:35 (New International Version)\nthey ate up every green thing in their land,  \n    ate up the produce of their soil.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ee74f8d1b8be",m="# Proverbs 24:27 (New International Version)\nPut your outdoor work in order  \n    and get your fields ready;  \n    after that, build your house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

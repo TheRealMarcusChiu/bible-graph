@@ -1,0 +1,1 @@
+(function(){var b="966a6ef42408",m="# Ecclesiastes 9:16 (New International Version)\nSo I said, \"Wisdom is better than strength.\" But the poor man's wisdom is despised, and his words are no longer heeded.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Esth-6-3|Est 6:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ce427aee28c0",m="# Psalm 106:11 (New International Version)\nThe waters covered<sup>^A</sup> their adversaries;  \n    not one of them survived.\n\n### Crossrefs\n- A: S [[Exod-14-28|Ex 14:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

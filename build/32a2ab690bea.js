@@ -1,0 +1,1 @@
+(function(){var b="32a2ab690bea",m="# Jeremiah 25:37 (New International Version)\nThe peaceful meadows will be laid waste  \n    because of the fierce anger of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

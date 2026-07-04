@@ -1,0 +1,1 @@
+(function(){var b="19d43ea4f0a4",m="# Hosea 12:5 (New International Version)\nthe LORD God Almighty,  \n    the LORD is his name!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-3-15|Ex 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

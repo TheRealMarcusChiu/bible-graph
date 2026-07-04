@@ -1,0 +1,1 @@
+(function(){var b="806526859270",m="# 1 Chronicles 6:28 (New International Version)\nThe sons of Samuel:\nJoel<sup>^A</sup> the firstborn\nand Abijah the second son.\n\n### Crossrefs\n- A: [[1Chr-6-33|ver 33]]; [[1Sam-8-2|1Sa 8:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1d8eaff75f28",m="# Ezekiel 8:8 (New International Version)\nHe said to me, \"Son of man, now dig into the wall.\" So I dug into the wall and saw a doorway there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

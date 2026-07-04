@@ -1,0 +1,1 @@
+(function(){var b="5dc12d4b5e10",m="# 2 Kings 6:1 (New International Version)\nAn Axhead Floats\nThe company<sup>^A</sup> of the prophets said to Elisha, \"Look, the place where we meet with you is too small for us. \n\n### Crossrefs\n- A: S [[1Sam-10-5|1Sa 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5e59f61937c7",m="# Proverbs 29:15 (New International Version)\nA rod and a reprimand impart wisdom,  \n    but a child left undisciplined disgraces its mother.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-29-17|ver 17]]; S [[Prov-13-24|Pr 13:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

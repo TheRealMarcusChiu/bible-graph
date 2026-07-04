@@ -1,0 +1,1 @@
+(function(){var b="6a1a222f6b94",m="# Ecclesiastes 7:5 (New International Version)\nIt is better to heed the rebuke<sup>^A</sup> of a wise person  \n    than to listen to the song of fools.\n\n### Crossrefs\n- A: S [[Prov-13-18|Pr 13:18]]; [[Prov-15-31|15:31-32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

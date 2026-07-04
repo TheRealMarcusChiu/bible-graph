@@ -1,0 +1,1 @@
+(function(){var b="ba7493004419",m="# Psalm 29:4 (New International Version)\nThe voice of the LORD is powerful;<sup>^A</sup>  \n    the voice of the LORD is majestic.\n\n### Crossrefs\n- A: [[Ps-68-33|Ps 68:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

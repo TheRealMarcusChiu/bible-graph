@@ -1,0 +1,1 @@
+(function(){var b="2672f73cfc9e",m="# 2 Chronicles 25:28 (New International Version)\nHe was brought back by horse and was buried with his ancestors in the City of Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

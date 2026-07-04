@@ -1,0 +1,1 @@
+(function(){var b="e9e662cfa086",m="# Song of Songs 2:5 (New International Version)\nStrengthen me with raisins,  \n    refresh me with apples,<sup>^A</sup>  \n    for I am faint with love.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Song-7-8|SS 7:8]]\n- B: [[Song-5-8|SS 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

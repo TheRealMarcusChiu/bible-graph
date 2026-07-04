@@ -1,0 +1,1 @@
+(function(){var b="5988cb4a4b4e",m="# Job 39:5 (New International Version)\n\"Who let the wild donkey<sup>^A</sup> go free?  \n    Who untied its ropes?\n\n### Crossrefs\n- A: S [[Gen-16-12|Ge 16:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

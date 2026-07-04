@@ -1,0 +1,1 @@
+(function(){var b="1b3efbd862a6",m="# Job 37:15 (New International Version)\nDo you know how God controls the clouds  \n    and makes his lightning<sup>^A</sup> flash?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-36-30|Job 36:30]]\n- B: S [[Job-36-32|Job 36:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

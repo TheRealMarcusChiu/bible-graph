@@ -1,0 +1,1 @@
+(function(){var b="b84536d71fe5",m="# 1 Chronicles 15:23 (New International Version)\nBerekiah and Elkanah were to be doorkeepers for the ark.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

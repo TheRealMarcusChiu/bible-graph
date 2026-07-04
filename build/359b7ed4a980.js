@@ -1,0 +1,1 @@
+(function(){var b="359b7ed4a980",m="# Ezekiel 37:2 (New International Version)\nHe led me back and forth among them, and I saw a great many bones on the floor of the valley, bones that were very dry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

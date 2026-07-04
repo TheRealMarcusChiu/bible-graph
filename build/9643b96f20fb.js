@@ -1,0 +1,1 @@
+(function(){var b="9643b96f20fb",m="# Ezekiel 39:22 (New International Version)\nFrom that day forward the people of Israel will know that I am the LORD their God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

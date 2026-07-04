@@ -1,0 +1,1 @@
+(function(){var b="9999969a89f0",m="# Psalm 119:155 (New International Version)\nSalvation is far from the wicked,  \n    for they do not seek out<sup>^A</sup> your decrees.\n\n### Crossrefs\n- A: [[Ps-119-94|ver 94]], [[Ps-119-118|118]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

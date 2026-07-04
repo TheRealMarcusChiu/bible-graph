@@ -1,0 +1,1 @@
+(function(){var b="e8df33bc1219",m="# Psalm 58:6 (New International Version)\nBreak the teeth in their mouths, O God;<sup>^A</sup>  \n    LORD, tear out the fangs of those lions!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-3-7|Ps 3:7]]\n- B: S [[Job-4-10|Job 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

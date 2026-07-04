@@ -1,0 +1,1 @@
+(function(){var b="736fc37e5035",m="# 1 Chronicles 11:21 (New International Version)\nHe was doubly honored above the Three and became their commander, even though he was not included among them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

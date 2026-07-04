@@ -1,0 +1,1 @@
+(function(){var b="7dfb7a1e541a",m="# Proverbs 26:18 (New International Version)\nLike a maniac shooting  \n    flaming arrows of death";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

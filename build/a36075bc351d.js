@@ -1,0 +1,1 @@
+(function(){var b="a36075bc351d",m="# Psalm 119:143 (New International Version)\nTrouble and distress have come upon me,  \n    but your commands give me delight.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-24|ver 24]],S [[Ps-119-47|47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

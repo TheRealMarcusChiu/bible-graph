@@ -1,0 +1,1 @@
+(function(){var b="b71b13f6ae4b",m="# 2 Kings 12:2 (New International Version)\nJoash did what was right<sup>^A</sup> in the eyes of the LORD all the years Jehoiada the priest instructed him. \n\n### Crossrefs\n- A: S [[Deut-12-25|Dt 12:25]]; S [[2Sam-8-15|2Sa 8:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

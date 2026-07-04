@@ -1,0 +1,1 @@
+(function(){var b="9db0f3bfbd7e",m="# Proverbs 25:6 (New International Version)\nDo not exalt yourself in the king's presence,  \n    and do not claim a place among his great men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

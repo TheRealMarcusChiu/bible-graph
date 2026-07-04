@@ -1,0 +1,1 @@
+(function(){var b="b66c5a24a51e",m="# Esther 9:11 (New International Version)\nThe number of those killed in the citadel of Susa was reported to the king that same day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

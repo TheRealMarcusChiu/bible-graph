@@ -1,0 +1,1 @@
+(function(){var b="5f7952f90479",m="# Ezekiel 1:23 (New International Version)\nUnder the vault their wings were stretched out one toward the other, and each had two wings covering its body.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

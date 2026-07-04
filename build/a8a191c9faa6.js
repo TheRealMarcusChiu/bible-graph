@@ -1,0 +1,1 @@
+(function(){var b="a8a191c9faa6",m="# Isaiah 62:3 (New International Version)\nYou will be a crown<sup>^A</sup> of splendor in the LORD's hand,  \n    a royal diadem in the hand of your God.\n\n### Crossrefs\n- A: S [[Isa-28-5|Isa 28:5]]; [[1Thess-2-19|1Th 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

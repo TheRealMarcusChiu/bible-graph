@@ -1,0 +1,1 @@
+(function(){var b="3a2464fcc457",m="# Nehemiah 12:16 (New International Version)\nof Iddo's,<sup>^A</sup> Zechariah;\nof Ginnethon's, Meshullam;\n\n### Crossrefs\n- A: S [[Neh-12-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

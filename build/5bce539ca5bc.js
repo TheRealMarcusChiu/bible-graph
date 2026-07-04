@@ -1,0 +1,1 @@
+(function(){var b="5bce539ca5bc",m="# Job 19:20 (New International Version)\nI am nothing but skin and bones;<sup>^A</sup>  \n    I have escaped only by the skin of my teeth.\n\n### Crossrefs\n- A: S [[Job-2-5|Job 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

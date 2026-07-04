@@ -1,0 +1,1 @@
+(function(){var b="9c8ce80c62d2",m="# 2 Kings 16:16 (New International Version)\nAnd Uriah the priest did just as King Ahaz had ordered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

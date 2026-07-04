@@ -1,0 +1,1 @@
+(function(){var b="4a4d783ca382",m="# Proverbs 29:20 (New International Version)\nDo you see someone who speaks in haste?  \n    There is more hope for a fool than for them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-2|Pr 19:2]]; [[Prov-26-12|26:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

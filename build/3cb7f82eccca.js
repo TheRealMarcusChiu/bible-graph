@@ -1,0 +1,1 @@
+(function(){var b="3cb7f82eccca",m="# Habakkuk 2:12 (New International Version)\n\"Woe to him who builds a city with bloodshed<sup>^A</sup>  \n    and establishes a town by injustice!\n\n### Crossrefs\n- A: S [[Ezek-22-2|Eze 22:2]]; S [[Mic-3-10|Mic 3:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

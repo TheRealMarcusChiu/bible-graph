@@ -1,0 +1,1 @@
+(function(){var b="6fc5a07557ad",m="# Psalm 7:4 (New International Version)\nif I have repaid my ally with evil  \n    or without cause<sup>^A</sup> have robbed my foe--\n\n### Crossrefs\n- A: [[Ps-35-7|Ps 35:7]], [[Ps-35-19|19]]; [[Prov-24-28|Pr 24:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ae3a31c03f33",m="# Lamentations 3:10 (New International Version)\nLike a bear lying in wait,  \n    like a lion<sup>^A</sup> in hiding,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-10-16|Job 10:16]]\n- B: [[Hos-13-8|Hos 13:8]]; [[Amos-5-18|Am 5:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

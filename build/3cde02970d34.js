@@ -1,0 +1,1 @@
+(function(){var b="3cde02970d34",m="# Song of Songs 1:13 (New International Version)\nMy beloved is to me a sachet of myrrh<sup>^A</sup>  \n    resting between my breasts.\n\n### Crossrefs\n- A: S [[Gen-37-25|Ge 37:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

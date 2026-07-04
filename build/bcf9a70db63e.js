@@ -1,0 +1,1 @@
+(function(){var b="bcf9a70db63e",m="# 1 Chronicles 23:8 (New International Version)\nThe sons of Ladan:\nJehiel the first, Zetham and Joel--three in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

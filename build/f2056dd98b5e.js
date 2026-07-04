@@ -1,0 +1,1 @@
+(function(){var b="f2056dd98b5e",m="# Proverbs 23:27 (New International Version)\nfor an adulterous woman is a deep pit,<sup>^A</sup>  \n    and a wayward wife is a narrow well.\n\n### Crossrefs\n- A: S [[Prov-22-14|Pr 22:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

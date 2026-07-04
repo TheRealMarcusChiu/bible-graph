@@ -1,0 +1,1 @@
+(function(){var b="29197046cacf",m="# 1 Chronicles 15:7 (New International Version)\nfrom the descendants of Gershon,\nJoel the leader and 130 relatives;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

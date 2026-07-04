@@ -1,0 +1,1 @@
+(function(){var b="ca2f9c7e5e8b",m="# 2 Kings 4:4 (New International Version)\nThen go inside and shut the door behind you and your sons. Pour oil into all the jars, and as each is filled, put it to one side.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="93ae5e8ffbce",m="# Ezekiel 39:19 (New International Version)\nAt the sacrifice<sup>^A</sup> I am preparing for you, you will eat fat till you are glutted and drink blood till you are drunk. \n\n### Crossrefs\n- A: S [[Lev-3-9|Lev 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

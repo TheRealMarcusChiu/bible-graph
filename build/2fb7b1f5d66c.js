@@ -1,0 +1,1 @@
+(function(){var b="2fb7b1f5d66c",m="# 1 Chronicles 1:4 (New International Version)\nThe sons of Noah:<sup>^A</sup>\nShem, Ham and Japheth.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Gen-6-10|Ge 6:10]]; [[Gen-10-1|10:1]]\n- B: S [[Gen-5-32|Ge 5:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

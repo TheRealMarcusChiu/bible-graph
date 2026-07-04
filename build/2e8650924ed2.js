@@ -1,0 +1,1 @@
+(function(){var b="2e8650924ed2",m="# Ezekiel 12:5 (New International Version)\nWhile they watch, dig through the wall<sup>^A</sup> and take your belongings out through it. \n\n### Crossrefs\n- A: [[Jer-52-7|Jer 52:7]]; [[Amos-4-3|Am 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

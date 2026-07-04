@@ -1,0 +1,1 @@
+(function(){var b="b077621e7922",m="# Psalm 98:7 (New International Version)\nLet the sea<sup>^A</sup> resound, and everything in it,  \n    the world, and all who live in it.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-93-3|Ps 93:3]]\n- B: S [[Ps-24-1|Ps 24:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

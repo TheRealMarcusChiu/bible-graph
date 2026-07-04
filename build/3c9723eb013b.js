@@ -1,0 +1,1 @@
+(function(){var b="3c9723eb013b",m="# 2 Kings 4:26 (New International Version)\nRun to meet her and ask her, 'Are you all right? Is your husband all right? Is your child all right?'\"\n\"Everything is all right,\" she said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

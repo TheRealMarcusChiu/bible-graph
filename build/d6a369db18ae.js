@@ -1,0 +1,1 @@
+(function(){var b="d6a369db18ae",m="# Nehemiah 10:24 (New International Version)\nHallohesh, Pilha, Shobek,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

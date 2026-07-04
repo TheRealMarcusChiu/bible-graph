@@ -1,0 +1,1 @@
+(function(){var b="ab28fc8c5672",m="# 2 Chronicles 18:15 (New International Version)\nThe king said to him, \"How many times must I make you swear to tell me nothing but the truth in the name of the LORD?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

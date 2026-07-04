@@ -1,0 +1,1 @@
+(function(){var b="313d735b48e5",m="# Proverbs 10:10 (New International Version)\nWhoever winks maliciously<sup>^A</sup> causes grief,  \n    and a chattering fool comes to ruin.\n\n### Crossrefs\n- A: S [[Ps-35-19|Ps 35:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

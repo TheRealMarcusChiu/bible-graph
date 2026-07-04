@@ -1,0 +1,1 @@
+(function(){var b="a8fb91d6ceae",m="# 2 Kings 10\n\nThe kings of divided Israel and Judah down to the fall of Samaria and the exile to Babylon, with the ministry of Elisha.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

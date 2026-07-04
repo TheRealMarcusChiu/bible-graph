@@ -1,0 +1,1 @@
+(function(){var b="5b0d0bc0544e",m="# Jeremiah 31:26 (New International Version)\nAt this I awoke<sup>^A</sup> and looked around. My sleep had been pleasant to me.\n\n### Crossrefs\n- A: [[Zech-4-1|Zec 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

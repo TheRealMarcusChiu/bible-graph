@@ -1,0 +1,1 @@
+(function(){var b="eaba8331ad66",m="# Psalm 91:14 (New International Version)\n\"Because he loves me,\" says the LORD, \"I will rescue him;  \n    I will protect him, for he acknowledges my name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

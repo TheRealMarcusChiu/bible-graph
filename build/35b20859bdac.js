@@ -1,0 +1,1 @@
+(function(){var b="35b20859bdac",m="# Ezekiel 48:12 (New International Version)\nIt will be a special gift to them from the sacred portion of the land, a most holy portion, bordering the territory of the Levites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

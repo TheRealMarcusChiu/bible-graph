@@ -1,0 +1,1 @@
+(function(){var b="b112367c5880",m="# Ezekiel 42:16 (New International Version)\nHe measured the east side with the measuring rod; it was five hundred cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

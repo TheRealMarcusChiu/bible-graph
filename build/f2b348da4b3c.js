@@ -1,0 +1,1 @@
+(function(){var b="f2b348da4b3c",m="# Zechariah 6:3 (New International Version)\nthe third white,<sup>^A</sup> and the fourth dappled--all of them powerful. \n\n### Crossrefs\n- A: [[Rev-6-2|Rev 6:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

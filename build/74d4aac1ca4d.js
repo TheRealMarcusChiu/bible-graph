@@ -1,0 +1,1 @@
+(function(){var b="74d4aac1ca4d",m="# Psalm 22:10 (New International Version)\nFrom birth<sup>^A</sup> I was cast on you;  \n    from my mother's womb you have been my God.\n\n### Crossrefs\n- A: [[Ps-71-6|Ps 71:6]]; [[Isa-46-3|Isa 46:3]]; [[Isa-49-1|49:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

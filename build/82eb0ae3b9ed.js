@@ -1,0 +1,1 @@
+(function(){var b="82eb0ae3b9ed",m="# Psalm 140:11 (New International Version)\nMay slanderers not be established in the land;  \n    may disaster hunt down the violent.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-34-21|Ps 34:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

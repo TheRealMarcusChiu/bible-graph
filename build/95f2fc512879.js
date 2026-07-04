@@ -1,0 +1,1 @@
+(function(){var b="95f2fc512879",m="# Psalm 110:7 (New International Version)\nHe will drink from a brook along the way,  \n    and so he will lift his head high.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-3-3|Ps 3:3]]; [[Ps-27-6|27:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

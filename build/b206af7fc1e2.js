@@ -1,0 +1,1 @@
+(function(){var b="b206af7fc1e2",m="# 2 Chronicles 9:22 (New International Version)\nKing Solomon was greater in riches and wisdom than all the other kings of the earth.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-3-13|1Ki 3:13]]; S [[2Chr-1-12|2Ch 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

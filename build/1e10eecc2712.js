@@ -1,0 +1,1 @@
+(function(){var b="1e10eecc2712",m="# Proverbs 21:25 (New International Version)\nThe craving of a sluggard will be the death of him,<sup>^A</sup>  \n    because his hands refuse to work.\n\n### Crossrefs\n- A: [[Prov-13-4|Pr 13:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

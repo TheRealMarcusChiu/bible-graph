@@ -1,0 +1,1 @@
+(function(){var b="e18e115211a7",m="# Ezra 4:16 (New International Version)\nWe inform the king that if this city is built and its walls are restored, you will be left with nothing in Trans-Euphrates.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

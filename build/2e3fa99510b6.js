@@ -1,0 +1,1 @@
+(function(){var b="2e3fa99510b6",m="# Psalm 55:13 (New International Version)\nBut it is you, a man like myself,  \n    my companion, my close friend,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-15-12|2Sa 15:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

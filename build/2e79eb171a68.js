@@ -1,0 +1,1 @@
+(function(){var b="2e79eb171a68",m="# Jeremiah 28:2 (New International Version)\n\"This is what the LORD Almighty, the God of Israel, says: 'I will break the yoke<sup>^A</sup> of the king of Babylon. \n\n### Crossrefs\n- A: [[Jer-27-12|Jer 27:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c0295fa8b95c",m="# 2 Chronicles 22:2 (New International Version)\nAhaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother's name was Athaliah, a granddaughter of Omri.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

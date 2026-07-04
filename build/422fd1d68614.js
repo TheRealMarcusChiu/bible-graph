@@ -1,0 +1,1 @@
+(function(){var b="422fd1d68614",m="# Psalm 10:15 (New International Version)\nBreak the arm of the wicked man;<sup>^A</sup>  \n    call the evildoer to account for his wickedness  \n    that would not otherwise be found out.\n\n### Crossrefs\n- A: S [[Job-31-22|Job 31:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

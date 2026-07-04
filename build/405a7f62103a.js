@@ -1,0 +1,1 @@
+(function(){var b="405a7f62103a",m="# Jeremiah 1:11 (New International Version)\nThe word of the LORD came to me: \"What do you see, Jeremiah?\"<sup>^A</sup>\n\"I see the branch of an almond tree,\" I replied.\n\n### Crossrefs\n- A: [[Jer-24-3|Jer 24:3]]; [[Amos-7-8|Am 7:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

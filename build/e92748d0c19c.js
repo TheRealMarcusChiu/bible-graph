@@ -1,0 +1,1 @@
+(function(){var b="e92748d0c19c",m="# Ezra 1:11 (New International Version)\nIn all, there were 5,400 articles of gold and of silver. Sheshbazzar brought all these along with the exiles when they came up from Babylon to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

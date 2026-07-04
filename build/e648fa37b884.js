@@ -1,0 +1,1 @@
+(function(){var b="e648fa37b884",m="# 1 Chronicles 16:17 (New International Version)\nHe confirmed it to Jacob<sup>^A</sup> as a decree,  \n    to Israel as an everlasting covenant:\n\n### Crossrefs\n- A: [[Gen-35-9|Ge 35:9-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

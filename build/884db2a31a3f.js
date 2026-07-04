@@ -1,0 +1,1 @@
+(function(){var b="884db2a31a3f",m="# Job 17:5 (New International Version)\nIf anyone denounces their friends for reward,<sup>^A</sup>  \n    the eyes of their children will fail.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-22-15|Ex 22:15]]\n- B: S [[Job-11-20|Job 11:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

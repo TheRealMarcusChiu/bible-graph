@@ -1,0 +1,1 @@
+(function(){var b="bb9f08bcecf9",m="# Job 15:19 (New International Version)\n(to whom alone the land<sup>^A</sup> was given  \n    when no foreigners moved among them):\n\n### Crossrefs\n- A: [[Gen-12-1|Ge 12:1]]; [[Job-22-8|Job 22:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

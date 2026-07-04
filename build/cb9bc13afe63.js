@@ -1,0 +1,1 @@
+(function(){var b="cb9bc13afe63",m="# Proverbs 23:2 (New International Version)\nand put a knife to your throat  \n    if you are given to gluttony.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

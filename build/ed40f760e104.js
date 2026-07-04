@@ -1,0 +1,1 @@
+(function(){var b="ed40f760e104",m="# Psalm 88:10 (New International Version)\nDo you show your wonders to the dead?  \n    Do their spirits rise up and praise you?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-6-5|Ps 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

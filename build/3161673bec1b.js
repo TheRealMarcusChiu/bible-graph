@@ -1,0 +1,1 @@
+(function(){var b="3161673bec1b",m="# Proverbs 21:22 (New International Version)\nOne who is wise can go up against the city of the mighty<sup>^A</sup>  \n    and pull down the stronghold in which they trust.\n\n### Crossrefs\n- A: S [[Prov-8-14|Pr 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

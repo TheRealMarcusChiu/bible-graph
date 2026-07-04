@@ -1,0 +1,1 @@
+(function(){var b="4c07276aadef",m="# Proverbs 3:31 (New International Version)\nDo not envy<sup>^A</sup> the violent  \n    or choose any of their ways.\n\n### Crossrefs\n- A: S [[Ps-37-1|Ps 37:1]]; [[Prov-24-1|Pr 24:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

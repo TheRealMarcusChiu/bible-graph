@@ -1,0 +1,1 @@
+(function(){var b="0b5896ac0aab",m="# 1 Chronicles 15:5 (New International Version)\nFrom the descendants of Kohath,\nUriel<sup>^A</sup> the leader and 120 relatives;\n\n### Crossrefs\n- A: [[1Chr-6-24|1Ch 6:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

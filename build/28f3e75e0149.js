@@ -1,0 +1,1 @@
+(function(){var b="28f3e75e0149",m="# 2 Chronicles 21:18 (New International Version)\nAfter all this, the LORD afflicted Jehoram with an incurable disease of the bowels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

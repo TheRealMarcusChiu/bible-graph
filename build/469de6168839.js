@@ -1,0 +1,1 @@
+(function(){var b="469de6168839",m="# Ecclesiastes 5:9 (New International Version)\nThe increase from the land is taken by all; the king himself profits from the fields.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

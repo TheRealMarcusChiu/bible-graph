@@ -1,0 +1,1 @@
+(function(){var b="eab11b955b97",m="# Lamentations 5:20 (New International Version)\nWhy do you always forget us?<sup>^A</sup>  \n    Why do you forsake<sup>^B</sup> us so long?\n\n### Crossrefs\n- A: S [[Ps-13-1|Ps 13:1]]; [[Ps-44-24|44:24]]\n- B: S [[Ps-71-11|Ps 71:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e678ad01f7d8",m="# Psalm 48:4 (New International Version)\nWhen the kings joined forces,  \n    when they advanced together,<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-10-1|2Sa 10:1-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

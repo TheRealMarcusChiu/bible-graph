@@ -1,0 +1,1 @@
+(function(){var b="5fbb7096efa3",m="# 1 Chronicles 26:7 (New International Version)\nThe sons of Shemaiah: Othni, Rephael, Obed and Elzabad; his relatives Elihu and Semakiah were also able men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b638e5d07b9",m="# Ecclesiastes 3:16 (New International Version)\nAnd I saw something else under the sun:\nIn the place of judgment--wickedness was there,  \n    in the place of justice--wickedness was there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

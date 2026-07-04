@@ -1,0 +1,1 @@
+(function(){var b="08471626f553",m="# Psalm 30:7 (New International Version)\nLORD, when you favored me,  \n    you made my royal mountain stand firm;  \nbut when you hid your face,<sup>^A</sup>  \n    I was dismayed.\n\n### Crossrefs\n- A: S [[Deut-31-17|Dt 31:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

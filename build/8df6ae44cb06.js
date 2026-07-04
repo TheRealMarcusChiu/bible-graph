@@ -1,0 +1,1 @@
+(function(){var b="8df6ae44cb06",m="# Psalm 45:1 (New International Version)\nPsalm 45\nMy heart is stirred by a noble theme  \n    as I recite my verses for the king;  \n    my tongue is the pen of a skillful writer.\n\n### Crossrefs\n- A: [[Song-1-1|SS 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

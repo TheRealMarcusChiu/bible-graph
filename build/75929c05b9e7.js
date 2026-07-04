@@ -1,0 +1,1 @@
+(function(){var b="75929c05b9e7",m="# Job 34:14 (New International Version)\nIf it were his intention  \n    and he withdrew his spirit<sup>^A</sup> and breath,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-6-3|Ge 6:3]]\n- B: S [[Num-16-22|Nu 16:22]]; S [[Job-27-3|Job 27:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4fea715341b5",m="# Psalm 83:8 (New International Version)\nEven Assyria<sup>^A</sup> has joined them  \n    to reinforce Lot's descendants.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-10-11|Ge 10:11]]\n- B: S [[Deut-2-9|Dt 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

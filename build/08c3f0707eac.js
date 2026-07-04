@@ -1,0 +1,1 @@
+(function(){var b="08c3f0707eac",m="# Lamentations 5:9 (New International Version)\nWe get our bread at the risk of our lives  \n    because of the sword in the desert.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

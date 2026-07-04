@@ -1,0 +1,1 @@
+(function(){var b="c5444b065da2",m="# Psalm 123:4 (New International Version)\nWe have endured no end  \n    of ridicule from the arrogant,  \n    of contempt from the proud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

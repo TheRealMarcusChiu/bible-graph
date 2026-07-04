@@ -1,0 +1,1 @@
+(function(){var b="f3ec15b45fcf",m="# Psalm 35:6 (New International Version)\nmay their path be dark and slippery,  \n    with the angel of the LORD pursuing them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

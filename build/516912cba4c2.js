@@ -1,0 +1,1 @@
+(function(){var b="516912cba4c2",m="# Proverbs 21:31 (New International Version)\nThe horse is made ready for the day of battle,  \n    but victory rests with the LORD.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-33-12|Ps 33:12-19]]; [[Isa-31-1|Isa 31:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

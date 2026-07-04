@@ -1,0 +1,1 @@
+(function(){var b="a980d31ea0ab",m="# Ezra 10:17 (New International Version)\nand by the first day of the first month they finished dealing with all the men who had married foreign women.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

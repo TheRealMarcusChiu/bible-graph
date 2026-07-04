@@ -1,0 +1,1 @@
+(function(){var b="e5bfd525fb60",m="# Psalm 62:5 (New International Version)\nYes, my soul, find rest in God;<sup>^A</sup>  \n    my hope comes from him.\n\n### Crossrefs\n- A: [[Ps-62-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

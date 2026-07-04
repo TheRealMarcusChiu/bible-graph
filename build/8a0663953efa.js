@@ -1,0 +1,1 @@
+(function(){var b="8a0663953efa",m="# Lamentations 3:62 (New International Version)\nwhat my enemies whisper and mutter  \n    against me all day long.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-36-3|Eze 36:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

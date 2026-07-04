@@ -1,0 +1,1 @@
+(function(){var b="b57276b776e6",m="# Ezekiel 41:13 (New International Version)\nThen he measured the temple; it was a hundred cubits long, and the temple courtyard and the building with its walls were also a hundred cubits long.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

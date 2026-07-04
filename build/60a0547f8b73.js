@@ -1,0 +1,1 @@
+(function(){var b="60a0547f8b73",m="# Job 34:5 (New International Version)\n\"Job says, 'I am innocent,<sup>^A</sup>  \n    but God denies me justice.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-10-7|Job 10:7]]\n- B: S [[Job-6-29|Job 6:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

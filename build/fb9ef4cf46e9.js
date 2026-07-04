@@ -1,0 +1,1 @@
+(function(){var b="fb9ef4cf46e9",m="# Psalm 37:30 (New International Version)\nThe mouths of the righteous utter wisdom,<sup>^A</sup>  \n    and their tongues speak what is just.\n\n### Crossrefs\n- A: [[Ps-49-3|Ps 49:3]]; [[Prov-10-13|Pr 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

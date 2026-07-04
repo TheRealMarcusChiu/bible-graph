@@ -1,0 +1,1 @@
+(function(){var b="9f2ba53191aa",m="# Jeremiah 42:13 (New International Version)\n\"However, if you say, 'We will not stay in this land,' and so disobey<sup>^A</sup> the LORD your God, \n\n### Crossrefs\n- A: S [[Deut-11-28|Dt 11:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

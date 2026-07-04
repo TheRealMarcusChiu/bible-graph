@@ -1,0 +1,1 @@
+(function(){var b="894b52d37158",m="# Proverbs 9:17 (New International Version)\n\"Stolen water is sweet;  \n    food eaten in secret is delicious!<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Prov-20-17|Pr 20:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

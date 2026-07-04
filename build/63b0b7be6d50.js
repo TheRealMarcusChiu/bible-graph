@@ -1,0 +1,1 @@
+(function(){var b="63b0b7be6d50",m="# Jeremiah 49:38 (New International Version)\nI will set my throne in Elam  \n    and destroy her king and officials,\"  \ndeclares the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fcb5483988af",m="# Psalm 38:7 (New International Version)\nMy back is filled with searing pain;<sup>^A</sup>  \n    there is no health<sup>^B</sup> in my body.\n\n### Crossrefs\n- A: S [[Job-14-22|Job 14:22]]\n- B: [[Ps-38-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

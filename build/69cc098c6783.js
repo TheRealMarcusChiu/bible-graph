@@ -1,0 +1,1 @@
+(function(){var b="69cc098c6783",m="# Psalm 33:9 (New International Version)\nFor he spoke, and it came to be;  \n    he commanded,<sup>^A</sup> and it stood firm.\n\n### Crossrefs\n- A: [[Ps-148-5|Ps 148:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b18cf61587d8",m="# 1 Chronicles 1:13 (New International Version)\nCanaan was the father of\nSidon his firstborn, and of the Hittites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

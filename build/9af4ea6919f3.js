@@ -1,0 +1,1 @@
+(function(){var b="9af4ea6919f3",m="# Esther 7:5 (New International Version)\nKing Xerxes asked Queen Esther, \"Who is he? Where is he--the man who has dared to do such a thing?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

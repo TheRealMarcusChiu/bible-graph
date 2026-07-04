@@ -1,0 +1,1 @@
+(function(){var b="daa8e8c26fa2",m="# Ezekiel 36:29 (New International Version)\nI will save you from all your uncleanness. I will call for the grain and make it plentiful and will not bring famine<sup>^A</sup> upon you. \n\n### Crossrefs\n- A: [[Ezek-34-29|Eze 34:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

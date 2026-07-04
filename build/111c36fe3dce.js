@@ -1,0 +1,1 @@
+(function(){var b="111c36fe3dce",m="# Proverbs 16:13 (New International Version)\nKings take pleasure in honest lips;  \n    they value the one who speaks what is right.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-22-11|Pr 22:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

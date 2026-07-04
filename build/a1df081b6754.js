@@ -1,0 +1,1 @@
+(function(){var b="a1df081b6754",m="# 2 Chronicles 13:10 (New International Version)\n\"As for us, the LORD is our God, and we have not forsaken him. The priests who serve the LORD are sons of Aaron, and the Levites assist them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

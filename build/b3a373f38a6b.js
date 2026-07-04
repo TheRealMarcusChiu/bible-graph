@@ -1,0 +1,1 @@
+(function(){var b="b3a373f38a6b",m="# Psalms 48\n\nIsrael's songbook -- 150 psalms of praise, lament, thanksgiving, and trust.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

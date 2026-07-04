@@ -1,0 +1,1 @@
+(function(){var b="1a3f3f1b819e",m="# Job 20:13 (New International Version)\nthough he cannot bear to let it go  \n    and lets it linger in his mouth,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-11-18|Nu 11:18-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9cbf40e67a3a",m="# 2 Chronicles 34:29 (New International Version)\nThen the king called together all the elders of Judah and Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

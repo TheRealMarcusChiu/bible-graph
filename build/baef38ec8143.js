@@ -1,0 +1,1 @@
+(function(){var b="baef38ec8143",m="# 1 Chronicles 24:16 (New International Version)\nthe nineteenth to Pethahiah,\nthe twentieth to Jehezkel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

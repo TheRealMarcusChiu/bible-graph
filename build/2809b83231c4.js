@@ -1,0 +1,1 @@
+(function(){var b="2809b83231c4",m="# 1 Chronicles 2:15 (New International Version)\nthe sixth Ozem and the seventh David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

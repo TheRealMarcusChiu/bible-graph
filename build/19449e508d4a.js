@@ -1,0 +1,1 @@
+(function(){var b="19449e508d4a",m="# Psalm 78:70 (New International Version)\nHe chose David<sup>^A</sup> his servant  \n    and took him from the sheep pens;\n\n### Crossrefs\n- A: S [[1Sam-16-1|1Sa 16:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

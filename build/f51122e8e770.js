@@ -1,0 +1,1 @@
+(function(){var b="f51122e8e770",m="# 2 Chronicles 11:12 (New International Version)\nHe put shields and spears in all the cities, and made them very strong. So Judah and Benjamin were his.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

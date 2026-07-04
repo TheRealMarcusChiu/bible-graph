@@ -1,0 +1,1 @@
+(function(){var b="3b7f1697c3e0",m="# Esther 7:1 (New International Version)\nHaman Impaled\nSo the king and Haman went to Queen Esther's banquet,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Gen-40-20|Ge 40:20-22]]; [[Matt-22-1|Mt 22:1-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d2fa0feca0d2",m="# Proverbs 14:15 (New International Version)\nThe simple believe anything,  \n    but the prudent give thought to their steps.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-14-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

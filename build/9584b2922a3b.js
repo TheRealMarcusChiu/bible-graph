@@ -1,0 +1,1 @@
+(function(){var b="9584b2922a3b",m="# Psalm 66:17 (New International Version)\nI cried out to him with my mouth;  \n    his praise was on my tongue.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

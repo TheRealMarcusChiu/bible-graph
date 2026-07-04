@@ -1,0 +1,1 @@
+(function(){var b="f0fdc78b7a32",m="# Psalm 78:47 (New International Version)\nHe destroyed their vines with hail<sup>^A</sup>  \n    and their sycamore-figs with sleet.\n\n### Crossrefs\n- A: [[Exod-9-23|Ex 9:23]]; [[Ps-105-32|Ps 105:32]]; [[Ps-147-17|147:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

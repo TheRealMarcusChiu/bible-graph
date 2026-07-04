@@ -1,0 +1,1 @@
+(function(){var b="c4ae37d08b28",m="# Ezekiel 41:10 (New International Version)\nand the priests' rooms was twenty cubits wide all around the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

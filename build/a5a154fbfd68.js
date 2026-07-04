@@ -1,0 +1,1 @@
+(function(){var b="a5a154fbfd68",m="# Psalm 76:8 (New International Version)\nFrom heaven you pronounced judgment,  \n    and the land feared<sup>^A</sup> and was quiet--\n\n### Crossrefs\n- A: S [[1Chr-16-30|1Ch 16:30]]; [[Ezek-38-20|Eze 38:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

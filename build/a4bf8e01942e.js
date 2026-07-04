@@ -1,0 +1,1 @@
+(function(){var b="a4bf8e01942e",m="# Amos 3:13 (New International Version)\n\"Hear this and testify<sup>^A</sup> against the descendants of Jacob,\" declares the Lord, the LORD God Almighty.\n\n### Crossrefs\n- A: [[Ezek-2-7|Eze 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

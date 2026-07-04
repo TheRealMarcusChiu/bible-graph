@@ -1,0 +1,1 @@
+(function(){var b="02ed3da493f3",m="# Proverbs 21:14 (New International Version)\nA gift given in secret soothes anger,  \n    and a bribe concealed in the cloak pacifies great wrath.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-32-20|Ge 32:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

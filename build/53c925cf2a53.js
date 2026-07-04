@@ -1,0 +1,1 @@
+(function(){var b="53c925cf2a53",m="# Psalm 47:3 (New International Version)\nHe subdued<sup>^A</sup> nations under us,  \n    peoples under our feet.\n\n### Crossrefs\n- A: [[Ps-18-39|Ps 18:39]], [[Ps-18-47|47]]; [[Isa-14-6|Isa 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="78b4ea0db714",m="# 1 Chronicles 8:32 (New International Version)\nand Mikloth, who was the father of Shimeah. They too lived near their relatives in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

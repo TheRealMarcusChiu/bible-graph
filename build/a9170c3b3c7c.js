@@ -1,0 +1,1 @@
+(function(){var b="a9170c3b3c7c",m="# 1 Chronicles 5:12 (New International Version)\nJoel was the chief, Shapham the second, then Janai and Shaphat, in Bashan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

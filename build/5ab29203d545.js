@@ -1,0 +1,1 @@
+(function(){var b="5ab29203d545",m="# 2 Chronicles 6:4 (New International Version)\nThen he said:\n\"Praise be to the LORD, the God of Israel, who with his hands has fulfilled what he promised with his mouth to my father David. For he said,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="54f2d92e9e60",m="# Psalm 86:1 (New International Version)\nPsalm 86\nHear me, LORD, and answer<sup>^A</sup> me,  \n    for I am poor and needy.\n\n### Crossrefs\n- A: [[Ps-17-6|Ps 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

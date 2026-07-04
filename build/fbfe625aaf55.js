@@ -1,0 +1,1 @@
+(function(){var b="fbfe625aaf55",m="# 2 Chronicles 16:5 (New International Version)\nWhen Baasha heard this, he stopped building Ramah and abandoned his work.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

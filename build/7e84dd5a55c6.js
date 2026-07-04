@@ -1,0 +1,1 @@
+(function(){var b="7e84dd5a55c6",m="# Proverbs 24:33 (New International Version)\nA little sleep, a little slumber,  \n    a little folding of the hands to rest<sup>^A</sup>--\n\n### Crossrefs\n- A: S [[Prov-6-10|Pr 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

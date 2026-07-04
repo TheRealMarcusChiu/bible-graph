@@ -1,0 +1,1 @@
+(function(){var b="2441e9c462ab",m="# Psalm 31:12 (New International Version)\nI am forgotten as though I were dead;<sup>^A</sup>  \n    I have become like broken pottery.\n\n### Crossrefs\n- A: [[Ps-28-1|Ps 28:1]]; [[Ps-88-4|88:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e478893a9c31",m="# Proverbs 27:22 (New International Version)\nThough you grind a fool in a mortar,  \n    grinding them like grain with a pestle,  \n    you will not remove their folly from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

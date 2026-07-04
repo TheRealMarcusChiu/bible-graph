@@ -1,0 +1,1 @@
+(function(){var b="181d9a0a9f65",m="# Psalm 106:36 (New International Version)\nThey worshiped their idols,<sup>^A</sup>  \n    which became a snare<sup>^B</sup> to them.\n\n### Crossrefs\n- A: S [[Deut-7-16|Dt 7:16]]\n- B: S [[Exod-10-7|Ex 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6febd802b90d",m="# 1 Chronicles 9:30 (New International Version)\nBut some<sup>^A</sup> of the priests took care of mixing the spices. \n\n### Crossrefs\n- A: S [[Exod-30-23|Ex 30:23-25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

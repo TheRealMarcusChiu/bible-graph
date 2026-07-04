@@ -1,0 +1,1 @@
+(function(){var b="dd168af6b41e",m="# Psalm 89:19 (New International Version)\nOnce you spoke in a vision,  \n    to your faithful people you said:  \n\"I have bestowed strength on a warrior;  \n    I have raised up a young man from among the people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

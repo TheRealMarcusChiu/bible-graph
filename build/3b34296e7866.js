@@ -1,0 +1,1 @@
+(function(){var b="3b34296e7866",m="# Psalm 108:10 (New International Version)\nWho will bring me to the fortified city?  \n    Who will lead me to Edom?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

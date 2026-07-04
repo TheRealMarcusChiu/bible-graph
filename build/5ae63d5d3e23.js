@@ -1,0 +1,1 @@
+(function(){var b="5ae63d5d3e23",m="# Psalm 135:18 (New International Version)\nThose who make them will be like them,  \n    and so will all who trust in them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

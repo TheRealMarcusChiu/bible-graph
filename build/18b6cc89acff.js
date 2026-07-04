@@ -1,0 +1,1 @@
+(function(){var b="18b6cc89acff",m="# 1 Chronicles 19:10 (New International Version)\nJoab saw that there were battle lines in front of him and behind him; so he selected some of the best troops in Israel and deployed them against the Arameans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e304c21fca9e",m="# Daniel 7:3 (New International Version)\nFour great beasts,<sup>^A</sup> each different from the others, came up out of the sea.\n\n### Crossrefs\n- A: [[Rev-13-1|Rev 13:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

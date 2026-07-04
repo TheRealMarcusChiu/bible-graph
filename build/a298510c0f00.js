@@ -1,0 +1,1 @@
+(function(){var b="a298510c0f00",m="# 2 Kings 4:12 (New International Version)\nHe said to his servant Gehazi, \"Call the Shunammite.\"<sup>^A</sup> So he called her, and she stood before him. \n\n### Crossrefs\n- A: [[2Kgs-8-1|2Ki 8:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

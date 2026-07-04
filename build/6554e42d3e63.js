@@ -1,0 +1,1 @@
+(function(){var b="6554e42d3e63",m="# Ezekiel 27:2 (New International Version)\n\"Son of man, take up a lament<sup>^A</sup> concerning Tyre. \n\n### Crossrefs\n- A: S [[Ezek-19-1|Eze 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

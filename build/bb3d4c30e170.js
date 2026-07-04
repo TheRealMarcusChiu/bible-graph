@@ -1,0 +1,1 @@
+(function(){var b="bb3d4c30e170",m="# Psalm 136:7 (New International Version)\nwho made the great lights<sup>^A</sup>--  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Gen-1-14|Ge 1:14]], [[Gen-1-16|16]]; [[Ps-74-16|Ps 74:16]]; [[Jas-1-17|Jas 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

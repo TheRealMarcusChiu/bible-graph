@@ -1,0 +1,1 @@
+(function(){var b="11a63a164f31",m="# Psalm 120:2 (New International Version)\nSave me, LORD,  \n    from lying lips<sup>^A</sup>  \n    and from deceitful tongues.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-31-18|Ps 31:18]]\n- B: S [[Ps-52-4|Ps 52:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

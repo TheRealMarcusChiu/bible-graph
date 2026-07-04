@@ -1,0 +1,1 @@
+(function(){var b="52c3d79781c0",m="# 2 Kings 12:3 (New International Version)\nThe high places,<sup>^A</sup> however, were not removed; the people continued to offer sacrifices and burn incense there.\n\n### Crossrefs\n- A: S [[1Kgs-3-3|1Ki 3:3]]; S [[2Kgs-18-4|2Ki 18:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

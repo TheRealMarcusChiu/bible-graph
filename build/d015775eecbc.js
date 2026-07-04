@@ -1,0 +1,1 @@
+(function(){var b="d015775eecbc",m="# Psalm 119:106 (New International Version)\nI have taken an oath<sup>^A</sup> and confirmed it,  \n    that I will follow your righteous laws.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Neh-10-29|Ne 10:29]]\n- B: [[Ps-119-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

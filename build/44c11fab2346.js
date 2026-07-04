@@ -1,0 +1,1 @@
+(function(){var b="44c11fab2346",m="# Job 2:4 (New International Version)\n\"Skin for skin!\" Satan replied. \"A man will give all he has<sup>^A</sup> for his own life. \n\n### Crossrefs\n- A: S [[Job-1-10|Job 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

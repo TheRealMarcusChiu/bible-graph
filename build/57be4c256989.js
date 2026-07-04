@@ -1,0 +1,1 @@
+(function(){var b="57be4c256989",m="# Jeremiah 30:4 (New International Version)\nThese are the words the LORD spoke concerning Israel and Judah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="230faca0dd2e",m="# 2 Kings 9:12 (New International Version)\n\"That's not true!\" they said. \"Tell us.\"\nJehu said, \"Here is what he told me: 'This is what the LORD says: I anoint you king over Israel.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

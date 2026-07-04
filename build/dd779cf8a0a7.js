@@ -1,0 +1,1 @@
+(function(){var b="dd779cf8a0a7",m="# Ezekiel 18:18 (New International Version)\nBut his father will die for his own sin, because he practiced extortion, robbed his brother and did what was wrong among his people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="159b0906bb65",m="# Isaiah 7:21 (New International Version)\nIn that day,<sup>^A</sup> a person will keep alive a young cow and two goats.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Isa-7-23|ver 23]]; [[Isa-2-17|Isa 2:17]]\n- B: [[Jer-39-10|Jer 39:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5b5736646374",m="# Proverbs 10:20 (New International Version)\nThe tongue of the righteous is choice silver,  \n    but the heart of the wicked is of little value.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

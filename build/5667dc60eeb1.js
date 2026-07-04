@@ -1,0 +1,1 @@
+(function(){var b="5667dc60eeb1",m="# 1 Chronicles 6:26 (New International Version)\nElkanah his son, Zophai his son,\nNahath his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

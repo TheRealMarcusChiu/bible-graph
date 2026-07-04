@@ -1,0 +1,1 @@
+(function(){var b="50e71427619d",m="# Proverbs 2:9 (New International Version)\nThen you will understand<sup>^A</sup> what is right and just  \n    and fair--every good path.\n\n### Crossrefs\n- A: S [[Deut-1-16|Dt 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

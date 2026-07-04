@@ -1,0 +1,1 @@
+(function(){var b="6811e1fc53d1",m="# Daniel 5:25 (New International Version)\n\"This is the inscription that was written:\nmene, mene, tekel, parsin";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

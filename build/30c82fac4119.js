@@ -1,0 +1,1 @@
+(function(){var b="30c82fac4119",m="# Proverbs 26:19 (New International Version)\nis one who deceives their neighbor  \n    and says, \"I was only joking!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

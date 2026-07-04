@@ -1,0 +1,1 @@
+(function(){var b="e5528e3a1a1b",m="# Jeremiah 35:10 (New International Version)\nWe have lived in tents and have fully obeyed everything our forefather Jehonadab commanded us.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

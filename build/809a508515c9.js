@@ -1,0 +1,1 @@
+(function(){var b="809a508515c9",m="# Proverbs 10:17 (New International Version)\nWhoever heeds discipline shows the way to life,<sup>^A</sup>  \n    but whoever ignores correction leads others astray.\n\n### Crossrefs\n- A: [[Prov-6-23|Pr 6:23]]; [[Prov-15-5|15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

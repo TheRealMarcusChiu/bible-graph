@@ -1,0 +1,1 @@
+(function(){var b="5e7b806b0412",m="# Song of Songs 6:12 (New International Version)\nBefore I realized it,  \n    my desire set me among the royal chariots of my people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

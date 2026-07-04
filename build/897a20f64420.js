@@ -1,0 +1,1 @@
+(function(){var b="897a20f64420",m="# 2 Kings 6:31 (New International Version)\nHe said, \"May God deal with me, be it ever so severely, if the head of Elisha son of Shaphat remains on his shoulders today!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

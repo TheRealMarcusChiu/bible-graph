@@ -1,0 +1,1 @@
+(function(){var b="324b24894bd5",m="# 2 Chronicles 13:6 (New International Version)\nYet Jeroboam son of Nebat, an official of Solomon son of David, rebelled<sup>^A</sup> against his master. \n\n### Crossrefs\n- A: [[1Kgs-11-26|1Ki 11:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

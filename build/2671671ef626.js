@@ -1,0 +1,1 @@
+(function(){var b="2671671ef626",m="# Job 29:23 (New International Version)\nThey waited for me as for showers  \n    and drank in my words as the spring rain.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-3|Job 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

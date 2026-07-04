@@ -1,0 +1,1 @@
+(function(){var b="27b46c3fe182",m="# Proverbs 14:18 (New International Version)\nThe simple inherit folly,  \n    but the prudent are crowned with knowledge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

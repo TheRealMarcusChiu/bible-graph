@@ -1,0 +1,1 @@
+(function(){var b="772429feda6d",m="# Jeremiah 18:1 (New International Version)\nAt the Potter's House\nThis is the word that came to Jeremiah from the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

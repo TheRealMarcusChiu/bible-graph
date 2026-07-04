@@ -1,0 +1,1 @@
+(function(){var b="80938ebdd1c8",m="# Psalm 55:1 (New International Version)\nPsalm 55\nListen to my prayer, O God,  \n    do not ignore my plea;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-27-9|Ps 27:9]]; [[Lam-3-56|La 3:56]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

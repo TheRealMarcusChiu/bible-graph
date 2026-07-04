@@ -1,0 +1,1 @@
+(function(){var b="f7418a373b36",m="# Jeremiah 10:15 (New International Version)\nThey are worthless,<sup>^A</sup> the objects of mockery;  \n    when their judgment comes, they will perish.\n\n### Crossrefs\n- A: S [[Isa-41-24|Isa 41:24]]; S [[Jer-14-22|Jer 14:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

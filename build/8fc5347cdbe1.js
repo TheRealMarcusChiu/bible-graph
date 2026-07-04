@@ -1,0 +1,1 @@
+(function(){var b="8fc5347cdbe1",m="# Lamentations 3:55 (New International Version)\nI called on your name, LORD,  \n    from the depths<sup>^A</sup> of the pit.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-88-6|Ps 88:6]]\n- B: [[Ps-130-1|Ps 130:1]]; [[Jonah-2-2|Jnh 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3e82db3a9eb0",m="# Psalm 122:4 (New International Version)\nThat is where the tribes go up--  \n    the tribes of the LORD--  \nto praise the name of the LORD  \n    according to the statute given to Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

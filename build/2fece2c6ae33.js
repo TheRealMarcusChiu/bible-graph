@@ -1,0 +1,1 @@
+(function(){var b="2fece2c6ae33",m="# Psalm 148:4 (New International Version)\nPraise him, you highest heavens<sup>^A</sup>  \n    and you waters above the skies.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-10-14|Dt 10:14]]\n- B: S [[Gen-1-7|Ge 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

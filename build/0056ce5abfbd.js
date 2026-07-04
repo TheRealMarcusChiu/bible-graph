@@ -1,0 +1,1 @@
+(function(){var b="0056ce5abfbd",m="# 1 Chronicles 7:37 (New International Version)\nBezer, Hod, Shamma, Shilshah, Ithran and Beera.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

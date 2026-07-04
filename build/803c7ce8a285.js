@@ -1,0 +1,1 @@
+(function(){var b="803c7ce8a285",m="# Ecclesiastes 4:13 (New International Version)\nAdvancement Is Meaningless\nBetter a poor but wise youth than an old but foolish king who no longer knows how to heed a warning.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

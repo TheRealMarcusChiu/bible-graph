@@ -1,0 +1,1 @@
+(function(){var b="519b0036eece",m="# Psalm 119:95 (New International Version)\nThe wicked are waiting to destroy me,<sup>^A</sup>  \n    but I will ponder your statutes.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-69-4|Ps 69:4]]\n- B: [[Ps-119-99|ver 99]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

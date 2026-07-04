@@ -1,0 +1,1 @@
+(function(){var b="f42ac8d56053",m="# 2 Chronicles 18:13 (New International Version)\nBut Micaiah said, \"As surely as the LORD lives, I can tell him only what my God says.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-22-18|Nu 22:18]], [[Num-22-20|20]], [[Num-22-35|35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="090e14626c0d",m="# Zechariah 2:1 (New International Version)\nA Man With a Measuring Line\nThen I looked up, and there before me was a man with a measuring line in his hand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

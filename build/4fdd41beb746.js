@@ -1,0 +1,1 @@
+(function(){var b="4fdd41beb746",m="# Job 30:4 (New International Version)\nIn the brush they gathered salt herbs,<sup>^A</sup>  \n    and their food was the root of the broom bush.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-39-6|Job 39:6]]\n- B: S [[1Kgs-19-4|1Ki 19:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

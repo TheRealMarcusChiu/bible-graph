@@ -1,0 +1,1 @@
+(function(){var b="209e7447c051",m="# Lamentations 5:14 (New International Version)\nThe elders are gone from the city gate;  \n    the young men have stopped their music.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-24-8|Isa 24:8]]; [[Jer-7-34|Jer 7:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

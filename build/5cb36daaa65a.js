@@ -1,0 +1,1 @@
+(function(){var b="5cb36daaa65a",m="# Psalm 69:25 (New International Version)\nMay their place be deserted;<sup>^A</sup>  \n    let there be no one to dwell in their tents.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Lev-26-43|Lev 26:43]]; [[Matt-23-38|Mt 23:38]]\n- B: Ac 1:20*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

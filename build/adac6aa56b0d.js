@@ -1,0 +1,1 @@
+(function(){var b="adac6aa56b0d",m="# Daniel 1:15 (New International Version)\nAt the end of the ten days they looked healthier and better nourished than any of the young men who ate the royal food.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Exod-23-25|Ex 23:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9821bbfb9d6d",m="# 2 Kings 14:22 (New International Version)\nHe was the one who rebuilt Elath<sup>^A</sup> and restored it to Judah after Amaziah rested with his ancestors.\n\n### Crossrefs\n- A: S [[1Kgs-9-26|1Ki 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

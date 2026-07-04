@@ -1,0 +1,1 @@
+(function(){var b="afe55f78a2d5",m="# Job 39:12 (New International Version)\nCan you trust it to haul in your grain  \n    and bring it to your threshing floor?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

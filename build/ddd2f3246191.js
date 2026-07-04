@@ -1,0 +1,1 @@
+(function(){var b="ddd2f3246191",m="# Psalm 12:4 (New International Version)\nthose who say,  \n    \"By our tongues we will prevail;<sup>^A</sup>  \n    our own lips will defend us--who is lord over us?\"\n\n### Crossrefs\n- A: [[Prov-18-21|Pr 18:21]]; [[Jas-3-6|Jas 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

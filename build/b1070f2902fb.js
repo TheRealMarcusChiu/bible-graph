@@ -1,0 +1,1 @@
+(function(){var b="b1070f2902fb",m="# Daniel 2:39 (New International Version)\n\"After you, another kingdom will arise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Dan-7-5|Da 7:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

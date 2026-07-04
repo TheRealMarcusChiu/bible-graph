@@ -1,0 +1,1 @@
+(function(){var b="b92d7cd4bcc3",m="# Ezekiel 4:10 (New International Version)\nWeigh out twenty shekels<sup>^A</sup> of food to eat each day and eat it at set times. \n\n### Crossrefs\n- A: S [[Exod-30-13|Ex 30:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

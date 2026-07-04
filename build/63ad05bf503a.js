@@ -1,0 +1,1 @@
+(function(){var b="63ad05bf503a",m="# 1 Chronicles 27:27 (New International Version)\nShimei the Ramathite was in charge of the vineyards.\nZabdi the Shiphmite was in charge of the produce of the vineyards for the wine vats.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

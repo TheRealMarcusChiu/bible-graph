@@ -1,0 +1,1 @@
+(function(){var b="49cb6613e9dd",m="# 1 Chronicles 1:51 (New International Version)\nHadad also died.\nThe chiefs of Edom were:\nTimna, Alvah, Jetheth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

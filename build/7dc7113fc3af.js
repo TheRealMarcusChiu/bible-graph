@@ -1,0 +1,1 @@
+(function(){var b="7dc7113fc3af",m="# 2 Chronicles 15:18 (New International Version)\nHe brought into the temple of God the silver and gold and the articles that he and his father had dedicated.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Chr-14-13|2Ch 14:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

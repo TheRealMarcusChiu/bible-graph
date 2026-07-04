@@ -1,0 +1,1 @@
+(function(){var b="4f0311abeeaa",m="# Proverbs 29:22 (New International Version)\nAn angry person stirs up conflict,  \n    and a hot-tempered person commits many sins.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-14-17|Pr 14:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

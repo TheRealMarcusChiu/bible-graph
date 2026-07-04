@@ -1,0 +1,1 @@
+(function(){var b="245ace8680a4",m="# Ecclesiastes 5:5 (New International Version)\nIt is better not to make a vow than to make one and not fulfill it.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Num-30-2|Nu 30:2-4]]; [[Jonah-2-9|Jnh 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

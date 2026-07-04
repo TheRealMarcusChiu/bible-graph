@@ -1,0 +1,1 @@
+(function(){var b="e5d346720321",m="# 1 Chronicles 12:11 (New International Version)\nAttai the sixth, Eliel the seventh,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

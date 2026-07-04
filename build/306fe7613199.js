@@ -1,0 +1,1 @@
+(function(){var b="306fe7613199",m="# 1 Chronicles 10:3 (New International Version)\nThe fighting grew fierce around Saul, and when the archers overtook him, they wounded him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

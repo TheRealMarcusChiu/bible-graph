@@ -1,0 +1,1 @@
+(function(){var b="2245a92fe80e",m="# Psalm 24:2 (New International Version)\nfor he founded it on the seas  \n    and established it on the waters.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-1-6|Ge 1:6]]; [[Ps-104-3|Ps 104:3]]; [[2Pet-3-5|2Pe 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

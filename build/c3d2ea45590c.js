@@ -1,0 +1,1 @@
+(function(){var b="c3d2ea45590c",m="# Jeremiah 7:8 (New International Version)\nBut look, you are trusting<sup>^A</sup> in deceptive<sup>^B</sup> words that are worthless.\n\n### Crossrefs\n- A: S [[Job-15-31|Job 15:31]]\n- B: S [[Jer-7-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9fe3c360ecba",m="# Psalm 119:45 (New International Version)\nI will walk about in freedom,  \n    for I have sought out your precepts.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-94|ver 94]], [[Ps-119-155|155]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

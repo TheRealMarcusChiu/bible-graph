@@ -1,0 +1,1 @@
+(function(){var b="b2015dc08e70",m="# Jeremiah 29:13 (New International Version)\nYou will seek<sup>^A</sup> me and find me when you seek me with all your heart.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Matt-7-7|Mt 7:7]]\n- B: S [[Deut-4-29|Dt 4:29]]; S [[2Chr-6-37|2Ch 6:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

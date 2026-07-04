@@ -1,0 +1,1 @@
+(function(){var b="16ebc6aad13e",m="# Proverbs 23:31 (New International Version)\nDo not gaze at wine when it is red,  \n    when it sparkles in the cup,  \n    when it goes down smoothly!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a405f199856c",m="# Job 20:15 (New International Version)\nHe will spit out the riches<sup>^A</sup> he swallowed;  \n    God will make his stomach vomit<sup>^B</sup> them up.\n\n### Crossrefs\n- A: S [[Job-20-10|ver 10]]\n- B: S [[Lev-18-25|Lev 18:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

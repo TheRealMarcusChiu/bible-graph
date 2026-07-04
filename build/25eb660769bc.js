@@ -1,0 +1,1 @@
+(function(){var b="25eb660769bc",m="# Ecclesiastes 3:4 (New International Version)\na time to weep and a time to laugh,  \n    a time to mourn and a time to dance,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

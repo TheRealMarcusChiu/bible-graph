@@ -1,0 +1,1 @@
+(function(){var b="29c11dd0e0c2",m="# Job 30:27 (New International Version)\nThe churning inside me never stops;<sup>^A</sup>  \n    days of suffering confront me.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-38-8|Ps 38:8]]; [[Lam-2-11|La 2:11]]\n- B: S [[Job-30-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a586fba43fb6",m="# 2 Kings 25:16 (New International Version)\nThe bronze from the two pillars, the Sea and the movable stands, which Solomon had made for the temple of the LORD, was more than could be weighed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

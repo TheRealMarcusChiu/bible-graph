@@ -1,0 +1,1 @@
+(function(){var b="03a7142fcaec",m="# Job 21:29 (New International Version)\nHave you never questioned those who travel?  \n    Have you paid no regard to their accounts--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

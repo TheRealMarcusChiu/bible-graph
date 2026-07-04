@@ -1,0 +1,1 @@
+(function(){var b="ac11615c5719",m="# Job 32:17 (New International Version)\nI too will have my say;  \n    I too will tell what I know.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-5-27|Job 5:27]]; [[Job-33-3|33:3]]; [[Job-36-4|36:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

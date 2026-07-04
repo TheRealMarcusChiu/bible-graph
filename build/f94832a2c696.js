@@ -1,0 +1,1 @@
+(function(){var b="f94832a2c696",m="# Psalm 105:17 (New International Version)\nand he sent a man before them--  \n    Joseph, sold as a slave.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-37-28|Ge 37:28]]; [[Acts-7-9|Ac 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

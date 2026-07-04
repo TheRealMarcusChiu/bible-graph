@@ -1,0 +1,1 @@
+(function(){var b="75a1f245cf99",m="# Ecclesiastes 7:23 (New International Version)\nAll this I tested by wisdom and I said,\n\"I am determined to be wise\"<sup>^A</sup>--  \n    but this was beyond me.\n\n### Crossrefs\n- A: S [[Eccl-1-17|Ecc 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

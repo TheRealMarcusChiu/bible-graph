@@ -1,0 +1,1 @@
+(function(){var b="edf6f5a24267",m="# Proverbs 30:11 (New International Version)\n\"There are those who curse their fathers  \n    and do not bless their mothers;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-20-20|Pr 20:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

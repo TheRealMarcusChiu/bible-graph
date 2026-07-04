@@ -1,0 +1,1 @@
+(function(){var b="8ebec6b02766",m="# Hosea 3:2 (New International Version)\nSo I bought her for fifteen shekels of silver and about a homer and a lethek of barley.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

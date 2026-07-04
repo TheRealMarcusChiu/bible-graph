@@ -1,0 +1,1 @@
+(function(){var b="9b3c3cdb2e86",m="# Psalm 23:6 (New International Version)\nSurely your goodness and love<sup>^A</sup> will follow me  \n    all the days of my life,  \nand I will dwell in the house of the LORD  \n    forever.\n\n### Crossrefs\n- A: S [[Neh-9-25|Ne 9:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

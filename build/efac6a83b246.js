@@ -1,0 +1,1 @@
+(function(){var b="efac6a83b246",m="# Jeremiah 39:6 (New International Version)\nThere at Riblah the king of Babylon slaughtered the sons of Zedekiah before his eyes and also killed all the nobles<sup>^A</sup> of Judah. \n\n### Crossrefs\n- A: S [[Isa-34-12|Isa 34:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

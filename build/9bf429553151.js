@@ -1,0 +1,1 @@
+(function(){var b="9bf429553151",m="# Isaiah 30:4 (New International Version)\nThough they have officials in Zoan<sup>^A</sup>  \n    and their envoys have arrived in Hanes,\n\n### Crossrefs\n- A: S [[Num-13-22|Nu 13:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

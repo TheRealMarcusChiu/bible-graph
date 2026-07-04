@@ -1,0 +1,1 @@
+(function(){var b="6e4bf45616a3",m="# Psalm 8:4 (New International Version)\nwhat is mankind that you are mindful of them,  \n    human beings that you care for them?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-29-14|1Ch 29:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

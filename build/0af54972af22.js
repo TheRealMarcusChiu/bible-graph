@@ -1,0 +1,1 @@
+(function(){var b="0af54972af22",m="# 1 Chronicles 8:29 (New International Version)\nJeiel the father of Gibeon lived in Gibeon.<sup>^A</sup>\nHis wife's name was Maakah, \n\n### Crossrefs\n- A: S [[Josh-9-3|Jos 9:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="91ac7f4f9669",m="# 2 Chronicles 9:18 (New International Version)\nThe throne had six steps, and a footstool of gold was attached to it. On both sides of the seat were armrests, with a lion standing beside each of them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

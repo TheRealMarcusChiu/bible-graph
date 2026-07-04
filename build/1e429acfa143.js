@@ -1,0 +1,1 @@
+(function(){var b="1e429acfa143",m="# 1 Chronicles 8:19 (New International Version)\nJakim, Zikri, Zabdi,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

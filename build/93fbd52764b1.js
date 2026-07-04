@@ -1,0 +1,1 @@
+(function(){var b="93fbd52764b1",m="# Psalm 107:36 (New International Version)\nthere he brought the hungry to live,  \n    and they founded a city where they could settle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

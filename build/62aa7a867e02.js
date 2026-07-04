@@ -1,0 +1,1 @@
+(function(){var b="62aa7a867e02",m="# Esther 1:8 (New International Version)\nBy the king's command each guest was allowed to drink with no restrictions, for the king instructed all the wine stewards to serve each man what he wished.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

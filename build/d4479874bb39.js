@@ -1,0 +1,1 @@
+(function(){var b="d4479874bb39",m="# Job 42:1 (New International Version)\nJob\nThen Job replied to the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

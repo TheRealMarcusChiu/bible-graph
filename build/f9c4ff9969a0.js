@@ -1,0 +1,1 @@
+(function(){var b="f9c4ff9969a0",m="# Psalm 119:104 (New International Version)\nI gain understanding<sup>^A</sup> from your precepts;  \n    therefore I hate every wrong path.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-111-10|Ps 111:10]]\n- B: [[Ps-119-128|ver 128]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

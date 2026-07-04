@@ -1,0 +1,1 @@
+(function(){var b="1334718905e4",m="# Jeremiah 40\n\nThe weeping prophet warns Judah of the Babylonian exile and promises a new covenant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

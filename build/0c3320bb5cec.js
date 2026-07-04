@@ -1,0 +1,1 @@
+(function(){var b="0c3320bb5cec",m="# Ezekiel 10:8 (New International Version)\n(Under the wings of the cherubim could be seen what looked like human hands.)<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-1-8|Eze 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aff129c70bae",m="# Ecclesiastes 2:20 (New International Version)\nSo my heart began to despair over all my toilsome labor under the sun.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

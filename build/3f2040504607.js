@@ -1,0 +1,1 @@
+(function(){var b="3f2040504607",m="# 2 Chronicles 6:35 (New International Version)\nthen hear from heaven their prayer and their plea, and uphold their cause.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

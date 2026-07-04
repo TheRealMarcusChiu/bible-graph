@@ -1,0 +1,1 @@
+(function(){var b="a139005ef8f3",m="# Psalm 77:12 (New International Version)\nI will consider<sup>^A</sup> all your works  \n    and meditate on all your mighty deeds.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-24-63|Ge 24:63]]\n- B: [[Ps-143-5|Ps 143:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

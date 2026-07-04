@@ -1,0 +1,1 @@
+(function(){var b="9310ee26f787",m="# Ezekiel 17:4 (New International Version)\nhe broke off<sup>^A</sup> its topmost shoot and carried it away to a land of merchants, where he planted it in a city of traders.\n\n### Crossrefs\n- A: S [[Isa-10-33|Isa 10:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

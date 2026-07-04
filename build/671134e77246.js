@@ -1,0 +1,1 @@
+(function(){var b="671134e77246",m="# Micah 6:13 (New International Version)\nTherefore, I have begun to destroy<sup>^A</sup> you,  \n    to ruin you because of your sins.\n\n### Crossrefs\n- A: [[Isa-1-7|Isa 1:7]]; [[Isa-6-11|6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="81bac2bc728e",m="# 2 Chronicles 28:16 (New International Version)\nAt that time King Ahaz sent to the kings of Assyria<sup>^A</sup> for help. \n\n### Crossrefs\n- A: S [[2Kgs-16-7|2Ki 16:7]]; [[Ezek-23-12|Eze 23:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

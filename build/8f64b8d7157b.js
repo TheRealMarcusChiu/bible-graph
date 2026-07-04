@@ -1,0 +1,1 @@
+(function(){var b="8f64b8d7157b",m="# 2 Kings 4:21 (New International Version)\nShe went up and laid him on the bed<sup>^A</sup> of the man of God, then shut the door and went out.\n\n### Crossrefs\n- A: [[2Kgs-4-32|ver 32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

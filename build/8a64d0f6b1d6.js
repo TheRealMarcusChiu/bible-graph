@@ -1,0 +1,1 @@
+(function(){var b="8a64d0f6b1d6",m="# Proverbs 27:24 (New International Version)\nfor riches do not endure forever,<sup>^A</sup>  \n    and a crown is not secure for all generations.\n\n### Crossrefs\n- A: [[Prov-23-5|Pr 23:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

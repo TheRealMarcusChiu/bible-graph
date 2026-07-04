@@ -1,0 +1,1 @@
+(function(){var b="ef2e6a6d06bf",m="# Psalm 80:9 (New International Version)\nYou cleared the ground for it,  \n    and it took root and filled the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

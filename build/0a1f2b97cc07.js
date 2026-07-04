@@ -1,0 +1,1 @@
+(function(){var b="0a1f2b97cc07",m="# 1 Chronicles 1:42 (New International Version)\nThe sons of Ezer:\nBilhan, Zaavan and Akan.\nThe sons of Dishan:\nUz and Aran.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

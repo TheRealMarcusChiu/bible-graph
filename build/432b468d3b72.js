@@ -1,0 +1,1 @@
+(function(){var b="432b468d3b72",m="# 2 Chronicles 2:8 (New International Version)\n\"Send me also cedar, juniper and algum logs from Lebanon, for I know that your servants are skilled in cutting timber there. My servants will work with yours";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="15db9b3dc417",m="# Ezekiel 40:10 (New International Version)\nInside the east gate were three alcoves on each side; the three had the same measurements, and the faces of the projecting walls on each side had the same measurements.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

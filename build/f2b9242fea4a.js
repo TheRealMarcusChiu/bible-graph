@@ -1,0 +1,1 @@
+(function(){var b="f2b9242fea4a",m="# Psalm 136:25 (New International Version)\nHe gives food<sup>^A</sup> to every creature.  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Gen-1-30|Ge 1:30]]; S [[Matt-6-26|Mt 6:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

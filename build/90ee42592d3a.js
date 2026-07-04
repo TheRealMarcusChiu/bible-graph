@@ -1,0 +1,1 @@
+(function(){var b="90ee42592d3a",m="# Job 35:4 (New International Version)\n\"I would like to reply to you  \n    and to your friends with you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

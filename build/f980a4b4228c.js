@@ -1,0 +1,1 @@
+(function(){var b="f980a4b4228c",m="# Proverbs 20:15 (New International Version)\nGold there is, and rubies in abundance,  \n    but lips that speak knowledge are a rare jewel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

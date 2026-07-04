@@ -1,0 +1,1 @@
+(function(){var b="203e5e9917ae",m="# Ezekiel 13:15 (New International Version)\nSo I will pour out my wrath against the wall and against those who covered it with whitewash. I will say to you, \"The wall is gone and so are those who whitewashed it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

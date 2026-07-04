@@ -1,0 +1,1 @@
+(function(){var b="12e1cf21ea65",m="# Psalm 102:22 (New International Version)\nwhen the peoples and the kingdoms  \n    assemble to worship<sup>^A</sup> the LORD.\n\n### Crossrefs\n- A: S [[Ps-22-27|Ps 22:27]]; [[Isa-49-22|Isa 49:22-23]]; [[Zech-8-20|Zec 8:20-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

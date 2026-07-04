@@ -1,0 +1,1 @@
+(function(){var b="0669a893b87b",m="# 2 Kings 20:14 (New International Version)\nThen Isaiah the prophet went to King Hezekiah and asked, \"What did those men say, and where did they come from?\"\n\"From a distant land,\" Hezekiah replied. \"They came from Babylon.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

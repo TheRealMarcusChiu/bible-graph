@@ -1,0 +1,1 @@
+(function(){var b="f883229bfea4",m="# 2 Kings 6:9 (New International Version)\nThe man of God sent word to the king<sup>^A</sup> of Israel: \"Beware of passing that place, because the Arameans are going down there.\" \n\n### Crossrefs\n- A: [[2Kgs-6-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

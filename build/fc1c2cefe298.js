@@ -1,0 +1,1 @@
+(function(){var b="fc1c2cefe298",m="# 1 Chronicles 1:29 (New International Version)\nThese were their descendants:\nNebaioth the firstborn of Ishmael, Kedar, Adbeel, Mibsam, \n\n### Crossrefs\n- A: [[1Chr-1-29|1:29-31pp]] — [[Gen-25-12|Ge 25:12-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bc519f01ff56",m="# Daniel 2:16 (New International Version)\nAt this, Daniel went in to the king and asked for time, so that he might interpret the dream for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

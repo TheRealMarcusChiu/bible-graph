@@ -1,0 +1,1 @@
+(function(){var b="71fb6729ecf3",m="# Ezekiel 8:13 (New International Version)\nAgain, he said, \"You will see them doing things that are even more detestable.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

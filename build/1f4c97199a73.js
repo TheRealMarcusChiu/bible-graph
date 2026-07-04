@@ -1,0 +1,1 @@
+(function(){var b="1f4c97199a73",m="# Song of Songs 4:7 (New International Version)\nYou are altogether beautiful,<sup>^A</sup> my darling;  \n    there is no flaw<sup>^B</sup> in you.\n\n### Crossrefs\n- A: S [[Song-1-15|SS 1:15]]\n- B: [[Song-5-2|SS 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

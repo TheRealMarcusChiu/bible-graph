@@ -1,0 +1,1 @@
+(function(){var b="d96cef06303c",m="# Ezra 2:3 (New International Version)\n\n### Crossrefs\n- A: [[Ezra-8-3|Ezr 8:3]]; [[Ezra-10-25|10:25]]; [[Neh-3-25|Ne 3:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b98e6db5622e",m="# Jeremiah 29:27 (New International Version)\nSo why have you not reprimanded Jeremiah from Anathoth, who poses as a prophet among you?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0db5e4c730fd",m="# 2 Chronicles 20:5 (New International Version)\nThen Jehoshaphat stood up in the assembly of Judah and Jerusalem at the temple of the LORD in the front of the new courtyard";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d855d54d78fc",m="# Psalm 80:19 (New International Version)\nRestore us, LORD God Almighty;  \n    make your face shine on us,  \n    that we may be saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e6e7d6452899",m="# 2 Chronicles 3:13 (New International Version)\nThe wings of these cherubim<sup>^A</sup> extended twenty cubits. They stood on their feet, facing the main hall.\n\n### Crossrefs\n- A: S [[Exod-25-18|Ex 25:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

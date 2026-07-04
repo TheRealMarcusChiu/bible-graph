@@ -1,0 +1,1 @@
+(function(){var b="181ff873293e",m="# Proverbs 15:5 (New International Version)\nA fool spurns a parent's discipline,  \n    but whoever heeds correction shows prudence.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-17|Pr 10:17]]; S [[Prov-12-1|12:1]]; S [[Prov-13-1|13:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

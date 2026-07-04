@@ -1,0 +1,1 @@
+(function(){var b="34bafe48c390",m="# Proverbs 24:34 (New International Version)\nand poverty will come on you like a thief  \n    and scarcity like an armed man.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-4|Pr 10:4]]; [[Eccl-10-18|Ecc 10:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

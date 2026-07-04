@@ -1,0 +1,1 @@
+(function(){var b="226c8bcd4cd0",m="# 1 Chronicles 9:9 (New International Version)\nThe people from Benjamin, as listed in their genealogy, numbered 956. All these men were heads of their families.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

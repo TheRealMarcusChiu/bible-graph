@@ -1,0 +1,1 @@
+(function(){var b="3ad4451a081a",m="# 2 Chronicles 34:32 (New International Version)\nThen he had everyone in Jerusalem and Benjamin pledge themselves to it; the people of Jerusalem did this in accordance with the covenant of God, the God of their ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

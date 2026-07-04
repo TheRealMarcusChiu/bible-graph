@@ -1,0 +1,1 @@
+(function(){var b="a16ead48fa2d",m="# Daniel 11:28 (New International Version)\nThe king of the North will return to his own country with great wealth, but his heart will be set against the holy covenant. He will take action against it and then return to his own country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="03eec4b1c277",m="# Job 41:20 (New International Version)\nSmoke pours from its nostrils<sup>^A</sup>  \n    as from a boiling pot over burning reeds.\n\n### Crossrefs\n- A: [[Ps-18-8|Ps 18:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

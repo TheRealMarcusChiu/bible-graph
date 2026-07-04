@@ -1,0 +1,1 @@
+(function(){var b="0938187ae4d7",m="# Nehemiah 7:26 (New International Version)\n\n### Crossrefs\n- A: S [[2Sam-23-28|2Sa 23:28]]; S [[1Chr-2-54|1Ch 2:54]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

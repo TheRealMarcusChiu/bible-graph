@@ -1,0 +1,1 @@
+(function(){var b="a176bcd1c554",m="# Psalm 99:5 (New International Version)\nExalt<sup>^A</sup> the LORD our God  \n    and worship at his footstool;  \n    he is holy.\n\n### Crossrefs\n- A: S [[Exod-15-2|Ex 15:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

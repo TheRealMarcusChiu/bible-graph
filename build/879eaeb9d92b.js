@@ -1,0 +1,1 @@
+(function(){var b="879eaeb9d92b",m="# Psalm 119:83 (New International Version)\nThough I am like a wineskin in the smoke,  \n    I do not forget<sup>^A</sup> your decrees.\n\n### Crossrefs\n- A: S [[Ps-119-61|ver 61]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

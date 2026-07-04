@@ -1,0 +1,1 @@
+(function(){var b="508eb8faaa29",m="# Nehemiah 11:2 (New International Version)\nThe people commended all who volunteered to live in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

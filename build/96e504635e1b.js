@@ -1,0 +1,1 @@
+(function(){var b="96e504635e1b",m="# Job 26:2 (New International Version)\n\"How you have helped the powerless!<sup>^A</sup>  \n    How you have saved the arm that is feeble!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-6-12|Job 6:12]]\n- B: S [[Job-4-3|Job 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f4b697eeab7a",m="# Job 38:25 (New International Version)\nWho cuts a channel for the torrents of rain,  \n    and a path for the thunderstorm,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-28-26|Job 28:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

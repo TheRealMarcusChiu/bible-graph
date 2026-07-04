@@ -1,0 +1,1 @@
+(function(){var b="dbb0c7128670",m="# 2 Chronicles 31:14 (New International Version)\nKore son of Imnah the Levite, keeper of the East Gate, was in charge of the freewill offerings given to God, distributing the contributions made to the LORD and also the consecrated gifts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

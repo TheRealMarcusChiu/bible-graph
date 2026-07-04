@@ -1,0 +1,1 @@
+(function(){var b="8f184da8bc73",m="# Song of Songs 1:16 (New International Version)\nHow handsome you are, my beloved!<sup>^A</sup>  \n    Oh, how charming!  \n    And our bed is verdant.\n\n### Crossrefs\n- A: S [[Song-1-14|ver 14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

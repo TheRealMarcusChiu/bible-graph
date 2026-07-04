@@ -1,0 +1,1 @@
+(function(){var b="d4828fabca30",m="# Jeremiah 32:38 (New International Version)\nThey will be my people,<sup>^A</sup> and I will be their God. \n\n### Crossrefs\n- A: [[Jer-24-7|Jer 24:7]]; 2Co 6:16*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

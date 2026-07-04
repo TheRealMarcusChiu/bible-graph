@@ -1,0 +1,1 @@
+(function(){var b="4dc12c832626",m="# Ezekiel 21:20 (New International Version)\nMark out one road for the sword to come against Rabbah of the Ammonites<sup>^A</sup> and another against Judah and fortified Jerusalem. \n\n### Crossrefs\n- A: S [[Deut-3-11|Dt 3:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

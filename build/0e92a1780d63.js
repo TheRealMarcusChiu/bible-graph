@@ -1,0 +1,1 @@
+(function(){var b="0e92a1780d63",m="# Job 39:3 (New International Version)\nThey crouch down and bring forth their young;  \n    their labor pains are ended.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

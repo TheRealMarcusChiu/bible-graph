@@ -1,0 +1,1 @@
+(function(){var b="b47ce57e1d8c",m="# Proverbs 27:4 (New International Version)\nAnger is cruel and fury overwhelming,  \n    but who can stand before jealousy?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-5-14|Nu 5:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

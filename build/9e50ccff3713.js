@@ -1,0 +1,1 @@
+(function(){var b="9e50ccff3713",m="# Psalm 114:5 (New International Version)\nWhy was it, sea, that you fled?<sup>^A</sup>  \n    Why, Jordan, did you turn back?\n\n### Crossrefs\n- A: S [[Exod-14-21|Ex 14:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

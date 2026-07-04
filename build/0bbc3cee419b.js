@@ -1,0 +1,1 @@
+(function(){var b="0bbc3cee419b",m="# Isaiah 41:6 (New International Version)\nthey help each other  \n    and say to their companions, \"Be strong!<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Josh-1-6|Jos 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20a3a624da1f",m="# Proverbs 21:24 (New International Version)\nThe proud and arrogant person<sup>^A</sup>--\"Mocker\" is his name--  \n    behaves with insolent fury.\n\n### Crossrefs\n- A: [[Jer-43-2|Jer 43:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

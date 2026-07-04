@@ -1,0 +1,1 @@
+(function(){var b="ea444b8a19ac",m="# 2 Kings 3:8 (New International Version)\n\"By what route shall we attack?\" he asked.\n\"Through the Desert of Edom,\" he answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

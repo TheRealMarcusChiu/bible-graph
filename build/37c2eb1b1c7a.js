@@ -1,0 +1,1 @@
+(function(){var b="37c2eb1b1c7a",m="# 1 Chronicles 1:41 (New International Version)\nThe son of Anah:\nDishon.\nThe sons of Dishon:\nHemdan, Eshban, Ithran and Keran.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

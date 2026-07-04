@@ -1,0 +1,1 @@
+(function(){var b="737988f8b6cb",m="# 1 Chronicles 11:35 (New International Version)\nAhiam son of Sakar the Hararite,\nEliphal son of Ur,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

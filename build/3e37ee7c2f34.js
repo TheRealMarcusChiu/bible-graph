@@ -1,0 +1,1 @@
+(function(){var b="3e37ee7c2f34",m="# Jeremiah 37:16 (New International Version)\nJeremiah was put into a vaulted cell in a dungeon, where he remained a long time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6140d9dc422a",m="# 1 Chronicles 13:4 (New International Version)\nThe whole assembly agreed to do this, because it seemed right to all the people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

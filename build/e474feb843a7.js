@@ -1,0 +1,1 @@
+(function(){var b="e474feb843a7",m="# Isaiah 11:7 (New International Version)\nThe cow will feed with the bear,  \n    their young will lie down together,  \n    and the lion will eat straw like the ox.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-40-15|Job 40:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

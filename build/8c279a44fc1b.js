@@ -1,0 +1,1 @@
+(function(){var b="8c279a44fc1b",m="# Daniel 6:11 (New International Version)\nThen these men went as a group and found Daniel praying and asking God for help.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Kgs-8-48|1Ki 8:48-50]]; [[Ps-55-17|Ps 55:17]]; [[1Thess-5-17|1Th 5:17-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

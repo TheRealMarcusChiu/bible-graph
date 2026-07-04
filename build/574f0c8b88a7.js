@@ -1,0 +1,1 @@
+(function(){var b="574f0c8b88a7",m="# Psalm 10:4 (New International Version)\nIn his pride the wicked man does not seek him;  \n    in all his thoughts there is no room for God.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-36-1|Ps 36:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dbf2caf94f99",m="# Psalm 69:30 (New International Version)\nI will praise God's name in song<sup>^A</sup>  \n    and glorify him<sup>^B</sup> with thanksgiving.\n\n### Crossrefs\n- A: [[Ps-28-7|Ps 28:7]]\n- B: [[Ps-34-3|Ps 34:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

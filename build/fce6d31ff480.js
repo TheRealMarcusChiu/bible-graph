@@ -1,0 +1,1 @@
+(function(){var b="fce6d31ff480",m="# Ezra 7:19 (New International Version)\nDeliver<sup>^A</sup> to the God of Jerusalem all the articles entrusted to you for worship in the temple of your God. \n\n### Crossrefs\n- A: [[Ezra-5-14|Ezr 5:14]]; [[Jer-27-22|Jer 27:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

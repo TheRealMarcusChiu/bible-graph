@@ -1,0 +1,1 @@
+(function(){var b="06903ca4fbea",m="# Job 23:3 (New International Version)\nIf only I knew where to find him;  \n    if only I could go to his dwelling!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-4-29|Dt 4:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

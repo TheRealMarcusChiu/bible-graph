@@ -1,0 +1,1 @@
+(function(){var b="ff57b9a593d3",m="# Nehemiah 11:12 (New International Version)\nand their associates, who carried on work for the temple--822 men; Adaiah son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malkijah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

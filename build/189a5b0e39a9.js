@@ -1,0 +1,1 @@
+(function(){var b="189a5b0e39a9",m="# Nehemiah 12:42 (New International Version)\nand also Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam and Ezer. The choirs sang under the direction of Jezrahiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

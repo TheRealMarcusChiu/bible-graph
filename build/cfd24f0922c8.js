@@ -1,0 +1,1 @@
+(function(){var b="cfd24f0922c8",m="# Ezekiel 4:13 (New International Version)\nThe LORD said, \"In this way the people of Israel will eat defiled food among the nations where I will drive them.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Hos-9-3|Hos 9:3]]; [[Amos-7-17|Am 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

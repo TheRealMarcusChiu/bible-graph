@@ -1,0 +1,1 @@
+(function(){var b="bf3740a163e9",m="# Jeremiah 7:7 (New International Version)\nthen I will let you live in this place, in the land<sup>^A</sup> I gave your ancestors<sup>^B</sup> for ever and ever. \n\n### Crossrefs\n- A: S [[Deut-4-40|Dt 4:40]]\n- B: S [[Josh-1-6|Jos 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

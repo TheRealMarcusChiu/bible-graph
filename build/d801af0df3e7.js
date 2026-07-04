@@ -1,0 +1,1 @@
+(function(){var b="d801af0df3e7",m="# Psalm 46:11 (New International Version)\nThe LORD Almighty is with us;  \n    the God of Jacob<sup>^A</sup> is our fortress.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-20-1|Ps 20:1]]\n- B: S [[Ps-46-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

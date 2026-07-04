@@ -1,0 +1,1 @@
+(function(){var b="31ee4f91ec2a",m="# 2 Chronicles 29:29 (New International Version)\nWhen the offerings were finished, the king and everyone present with him knelt down and worshiped.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Chr-20-18|2Ch 20:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

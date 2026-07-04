@@ -1,0 +1,1 @@
+(function(){var b="4a1421b8debd",m="# 2 Kings 15:28 (New International Version)\nHe did evil in the eyes of the LORD. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

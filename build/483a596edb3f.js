@@ -1,0 +1,1 @@
+(function(){var b="483a596edb3f",m="# Zechariah 5:7 (New International Version)\nThen the cover of lead was raised, and there in the basket sat a woman!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

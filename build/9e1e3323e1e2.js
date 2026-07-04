@@ -1,0 +1,1 @@
+(function(){var b="9e1e3323e1e2",m="# Proverbs 27:23 (New International Version)\nBe sure you know the condition of your flocks,<sup>^A</sup>  \n    give careful attention to your herds;\n\n### Crossrefs\n- A: [[Prov-12-10|Pr 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

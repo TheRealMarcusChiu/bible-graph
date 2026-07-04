@@ -1,0 +1,1 @@
+(function(){var b="6b1f97976307",m="# 2 Chronicles 10:14 (New International Version)\nhe followed the advice of the young men and said, \"My father made your yoke heavy; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

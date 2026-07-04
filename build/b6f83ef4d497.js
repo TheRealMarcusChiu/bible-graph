@@ -1,0 +1,1 @@
+(function(){var b="b6f83ef4d497",m="# Job 13:11 (New International Version)\nWould not his splendor<sup>^A</sup> terrify you?  \n    Would not the dread of him fall on you?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-31-23|Job 31:23]]\n- B: S [[Exod-3-6|Ex 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

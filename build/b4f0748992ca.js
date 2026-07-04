@@ -1,0 +1,1 @@
+(function(){var b="b4f0748992ca",m="# Lamentations 3:3 (New International Version)\nindeed, he has turned his hand against me<sup>^A</sup>  \n    again and again, all day long.\n\n### Crossrefs\n- A: [[Ps-38-2|Ps 38:2]]; [[Isa-5-25|Isa 5:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

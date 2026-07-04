@@ -1,0 +1,1 @@
+(function(){var b="8c209ddb00c1",m="# Psalm 135:8 (New International Version)\nHe struck down the firstborn<sup>^A</sup> of Egypt,  \n    the firstborn of people and animals.\n\n### Crossrefs\n- A: S [[Exod-4-23|Ex 4:23]]; S [[Exod-12-12|12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="611df084ac1f",m="# 2 Kings 5:9 (New International Version)\nSo Naaman went with his horses and chariots and stopped at the door of Elisha's house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

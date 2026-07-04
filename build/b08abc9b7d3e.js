@@ -1,0 +1,1 @@
+(function(){var b="b08abc9b7d3e",m="# Song of Songs 2:16 (New International Version)\nMy beloved is mine and I am his;<sup>^A</sup>  \n    he browses among the lilies.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Song-7-10|SS 7:10]]\n- B: [[Song-4-5|SS 4:5]]; [[Song-6-3|6:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

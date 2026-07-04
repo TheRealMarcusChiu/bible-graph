@@ -1,0 +1,1 @@
+(function(){var b="d8f09a9fcea5",m="# Psalm 89:34 (New International Version)\nI will not violate my covenant  \n    or alter what my lips have uttered.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-23-19|Nu 23:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c716a16fe17c",m="# Ezekiel 31:2 (New International Version)\n\"Son of man, say to Pharaoh king of Egypt and to his hordes:\n\"'Who can be compared with you in majesty?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

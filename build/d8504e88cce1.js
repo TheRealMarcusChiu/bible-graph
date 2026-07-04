@@ -1,0 +1,1 @@
+(function(){var b="d8504e88cce1",m="# Jeremiah 29:24 (New International Version)\nMessage to Shemaiah\nTell Shemaiah the Nehelamite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

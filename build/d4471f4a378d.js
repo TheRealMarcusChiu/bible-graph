@@ -1,0 +1,1 @@
+(function(){var b="d4471f4a378d",m="# 1 Chronicles 10:9 (New International Version)\nThey stripped him and took his head and his armor, and sent messengers throughout the land of the Philistines to proclaim the news among their idols and their people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

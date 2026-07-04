@@ -1,0 +1,1 @@
+(function(){var b="6ccbbbfc241a",m="# Lamentations 5:1 (New International Version)\nRemember, LORD, what has happened to us;  \n    look, and see our disgrace.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-44-13|Ps 44:13-16]]; [[Ps-89-50|89:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

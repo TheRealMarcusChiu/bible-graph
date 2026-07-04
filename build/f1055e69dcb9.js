@@ -1,0 +1,1 @@
+(function(){var b="f1055e69dcb9",m="# Job 17:7 (New International Version)\nMy eyes have grown dim with grief;<sup>^A</sup>  \n    my whole frame is but a shadow.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-16-8|Job 16:8]]\n- B: S [[Job-2-12|Job 2:12]]; S [[Job-16-16|16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

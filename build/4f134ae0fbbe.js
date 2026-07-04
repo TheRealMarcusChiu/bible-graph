@@ -1,0 +1,1 @@
+(function(){var b="4f134ae0fbbe",m="# Jeremiah 36:5 (New International Version)\nThen Jeremiah told Baruch, \"I am restricted; I am not allowed to go to the LORD's temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

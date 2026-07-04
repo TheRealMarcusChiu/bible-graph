@@ -1,0 +1,1 @@
+(function(){var b="bc440c936342",m="# Ecclesiastes 5:1 (New International Version)\nFulfill Your Vow to God\nGuard your steps when you go to the house of God. Go near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

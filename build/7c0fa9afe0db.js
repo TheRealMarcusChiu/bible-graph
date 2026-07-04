@@ -1,0 +1,1 @@
+(function(){var b="7c0fa9afe0db",m="# 1 Chronicles 4:2 (New International Version)\nReaiah son of Shobal was the father of Jahath, and Jahath the father of Ahumai and Lahad. These were the clans of the Zorathites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

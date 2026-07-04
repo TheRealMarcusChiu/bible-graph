@@ -1,0 +1,1 @@
+(function(){var b="4ed19a020f9c",m="# Psalm 136:20 (New International Version)\nand Og king of Bashan<sup>^A</sup>--  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Num-21-33|Nu 21:33-35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e8c724198e5b",m="# 2 Chronicles 13:21 (New International Version)\nBut Abijah grew in strength. He married fourteen wives and had twenty-two sons and sixteen daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

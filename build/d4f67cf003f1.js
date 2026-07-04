@@ -1,0 +1,1 @@
+(function(){var b="d4f67cf003f1",m="# Psalm 119:159 (New International Version)\nSee how I love your precepts;  \n    preserve my life,<sup>^A</sup> LORD, in accordance with your love.\n\n### Crossrefs\n- A: [[Ps-119-25|ver 25]]; S [[Ps-41-2|Ps 41:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

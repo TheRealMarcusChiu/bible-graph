@@ -1,0 +1,1 @@
+(function(){var b="4e7d3b80490a",m="# Lamentations 3:18 (New International Version)\nSo I say, \"My splendor is gone  \n    and all that I had hoped from the LORD.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lam-3-54|ver 54]]; S [[Job-17-15|Job 17:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

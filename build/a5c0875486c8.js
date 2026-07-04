@@ -1,0 +1,1 @@
+(function(){var b="a5c0875486c8",m="# Lamentations 3:17 (New International Version)\nI have been deprived of peace;  \n    I have forgotten what prosperity is.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

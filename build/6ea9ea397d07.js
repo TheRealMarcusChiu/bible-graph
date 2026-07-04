@@ -1,0 +1,1 @@
+(function(){var b="6ea9ea397d07",m="# Psalm 78:48 (New International Version)\nHe gave over their cattle to the hail,  \n    their livestock<sup>^A</sup> to bolts of lightning.\n\n### Crossrefs\n- A: [[Exod-9-25|Ex 9:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

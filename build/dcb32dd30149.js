@@ -1,0 +1,1 @@
+(function(){var b="dcb32dd30149",m="# Job 39:26 (New International Version)\n\"Does the hawk take flight by your wisdom  \n    and spread its wings toward the south?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-8-7|Jer 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d69b90e0602",m="# Zephaniah 2:6 (New International Version)\nThe land by the sea will become pastures  \n    having wells for shepherds  \n    and pens for flocks.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-5-17|Isa 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

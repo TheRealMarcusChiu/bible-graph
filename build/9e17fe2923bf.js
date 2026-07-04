@@ -1,0 +1,1 @@
+(function(){var b="9e17fe2923bf",m="# Amos 5:13 (New International Version)\nTherefore the prudent keep quiet<sup>^A</sup> in such times,  \n    for the times are evil.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Esth-4-14|Est 4:14]]\n- B: [[Mic-2-3|Mic 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

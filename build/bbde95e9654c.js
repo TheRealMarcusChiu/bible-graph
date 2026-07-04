@@ -1,0 +1,1 @@
+(function(){var b="bbde95e9654c",m="# Proverbs 16:29 (New International Version)\nA violent person entices their neighbor  \n    and leads them down a path that is not good.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-1-10|Pr 1:10]]; [[Prov-12-26|12:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

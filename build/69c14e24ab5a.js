@@ -1,0 +1,1 @@
+(function(){var b="69c14e24ab5a",m="# Ecclesiastes 4:16 (New International Version)\nThere was no end to all the people who were before them. But those who came later were not pleased with the successor. This too is meaningless, a chasing after the wind.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

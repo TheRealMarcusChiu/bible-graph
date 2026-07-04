@@ -1,0 +1,1 @@
+(function(){var b="f3e404637548",m="# Psalm 106:2 (New International Version)\nWho can proclaim the mighty acts<sup>^A</sup> of the LORD  \n    or fully declare his praise?\n\n### Crossrefs\n- A: S [[Ps-71-16|Ps 71:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

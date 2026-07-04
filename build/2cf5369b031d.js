@@ -1,0 +1,1 @@
+(function(){var b="2cf5369b031d",m="# Psalm 116:11 (New International Version)\nin my alarm I said,  \n    \"Everyone is a liar.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-9-3|Jer 9:3-5]]; [[Hos-7-13|Hos 7:13]]; [[Mic-6-12|Mic 6:12]]; [[Rom-3-4|Ro 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c1930da3c821",m="# Proverbs 30:28 (New International Version)\na lizard can be caught with the hand,  \n    yet it is found in kings' palaces.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

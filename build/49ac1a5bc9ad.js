@@ -1,0 +1,1 @@
+(function(){var b="49ac1a5bc9ad",m="# Psalm 47:6 (New International Version)\nSing praises<sup>^A</sup> to God, sing praises;  \n    sing praises to our King, sing praises.\n\n### Crossrefs\n- A: S [[2Sam-22-50|2Sa 22:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

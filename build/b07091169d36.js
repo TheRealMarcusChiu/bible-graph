@@ -1,0 +1,1 @@
+(function(){var b="b07091169d36",m="# Lamentations 3:37 (New International Version)\nWho can speak and have it happen  \n    if the Lord has not decreed it?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-33-9|Ps 33:9-11]]; S [[Prov-19-21|Pr 19:21]]; S [[Prov-21-30|21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

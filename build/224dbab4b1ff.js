@@ -1,0 +1,1 @@
+(function(){var b="224dbab4b1ff",m="# 2 Kings 10:22 (New International Version)\nAnd Jehu said to the keeper of the wardrobe, \"Bring robes for all the servants of Baal.\" So he brought out robes for them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

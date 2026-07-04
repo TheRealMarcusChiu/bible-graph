@@ -1,0 +1,1 @@
+(function(){var b="2bc3e823be36",m="# 1 Chronicles 1:10 (New International Version)\nCush was the father of\nNimrod, who became a mighty warrior on earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

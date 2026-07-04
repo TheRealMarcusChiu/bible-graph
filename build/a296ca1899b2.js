@@ -1,0 +1,1 @@
+(function(){var b="a296ca1899b2",m="# 1 Chronicles 27:13 (New International Version)\nThe tenth, for the tenth month, was Maharai<sup>^A</sup> the Netophathite, a Zerahite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: [[2Sam-23-28|2Sa 23:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3ad7c2ed36fd",m="# 1 Chronicles 24:8 (New International Version)\nthe third to Harim,<sup>^A</sup>\nthe fourth to Seorim,\n\n### Crossrefs\n- A: [[Ezra-2-39|Ezr 2:39]]; [[Ezra-10-21|10:21]]; [[Neh-10-5|Ne 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc9be9488fa8",m="# Psalm 85:13 (New International Version)\nRighteousness goes before him  \n    and prepares the way for his steps.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

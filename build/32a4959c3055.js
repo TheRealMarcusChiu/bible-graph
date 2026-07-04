@@ -1,0 +1,1 @@
+(function(){var b="32a4959c3055",m="# 2 Kings 10:8 (New International Version)\nWhen the messenger arrived, he told Jehu, \"They have brought the heads of the princes.\"\nThen Jehu ordered, \"Put them in two piles at the entrance of the city gate until morning.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

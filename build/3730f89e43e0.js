@@ -1,0 +1,1 @@
+(function(){var b="3730f89e43e0",m="# 2 Chronicles 4:10 (New International Version)\nHe placed the Sea on the south side, at the southeast corner.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

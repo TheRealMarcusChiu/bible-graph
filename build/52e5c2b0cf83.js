@@ -1,0 +1,1 @@
+(function(){var b="52e5c2b0cf83",m="# Psalm 81:15 (New International Version)\nThose who hate the LORD would cringe<sup>^A</sup> before him,  \n    and their punishment would last forever.\n\n### Crossrefs\n- A: S [[2Sam-22-45|2Sa 22:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

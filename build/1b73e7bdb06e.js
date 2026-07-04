@@ -1,0 +1,1 @@
+(function(){var b="1b73e7bdb06e",m="# Hosea 2:1 (New International Version)\n\"Say of your brothers, 'My people,' and of your sisters, 'My loved one.'<sup>^A</sup>\n\n### Crossrefs\n- A: [[Hos-2-23|ver 23]]; [[1Pet-2-10|1Pe 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

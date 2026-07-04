@@ -1,0 +1,1 @@
+(function(){var b="948993e38c1c",m="# Ezra 2:36 (New International Version)\nThe priests:\n\n### Crossrefs\n- A: S [[1Chr-24-7|1Ch 24:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

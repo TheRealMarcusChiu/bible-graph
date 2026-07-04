@@ -1,0 +1,1 @@
+(function(){var b="f1334d6ef523",m="# Jonah 1:8 (New International Version)\nSo they asked him, \"Tell us, who is responsible for making all this trouble for us? What kind of work do you do? Where do you come from? What is your country? From what people are you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1b79b012d0d7",m="# Proverbs 26:21 (New International Version)\nAs charcoal to embers and as wood to fire,  \n    so is a quarrelsome person for kindling strife.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-14-17|Pr 14:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

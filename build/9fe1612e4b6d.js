@@ -1,0 +1,1 @@
+(function(){var b="9fe1612e4b6d",m="# Ezekiel 29:6 (New International Version)\nThen all who live in Egypt will know that I am the LORD.\n\"'You have been a staff of reed<sup>^A</sup> for the people of Israel. \n\n### Crossrefs\n- A: S [[2Kgs-18-21|2Ki 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

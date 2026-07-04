@@ -1,0 +1,1 @@
+(function(){var b="54ef0e86fc7f",m="# 2 Chronicles 20:32 (New International Version)\nHe followed the ways of his father Asa and did not stray from them; he did what was right in the eyes of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

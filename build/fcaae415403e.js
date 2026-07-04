@@ -1,0 +1,1 @@
+(function(){var b="fcaae415403e",m="# Esther 6:14 (New International Version)\nWhile they were still talking with him, the king's eunuchs arrived and hurried Haman away to the banquet<sup>^A</sup> Esther had prepared.\n\n### Crossrefs\n- A: S [[1Kgs-3-15|1Ki 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

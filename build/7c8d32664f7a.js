@@ -1,0 +1,1 @@
+(function(){var b="7c8d32664f7a",m="# Proverbs 20:4 (New International Version)\nSluggards<sup>^A</sup> do not plow in season;  \n    so at harvest time they look but find nothing.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-6-6|Pr 6:6]]\n- B: [[Eccl-10-18|Ecc 10:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

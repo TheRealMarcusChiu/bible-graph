@@ -1,0 +1,1 @@
+(function(){var b="36d291b0a7ba",m="# Proverbs 26:14 (New International Version)\nAs a door turns on its hinges,  \n    so a sluggard turns on his bed.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-6-9|Pr 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

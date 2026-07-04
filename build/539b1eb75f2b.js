@@ -1,0 +1,1 @@
+(function(){var b="539b1eb75f2b",m="# Psalm 146:1 (New International Version)\nPsalm 146\nPraise the LORD.\nPraise the LORD,<sup>^A</sup> my soul.\n\n### Crossrefs\n- A: [[Ps-103-1|Ps 103:1]]; [[Ps-104-1|104:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

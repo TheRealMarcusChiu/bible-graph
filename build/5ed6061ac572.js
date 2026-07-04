@@ -1,0 +1,1 @@
+(function(){var b="5ed6061ac572",m="# Job 39:15 (New International Version)\nunmindful that a foot may crush them,  \n    that some wild animal may trample them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Kgs-14-9|2Ki 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

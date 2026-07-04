@@ -1,0 +1,1 @@
+(function(){var b="aa9a8f181406",m="# Psalm 74:6 (New International Version)\nThey smashed all the carved<sup>^A</sup> paneling  \n    with their axes and hatchets.\n\n### Crossrefs\n- A: S [[1Kgs-6-18|1Ki 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

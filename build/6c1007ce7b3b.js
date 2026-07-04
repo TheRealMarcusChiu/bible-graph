@@ -1,0 +1,1 @@
+(function(){var b="6c1007ce7b3b",m="# Proverbs 22:10 (New International Version)\nDrive out the mocker, and out goes strife;  \n    quarrels and insults are ended.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-26-20|Pr 26:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

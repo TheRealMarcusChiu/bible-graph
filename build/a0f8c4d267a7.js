@@ -1,0 +1,1 @@
+(function(){var b="a0f8c4d267a7",m="# 2 Chronicles 9:17 (New International Version)\nThen the king made a great throne covered with ivory<sup>^A</sup> and overlaid with pure gold. \n\n### Crossrefs\n- A: S [[1Kgs-22-39|1Ki 22:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

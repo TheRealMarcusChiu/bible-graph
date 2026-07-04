@@ -1,0 +1,1 @@
+(function(){var b="e3f653f521ea",m="# Lamentations 3:56 (New International Version)\nYou heard my plea:<sup>^A</sup> \"Do not close your ears  \n    to my cry for relief.\"\n\n### Crossrefs\n- A: S [[Ps-55-1|Ps 55:1]]; [[Ps-116-1|116:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5766c31e15a4",m="# Ezekiel 36:16 (New International Version)\nIsrael's Restoration Assured\nAgain the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

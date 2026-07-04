@@ -1,0 +1,1 @@
+(function(){var b="a3bc9977d460",m="# Psalm 118:19 (New International Version)\nOpen for me the gates<sup>^A</sup> of the righteous;  \n    I will enter<sup>^B</sup> and give thanks to the LORD.\n\n### Crossrefs\n- A: S [[Ps-24-7|Ps 24:7]]\n- B: [[Ps-100-4|Ps 100:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

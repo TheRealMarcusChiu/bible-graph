@@ -1,0 +1,1 @@
+(function(){var b="373b631cabff",m="# Psalm 109:12 (New International Version)\nMay no one extend kindness to him  \n    or take pity<sup>^A</sup> on his fatherless children.\n\n### Crossrefs\n- A: S [[Job-5-4|Job 5:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

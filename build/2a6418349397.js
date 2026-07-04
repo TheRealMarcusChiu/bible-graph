@@ -1,0 +1,1 @@
+(function(){var b="2a6418349397",m="# Nahum 1:9 (New International Version)\nWhatever they plot<sup>^A</sup> against the LORD  \n    he will bring to an end;  \n    trouble will not come a second time.\n\n### Crossrefs\n- A: S [[Hos-7-15|Hos 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

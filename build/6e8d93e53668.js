@@ -1,0 +1,1 @@
+(function(){var b="6e8d93e53668",m="# 1 Chronicles 23:17 (New International Version)\nThe descendants of Eliezer:\nRehabiah<sup>^A</sup> was the first.\nEliezer had no other sons, but the sons of Rehabiah were very numerous.\n\n### Crossrefs\n- A: [[1Chr-24-21|1Ch 24:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

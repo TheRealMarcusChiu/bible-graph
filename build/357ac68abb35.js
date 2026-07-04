@@ -1,0 +1,1 @@
+(function(){var b="357ac68abb35",m="# 1 Chronicles 6:4 (New International Version)\nEleazar was the father of Phinehas,<sup>^A</sup>\nPhinehas the father of Abishua,\n\n### Crossrefs\n- A: [[Ezra-7-5|Ezr 7:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

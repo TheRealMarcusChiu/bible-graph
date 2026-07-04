@@ -1,0 +1,1 @@
+(function(){var b="8de804bea6ae",m="# Zechariah 5:6 (New International Version)\nI asked, \"What is it?\"\nHe replied, \"It is a basket.<sup>^A</sup>\" And he added, \"This is the iniquity of the people throughout the land.\"\n\n### Crossrefs\n- A: [[Mic-6-10|Mic 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

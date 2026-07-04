@@ -1,0 +1,1 @@
+(function(){var b="64da7f593991",m="# 2 Kings 10:9 (New International Version)\nThe next morning Jehu went out. He stood before all the people and said, \"You are innocent. It was I who conspired against my master and killed him, but who killed all these?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

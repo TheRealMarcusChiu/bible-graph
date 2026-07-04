@@ -1,0 +1,1 @@
+(function(){var b="a47ec8b0bcb0",m="# Proverbs 14:20 (New International Version)\nThe poor are shunned even by their neighbors,  \n    but the rich have many friends.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-4|Pr 19:4]], [[Prov-19-7|7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

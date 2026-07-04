@@ -1,0 +1,1 @@
+(function(){var b="ae00c5b22130",m="# Jeremiah 1:7 (New International Version)\nBut the LORD said to me, \"Do not say, 'I am too young.' You must go to everyone I send you to and say whatever I command you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

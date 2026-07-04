@@ -1,0 +1,1 @@
+(function(){var b="c289f4417c2c",m="# 2 Chronicles 27:4 (New International Version)\nHe built towns in the hill country of Judah and forts and towers in the wooded areas.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

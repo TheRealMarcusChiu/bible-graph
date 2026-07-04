@@ -1,0 +1,1 @@
+(function(){var b="dc375a4721e2",m="# Psalm 119:61 (New International Version)\nThough the wicked bind me with ropes,  \n    I will not forget<sup>^A</sup> your law.\n\n### Crossrefs\n- A: [[Ps-119-83|ver 83]], [[Ps-119-109|109]], [[Ps-119-153|153]], [[Ps-119-176|176]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

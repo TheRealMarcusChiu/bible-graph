@@ -1,0 +1,1 @@
+(function(){var b="9aa3cd888ccd",m="# Song of Songs 7:9 (New International Version)\nand your mouth like the best wine.\nMay the wine go straight to my beloved,<sup>^A</sup>  \n    flowing gently over lips and teeth.\n\n### Crossrefs\n- A: [[Song-5-16|SS 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9bf0a98ec8fa",m="# 2 Kings 17:11 (New International Version)\nAt every high place they burned incense, as the nations whom the LORD had driven out before them had done. They did wicked things that aroused the LORD's anger.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

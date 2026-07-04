@@ -1,0 +1,1 @@
+(function(){var b="f207ba63dc2f",m="# Proverbs 1:13 (New International Version)\nwe will get all sorts of valuable things  \n    and fill our houses with plunder;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

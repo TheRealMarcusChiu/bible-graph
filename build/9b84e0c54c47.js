@@ -1,0 +1,1 @@
+(function(){var b="9b84e0c54c47",m="# Proverbs 3:32 (New International Version)\nFor the LORD detests the perverse<sup>^A</sup>  \n    but takes the upright into his confidence.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-101-4|Ps 101:4]]\n- B: S [[Job-29-4|Job 29:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

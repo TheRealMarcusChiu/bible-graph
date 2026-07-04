@@ -1,0 +1,1 @@
+(function(){var b="ec69d8d17fbf",m="# Psalm 124:6 (New International Version)\nPraise be to the LORD,  \n    who has not let us be torn by their teeth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

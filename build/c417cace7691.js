@@ -1,0 +1,1 @@
+(function(){var b="c417cace7691",m="# Proverbs 31:19 (New International Version)\nIn her hand she holds the distaff  \n    and grasps the spindle with her fingers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

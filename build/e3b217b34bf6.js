@@ -1,0 +1,1 @@
+(function(){var b="e3b217b34bf6",m="# Job 42:17 (New International Version)\nAnd so Job died, an old man and full of years.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-15-15|Ge 15:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

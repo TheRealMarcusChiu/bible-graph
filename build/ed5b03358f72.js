@@ -1,0 +1,1 @@
+(function(){var b="ed5b03358f72",m="# 2 Chronicles 24:15 (New International Version)\nNow Jehoiada was old and full of years, and he died at the age of a hundred and thirty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a9ef1496b73a",m="# Daniel 11:23 (New International Version)\nAfter coming to an agreement with him, he will act deceitfully,<sup>^A</sup> and with only a few people he will rise to power. \n\n### Crossrefs\n- A: [[Dan-8-25|Da 8:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fe53ad820997",m="# 1 Chronicles 21:21 (New International Version)\nThen David approached, and when Araunah looked and saw him, he left the threshing floor and bowed down before David with his face to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

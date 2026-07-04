@@ -1,0 +1,1 @@
+(function(){var b="11f4bac2a6a2",m="# Psalm 105:7 (New International Version)\nHe is the LORD our God;  \n    his judgments are in all the earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

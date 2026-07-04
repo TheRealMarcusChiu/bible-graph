@@ -1,0 +1,1 @@
+(function(){var b="b3ab6fc2fbcb",m="# Proverbs 12:5 (New International Version)\nThe plans of the righteous are just,  \n    but the advice of the wicked is deceitful.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

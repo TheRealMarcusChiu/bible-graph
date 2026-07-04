@@ -1,0 +1,1 @@
+(function(){var b="bf3ad3e5ee44",m="# Isaiah 28:10 (New International Version)\nFor it is:  \n    Do this, do that,  \n    a rule for this, a rule for that;  \n    a little here, a little there.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Isa-28-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

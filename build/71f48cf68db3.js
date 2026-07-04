@@ -1,0 +1,1 @@
+(function(){var b="71f48cf68db3",m="# Ecclesiastes 8:11 (New International Version)\nWhen the sentence for a crime is not quickly carried out, people's hearts are filled with schemes to do wrong.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

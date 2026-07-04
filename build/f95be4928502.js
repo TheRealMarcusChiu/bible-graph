@@ -1,0 +1,1 @@
+(function(){var b="f95be4928502",m="# Psalm 105:12 (New International Version)\nWhen they were but few in number,<sup>^A</sup>  \n    few indeed, and strangers in it,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Deut-7-7|Dt 7:7]]\n- B: [[Gen-23-4|Ge 23:4]]; [[Heb-11-9|Heb 11:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

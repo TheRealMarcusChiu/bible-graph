@@ -1,0 +1,1 @@
+(function(){var b="ebd5eac64ca4",m="# Ezra 10:39 (New International Version)\nShelemiah, Nathan, Adaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

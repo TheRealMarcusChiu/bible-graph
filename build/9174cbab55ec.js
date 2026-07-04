@@ -1,0 +1,1 @@
+(function(){var b="9174cbab55ec",m="# Proverbs 23:16 (New International Version)\nmy inmost being will rejoice  \n    when your lips speak what is right.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-24|ver 24]]; [[Prov-27-11|Pr 27:11]]; [[Prov-29-3|29:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

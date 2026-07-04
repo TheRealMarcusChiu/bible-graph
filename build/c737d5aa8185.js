@@ -1,0 +1,1 @@
+(function(){var b="c737d5aa8185",m="# Jeremiah 29:29 (New International Version)\nZephaniah<sup>^A</sup> the priest, however, read the letter to Jeremiah the prophet. \n\n### Crossrefs\n- A: [[Jer-21-1|Jer 21:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

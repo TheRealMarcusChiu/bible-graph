@@ -1,0 +1,1 @@
+(function(){var b="f56fc3458949",m="# 2 Kings 11:8 (New International Version)\nStation yourselves around the king, each of you with weapon in hand. Anyone who approaches your ranks is to be put to death. Stay close to the king wherever he goes.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

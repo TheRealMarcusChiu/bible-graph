@@ -1,0 +1,1 @@
+(function(){var b="4e350b104048",m="# Psalm 88:2 (New International Version)\nMay my prayer come before you;  \n    turn your ear to my cry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

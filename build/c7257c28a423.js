@@ -1,0 +1,1 @@
+(function(){var b="c7257c28a423",m="# Proverbs 31:18 (New International Version)\nShe sees that her trading is profitable,  \n    and her lamp does not go out at night.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

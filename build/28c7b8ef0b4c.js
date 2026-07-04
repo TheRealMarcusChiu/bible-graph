@@ -1,0 +1,1 @@
+(function(){var b="28c7b8ef0b4c",m="# 2 Chronicles 15:4 (New International Version)\nBut in their distress they turned to the LORD, the God of Israel, and sought him,<sup>^A</sup> and he was found by them. \n\n### Crossrefs\n- A: S [[Deut-4-29|Dt 4:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

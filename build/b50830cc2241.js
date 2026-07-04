@@ -1,0 +1,1 @@
+(function(){var b="b50830cc2241",m="# Proverbs 8:33 (New International Version)\nListen to my instruction and be wise;  \n    do not disregard it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

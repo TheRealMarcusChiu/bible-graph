@@ -1,0 +1,1 @@
+(function(){var b="8ddbbeb41ade",m="# Job 41:16 (New International Version)\neach is so close to the next  \n    that no air can pass between.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

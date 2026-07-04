@@ -1,0 +1,1 @@
+(function(){var b="3e81ed5fd98f",m="# Job 30:2 (New International Version)\nOf what use was the strength of their hands to me,  \n    since their vigor had gone from them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

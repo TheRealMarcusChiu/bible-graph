@@ -1,0 +1,1 @@
+(function(){var b="102a2cef9b6a",m="# 1 Chronicles 6:63 (New International Version)\nThe descendants of Merari, clan by clan, were allotted twelve towns from the tribes of Reuben, Gad and Zebulun.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

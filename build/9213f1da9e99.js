@@ -1,0 +1,1 @@
+(function(){var b="9213f1da9e99",m="# Jeremiah 28:12 (New International Version)\nAfter the prophet Hananiah had broken the yoke off the neck of the prophet Jeremiah, the word of the LORD came to Jeremiah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

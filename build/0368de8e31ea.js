@@ -1,0 +1,1 @@
+(function(){var b="0368de8e31ea",m="# Ezekiel 7:1 (New International Version)\nThe End Has Come\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

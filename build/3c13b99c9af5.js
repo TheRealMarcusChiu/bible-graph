@@ -1,0 +1,1 @@
+(function(){var b="3c13b99c9af5",m="# Psalm 117:1 (New International Version)\nPsalm 117\nPraise the LORD,<sup>^A</sup> all you nations;<sup>^B</sup>  \n    extol him, all you peoples.\n\n### Crossrefs\n- A: S [[Ps-22-23|Ps 22:23]]; S [[Ps-103-2|103:2]]\n- B: Ro 15:11*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

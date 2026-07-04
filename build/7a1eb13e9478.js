@@ -1,0 +1,1 @@
+(function(){var b="7a1eb13e9478",m="# Ezekiel 33:17 (New International Version)\n\"Yet your people say, 'The way of the Lord is not just.' But it is their way that is not just.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

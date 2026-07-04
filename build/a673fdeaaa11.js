@@ -1,0 +1,1 @@
+(function(){var b="a673fdeaaa11",m="# 2 Chronicles 25:25 (New International Version)\nAmaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

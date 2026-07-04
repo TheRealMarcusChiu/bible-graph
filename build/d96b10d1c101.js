@@ -1,0 +1,1 @@
+(function(){var b="d96b10d1c101",m="# Psalm 10:5 (New International Version)\nHis ways are always prosperous;  \n    your laws are rejected by him;  \n    he sneers at all his enemies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

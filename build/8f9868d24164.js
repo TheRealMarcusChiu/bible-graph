@@ -1,0 +1,1 @@
+(function(){var b="8f9868d24164",m="# 1 Chronicles 6:37 (New International Version)\nthe son of Tahath, the son of Assir,\nthe son of Ebiasaph, the son of Korah,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-6-24|Ex 6:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

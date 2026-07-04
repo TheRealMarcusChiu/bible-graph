@@ -1,0 +1,1 @@
+(function(){var b="3666a08edb14",m="# 2 Chronicles 6:9 (New International Version)\nNevertheless, you are not the one to build the temple, but your son, your own flesh and blood--he is the one who will build the temple for my Name.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

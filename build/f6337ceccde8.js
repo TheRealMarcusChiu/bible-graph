@@ -1,0 +1,1 @@
+(function(){var b="f6337ceccde8",m="# Proverbs 16:23 (New International Version)\nThe hearts of the wise make their mouths prudent,<sup>^A</sup>  \n    and their lips promote instruction.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-15-5|Job 15:5]]\n- B: [[Prov-16-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

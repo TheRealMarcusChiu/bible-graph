@@ -1,0 +1,1 @@
+(function(){var b="46e5a5351a27",m="# Jeremiah 21:11 (New International Version)\n\"Moreover, say to the royal house<sup>^A</sup> of Judah, 'Hear the word of the LORD. \n\n### Crossrefs\n- A: S [[Jer-13-18|Jer 13:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

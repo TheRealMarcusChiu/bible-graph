@@ -1,0 +1,1 @@
+(function(){var b="0623eb697f4a",m="# Psalm 66:20 (New International Version)\nPraise be to God,  \n    who has not rejected<sup>^A</sup> my prayer  \n    or withheld his love from me!\n\n### Crossrefs\n- A: [[Ps-22-24|Ps 22:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

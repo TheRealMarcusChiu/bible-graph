@@ -1,0 +1,1 @@
+(function(){var b="321a657bef39",m="# Psalm 78:62 (New International Version)\nHe gave his people over to the sword;<sup>^A</sup>  \n    he was furious with his inheritance.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-28-25|Dt 28:25]]\n- B: S [[1Sam-10-1|1Sa 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

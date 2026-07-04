@@ -1,0 +1,1 @@
+(function(){var b="54036336ade0",m="# Nehemiah 11:33 (New International Version)\nin Hazor,<sup>^A</sup> Ramah<sup>^B</sup> and Gittaim,<sup>^C</sup> \n\n### Crossrefs\n- A: S [[Josh-11-1|Jos 11:1]]\n- B: S [[Josh-18-25|Jos 18:25]]\n- C: [[2Sam-4-3|2Sa 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

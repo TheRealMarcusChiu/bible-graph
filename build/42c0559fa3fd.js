@@ -1,0 +1,1 @@
+(function(){var b="42c0559fa3fd",m="# 2 Kings 10:26 (New International Version)\nThey brought the sacred stone<sup>^A</sup> out of the temple of Baal and burned it. \n\n### Crossrefs\n- A: S [[Exod-23-24|Ex 23:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

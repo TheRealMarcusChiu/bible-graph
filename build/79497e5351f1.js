@@ -1,0 +1,1 @@
+(function(){var b="79497e5351f1",m="# 2 Chronicles 11:3 (New International Version)\n\"Say to Rehoboam son of Solomon king of Judah and to all Israel in Judah and Benjamin,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

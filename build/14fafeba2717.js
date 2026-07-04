@@ -1,0 +1,1 @@
+(function(){var b="14fafeba2717",m="# Psalm 81:9 (New International Version)\nYou shall have no foreign god<sup>^A</sup> among you;  \n    you shall not worship any god other than me.\n\n### Crossrefs\n- A: S [[Exod-20-3|Ex 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

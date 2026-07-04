@@ -1,0 +1,1 @@
+(function(){var b="e6f3d8424a2f",m="# Ezra 5:10 (New International Version)\nWe also asked them their names, so that we could write down the names of their leaders for your information.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

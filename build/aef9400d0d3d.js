@@ -1,0 +1,1 @@
+(function(){var b="aef9400d0d3d",m="# Ezekiel 40:13 (New International Version)\nThen he measured the gateway from the top of the rear wall of one alcove to the top of the opposite one; the distance was twenty-five cubits from one parapet opening to the opposite one.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

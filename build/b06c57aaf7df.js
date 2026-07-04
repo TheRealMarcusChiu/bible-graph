@@ -1,0 +1,1 @@
+(function(){var b="b06c57aaf7df",m="# Job 41:7 (New International Version)\nCan you fill its hide with harpoons  \n    or its head with fishing spears?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-40-24|Job 40:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4cc6c85aa63e",m="# Job 23:14 (New International Version)\nHe carries out his decree against me,  \n    and many such plans he still has in store.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Thess-3-3|1Th 3:3]]; [[1Pet-4-12|1Pe 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

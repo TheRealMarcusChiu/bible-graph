@@ -1,0 +1,1 @@
+(function(){var b="c6b3b9cae9e7",m="# 1 Chronicles 8:22 (New International Version)\nIshpan, Eber, Eliel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

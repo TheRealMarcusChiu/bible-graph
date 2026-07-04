@@ -1,0 +1,1 @@
+(function(){var b="c46a6f2fc34f",m="# Amos 7:5 (New International Version)\nThen I cried out, \"Sovereign LORD, I beg you, stop! How can Jacob survive? He is so small!<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Amos-7-1|ver 1-2]]; [[Joel-2-17|Joel 2:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

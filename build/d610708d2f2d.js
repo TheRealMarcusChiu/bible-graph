@@ -1,0 +1,1 @@
+(function(){var b="d610708d2f2d",m="# 1 Chronicles 1:44 (New International Version)\nWhen Bela died, Jobab son of Zerah from Bozrah succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

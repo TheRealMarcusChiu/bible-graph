@@ -1,0 +1,1 @@
+(function(){var b="dc3d5ed58c6b",m="# Proverbs 13:5 (New International Version)\nThe righteous hate what is false,<sup>^A</sup>  \n    but the wicked make themselves a stench  \n    and bring shame on themselves.\n\n### Crossrefs\n- A: S [[Ps-119-128|Ps 119:128]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

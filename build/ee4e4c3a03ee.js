@@ -1,0 +1,1 @@
+(function(){var b="ee4e4c3a03ee",m="# Psalm 103:10 (New International Version)\nhe does not treat us as our sins deserve<sup>^A</sup>  \n    or repay us according to our iniquities.\n\n### Crossrefs\n- A: S [[Ezra-9-13|Ezr 9:13]]; [[Rom-6-23|Ro 6:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

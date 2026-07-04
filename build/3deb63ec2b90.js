@@ -1,0 +1,1 @@
+(function(){var b="3deb63ec2b90",m="# 1 Chronicles 9:25 (New International Version)\nTheir fellow Levites in their villages had to come from time to time and share their duties for seven-day<sup>^A</sup> periods. \n\n### Crossrefs\n- A: [[2Kgs-11-5|2Ki 11:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

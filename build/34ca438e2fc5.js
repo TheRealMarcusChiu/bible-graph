@@ -1,0 +1,1 @@
+(function(){var b="34ca438e2fc5",m="# Micah 1:10 (New International Version)\nTell it not in Gath;  \n    weep not at all.  \nIn Beth Ophrah  \n    roll in the dust.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

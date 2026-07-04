@@ -1,0 +1,1 @@
+(function(){var b="e7a43aac09f0",m="# 2 Kings 3:14 (New International Version)\nElisha said, \"As surely as the LORD Almighty lives, whom I serve, if I did not have respect for the presence of Jehoshaphat king of Judah, I would not pay any attention to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

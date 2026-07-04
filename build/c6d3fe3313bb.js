@@ -1,0 +1,1 @@
+(function(){var b="c6d3fe3313bb",m="# Proverbs 7:15 (New International Version)\nSo I came out to meet you;  \n    I looked for you and have found you!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="921116c79cb2",m="# 1 Chronicles 7:21 (New International Version)\nZabad his son\nand Shuthelah his son.\nEzer and Elead were killed by the native-born men of Gath, when they went down to seize their livestock.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

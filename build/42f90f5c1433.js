@@ -1,0 +1,1 @@
+(function(){var b="42f90f5c1433",m="# 2 Chronicles 10:19 (New International Version)\nSo Israel has been in rebellion against the house of David to this day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

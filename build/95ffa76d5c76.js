@@ -1,0 +1,1 @@
+(function(){var b="95ffa76d5c76",m="# 2 Kings 25:10 (New International Version)\nThe whole Babylonian army under the commander of the imperial guard broke down the walls<sup>^A</sup> around Jerusalem. \n\n### Crossrefs\n- A: [[Neh-1-3|Ne 1:3]]; [[Jer-50-15|Jer 50:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

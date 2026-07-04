@@ -1,0 +1,1 @@
+(function(){var b="18f906c61b4d",m="# Psalm 108:3 (New International Version)\nI will praise you, LORD, among the nations;  \n    I will sing of you among the peoples.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

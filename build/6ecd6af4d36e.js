@@ -1,0 +1,1 @@
+(function(){var b="6ecd6af4d36e",m="# Proverbs 23:30 (New International Version)\nThose who linger over wine,<sup>^A</sup>  \n    who go to sample bowls of mixed wine.\n\n### Crossrefs\n- A: [[Prov-23-20|ver 20-21]]; [[Isa-5-11|Isa 5:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

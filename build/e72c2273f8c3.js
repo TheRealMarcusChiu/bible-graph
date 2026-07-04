@@ -1,0 +1,1 @@
+(function(){var b="e72c2273f8c3",m="# Job 17:10 (New International Version)\n\"But come on, all of you, try again!  \n    I will not find a wise man among you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-2|Job 12:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

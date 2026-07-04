@@ -1,0 +1,1 @@
+(function(){var b="d5a44e2b8107",m="# Daniel 4:6 (New International Version)\nSo I commanded that all the wise men of Babylon be brought before me to interpret<sup>^A</sup> the dream for me. \n\n### Crossrefs\n- A: [[Dan-2-2|Da 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="55353f84429c",m="# Job 42:12 (New International Version)\nThe LORD blessed the latter part of Job's life more than the former part. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand donkeys.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

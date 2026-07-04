@@ -1,0 +1,1 @@
+(function(){var b="399490fb3841",m="# 1 Chronicles 20:6 (New International Version)\nIn still another battle, which took place at Gath, there was a huge man with six fingers on each hand and six toes on each foot--twenty-four in all. He also was descended from Rapha.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8536d323fe6f",m="# 2 Chronicles 25:11 (New International Version)\nAmaziah then marshaled his strength and led his army to the Valley of Salt, where he killed ten thousand men of Seir.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

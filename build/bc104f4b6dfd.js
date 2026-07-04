@@ -1,0 +1,1 @@
+(function(){var b="bc104f4b6dfd",m="# Ezekiel 31:11 (New International Version)\nI gave it into the hands of the ruler of the nations, for him to deal with according to its wickedness. I cast it aside,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Dan-5-20|Da 5:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

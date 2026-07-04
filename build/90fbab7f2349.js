@@ -1,0 +1,1 @@
+(function(){var b="90fbab7f2349",m="# Isaiah 37:28 (New International Version)\n\"But I know where you are  \n    and when you come and go<sup>^A</sup>  \n    and how you rage<sup>^B</sup> against me.\n\n### Crossrefs\n- A: [[Ps-139-1|Ps 139:1-3]]\n- B: [[Ps-2-1|Ps 2:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="702b3a1d92e5",m="# Job 13:14 (New International Version)\nWhy do I put myself in jeopardy  \n    and take my life in my hands?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-9-17|Jdg 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

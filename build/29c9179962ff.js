@@ -1,0 +1,1 @@
+(function(){var b="29c9179962ff",m="# Proverbs 28:20 (New International Version)\nA faithful person will be richly blessed,  \n    but one eager to get rich will not go unpunished.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-28-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

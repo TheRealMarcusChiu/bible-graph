@@ -1,0 +1,1 @@
+(function(){var b="78b23a9633c4",m="# Psalm 90:11 (New International Version)\nIf only we knew the power of your anger!  \n    Your wrath<sup>^A</sup> is as great as the fear that is your due.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-7-11|Ps 7:11]]\n- B: [[Ps-76-7|Ps 76:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

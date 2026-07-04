@@ -1,0 +1,1 @@
+(function(){var b="e19659d902ba",m="# Psalm 26:4 (New International Version)\nI do not sit<sup>^A</sup> with the deceitful,  \n    nor do I associate with hypocrites.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-1-1|Ps 1:1]]\n- B: [[Ps-28-3|Ps 28:3]]; [[Matt-6-2|Mt 6:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

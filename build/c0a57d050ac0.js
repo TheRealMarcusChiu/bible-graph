@@ -1,0 +1,1 @@
+(function(){var b="c0a57d050ac0",m="# Proverbs 23:21 (New International Version)\nfor drunkards and gluttons become poor,<sup>^A</sup>  \n    and drowsiness clothes them in rags.\n\n### Crossrefs\n- A: S [[Prov-21-17|Pr 21:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

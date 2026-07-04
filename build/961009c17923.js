@@ -1,0 +1,1 @@
+(function(){var b="961009c17923",m="# Ezekiel 30:17 (New International Version)\nThe young men of Heliopolis<sup>^A</sup> and Bubastis  \n    will fall by the sword,  \n    and the cities themselves will go into captivity.\n\n### Crossrefs\n- A: [[Gen-41-45|Ge 41:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

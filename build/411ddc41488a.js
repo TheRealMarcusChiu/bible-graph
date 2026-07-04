@@ -1,0 +1,1 @@
+(function(){var b="411ddc41488a",m="# Psalm 119:175 (New International Version)\nLet me live<sup>^A</sup> that I may praise you,  \n    and may your laws sustain me.\n\n### Crossrefs\n- A: [[Ps-119-116|ver 116]], [[Ps-119-159|159]]; [[Isa-55-3|Isa 55:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

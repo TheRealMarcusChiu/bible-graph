@@ -1,0 +1,1 @@
+(function(){var b="14eed9b0a92a",m="# Proverbs 25:16 (New International Version)\nIf you find honey, eat just enough--  \n    too much of it, and you will vomit.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-25-27|ver 27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

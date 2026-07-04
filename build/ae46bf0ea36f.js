@@ -1,0 +1,1 @@
+(function(){var b="ae46bf0ea36f",m="# Psalm 119:172 (New International Version)\nMay my tongue sing<sup>^A</sup> of your word,  \n    for all your commands are righteous.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-51-14|Ps 51:14]]\n- B: [[Ps-119-7|ver 7]],S [[Ps-119-75|75]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

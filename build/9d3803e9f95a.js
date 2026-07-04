@@ -1,0 +1,1 @@
+(function(){var b="9d3803e9f95a",m="# Isaiah 35:3 (New International Version)\nStrengthen the feeble hands,  \n    steady the knees<sup>^A</sup> that give way;\n\n### Crossrefs\n- A: S [[Job-4-4|Job 4:4]]; [[Heb-12-12|Heb 12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

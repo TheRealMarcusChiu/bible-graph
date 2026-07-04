@@ -1,0 +1,1 @@
+(function(){var b="a637d18f134c",m="# Lamentations 3:52 (New International Version)\nThose who were my enemies without cause  \n    hunted me like a bird.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-35-7|Ps 35:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

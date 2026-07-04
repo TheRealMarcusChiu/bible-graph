@@ -1,0 +1,1 @@
+(function(){var b="bee3bf3d641a",m="# Psalm 47:1 (New International Version)\nPsalm 47\nClap your hands,<sup>^A</sup> all you nations;  \n    shout to God with cries of joy.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Kgs-11-12|2Ki 11:12]]\n- B: S [[Ps-33-3|Ps 33:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

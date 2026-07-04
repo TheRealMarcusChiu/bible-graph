@@ -1,0 +1,1 @@
+(function(){var b="ff35c396a94d",m="# Song of Songs 2:12 (New International Version)\nFlowers appear on the earth;  \n    the season of singing has come,  \nthe cooing of doves  \n    is heard in our land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

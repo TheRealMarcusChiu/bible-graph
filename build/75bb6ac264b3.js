@@ -1,0 +1,1 @@
+(function(){var b="75bb6ac264b3",m="# Daniel 2:42 (New International Version)\nAs the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

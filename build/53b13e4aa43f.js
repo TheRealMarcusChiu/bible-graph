@@ -1,0 +1,1 @@
+(function(){var b="53b13e4aa43f",m="# Psalm 89:36 (New International Version)\nthat his line will continue forever  \n    and his throne endure before me like the sun;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-89-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3b2be99fa9c0",m="# Proverbs 22:1 (New International Version)\nA good name is more desirable than great riches;  \n    to be esteemed is better than silver or gold.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Eccl-7-1|Ecc 7:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

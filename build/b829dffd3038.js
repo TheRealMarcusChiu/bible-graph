@@ -1,0 +1,1 @@
+(function(){var b="b829dffd3038",m="# Psalm 105:4 (New International Version)\nLook to the LORD and his strength;  \n    seek his face<sup>^A</sup> always.\n\n### Crossrefs\n- A: S [[Ps-24-6|Ps 24:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

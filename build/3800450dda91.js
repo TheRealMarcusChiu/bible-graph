@@ -1,0 +1,1 @@
+(function(){var b="3800450dda91",m="# Psalm 105:24 (New International Version)\nThe LORD made his people very fruitful;  \n    he made them too numerous<sup>^A</sup> for their foes,\n\n### Crossrefs\n- A: [[Exod-1-7|Ex 1:7]], [[Exod-1-9|9]]; [[Acts-7-17|Ac 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

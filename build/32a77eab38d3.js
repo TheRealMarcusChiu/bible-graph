@@ -1,0 +1,1 @@
+(function(){var b="32a77eab38d3",m="# Proverbs 27:25 (New International Version)\nWhen the hay is removed and new growth appears  \n    and the grass from the hills is gathered in,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

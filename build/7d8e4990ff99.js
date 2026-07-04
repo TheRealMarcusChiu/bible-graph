@@ -1,0 +1,1 @@
+(function(){var b="7d8e4990ff99",m="# Esther 9:7 (New International Version)\nThey also killed Parshandatha, Dalphon, Aspatha,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

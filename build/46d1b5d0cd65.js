@@ -1,0 +1,1 @@
+(function(){var b="46d1b5d0cd65",m="# 1 Chronicles 6:43 (New International Version)\nthe son of Jahath,\nthe son of Gershon, the son of Levi;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

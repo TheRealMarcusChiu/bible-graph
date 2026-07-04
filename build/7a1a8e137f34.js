@@ -1,0 +1,1 @@
+(function(){var b="7a1a8e137f34",m="# Job 34:23 (New International Version)\nGod has no need to examine people further,<sup>^A</sup>  \n    that they should come before him for judgment.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-11-4|Ps 11:4]]\n- B: [[Job-11-11|Job 11:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

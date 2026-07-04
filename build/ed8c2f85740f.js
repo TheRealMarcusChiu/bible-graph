@@ -1,0 +1,1 @@
+(function(){var b="ed8c2f85740f",m="# Psalm 105:43 (New International Version)\nHe brought out his people with rejoicing,<sup>^A</sup>  \n    his chosen ones with shouts of joy;\n\n### Crossrefs\n- A: [[Exod-15-1|Ex 15:1-18]]; [[Ps-106-12|Ps 106:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

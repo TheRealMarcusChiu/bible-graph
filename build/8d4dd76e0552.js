@@ -1,0 +1,1 @@
+(function(){var b="8d4dd76e0552",m="# Job 19:2 (New International Version)\n\"How long will you torment<sup>^A</sup> me  \n    and crush<sup>^B</sup> me with words?\n\n### Crossrefs\n- A: [[Job-13-25|Job 13:25]]\n- B: [[Job-6-9|Job 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

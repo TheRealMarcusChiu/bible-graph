@@ -1,0 +1,1 @@
+(function(){var b="54d968a96413",m="# Psalm 31:3 (New International Version)\nSince you are my rock and my fortress,<sup>^A</sup>  \n    for the sake of your name<sup>^B</sup> lead and guide me.\n\n### Crossrefs\n- A: S [[Ps-18-2|Ps 18:2]]\n- B: S [[Ps-23-3|Ps 23:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

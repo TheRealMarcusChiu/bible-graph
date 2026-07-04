@@ -1,0 +1,1 @@
+(function(){var b="517ab86ef803",m="# Job 34:8 (New International Version)\nHe keeps company with evildoers;  \n    he associates with the wicked.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-22-15|Job 22:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

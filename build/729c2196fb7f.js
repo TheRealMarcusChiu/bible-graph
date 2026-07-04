@@ -1,0 +1,1 @@
+(function(){var b="729c2196fb7f",m="# Job 40:5 (New International Version)\nI spoke once, but I have no answer<sup>^A</sup>--  \n    twice, but I will say no more.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-9-3|Job 9:3]]\n- B: S [[Job-9-15|Job 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

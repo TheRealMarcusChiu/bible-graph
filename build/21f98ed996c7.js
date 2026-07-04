@@ -1,0 +1,1 @@
+(function(){var b="21f98ed996c7",m="# Psalm 88:4 (New International Version)\nI am counted among those who go down to the pit;<sup>^A</sup>  \n    I am like one without strength.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-31-12|Ps 31:12]]\n- B: [[Ps-18-1|Ps 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

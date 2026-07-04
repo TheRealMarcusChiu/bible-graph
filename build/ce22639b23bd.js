@@ -1,0 +1,1 @@
+(function(){var b="ce22639b23bd",m="# Ezekiel 48:33 (New International Version)\n\"On the south side, which measures 4,500 cubits, will be three gates: the gate of Simeon, the gate of Issachar and the gate of Zebulun.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

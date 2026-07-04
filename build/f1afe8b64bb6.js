@@ -1,0 +1,1 @@
+(function(){var b="f1afe8b64bb6",m="# Psalm 119:64 (New International Version)\nThe earth is filled with your love,<sup>^A</sup> LORD;  \n    teach me your decrees.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-33-5|Ps 33:5]]\n- B: [[Ps-119-12|ver 12]], [[Ps-119-108|108]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

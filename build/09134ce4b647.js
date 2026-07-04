@@ -1,0 +1,1 @@
+(function(){var b="09134ce4b647",m="# Ezekiel 41:1 (New International Version)\nThen the man brought me to the main hall<sup>^A</sup> and measured the jambs; the width of the jambs was six cubits on each side. \n\n### Crossrefs\n- A: [[Ezek-41-23|ver 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

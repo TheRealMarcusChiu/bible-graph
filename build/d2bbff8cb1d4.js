@@ -1,0 +1,1 @@
+(function(){var b="d2bbff8cb1d4",m="# Job 34:16 (New International Version)\n\"If you have understanding,<sup>^A</sup> hear this;  \n    listen to what I say.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-34-10|ver 10]]\n- B: S [[Job-32-10|Job 32:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

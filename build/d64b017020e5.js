@@ -1,0 +1,1 @@
+(function(){var b="d64b017020e5",m="# Ecclesiastes 5:7 (New International Version)\nMuch dreaming and many words are meaningless. Therefore fear God.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Eccl-3-14|Ecc 3:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="95cae15a28b5",m="# Proverbs 31:14 (New International Version)\nShe is like the merchant ships,  \n    bringing her food from afar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e447f540e81b",m="# Psalm 72:6 (New International Version)\nMay he be like rain<sup>^A</sup> falling on a mown field,  \n    like showers watering the earth.\n\n### Crossrefs\n- A: S [[Deut-32-2|Dt 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

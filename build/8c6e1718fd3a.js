@@ -1,0 +1,1 @@
+(function(){var b="8c6e1718fd3a",m="# 2 Chronicles 24:9 (New International Version)\nA proclamation was then issued in Judah and Jerusalem that they should bring to the LORD the tax that Moses the servant of God had required of Israel in the wilderness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

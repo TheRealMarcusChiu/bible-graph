@@ -1,0 +1,1 @@
+(function(){var b="9111a272fee8",m="# Psalm 139:22 (New International Version)\nI have nothing but hatred for them;  \n    I count them my enemies.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-5-43|Mt 5:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

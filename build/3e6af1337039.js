@@ -1,0 +1,1 @@
+(function(){var b="3e6af1337039",m="# Ezekiel 48:31 (New International Version)\nthe gates of the city will be named after the tribes of Israel. The three gates on the north side will be the gate of Reuben, the gate of Judah and the gate of Levi.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

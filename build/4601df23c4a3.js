@@ -1,0 +1,1 @@
+(function(){var b="4601df23c4a3",m="# Ezra 4:14 (New International Version)\nNow since we are under obligation to the palace and it is not proper for us to see the king dishonored, we are sending this message to inform the king,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

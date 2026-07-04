@@ -1,0 +1,1 @@
+(function(){var b="d87c724a3b15",m="# 2 Kings 14:8 (New International Version)\nThen Amaziah sent messengers to Jehoash son of Jehoahaz, the son of Jehu, king of Israel, with the challenge: \"Come, let us face each other in battle.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

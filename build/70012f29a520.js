@@ -1,0 +1,1 @@
+(function(){var b="70012f29a520",m="# Amos 6:9 (New International Version)\nIf ten<sup>^A</sup> people are left in one house, they too will die. \n\n### Crossrefs\n- A: S [[Amos-5-3|Am 5:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

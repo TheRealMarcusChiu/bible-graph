@@ -1,0 +1,1 @@
+(function(){var b="7ec6ac2d40fd",m="# Isaiah 38:2 (New International Version)\nHezekiah turned his face to the wall and prayed to the LORD,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

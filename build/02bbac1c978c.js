@@ -1,0 +1,1 @@
+(function(){var b="02bbac1c978c",m="# 1 Chronicles 6:9 (New International Version)\nAhimaaz the father of Azariah,\nAzariah the father of Johanan,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

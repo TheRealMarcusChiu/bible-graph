@@ -1,0 +1,1 @@
+(function(){var b="bc73066cc2ef",m="# Isaiah 39:5 (New International Version)\nThen Isaiah said to Hezekiah, \"Hear the word<sup>^A</sup> of the LORD Almighty: \n\n### Crossrefs\n- A: S [[Isa-38-4|Isa 38:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

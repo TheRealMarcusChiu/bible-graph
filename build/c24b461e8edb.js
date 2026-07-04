@@ -1,0 +1,1 @@
+(function(){var b="c24b461e8edb",m="# Psalm 119:96 (New International Version)\nTo all perfection I see a limit,  \n    but your commands are boundless.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-19-7|Ps 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

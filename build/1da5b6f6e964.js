@@ -1,0 +1,1 @@
+(function(){var b="1da5b6f6e964",m="# Psalm 139:3 (New International Version)\nYou discern my going out<sup>^A</sup> and my lying down;  \n    you are familiar with all my ways.<sup>^B</sup>\n\n### Crossrefs\n- A: [[2Kgs-19-27|2Ki 19:27]]\n- B: S [[Job-31-4|Job 31:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a55bb02d7b88",m="# Jeremiah 36:13 (New International Version)\nAfter Micaiah told them everything he had heard Baruch read to the people from the scroll,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

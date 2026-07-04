@@ -1,0 +1,1 @@
+(function(){var b="defc6a1f6e4d",m="# Job 39:7 (New International Version)\nIt laughs<sup>^A</sup> at the commotion in the town;  \n    it does not hear a driver's shout.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-5-22|Job 5:22]]\n- B: [[Job-3-18|Job 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

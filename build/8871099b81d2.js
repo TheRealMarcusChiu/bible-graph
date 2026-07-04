@@ -1,0 +1,1 @@
+(function(){var b="8871099b81d2",m="# Psalm 37:29 (New International Version)\nThe righteous will inherit the land<sup>^A</sup>  \n    and dwell in it forever.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-37-9|ver 9]]; [[Prov-2-21|Pr 2:21]]\n- B: [[Isa-34-17|Isa 34:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

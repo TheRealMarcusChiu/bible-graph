@@ -1,0 +1,1 @@
+(function(){var b="7960b1c9d993",m="# Ezra 10:40 (New International Version)\nMaknadebai, Shashai, Sharai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a6c3f3ca76b7",m="# Isaiah 16:13 (New International Version)\nThis is the word the LORD has already spoken concerning Moab.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

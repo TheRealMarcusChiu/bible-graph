@@ -1,0 +1,1 @@
+(function(){var b="5e61a6d8d866",m="# Psalm 80:14 (New International Version)\nReturn to us, God Almighty!  \n    Look down from heaven and see!<sup>^A</sup>  \nWatch over this vine,\n\n### Crossrefs\n- A: S [[Deut-26-15|Dt 26:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9089318d1465",m="# Psalm 38:16 (New International Version)\nFor I said, \"Do not let them gloat<sup>^A</sup>  \n    or exalt themselves over me when my feet slip.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-22-17|Ps 22:17]]\n- B: S [[Deut-32-35|Dt 32:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

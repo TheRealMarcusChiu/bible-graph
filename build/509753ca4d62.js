@@ -1,0 +1,1 @@
+(function(){var b="509753ca4d62",m="# Ecclesiastes 8:9 (New International Version)\nAll this I saw, as I applied my mind to everything done under the sun. There is a time when a man lords it over others to his own hurt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9f49440d9d71",m="# Nahum 3:2 (New International Version)\nThe crack of whips,  \n    the clatter of wheels,  \ngalloping horses  \n    and jolting chariots!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

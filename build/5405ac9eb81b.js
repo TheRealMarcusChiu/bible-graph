@@ -1,0 +1,1 @@
+(function(){var b="5405ac9eb81b",m="# Esther 4:4 (New International Version)\nWhen Esther's eunuchs and female attendants came and told her about Mordecai, she was in great distress. She sent clothes for him to put on instead of his sackcloth, but he would not accept them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

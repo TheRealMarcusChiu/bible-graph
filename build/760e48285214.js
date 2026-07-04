@@ -1,0 +1,1 @@
+(function(){var b="760e48285214",m="# Ezra 8:6 (New International Version)\nof the descendants of Adin,<sup>^A</sup> Ebed son of Jonathan, and with him 50 men;\n\n### Crossrefs\n- A: [[Ezra-2-15|Ezr 2:15]]; [[Neh-7-20|Ne 7:20]]; [[Neh-10-16|10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

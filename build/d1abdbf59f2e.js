@@ -1,0 +1,1 @@
+(function(){var b="d1abdbf59f2e",m="# Ezekiel 46:23 (New International Version)\nAround the inside of each of the four courts was a ledge of stone, with places for fire built all around under the ledge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

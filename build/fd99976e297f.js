@@ -1,0 +1,1 @@
+(function(){var b="fd99976e297f",m="# Proverbs 8:25 (New International Version)\nbefore the mountains were settled in place,<sup>^A</sup>  \n    before the hills, I was given birth,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-38-6|Job 38:6]]\n- B: S [[Job-15-7|Job 15:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c61afc2672b",m="# Jeremiah 20:17 (New International Version)\nFor he did not kill me in the womb,<sup>^A</sup>  \n    with my mother as my grave,  \n    her womb enlarged forever.\n\n### Crossrefs\n- A: S [[Job-3-16|Job 3:16]]; S [[Job-10-18|10:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

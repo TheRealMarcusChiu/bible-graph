@@ -1,0 +1,1 @@
+(function(){var b="95bf1c4a774b",m="# 2 Chronicles 32:28 (New International Version)\nHe also made buildings to store the harvest of grain, new wine and olive oil; and he made stalls for various kinds of cattle, and pens for the flocks.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e4f1eea275ad",m="# Psalm 10:2 (New International Version)\nIn his arrogance the wicked man hunts down the weak,<sup>^A</sup>  \n    who are caught in the schemes he devises.\n\n### Crossrefs\n- A: [[Ps-10-9|ver 9]]; S [[Job-20-19|Job 20:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

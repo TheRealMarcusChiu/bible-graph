@@ -1,0 +1,1 @@
+(function(){var b="2288c7f4609f",m="# 2 Kings 3:22 (New International Version)\nWhen they got up early in the morning, the sun was shining on the water. To the Moabites across the way, the water looked red--like blood.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

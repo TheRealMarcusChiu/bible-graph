@@ -1,0 +1,1 @@
+(function(){var b="efb1cd74b6c2",m="# Lamentations 3:31 (New International Version)\nFor no one is cast off  \n    by the Lord forever.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-94-14|Ps 94:14]]; [[Isa-54-7|Isa 54:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

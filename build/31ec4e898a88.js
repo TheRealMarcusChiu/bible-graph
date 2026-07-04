@@ -1,0 +1,1 @@
+(function(){var b="31ec4e898a88",m="# 2 Chronicles 23:12 (New International Version)\nWhen Athaliah heard the noise of the people running and cheering the king, she went to them at the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

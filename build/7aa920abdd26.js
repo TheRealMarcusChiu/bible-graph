@@ -1,0 +1,1 @@
+(function(){var b="7aa920abdd26",m="# Psalm 26:11 (New International Version)\nI lead a blameless life;  \n    deliver me<sup>^A</sup> and be merciful to me.\n\n### Crossrefs\n- A: [[Ps-31-5|Ps 31:5]]; [[Ps-69-18|69:18]]; [[Ps-119-134|119:134]]; [[Titus-2-14|Tit 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

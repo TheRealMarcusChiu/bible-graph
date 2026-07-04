@@ -1,0 +1,1 @@
+(function(){var b="b0acc93d9ede",m="# Ecclesiastes 3:18 (New International Version)\nI also said to myself, \"As for humans, God tests them so that they may see that they are like the animals.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ps-73-22|Ps 73:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

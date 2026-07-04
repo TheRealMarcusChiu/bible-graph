@@ -1,0 +1,1 @@
+(function(){var b="d4c3fa1deb05",m="# 1 Chronicles 11:16 (New International Version)\nAt that time David was in the stronghold,<sup>^A</sup> and the Philistine garrison was at Bethlehem. \n\n### Crossrefs\n- A: S [[2Sam-5-17|2Sa 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af9406d501fe",m="# Isaiah 21:14 (New International Version)\nbring water for the thirsty;  \nyou who live in Tema,<sup>^A</sup>  \n    bring food for the fugitives.\n\n### Crossrefs\n- A: S [[Gen-25-15|Ge 25:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

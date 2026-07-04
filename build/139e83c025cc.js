@@ -1,0 +1,1 @@
+(function(){var b="139e83c025cc",m="# Ezekiel 44:21 (New International Version)\nNo priest is to drink wine when he enters the inner court.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Lev-10-9|Lev 10:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

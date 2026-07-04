@@ -1,0 +1,1 @@
+(function(){var b="1c3e79328a84",m="# 1 Chronicles 20:8 (New International Version)\nThese were descendants of Rapha in Gath, and they fell at the hands of David and his men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

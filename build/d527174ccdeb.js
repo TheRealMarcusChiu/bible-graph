@@ -1,0 +1,1 @@
+(function(){var b="d527174ccdeb",m="# Ezekiel 42:5 (New International Version)\nNow the upper rooms were narrower, for the galleries took more space from them than from the rooms on the lower and middle floors of the building.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

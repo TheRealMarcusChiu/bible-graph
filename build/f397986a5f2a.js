@@ -1,0 +1,1 @@
+(function(){var b="f397986a5f2a",m="# Lamentations 3:20 (New International Version)\nI well remember them,  \n    and my soul is downcast<sup>^A</sup> within me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-42-5|Ps 42:5]]\n- B: [[Ps-42-11|Ps 42:11]]; [[Ps-43-5|43:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

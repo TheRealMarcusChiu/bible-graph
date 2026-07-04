@@ -1,0 +1,1 @@
+(function(){var b="a02b715f9211",m="# Daniel 5:15 (New International Version)\nThe wise men and enchanters were brought before me to read this writing and tell me what it means, but they could not explain it.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Dan-4-18|Da 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

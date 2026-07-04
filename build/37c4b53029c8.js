@@ -1,0 +1,1 @@
+(function(){var b="37c4b53029c8",m="# Proverbs 7:3 (New International Version)\nBind them on your fingers;  \n    write them on the tablet of your heart.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-3-3|Pr 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

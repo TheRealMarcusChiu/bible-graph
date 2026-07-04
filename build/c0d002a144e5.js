@@ -1,0 +1,1 @@
+(function(){var b="c0d002a144e5",m="# Daniel 1:16 (New International Version)\nSo the guard took away their choice food and the wine they were to drink and gave them vegetables instead.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-1-12|ver 12-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

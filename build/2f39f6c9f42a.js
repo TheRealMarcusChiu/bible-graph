@@ -1,0 +1,1 @@
+(function(){var b="2f39f6c9f42a",m="# Psalm 112:2 (New International Version)\nTheir children<sup>^A</sup> will be mighty in the land;  \n    the generation of the upright will be blessed.\n\n### Crossrefs\n- A: [[Ps-25-13|Ps 25:13]]; [[Ps-37-26|37:26]]; [[Ps-128-2|128:2-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6ce17450ec3d",m="# Job 41:33 (New International Version)\nNothing on earth is its equal<sup>^A</sup>--  \n    a creature without fear.\n\n### Crossrefs\n- A: S [[Job-40-19|Job 40:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

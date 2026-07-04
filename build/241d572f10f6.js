@@ -1,0 +1,1 @@
+(function(){var b="241d572f10f6",m="# Job 40:16 (New International Version)\nWhat strength<sup>^A</sup> it has in its loins,  \n    what power in the muscles of its belly!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-39-11|Job 39:11]]\n- B: [[Job-41-9|Job 41:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

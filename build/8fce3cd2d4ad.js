@@ -1,0 +1,1 @@
+(function(){var b="8fce3cd2d4ad",m="# 1 Chronicles 26:2 (New International Version)\nMeshelemiah had sons:\nZechariah<sup>^A</sup> the firstborn,\nJediael the second,\nZebadiah the third,\nJathniel the fourth,\n\n### Crossrefs\n- A: S [[1Chr-9-21|1Ch 9:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

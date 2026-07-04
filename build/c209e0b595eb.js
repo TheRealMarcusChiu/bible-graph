@@ -1,0 +1,1 @@
+(function(){var b="c209e0b595eb",m="# Psalm 136:16 (New International Version)\nto him who led his people through the wilderness;<sup>^A</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Exod-13-18|Ex 13:18]]; [[Ps-78-52|Ps 78:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

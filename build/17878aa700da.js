@@ -1,0 +1,1 @@
+(function(){var b="17878aa700da",m="# 2 Kings 23:23 (New International Version)\nBut in the eighteenth year of King Josiah, this Passover was celebrated to the LORD in Jerusalem.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-12-11|Ex 12:11]]; S [[Num-28-16|Nu 28:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

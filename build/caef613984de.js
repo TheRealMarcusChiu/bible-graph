@@ -1,0 +1,1 @@
+(function(){var b="caef613984de",m="# 2 Chronicles 22:4 (New International Version)\nHe did evil in the eyes of the LORD, as the house of Ahab had done, for after his father's death they became his advisers, to his undoing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1d93c9ff7eab",m="# 2 Kings 10:16 (New International Version)\nJehu said, \"Come with me and see my zeal<sup>^A</sup> for the LORD.\" Then he had him ride along in his chariot.\n\n### Crossrefs\n- A: S [[Num-25-13|Nu 25:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

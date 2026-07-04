@@ -1,0 +1,1 @@
+(function(){var b="0f0377d4ed4f",m="# Psalm 81:1 (New International Version)\nPsalm 81\nSing for joy to God our strength;  \n    shout aloud to the God of Jacob!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-66-1|Ps 66:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

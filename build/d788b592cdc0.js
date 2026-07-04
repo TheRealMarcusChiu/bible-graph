@@ -1,0 +1,1 @@
+(function(){var b="d788b592cdc0",m="# Nehemiah 11:28 (New International Version)\nin Ziklag,<sup>^A</sup> in Mekonah and its settlements, \n\n### Crossrefs\n- A: S [[1Sam-27-6|1Sa 27:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

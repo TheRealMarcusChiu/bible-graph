@@ -1,0 +1,1 @@
+(function(){var b="0ebb35817a14",m="# Psalm 89:3 (New International Version)\nYou said, \"I have made a covenant with my chosen one,  \n    I have sworn to David my servant,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

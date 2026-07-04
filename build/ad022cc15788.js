@@ -1,0 +1,1 @@
+(function(){var b="ad022cc15788",m="# 1 Chronicles 24:14 (New International Version)\nthe fifteenth to Bilgah,\nthe sixteenth to Immer,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezra-2-37|Ezr 2:37]]; [[Ezra-10-20|10:20]]; [[Jer-20-1|Jer 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9024e2b34ecc",m="# Proverbs 21:1 (New International Version)\nIn the LORD's hand the king's heart is a stream of water  \n    that he channels toward all who please him.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Esth-5-1|Est 5:1]]; [[Jer-39-11|Jer 39:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

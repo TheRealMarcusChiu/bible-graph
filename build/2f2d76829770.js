@@ -1,0 +1,1 @@
+(function(){var b="2f2d76829770",m="# Ecclesiastes 4:12 (New International Version)\nThough one may be overpowered,  \n    two can defend themselves.  \nA cord of three strands is not quickly broken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="591069f25856",m="# Proverbs 15:23 (New International Version)\nA person finds joy in giving an apt reply<sup>^A</sup>--  \n    and how good is a timely word!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-12-14|Pr 12:14]]\n- B: [[Prov-25-11|Pr 25:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

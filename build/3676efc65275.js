@@ -1,0 +1,1 @@
+(function(){var b="3676efc65275",m="# 2 Chronicles 31:20 (New International Version)\nThis is what Hezekiah did throughout Judah, doing what was good and right and faithful<sup>^A</sup> before the LORD his God. \n\n### Crossrefs\n- A: S [[2Kgs-20-3|2Ki 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

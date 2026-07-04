@@ -1,0 +1,1 @@
+(function(){var b="03baf53ef42a",m="# 1 Chronicles 2:28 (New International Version)\nThe sons of Onam:\nShammai and Jada.\nThe sons of Shammai:\nNadab and Abishur.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

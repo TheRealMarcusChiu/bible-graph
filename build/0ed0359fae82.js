@@ -1,0 +1,1 @@
+(function(){var b="0ed0359fae82",m="# Hosea 13:9 (New International Version)\n\"You are destroyed, Israel,  \n    because you are against me,<sup>^A</sup> against your helper.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-2-17|Jer 2:17-19]]\n- B: S [[Deut-33-29|Dt 33:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

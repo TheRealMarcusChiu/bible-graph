@@ -1,0 +1,1 @@
+(function(){var b="54bc59c3122f",m="# 2 Chronicles 32:20 (New International Version)\nKing Hezekiah and the prophet Isaiah son of Amoz cried out in prayer<sup>^A</sup> to heaven about this. \n\n### Crossrefs\n- A: [[Isa-1-15|Isa 1:15]]; [[Isa-37-15|37:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

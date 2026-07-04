@@ -1,0 +1,1 @@
+(function(){var b="677cf9d84faa",m="# Ezekiel 15:6 (New International Version)\n\"Therefore this is what the Sovereign LORD says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="297baf5ede84",m="# Jeremiah 51:42 (New International Version)\nThe sea will rise over Babylon;  \n    its roaring waves<sup>^A</sup> will cover her.\n\n### Crossrefs\n- A: S [[Ps-18-4|Ps 18:4]]; [[Isa-8-7|Isa 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

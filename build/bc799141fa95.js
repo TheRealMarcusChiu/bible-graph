@@ -1,0 +1,1 @@
+(function(){var b="bc799141fa95",m="# Psalm 19:3 (New International Version)\nThey have no speech, they use no words;  \n    no sound is heard from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

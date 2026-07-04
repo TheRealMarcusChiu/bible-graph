@@ -1,0 +1,1 @@
+(function(){var b="b4559594a0ae",m="# Psalm 119:26 (New International Version)\nI gave an account of my ways and you answered me;  \n    teach me your decrees.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-25-4|Ps 25:4]]; [[Ps-27-11|27:11]]; [[Ps-86-11|86:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="39db56871da8",m="# Ecclesiastes 2:25 (New International Version)\nfor without him, who can eat or find enjoyment?<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ps-127-2|Ps 127:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

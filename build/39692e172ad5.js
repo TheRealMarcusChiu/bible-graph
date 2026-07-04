@@ -1,0 +1,1 @@
+(function(){var b="39692e172ad5",m="# 1 Chronicles 11:39 (New International Version)\nZelek the Ammonite,\nNaharai the Berothite, the armor-bearer of Joab son of Zeruiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

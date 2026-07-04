@@ -1,0 +1,1 @@
+(function(){var b="27b0dac997ab",m="# Ezekiel 22:1 (New International Version)\nJudgment on Jerusalem's Sins\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="02d873c9814a",m="# Proverbs 2:19 (New International Version)\nNone who go to her return  \n    or attain the paths of life.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-3-16|Pr 3:16-18]]; [[Prov-5-8|5:8]]; [[Eccl-7-26|Ecc 7:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

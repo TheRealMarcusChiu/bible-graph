@@ -1,0 +1,1 @@
+(function(){var b="45581f91aebf",m="# Psalm 119:121 (New International Version)\nI have done what is righteous and just;<sup>^A</sup>  \n    do not leave me to my oppressors.\n\n### Crossrefs\n- A: S [[2Sam-8-15|2Sa 8:15]]; S [[Job-27-6|Job 27:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

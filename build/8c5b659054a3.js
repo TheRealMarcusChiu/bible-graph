@@ -1,0 +1,1 @@
+(function(){var b="8c5b659054a3",m="# Isaiah 38:6 (New International Version)\nAnd I will deliver you and this city from the hand of the king of Assyria. I will defend<sup>^A</sup> this city.\n\n### Crossrefs\n- A: S [[Isa-31-5|Isa 31:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

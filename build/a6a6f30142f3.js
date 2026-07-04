@@ -1,0 +1,1 @@
+(function(){var b="a6a6f30142f3",m="# Ecclesiastes 11:2 (New International Version)\nInvest in seven ventures, yes, in eight;  \n    you do not know what disaster may come upon the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

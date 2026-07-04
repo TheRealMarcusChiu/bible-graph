@@ -1,0 +1,1 @@
+(function(){var b="d0e3771ff82f",m="# Proverbs 20:10 (New International Version)\nDiffering weights and differing measures--  \n    the LORD detests them both.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-20-23|ver 23]]; S [[Prov-11-1|Pr 11:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

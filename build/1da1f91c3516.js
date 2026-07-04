@@ -1,0 +1,1 @@
+(function(){var b="1da1f91c3516",m="# 2 Kings 20:16 (New International Version)\nThen Isaiah said to Hezekiah, \"Hear the word of the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5eb1e08a39d2",m="# 2 Chronicles 7:5 (New International Version)\nAnd King Solomon offered a sacrifice of twenty-two thousand head of cattle and a hundred and twenty thousand sheep and goats. So the king and all the people dedicated the temple of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

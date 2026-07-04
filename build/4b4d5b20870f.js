@@ -1,0 +1,1 @@
+(function(){var b="4b4d5b20870f",m="# 2 Kings 10:27 (New International Version)\nThey demolished the sacred stone of Baal and tore down the temple<sup>^A</sup> of Baal, and people have used it for a latrine to this day.\n\n### Crossrefs\n- A: S [[1Kgs-16-32|1Ki 16:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

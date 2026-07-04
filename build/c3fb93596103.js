@@ -1,0 +1,1 @@
+(function(){var b="c3fb93596103",m="# Psalm 69:22 (New International Version)\nMay the table set before them become a snare;  \n    may it become retribution and a trap.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-28-9|1Sa 28:9]]; S [[Job-18-10|Job 18:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

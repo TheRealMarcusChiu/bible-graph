@@ -1,0 +1,1 @@
+(function(){var b="869baca9633f",m="# 2 Chronicles 17:16 (New International Version)\nnext, Amasiah son of Zikri, who volunteered<sup>^A</sup> himself for the service of the LORD, with 200,000.\n\n### Crossrefs\n- A: S [[Judg-5-9|Jdg 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

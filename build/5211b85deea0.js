@@ -1,0 +1,1 @@
+(function(){var b="5211b85deea0",m="# Proverbs 15:21 (New International Version)\nFolly brings joy to one who has no sense,<sup>^A</sup>  \n    but whoever has understanding keeps a straight course.\n\n### Crossrefs\n- A: S [[Prov-2-14|Pr 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

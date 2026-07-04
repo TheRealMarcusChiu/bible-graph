@@ -1,0 +1,1 @@
+(function(){var b="6a572ed7b294",m="# Ezra 8:8 (New International Version)\nof the descendants of Shephatiah, Zebadiah son of Michael, and with him 80 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="37e3e787ccdb",m="# Job 23:4 (New International Version)\nI would state my case<sup>^A</sup> before him  \n    and fill my mouth with arguments.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-13-18|Job 13:18]]\n- B: S [[Job-9-15|Job 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="660679775923",m="# 1 Chronicles 1:52 (New International Version)\nOholibamah, Elah, Pinon,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

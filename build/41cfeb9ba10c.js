@@ -1,0 +1,1 @@
+(function(){var b="41cfeb9ba10c",m="# Psalm 54:2 (New International Version)\nHear my prayer, O God;<sup>^A</sup>  \n    listen to the words of my mouth.\n\n### Crossrefs\n- A: S [[Ps-4-1|Ps 4:1]]; [[Ps-5-1|5:1]]; [[Ps-55-1|55:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

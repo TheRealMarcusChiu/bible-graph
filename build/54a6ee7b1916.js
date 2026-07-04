@@ -1,0 +1,1 @@
+(function(){var b="54a6ee7b1916",m="# Song of Songs 5:4 (New International Version)\nMy beloved thrust his hand through the latch-opening;  \n    my heart began to pound for him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

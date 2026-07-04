@@ -1,0 +1,1 @@
+(function(){var b="7faa6089bd1c",m="# Ecclesiastes 7:18 (New International Version)\nIt is good to grasp the one  \n    and not let go of the other.  \n    Whoever fears God<sup>^A</sup> will avoid all extremes.\n\n### Crossrefs\n- A: S [[Eccl-3-14|Ecc 3:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

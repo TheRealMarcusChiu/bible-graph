@@ -1,0 +1,1 @@
+(function(){var b="61254fef7872",m="# Psalm 39:13 (New International Version)\nLook away from me, that I may enjoy life again  \n    before I depart and am no more.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-10-21|Job 10:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ea9c19a6d75e",m="# Job 32:20 (New International Version)\nI must speak and find relief;  \n    I must open my lips and reply.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-2|Job 4:2]]; S [[Jer-6-11|Jer 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

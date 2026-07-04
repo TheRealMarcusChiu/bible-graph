@@ -1,0 +1,1 @@
+(function(){var b="3151eec8a3e0",m="# Proverbs 7:16 (New International Version)\nI have covered my bed  \n    with colored linens from Egypt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

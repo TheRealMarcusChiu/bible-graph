@@ -1,0 +1,1 @@
+(function(){var b="9f963efaa585",m="# 1 Chronicles 9:28 (New International Version)\nSome of them were in charge of the articles used in the temple service; they counted them when they were brought in and when they were taken out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

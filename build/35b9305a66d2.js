@@ -1,0 +1,1 @@
+(function(){var b="35b9305a66d2",m="# Hosea 1:3 (New International Version)\nSo he married Gomer<sup>^A</sup> daughter of Diblaim, and she conceived and bore him a son.\n\n### Crossrefs\n- A: [[Hos-1-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

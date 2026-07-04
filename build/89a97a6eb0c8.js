@@ -1,0 +1,1 @@
+(function(){var b="89a97a6eb0c8",m="# Psalm 109:5 (New International Version)\nThey repay me evil for good,<sup>^A</sup>  \n    and hatred for my friendship.\n\n### Crossrefs\n- A: S [[Gen-44-4|Ge 44:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

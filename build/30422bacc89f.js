@@ -1,0 +1,1 @@
+(function(){var b="30422bacc89f",m="# Proverbs 1:9 (New International Version)\nThey are a garland to grace your head  \n    and a chain to adorn your neck.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-3-21|Pr 3:21-22]]; [[Prov-4-1|4:1-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

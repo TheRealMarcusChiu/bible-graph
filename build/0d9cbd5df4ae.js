@@ -1,0 +1,1 @@
+(function(){var b="0d9cbd5df4ae",m="# Daniel 6:14 (New International Version)\nWhen the king heard this, he was greatly distressed;<sup>^A</sup> he was determined to rescue Daniel and made every effort until sundown to save him.\n\n### Crossrefs\n- A: [[Mark-6-26|Mk 6:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

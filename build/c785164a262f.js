@@ -1,0 +1,1 @@
+(function(){var b="c785164a262f",m="# Ezekiel 48:20 (New International Version)\nThe entire portion will be a square, 25,000 cubits on each side. As a special gift you will set aside the sacred portion, along with the property of the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

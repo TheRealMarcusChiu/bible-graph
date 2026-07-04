@@ -1,0 +1,1 @@
+(function(){var b="87f627dbfb8b",m="# 1 Chronicles 2:29 (New International Version)\nAbishur's wife was named Abihail, who bore him Ahban and Molid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

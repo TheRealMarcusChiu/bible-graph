@@ -1,0 +1,1 @@
+(function(){var b="292f8c7cae1b",m="# 2 Chronicles 31:11 (New International Version)\nHezekiah gave orders to prepare storerooms in the temple of the LORD, and this was done.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="895209a0c9ba",m="# Ezekiel 10:22 (New International Version)\nTheir faces had the same appearance as those I had seen by the Kebar River.<sup>^A</sup> Each one went straight ahead.\n\n### Crossrefs\n- A: [[Ezek-1-1|Eze 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d3348af0d7df",m="# Proverbs 18:16 (New International Version)\nA gift<sup>^A</sup> opens the way  \n    and ushers the giver into the presence of the great.\n\n### Crossrefs\n- A: S [[Gen-32-13|Ge 32:13]]; S [[1Sam-10-4|1Sa 10:4]]; [[Prov-19-6|Pr 19:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

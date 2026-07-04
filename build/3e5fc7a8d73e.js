@@ -1,0 +1,1 @@
+(function(){var b="3e5fc7a8d73e",m="# Ecclesiastes 4:7 (New International Version)\nAgain I saw something meaningless under the sun:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

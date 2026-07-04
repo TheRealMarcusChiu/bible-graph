@@ -1,0 +1,1 @@
+(function(){var b="5192971f3937",m="# Lamentations 5:3 (New International Version)\nWe have become fatherless,  \n    our mothers are widows.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-22-24|Ex 22:24]]; [[Jer-15-8|Jer 15:8]]; S [[Jer-18-21|18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

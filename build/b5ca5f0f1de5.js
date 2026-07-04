@@ -1,0 +1,1 @@
+(function(){var b="b5ca5f0f1de5",m="# Job 32:22 (New International Version)\nfor if I were skilled in flattery,  \n    my Maker<sup>^A</sup> would soon take me away.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-4-17|Job 4:17]]; S [[Job-9-9|9:9]]\n- B: [[Ps-12-2|Ps 12:2-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

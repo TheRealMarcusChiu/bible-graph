@@ -1,0 +1,1 @@
+(function(){var b="015ecfa1fa86",m="# Jeremiah 48:43 (New International Version)\nTerror<sup>^A</sup> and pit and snare<sup>^B</sup> await you,  \n    you people of Moab,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[Jer-49-5|Jer 49:5]]\n- B: S [[Isa-24-17|Isa 24:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

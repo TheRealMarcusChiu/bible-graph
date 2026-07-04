@@ -1,0 +1,1 @@
+(function(){var b="a5f7a6c896d3",m="# 2 Chronicles 3:5 (New International Version)\nHe paneled the main hall with juniper and covered it with fine gold and decorated it with palm tree<sup>^A</sup> and chain designs. \n\n### Crossrefs\n- A: [[Ezek-40-16|Eze 40:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

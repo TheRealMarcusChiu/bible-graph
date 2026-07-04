@@ -1,0 +1,1 @@
+(function(){var b="9f6ab0376702",m="# Isaiah 5:3 (New International Version)\n\"Now you dwellers in Jerusalem and people of Judah,  \n    judge between me and my vineyard.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-21-40|Mt 21:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

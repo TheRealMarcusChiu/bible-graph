@@ -1,0 +1,1 @@
+(function(){var b="6646b94fa1e7",m="# Job 30:16 (New International Version)\n\"And now my life ebbs away;<sup>^A</sup>  \n    days of suffering grip me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-3-24|Job 3:24]]\n- B: [[Job-30-27|ver 27]]; S [[Job-9-17|Job 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

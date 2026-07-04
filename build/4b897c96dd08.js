@@ -1,0 +1,1 @@
+(function(){var b="4b897c96dd08",m="# 1 Chronicles 14:4 (New International Version)\nThese are the names of the children born to him there:<sup>^A</sup> Shammua, Shobab, Nathan, Solomon, \n\n### Crossrefs\n- A: S [[1Chr-3-9|1Ch 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

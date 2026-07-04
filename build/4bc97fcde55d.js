@@ -1,0 +1,1 @@
+(function(){var b="4bc97fcde55d",m="# 1 Chronicles 21:14 (New International Version)\nSo the LORD sent a plague on Israel, and seventy thousand men of Israel fell dead.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Chr-27-24|1Ch 27:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

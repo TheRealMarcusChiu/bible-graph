@@ -1,0 +1,1 @@
+(function(){var b="30b33df565f5",m="# Psalm 73:7 (New International Version)\nFrom their callous hearts<sup>^A</sup> comes iniquity;  \n    their evil imaginations have no limits.\n\n### Crossrefs\n- A: S [[Ps-17-10|Ps 17:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

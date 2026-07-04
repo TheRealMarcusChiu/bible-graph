@@ -1,0 +1,1 @@
+(function(){var b="882867971cf2",m="# Proverbs 7:18 (New International Version)\nCome, let's drink deeply of love till morning;  \n    let's enjoy ourselves with love!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-39-7|Ge 39:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

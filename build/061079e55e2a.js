@@ -1,0 +1,1 @@
+(function(){var b="061079e55e2a",m="# 2 Chronicles 11:19 (New International Version)\nShe bore him sons: Jeush, Shemariah and Zaham.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

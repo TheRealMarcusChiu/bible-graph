@@ -1,0 +1,1 @@
+(function(){var b="3318a772916c",m="# Proverbs 26:26 (New International Version)\nTheir malice may be concealed by deception,  \n    but their wickedness will be exposed in the assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

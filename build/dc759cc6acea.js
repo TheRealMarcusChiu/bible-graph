@@ -1,0 +1,1 @@
+(function(){var b="dc759cc6acea",m="# Proverbs 13:23 (New International Version)\nAn unplowed field produces food for the poor,  \n    but injustice sweeps it away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

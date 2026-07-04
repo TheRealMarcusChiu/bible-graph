@@ -1,0 +1,1 @@
+(function(){var b="1ed68f2576c5",m="# 2 Chronicles 18:4 (New International Version)\nBut Jehoshaphat also said to the king of Israel, \"First seek the counsel of the LORD.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

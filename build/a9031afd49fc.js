@@ -1,0 +1,1 @@
+(function(){var b="a9031afd49fc",m="# Jeremiah 13:5 (New International Version)\nSo I went and hid it at Perath, as the LORD told me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-40-16|Ex 40:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

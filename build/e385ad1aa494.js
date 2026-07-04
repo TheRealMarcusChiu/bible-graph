@@ -1,0 +1,1 @@
+(function(){var b="e385ad1aa494",m="# Amos 3:3 (New International Version)\nDo two walk together  \n    unless they have agreed to do so?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

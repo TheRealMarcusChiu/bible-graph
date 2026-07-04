@@ -1,0 +1,1 @@
+(function(){var b="8ce285e6571a",m="# 2 Kings 21:26 (New International Version)\nHe was buried in his tomb in the garden<sup>^A</sup> of Uzza. And Josiah his son succeeded him as king.\n\n### Crossrefs\n- A: S [[2Kgs-21-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

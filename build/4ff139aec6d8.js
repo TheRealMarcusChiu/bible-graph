@@ -1,0 +1,1 @@
+(function(){var b="4ff139aec6d8",m="# Ezra 10:23 (New International Version)\nAmong the Levites:<sup>^A</sup>\nJozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah and Eliezer.\n\n### Crossrefs\n- A: [[Neh-8-7|Ne 8:7]]; [[Neh-9-4|9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

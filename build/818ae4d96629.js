@@ -1,0 +1,1 @@
+(function(){var b="818ae4d96629",m="# Joel 3\n\nA locust plague heralds the day of the LORD and the promise of God's Spirit poured out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

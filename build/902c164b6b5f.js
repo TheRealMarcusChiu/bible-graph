@@ -1,0 +1,1 @@
+(function(){var b="902c164b6b5f",m="# Micah 6:3 (New International Version)\n\"My people, what have I done to you?  \n    How have I burdened<sup>^A</sup> you?<sup>^B</sup> Answer me.\n\n### Crossrefs\n- A: [[Jer-2-5|Jer 2:5]]\n- B: [[Jer-2-5|Jer 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

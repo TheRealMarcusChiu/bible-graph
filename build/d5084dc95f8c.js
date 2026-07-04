@@ -1,0 +1,1 @@
+(function(){var b="d5084dc95f8c",m="# 2 Kings 24:5 (New International Version)\nAs for the other events of Jehoiakim's reign,<sup>^A</sup> and all he did, are they not written in the book of the annals of the kings of Judah? \n\n### Crossrefs\n- A: [[Jer-22-18|Jer 22:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

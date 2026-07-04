@@ -1,0 +1,1 @@
+(function(){var b="639773543c2c",m="# Jeremiah 49:39 (New International Version)\n\"Yet I will restore<sup>^A</sup> the fortunes of Elam  \n    in days to come,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: S [[Jer-48-47|Jer 48:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

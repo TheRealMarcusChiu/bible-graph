@@ -1,0 +1,1 @@
+(function(){var b="0c182c4dcf80",m="# Ezekiel 47:11 (New International Version)\nBut the swamps and marshes will not become fresh; they will be left for salt.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Deut-29-23|Dt 29:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

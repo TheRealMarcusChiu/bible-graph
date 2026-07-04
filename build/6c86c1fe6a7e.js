@@ -1,0 +1,1 @@
+(function(){var b="6c86c1fe6a7e",m="# 1 Chronicles 12:30 (New International Version)\nfrom Ephraim, brave warriors, famous in their own clans--20,800;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

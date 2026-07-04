@@ -1,0 +1,1 @@
+(function(){var b="e549428e5dd7",m="# Job 37:20 (New International Version)\nShould he be told that I want to speak?  \n    Would anyone ask to be swallowed up?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

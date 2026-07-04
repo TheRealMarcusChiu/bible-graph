@@ -1,0 +1,1 @@
+(function(){var b="2b23b18c51fc",m="# Psalm 83:14 (New International Version)\nAs fire consumes the forest  \n    or a flame sets the mountains ablaze,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-32-22|Dt 32:22]]; [[Isa-9-18|Isa 9:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

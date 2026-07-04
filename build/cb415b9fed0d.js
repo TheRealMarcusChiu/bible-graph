@@ -1,0 +1,1 @@
+(function(){var b="cb415b9fed0d",m="# 2 Kings 8:24 (New International Version)\nJehoram rested with his ancestors and was buried with them in the City of David. And Ahaziah his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

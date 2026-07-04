@@ -1,0 +1,1 @@
+(function(){var b="52e0a6eafd1f",m="# Proverbs 23:3 (New International Version)\nDo not crave his delicacies,<sup>^A</sup>  \n    for that food is deceptive.\n\n### Crossrefs\n- A: [[Prov-23-6|ver 6-8]]; [[Ps-141-4|Ps 141:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

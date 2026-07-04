@@ -1,0 +1,1 @@
+(function(){var b="55d7614b4545",m="# 1 Chronicles 2:47 (New International Version)\nThe sons of Jahdai:\nRegem, Jotham, Geshan, Pelet, Ephah and Shaaph.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

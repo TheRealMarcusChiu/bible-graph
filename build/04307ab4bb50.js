@@ -1,0 +1,1 @@
+(function(){var b="04307ab4bb50",m="# Psalm 72:7 (New International Version)\nIn his days may the righteous flourish<sup>^A</sup>  \n    and prosperity abound till the moon is no more.\n\n### Crossrefs\n- A: [[Ps-92-12|Ps 92:12]]; [[Prov-14-11|Pr 14:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

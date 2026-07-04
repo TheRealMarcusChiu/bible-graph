@@ -1,0 +1,1 @@
+(function(){var b="e60fc60f5ea7",m="# Psalm 115:9 (New International Version)\nAll you Israelites, trust<sup>^A</sup> in the LORD--  \n    he is their help and shield.\n\n### Crossrefs\n- A: [[Ps-37-3|Ps 37:3]]; [[Ps-62-8|62:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

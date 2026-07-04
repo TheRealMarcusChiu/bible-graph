@@ -1,0 +1,1 @@
+(function(){var b="2fa61a94bf99",m="# Psalm 80:16 (New International Version)\nYour vine is cut down, it is burned with fire;<sup>^A</sup>  \n    at your rebuke<sup>^B</sup> your people perish.\n\n### Crossrefs\n- A: [[Ps-79-1|Ps 79:1]]\n- B: S [[Deut-28-20|Dt 28:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

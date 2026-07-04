@@ -1,0 +1,1 @@
+(function(){var b="85a5758da9b7",m="# Ezekiel 16:56 (New International Version)\nYou would not even mention your sister Sodom in the day of your pride,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

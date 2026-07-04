@@ -1,0 +1,1 @@
+(function(){var b="16d5b644661e",m="# Proverbs 17:2 (New International Version)\nA prudent servant will rule over a disgraceful son  \n    and will share the inheritance as one of the family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8588ac0f2a5b",m="# Job 13:1 (New International Version)\n\"My eyes have seen all this,<sup>^A</sup>  \n    my ears have heard and understood it.\n\n### Crossrefs\n- A: S [[Job-9-24|Job 9:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

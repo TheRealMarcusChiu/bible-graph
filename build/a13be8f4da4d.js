@@ -1,0 +1,1 @@
+(function(){var b="a13be8f4da4d",m="# 2 Chronicles 11:9 (New International Version)\nAdoraim, Lachish, Azekah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

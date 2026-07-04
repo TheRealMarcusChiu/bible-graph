@@ -1,0 +1,1 @@
+(function(){var b="27684baa2183",m="# Ezekiel 33:19 (New International Version)\nAnd if a wicked person turns away from their wickedness and does what is just and right, they will live by doing so.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-33-14|ver 14-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

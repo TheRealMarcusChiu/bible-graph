@@ -1,0 +1,1 @@
+(function(){var b="71efd221e233",m="# 1 Chronicles 6:14 (New International Version)\nAzariah the father of Seraiah,<sup>^A</sup>\nand Seraiah the father of Jozadak.\n\n### Crossrefs\n- A: S [[2Kgs-25-18|2Ki 25:18]]; S [[Ezra-2-2|Ezr 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

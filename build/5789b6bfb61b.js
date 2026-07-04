@@ -1,0 +1,1 @@
+(function(){var b="5789b6bfb61b",m="# Lamentations 3:24 (New International Version)\nI say to myself, \"The LORD is my portion;<sup>^A</sup>  \n    therefore I will wait for him.\"\n\n### Crossrefs\n- A: S [[Ps-119-57|Ps 119:57]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

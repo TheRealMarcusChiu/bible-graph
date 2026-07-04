@@ -1,0 +1,1 @@
+(function(){var b="51c55f053790",m="# Psalm 94:7 (New International Version)\nThey say, \"The LORD does not see;<sup>^A</sup>  \n    the God of Jacob<sup>^B</sup> takes no notice.\"\n\n### Crossrefs\n- A: S [[Job-22-14|Job 22:14]]\n- B: S [[Gen-24-12|Ge 24:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

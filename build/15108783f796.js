@@ -1,0 +1,1 @@
+(function(){var b="15108783f796",m="# 2 Chronicles 6:1 (New International Version)\nThen Solomon said, \"The LORD has said that he would dwell in a dark cloud;<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-19-9|Ex 19:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

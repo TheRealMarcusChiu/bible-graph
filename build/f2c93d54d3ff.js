@@ -1,0 +1,1 @@
+(function(){var b="f2c93d54d3ff",m="# Psalm 29:2 (New International Version)\nAscribe to the LORD the glory due his name;  \n    worship the LORD in the splendor of his holiness.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-16-29|1Ch 16:29]]; [[Ps-96-7|Ps 96:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

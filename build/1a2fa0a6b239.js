@@ -1,0 +1,1 @@
+(function(){var b="1a2fa0a6b239",m="# 2 Chronicles 35:17 (New International Version)\nThe Israelites who were present celebrated the Passover at that time and observed the Festival of Unleavened Bread for seven days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8acc30e42604",m="# Psalm 91:8 (New International Version)\nYou will only observe with your eyes  \n    and see the punishment of the wicked.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-37-34|Ps 37:34]]; S [[Ps-58-10|58:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

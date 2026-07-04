@@ -1,0 +1,1 @@
+(function(){var b="2db430d0970e",m="# Ezekiel 44:6 (New International Version)\nSay to rebellious Israel,<sup>^A</sup> 'This is what the Sovereign LORD says: Enough of your detestable practices, people of Israel! \n\n### Crossrefs\n- A: S [[Ezek-3-9|Eze 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

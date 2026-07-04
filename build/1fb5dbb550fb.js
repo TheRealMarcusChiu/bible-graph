@@ -1,0 +1,1 @@
+(function(){var b="1fb5dbb550fb",m="# Psalm 64:2 (New International Version)\nHide me from the conspiracy<sup>^A</sup> of the wicked,<sup>^B</sup>  \n    from the plots of evildoers.\n\n### Crossrefs\n- A: S [[Exod-1-10|Ex 1:10]]\n- B: [[Ps-56-6|Ps 56:6]]; [[Ps-59-2|59:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

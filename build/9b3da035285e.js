@@ -1,0 +1,1 @@
+(function(){var b="9b3da035285e",m="# Proverbs 8:15 (New International Version)\nBy me kings reign  \n    and rulers<sup>^A</sup> issue decrees that are just;\n\n### Crossrefs\n- A: S [[Ps-2-10|Ps 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

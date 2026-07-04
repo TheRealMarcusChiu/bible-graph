@@ -1,0 +1,1 @@
+(function(){var b="7ff5236334a0",m="# Zechariah 4:5 (New International Version)\nHe answered, \"Do you not know what these are?\"\n\"No, my lord,\" I replied.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Zech-1-9|Zec 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

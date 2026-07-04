@@ -1,0 +1,1 @@
+(function(){var b="42dc5c7bd5b1",m="# Ezekiel 32:22 (New International Version)\n\"Assyria is there with her whole army; she is surrounded by the graves of all her slain, all who have fallen by the sword.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

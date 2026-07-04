@@ -1,0 +1,1 @@
+(function(){var b="1d0bd460cb40",m="# Psalm 119:16 (New International Version)\nI delight<sup>^A</sup> in your decrees;  \n    I will not neglect your word.\n\n### Crossrefs\n- A: S [[Ps-112-1|Ps 112:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

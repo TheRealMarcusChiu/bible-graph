@@ -1,0 +1,1 @@
+(function(){var b="5574c48df815",m="# Job 19:4 (New International Version)\nIf it is true that I have gone astray,  \n    my error<sup>^A</sup> remains my concern alone.\n\n### Crossrefs\n- A: [[Job-6-24|Job 6:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

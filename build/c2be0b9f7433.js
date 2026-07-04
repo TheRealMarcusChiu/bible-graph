@@ -1,0 +1,1 @@
+(function(){var b="c2be0b9f7433",m="# Daniel 2:3 (New International Version)\nhe said to them, \"I have had a dream that troubles<sup>^A</sup> me and I want to know what it means.\"\n\n### Crossrefs\n- A: [[Dan-4-5|Da 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

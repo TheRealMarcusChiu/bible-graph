@@ -1,0 +1,1 @@
+(function(){var b="badab9ab9035",m="# Proverbs 24:7 (New International Version)\nWisdom is too high for fools;  \n    in the assembly at the gate they must not open their mouths.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

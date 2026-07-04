@@ -1,0 +1,1 @@
+(function(){var b="ca7989ddbba6",m="# Psalm 143:4 (New International Version)\nSo my spirit grows faint within me;  \n    my heart within me is dismayed.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-30-7|Ps 30:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a11f10c327e",m="# Ezekiel 24:4 (New International Version)\nPut into it the pieces of meat,  \n    all the choice pieces--the leg and the shoulder.  \nFill it with the best of these bones;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-11-7|Eze 11:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

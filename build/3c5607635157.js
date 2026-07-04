@@ -1,0 +1,1 @@
+(function(){var b="3c5607635157",m="# Ezra 2:34 (New International Version)\n\n### Crossrefs\n- A: [[1Kgs-16-34|1Ki 16:34]]; [[2Chr-28-15|2Ch 28:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

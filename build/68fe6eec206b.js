@@ -1,0 +1,1 @@
+(function(){var b="68fe6eec206b",m="# Proverbs 26:10 (New International Version)\nLike an archer who wounds at random  \n    is one who hires a fool or any passer-by.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

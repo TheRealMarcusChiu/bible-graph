@@ -1,0 +1,1 @@
+(function(){var b="0e47d10b11bd",m="# Psalm 20:3 (New International Version)\nMay he remember<sup>^A</sup> all your sacrifices  \n    and accept your burnt offerings.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Acts-10-4|Ac 10:4]]\n- B: S [[Deut-33-11|Dt 33:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

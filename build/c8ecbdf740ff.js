@@ -1,0 +1,1 @@
+(function(){var b="c8ecbdf740ff",m="# Ecclesiastes 9:17 (New International Version)\nThe quiet words of the wise are more to be heeded  \n    than the shouts of a ruler of fools.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

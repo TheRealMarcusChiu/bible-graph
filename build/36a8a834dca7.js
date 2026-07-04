@@ -1,0 +1,1 @@
+(function(){var b="36a8a834dca7",m="# 1 Chronicles 7:26 (New International Version)\nLadan his son, Ammihud his son,\nElishama his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

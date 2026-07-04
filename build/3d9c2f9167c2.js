@@ -1,0 +1,1 @@
+(function(){var b="3d9c2f9167c2",m="# 1 Chronicles 16:26 (New International Version)\nFor all the gods of the nations are idols,  \n    but the LORD made the heavens.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-8-3|Ps 8:3]]; [[Ps-102-25|102:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

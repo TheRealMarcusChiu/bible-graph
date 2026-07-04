@@ -1,0 +1,1 @@
+(function(){var b="28369ec74bfa",m="# Ezra 8:2 (New International Version)\nof the descendants of Phinehas, Gershom;\nof the descendants of Ithamar, Daniel;\nof the descendants of David, Hattush";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

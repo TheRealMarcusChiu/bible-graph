@@ -1,0 +1,1 @@
+(function(){var b="f172e929c3ec",m="# Ezekiel 19:13 (New International Version)\nNow it is planted in the desert,<sup>^A</sup>  \n    in a dry and thirsty land.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ezek-20-35|Eze 20:35]]; [[Hos-2-14|Hos 2:14]]\n- B: [[Hos-2-3|Hos 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

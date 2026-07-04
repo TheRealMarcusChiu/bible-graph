@@ -1,0 +1,1 @@
+(function(){var b="1631418c325b",m="# 2 Chronicles 23:15 (New International Version)\nSo they seized her as she reached the entrance of the Horse Gate<sup>^A</sup> on the palace grounds, and there they put her to death.\n\n### Crossrefs\n- A: [[Jer-31-40|Jer 31:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

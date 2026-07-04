@@ -1,0 +1,1 @@
+(function(){var b="4433056d7b51",m="# 1 Chronicles 4:1 (New International Version)\nThe descendants of Judah:<sup>^A</sup>\nPerez, Hezron,<sup>^B</sup> Karmi, Hur and Shobal.\n\n### Crossrefs\n- A: S [[Gen-29-35|Ge 29:35]]; S [[1Chr-2-3|1Ch 2:3]]\n- B: [[Num-26-21|Nu 26:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

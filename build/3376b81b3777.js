@@ -1,0 +1,1 @@
+(function(){var b="3376b81b3777",m="# Proverbs 30:25 (New International Version)\nAnts are creatures of little strength,  \n    yet they store up their food in the summer;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-6-6|Pr 6:6-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

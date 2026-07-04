@@ -1,0 +1,1 @@
+(function(){var b="2ace8d459c19",m="# Psalm 50:17 (New International Version)\nYou hate<sup>^A</sup> my instruction  \n    and cast my words behind<sup>^B</sup> you.\n\n### Crossrefs\n- A: [[Prov-1-22|Pr 1:22]]\n- B: S [[1Kgs-14-9|1Ki 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

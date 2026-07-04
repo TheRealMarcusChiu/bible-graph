@@ -1,0 +1,1 @@
+(function(){var b="4e9f2dc82aa8",m="# Nehemiah 13:27 (New International Version)\nMust we hear now that you too are doing all this terrible wickedness and are being unfaithful to our God by marrying<sup>^A</sup> foreign women?\"\n\n### Crossrefs\n- A: [[Ezra-9-14|Ezr 9:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

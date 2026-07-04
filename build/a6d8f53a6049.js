@@ -1,0 +1,1 @@
+(function(){var b="a6d8f53a6049",m="# Job 39:18 (New International Version)\nYet when she spreads her feathers to run,  \n    she laughs<sup>^A</sup> at horse and rider.\n\n### Crossrefs\n- A: S [[Job-5-22|Job 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

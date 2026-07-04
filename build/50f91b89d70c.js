@@ -1,0 +1,1 @@
+(function(){var b="50f91b89d70c",m="# Proverbs 13:11 (New International Version)\nDishonest money dwindles away,<sup>^A</sup>  \n    but whoever gathers money little by little makes it grow.\n\n### Crossrefs\n- A: S [[Prov-10-2|Pr 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f63bca10855f",m="# Psalm 69:24 (New International Version)\nPour out your wrath<sup>^A</sup> on them;  \n    let your fierce anger overtake them.\n\n### Crossrefs\n- A: [[Ps-79-6|Ps 79:6]]; [[Jer-10-25|Jer 10:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

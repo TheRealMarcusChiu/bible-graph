@@ -1,0 +1,1 @@
+(function(){var b="c255535dd9c6",m="# Psalm 119:115 (New International Version)\nAway from me,<sup>^A</sup> you evildoers,  \n    that I may keep the commands of my God!\n\n### Crossrefs\n- A: S [[Ps-6-8|Ps 6:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5768fe946001",m="# Jeremiah 27:21 (New International Version)\nyes, this is what the LORD Almighty, the God of Israel, says about the things that are left in the house of the LORD and in the palace of the king of Judah and in Jerusalem:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

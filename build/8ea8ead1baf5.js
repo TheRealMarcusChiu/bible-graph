@@ -1,0 +1,1 @@
+(function(){var b="8ea8ead1baf5",m="# Daniel 2:11 (New International Version)\nWhat the king asks is too difficult. No one can reveal it to the king except the gods,<sup>^A</sup> and they do not live among humans.\"\n\n### Crossrefs\n- A: S [[Gen-41-38|Ge 41:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

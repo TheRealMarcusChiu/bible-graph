@@ -1,0 +1,1 @@
+(function(){var b="920851ac3965",m="# Ecclesiastes 10:9 (New International Version)\nWhoever quarries stones may be injured by them;  \n    whoever splits logs may be endangered by them.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-26-27|Pr 26:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

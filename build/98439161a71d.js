@@ -1,0 +1,1 @@
+(function(){var b="98439161a71d",m="# Ezra 5:13 (New International Version)\n\"However, in the first year of Cyrus king of Babylon, King Cyrus issued a decree<sup>^A</sup> to rebuild this house of God. \n\n### Crossrefs\n- A: S [[Ezra-1-2|Ezr 1:2-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

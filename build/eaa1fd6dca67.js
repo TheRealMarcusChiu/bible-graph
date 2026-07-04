@@ -1,0 +1,1 @@
+(function(){var b="eaa1fd6dca67",m="# Proverbs 31:24 (New International Version)\nShe makes linen garments and sells them,  \n    and supplies the merchants with sashes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c4d71d7f514",m="# Daniel 3:24 (New International Version)\nThen King Nebuchadnezzar leaped to his feet in amazement and asked his advisers, \"Weren't there three men that we tied up and threw into the fire?\"\nThey replied, \"Certainly, Your Majesty.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

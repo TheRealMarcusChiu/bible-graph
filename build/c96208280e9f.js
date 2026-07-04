@@ -1,0 +1,1 @@
+(function(){var b="c96208280e9f",m="# Psalm 139:9 (New International Version)\nIf I rise on the wings of the dawn,  \n    if I settle on the far side of the sea,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

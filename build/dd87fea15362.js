@@ -1,0 +1,1 @@
+(function(){var b="dd87fea15362",m="# Proverbs 18:6 (New International Version)\nThe lips of fools bring them strife,  \n    and their mouths invite a beating.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-14|Pr 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

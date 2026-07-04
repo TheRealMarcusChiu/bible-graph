@@ -1,0 +1,1 @@
+(function(){var b="f2bb7a162511",m="# Psalm 55:7 (New International Version)\nI would flee far away  \n    and stay in the desert;<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Sam-23-14|1Sa 23:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

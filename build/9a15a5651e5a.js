@@ -1,0 +1,1 @@
+(function(){var b="9a15a5651e5a",m="# 2 Chronicles 29:2 (New International Version)\nHe did what was right in the eyes of the LORD, just as his father David<sup>^A</sup> had done.\n\n### Crossrefs\n- A: [[2Chr-34-2|2Ch 34:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

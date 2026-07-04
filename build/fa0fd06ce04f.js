@@ -1,0 +1,1 @@
+(function(){var b="fa0fd06ce04f",m="# Psalm 33:14 (New International Version)\nfrom his dwelling place<sup>^A</sup> he watches  \n    all who live on earth--\n\n### Crossrefs\n- A: S [[Lev-15-31|Lev 15:31]]; [[1Kgs-8-39|1Ki 8:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

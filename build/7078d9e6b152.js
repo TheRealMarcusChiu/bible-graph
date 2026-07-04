@@ -1,0 +1,1 @@
+(function(){var b="7078d9e6b152",m="# Nehemiah 7:63 (New International Version)\nAnd from among the priests:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

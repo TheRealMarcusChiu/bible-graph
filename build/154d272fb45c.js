@@ -1,0 +1,1 @@
+(function(){var b="154d272fb45c",m="# Job 29:5 (New International Version)\nwhen the Almighty was still with me  \n    and my children<sup>^A</sup> were around me,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-127-3|Ps 127:3-5]]; [[Ps-128-3|128:3]]\n- B: [[Ruth-4-1|Ru 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

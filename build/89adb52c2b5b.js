@@ -1,0 +1,1 @@
+(function(){var b="89adb52c2b5b",m="# Lamentations 3:29 (New International Version)\nLet him bury his face in the dust<sup>^A</sup>--  \n    there may yet be hope.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-2-8|Job 2:8]]\n- B: S [[Jer-31-17|Jer 31:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

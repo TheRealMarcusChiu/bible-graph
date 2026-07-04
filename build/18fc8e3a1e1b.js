@@ -1,0 +1,1 @@
+(function(){var b="18fc8e3a1e1b",m="# 2 Chronicles 28:4 (New International Version)\nHe offered sacrifices and burned incense at the high places, on the hilltops and under every spreading tree.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

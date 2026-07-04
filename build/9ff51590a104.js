@@ -1,0 +1,1 @@
+(function(){var b="9ff51590a104",m="# Psalm 119:4 (New International Version)\nYou have laid down precepts<sup>^A</sup>  \n    that are to be fully obeyed.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-103-18|Ps 103:18]]\n- B: S [[Ps-119-56|ver 56]]; S [[Deut-6-17|Dt 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8b5ef7b5af98",m="# Psalm 135:12 (New International Version)\nand he gave their land as an inheritance,<sup>^A</sup>  \n    an inheritance to his people Israel.\n\n### Crossrefs\n- A: S [[Deut-29-8|Dt 29:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

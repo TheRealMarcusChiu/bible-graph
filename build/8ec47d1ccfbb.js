@@ -1,0 +1,1 @@
+(function(){var b="8ec47d1ccfbb",m="# Proverbs 24:20 (New International Version)\nfor the evildoer has no future hope,  \n    and the lamp of the wicked will be snuffed out.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-18-5|Job 18:5]]; S [[Prov-23-17|Pr 23:17-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

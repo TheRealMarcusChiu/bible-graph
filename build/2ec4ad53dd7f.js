@@ -1,0 +1,1 @@
+(function(){var b="2ec4ad53dd7f",m="# 1 Chronicles 22:15 (New International Version)\nYou have many workers: stonecutters, masons and carpenters,<sup>^A</sup> as well as those skilled in every kind of work \n\n### Crossrefs\n- A: [[Ezra-3-7|Ezr 3:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

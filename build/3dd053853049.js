@@ -1,0 +1,1 @@
+(function(){var b="3dd053853049",m="# Job 37:1 (New International Version)\n\"At this my heart pounds<sup>^A</sup>  \n    and leaps from its place.\n\n### Crossrefs\n- A: [[Ps-38-10|Ps 38:10]]; [[Isa-15-5|Isa 15:5]]; [[Jer-4-19|Jer 4:19]]; [[Hab-3-16|Hab 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

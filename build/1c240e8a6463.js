@@ -1,0 +1,1 @@
+(function(){var b="1c240e8a6463",m="# 2 Chronicles 1:16 (New International Version)\nSolomon's horses were imported from Egypt and from Kue--the royal merchants purchased them from Kue at the current price.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

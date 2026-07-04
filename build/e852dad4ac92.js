@@ -1,0 +1,1 @@
+(function(){var b="e852dad4ac92",m="# Job 41:2 (New International Version)\nCan you put a cord through its nose<sup>^A</sup>  \n    or pierce its jaw with a hook?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-40-24|Job 40:24]]\n- B: [[Ezek-19-4|Eze 19:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

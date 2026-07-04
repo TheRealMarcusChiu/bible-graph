@@ -1,0 +1,1 @@
+(function(){var b="53c5e1c01186",m="# 2 Chronicles 18:6 (New International Version)\nBut Jehoshaphat asked, \"Is there no longer a prophet of the LORD here whom we can inquire of?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

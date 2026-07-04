@@ -1,0 +1,1 @@
+(function(){var b="0fb4d4a4a1d2",m="# 1 Chronicles 5:13 (New International Version)\nTheir relatives, by families, were:\nMichael, Meshullam, Sheba, Jorai, Jakan, Zia and Eber--seven in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

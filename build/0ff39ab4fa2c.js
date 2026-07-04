@@ -1,0 +1,1 @@
+(function(){var b="0ff39ab4fa2c",m="# Psalm 31:15 (New International Version)\nMy times<sup>^A</sup> are in your hands;  \n    deliver me from the hands of my enemies,  \n    from those who pursue me.\n\n### Crossrefs\n- A: S [[Job-14-5|Job 14:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c05b7748ce0b",m="# Ezekiel 10:3 (New International Version)\nNow the cherubim were standing on the south side of the temple when the man went in, and a cloud filled the inner court.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ac0cc36ef6b0",m="# Proverbs 9:12 (New International Version)\nIf you are wise, your wisdom will reward you;  \n    if you are a mocker, you alone will suffer.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

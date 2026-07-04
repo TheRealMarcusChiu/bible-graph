@@ -1,0 +1,1 @@
+(function(){var b="49e78fe78632",m="# 1 Chronicles 8:8 (New International Version)\nSons were born to Shaharaim in Moab after he had divorced his wives Hushim and Baara.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

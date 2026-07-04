@@ -1,0 +1,1 @@
+(function(){var b="6ec61df37894",m="# Job 8:14 (New International Version)\nWhat they trust in is fragile;  \n    what they rely on is a spider's web.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-8-15|ver 15]]; [[Job-27-18|Job 27:18]]; [[Isa-59-5|Isa 59:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

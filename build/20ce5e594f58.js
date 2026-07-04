@@ -1,0 +1,1 @@
+(function(){var b="20ce5e594f58",m="# Proverbs 27:2 (New International Version)\nLet someone else praise you, and not your own mouth;  \n    an outsider, and not your own lips.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-25-27|Pr 25:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

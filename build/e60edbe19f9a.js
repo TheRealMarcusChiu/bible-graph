@@ -1,0 +1,1 @@
+(function(){var b="e60edbe19f9a",m="# Proverbs 14:9 (New International Version)\nFools mock at making amends for sin,  \n    but goodwill is found among the upright.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

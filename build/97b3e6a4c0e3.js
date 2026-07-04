@@ -1,0 +1,1 @@
+(function(){var b="97b3e6a4c0e3",m="# 1 Chronicles 12:31 (New International Version)\nfrom half the tribe of Manasseh, designated by name to come and make David king--18,000;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

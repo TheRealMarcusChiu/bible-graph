@@ -1,0 +1,1 @@
+(function(){var b="b5981f633be1",m="# 1 Chronicles 9:13 (New International Version)\nThe priests, who were heads of families, numbered 1,760. They were able men, responsible for ministering in the house of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

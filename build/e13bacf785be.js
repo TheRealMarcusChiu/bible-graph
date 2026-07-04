@@ -1,0 +1,1 @@
+(function(){var b="e13bacf785be",m="# 2 Chronicles 26:13 (New International Version)\nUnder their command was an army of 307,500 men trained for war, a powerful force to support the king against his enemies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

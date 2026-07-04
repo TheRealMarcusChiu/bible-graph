@@ -1,0 +1,1 @@
+(function(){var b="ab036f3cab58",m="# Proverbs 14:30 (New International Version)\nA heart at peace gives life to the body,  \n    but envy rots the bones.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-17-22|Pr 17:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

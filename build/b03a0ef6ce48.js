@@ -1,0 +1,1 @@
+(function(){var b="b03a0ef6ce48",m="# Psalm 56:10 (New International Version)\nIn God, whose word I praise,  \n    in the LORD, whose word I praise--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

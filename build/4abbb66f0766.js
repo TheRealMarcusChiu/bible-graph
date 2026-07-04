@@ -1,0 +1,1 @@
+(function(){var b="4abbb66f0766",m="# Psalm 119:109 (New International Version)\nThough I constantly take my life in my hands,<sup>^A</sup>  \n    I will not forget<sup>^B</sup> your law.\n\n### Crossrefs\n- A: S [[Judg-12-3|Jdg 12:3]]\n- B: S [[Ps-119-61|ver 61]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

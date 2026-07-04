@@ -1,0 +1,1 @@
+(function(){var b="e72aa4ebec53",m="# Psalm 127:3 (New International Version)\nChildren are a heritage from the LORD,  \n    offspring a reward<sup>^A</sup> from him.\n\n### Crossrefs\n- A: S [[Gen-1-28|Ge 1:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

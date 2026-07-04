@@ -1,0 +1,1 @@
+(function(){var b="211f854f922a",m="# Proverbs 1:14 (New International Version)\ncast lots with us;  \n    we will all share the loot<sup>^A</sup>\"--\n\n### Crossrefs\n- A: [[Prov-1-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

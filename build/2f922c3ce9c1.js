@@ -1,0 +1,1 @@
+(function(){var b="2f922c3ce9c1",m="# Job 14:8 (New International Version)\nIts roots may grow old in the ground  \n    and its stump<sup>^A</sup> die in the soil,\n\n### Crossrefs\n- A: [[Isa-6-13|Isa 6:13]]; [[Isa-11-1|11:1]]; [[Isa-53-2|53:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

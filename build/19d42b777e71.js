@@ -1,0 +1,1 @@
+(function(){var b="19d42b777e71",m="# Psalm 68:29 (New International Version)\nBecause of your temple at Jerusalem  \n    kings will bring you gifts.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Chr-9-24|2Ch 9:24]]; S [[2Chr-32-23|32:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1c18cb35a9e5",m="# 2 Kings 11:6 (New International Version)\na third at the Sur Gate, and a third at the gate behind the guard, who take turns guarding the temple--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

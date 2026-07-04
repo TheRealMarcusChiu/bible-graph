@@ -1,0 +1,1 @@
+(function(){var b="8b27a89adc6a",m="# Psalm 71:2 (New International Version)\nIn your righteousness, rescue me and deliver me;  \n    turn your ear<sup>^A</sup> to me and save me.\n\n### Crossrefs\n- A: S [[2Kgs-19-16|2Ki 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

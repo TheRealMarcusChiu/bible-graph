@@ -1,0 +1,1 @@
+(function(){var b="ab9a291bf038",m="# Ezekiel 47:21 (New International Version)\n\"You are to distribute this land among yourselves according to the tribes of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

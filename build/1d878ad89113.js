@@ -1,0 +1,1 @@
+(function(){var b="1d878ad89113",m="# Jeremiah 19:2 (New International Version)\nand go out to the Valley of Ben Hinnom,<sup>^A</sup> near the entrance of the Potsherd Gate. There proclaim the words I tell you, \n\n### Crossrefs\n- A: S [[Josh-15-8|Jos 15:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

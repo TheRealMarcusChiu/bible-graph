@@ -1,0 +1,1 @@
+(function(){var b="c2a99959f196",m="# Proverbs 4:16 (New International Version)\nFor they cannot rest until they do evil;<sup>^A</sup>  \n    they are robbed of sleep till they make someone stumble.\n\n### Crossrefs\n- A: [[Ps-36-4|Ps 36:4]]; [[Mic-7-3|Mic 7:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

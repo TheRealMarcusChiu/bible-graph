@@ -1,0 +1,1 @@
+(function(){var b="9d7636626c13",m="# Ezekiel 28:20 (New International Version)\nA Prophecy Against Sidon\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

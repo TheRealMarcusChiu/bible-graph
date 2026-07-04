@@ -1,0 +1,1 @@
+(function(){var b="ea12f3902039",m="# Micah 2:8 (New International Version)\nLately my people have risen up  \n    like an enemy.  \nYou strip off the rich robe  \n    from those who pass by without a care,  \n    like men returning from battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="43c5dc808cca",m="# Ezra 7:5 (New International Version)\nthe son of Abishua, the son of Phinehas,<sup>^A</sup> the son of Eleazar, the son of Aaron the chief priest-- \n\n### Crossrefs\n- A: [[1Chr-6-4|1Ch 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

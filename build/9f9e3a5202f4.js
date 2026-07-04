@@ -1,0 +1,1 @@
+(function(){var b="9f9e3a5202f4",m="# Job 12:9 (New International Version)\nWhich of all these does not know<sup>^A</sup>  \n    that the hand of the LORD has done this?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Isa-1-3|Isa 1:3]]\n- B: S [[Job-9-24|Job 9:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

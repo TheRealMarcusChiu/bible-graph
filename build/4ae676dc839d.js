@@ -1,0 +1,1 @@
+(function(){var b="4ae676dc839d",m="# 2 Kings 19:13 (New International Version)\nWhere is the king of Hamath or the king of Arpad? Where are the kings of Lair, Sepharvaim, Hena and Ivvah?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-10-9|Isa 10:9-11]]; [[Jer-49-23|Jer 49:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

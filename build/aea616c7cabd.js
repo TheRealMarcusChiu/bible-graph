@@ -1,0 +1,1 @@
+(function(){var b="aea616c7cabd",m="# Psalm 107:6 (New International Version)\nThen they cried out<sup>^A</sup> to the LORD in their trouble,  \n    and he delivered them from their distress.\n\n### Crossrefs\n- A: S [[Exod-14-10|Ex 14:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

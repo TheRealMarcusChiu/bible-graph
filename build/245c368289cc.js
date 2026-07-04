@@ -1,0 +1,1 @@
+(function(){var b="245c368289cc",m="# Psalm 102:23 (New International Version)\nIn the course of my life he broke my strength;  \n    he cut short my days.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-39-5|Ps 39:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d6ee71a9b557",m="# 1 Chronicles 9:11 (New International Version)\nAzariah son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, the official in charge of the house of God;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

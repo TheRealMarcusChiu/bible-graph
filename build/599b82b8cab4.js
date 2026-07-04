@@ -1,0 +1,1 @@
+(function(){var b="599b82b8cab4",m="# Proverbs 6:31 (New International Version)\nYet if he is caught, he must pay sevenfold,<sup>^A</sup>  \n    though it costs him all the wealth of his house.\n\n### Crossrefs\n- A: [[Exod-22-1|Ex 22:1-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7ec8d8d2274f",m="# 1 Chronicles 18:9 (New International Version)\nWhen Tou king of Hamath heard that David had defeated the entire army of Hadadezer king of Zobah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

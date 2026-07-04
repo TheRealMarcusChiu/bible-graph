@@ -1,0 +1,1 @@
+(function(){var b="413d5e441c0f",m="# Ecclesiastes 4:14 (New International Version)\nThe youth may have come from prison to the kingship, or he may have been born in poverty within his kingdom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

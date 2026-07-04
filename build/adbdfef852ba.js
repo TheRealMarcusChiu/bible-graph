@@ -1,0 +1,1 @@
+(function(){var b="adbdfef852ba",m="# Song of Songs 5:11 (New International Version)\nHis head is purest gold;  \n    his hair is wavy  \n    and black as a raven.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

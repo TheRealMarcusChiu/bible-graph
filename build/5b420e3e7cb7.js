@@ -1,0 +1,1 @@
+(function(){var b="5b420e3e7cb7",m="# Ezekiel 16:32 (New International Version)\n\"'You adulterous wife! You prefer strangers to your own husband!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

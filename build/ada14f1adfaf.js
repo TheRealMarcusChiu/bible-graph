@@ -1,0 +1,1 @@
+(function(){var b="ada14f1adfaf",m="# 2 Chronicles 28:14 (New International Version)\nSo the soldiers gave up the prisoners and plunder in the presence of the officials and all the assembly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

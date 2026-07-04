@@ -1,0 +1,1 @@
+(function(){var b="89e58dcedc94",m="# Psalm 107:16 (New International Version)\nfor he breaks down gates of bronze  \n    and cuts through bars of iron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

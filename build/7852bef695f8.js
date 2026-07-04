@@ -1,0 +1,1 @@
+(function(){var b="7852bef695f8",m="# Job 33:17 (New International Version)\nto turn them from wrongdoing  \n    and keep them from pride,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-20-6|Job 20:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

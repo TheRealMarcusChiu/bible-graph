@@ -1,0 +1,1 @@
+(function(){var b="30396096a41b",m="# Proverbs 3:27 (New International Version)\nDo not withhold good from those to whom it is due,  \n    when it is in your power to act.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

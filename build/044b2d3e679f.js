@@ -1,0 +1,1 @@
+(function(){var b="044b2d3e679f",m="# 2 Kings 17:2 (New International Version)\nHe did evil<sup>^A</sup> in the eyes of the LORD, but not like the kings of Israel who preceded him.\n\n### Crossrefs\n- A: S [[Deut-4-25|Dt 4:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="178018c5aa5d",m="# Job 10:19 (New International Version)\nIf only I had never come into being,  \n    or had been carried straight from the womb to the grave!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-3|Job 3:3]]; [[Jer-15-10|Jer 15:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

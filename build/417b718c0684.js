@@ -1,0 +1,1 @@
+(function(){var b="417b718c0684",m="# Ezekiel 30:26 (New International Version)\nI will disperse the Egyptians among the nations and scatter them through the countries. Then they will know that I am the LORD.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Ezek-29-12|Eze 29:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

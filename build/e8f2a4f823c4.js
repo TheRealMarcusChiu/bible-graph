@@ -1,0 +1,1 @@
+(function(){var b="e8f2a4f823c4",m="# Psalm 40:13 (New International Version)\nBe pleased to save me, LORD;  \n    come quickly, LORD, to help me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-22-19|Ps 22:19]]; [[Ps-38-22|38:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

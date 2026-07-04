@@ -1,0 +1,1 @@
+(function(){var b="dd5d11893b87",m="# 2 Kings 25:2 (New International Version)\nThe city was kept under siege until the eleventh year of King Zedekiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

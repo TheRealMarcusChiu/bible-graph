@@ -1,0 +1,1 @@
+(function(){var b="16e1a0fa9dc2",m="# Ezekiel 23:20 (New International Version)\nThere she lusted after her lovers, whose genitals were like those of donkeys and whose emission was like that of horses.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

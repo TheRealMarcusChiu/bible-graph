@@ -1,0 +1,1 @@
+(function(){var b="00cb4a0b7d2c",m="# 1 Chronicles 8:27 (New International Version)\nJaareshiah, Elijah and Zikri were the sons of Jeroham.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

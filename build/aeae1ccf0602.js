@@ -1,0 +1,1 @@
+(function(){var b="aeae1ccf0602",m="# Ezra 8:12 (New International Version)\nof the descendants of Azgad, Johanan son of Hakkatan, and with him 110 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

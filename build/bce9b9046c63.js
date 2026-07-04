@@ -1,0 +1,1 @@
+(function(){var b="bce9b9046c63",m="# Ezekiel 34:31 (New International Version)\nYou are my sheep,<sup>^A</sup> the sheep of my pasture,<sup>^B</sup> and I am your God, declares the Sovereign LORD.'\"\n\n### Crossrefs\n- A: S [[Ps-28-9|Ps 28:9]]\n- B: S [[Jer-23-1|Jer 23:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

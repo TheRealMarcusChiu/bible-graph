@@ -1,0 +1,1 @@
+(function(){var b="15d8e37db541",m="# Ezekiel 35:13 (New International Version)\nYou boasted<sup>^A</sup> against me and spoke against me without restraint, and I heard it.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Jer-49-16|Jer 49:16]]\n- B: [[Dan-11-36|Da 11:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

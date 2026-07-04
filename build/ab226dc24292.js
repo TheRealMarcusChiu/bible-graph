@@ -1,0 +1,1 @@
+(function(){var b="ab226dc24292",m="# Proverbs 30:21 (New International Version)\n\"Under three things the earth trembles,  \n    under four it cannot bear up:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

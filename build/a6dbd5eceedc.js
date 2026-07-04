@@ -1,0 +1,1 @@
+(function(){var b="a6dbd5eceedc",m="# 1 Chronicles 25:5 (New International Version)\n(All these were sons of Heman the king's seer. They were given him through the promises of God to exalt him. God gave Heman fourteen sons and three daughters.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

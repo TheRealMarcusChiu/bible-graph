@@ -1,0 +1,1 @@
+(function(){var b="7435e245546c",m="# 2 Chronicles 30:13 (New International Version)\nA very large crowd of people assembled in Jerusalem to celebrate the Festival of Unleavened Bread<sup>^A</sup> in the second month. \n\n### Crossrefs\n- A: S [[Num-28-16|Nu 28:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

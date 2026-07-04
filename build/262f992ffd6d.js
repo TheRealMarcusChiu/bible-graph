@@ -1,0 +1,1 @@
+(function(){var b="262f992ffd6d",m="# 2 Kings 5:25 (New International Version)\nWhen he went in and stood before his master, Elisha asked him, \"Where have you been, Gehazi?\"\n\"Your servant didn't go anywhere,\" Gehazi answered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

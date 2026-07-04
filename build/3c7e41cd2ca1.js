@@ -1,0 +1,1 @@
+(function(){var b="3c7e41cd2ca1",m="# Psalm 119:166 (New International Version)\nI wait for your salvation,<sup>^A</sup> LORD,  \n    and I follow your commands.\n\n### Crossrefs\n- A: [[Ps-119-81|ver 81]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

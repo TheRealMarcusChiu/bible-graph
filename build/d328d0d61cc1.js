@@ -1,0 +1,1 @@
+(function(){var b="d328d0d61cc1",m="# Psalm 72:9 (New International Version)\nMay the desert tribes bow before him  \n    and his enemies lick the dust.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

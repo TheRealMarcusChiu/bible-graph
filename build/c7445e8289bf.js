@@ -1,0 +1,1 @@
+(function(){var b="c7445e8289bf",m="# 2 Chronicles 1:7 (New International Version)\nThat night God appeared<sup>^A</sup> to Solomon and said to him, \"Ask for whatever you want me to give you.\"\n\n### Crossrefs\n- A: [[2Chr-7-12|2Ch 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8abe88c5bfe0",m="# Job 38:20 (New International Version)\nCan you take them to their places?  \n    Do you know the paths<sup>^A</sup> to their dwellings?\n\n### Crossrefs\n- A: S [[Job-24-13|Job 24:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

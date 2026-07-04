@@ -1,0 +1,1 @@
+(function(){var b="b2ca7b3779d8",m="# Jeremiah 26:24 (New International Version)\nFurthermore, Ahikam<sup>^A</sup> son of Shaphan supported Jeremiah, and so he was not handed over to the people to be put to death.\n\n### Crossrefs\n- A: S [[2Kgs-22-12|2Ki 22:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

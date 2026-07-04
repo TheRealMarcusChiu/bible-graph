@@ -1,0 +1,1 @@
+(function(){var b="9335b5406669",m="# 2 Chronicles 3:17 (New International Version)\nHe erected the pillars in the front of the temple, one to the south and one to the north. The one to the south he named Jakin and the one to the north Boaz.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

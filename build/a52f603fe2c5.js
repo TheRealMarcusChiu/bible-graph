@@ -1,0 +1,1 @@
+(function(){var b="a52f603fe2c5",m="# 1 Chronicles 27:6 (New International Version)\nThis was the Benaiah who was a mighty warrior among the Thirty and was over the Thirty. His son Ammizabad was in charge of his division.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

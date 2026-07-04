@@ -1,0 +1,1 @@
+(function(){var b="acfb32c7b33a",m="# Job 6:17 (New International Version)\nbut that stop flowing in the dry season,  \n    and in the heat<sup>^A</sup> vanish from their channels.\n\n### Crossrefs\n- A: [[Job-24-19|Job 24:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3504877f63d6",m="# Psalm 105:5 (New International Version)\nRemember the wonders<sup>^A</sup> he has done,  \n    his miracles, and the judgments he pronounced,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-40-5|Ps 40:5]]\n- B: S [[Deut-7-18|Dt 7:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

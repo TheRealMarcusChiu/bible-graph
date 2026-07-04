@@ -1,0 +1,1 @@
+(function(){var b="32641380e974",m="# Isaiah 38:9 (New International Version)\nA writing of Hezekiah king of Judah after his illness and recovery:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

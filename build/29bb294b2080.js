@@ -1,0 +1,1 @@
+(function(){var b="29bb294b2080",m="# Isaiah 2:14 (New International Version)\nfor all the towering mountains  \n    and all the high hills,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-30-25|Isa 30:25]]; [[Isa-40-4|40:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

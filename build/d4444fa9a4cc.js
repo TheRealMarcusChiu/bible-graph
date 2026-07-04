@@ -1,0 +1,1 @@
+(function(){var b="d4444fa9a4cc",m="# 2 Chronicles 9:31 (New International Version)\nThen he rested with his ancestors and was buried in the city of David<sup>^A</sup> his father. And Rehoboam his son succeeded him as king.\n\n### Crossrefs\n- A: [[1Kgs-2-10|1Ki 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

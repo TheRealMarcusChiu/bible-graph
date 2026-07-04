@@ -1,0 +1,1 @@
+(function(){var b="94792a169065",m="# Isaiah 36:4 (New International Version)\nThe field commander said to them, \"Tell Hezekiah:\n\"'This is what the great king, the king of Assyria, says: On what are you basing this confidence of yours?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

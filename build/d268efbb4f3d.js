@@ -1,0 +1,1 @@
+(function(){var b="d268efbb4f3d",m="# Proverbs 30:6 (New International Version)\nDo not add<sup>^A</sup> to his words,  \n    or he will rebuke you and prove you a liar.\n\n### Crossrefs\n- A: S [[Deut-4-2|Dt 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

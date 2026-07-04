@@ -1,0 +1,1 @@
+(function(){var b="192ff183da9e",m="# 2 Kings 8:20 (New International Version)\nIn the time of Jehoram, Edom rebelled against Judah and set up its own king.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-22-47|1Ki 22:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

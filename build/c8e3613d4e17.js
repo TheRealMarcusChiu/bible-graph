@@ -1,0 +1,1 @@
+(function(){var b="c8e3613d4e17",m="# Ezra 5:7 (New International Version)\nThe report they sent him read as follows:\nTo King Darius:\nCordial greetings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

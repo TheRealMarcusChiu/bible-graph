@@ -1,0 +1,1 @@
+(function(){var b="71c40fab06ef",m="# Proverbs 4:3 (New International Version)\nFor I too was a son to my father,  \n    still tender, and cherished by my mother.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

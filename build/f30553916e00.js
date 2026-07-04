@@ -1,0 +1,1 @@
+(function(){var b="f30553916e00",m="# Psalm 89:24 (New International Version)\nMy faithful love will be with him,<sup>^A</sup>  \n    and through my name his horn will be exalted.\n\n### Crossrefs\n- A: S [[2Sam-7-15|2Sa 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

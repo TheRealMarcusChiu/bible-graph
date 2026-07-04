@@ -1,0 +1,1 @@
+(function(){var b="bad67169d264",m="# Psalm 67:1 (New International Version)\nPsalm 67\nMay God be gracious to us and bless us  \n    and make his face shine on us--<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-6-24|Nu 6:24-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

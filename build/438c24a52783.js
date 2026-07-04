@@ -1,0 +1,1 @@
+(function(){var b="438c24a52783",m="# 2 Kings 11:21 (New International Version)\nJoash was seven years old when he began to reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

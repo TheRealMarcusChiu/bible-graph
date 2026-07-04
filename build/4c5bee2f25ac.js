@@ -1,0 +1,1 @@
+(function(){var b="4c5bee2f25ac",m="# 2 Chronicles 3:9 (New International Version)\nThe gold nails<sup>^A</sup> weighed fifty shekels. He also overlaid the upper parts with gold.\n\n### Crossrefs\n- A: [[Exod-26-32|Ex 26:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

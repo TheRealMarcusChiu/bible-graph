@@ -1,0 +1,1 @@
+(function(){var b="8923d3a190b7",m="# Psalm 73:4 (New International Version)\nThey have no struggles;  \n    their bodies are healthy and strong.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

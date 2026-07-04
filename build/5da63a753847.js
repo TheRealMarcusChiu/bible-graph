@@ -1,0 +1,1 @@
+(function(){var b="5da63a753847",m="# Proverbs 21:9 (New International Version)\nBetter to live on a corner of the roof  \n    than share a house with a quarrelsome wife.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-21-19|ver 19]]; [[Prov-19-13|Pr 19:13]]; [[Prov-25-24|25:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

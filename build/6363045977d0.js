@@ -1,0 +1,1 @@
+(function(){var b="6363045977d0",m="# Zechariah 14:6 (New International Version)\nOn that day there will be neither sunlight<sup>^A</sup> nor cold, frosty darkness. \n\n### Crossrefs\n- A: S [[Isa-13-10|Isa 13:10]]; S [[Jer-4-23|Jer 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

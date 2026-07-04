@@ -1,0 +1,1 @@
+(function(){var b="9fb3abd3df0e",m="# 2 Chronicles 25:2 (New International Version)\nHe did what was right in the eyes of the LORD, but not wholeheartedly.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-8-61|1Ki 8:61]]; S [[2Chr-24-2|2Ch 24:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

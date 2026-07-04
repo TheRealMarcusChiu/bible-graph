@@ -1,0 +1,1 @@
+(function(){var b="c44d313584c7",m="# Proverbs 16:32 (New International Version)\nBetter a patient person than a warrior,  \n    one with self-control than one who takes a city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

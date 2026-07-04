@@ -1,0 +1,1 @@
+(function(){var b="c1e9b1d461e8",m="# Psalm 91:9 (New International Version)\nIf you say, \"The LORD is my refuge,\"  \n    and you make the Most High your dwelling,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

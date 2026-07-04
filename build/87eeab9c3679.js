@@ -1,0 +1,1 @@
+(function(){var b="87eeab9c3679",m="# Proverbs 11:26 (New International Version)\nPeople curse the one who hoards grain,  \n    but they pray God's blessing on the one who is willing to sell.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

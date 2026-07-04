@@ -1,0 +1,1 @@
+(function(){var b="2d68f714f000",m="# Psalm 119:160 (New International Version)\nAll your words are true;  \n    all your righteous laws are eternal.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-119-89|ver 89]]; S [[Ps-111-8|Ps 111:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

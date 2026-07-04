@@ -1,0 +1,1 @@
+(function(){var b="785a1b63f24f",m="# Job 28:7 (New International Version)\nNo bird of prey knows that hidden path,  \n    no falcon's eye has seen it.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-28-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

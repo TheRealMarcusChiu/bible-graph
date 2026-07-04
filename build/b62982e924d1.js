@@ -1,0 +1,1 @@
+(function(){var b="b62982e924d1",m="# Psalm 78:14 (New International Version)\nHe guided them with the cloud by day  \n    and with light from the fire all night.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-13-21|Ex 13:21]]; [[Ps-105-39|Ps 105:39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

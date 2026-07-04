@@ -1,0 +1,1 @@
+(function(){var b="c648be600d59",m="# Proverbs 23:14 (New International Version)\nPunish them with the rod  \n    and save them from death.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-13-24|Pr 13:24]]; S [[Prov-19-18|19:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

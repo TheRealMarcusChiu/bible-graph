@@ -1,0 +1,1 @@
+(function(){var b="e40aefc99754",m="# Jeremiah 35:12 (New International Version)\nThen the word of the LORD came to Jeremiah, saying:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

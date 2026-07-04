@@ -1,0 +1,1 @@
+(function(){var b="ac217c6c7a3f",m="# Proverbs 5:15 (New International Version)\nDrink water from your own cistern,  \n    running water from your own well.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

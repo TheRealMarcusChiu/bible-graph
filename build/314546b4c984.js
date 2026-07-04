@@ -1,0 +1,1 @@
+(function(){var b="314546b4c984",m="# Psalm 107:2 (New International Version)\nLet the redeemed<sup>^A</sup> of the LORD tell their story--  \n    those he redeemed from the hand of the foe,\n\n### Crossrefs\n- A: S [[Ps-106-10|Ps 106:10]]; S [[Isa-35-9|Isa 35:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

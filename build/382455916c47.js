@@ -1,0 +1,1 @@
+(function(){var b="382455916c47",m="# Psalm 34:20 (New International Version)\nhe protects all his bones,  \n    not one of them will be broken.<sup>^A</sup>\n\n### Crossrefs\n- A: Jn 19:36*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

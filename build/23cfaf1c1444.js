@@ -1,0 +1,1 @@
+(function(){var b="23cfaf1c1444",m="# Ezekiel 22:8 (New International Version)\nYou have despised my holy things and desecrated my Sabbaths.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-20-8|Ex 20:8]]; [[Ezek-23-38|Eze 23:38-39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

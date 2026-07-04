@@ -1,0 +1,1 @@
+(function(){var b="347fca9673ef",m="# Psalm 80:13 (New International Version)\nBoars from the forest ravage<sup>^A</sup> it,  \n    and insects from the fields feed on it.\n\n### Crossrefs\n- A: [[Jer-5-6|Jer 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

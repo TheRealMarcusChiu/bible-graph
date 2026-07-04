@@ -1,0 +1,1 @@
+(function(){var b="c4c2789f91ae",m="# Psalm 115:17 (New International Version)\nIt is not the dead<sup>^A</sup> who praise the LORD,  \n    those who go down to the place of silence;\n\n### Crossrefs\n- A: [[Ps-88-10|Ps 88:10-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

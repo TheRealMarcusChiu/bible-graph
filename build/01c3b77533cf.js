@@ -1,0 +1,1 @@
+(function(){var b="01c3b77533cf",m="# 2 Kings 3:19 (New International Version)\nYou will overthrow every fortified city and every major town. You will cut down every good tree, stop up all the springs, and ruin every good field with stones.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3437210bc2e2",m="# Ezekiel 41:20 (New International Version)\nFrom the floor to the area above the entrance, cherubim and palm trees were carved on the wall of the main hall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

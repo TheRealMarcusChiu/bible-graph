@@ -1,0 +1,1 @@
+(function(){var b="da0504e53d3e",m="# 2 Chronicles 23:4 (New International Version)\nNow this is what you are to do: A third of you priests and Levites who are going on duty on the Sabbath are to keep watch at the doors,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

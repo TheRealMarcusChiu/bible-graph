@@ -1,0 +1,1 @@
+(function(){var b="0dc9c43b64ce",m="# Psalm 78:1 (New International Version)\nPsalm 78\nMy people, hear my teaching;<sup>^A</sup>  \n    listen to the words of my mouth.\n\n### Crossrefs\n- A: [[Isa-51-4|Isa 51:4]]; [[Isa-55-3|55:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fc9fcf324d8f",m="# 2 Kings 9:32 (New International Version)\nHe looked up at the window and called out, \"Who is on my side? Who?\" Two or three eunuchs looked down at him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

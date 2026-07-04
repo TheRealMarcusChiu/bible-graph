@@ -1,0 +1,1 @@
+(function(){var b="76c3308adcc1",m="# Hosea 8:2 (New International Version)\nIsrael cries out to me,  \n    'Our God, we acknowledge you!'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

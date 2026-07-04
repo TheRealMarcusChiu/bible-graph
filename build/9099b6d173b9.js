@@ -1,0 +1,1 @@
+(function(){var b="9099b6d173b9",m="# 1 Chronicles 9:38 (New International Version)\nMikloth was the father of Shimeam. They too lived near their relatives in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

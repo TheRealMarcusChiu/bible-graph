@@ -1,0 +1,1 @@
+(function(){var b="192973ef2a22",m="# 2 Chronicles 33:10 (New International Version)\nThe LORD spoke to Manasseh and his people, but they paid no attention.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

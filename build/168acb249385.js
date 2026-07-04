@@ -1,0 +1,1 @@
+(function(){var b="168acb249385",m="# Jeremiah 52:32 (New International Version)\nHe spoke kindly to him and gave him a seat of honor higher than those of the other kings who were with him in Babylon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

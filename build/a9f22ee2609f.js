@@ -1,0 +1,1 @@
+(function(){var b="a9f22ee2609f",m="# Psalm 92:15 (New International Version)\nproclaiming, \"The LORD is upright;  \n    he is my Rock, and there is no wickedness in him.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Job-34-10|Job 34:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

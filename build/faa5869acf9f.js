@@ -1,0 +1,1 @@
+(function(){var b="faa5869acf9f",m="# Psalm 68:22 (New International Version)\nThe Lord says, \"I will bring them from Bashan;  \n    I will bring them from the depths of the sea,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-36-30|Job 36:30]]; [[Matt-18-6|Mt 18:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="201e86e4191c",m="# Psalm 87:3 (New International Version)\nGlorious things are said of you,  \n    city of God:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-46-4|Ps 46:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

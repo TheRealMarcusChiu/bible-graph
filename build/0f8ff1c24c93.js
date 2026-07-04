@@ -1,0 +1,1 @@
+(function(){var b="0f8ff1c24c93",m="# Psalm 119:91 (New International Version)\nYour laws endure<sup>^A</sup> to this day,  \n    for all things serve you.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-33-25|Jer 33:25]]\n- B: [[Ps-104-2|Ps 104:2-4]]; [[Jer-31-35|Jer 31:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

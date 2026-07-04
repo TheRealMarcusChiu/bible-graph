@@ -1,0 +1,1 @@
+(function(){var b="4730f9081509",m="# Psalm 3:4 (New International Version)\nI call out to the LORD,<sup>^A</sup>  \n    and he answers me from his holy mountain.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-30-20|Job 30:20]]\n- B: [[Ps-2-6|Ps 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

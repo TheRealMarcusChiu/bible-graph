@@ -1,0 +1,1 @@
+(function(){var b="b9690d51f387",m="# Job 3:4 (New International Version)\nThat day--may it turn to darkness;  \n    may God above not care about it;  \n    may no light shine on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

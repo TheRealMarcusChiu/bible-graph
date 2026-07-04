@@ -1,0 +1,1 @@
+(function(){var b="76bec522a66c",m="# Psalm 148:11 (New International Version)\nkings<sup>^A</sup> of the earth and all nations,  \n    you princes and all rulers on earth,\n\n### Crossrefs\n- A: S [[Ps-102-15|Ps 102:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

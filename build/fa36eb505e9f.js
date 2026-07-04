@@ -1,0 +1,1 @@
+(function(){var b="fa36eb505e9f",m="# 1 Chronicles 6:29 (New International Version)\nThe descendants of Merari:\nMahli, Libni his son,\nShimei his son, Uzzah his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

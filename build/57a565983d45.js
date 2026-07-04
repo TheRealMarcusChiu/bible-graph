@@ -1,0 +1,1 @@
+(function(){var b="57a565983d45",m="# Psalm 69:27 (New International Version)\nCharge them with crime upon crime;<sup>^A</sup>  \n    do not let them share in your salvation.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Neh-4-5|Ne 4:5]]\n- B: [[Ps-109-14|Ps 109:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8f61def1fc18",m="# Daniel 3:30 (New International Version)\nThen the king promoted Shadrach, Meshach and Abednego in the province of Babylon.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Dan-2-49|Da 2:49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

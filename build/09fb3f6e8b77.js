@@ -1,0 +1,1 @@
+(function(){var b="09fb3f6e8b77",m="# Proverbs 14:26 (New International Version)\nWhoever fears the LORD has a secure fortress,<sup>^A</sup>  \n    and for their children it will be a refuge.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-18-10|Pr 18:10]]\n- B: [[Ps-9-9|Ps 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

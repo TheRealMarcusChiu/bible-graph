@@ -1,0 +1,1 @@
+(function(){var b="99af12d1798e",m="# Psalm 135:17 (New International Version)\nThey have ears, but cannot hear,  \n    nor is there breath<sup>^A</sup> in their mouths.\n\n### Crossrefs\n- A: [[Jer-10-14|Jer 10:14]]; [[Hab-2-19|Hab 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

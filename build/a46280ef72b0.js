@@ -1,0 +1,1 @@
+(function(){var b="a46280ef72b0",m="# Proverbs 7:6 (New International Version)\nAt the window of my house  \n    I looked down through the lattice.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

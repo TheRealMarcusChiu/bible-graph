@@ -1,0 +1,1 @@
+(function(){var b="f91142125d00",m="# Psalm 69:18 (New International Version)\nCome near and rescue me;  \n    deliver<sup>^A</sup> me because of my foes.\n\n### Crossrefs\n- A: [[Ps-49-15|Ps 49:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

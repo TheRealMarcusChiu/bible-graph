@@ -1,0 +1,1 @@
+(function(){var b="abd0d2e2e300",m="# Jeremiah 35:9 (New International Version)\nor built houses to live in or had vineyards, fields or crops.<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Tim-6-6|1Ti 6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

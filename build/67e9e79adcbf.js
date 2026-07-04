@@ -1,0 +1,1 @@
+(function(){var b="67e9e79adcbf",m="# Ezekiel 1:22 (New International Version)\nSpread out above the heads of the living creatures was what looked something like a vault,<sup>^A</sup> sparkling like crystal, and awesome. \n\n### Crossrefs\n- A: [[Ezek-10-1|Eze 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="09efa56954d4",m="# Ecclesiastes 1:15 (New International Version)\nWhat is crooked cannot be straightened;<sup>^A</sup>  \n    what is lacking cannot be counted.\n\n### Crossrefs\n- A: [[Eccl-7-13|Ecc 7:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd9229b7e6ab",m="# 2 Chronicles 26:14 (New International Version)\nUzziah provided shields, spears, helmets, coats of armor, bows and slingstones for the entire army.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-46-4|Jer 46:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

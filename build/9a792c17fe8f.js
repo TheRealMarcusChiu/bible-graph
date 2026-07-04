@@ -1,0 +1,1 @@
+(function(){var b="9a792c17fe8f",m="# Ezekiel 34:1 (New International Version)\nThe LORD Will Be Israel's Shepherd\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

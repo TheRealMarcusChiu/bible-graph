@@ -1,0 +1,1 @@
+(function(){var b="b3aa23a8674f",m="# Proverbs 28:7 (New International Version)\nA discerning son heeds instruction,  \n    but a companion of gluttons disgraces his father.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-19|Pr 23:19-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

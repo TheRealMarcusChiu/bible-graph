@@ -1,0 +1,1 @@
+(function(){var b="1c3c183316b7",m="# Psalm 85:1 (New International Version)\nPsalm 85\nYou, LORD, showed favor to your land;  \n    you restored the fortunes<sup>^A</sup> of Jacob.\n\n### Crossrefs\n- A: S [[Deut-30-3|Dt 30:3]]; [[Ps-14-7|Ps 14:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

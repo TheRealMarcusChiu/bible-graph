@@ -1,0 +1,1 @@
+(function(){var b="9b74321e93bc",m="# Nehemiah 3:3 (New International Version)\nThe Fish Gate<sup>^A</sup> was rebuilt by the sons of Hassenaah. They laid its beams and put its doors and bolts and bars in place. \n\n### Crossrefs\n- A: S [[2Chr-33-14|2Ch 33:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

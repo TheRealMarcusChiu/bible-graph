@@ -1,0 +1,1 @@
+(function(){var b="24a8e26a63d4",m="# Proverbs 4:24 (New International Version)\nKeep your mouth free of perversity;  \n    keep corrupt talk far from your lips.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0de6966dce25",m="# Song of Songs 6:10 (New International Version)\nWho is this that appears like the dawn,  \n    fair as the moon, bright as the sun,  \n    majestic as the stars in procession?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

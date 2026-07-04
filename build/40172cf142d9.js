@@ -1,0 +1,1 @@
+(function(){var b="40172cf142d9",m="# Ezra 8:27 (New International Version)\n20 bowls of gold valued at 1,000 darics, and two fine articles of polished bronze, as precious as gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

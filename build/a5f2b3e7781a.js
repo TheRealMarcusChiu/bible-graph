@@ -1,0 +1,1 @@
+(function(){var b="a5f2b3e7781a",m="# Zechariah 14:15 (New International Version)\nA similar plague<sup>^A</sup> will strike the horses and mules, the camels and donkeys, and all the animals in those camps.\n\n### Crossrefs\n- A: [[Zech-14-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="46fbeebb7639",m="# Ezekiel 48:30 (New International Version)\nThe Gates of the New City\n\"These will be the exits of the city: Beginning on the north side, which is 4,500 cubits long,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

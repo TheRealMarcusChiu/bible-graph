@@ -1,0 +1,1 @@
+(function(){var b="2bceabee5c8e",m="# Isaiah 21:12 (New International Version)\nThe watchman replies,  \n    \"Morning is coming, but also the night.  \nIf you would ask, then ask;  \n    and come back yet again.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

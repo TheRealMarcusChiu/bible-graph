@@ -1,0 +1,1 @@
+(function(){var b="49702d53c6b5",m="# 1 Chronicles 7:22 (New International Version)\nTheir father Ephraim mourned for them many days, and his relatives came to comfort him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

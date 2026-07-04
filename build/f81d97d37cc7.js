@@ -1,0 +1,1 @@
+(function(){var b="f81d97d37cc7",m="# Nehemiah 5:10 (New International Version)\nI and my brothers and my men are also lending the people money and grain. But let us stop charging interest!<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-22-25|Ex 22:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

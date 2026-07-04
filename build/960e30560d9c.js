@@ -1,0 +1,1 @@
+(function(){var b="960e30560d9c",m="# 1 Chronicles 24:22 (New International Version)\nFrom the Izharites: Shelomoth;\nfrom the sons of Shelomoth: Jahath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

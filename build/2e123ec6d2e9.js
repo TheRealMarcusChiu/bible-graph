@@ -1,0 +1,1 @@
+(function(){var b="2e123ec6d2e9",m="# Job 36:6 (New International Version)\nHe does not keep the wicked alive<sup>^A</sup>  \n    but gives the afflicted their rights.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-34-26|Job 34:26]]\n- B: S [[Job-4-10|Job 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

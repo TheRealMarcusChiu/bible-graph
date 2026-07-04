@@ -1,0 +1,1 @@
+(function(){var b="5b2b116e3b6d",m="# Psalm 111:4 (New International Version)\nHe has caused his wonders to be remembered;  \n    the LORD is gracious and compassionate.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-4-31|Dt 4:31]]; S [[Ps-86-15|Ps 86:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

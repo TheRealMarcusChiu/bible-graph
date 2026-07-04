@@ -1,0 +1,1 @@
+(function(){var b="63db8e898683",m="# 1 Chronicles 19:13 (New International Version)\nBe strong, and let us fight bravely for our people and the cities of our God. The LORD will do what is good in his sight.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="45039ac8ed34",m="# Proverbs 10:18 (New International Version)\nWhoever conceals hatred with lying lips<sup>^A</sup>  \n    and spreads slander is a fool.\n\n### Crossrefs\n- A: S [[Ps-31-18|Ps 31:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

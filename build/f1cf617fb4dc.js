@@ -1,0 +1,1 @@
+(function(){var b="f1cf617fb4dc",m="# 2 Kings 4:33 (New International Version)\nHe went in, shut the door on the two of them and prayed<sup>^A</sup> to the LORD. \n\n### Crossrefs\n- A: [[1Kgs-17-20|1Ki 17:20]]; [[Matt-6-6|Mt 6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

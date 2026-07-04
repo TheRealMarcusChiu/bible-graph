@@ -1,0 +1,1 @@
+(function(){var b="7ea1b9348852",m="# 1 Chronicles 9:42 (New International Version)\nAhaz was the father of Jadah, Jadah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

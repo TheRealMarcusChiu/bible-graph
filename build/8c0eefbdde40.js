@@ -1,0 +1,1 @@
+(function(){var b="8c0eefbdde40",m="# Proverbs 20:12 (New International Version)\nEars that hear and eyes that see--  \n    the LORD has made them both.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-94-9|Ps 94:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

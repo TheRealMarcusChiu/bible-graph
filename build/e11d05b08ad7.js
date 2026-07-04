@@ -1,0 +1,1 @@
+(function(){var b="e11d05b08ad7",m="# Psalm 106:25 (New International Version)\nThey grumbled<sup>^A</sup> in their tents  \n    and did not obey the LORD.\n\n### Crossrefs\n- A: S [[Exod-15-24|Ex 15:24]]; [[Deut-1-27|Dt 1:27]]; [[1Cor-10-10|1Co 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

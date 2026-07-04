@@ -1,0 +1,1 @@
+(function(){var b="5e607a980a8e",m="# Proverbs 2:10 (New International Version)\nFor wisdom will enter your heart,<sup>^A</sup>  \n    and knowledge will be pleasant to your soul.\n\n### Crossrefs\n- A: [[Prov-14-33|Pr 14:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

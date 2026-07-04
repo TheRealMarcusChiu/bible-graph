@@ -1,0 +1,1 @@
+(function(){var b="3b97b79f437f",m="# Psalm 37:32 (New International Version)\nThe wicked lie in wait<sup>^A</sup> for the righteous,<sup>^B</sup>  \n    intent on putting them to death;\n\n### Crossrefs\n- A: S [[Ps-10-8|Ps 10:8]]\n- B: [[Ps-11-5|Ps 11:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

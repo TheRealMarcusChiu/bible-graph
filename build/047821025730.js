@@ -1,0 +1,1 @@
+(function(){var b="047821025730",m="# Psalm 33:7 (New International Version)\nHe gathers the waters<sup>^A</sup> of the sea into jars;<sup>^B</sup>  \n    he puts the deep into storehouses.\n\n### Crossrefs\n- A: S [[Gen-1-10|Ge 1:10]]\n- B: S [[Josh-3-16|Jos 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f89229417775",m="# Psalm 44:25 (New International Version)\nWe are brought down to the dust;<sup>^A</sup>  \n    our bodies cling to the ground.\n\n### Crossrefs\n- A: [[Ps-119-25|Ps 119:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

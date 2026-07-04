@@ -1,0 +1,1 @@
+(function(){var b="7ec09ca6cdc7",m="# 1 Chronicles 5:7 (New International Version)\nTheir relatives by clans,<sup>^A</sup> listed according to their genealogical records:\nJeiel the chief, Zechariah, \n\n### Crossrefs\n- A: [[Josh-13-15|Jos 13:15-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

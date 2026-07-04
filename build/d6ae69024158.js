@@ -1,0 +1,1 @@
+(function(){var b="d6ae69024158",m="# Proverbs 1:4 (New International Version)\nfor giving prudence to those who are simple,<sup>^A</sup>  \n    knowledge and discretion<sup>^B</sup> to the young--\n\n### Crossrefs\n- A: [[Prov-8-5|Pr 8:5]]\n- B: [[Prov-8-12|Pr 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

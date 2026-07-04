@@ -1,0 +1,1 @@
+(function(){var b="b947c10a1188",m="# Lamentations 3:15 (New International Version)\nHe has filled me with bitter herbs  \n    and given me gall to drink.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Lam-3-19|ver 19]]; [[Jer-9-15|Jer 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

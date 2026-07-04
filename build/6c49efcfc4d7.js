@@ -1,0 +1,1 @@
+(function(){var b="6c49efcfc4d7",m="# Psalm 77:6 (New International Version)\nI remembered my songs in the night.  \n    My heart meditated and my spirit asked:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

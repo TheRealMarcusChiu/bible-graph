@@ -1,0 +1,1 @@
+(function(){var b="21b88d13e97c",m="# Ezekiel 30:15 (New International Version)\nI will pour out my wrath on Pelusium,  \n    the stronghold of Egypt,  \n    and wipe out the hordes of Thebes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

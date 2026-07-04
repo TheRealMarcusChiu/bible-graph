@@ -1,0 +1,1 @@
+(function(){var b="8100cf61ddcd",m="# Proverbs 20:6 (New International Version)\nMany claim to have unfailing love,  \n    but a faithful person who can find?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-12-1|Ps 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

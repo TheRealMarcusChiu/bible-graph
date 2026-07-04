@@ -1,0 +1,1 @@
+(function(){var b="ba4fccae1e0a",m="# Job 28:25 (New International Version)\nWhen he established the force of the wind  \n    and measured out the waters,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-15|Job 12:15]]; [[Job-38-8|38:8-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

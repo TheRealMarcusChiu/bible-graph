@@ -1,0 +1,1 @@
+(function(){var b="5175f873d69e",m="# Proverbs 3:5 (New International Version)\nTrust in the LORD<sup>^A</sup> with all your heart  \n    and lean not on your own understanding;\n\n### Crossrefs\n- A: S [[Ps-4-5|Ps 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

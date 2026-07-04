@@ -1,0 +1,1 @@
+(function(){var b="e9f21e845d96",m="# Psalm 121:4 (New International Version)\nindeed, he who watches<sup>^A</sup> over Israel  \n    will neither slumber nor sleep.\n\n### Crossrefs\n- A: [[Ps-127-1|Ps 127:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

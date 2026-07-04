@@ -1,0 +1,1 @@
+(function(){var b="7db44867f144",m="# 1 Chronicles 27:8 (New International Version)\nThe fifth, for the fifth month, was the commander Shamhuth<sup>^A</sup> the Izrahite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: [[1Chr-11-27|1Ch 11:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

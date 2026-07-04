@@ -1,0 +1,1 @@
+(function(){var b="2c41d84cdb96",m="# Amos 8\n\nA shepherd prophet denounces Israel's injustice and empty religion.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

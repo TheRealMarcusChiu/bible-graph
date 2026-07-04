@@ -1,0 +1,1 @@
+(function(){var b="4deae2bfa6e3",m="# Psalm 91:16 (New International Version)\nWith long life<sup>^A</sup> I will satisfy him  \n    and show him my salvation.<sup>^B</sup>\"\n\n### Crossrefs\n- A: [[Deut-6-2|Dt 6:2]]; S [[Ps-21-4|Ps 21:4]]\n- B: S [[Ps-50-23|Ps 50:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="63bf8b043d36",m="# 2 Kings 15:21 (New International Version)\nAs for the other events of Menahem's reign, and all he did, are they not written in the book of the annals of the kings of Israel?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

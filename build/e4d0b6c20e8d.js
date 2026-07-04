@@ -1,0 +1,1 @@
+(function(){var b="e4d0b6c20e8d",m="# Ezekiel 40:30 (New International Version)\n(The porticoes<sup>^A</sup> of the gateways around the inner court were twenty-five cubits wide and five cubits deep.) \n\n### Crossrefs\n- A: [[Ezek-40-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

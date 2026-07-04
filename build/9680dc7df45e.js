@@ -1,0 +1,1 @@
+(function(){var b="9680dc7df45e",m="# 1 Chronicles 14:7 (New International Version)\nElishama, Beeliada and Eliphelet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

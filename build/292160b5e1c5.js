@@ -1,0 +1,1 @@
+(function(){var b="292160b5e1c5",m="# Ezekiel 37:7 (New International Version)\nSo I prophesied as I was commanded. And as I was prophesying, there was a noise, a rattling sound, and the bones came together, bone to bone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

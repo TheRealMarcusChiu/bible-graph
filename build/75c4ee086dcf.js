@@ -1,0 +1,1 @@
+(function(){var b="75c4ee086dcf",m="# Nehemiah 11:20 (New International Version)\nThe rest of the Israelites, with the priests and Levites, were in all the towns of Judah, each on their ancestral property.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

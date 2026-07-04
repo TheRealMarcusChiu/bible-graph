@@ -1,0 +1,1 @@
+(function(){var b="ff5b00aaad3d",m="# Ezra 10:34 (New International Version)\nFrom the descendants of Bani:\nMaadai, Amram, Uel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="685c39d6acba",m="# Job 13:6 (New International Version)\nHear now my argument;  \n    listen to the pleas of my lips.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-33-1|Job 33:1]]; [[Job-36-4|36:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

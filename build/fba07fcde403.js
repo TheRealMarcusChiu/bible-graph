@@ -1,0 +1,1 @@
+(function(){var b="fba07fcde403",m="# Zechariah 5:5 (New International Version)\nThe Woman in a Basket\nThen the angel who was speaking to me came forward and said to me, \"Look up and see what is appearing.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

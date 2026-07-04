@@ -1,0 +1,1 @@
+(function(){var b="8d2ccbe3eca5",m="# Psalm 119:69 (New International Version)\nThough the arrogant have smeared me with lies,<sup>^A</sup>  \n    I keep your precepts with all my heart.\n\n### Crossrefs\n- A: [[Job-13-4|Job 13:4]]; [[Ps-109-2|Ps 109:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

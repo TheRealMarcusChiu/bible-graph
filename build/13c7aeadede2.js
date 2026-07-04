@@ -1,0 +1,1 @@
+(function(){var b="13c7aeadede2",m="# 2 Kings 6:14 (New International Version)\nThen he sent<sup>^A</sup> horses and chariots and a strong force there. They went by night and surrounded the city.\n\n### Crossrefs\n- A: [[2Kgs-1-9|2Ki 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

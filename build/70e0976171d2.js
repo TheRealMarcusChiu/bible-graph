@@ -1,0 +1,1 @@
+(function(){var b="70e0976171d2",m="# Job 21:4 (New International Version)\n\"Is my complaint<sup>^A</sup> directed to a human being?  \n    Why should I not be impatient?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-7-11|Job 7:11]]\n- B: S [[Job-6-3|Job 6:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

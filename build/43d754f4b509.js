@@ -1,0 +1,1 @@
+(function(){var b="43d754f4b509",m="# Song of Songs 7:6 (New International Version)\nHow beautiful<sup>^A</sup> you are and how pleasing,  \n    my love, with your delights!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Song-1-15|SS 1:15]]\n- B: [[Song-4-10|SS 4:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

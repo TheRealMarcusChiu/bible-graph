@@ -1,0 +1,1 @@
+(function(){var b="bf7131949469",m="# Ecclesiastes 7:29 (New International Version)\nThis only have I found:  \n    God created mankind upright,  \n    but they have gone in search of many schemes.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

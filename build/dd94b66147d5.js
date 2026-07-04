@@ -1,0 +1,1 @@
+(function(){var b="dd94b66147d5",m="# 1 Chronicles 15:19 (New International Version)\nThe musicians Heman,<sup>^A</sup> Asaph and Ethan were to sound the bronze cymbals; \n\n### Crossrefs\n- A: [[1Chr-16-41|1Ch 16:41]]; [[1Chr-25-6|25:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

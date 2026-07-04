@@ -1,0 +1,1 @@
+(function(){var b="9ba8c6f05f67",m="# 1 Chronicles 6:67 (New International Version)\nIn the hill country of Ephraim they were given Shechem (a city of refuge), and Gezer,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-10-33|Jos 10:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fe17d98c0ee9",m="# Ezekiel 1:12 (New International Version)\nEach one went straight ahead. Wherever the spirit would go, they would go, without turning as they went.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-10-16|Eze 10:16-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

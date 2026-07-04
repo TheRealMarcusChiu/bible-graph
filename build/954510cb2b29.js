@@ -1,0 +1,1 @@
+(function(){var b="954510cb2b29",m="# 1 Chronicles 16:43 (New International Version)\nThen all the people left, each for their own home, and David returned home to bless his family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

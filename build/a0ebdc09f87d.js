@@ -1,0 +1,1 @@
+(function(){var b="a0ebdc09f87d",m="# Proverbs 28:22 (New International Version)\nThe stingy are eager to get rich  \n    and are unaware that poverty awaits them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-28-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

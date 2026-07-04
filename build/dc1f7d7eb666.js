@@ -1,0 +1,1 @@
+(function(){var b="dc1f7d7eb666",m="# Ecclesiastes 12:2 (New International Version)\nbefore the sun and the light  \n    and the moon and the stars grow dark,  \n    and the clouds return after the rain;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

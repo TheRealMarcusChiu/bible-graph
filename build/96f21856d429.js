@@ -1,0 +1,1 @@
+(function(){var b="96f21856d429",m="# Psalm 7:13 (New International Version)\nHe has prepared his deadly weapons;  \n    he makes ready his flaming arrows.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-11-2|Ps 11:2]]; [[Ps-18-14|18:14]]; [[Ps-64-3|64:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

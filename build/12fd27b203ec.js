@@ -1,0 +1,1 @@
+(function(){var b="12fd27b203ec",m="# Psalm 69:2 (New International Version)\nI sink in the miry depths,<sup>^A</sup>  \n    where there is no foothold.  \nI have come into the deep waters;  \n    the floods engulf me.\n\n### Crossrefs\n- A: S [[Job-30-19|Job 30:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="df855f67d129",m="# Jeremiah 1:12 (New International Version)\nThe LORD said to me, \"You have seen correctly, for I am watching<sup>^A</sup> to see that my word is fulfilled.\"\n\n### Crossrefs\n- A: S [[Job-29-2|Job 29:2]]; [[Jer-44-27|Jer 44:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

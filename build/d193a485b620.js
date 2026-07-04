@@ -1,0 +1,1 @@
+(function(){var b="d193a485b620",m="# Psalm 89:22 (New International Version)\nThe enemy will not get the better of him;<sup>^A</sup>  \n    the wicked will not oppress<sup>^B</sup> him.\n\n### Crossrefs\n- A: S [[Judg-3-15|Jdg 3:15]]\n- B: [[2Sam-7-10|2Sa 7:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

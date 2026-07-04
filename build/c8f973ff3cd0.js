@@ -1,0 +1,1 @@
+(function(){var b="c8f973ff3cd0",m="# Psalm 116:2 (New International Version)\nBecause he turned his ear<sup>^A</sup> to me,  \n    I will call on him as long as I live.\n\n### Crossrefs\n- A: S [[Ps-5-1|Ps 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

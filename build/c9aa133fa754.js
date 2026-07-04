@@ -1,0 +1,1 @@
+(function(){var b="c9aa133fa754",m="# Psalm 119:118 (New International Version)\nYou reject all who stray<sup>^A</sup> from your decrees,  \n    for their delusions come to nothing.\n\n### Crossrefs\n- A: S [[Ps-119-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9aea91e85ee8",m="# Job 41:26 (New International Version)\nThe sword that reaches it has no effect,  \n    nor does the spear or the dart or the javelin.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-8-18|Jos 8:18]]; S [[Job-40-24|Job 40:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

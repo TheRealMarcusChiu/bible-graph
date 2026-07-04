@@ -1,0 +1,1 @@
+(function(){var b="b757043eff85",m="# Psalm 69:23 (New International Version)\nMay their eyes be darkened so they cannot see,  \n    and their backs be bent forever.<sup>^A</sup>\n\n### Crossrefs\n- A: Ro 11:9-10*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

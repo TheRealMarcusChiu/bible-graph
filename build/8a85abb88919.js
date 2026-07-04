@@ -1,0 +1,1 @@
+(function(){var b="8a85abb88919",m="# 2 Chronicles 20:30 (New International Version)\nAnd the kingdom of Jehoshaphat was at peace, for his God had given him rest<sup>^A</sup> on every side.\n\n### Crossrefs\n- A: S [[1Chr-22-9|1Ch 22:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

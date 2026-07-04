@@ -1,0 +1,1 @@
+(function(){var b="fbd10a36c6d8",m="# Ecclesiastes 10:2 (New International Version)\nThe heart of the wise inclines to the right,  \n    but the heart of the fool to the left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="52bcf055ef3c",m="# 2 Kings 15:38 (New International Version)\nJotham rested with his ancestors and was buried with them in the City of David, the city of his father. And Ahaz his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

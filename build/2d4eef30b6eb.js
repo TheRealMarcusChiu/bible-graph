@@ -1,0 +1,1 @@
+(function(){var b="2d4eef30b6eb",m="# Job 41:18 (New International Version)\nIts snorting throws out flashes of light;  \n    its eyes are like the rays of dawn.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-9|Job 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

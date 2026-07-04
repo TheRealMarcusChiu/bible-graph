@@ -1,0 +1,1 @@
+(function(){var b="08f918bffa8f",m="# Job 4:16 (New International Version)\nIt stopped,  \n    but I could not tell what it was.  \nA form stood before my eyes,  \n    and I heard a hushed voice:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Kgs-19-12|1Ki 19:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

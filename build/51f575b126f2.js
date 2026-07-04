@@ -1,0 +1,1 @@
+(function(){var b="51f575b126f2",m="# Job 13:12 (New International Version)\nYour maxims are proverbs of ashes;  \n    your defenses are defenses of clay.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Neh-4-2|Ne 4:2-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

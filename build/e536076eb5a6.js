@@ -1,0 +1,1 @@
+(function(){var b="e536076eb5a6",m="# Psalm 64:7 (New International Version)\nBut God will shoot them with his arrows;  \n    they will suddenly be struck down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

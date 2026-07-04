@@ -1,0 +1,1 @@
+(function(){var b="f50fa7406fb5",m="# Psalm 88:12 (New International Version)\nAre your wonders known in the place of darkness,  \n    or your righteous deeds in the land of oblivion?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f748289d9d1b",m="# Proverbs 24:3 (New International Version)\nBy wisdom a house is built,<sup>^A</sup>  \n    and through understanding it is established;\n\n### Crossrefs\n- A: S [[Prov-14-1|Pr 14:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

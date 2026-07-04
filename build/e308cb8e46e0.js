@@ -1,0 +1,1 @@
+(function(){var b="e308cb8e46e0",m="# Proverbs 11:22 (New International Version)\nLike a gold ring in a pig's snout  \n    is a beautiful woman who shows no discretion.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

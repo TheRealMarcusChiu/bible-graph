@@ -1,0 +1,1 @@
+(function(){var b="a878f6d548ee",m="# Song of Songs 1:10 (New International Version)\nYour cheeks<sup>^A</sup> are beautiful with earrings,  \n    your neck with strings of jewels.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Song-5-13|SS 5:13]]\n- B: [[Isa-61-10|Isa 61:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

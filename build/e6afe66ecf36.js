@@ -1,0 +1,1 @@
+(function(){var b="e6afe66ecf36",m="# Job 27:7 (New International Version)\n\"May my enemy be like the wicked,<sup>^A</sup>  \n    my adversary<sup>^B</sup> like the unjust!\n\n### Crossrefs\n- A: S [[Job-8-22|Job 8:22]]\n- B: [[Job-31-35|Job 31:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

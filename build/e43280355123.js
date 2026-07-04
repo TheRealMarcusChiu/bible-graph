@@ -1,0 +1,1 @@
+(function(){var b="e43280355123",m="# 2 Chronicles 2:15 (New International Version)\n\"Now let my lord send his servants the wheat and barley and the olive oil<sup>^A</sup> and wine he promised, \n\n### Crossrefs\n- A: [[Ezra-3-7|Ezr 3:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

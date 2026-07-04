@@ -1,0 +1,1 @@
+(function(){var b="7ca3de4df37f",m="# Proverbs 2:13 (New International Version)\nwho have left the straight paths  \n    to walk in dark ways,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-4-19|Pr 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

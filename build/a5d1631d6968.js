@@ -1,0 +1,1 @@
+(function(){var b="a5d1631d6968",m="# Psalm 120:7 (New International Version)\nI am for peace;  \n    but when I speak, they are for war.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

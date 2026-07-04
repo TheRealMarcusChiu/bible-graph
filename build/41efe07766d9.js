@@ -1,0 +1,1 @@
+(function(){var b="41efe07766d9",m="# 1 Chronicles 1:48 (New International Version)\nWhen Samlah died, Shaul from Rehoboth on the river succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

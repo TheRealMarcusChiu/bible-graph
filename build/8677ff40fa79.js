@@ -1,0 +1,1 @@
+(function(){var b="8677ff40fa79",m="# 1 Chronicles 6:22 (New International Version)\nThe descendants of Kohath:\nAmminadab his son, Korah<sup>^A</sup> his son,\nAssir his son, \n\n### Crossrefs\n- A: S [[Exod-6-24|Ex 6:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

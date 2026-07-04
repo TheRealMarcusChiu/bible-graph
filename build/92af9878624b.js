@@ -1,0 +1,1 @@
+(function(){var b="92af9878624b",m="# Song of Songs 3:9 (New International Version)\nKing Solomon made for himself the carriage;  \n    he made it of wood from Lebanon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

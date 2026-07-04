@@ -1,0 +1,1 @@
+(function(){var b="6de567a30ab1",m="# 1 Chronicles 4:39 (New International Version)\nand they went to the outskirts of Gedor<sup>^A</sup> to the east of the valley in search of pasture for their flocks. \n\n### Crossrefs\n- A: S [[Josh-15-58|Jos 15:58]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

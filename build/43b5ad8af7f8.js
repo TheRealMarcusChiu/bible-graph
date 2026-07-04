@@ -1,0 +1,1 @@
+(function(){var b="43b5ad8af7f8",m="# Proverbs 26:16 (New International Version)\nA sluggard is wiser in his own eyes  \n    than seven people who answer discreetly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

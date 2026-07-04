@@ -1,0 +1,1 @@
+(function(){var b="be6e3e849063",m="# Ecclesiastes 8:7 (New International Version)\nSince no one knows the future,  \n    who can tell someone else what is to come?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

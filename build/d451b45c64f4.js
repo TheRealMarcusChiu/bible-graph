@@ -1,0 +1,1 @@
+(function(){var b="d451b45c64f4",m="# Nehemiah 6:11 (New International Version)\nBut I said, \"Should a man like me run away? Or should someone like me go into the temple to save his life? I will not go!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="108af1fb1a3f",m="# 1 Chronicles 1:46 (New International Version)\nWhen Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, succeeded him as king. His city was named Avith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="119324716850",m="# 1 Chronicles 24:28 (New International Version)\nFrom Mahli: Eleazar, who had no sons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

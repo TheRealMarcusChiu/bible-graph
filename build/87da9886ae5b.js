@@ -1,0 +1,1 @@
+(function(){var b="87da9886ae5b",m="# Isaiah 48:22 (New International Version)\n\"There is no peace,\"<sup>^A</sup> says the LORD, \"for the wicked.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-3-26|Job 3:26]]\n- B: S [[Isa-3-11|Isa 3:11]]; [[Isa-57-21|57:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d2e59d3669da",m="# Psalm 119:27 (New International Version)\nCause me to understand the way of your precepts,  \n    that I may meditate on your wonderful deeds.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-105-2|Ps 105:2]]; [[Ps-145-5|145:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

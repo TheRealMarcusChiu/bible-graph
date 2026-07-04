@@ -1,0 +1,1 @@
+(function(){var b="72fb5e3780b6",m="# Ezra 2:61 (New International Version)\nAnd from among the priests:\n\n### Crossrefs\n- A: S [[2Sam-17-27|2Sa 17:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

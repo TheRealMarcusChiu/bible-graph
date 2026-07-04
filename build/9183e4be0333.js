@@ -1,0 +1,1 @@
+(function(){var b="9183e4be0333",m="# Psalm 139:4 (New International Version)\nBefore a word is on my tongue  \n    you, LORD, know it completely.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Heb-4-13|Heb 4:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c5c6659edbc",m="# Psalm 3:2 (New International Version)\nMany are saying of me,  \n    \"God will not deliver him.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Ps-22-8|Ps 22:8]]; [[Ps-71-11|71:11]]; [[Isa-36-15|Isa 36:15]]; [[Isa-37-20|37:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

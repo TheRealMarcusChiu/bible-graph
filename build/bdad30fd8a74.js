@@ -1,0 +1,1 @@
+(function(){var b="bdad30fd8a74",m="# Psalm 119:100 (New International Version)\nI have more understanding than the elders,  \n    for I obey your precepts.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-119-56|ver 56]]; S [[Deut-6-17|Dt 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9e28b389c402",m="# Psalm 104:22 (New International Version)\nThe sun rises, and they steal away;  \n    they return and lie down in their dens.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-37-8|Job 37:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

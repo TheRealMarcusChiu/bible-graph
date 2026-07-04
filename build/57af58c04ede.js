@@ -1,0 +1,1 @@
+(function(){var b="57af58c04ede",m="# Proverbs 30:13 (New International Version)\nthose whose eyes are ever so haughty,<sup>^A</sup>  \n    whose glances are so disdainful;\n\n### Crossrefs\n- A: S [[2Sam-22-28|2Sa 22:28]]; S [[Job-41-34|Job 41:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

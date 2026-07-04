@@ -1,0 +1,1 @@
+(function(){var b="a7855d3c8c2f",m="# Proverbs 5:20 (New International Version)\nWhy, my son, be intoxicated with another man's wife?  \n    Why embrace the bosom of a wayward woman?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

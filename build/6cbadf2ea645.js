@@ -1,0 +1,1 @@
+(function(){var b="6cbadf2ea645",m="# Psalm 21:12 (New International Version)\nYou will make them turn their backs<sup>^A</sup>  \n    when you aim at them with drawn bow.\n\n### Crossrefs\n- A: S [[Exod-23-27|Ex 23:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

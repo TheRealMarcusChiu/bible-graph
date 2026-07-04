@@ -1,0 +1,1 @@
+(function(){var b="ae6f61cc8f8d",m="# Ezekiel 7:5 (New International Version)\n\"This is what the Sovereign LORD says:\n\"'Disaster!<sup>^A</sup> Unheard-of disaster!  \n    See, it comes!\n\n### Crossrefs\n- A: S [[2Kgs-21-12|2Ki 21:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

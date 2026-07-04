@@ -1,0 +1,1 @@
+(function(){var b="b602053af643",m="# Ezekiel 16:40 (New International Version)\nThey will bring a mob against you, who will stone<sup>^A</sup> you and hack you to pieces with their swords. \n\n### Crossrefs\n- A: [[John-8-5|Jn 8:5]], [[John-8-7|7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

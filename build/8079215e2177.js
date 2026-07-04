@@ -1,0 +1,1 @@
+(function(){var b="8079215e2177",m="# Isaiah 7:12 (New International Version)\nBut Ahaz said, \"I will not ask; I will not put the LORD to the test.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Deut-4-34|Dt 4:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

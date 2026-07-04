@@ -1,0 +1,1 @@
+(function(){var b="49f0c4e55de3",m="# Proverbs 23:10 (New International Version)\nDo not move an ancient boundary stone<sup>^A</sup>  \n    or encroach on the fields of the fatherless,\n\n### Crossrefs\n- A: S [[Deut-19-14|Dt 19:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7e81c3bf015a",m="# Zechariah 11:4 (New International Version)\nTwo Shepherds\nThis is what the LORD my God says: \"Shepherd the flock marked for slaughter.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Jer-25-34|Jer 25:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

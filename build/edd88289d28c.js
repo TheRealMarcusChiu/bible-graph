@@ -1,0 +1,1 @@
+(function(){var b="edd88289d28c",m="# Psalm 121:1 (New International Version)\nPsalm 121\nI lift up my eyes to the mountains--  \n    where does my help come from?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

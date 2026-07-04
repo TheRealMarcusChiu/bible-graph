@@ -1,0 +1,1 @@
+(function(){var b="a014eb0ed209",m="# Ezekiel 42:9 (New International Version)\nThe lower rooms had an entrance<sup>^A</sup> on the east side as one enters them from the outer court.\n\n### Crossrefs\n- A: [[Ezek-44-5|Eze 44:5]]; [[Ezek-46-19|46:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

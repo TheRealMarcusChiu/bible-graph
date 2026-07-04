@@ -1,0 +1,1 @@
+(function(){var b="a681904d41dc",m="# Ecclesiastes 7:27 (New International Version)\n\"Look,\" says the Teacher,<sup>^A</sup> \"this is what I have discovered:\n\"Adding one thing to another to discover the scheme of things--\n\n### Crossrefs\n- A: S [[Eccl-1-1|Ecc 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

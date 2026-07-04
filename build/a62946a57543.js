@@ -1,0 +1,1 @@
+(function(){var b="a62946a57543",m="# Ezekiel 22:6 (New International Version)\n\"'See how each of the princes of Israel who are in you uses his power to shed blood.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-11-6|Eze 11:6]]; [[Ezek-18-10|18:10]]; [[Ezek-33-25|33:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

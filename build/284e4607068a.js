@@ -1,0 +1,1 @@
+(function(){var b="284e4607068a",m="# 2 Chronicles 20:27 (New International Version)\nThen, led by Jehoshaphat, all the men of Judah and Jerusalem returned joyfully to Jerusalem, for the LORD had given them cause to rejoice over their enemies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

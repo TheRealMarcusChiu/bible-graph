@@ -1,0 +1,1 @@
+(function(){var b="bdbf3cfcba1b",m="# Job 41:3 (New International Version)\nWill it keep begging you for mercy?<sup>^A</sup>  \n    Will it speak to you with gentle words?\n\n### Crossrefs\n- A: [[1Kgs-20-31|1Ki 20:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

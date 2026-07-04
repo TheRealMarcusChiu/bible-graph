@@ -1,0 +1,1 @@
+(function(){var b="d44db322d726",m="# Proverbs 25:9 (New International Version)\nIf you take your neighbor to court,  \n    do not betray another's confidence,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

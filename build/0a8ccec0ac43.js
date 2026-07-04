@@ -1,0 +1,1 @@
+(function(){var b="0a8ccec0ac43",m="# Jeremiah 48:6 (New International Version)\nFlee!<sup>^A</sup> Run for your lives;  \n    become like a bush in the desert.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-19-17|Ge 19:17]]\n- B: [[Jer-17-6|Jer 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

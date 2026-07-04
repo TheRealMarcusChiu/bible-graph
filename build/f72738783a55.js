@@ -1,0 +1,1 @@
+(function(){var b="f72738783a55",m="# Proverbs 14\n\nWise sayings on living skillfully in the fear of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

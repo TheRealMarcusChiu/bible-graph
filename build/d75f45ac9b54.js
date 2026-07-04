@@ -1,0 +1,1 @@
+(function(){var b="d75f45ac9b54",m="# Job 26:11 (New International Version)\nThe pillars of the heavens quake,<sup>^A</sup>  \n    aghast at his rebuke.\n\n### Crossrefs\n- A: S [[2Sam-22-8|2Sa 22:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c9a0d91c1d84",m="# Ezekiel 3:10 (New International Version)\nAnd he said to me, \"Son of man, listen carefully and take to heart<sup>^A</sup> all the words I speak to you. \n\n### Crossrefs\n- A: S [[Job-22-22|Job 22:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

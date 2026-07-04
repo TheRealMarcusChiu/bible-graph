@@ -1,0 +1,1 @@
+(function(){var b="fbfbf52210b3",m="# 2 Kings 16:20 (New International Version)\nAhaz rested<sup>^A</sup> with his ancestors and was buried with them in the City of David. And Hezekiah his son succeeded him as king.\n\n### Crossrefs\n- A: [[Isa-14-28|Isa 14:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

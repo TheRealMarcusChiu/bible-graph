@@ -1,0 +1,1 @@
+(function(){var b="3761adabc103",m="# Jeremiah 32:26 (New International Version)\nThen the word of the LORD came to Jeremiah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

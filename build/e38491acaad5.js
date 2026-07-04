@@ -1,0 +1,1 @@
+(function(){var b="e38491acaad5",m="# 2 Kings 6:3 (New International Version)\nThen one of them said, \"Won't you please come with your servants?\"\n\"I will,\" Elisha replied.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

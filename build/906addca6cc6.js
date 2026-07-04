@@ -1,0 +1,1 @@
+(function(){var b="906addca6cc6",m="# Ezekiel 24:26 (New International Version)\non that day a fugitive will come to tell you<sup>^A</sup> the news. \n\n### Crossrefs\n- A: S [[1Sam-4-12|1Sa 4:12]]; [[Job-1-15|Job 1:15-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

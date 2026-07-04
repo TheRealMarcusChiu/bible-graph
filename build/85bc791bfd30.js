@@ -1,0 +1,1 @@
+(function(){var b="85bc791bfd30",m="# Psalm 17:4 (New International Version)\nThough people tried to bribe me,  \n    I have kept myself from the ways of the violent  \n    through what your lips have commanded.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bb8c46744a10",m="# Psalm 76:12 (New International Version)\nHe breaks the spirit of rulers;  \n    he is feared by the kings of the earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

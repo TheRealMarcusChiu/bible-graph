@@ -1,0 +1,1 @@
+(function(){var b="6c58bf0c87a6",m="# 1 Chronicles 18:15 (New International Version)\nJoab<sup>^A</sup> son of Zeruiah was over the army; Jehoshaphat son of Ahilud was recorder; \n\n### Crossrefs\n- A: [[2Sam-5-6|2Sa 5:6-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

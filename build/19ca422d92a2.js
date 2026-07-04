@@ -1,0 +1,1 @@
+(function(){var b="19ca422d92a2",m="# Isaiah 27:2 (New International Version)\nIn that day<sup>^A</sup>--\n\"Sing<sup>^B</sup> about a fruitful vineyard:<sup>^C</sup>\n\n### Crossrefs\n- A: [[Isa-24-21|Isa 24:21]]\n- B: S [[Isa-5-1|Isa 5:1]]\n- C: [[Jer-2-21|Jer 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

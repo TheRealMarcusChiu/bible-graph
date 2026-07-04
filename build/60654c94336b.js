@@ -1,0 +1,1 @@
+(function(){var b="60654c94336b",m="# Proverbs 25:23 (New International Version)\nLike a north wind that brings unexpected rain  \n    is a sly tongue--which provokes a horrified look.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

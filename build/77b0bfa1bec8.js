@@ -1,0 +1,1 @@
+(function(){var b="77b0bfa1bec8",m="# Psalm 49:20 (New International Version)\nPeople who have wealth but lack understanding<sup>^A</sup>  \n    are like the beasts that perish.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-16-16|Pr 16:16]]\n- B: S [[Ps-49-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

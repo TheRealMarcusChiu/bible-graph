@@ -1,0 +1,1 @@
+(function(){var b="ce8645d8ca8b",m="# Jeremiah 21:8 (New International Version)\n\"Furthermore, tell the people, 'This is what the LORD says: See, I am setting before you the way of life<sup>^A</sup> and the way of death. \n\n### Crossrefs\n- A: S [[Deut-30-15|Dt 30:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

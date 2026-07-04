@@ -1,0 +1,1 @@
+(function(){var b="1d45e07c64c8",m="# 2 Kings 19:9 (New International Version)\nNow Sennacherib received a report that Tirhakah, the king of Cush, was marching out to fight against him. So he again sent messengers to Hezekiah with this word:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

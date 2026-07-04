@@ -1,0 +1,1 @@
+(function(){var b="a9ee4a5cd22a",m="# Esther 2:10 (New International Version)\nEsther had not revealed her nationality and family background, because Mordecai had forbidden her to do so.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Esth-2-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

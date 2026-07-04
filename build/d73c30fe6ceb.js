@@ -1,0 +1,1 @@
+(function(){var b="d73c30fe6ceb",m="# Job 24:25 (New International Version)\n\"If this is not so, who can prove me false  \n    and reduce my words to nothing?\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-28|Job 6:28]]; S [[Job-16-17|16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

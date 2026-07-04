@@ -1,0 +1,1 @@
+(function(){var b="4dd3b7412360",m="# Job 23:5 (New International Version)\nI would find out what he would answer me,<sup>^A</sup>  \n    and consider what he would say to me.\n\n### Crossrefs\n- A: S [[Job-11-5|Job 11:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

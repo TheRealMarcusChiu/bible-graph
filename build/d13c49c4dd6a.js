@@ -1,0 +1,1 @@
+(function(){var b="d13c49c4dd6a",m="# 1 Chronicles 15:10 (New International Version)\nfrom the descendants of Uzziel,\nAmminadab the leader and 112 relatives.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

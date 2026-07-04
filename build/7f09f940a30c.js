@@ -1,0 +1,1 @@
+(function(){var b="7f09f940a30c",m="# 1 Chronicles 2:5 (New International Version)\nThe sons of Perez:<sup>^A</sup>\nHezron<sup>^B</sup> and Hamul.\n\n### Crossrefs\n- A: S [[Gen-46-12|Ge 46:12]]\n- B: [[Num-26-21|Nu 26:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

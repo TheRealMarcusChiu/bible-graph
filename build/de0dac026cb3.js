@@ -1,0 +1,1 @@
+(function(){var b="de0dac026cb3",m="# Ezekiel 24:9 (New International Version)\n\"'Therefore this is what the Sovereign LORD says:\n\"'Woe to the city of bloodshed!  \n    I, too, will pile the wood high.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

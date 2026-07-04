@@ -1,0 +1,1 @@
+(function(){var b="3204f9fb6136",m="# Ezekiel 22:23 (New International Version)\nAgain the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

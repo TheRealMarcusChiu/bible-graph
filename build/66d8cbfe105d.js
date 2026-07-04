@@ -1,0 +1,1 @@
+(function(){var b="66d8cbfe105d",m="# Nehemiah 10:22 (New International Version)\nPelatiah, Hanan, Anaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

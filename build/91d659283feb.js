@@ -1,0 +1,1 @@
+(function(){var b="91d659283feb",m="# 1 Chronicles 11:31 (New International Version)\nIthai son of Ribai from Gibeah in Benjamin,\nBenaiah<sup>^A</sup> the Pirathonite,<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Chr-27-14|1Ch 27:14]]\n- B: S [[Judg-12-13|Jdg 12:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

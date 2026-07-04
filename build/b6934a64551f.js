@@ -1,0 +1,1 @@
+(function(){var b="b6934a64551f",m="# Ezekiel 29:11 (New International Version)\nThe foot of neither man nor beast will pass through it; no one will live there for forty years.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-32-13|Eze 32:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

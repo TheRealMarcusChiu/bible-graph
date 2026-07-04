@@ -1,0 +1,1 @@
+(function(){var b="750b7fcce7e3",m="# 2 Kings 15:12 (New International Version)\nSo the word of the LORD spoken to Jehu was fulfilled:<sup>^A</sup> \"Your descendants will sit on the throne of Israel to the fourth generation.\"\n\n### Crossrefs\n- A: [[2Kgs-10-30|2Ki 10:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

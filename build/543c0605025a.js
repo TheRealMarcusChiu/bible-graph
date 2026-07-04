@@ -1,0 +1,1 @@
+(function(){var b="543c0605025a",m="# Jeremiah 51:63 (New International Version)\nWhen you finish reading this scroll, tie a stone to it and throw it into the Euphrates.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-2-14|Ge 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

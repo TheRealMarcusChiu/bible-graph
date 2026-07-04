@@ -1,0 +1,1 @@
+(function(){var b="cd61b5e17012",m="# 2 Kings 3:16 (New International Version)\nand he said, \"This is what the LORD says: I will fill this valley with pools of water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

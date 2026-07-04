@@ -1,0 +1,1 @@
+(function(){var b="c487cf840e1e",m="# 2 Chronicles 12:10 (New International Version)\nSo King Rehoboam made bronze shields to replace them and assigned these to the commanders of the guard on duty at the entrance to the royal palace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

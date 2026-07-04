@@ -1,0 +1,1 @@
+(function(){var b="c29c8997884a",m="# 2 Kings 12:5 (New International Version)\nLet every priest receive the money from one of the treasurers, then use it to repair<sup>^A</sup> whatever damage is found in the temple.\"\n\n### Crossrefs\n- A: [[2Kgs-22-5|2Ki 22:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

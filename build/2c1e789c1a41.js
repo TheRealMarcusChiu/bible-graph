@@ -1,0 +1,1 @@
+(function(){var b="2c1e789c1a41",m="# Proverbs 21:8 (New International Version)\nThe way of the guilty is devious,<sup>^A</sup>  \n    but the conduct of the innocent is upright.\n\n### Crossrefs\n- A: S [[Prov-2-15|Pr 2:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

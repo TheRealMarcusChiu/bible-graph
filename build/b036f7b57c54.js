@@ -1,0 +1,1 @@
+(function(){var b="b036f7b57c54",m="# Psalm 34:10 (New International Version)\nThe lions may grow weak and hungry,  \n    but those who seek the LORD lack no good thing.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-23-1|Ps 23:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

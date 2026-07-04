@@ -1,0 +1,1 @@
+(function(){var b="44c29ab52313",m="# 1 Chronicles 2:36 (New International Version)\nAttai was the father of Nathan,\nNathan the father of Zabad,<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Chr-11-41|1Ch 11:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

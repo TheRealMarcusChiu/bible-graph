@@ -1,0 +1,1 @@
+(function(){var b="f4494b92da96",m="# 2 Chronicles 8:15 (New International Version)\nThey did not deviate from the king's commands to the priests or to the Levites in any matter, including that of the treasuries.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="394282f84409",m="# Psalm 17:9 (New International Version)\nfrom the wicked who are out to destroy me,  \n    from my mortal enemies who surround me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-109-3|Ps 109:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

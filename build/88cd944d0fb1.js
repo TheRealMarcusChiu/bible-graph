@@ -1,0 +1,1 @@
+(function(){var b="88cd944d0fb1",m="# Proverbs 19:15 (New International Version)\nLaziness brings on deep sleep,  \n    and the shiftless go hungry.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-4|Pr 10:4]]; [[Prov-20-13|20:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

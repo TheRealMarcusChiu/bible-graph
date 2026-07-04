@@ -1,0 +1,1 @@
+(function(){var b="782a984fe141",m="# 1 Chronicles 21:20 (New International Version)\nWhile Araunah was threshing wheat,<sup>^A</sup> he turned and saw the angel; his four sons who were with him hid themselves. \n\n### Crossrefs\n- A: S [[Judg-6-11|Jdg 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

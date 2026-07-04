@@ -1,0 +1,1 @@
+(function(){var b="aca6200dca24",m="# 1 Chronicles 6:65 (New International Version)\nFrom the tribes of Judah, Simeon and Benjamin they allotted the previously named towns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

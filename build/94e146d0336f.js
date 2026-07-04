@@ -1,0 +1,1 @@
+(function(){var b="94e146d0336f",m="# Ezekiel 4:5 (New International Version)\nI have assigned you the same number of days as the years of their sin. So for 390 days you will bear the sin of the people of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

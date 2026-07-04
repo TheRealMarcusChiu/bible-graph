@@ -1,0 +1,1 @@
+(function(){var b="98ebf5337b35",m="# Psalm 102:14 (New International Version)\nFor her stones are dear to your servants;  \n    her very dust moves them to pity.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

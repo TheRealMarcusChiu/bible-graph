@@ -1,0 +1,1 @@
+(function(){var b="60c3c80a40d5",m="# Jeremiah 48:12 (New International Version)\nBut days are coming,\"  \n    declares the LORD,  \n\"when I will send men who pour from pitchers,  \n    and they will pour her out;  \nthey will empty her pitchers  \n    and smash her jars.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

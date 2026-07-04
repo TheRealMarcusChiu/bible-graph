@@ -1,0 +1,1 @@
+(function(){var b="28902c8aa5f0",m="# Song of Songs 7:7 (New International Version)\nYour stature is like that of the palm,  \n    and your breasts<sup>^A</sup> like clusters of fruit.\n\n### Crossrefs\n- A: [[Song-4-5|SS 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="75cb86d1fa8a",m="# Ezekiel 23:19 (New International Version)\nYet she became more and more promiscuous as she recalled the days of her youth, when she was a prostitute in Egypt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3379b2dcb296",m="# Job 37:9 (New International Version)\nThe tempest comes out from its chamber,<sup>^A</sup>  \n    the cold from the driving winds.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-50-3|Ps 50:3]]\n- B: [[Ps-147-17|Ps 147:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

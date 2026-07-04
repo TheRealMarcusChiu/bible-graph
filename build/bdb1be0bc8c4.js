@@ -1,0 +1,1 @@
+(function(){var b="bdb1be0bc8c4",m="# Ezekiel 20:17 (New International Version)\nYet I looked on them with pity and did not destroy<sup>^A</sup> them or put an end to them in the wilderness. \n\n### Crossrefs\n- A: S [[Jer-4-27|Jer 4:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

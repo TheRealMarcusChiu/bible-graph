@@ -1,0 +1,1 @@
+(function(){var b="e52732059312",m="# Proverbs 24:30 (New International Version)\nI went past the field of a sluggard,<sup>^A</sup>  \n    past the vineyard of someone who has no sense;\n\n### Crossrefs\n- A: [[Prov-6-6|Pr 6:6-11]]; [[Prov-26-13|26:13-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

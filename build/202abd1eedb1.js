@@ -1,0 +1,1 @@
+(function(){var b="202abd1eedb1",m="# Proverbs 22:2 (New International Version)\nRich and poor have this in common:  \n    The LORD is the Maker of them all.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-31-15|Job 31:15]]; [[Prov-29-13|Pr 29:13]]; [[Matt-5-45|Mt 5:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

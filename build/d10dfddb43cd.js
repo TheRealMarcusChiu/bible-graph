@@ -1,0 +1,1 @@
+(function(){var b="d10dfddb43cd",m="# 1 Chronicles 1:53 (New International Version)\nKenaz, Teman, Mibzar,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

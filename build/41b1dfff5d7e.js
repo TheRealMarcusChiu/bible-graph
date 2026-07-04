@@ -1,0 +1,1 @@
+(function(){var b="41b1dfff5d7e",m="# 2 Kings 15:8 (New International Version)\nZechariah King of Israel\nIn the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam became king of Israel in Samaria, and he reigned six months.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

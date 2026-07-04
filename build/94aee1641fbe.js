@@ -1,0 +1,1 @@
+(function(){var b="94aee1641fbe",m="# Job 6:25 (New International Version)\nHow painful are honest words!<sup>^A</sup>  \n    But what do your arguments prove?\n\n### Crossrefs\n- A: [[Eccl-12-11|Ecc 12:11]]; [[Isa-22-23|Isa 22:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

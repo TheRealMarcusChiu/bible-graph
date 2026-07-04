@@ -1,0 +1,1 @@
+(function(){var b="e51c97605099",m="# Nehemiah 7:44 (New International Version)\nThe musicians:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Neh-11-23|Ne 11:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

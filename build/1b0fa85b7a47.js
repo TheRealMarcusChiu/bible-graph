@@ -1,0 +1,1 @@
+(function(){var b="1b0fa85b7a47",m="# Proverbs 8:3 (New International Version)\nbeside the gate leading into the city,  \n    at the entrance, she cries aloud:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-7-6|Pr 7:6-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

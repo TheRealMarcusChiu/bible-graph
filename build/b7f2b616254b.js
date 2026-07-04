@@ -1,0 +1,1 @@
+(function(){var b="b7f2b616254b",m="# Jeremiah 19:12 (New International Version)\nThis is what I will do to this place and to those who live here, declares the LORD. I will make this city like Topheth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

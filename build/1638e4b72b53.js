@@ -1,0 +1,1 @@
+(function(){var b="1638e4b72b53",m="# Psalm 88:14 (New International Version)\nWhy, LORD, do you reject<sup>^A</sup> me  \n    and hide your face<sup>^B</sup> from me?\n\n### Crossrefs\n- A: S [[Ps-43-2|Ps 43:2]]\n- B: [[Ps-13-1|Ps 13:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

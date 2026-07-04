@@ -1,0 +1,1 @@
+(function(){var b="f2d86f46b56f",m="# Nehemiah 4:18 (New International Version)\nand each of the builders wore his sword at his side as he worked. But the man who sounded the trumpet<sup>^A</sup> stayed with me.\n\n### Crossrefs\n- A: S [[Num-10-2|Nu 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

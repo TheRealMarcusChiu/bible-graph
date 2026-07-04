@@ -1,0 +1,1 @@
+(function(){var b="c33620940228",m="# Ecclesiastes 7:11 (New International Version)\nWisdom, like an inheritance, is a good thing<sup>^A</sup>  \n    and benefits those who see the sun.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Eccl-2-13|Ecc 2:13]]\n- B: [[Eccl-11-7|Ecc 11:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

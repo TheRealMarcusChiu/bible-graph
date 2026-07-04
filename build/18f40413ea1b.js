@@ -1,0 +1,1 @@
+(function(){var b="18f40413ea1b",m="# 1 Chronicles 4:25 (New International Version)\nShallum was Shaul's son, Mibsam his son and Mishma his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

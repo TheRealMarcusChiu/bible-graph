@@ -1,0 +1,1 @@
+(function(){var b="565ce2413fbe",m="# Psalm 148:5 (New International Version)\nLet them praise the name<sup>^A</sup> of the LORD,  \n    for at his command<sup>^B</sup> they were created,\n\n### Crossrefs\n- A: [[Ps-145-21|Ps 145:21]]\n- B: S [[Ps-147-15|Ps 147:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

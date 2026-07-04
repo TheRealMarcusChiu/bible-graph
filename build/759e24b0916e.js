@@ -1,0 +1,1 @@
+(function(){var b="759e24b0916e",m="# 2 Kings 3:5 (New International Version)\nBut after Ahab died, the king of Moab rebelled<sup>^A</sup> against the king of Israel. \n\n### Crossrefs\n- A: S [[2Kgs-1-1|2Ki 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

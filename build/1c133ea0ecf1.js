@@ -1,0 +1,1 @@
+(function(){var b="1c133ea0ecf1",m="# Psalm 94:19 (New International Version)\nWhen anxiety<sup>^A</sup> was great within me,  \n    your consolation<sup>^B</sup> brought me joy.\n\n### Crossrefs\n- A: [[Eccl-11-10|Ecc 11:10]]\n- B: S [[Job-6-10|Job 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

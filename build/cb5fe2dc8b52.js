@@ -1,0 +1,1 @@
+(function(){var b="cb5fe2dc8b52",m="# Proverbs 31:22 (New International Version)\nShe makes coverings for her bed;  \n    she is clothed in fine linen and purple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

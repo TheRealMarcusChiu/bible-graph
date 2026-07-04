@@ -1,0 +1,1 @@
+(function(){var b="5ccdff9f1476",m="# 2 Chronicles 9:30 (New International Version)\nSolomon reigned in Jerusalem over all Israel forty years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

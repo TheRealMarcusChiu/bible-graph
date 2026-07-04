@@ -1,0 +1,1 @@
+(function(){var b="774a65713a7e",m="# 2 Kings 9:16 (New International Version)\nThen he got into his chariot and rode to Jezreel, because Joram was resting there and Ahaziah<sup>^A</sup> king of Judah had gone down to see him.\n\n### Crossrefs\n- A: [[2Chr-22-7|2Ch 22:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

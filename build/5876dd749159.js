@@ -1,0 +1,1 @@
+(function(){var b="5876dd749159",m="# Nehemiah 3:18 (New International Version)\nNext to him, the repairs were made by their fellow Levites under Binnui son of Henadad, ruler of the other half-district of Keilah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

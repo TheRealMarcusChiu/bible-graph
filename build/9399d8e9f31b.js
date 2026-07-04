@@ -1,0 +1,1 @@
+(function(){var b="9399d8e9f31b",m="# Hosea 8:12 (New International Version)\nI wrote for them the many things of my law,  \n    but they regarded them as something foreign.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Hos-8-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

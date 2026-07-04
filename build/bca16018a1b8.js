@@ -1,0 +1,1 @@
+(function(){var b="bca16018a1b8",m="# Psalm 148:2 (New International Version)\nPraise him, all his angels;<sup>^A</sup>  \n    praise him, all his heavenly hosts.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-103-20|Ps 103:20]]\n- B: S [[1Kgs-22-19|1Ki 22:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

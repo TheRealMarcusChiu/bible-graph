@@ -1,0 +1,1 @@
+(function(){var b="b02447cdc247",m="# Esther 1:20 (New International Version)\nThen when the king's edict is proclaimed throughout all his vast realm, all the women will respect their husbands, from the least to the greatest.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

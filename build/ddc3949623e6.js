@@ -1,0 +1,1 @@
+(function(){var b="ddc3949623e6",m="# Psalm 89:48 (New International Version)\nWho can live and not see death,  \n    or who can escape the power of the grave?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-5-24|Ge 5:24]]; [[Ps-22-29|Ps 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

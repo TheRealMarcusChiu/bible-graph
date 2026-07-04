@@ -1,0 +1,1 @@
+(function(){var b="bbf8f32e3034",m="# Jeremiah 25:2 (New International Version)\nSo Jeremiah the prophet said to all the people of Judah<sup>^A</sup> and to all those living in Jerusalem: \n\n### Crossrefs\n- A: [[Jer-18-11|Jer 18:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

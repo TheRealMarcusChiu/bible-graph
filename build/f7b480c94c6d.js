@@ -1,0 +1,1 @@
+(function(){var b="f7b480c94c6d",m="# Ecclesiastes 2:6 (New International Version)\nI made reservoirs to water groves of flourishing trees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

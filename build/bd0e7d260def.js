@@ -1,0 +1,1 @@
+(function(){var b="bd0e7d260def",m="# Job 38:14 (New International Version)\nThe earth takes shape like clay under a seal;<sup>^A</sup>  \n    its features stand out like those of a garment.\n\n### Crossrefs\n- A: [[Exod-28-11|Ex 28:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

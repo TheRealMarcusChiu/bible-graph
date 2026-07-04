@@ -1,0 +1,1 @@
+(function(){var b="5f53c84f40e7",m="# Proverbs 14:28 (New International Version)\nA large population is a king's glory,  \n    but without subjects a prince is ruined.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-19-7|2Sa 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

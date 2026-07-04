@@ -1,0 +1,1 @@
+(function(){var b="637d08ddd1dd",m="# 1 Chronicles 6:10 (New International Version)\nJohanan the father of Azariah<sup>^A</sup> (it was he who served as priest in the temple Solomon built in Jerusalem),\n\n### Crossrefs\n- A: S [[1Kgs-4-2|1Ki 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

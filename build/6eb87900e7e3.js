@@ -1,0 +1,1 @@
+(function(){var b="6eb87900e7e3",m="# Nehemiah 5:19 (New International Version)\nRemember<sup>^A</sup> me with favor, my God, for all I have done for these people.\n\n### Crossrefs\n- A: S [[Gen-8-1|Ge 8:1]]; S [[2Kgs-20-3|2Ki 20:3]]; S [[Neh-1-8|Ne 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

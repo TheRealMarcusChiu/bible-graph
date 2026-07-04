@@ -1,0 +1,1 @@
+(function(){var b="6c3a7f2a98f4",m="# 1 Chronicles 23:27 (New International Version)\nAccording to the last instructions of David, the Levites were counted from those twenty years old or more.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

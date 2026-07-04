@@ -1,0 +1,1 @@
+(function(){var b="360d1f008db8",m="# 1 Chronicles 8:11 (New International Version)\nBy Hushim he had Abitub and Elpaal.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

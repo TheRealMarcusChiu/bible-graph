@@ -1,0 +1,1 @@
+(function(){var b="296984850c6a",m="# 1 Chronicles 9:10 (New International Version)\nOf the priests:\nJedaiah; Jehoiarib; Jakin;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

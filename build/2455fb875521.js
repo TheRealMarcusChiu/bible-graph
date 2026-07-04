@@ -1,0 +1,1 @@
+(function(){var b="2455fb875521",m="# Zechariah 3:6 (New International Version)\nThe angel of the LORD gave this charge to Joshua:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

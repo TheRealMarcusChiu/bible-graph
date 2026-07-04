@@ -1,0 +1,1 @@
+(function(){var b="9264d1fa772f",m="# Ezra 1:8 (New International Version)\nCyrus king of Persia had them brought by Mithredath the treasurer, who counted them out to Sheshbazzar<sup>^A</sup> the prince of Judah.\n\n### Crossrefs\n- A: S [[1Chr-3-18|1Ch 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

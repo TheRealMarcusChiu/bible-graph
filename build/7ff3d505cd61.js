@@ -1,0 +1,1 @@
+(function(){var b="7ff3d505cd61",m="# Job 15:12 (New International Version)\nWhy has your heart<sup>^A</sup> carried you away,  \n    and why do your eyes flash,\n\n### Crossrefs\n- A: [[Job-11-13|Job 11:13]]; [[Job-36-13|36:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

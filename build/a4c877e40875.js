@@ -1,0 +1,1 @@
+(function(){var b="a4c877e40875",m="# Psalm 61:6 (New International Version)\nIncrease the days of the king's life,<sup>^A</sup>  \n    his years for many generations.<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Kgs-3-14|1Ki 3:14]]\n- B: S [[Ps-21-4|Ps 21:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e7d1d7ce9675",m="# Haggai 1:3 (New International Version)\nThen the word of the LORD came through the prophet Haggai:<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezra-5-1|Ezr 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

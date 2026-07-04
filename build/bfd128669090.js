@@ -1,0 +1,1 @@
+(function(){var b="bfd128669090",m="# Proverbs 6:14 (New International Version)\nwho plots evil<sup>^A</sup> with deceit in his heart--  \n    he always stirs up conflict.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-140-2|Ps 140:2]]\n- B: [[Prov-6-16|ver 16-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

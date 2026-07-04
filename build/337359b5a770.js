@@ -1,0 +1,1 @@
+(function(){var b="337359b5a770",m="# Ecclesiastes 3:7 (New International Version)\na time to tear and a time to mend,  \n    a time to be silent<sup>^A</sup> and a time to speak,\n\n### Crossrefs\n- A: S [[Esth-4-14|Est 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

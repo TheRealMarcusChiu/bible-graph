@@ -1,0 +1,1 @@
+(function(){var b="752f51756412",m="# 1 Chronicles 11:44 (New International Version)\nUzzia the Ashterathite,<sup>^A</sup>\nShama and Jeiel the sons of Hotham the Aroerite,\n\n### Crossrefs\n- A: S [[Deut-1-4|Dt 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

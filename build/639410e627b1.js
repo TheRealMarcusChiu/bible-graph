@@ -1,0 +1,1 @@
+(function(){var b="639410e627b1",m="# Psalm 107:40 (New International Version)\nhe who pours contempt on nobles<sup>^A</sup>  \n    made them wander in a trackless waste.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-12-18|Job 12:18]]\n- B: S [[Deut-32-10|Dt 32:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

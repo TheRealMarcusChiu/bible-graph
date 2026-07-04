@@ -1,0 +1,1 @@
+(function(){var b="e12e040fd2c5",m="# 2 Chronicles 23:19 (New International Version)\nHe also stationed gatekeepers<sup>^A</sup> at the gates of the LORD's temple so that no one who was in any way unclean might enter.\n\n### Crossrefs\n- A: [[1Chr-9-22|1Ch 9:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

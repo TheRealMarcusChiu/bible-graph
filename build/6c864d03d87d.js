@@ -1,0 +1,1 @@
+(function(){var b="6c864d03d87d",m="# 1 Chronicles 6:44 (New International Version)\nand from their associates, the Merarites,<sup>^A</sup> at his left hand:\nEthan son of Kishi, the son of Abdi,\nthe son of Malluk, \n\n### Crossrefs\n- A: [[1Chr-15-17|1Ch 15:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

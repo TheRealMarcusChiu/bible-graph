@@ -1,0 +1,1 @@
+(function(){var b="0fba7d0e926d",m="# Ezekiel 41:17 (New International Version)\nIn the space above the outside of the entrance to the inner sanctuary and on the walls at regular intervals all around the inner and outer sanctuary";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

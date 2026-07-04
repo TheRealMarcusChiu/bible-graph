@@ -1,0 +1,1 @@
+(function(){var b="a7991090ef05",m="# 2 Chronicles 3:12 (New International Version)\nSimilarly one wing of the second cherub was five cubits long and touched the other temple wall, and its other wing, also five cubits long, touched the wing of the first cherub.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

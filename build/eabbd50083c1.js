@@ -1,0 +1,1 @@
+(function(){var b="eabbd50083c1",m="# Jeremiah 14:2 (New International Version)\n\"Judah mourns,<sup>^A</sup>  \n    her cities languish;  \nthey wail for the land,  \n    and a cry goes up from Jerusalem.\n\n### Crossrefs\n- A: S [[Isa-3-26|Isa 3:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

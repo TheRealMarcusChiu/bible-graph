@@ -1,0 +1,1 @@
+(function(){var b="7e945bb2149f",m="# Psalm 73:14 (New International Version)\nAll day long I have been afflicted,<sup>^A</sup>  \n    and every morning brings new punishments.\n\n### Crossrefs\n- A: [[Ps-73-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

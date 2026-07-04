@@ -1,0 +1,1 @@
+(function(){var b="99c92173427b",m="# Ezra 10:28 (New International Version)\nFrom the descendants of Bebai:\nJehohanan, Hananiah, Zabbai and Athlai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

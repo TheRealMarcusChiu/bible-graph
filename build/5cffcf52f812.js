@@ -1,0 +1,1 @@
+(function(){var b="5cffcf52f812",m="# Psalm 119:32 (New International Version)\nI run in the path of your commands,  \n    for you have broadened my understanding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

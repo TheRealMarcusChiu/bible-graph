@@ -1,0 +1,1 @@
+(function(){var b="e0ace66f9c35",m="# 2 Chronicles 9:21 (New International Version)\nThe king had a fleet of trading ships manned by Hiram's servants. Once every three years it returned, carrying gold, silver and ivory, and apes and baboons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

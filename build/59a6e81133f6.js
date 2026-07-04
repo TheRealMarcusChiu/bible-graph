@@ -1,0 +1,1 @@
+(function(){var b="59a6e81133f6",m="# Isaiah 36:14 (New International Version)\nThis is what the king says: Do not let Hezekiah deceive<sup>^A</sup> you. He cannot deliver you! \n\n### Crossrefs\n- A: S [[2Chr-32-15|2Ch 32:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

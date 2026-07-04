@@ -1,0 +1,1 @@
+(function(){var b="269bcf0e3cee",m="# Song of Songs 3:3 (New International Version)\nThe watchmen found me  \n    as they made their rounds in the city.<sup>^A</sup>  \n    \"Have you seen the one my heart loves?\"\n\n### Crossrefs\n- A: [[Song-5-7|SS 5:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

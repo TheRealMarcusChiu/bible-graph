@@ -1,0 +1,1 @@
+(function(){var b="66eff16fd2fc",m="# Proverbs 5:9 (New International Version)\nlest you lose your honor to others  \n    and your dignity to one who is cruel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

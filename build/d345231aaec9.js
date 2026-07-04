@@ -1,0 +1,1 @@
+(function(){var b="d345231aaec9",m="# 2 Chronicles 34:18 (New International Version)\nThen Shaphan the secretary informed the king, \"Hilkiah the priest has given me a book.\" And Shaphan read from it in the presence of the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

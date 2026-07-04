@@ -1,0 +1,1 @@
+(function(){var b="609a9c3ad90a",m="# Nehemiah 5:1 (New International Version)\nNehemiah Helps the Poor\nNow the men and their wives raised a great outcry against their fellow Jews.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

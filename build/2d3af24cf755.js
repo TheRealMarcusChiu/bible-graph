@@ -1,0 +1,1 @@
+(function(){var b="2d3af24cf755",m="# Nehemiah 12:15 (New International Version)\nof Harim's, Adna;\nof Meremoth's, Helkai;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

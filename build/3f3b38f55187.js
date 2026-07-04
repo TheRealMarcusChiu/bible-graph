@@ -1,0 +1,1 @@
+(function(){var b="3f3b38f55187",m="# Psalm 119:125 (New International Version)\nI am your servant;<sup>^A</sup> give me discernment  \n    that I may understand your statutes.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-116-16|Ps 116:16]]\n- B: S [[Ps-119-79|ver 79]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

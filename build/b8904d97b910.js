@@ -1,0 +1,1 @@
+(function(){var b="b8904d97b910",m="# Proverbs 29:5 (New International Version)\nThose who flatter their neighbors  \n    are spreading nets for their feet.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-32-21|Job 32:21]]; S [[Prov-26-28|Pr 26:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

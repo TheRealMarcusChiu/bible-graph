@@ -1,0 +1,1 @@
+(function(){var b="cd0b7f7f4056",m="# Isaiah 54:12 (New International Version)\nI will make your battlements of rubies,  \n    your gates<sup>^A</sup> of sparkling jewels,  \n    and all your walls of precious stones.\n\n### Crossrefs\n- A: [[Rev-21-21|Rev 21:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

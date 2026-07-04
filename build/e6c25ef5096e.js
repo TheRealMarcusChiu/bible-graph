@@ -1,0 +1,1 @@
+(function(){var b="e6c25ef5096e",m="# Proverbs 15:30 (New International Version)\nLight in a messenger's eyes brings joy to the heart,  \n    and good news gives health to the bones.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-25-25|Pr 25:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

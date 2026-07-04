@@ -1,0 +1,1 @@
+(function(){var b="694ebfaa2704",m="# 1 Chronicles 28:7 (New International Version)\nI will establish his kingdom forever if he is unswerving in carrying out my commands and laws,<sup>^A</sup> as is being done at this time.'\n\n### Crossrefs\n- A: [[1Chr-22-13|1Ch 22:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

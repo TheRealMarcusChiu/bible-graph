@@ -1,0 +1,1 @@
+(function(){var b="2f933d1207e3",m="# Proverbs 30:33 (New International Version)\nFor as churning cream produces butter,  \n    and as twisting the nose produces blood,  \n    so stirring up anger produces strife.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a9b7f68479fc",m="# 1 Chronicles 8:6 (New International Version)\nThese were the descendants of Ehud,<sup>^A</sup> who were heads of families of those living in Geba and were deported to Manahath:\n\n### Crossrefs\n- A: [[Judg-3-12|Jdg 3:12-30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

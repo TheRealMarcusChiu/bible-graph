@@ -1,0 +1,1 @@
+(function(){var b="b520f1906288",m="# Psalm 78:29 (New International Version)\nThey ate till they were gorged--<sup>^A</sup>  \n    he had given them what they craved.\n\n### Crossrefs\n- A: S [[Num-11-20|Nu 11:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

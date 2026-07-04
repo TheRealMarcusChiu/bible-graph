@@ -1,0 +1,1 @@
+(function(){var b="ceaafac4a012",m="# 1 Chronicles 4:7 (New International Version)\nThe sons of Helah:\nZereth, Zohar, Ethnan,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

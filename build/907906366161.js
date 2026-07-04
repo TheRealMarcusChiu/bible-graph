@@ -1,0 +1,1 @@
+(function(){var b="907906366161",m="# 2 Chronicles 2:9 (New International Version)\nto provide me with plenty of lumber, because the temple I build must be large and magnificent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

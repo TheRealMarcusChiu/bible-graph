@@ -1,0 +1,1 @@
+(function(){var b="ad4b0bae1296",m="# Ezekiel 41:25 (New International Version)\nAnd on the doors of the main hall were carved cherubim and palm trees like those carved on the walls, and there was a wooden overhang on the front of the portico.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

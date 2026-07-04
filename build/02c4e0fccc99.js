@@ -1,0 +1,1 @@
+(function(){var b="02c4e0fccc99",m="# Proverbs 28:6 (New International Version)\nBetter the poor whose walk is blameless  \n    than the rich whose ways are perverse.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-1|Pr 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

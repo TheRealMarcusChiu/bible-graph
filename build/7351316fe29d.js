@@ -1,0 +1,1 @@
+(function(){var b="7351316fe29d",m="# Psalm 76:4 (New International Version)\nYou are radiant with light,<sup>^A</sup>  \n    more majestic than mountains rich with game.\n\n### Crossrefs\n- A: S [[Ps-36-9|Ps 36:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

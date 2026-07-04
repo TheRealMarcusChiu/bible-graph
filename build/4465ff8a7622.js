@@ -1,0 +1,1 @@
+(function(){var b="4465ff8a7622",m="# Ezekiel 28:6 (New International Version)\n\"'Therefore this is what the Sovereign LORD says:\n\"'Because you think you are wise,  \n    as wise as a god,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

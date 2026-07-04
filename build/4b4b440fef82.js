@@ -1,0 +1,1 @@
+(function(){var b="4b4b440fef82",m="# 2 Chronicles 21:5 (New International Version)\nJehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

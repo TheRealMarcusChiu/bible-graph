@@ -1,0 +1,1 @@
+(function(){var b="651b15d267aa",m="# Ezekiel 32:14 (New International Version)\nThen I will let her waters settle  \n    and make her streams flow like oil,  \ndeclares the Sovereign LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

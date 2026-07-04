@@ -1,0 +1,1 @@
+(function(){var b="1e39c797ffa2",m="# Psalm 95:9 (New International Version)\nwhere your ancestors tested<sup>^A</sup> me;  \n    they tried me, though they had seen what I did.\n\n### Crossrefs\n- A: S [[Num-14-22|Nu 14:22]]; [[1Cor-10-9|1Co 10:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

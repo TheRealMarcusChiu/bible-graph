@@ -1,0 +1,1 @@
+(function(){var b="39da7e0da66a",m="# Psalm 81:13 (New International Version)\n\"If my people would only listen to me,<sup>^A</sup>  \n    if Israel would only follow my ways,\n\n### Crossrefs\n- A: S [[Deut-5-29|Dt 5:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

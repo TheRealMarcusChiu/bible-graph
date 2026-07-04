@@ -1,0 +1,1 @@
+(function(){var b="c60e922db0bd",m="# Proverbs 8:7 (New International Version)\nMy mouth speaks what is true,<sup>^A</sup>  \n    for my lips detest wickedness.\n\n### Crossrefs\n- A: [[John-8-14|Jn 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

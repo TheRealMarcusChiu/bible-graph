@@ -1,0 +1,1 @@
+(function(){var b="bbd45a1dc366",m="# Psalm 91:10 (New International Version)\nno harm<sup>^A</sup> will overtake you,  \n    no disaster will come near your tent.\n\n### Crossrefs\n- A: [[Prov-12-21|Pr 12:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

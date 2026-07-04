@@ -1,0 +1,1 @@
+(function(){var b="de067b84181a",m="# 2 Kings 2:19 (New International Version)\nHealing of the Water\nThe people of the city said to Elisha, \"Look, our lord, this town is well situated, as you can see, but the water is bad and the land is unproductive.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

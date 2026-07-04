@@ -1,0 +1,1 @@
+(function(){var b="13801c954b14",m="# Proverbs 16:26 (New International Version)\nThe appetite of laborers works for them;  \n    their hunger drives them on.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

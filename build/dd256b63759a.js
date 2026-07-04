@@ -1,0 +1,1 @@
+(function(){var b="dd256b63759a",m="# Proverbs 31:31 (New International Version)\nHonor her for all that her hands have done,  \n    and let her works bring her praise<sup>^A</sup> at the city gate.\n\n### Crossrefs\n- A: [[Prov-11-16|Pr 11:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

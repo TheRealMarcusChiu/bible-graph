@@ -1,0 +1,1 @@
+(function(){var b="d337ad1e9fe2",m="# Jeremiah 16:2 (New International Version)\n\"You must not marry<sup>^A</sup> and have sons or daughters in this place.\" \n\n### Crossrefs\n- A: [[Matt-19-12|Mt 19:12]]; [[1Cor-7-26|1Co 7:26-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

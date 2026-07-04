@@ -1,0 +1,1 @@
+(function(){var b="d602e145a277",m="# Job 3:1 (New International Version)\nJob Speaks\nAfter this, Job opened his mouth and cursed the day of his birth.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-15-10|Jer 15:10]]; [[Jer-20-14|20:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

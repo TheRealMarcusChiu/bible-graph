@@ -1,0 +1,1 @@
+(function(){var b="b3dc634621f5",m="# Proverbs 21:2 (New International Version)\nA person may think their own ways are right,  \n    but the LORD weighs the heart.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-16-2|Pr 16:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

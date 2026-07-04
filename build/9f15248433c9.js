@@ -1,0 +1,1 @@
+(function(){var b="9f15248433c9",m="# Hosea 8:8 (New International Version)\nIsrael is swallowed up;<sup>^A</sup>  \n    now she is among the nations  \n    like something no one wants.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-51-34|Jer 51:34]]\n- B: [[Jer-22-28|Jer 22:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

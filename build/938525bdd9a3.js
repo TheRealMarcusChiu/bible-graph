@@ -1,0 +1,1 @@
+(function(){var b="938525bdd9a3",m="# 1 Chronicles 24:29 (New International Version)\nFrom Kish: the son of Kish:\nJerahmeel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

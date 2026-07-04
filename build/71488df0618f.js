@@ -1,0 +1,1 @@
+(function(){var b="71488df0618f",m="# Ezra 8:23 (New International Version)\nSo we fasted<sup>^A</sup> and petitioned our God about this, and he answered our prayer.\n\n### Crossrefs\n- A: S [[2Chr-20-3|2Ch 20:3]]; [[Acts-14-23|Ac 14:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

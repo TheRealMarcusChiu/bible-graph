@@ -1,0 +1,1 @@
+(function(){var b="b69f60ef985c",m="# Psalm 119:52 (New International Version)\nI remember,<sup>^A</sup> LORD, your ancient laws,  \n    and I find comfort in them.\n\n### Crossrefs\n- A: [[Ps-103-18|Ps 103:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

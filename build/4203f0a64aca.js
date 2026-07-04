@@ -1,0 +1,1 @@
+(function(){var b="4203f0a64aca",m="# 2 Kings 8:14 (New International Version)\nThen Hazael left Elisha and returned to his master. When Ben-Hadad asked, \"What did Elisha say to you?\" Hazael replied, \"He told me that you would certainly recover.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

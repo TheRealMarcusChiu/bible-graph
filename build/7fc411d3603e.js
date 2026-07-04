@@ -1,0 +1,1 @@
+(function(){var b="7fc411d3603e",m="# Psalm 119:19 (New International Version)\nI am a stranger on earth;<sup>^A</sup>  \n    do not hide your commands from me.\n\n### Crossrefs\n- A: S [[Gen-23-4|Ge 23:4]]; [[Heb-11-13|Heb 11:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

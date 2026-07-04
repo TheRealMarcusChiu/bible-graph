@@ -1,0 +1,1 @@
+(function(){var b="4339b8cd0d12",m="# Psalm 106:46 (New International Version)\nHe caused all who held them captive  \n    to show them mercy.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-3-21|Ex 3:21]]; S [[1Kgs-8-50|1Ki 8:50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

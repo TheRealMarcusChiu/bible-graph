@@ -1,0 +1,1 @@
+(function(){var b="8b7879a9d544",m="# 1 Chronicles 1:54 (New International Version)\nMagdiel and Iram. These were the chiefs of Edom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

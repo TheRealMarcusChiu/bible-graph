@@ -1,0 +1,1 @@
+(function(){var b="abcfcbb6d763",m="# Jeremiah 41:13 (New International Version)\nWhen all the people<sup>^A</sup> Ishmael had with him saw Johanan son of Kareah and the army officers who were with him, they were glad. \n\n### Crossrefs\n- A: [[Jer-41-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

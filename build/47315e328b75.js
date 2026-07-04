@@ -1,0 +1,1 @@
+(function(){var b="47315e328b75",m="# 1 Chronicles 6:40 (New International Version)\nthe son of Michael, the son of Baaseiah,\nthe son of Malkijah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

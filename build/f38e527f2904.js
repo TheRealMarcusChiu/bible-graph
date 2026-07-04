@@ -1,0 +1,1 @@
+(function(){var b="f38e527f2904",m="# Job 31:30 (New International Version)\nI have not allowed my mouth to sin  \n    by invoking a curse against their life<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Job-5-3|Job 5:3]]; [[Rom-12-14|Ro 12:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

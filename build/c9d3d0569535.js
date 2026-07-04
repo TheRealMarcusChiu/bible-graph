@@ -1,0 +1,1 @@
+(function(){var b="c9d3d0569535",m="# Job 14:10 (New International Version)\nBut a man dies and is laid low;<sup>^A</sup>  \n    he breathes his last and is no more.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-14-12|ver 12]]\n- B: S [[Job-10-21|Job 10:21]]; [[Job-13-19|13:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

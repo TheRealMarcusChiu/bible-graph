@@ -1,0 +1,1 @@
+(function(){var b="dffb22dd8b0e",m="# Amos 6:13 (New International Version)\nyou who rejoice in the conquest of Lo Debar  \n    and say, \"Did we not take Karnaim by our own strength?<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Job-8-15|Job 8:15]]; [[Isa-28-14|Isa 28:14-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

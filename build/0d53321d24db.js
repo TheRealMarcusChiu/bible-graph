@@ -1,0 +1,1 @@
+(function(){var b="0d53321d24db",m="# Job 22:17 (New International Version)\nThey said to God, 'Leave us alone!  \n    What can the Almighty do to us?'<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-21-15|Job 21:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

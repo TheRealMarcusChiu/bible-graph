@@ -1,0 +1,1 @@
+(function(){var b="4794e0c90220",m="# 1 Chronicles 1:16 (New International Version)\nArvadites, Zemarites and Hamathites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

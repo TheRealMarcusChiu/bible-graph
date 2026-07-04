@@ -1,0 +1,1 @@
+(function(){var b="af5d9ef9bcc1",m="# Ezra 2:66 (New International Version)\nThey had 736 horses,<sup>^A</sup> 245 mules, \n\n### Crossrefs\n- A: [[Isa-66-20|Isa 66:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

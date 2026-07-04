@@ -1,0 +1,1 @@
+(function(){var b="13bc75e25772",m="# Jeremiah 49:14 (New International Version)\nI have heard a message from the LORD;  \n    an envoy was sent to the nations to say,  \n\"Assemble yourselves to attack it!  \n    Rise up for battle!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="90a4fb368e27",m="# 1 Chronicles 9:5 (New International Version)\nOf the Shelanites:\nAsaiah the firstborn and his sons.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="48d8cd4c498e",m="# 1 Chronicles 29:24 (New International Version)\nAll the officers and warriors, as well as all of King David's sons,<sup>^A</sup> pledged their submission to King Solomon.\n\n### Crossrefs\n- A: [[1Kgs-1-9|1Ki 1:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

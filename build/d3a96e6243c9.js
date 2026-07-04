@@ -1,0 +1,1 @@
+(function(){var b="d3a96e6243c9",m="# Nehemiah 2:2 (New International Version)\nso the king asked me, \"Why does your face look so sad when you are not ill? This can be nothing but sadness of heart.\"\nI was very much afraid,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

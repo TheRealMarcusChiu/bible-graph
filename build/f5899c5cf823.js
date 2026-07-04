@@ -1,0 +1,1 @@
+(function(){var b="f5899c5cf823",m="# Psalm 148:9 (New International Version)\nyou mountains and all hills,<sup>^A</sup>  \n    fruit trees and all cedars,\n\n### Crossrefs\n- A: [[Isa-44-23|Isa 44:23]]; [[Isa-49-13|49:13]]; [[Isa-55-12|55:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

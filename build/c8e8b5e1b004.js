@@ -1,0 +1,1 @@
+(function(){var b="c8e8b5e1b004",m="# Psalm 73:25 (New International Version)\nWhom have I in heaven but you?<sup>^A</sup>  \n    And earth has nothing I desire besides you.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-16-2|Ps 16:2]]\n- B: [[Phil-3-8|Php 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

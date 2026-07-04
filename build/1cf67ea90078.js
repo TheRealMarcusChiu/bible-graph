@@ -1,0 +1,1 @@
+(function(){var b="1cf67ea90078",m="# Jeremiah 3:20 (New International Version)\nBut like a woman unfaithful to her husband,  \n    so you, Israel, have been unfaithful<sup>^A</sup> to me,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: S [[Isa-24-16|Isa 24:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

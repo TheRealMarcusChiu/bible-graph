@@ -1,0 +1,1 @@
+(function(){var b="f4dc54b4dcd9",m="# 1 Chronicles 4:23 (New International Version)\nThey were the potters who lived at Netaim and Gederah; they stayed there and worked for the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

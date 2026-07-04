@@ -1,0 +1,1 @@
+(function(){var b="fab3d61d972d",m="# Job 38:27 (New International Version)\nto satisfy a desolate wasteland  \n    and make it sprout with grass?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-26|Job 28:26]]; S [[Job-37-13|37:13]]; S [[Ps-104-14|Ps 104:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

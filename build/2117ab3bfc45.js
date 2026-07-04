@@ -1,0 +1,1 @@
+(function(){var b="2117ab3bfc45",m="# 2 Kings 17:12 (New International Version)\nThey worshiped idols,<sup>^A</sup> though the LORD had said, \"You shall not do this.\" \n\n### Crossrefs\n- A: S [[Exod-20-4|Ex 20:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

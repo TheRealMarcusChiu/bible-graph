@@ -1,0 +1,1 @@
+(function(){var b="b45182b5b70b",m="# Psalm 68:3 (New International Version)\nBut may the righteous be glad  \n    and rejoice<sup>^A</sup> before God;  \n    may they be happy and joyful.\n\n### Crossrefs\n- A: [[Ps-64-10|Ps 64:10]]; [[Ps-97-12|97:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

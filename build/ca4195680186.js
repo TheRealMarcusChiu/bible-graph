@@ -1,0 +1,1 @@
+(function(){var b="ca4195680186",m="# Psalm 89:21 (New International Version)\nMy hand will sustain him;  \n    surely my arm will strengthen him.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-89-13|ver 13]]; [[Ps-18-35|Ps 18:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

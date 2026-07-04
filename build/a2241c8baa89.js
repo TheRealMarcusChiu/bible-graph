@@ -1,0 +1,1 @@
+(function(){var b="a2241c8baa89",m="# Ezra 8:10 (New International Version)\nof the descendants of Bani, Shelomith son of Josiphiah, and with him 160 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

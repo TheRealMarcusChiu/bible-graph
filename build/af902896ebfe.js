@@ -1,0 +1,1 @@
+(function(){var b="af902896ebfe",m="# Proverbs 3:11 (New International Version)\nMy son,<sup>^A</sup> do not despise the LORD's discipline,<sup>^B</sup>  \n    and do not resent his rebuke,\n\n### Crossrefs\n- A: [[Prov-1-8|Pr 1:8-9]]\n- B: S [[Job-5-17|Job 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

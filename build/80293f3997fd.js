@@ -1,0 +1,1 @@
+(function(){var b="80293f3997fd",m="# 1 Chronicles 2:6 (New International Version)\nThe sons of Zerah:\nZimri, Ethan, Heman, Kalkol and Darda--five in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

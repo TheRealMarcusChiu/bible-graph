@@ -1,0 +1,1 @@
+(function(){var b="f947025b06bd",m="# Psalm 49:2 (New International Version)\nboth low and high,<sup>^A</sup>  \n    rich and poor alike:\n\n### Crossrefs\n- A: [[Ps-62-9|Ps 62:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

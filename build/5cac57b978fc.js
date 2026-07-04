@@ -1,0 +1,1 @@
+(function(){var b="5cac57b978fc",m="# 1 Chronicles 7:5 (New International Version)\nThe relatives who were fighting men belonging to all the clans of Issachar, as listed in their genealogy, were 87,000 in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="13201f845f3c",m="# Psalm 76:1 (New International Version)\nPsalm 76\nGod is renowned in Judah;  \n    in Israel his name is great.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-99-3|Ps 99:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

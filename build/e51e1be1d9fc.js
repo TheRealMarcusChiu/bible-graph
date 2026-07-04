@@ -1,0 +1,1 @@
+(function(){var b="e51e1be1d9fc",m="# 1 Chronicles 16:3 (New International Version)\nThen he gave a loaf of bread, a cake of dates and a cake of raisins<sup>^A</sup> to each Israelite man and woman.\n\n### Crossrefs\n- A: [[Isa-16-7|Isa 16:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

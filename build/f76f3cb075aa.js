@@ -1,0 +1,1 @@
+(function(){var b="f76f3cb075aa",m="# Psalm 105:30 (New International Version)\nTheir land teemed with frogs,<sup>^A</sup>  \n    which went up into the bedrooms of their rulers.\n\n### Crossrefs\n- A: S [[Exod-8-2|Ex 8:2]], [[Exod-8-6|6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="00173cbedfd3",m="# Psalm 114:8 (New International Version)\nwho turned the rock into a pool,  \n    the hard rock into springs of water.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-17-6|Ex 17:6]]; S [[Num-20-11|Nu 20:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

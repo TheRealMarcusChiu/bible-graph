@@ -1,0 +1,1 @@
+(function(){var b="fc2d96f11f6a",m="# 2 Chronicles 24:17 (New International Version)\nThe Wickedness of Joash\nAfter the death of Jehoiada, the officials of Judah came and paid homage to the king, and he listened to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

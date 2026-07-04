@@ -1,0 +1,1 @@
+(function(){var b="f472b61eff66",m="# Psalm 18:23 (New International Version)\nI have been blameless<sup>^A</sup> before him  \n    and have kept myself from sin.\n\n### Crossrefs\n- A: S [[Gen-6-9|Ge 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

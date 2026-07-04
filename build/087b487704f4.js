@@ -1,0 +1,1 @@
+(function(){var b="087b487704f4",m="# Psalm 119:144 (New International Version)\nYour statutes are always righteous;  \n    give me understanding<sup>^A</sup> that I may live.\n\n### Crossrefs\n- A: S [[Ps-119-34|ver 34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

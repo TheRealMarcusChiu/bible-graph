@@ -1,0 +1,1 @@
+(function(){var b="3deeb5243164",m="# Nehemiah 10:17 (New International Version)\nAter, Hezekiah, Azzur,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

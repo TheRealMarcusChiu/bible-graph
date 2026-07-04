@@ -1,0 +1,1 @@
+(function(){var b="28dfa5c774df",m="# Ezekiel 14:1 (New International Version)\nIdolaters Condemned\nSome of the elders of Israel came to me and sat down in front of me.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-8-1|Eze 8:1]]; [[Ezek-20-1|20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

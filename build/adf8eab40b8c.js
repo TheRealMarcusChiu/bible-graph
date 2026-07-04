@@ -1,0 +1,1 @@
+(function(){var b="adf8eab40b8c",m="# Psalm 54:4 (New International Version)\nSurely God is my help;<sup>^A</sup>  \n    the Lord is the one who sustains me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Chr-5-20|1Ch 5:20]]; S [[Ps-20-2|Ps 20:2]]\n- B: S [[Ps-18-35|Ps 18:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

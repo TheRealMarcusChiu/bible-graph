@@ -1,0 +1,1 @@
+(function(){var b="804a54b924d8",m="# 1 Chronicles 11:38 (New International Version)\nJoel the brother of Nathan,\nMibhar son of Hagri,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

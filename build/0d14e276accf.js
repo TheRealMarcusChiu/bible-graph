@@ -1,0 +1,1 @@
+(function(){var b="0d14e276accf",m="# Proverbs 20:3 (New International Version)\nIt is to one's honor to avoid strife,  \n    but every fool<sup>^A</sup> is quick to quarrel.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Sam-25-25|1Sa 25:25]]\n- B: S [[Gen-13-8|Ge 13:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

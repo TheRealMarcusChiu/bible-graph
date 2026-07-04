@@ -1,0 +1,1 @@
+(function(){var b="df0dccdaa1ce",m="# 1 Chronicles 12:35 (New International Version)\nfrom Dan, ready for battle--28,600;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

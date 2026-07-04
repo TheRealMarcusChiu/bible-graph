@@ -1,0 +1,1 @@
+(function(){var b="5604627570e5",m="# 1 Chronicles 26:3 (New International Version)\nElam the fifth,\nJehohanan the sixth\nand Eliehoenai the seventh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

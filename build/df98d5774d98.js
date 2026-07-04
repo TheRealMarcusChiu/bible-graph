@@ -1,0 +1,1 @@
+(function(){var b="df98d5774d98",m="# 1 Chronicles 6:21 (New International Version)\nJoah his son,\nIddo his son, Zerah his son\nand Jeatherai his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

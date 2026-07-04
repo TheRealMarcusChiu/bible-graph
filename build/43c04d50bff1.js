@@ -1,0 +1,1 @@
+(function(){var b="43c04d50bff1",m="# Psalm 129:5 (New International Version)\nMay all who hate Zion<sup>^A</sup>  \n    be turned back in shame.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Mic-4-11|Mic 4:11]]\n- B: S [[Ps-70-2|Ps 70:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

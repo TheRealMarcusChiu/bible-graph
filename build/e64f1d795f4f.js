@@ -1,0 +1,1 @@
+(function(){var b="e64f1d795f4f",m="# Ezekiel 47:4 (New International Version)\nHe measured off another thousand cubits and led me through water that was knee-deep. He measured off another thousand and led me through water that was up to the waist.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

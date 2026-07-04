@@ -1,0 +1,1 @@
+(function(){var b="5ccc9b5c21b1",m="# 1 Chronicles 27:21 (New International Version)\nover the half-tribe of Manasseh in Gilead: Iddo son of Zechariah;\nover Benjamin: Jaasiel son of Abner;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

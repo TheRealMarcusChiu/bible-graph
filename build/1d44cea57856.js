@@ -1,0 +1,1 @@
+(function(){var b="1d44cea57856",m="# Psalm 104:34 (New International Version)\nMay my meditation be pleasing to him,  \n    as I rejoice<sup>^A</sup> in the LORD.\n\n### Crossrefs\n- A: S [[Ps-2-11|Ps 2:11]]; [[Ps-9-2|9:2]]; [[Ps-32-11|32:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

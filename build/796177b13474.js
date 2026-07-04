@@ -1,0 +1,1 @@
+(function(){var b="796177b13474",m="# Jeremiah 11:2 (New International Version)\n\"Listen to the terms of this covenant<sup>^A</sup> and tell them to the people of Judah and to those who live in Jerusalem. \n\n### Crossrefs\n- A: S [[Deut-5-2|Dt 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

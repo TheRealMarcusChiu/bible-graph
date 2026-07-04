@@ -1,0 +1,1 @@
+(function(){var b="3310cbdfc27e",m="# Ecclesiastes 5:10 (New International Version)\nWhoever loves money never has enough;  \n    whoever loves wealth is never satisfied with their income.  \n    This too is meaningless.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

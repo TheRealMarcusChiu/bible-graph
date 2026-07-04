@@ -1,0 +1,1 @@
+(function(){var b="f31d0574fa45",m="# 1 Chronicles 16:9 (New International Version)\nSing to him, sing praise<sup>^A</sup> to him;  \n    tell of all his wonderful acts.\n\n### Crossrefs\n- A: S [[Exod-15-1|Ex 15:1]]; [[Ps-7-17|Ps 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e486a79ec7d1",m="# Psalm 105:41 (New International Version)\nHe opened the rock,<sup>^A</sup> and water gushed out;  \n    it flowed like a river in the desert.\n\n### Crossrefs\n- A: S [[Num-20-11|Nu 20:11]]; [[1Cor-10-4|1Co 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

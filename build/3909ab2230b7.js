@@ -1,0 +1,1 @@
+(function(){var b="3909ab2230b7",m="# Proverbs 8:10 (New International Version)\nChoose my instruction instead of silver,  \n    knowledge rather than choice gold,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-17|Job 28:17]]; S [[Ps-19-10|Ps 19:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

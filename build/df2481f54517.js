@@ -1,0 +1,1 @@
+(function(){var b="df2481f54517",m="# Psalm 128:4 (New International Version)\nYes, this will be the blessing<sup>^A</sup>  \n    for the man who fears the LORD.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-1-1|Ps 1:1]]\n- B: [[Ps-112-1|Ps 112:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

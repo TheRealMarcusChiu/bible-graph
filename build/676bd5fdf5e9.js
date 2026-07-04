@@ -1,0 +1,1 @@
+(function(){var b="676bd5fdf5e9",m="# Psalm 119:150 (New International Version)\nThose who devise wicked schemes<sup>^A</sup> are near,  \n    but they are far from your law.\n\n### Crossrefs\n- A: S [[Ps-37-7|Ps 37:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

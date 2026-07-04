@@ -1,0 +1,1 @@
+(function(){var b="f60ea1de62c8",m="# Daniel 2:14 (New International Version)\nWhen Arioch, the commander of the king's guard, had gone out to put to death the wise men of Babylon, Daniel spoke to him with wisdom and tact.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

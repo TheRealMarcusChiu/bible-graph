@@ -1,0 +1,1 @@
+(function(){var b="9dd105212fcd",m="# 1 Chronicles 8:16 (New International Version)\nMichael, Ishpah and Joha were the sons of Beriah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

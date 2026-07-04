@@ -1,0 +1,1 @@
+(function(){var b="a9c226751ece",m="# Psalm 107:4 (New International Version)\nSome wandered in desert<sup>^A</sup> wastelands,  \n    finding no way to a city<sup>^B</sup> where they could settle.\n\n### Crossrefs\n- A: S [[Josh-5-6|Jos 5:6]]\n- B: [[Ps-107-36|ver 36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

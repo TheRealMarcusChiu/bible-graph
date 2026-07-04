@@ -1,0 +1,1 @@
+(function(){var b="2e17ef61f2c8",m="# Psalm 113:8 (New International Version)\nhe seats them<sup>^A</sup> with princes,  \n    with the princes of his people.\n\n### Crossrefs\n- A: S [[2Sam-9-11|2Sa 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

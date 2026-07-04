@@ -1,0 +1,1 @@
+(function(){var b="db2a15158621",m="# Psalm 118:25 (New International Version)\nLORD, save us!<sup>^A</sup>  \n    LORD, grant us success!\n\n### Crossrefs\n- A: S [[Ps-28-9|Ps 28:9]]; [[Ps-116-4|116:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

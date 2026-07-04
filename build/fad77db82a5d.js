@@ -1,0 +1,1 @@
+(function(){var b="fad77db82a5d",m="# 1 Chronicles 6:62 (New International Version)\nThe descendants of Gershon, clan by clan, were allotted thirteen towns from the tribes of Issachar, Asher and Naphtali, and from the part of the tribe of Manasseh that is in Bashan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

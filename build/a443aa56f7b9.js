@@ -1,0 +1,1 @@
+(function(){var b="a443aa56f7b9",m="# Proverbs 29:24 (New International Version)\nThe accomplices of thieves are their own enemies;  \n    they are put under oath and dare not testify.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-5-1|Lev 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

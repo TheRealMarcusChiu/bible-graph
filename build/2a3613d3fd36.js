@@ -1,0 +1,1 @@
+(function(){var b="2a3613d3fd36",m="# Daniel 3:23 (New International Version)\nand these three men, firmly tied, fell into the blazing furnace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

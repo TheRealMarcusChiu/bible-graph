@@ -1,0 +1,1 @@
+(function(){var b="ff88c3a135d4",m="# Lamentations 3:45 (New International Version)\nYou have made us scum<sup>^A</sup> and refuse  \n    among the nations.\n\n### Crossrefs\n- A: [[1Cor-4-13|1Co 4:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

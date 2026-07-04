@@ -1,0 +1,1 @@
+(function(){var b="0fcc581d0ed9",m="# Job 36:2 (New International Version)\n\"Bear with me a little longer and I will show you  \n    that there is more to be said in God's behalf.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

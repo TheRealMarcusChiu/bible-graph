@@ -1,0 +1,1 @@
+(function(){var b="761e05d60b38",m="# Job 38:40 (New International Version)\nwhen they crouch in their dens<sup>^A</sup>  \n    or lie in wait in a thicket?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-37-8|Job 37:8]]\n- B: S [[Gen-49-9|Ge 49:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

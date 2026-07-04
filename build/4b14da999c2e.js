@@ -1,0 +1,1 @@
+(function(){var b="4b14da999c2e",m="# 2 Chronicles 4:12 (New International Version)\nthe two pillars;\nthe two bowl-shaped capitals on top of the pillars;\nthe two sets of network decorating the two bowl-shaped capitals on top of the pillars;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

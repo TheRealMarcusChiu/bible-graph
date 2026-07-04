@@ -1,0 +1,1 @@
+(function(){var b="3b718cf97840",m="# 1 Chronicles 14:13 (New International Version)\nOnce more the Philistines raided the valley;<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Chr-14-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c83cd62b228c",m="# 2 Chronicles 25:22 (New International Version)\nJudah was routed by Israel, and every man fled to his home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

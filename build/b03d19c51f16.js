@@ -1,0 +1,1 @@
+(function(){var b="b03d19c51f16",m="# 2 Chronicles 6:29 (New International Version)\nand when a prayer or plea is made by anyone among your people Israel--being aware of their afflictions and pains, and spreading out their hands toward this temple--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

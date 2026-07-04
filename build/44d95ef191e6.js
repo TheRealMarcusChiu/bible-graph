@@ -1,0 +1,1 @@
+(function(){var b="44d95ef191e6",m="# 1 Chronicles 8:3 (New International Version)\nThe sons of Bela were:\nAddar,<sup>^A</sup> Gera, Abihud, \n\n### Crossrefs\n- A: S [[Gen-46-21|Ge 46:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dde2d381813f",m="# Ezra 2:64 (New International Version)\nThe whole company numbered 42,360,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

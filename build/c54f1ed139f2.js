@@ -1,0 +1,1 @@
+(function(){var b="c54f1ed139f2",m="# Ecclesiastes 6:4 (New International Version)\nIt comes without meaning, it departs in darkness, and in darkness its name is shrouded.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

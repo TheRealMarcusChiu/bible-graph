@@ -1,0 +1,1 @@
+(function(){var b="19afaae7961e",m="# Jeremiah 21:3 (New International Version)\nBut Jeremiah answered them, \"Tell Zedekiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

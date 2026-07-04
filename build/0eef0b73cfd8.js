@@ -1,0 +1,1 @@
+(function(){var b="0eef0b73cfd8",m="# Ezekiel 41:5 (New International Version)\nThen he measured the wall of the temple; it was six cubits thick, and each side room around the temple was four cubits wide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

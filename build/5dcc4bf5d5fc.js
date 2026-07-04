@@ -1,0 +1,1 @@
+(function(){var b="5dcc4bf5d5fc",m="# 2 Kings 6:15 (New International Version)\nWhen the servant of the man of God got up and went out early the next morning, an army with horses and chariots had surrounded the city. \"Oh no, my lord! What shall we do?\" the servant asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

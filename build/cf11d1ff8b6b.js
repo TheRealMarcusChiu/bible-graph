@@ -1,0 +1,1 @@
+(function(){var b="cf11d1ff8b6b",m="# Ezekiel 40:40 (New International Version)\nBy the outside wall of the portico of the gateway, near the steps at the entrance of the north gateway were two tables, and on the other side of the steps were two tables.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

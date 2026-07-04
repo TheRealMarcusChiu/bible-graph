@@ -1,0 +1,1 @@
+(function(){var b="9514667289af",m="# Proverbs 8:23 (New International Version)\nI was formed long ages ago,  \n    at the very beginning, when the world came to be.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

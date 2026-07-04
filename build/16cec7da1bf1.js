@@ -1,0 +1,1 @@
+(function(){var b="16cec7da1bf1",m="# 1 Chronicles 1:11 (New International Version)\nEgypt was the father of\nthe Ludites, Anamites, Lehabites, Naphtuhites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f4a146b4c73e",m="# Psalm 92:6 (New International Version)\nSenseless people<sup>^A</sup> do not know,  \n    fools do not understand,\n\n### Crossrefs\n- A: S [[Ps-73-22|Ps 73:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

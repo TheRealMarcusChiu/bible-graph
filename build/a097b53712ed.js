@@ -1,0 +1,1 @@
+(function(){var b="a097b53712ed",m="# Psalm 85:5 (New International Version)\nWill you be angry with us forever?<sup>^A</sup>  \n    Will you prolong your anger through all generations?\n\n### Crossrefs\n- A: S [[Ps-50-21|Ps 50:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="680703b5324b",m="# Psalm 69:16 (New International Version)\nAnswer me, LORD, out of the goodness of your love;<sup>^A</sup>  \n    in your great mercy turn to me.\n\n### Crossrefs\n- A: S [[Ps-63-3|Ps 63:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

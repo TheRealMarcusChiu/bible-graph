@@ -1,0 +1,1 @@
+(function(){var b="32576cdffddd",m="# Proverbs 19:11 (New International Version)\nA person's wisdom yields patience;<sup>^A</sup>  \n    it is to one's glory to overlook an offense.\n\n### Crossrefs\n- A: S [[2Kgs-5-12|2Ki 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

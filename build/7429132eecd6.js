@@ -1,0 +1,1 @@
+(function(){var b="7429132eecd6",m="# 2 Chronicles 21:14 (New International Version)\nSo now the LORD is about to strike your people, your sons, your wives and everything that is yours, with a heavy blow.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

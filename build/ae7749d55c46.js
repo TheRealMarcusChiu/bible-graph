@@ -1,0 +1,1 @@
+(function(){var b="ae7749d55c46",m="# Ezekiel 38:7 (New International Version)\n\"'Get ready; be prepared,<sup>^A</sup> you and all the hordes gathered about you, and take command of them. \n\n### Crossrefs\n- A: S [[Isa-8-9|Isa 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

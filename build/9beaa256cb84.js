@@ -1,0 +1,1 @@
+(function(){var b="9beaa256cb84",m="# Jeremiah 8:18 (New International Version)\nYou who are my Comforter in sorrow,  \n    my heart is faint<sup>^A</sup> within me.\n\n### Crossrefs\n- A: [[Lam-5-17|La 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6212048a74e0",m="# Proverbs 13:6 (New International Version)\nRighteousness guards the person of integrity,  \n    but wickedness overthrows the sinner.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-11-3|Pr 11:3]], [[Prov-11-5|5]]; [[Jer-44-5|Jer 44:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

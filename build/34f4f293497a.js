@@ -1,0 +1,1 @@
+(function(){var b="34f4f293497a",m="# 1 Chronicles 14:3 (New International Version)\nIn Jerusalem David took more wives and became the father of more sons<sup>^A</sup> and daughters. \n\n### Crossrefs\n- A: S [[1Chr-3-1|1Ch 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

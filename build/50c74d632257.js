@@ -1,0 +1,1 @@
+(function(){var b="50c74d632257",m="# Psalm 115:10 (New International Version)\nHouse of Aaron,<sup>^A</sup> trust in the LORD--  \n    he is their help and shield.\n\n### Crossrefs\n- A: [[Exod-30-30|Ex 30:30]]; [[Ps-118-3|Ps 118:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

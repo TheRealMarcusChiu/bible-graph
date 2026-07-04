@@ -1,0 +1,1 @@
+(function(){var b="b6a3f170b220",m="# 1 Chronicles 22:17 (New International Version)\nThen David ordered<sup>^A</sup> all the leaders of Israel to help his son Solomon. \n\n### Crossrefs\n- A: [[1Chr-28-1|1Ch 28:1-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

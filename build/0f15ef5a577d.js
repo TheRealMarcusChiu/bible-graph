@@ -1,0 +1,1 @@
+(function(){var b="0f15ef5a577d",m="# Psalm 74:18 (New International Version)\nRemember how the enemy has mocked you, LORD,  \n    how foolish people<sup>^A</sup> have reviled your name.\n\n### Crossrefs\n- A: [[Deut-32-6|Dt 32:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

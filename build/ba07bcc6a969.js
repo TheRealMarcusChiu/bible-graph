@@ -1,0 +1,1 @@
+(function(){var b="ba07bcc6a969",m="# Isaiah 1:12 (New International Version)\nWhen you come to appear before me,  \n    who has asked this of you,<sup>^A</sup>  \n    this trampling of my courts?\n\n### Crossrefs\n- A: [[Exod-23-17|Ex 23:17]]; [[Deut-31-11|Dt 31:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

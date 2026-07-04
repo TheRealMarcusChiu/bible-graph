@@ -1,0 +1,1 @@
+(function(){var b="b1fa89b68224",m="# Psalm 18:42 (New International Version)\nI beat them as fine as windblown dust;<sup>^A</sup>  \n    I trampled them like mud in the streets.\n\n### Crossrefs\n- A: S [[Deut-9-21|Dt 9:21]]; S [[Isa-2-22|Isa 2:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

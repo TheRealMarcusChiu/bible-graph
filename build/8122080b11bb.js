@@ -1,0 +1,1 @@
+(function(){var b="8122080b11bb",m="# Proverbs 3:9 (New International Version)\nHonor the LORD with your wealth,  \n    with the firstfruits<sup>^A</sup> of all your crops;\n\n### Crossrefs\n- A: S [[Exod-22-29|Ex 22:29]]; [[Deut-26-1|Dt 26:1-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

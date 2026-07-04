@@ -1,0 +1,1 @@
+(function(){var b="35c46dd512cf",m="# Psalm 95:4 (New International Version)\nIn his hand are the depths of the earth,<sup>^A</sup>  \n    and the mountain peaks belong to him.\n\n### Crossrefs\n- A: S [[Ps-63-9|Ps 63:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

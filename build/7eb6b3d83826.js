@@ -1,0 +1,1 @@
+(function(){var b="7eb6b3d83826",m="# Psalm 38:1 (New International Version)\nPsalm 38\nLORD, do not rebuke me in your anger  \n    or discipline me in your wrath.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-6-1|Ps 6:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

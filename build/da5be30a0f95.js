@@ -1,0 +1,1 @@
+(function(){var b="da5be30a0f95",m="# 2 Chronicles 6:2 (New International Version)\nI have built a magnificent temple for you, a place for you to dwell forever.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Ezra-6-12|Ezr 6:12]]; [[Ezra-7-15|7:15]]; [[Ps-135-21|Ps 135:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

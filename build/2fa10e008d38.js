@@ -1,0 +1,1 @@
+(function(){var b="2fa10e008d38",m="# Proverbs 6:21 (New International Version)\nBind them always on your heart;  \n    fasten them around your neck.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-6-8|Dt 6:8]]; S [[Prov-3-3|Pr 3:3]]; [[Prov-7-1|7:1-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

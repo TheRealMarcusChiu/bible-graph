@@ -1,0 +1,1 @@
+(function(){var b="9a48150703c8",m="# Daniel 10:2 (New International Version)\nAt that time I, Daniel, mourned<sup>^A</sup> for three weeks. \n\n### Crossrefs\n- A: S [[Ezra-9-4|Ezr 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

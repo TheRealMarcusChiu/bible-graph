@@ -1,0 +1,1 @@
+(function(){var b="3113a857f365",m="# 1 Chronicles 12:22 (New International Version)\nDay after day men came to help David, until he had a great army, like the army of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

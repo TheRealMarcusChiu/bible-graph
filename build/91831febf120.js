@@ -1,0 +1,1 @@
+(function(){var b="91831febf120",m="# Jeremiah 51:23 (New International Version)\nwith you I shatter shepherd and flock,  \n    with you I shatter farmer and oxen,  \n    with you I shatter governors and officials.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-51-57|ver 57]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

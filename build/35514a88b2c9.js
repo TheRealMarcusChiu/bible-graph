@@ -1,0 +1,1 @@
+(function(){var b="35514a88b2c9",m="# Psalm 109:27 (New International Version)\nLet them know<sup>^A</sup> that it is your hand,  \n    that you, LORD, have done it.\n\n### Crossrefs\n- A: S [[Job-37-7|Job 37:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

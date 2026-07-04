@@ -1,0 +1,1 @@
+(function(){var b="2a3152e1badb",m="# Ezekiel 38:18 (New International Version)\nThis is what will happen in that day: When Gog attacks the land of Israel, my hot anger will be aroused, declares the Sovereign LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="174b58ac67d2",m="# Esther 4:15 (New International Version)\nThen Esther sent this reply to Mordecai:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

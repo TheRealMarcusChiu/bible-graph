@@ -1,0 +1,1 @@
+(function(){var b="f553b8c1a3fa",m="# Nehemiah 9:3 (New International Version)\nThey stood where they were and read from the Book of the Law of the LORD their God for a quarter of the day, and spent another quarter in confession and in worshiping the LORD their God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d0cae2f30ba5",m="# 1 Chronicles 6:56 (New International Version)\nBut the fields and villages around the city were given to Caleb son of Jephunneh.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-14-13|Jos 14:13]]; S [[Josh-15-13|15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bca16f40510d",m="# Esther 6:7 (New International Version)\nSo he answered the king, \"For the man the king delights to honor,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ed5b92ad693f",m="# Ezekiel 43:4 (New International Version)\nThe glory<sup>^A</sup> of the LORD entered the temple through the gate facing east.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Ezek-1-28|Eze 1:28]]\n- B: [[Ezek-10-19|Eze 10:19]]; [[Ezek-44-2|44:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

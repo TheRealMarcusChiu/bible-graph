@@ -1,0 +1,1 @@
+(function(){var b="2f9d0e7fa356",m="# Psalm 37:13 (New International Version)\nbut the Lord laughs at the wicked,  \n    for he knows their day is coming.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Sam-26-10|1Sa 26:10]]; [[Ezek-12-23|Eze 12:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

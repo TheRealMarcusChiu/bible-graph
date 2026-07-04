@@ -1,0 +1,1 @@
+(function(){var b="9e66cc1146b1",m="# Zechariah 12:5 (New International Version)\nThen the clans of Judah will say in their hearts, 'The people of Jerusalem are strong,<sup>^A</sup> because the LORD Almighty is their God.'\n\n### Crossrefs\n- A: S [[Ezek-30-24|Eze 30:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

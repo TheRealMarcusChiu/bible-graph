@@ -1,0 +1,1 @@
+(function(){var b="572bb2174787",m="# Job 28:2 (New International Version)\nIron is taken from the earth,  \n    and copper is smelted from ore.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-8-9|Dt 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

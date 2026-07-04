@@ -1,0 +1,1 @@
+(function(){var b="38c4c36e2f90",m="# Ecclesiastes 10:13 (New International Version)\nAt the beginning their words are folly;  \n    at the end they are wicked madness--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

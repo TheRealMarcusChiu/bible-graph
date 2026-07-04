@@ -1,0 +1,1 @@
+(function(){var b="9e352f2e2a41",m="# 2 Chronicles 8:17 (New International Version)\nThen Solomon went to Ezion Geber and Elath on the coast of Edom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

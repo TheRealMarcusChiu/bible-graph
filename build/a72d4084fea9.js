@@ -1,0 +1,1 @@
+(function(){var b="a72d4084fea9",m="# Psalm 72:12 (New International Version)\nFor he will deliver the needy who cry out,  \n    the afflicted who have no one to help.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

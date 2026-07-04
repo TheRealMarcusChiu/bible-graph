@@ -1,0 +1,1 @@
+(function(){var b="6927a6e9a225",m="# Ezekiel 18:28 (New International Version)\nBecause they consider all the offenses they have committed and turn away from them, that person will surely live; they will not die.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Isa-55-7|Isa 55:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

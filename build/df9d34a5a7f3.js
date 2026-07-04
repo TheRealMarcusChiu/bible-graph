@@ -1,0 +1,1 @@
+(function(){var b="df9d34a5a7f3",m="# Zechariah 8:18 (New International Version)\nThe word of the LORD Almighty came to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

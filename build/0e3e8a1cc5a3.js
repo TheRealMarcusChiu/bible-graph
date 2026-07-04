@@ -1,0 +1,1 @@
+(function(){var b="0e3e8a1cc5a3",m="# Ezekiel 3:1 (New International Version)\nAnd he said to me, \"Son of man, eat what is before you, eat this scroll; then go and speak to the people of Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

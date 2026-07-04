@@ -1,0 +1,1 @@
+(function(){var b="363c5dec8fd5",m="# Nehemiah 12:17 (New International Version)\nof Abijah's,<sup>^A</sup> Zikri;\nof Miniamin's and of Moadiah's, Piltai;\n\n### Crossrefs\n- A: S [[1Chr-24-10|1Ch 24:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

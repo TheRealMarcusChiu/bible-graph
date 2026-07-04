@@ -1,0 +1,1 @@
+(function(){var b="1aec0f37ec7e",m="# Nehemiah 11:6 (New International Version)\nThe descendants of Perez who lived in Jerusalem totaled 468 men of standing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

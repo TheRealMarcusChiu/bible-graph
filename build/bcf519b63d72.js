@@ -1,0 +1,1 @@
+(function(){var b="bcf519b63d72",m="# Jonah 2:8 (New International Version)\n\"Those who cling to worthless idols<sup>^A</sup>  \n    turn away from God's love for them.\n\n### Crossrefs\n- A: S [[Deut-32-21|Dt 32:21]]; S [[1Sam-12-21|1Sa 12:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

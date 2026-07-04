@@ -1,0 +1,1 @@
+(function(){var b="94ffa6e8ede6",m="# 1 Chronicles 2:35 (New International Version)\nSheshan gave his daughter in marriage to his servant Jarha, and she bore him Attai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

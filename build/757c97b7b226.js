@@ -1,0 +1,1 @@
+(function(){var b="757c97b7b226",m="# 2 Kings 4:37 (New International Version)\nShe came in, fell at his feet and bowed to the ground. Then she took her son and went out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

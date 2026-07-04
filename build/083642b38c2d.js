@@ -1,0 +1,1 @@
+(function(){var b="083642b38c2d",m="# Nehemiah 12:14 (New International Version)\nof Malluk's, Jonathan;\nof Shekaniah's, Joseph;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

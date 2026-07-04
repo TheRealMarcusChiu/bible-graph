@@ -1,0 +1,1 @@
+(function(){var b="c9bdc164cda0",m="# 2 Kings 6:11 (New International Version)\nThis enraged the king of Aram. He summoned his officers and demanded of them, \"Tell me! Which of us is on the side of the king of Israel?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8848e355758",m="# Nehemiah 7:68 (New International Version)\nThere were 736 horses, 245 mules,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

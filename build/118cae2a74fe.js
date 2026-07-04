@@ -1,0 +1,1 @@
+(function(){var b="118cae2a74fe",m="# Ezra 7:4 (New International Version)\nthe son of Zerahiah, the son of Uzzi, the son of Bukki,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

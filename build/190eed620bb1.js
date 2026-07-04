@@ -1,0 +1,1 @@
+(function(){var b="190eed620bb1",m="# Proverbs 29:21 (New International Version)\nA servant pampered from youth  \n    will turn out to be insolent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

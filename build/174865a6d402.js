@@ -1,0 +1,1 @@
+(function(){var b="174865a6d402",m="# Ezekiel 21:1 (New International Version)\nBabylon as God's Sword of Judgment\nThe word of the LORD came to me:<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-20-1|Eze 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

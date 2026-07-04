@@ -1,0 +1,1 @@
+(function(){var b="ec20769a45af",m="# 2 Kings 9:24 (New International Version)\nThen Jehu drew his bow<sup>^A</sup> and shot Joram between the shoulders. The arrow pierced his heart and he slumped down in his chariot. \n\n### Crossrefs\n- A: S [[1Kgs-22-34|1Ki 22:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

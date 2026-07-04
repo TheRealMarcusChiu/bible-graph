@@ -1,0 +1,1 @@
+(function(){var b="514a01cf8871",m="# Job 41:17 (New International Version)\nThey are joined fast to one another;  \n    they cling together and cannot be parted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

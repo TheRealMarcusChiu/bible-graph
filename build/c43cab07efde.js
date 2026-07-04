@@ -1,0 +1,1 @@
+(function(){var b="c43cab07efde",m="# 2 Chronicles 15:14 (New International Version)\nThey took an oath to the LORD with loud acclamation, with shouting and with trumpets and horns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

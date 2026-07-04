@@ -1,0 +1,1 @@
+(function(){var b="5c5eadb859da",m="# 1 Chronicles 2:12 (New International Version)\nBoaz<sup>^A</sup> the father of Obed and Obed the father of Jesse.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ruth-2-1|Ru 2:1]]\n- B: S [[Ruth-4-17|Ru 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="640d6c983006",m="# Psalm 105:38 (New International Version)\nEgypt was glad when they left,  \n    because dread of Israel<sup>^A</sup> had fallen on them.\n\n### Crossrefs\n- A: [[Exod-15-16|Ex 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

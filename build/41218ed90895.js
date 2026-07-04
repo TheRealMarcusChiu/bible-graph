@@ -1,0 +1,1 @@
+(function(){var b="41218ed90895",m="# Ezekiel 26:9 (New International Version)\nHe will direct the blows of his battering rams against your walls and demolish your towers with his weapons.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-21-22|Eze 21:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

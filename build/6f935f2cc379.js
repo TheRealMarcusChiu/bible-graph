@@ -1,0 +1,1 @@
+(function(){var b="6f935f2cc379",m="# 2 Chronicles 26:3 (New International Version)\nUzziah was sixteen years old when he became king, and he reigned in Jerusalem fifty-two years. His mother's name was Jekoliah; she was from Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

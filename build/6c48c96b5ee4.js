@@ -1,0 +1,1 @@
+(function(){var b="6c48c96b5ee4",m="# 1 Chronicles 4:8 (New International Version)\nand Koz, who was the father of Anub and Hazzobebah and of the clans of Aharhel son of Harum.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

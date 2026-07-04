@@ -1,0 +1,1 @@
+(function(){var b="a038694cff1f",m="# Psalm 119:101 (New International Version)\nI have kept my feet<sup>^A</sup> from every evil path  \n    so that I might obey your word.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-1-15|Pr 1:15]]\n- B: S [[Ps-119-57|ver 57]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

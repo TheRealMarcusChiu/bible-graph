@@ -1,0 +1,1 @@
+(function(){var b="b0ffb4407980",m="# Joel 3:15 (New International Version)\nThe sun and moon will be darkened,  \n    and the stars no longer shine.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-7|Job 9:7]]; S [[Ezek-32-7|Eze 32:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

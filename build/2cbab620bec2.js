@@ -1,0 +1,1 @@
+(function(){var b="2cbab620bec2",m="# 2 Chronicles 28:7 (New International Version)\nZikri, an Ephraimite warrior, killed Maaseiah the king's son, Azrikam the officer in charge of the palace, and Elkanah, second to the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

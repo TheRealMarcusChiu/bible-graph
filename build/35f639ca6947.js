@@ -1,0 +1,1 @@
+(function(){var b="35f639ca6947",m="# 1 Chronicles 21:25 (New International Version)\nSo David paid Araunah six hundred shekels of gold for the site.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

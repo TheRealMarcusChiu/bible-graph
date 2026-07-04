@@ -1,0 +1,1 @@
+(function(){var b="c2ed2c0ab858",m="# Nehemiah 10:15 (New International Version)\nBunni, Azgad, Bebai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

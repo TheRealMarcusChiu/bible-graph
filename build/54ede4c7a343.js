@@ -1,0 +1,1 @@
+(function(){var b="54ede4c7a343",m="# Jeremiah 10:11 (New International Version)\n\"Tell them this: 'These gods, who did not make the heavens and the earth, will perish<sup>^A</sup> from the earth and from under the heavens.'\"\n\n### Crossrefs\n- A: S [[Isa-2-18|Isa 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

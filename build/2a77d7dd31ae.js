@@ -1,0 +1,1 @@
+(function(){var b="2a77d7dd31ae",m="# Ezra 2:58 (New International Version)\n\n### Crossrefs\n- A: S [[1Chr-9-2|1Ch 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

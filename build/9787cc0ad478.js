@@ -1,0 +1,1 @@
+(function(){var b="9787cc0ad478",m="# Job 3:20 (New International Version)\n\"Why is light given to those in misery,  \n    and life to the bitter of soul,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-1-10|1Sa 1:10]]; [[Ezek-27-30|Eze 27:30-31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

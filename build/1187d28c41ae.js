@@ -1,0 +1,1 @@
+(function(){var b="1187d28c41ae",m="# Habakkuk 1:7 (New International Version)\nThey are a feared and dreaded people;<sup>^A</sup>  \n    they are a law to themselves  \n    and promote their own honor.\n\n### Crossrefs\n- A: [[Isa-18-7|Isa 18:7]]; [[Jer-39-5|Jer 39:5-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a33933d854f7",m="# Micah 2:9 (New International Version)\nYou drive the women of my people  \n    from their pleasant homes.<sup>^A</sup>  \nYou take away my blessing  \n    from their children forever.\n\n### Crossrefs\n- A: [[Jer-10-20|Jer 10:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

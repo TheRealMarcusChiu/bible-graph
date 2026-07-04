@@ -1,0 +1,1 @@
+(function(){var b="d6cce27bfac6",m="# Proverbs 12:8 (New International Version)\nA person is praised according to their prudence,  \n    and one with a warped<sup>^A</sup> mind is despised.\n\n### Crossrefs\n- A: [[Isa-19-14|Isa 19:14]]; [[Isa-29-24|29:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

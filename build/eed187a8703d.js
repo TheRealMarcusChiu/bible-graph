@@ -1,0 +1,1 @@
+(function(){var b="eed187a8703d",m="# Job 39:27 (New International Version)\nDoes the eagle soar at your command  \n    and build its nest on high?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-49-16|Jer 49:16]]; [[Obad-1-4|Ob 1:4]]; [[Hab-2-9|Hab 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

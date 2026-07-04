@@ -1,0 +1,1 @@
+(function(){var b="f01974e876af",m="# Nehemiah 4:6 (New International Version)\nSo we rebuilt the wall till all of it reached half its height, for the people worked with all their heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

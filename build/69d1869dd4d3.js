@@ -1,0 +1,1 @@
+(function(){var b="69d1869dd4d3",m="# Ezekiel 1:2 (New International Version)\nOn the fifth of the month--it was the fifth year of the exile of King Jehoiachin<sup>^A</sup>-- \n\n### Crossrefs\n- A: S [[2Kgs-24-15|2Ki 24:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

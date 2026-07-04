@@ -1,0 +1,1 @@
+(function(){var b="002bc4c1e882",m="# Ezra 4:5 (New International Version)\nThey bribed officials to work against them and frustrate their plans during the entire reign of Cyrus king of Persia and down to the reign of Darius king of Persia.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

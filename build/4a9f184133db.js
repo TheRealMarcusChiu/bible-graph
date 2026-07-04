@@ -1,0 +1,1 @@
+(function(){var b="4a9f184133db",m="# Proverbs 29:11 (New International Version)\nFools give full vent to their rage,<sup>^A</sup>  \n    but the wise bring calm in the end.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-15-13|Job 15:13]]\n- B: [[Prov-12-16|Pr 12:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

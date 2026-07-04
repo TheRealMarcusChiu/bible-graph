@@ -1,0 +1,1 @@
+(function(){var b="5a8a0f511b92",m="# 1 Chronicles 24:7 (New International Version)\nThe first lot fell to Jehoiarib,\nthe second to Jedaiah,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezra-2-36|Ezr 2:36]]; [[Neh-12-6|Ne 12:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

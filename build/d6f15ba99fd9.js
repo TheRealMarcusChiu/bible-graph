@@ -1,0 +1,1 @@
+(function(){var b="d6f15ba99fd9",m="# Proverbs 17:20 (New International Version)\nOne whose heart is corrupt does not prosper;  \n    one whose tongue is perverse falls into trouble.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

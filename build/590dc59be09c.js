@@ -1,0 +1,1 @@
+(function(){var b="590dc59be09c",m="# Job 24:7 (New International Version)\nLacking clothes, they spend the night naked;  \n    they have nothing to cover themselves in the cold.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-22-27|Ex 22:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

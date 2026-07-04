@@ -1,0 +1,1 @@
+(function(){var b="54c8ddb05d94",m="# Esther 2:4 (New International Version)\nThen let the young woman who pleases the king be queen instead of Vashti.\" This advice appealed to the king, and he followed it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

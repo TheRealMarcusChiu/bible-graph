@@ -1,0 +1,1 @@
+(function(){var b="7a7a83b3c36a",m="# Proverbs 18:18 (New International Version)\nCasting the lot settles disputes<sup>^A</sup>  \n    and keeps strong opponents apart.\n\n### Crossrefs\n- A: S [[Prov-16-33|Pr 16:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2dfc75a48b38",m="# Proverbs 20:11 (New International Version)\nEven small children are known by their actions,  \n    so is their conduct really pure<sup>^A</sup> and upright?\n\n### Crossrefs\n- A: S [[Ps-39-1|Ps 39:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

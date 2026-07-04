@@ -1,0 +1,1 @@
+(function(){var b="a8b914958619",m="# 2 Chronicles 8:2 (New International Version)\nSolomon rebuilt the villages that Hiram had given him, and settled Israelites in them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

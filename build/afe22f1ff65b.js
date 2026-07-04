@@ -1,0 +1,1 @@
+(function(){var b="afe22f1ff65b",m="# Job 11:10 (New International Version)\n\"If he comes along and confines you in prison  \n    and convenes a court, who can oppose him?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-12|Job 9:12]]; [[Rev-3-7|Rev 3:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

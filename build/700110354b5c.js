@@ -1,0 +1,1 @@
+(function(){var b="700110354b5c",m="# Job 41:8 (New International Version)\nIf you lay a hand on it,  \n    you will remember the struggle and never do it again!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-8|Job 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

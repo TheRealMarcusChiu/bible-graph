@@ -1,0 +1,1 @@
+(function(){var b="d07dd95f4f94",m="# Nehemiah 11:14 (New International Version)\nand his associates, who were men of standing--128. Their chief officer was Zabdiel son of Haggedolim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

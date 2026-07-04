@@ -1,0 +1,1 @@
+(function(){var b="3c061e390529",m="# 1 Chronicles 22:1 (New International Version)\nThen David said, \"The house of the LORD God<sup>^A</sup> is to be here, and also the altar of burnt offering for Israel.\"\n\n### Crossrefs\n- A: S [[Gen-28-17|Ge 28:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

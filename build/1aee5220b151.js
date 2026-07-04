@@ -1,0 +1,1 @@
+(function(){var b="1aee5220b151",m="# 1 Chronicles 21:28 (New International Version)\nAt that time, when David saw that the LORD had answered him on the threshing floor of Araunah the Jebusite, he offered sacrifices there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

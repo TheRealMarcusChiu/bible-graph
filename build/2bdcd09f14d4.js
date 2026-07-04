@@ -1,0 +1,1 @@
+(function(){var b="2bdcd09f14d4",m="# Psalm 85:7 (New International Version)\nShow us your unfailing love,<sup>^A</sup> LORD,  \n    and grant us your salvation.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-6-4|Ps 6:4]]\n- B: [[Ps-27-1|Ps 27:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

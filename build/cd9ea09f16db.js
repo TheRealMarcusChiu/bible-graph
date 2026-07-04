@@ -1,0 +1,1 @@
+(function(){var b="cd9ea09f16db",m="# 1 Chronicles 4:36 (New International Version)\nalso Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

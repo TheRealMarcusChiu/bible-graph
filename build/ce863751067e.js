@@ -1,0 +1,1 @@
+(function(){var b="ce863751067e",m="# Psalm 105:42 (New International Version)\nFor he remembered his holy promise<sup>^A</sup>  \n    given to his servant Abraham.\n\n### Crossrefs\n- A: [[Gen-12-1|Ge 12:1-3]]; [[Gen-13-14|13:14-17]]; [[Gen-15-13|15:13-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

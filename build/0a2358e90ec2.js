@@ -1,0 +1,1 @@
+(function(){var b="0a2358e90ec2",m="# Proverbs 18:9 (New International Version)\nOne who is slack in his work  \n    is brother to one who destroys.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-28-24|Pr 28:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

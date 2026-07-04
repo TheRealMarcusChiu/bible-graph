@@ -1,0 +1,1 @@
+(function(){var b="4b23f5223af1",m="# 2 Chronicles 20:33 (New International Version)\nThe high places,<sup>^A</sup> however, were not removed, and the people still had not set their hearts on the God of their ancestors.\n\n### Crossrefs\n- A: S [[2Chr-17-6|2Ch 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

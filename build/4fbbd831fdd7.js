@@ -1,0 +1,1 @@
+(function(){var b="4fbbd831fdd7",m="# Psalm 102:10 (New International Version)\nbecause of your great wrath,<sup>^A</sup>  \n    for you have taken me up and thrown me aside.\n\n### Crossrefs\n- A: [[Ps-7-11|Ps 7:11]]; [[Ps-38-3|38:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

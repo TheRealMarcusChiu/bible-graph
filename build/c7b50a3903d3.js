@@ -1,0 +1,1 @@
+(function(){var b="c7b50a3903d3",m="# 1 Chronicles 16:18 (New International Version)\n\"To you I will give the land of Canaan<sup>^A</sup>  \n    as the portion you will inherit.\"\n\n### Crossrefs\n- A: [[Gen-13-14|Ge 13:14-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

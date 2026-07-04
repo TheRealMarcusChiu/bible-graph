@@ -1,0 +1,1 @@
+(function(){var b="56f5532287d4",m="# Isaiah 37:15 (New International Version)\nAnd Hezekiah prayed<sup>^A</sup> to the LORD: \n\n### Crossrefs\n- A: S [[2Chr-32-20|2Ch 32:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

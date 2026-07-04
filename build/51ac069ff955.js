@@ -1,0 +1,1 @@
+(function(){var b="51ac069ff955",m="# Psalm 119:137 (New International Version)\nYou are righteous,<sup>^A</sup> LORD,  \n    and your laws are right.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-9-27|Ex 9:27]]; S [[Ezra-9-15|Ezr 9:15]]\n- B: S [[Neh-9-13|Ne 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

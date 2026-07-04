@@ -1,0 +1,1 @@
+(function(){var b="5786d36b58bf",m="# Ezekiel 40:6 (New International Version)\nThen he went to the east gate.<sup>^A</sup> He climbed its steps and measured the threshold of the gate; it was one rod deep. \n\n### Crossrefs\n- A: S [[Ezek-8-16|Eze 8:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

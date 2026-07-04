@@ -1,0 +1,1 @@
+(function(){var b="f71121547b5e",m="# Ezra 10:38 (New International Version)\nFrom the descendants of Binnui:\nShimei,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

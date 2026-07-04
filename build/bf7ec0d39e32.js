@@ -1,0 +1,1 @@
+(function(){var b="bf7ec0d39e32",m="# Proverbs 20:21 (New International Version)\nAn inheritance claimed too soon  \n    will not be blessed at the end.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

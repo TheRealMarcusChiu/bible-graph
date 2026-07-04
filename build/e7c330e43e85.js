@@ -1,0 +1,1 @@
+(function(){var b="e7c330e43e85",m="# 2 Chronicles 35:23 (New International Version)\nArchers<sup>^A</sup> shot King Josiah, and he told his officers, \"Take me away; I am badly wounded.\" \n\n### Crossrefs\n- A: S [[1Kgs-22-34|1Ki 22:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

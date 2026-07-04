@@ -1,0 +1,1 @@
+(function(){var b="0c6426da033a",m="# 1 Chronicles 6:45 (New International Version)\nthe son of Hashabiah,\nthe son of Amaziah, the son of Hilkiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

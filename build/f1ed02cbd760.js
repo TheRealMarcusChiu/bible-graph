@@ -1,0 +1,1 @@
+(function(){var b="f1ed02cbd760",m="# Esther 2:22 (New International Version)\nBut Mordecai found out about the plot and told Queen Esther, who in turn reported it to the king, giving credit to Mordecai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

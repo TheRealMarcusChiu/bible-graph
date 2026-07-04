@@ -1,0 +1,1 @@
+(function(){var b="1ed0792bea4d",m="# 2 Chronicles 4:3 (New International Version)\nBelow the rim, figures of bulls encircled it--ten to a cubit. The bulls were cast in two rows in one piece with the Sea.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

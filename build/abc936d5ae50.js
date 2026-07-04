@@ -1,0 +1,1 @@
+(function(){var b="abc936d5ae50",m="# Proverbs 24:21 (New International Version)\nFear the LORD and the king,<sup>^A</sup> my son,  \n    and do not join with rebellious officials,\n\n### Crossrefs\n- A: [[Rom-13-1|Ro 13:1-5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

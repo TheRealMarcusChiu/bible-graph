@@ -1,0 +1,1 @@
+(function(){var b="9b1053bca852",m="# 1 Chronicles 2:2 (New International Version)\nDan, Joseph, Benjamin, Naphtali, Gad and Asher.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

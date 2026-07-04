@@ -1,0 +1,1 @@
+(function(){var b="79baad8f94eb",m="# Psalm 90:16 (New International Version)\nMay your deeds be shown to your servants,  \n    your splendor to their children.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-44-1|Ps 44:1]]; [[Hab-3-2|Hab 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="51f7f9644d0a",m="# Proverbs 29:26 (New International Version)\nMany seek an audience with a ruler,<sup>^A</sup>  \n    but it is from the LORD that one gets justice.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-19-6|Pr 19:6]]\n- B: S [[Prov-16-33|Pr 16:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

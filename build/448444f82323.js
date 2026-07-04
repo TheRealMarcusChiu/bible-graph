@@ -1,0 +1,1 @@
+(function(){var b="448444f82323",m="# Psalm 139:1 (New International Version)\nPsalm 139\nYou have searched me,<sup>^A</sup> LORD,  \n    and you know<sup>^B</sup> me.\n\n### Crossrefs\n- A: S [[Ps-17-3|Ps 17:3]]; [[Rom-8-27|Ro 8:27]]\n- B: [[Ps-44-21|Ps 44:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

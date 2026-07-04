@@ -1,0 +1,1 @@
+(function(){var b="0a70b0d9225f",m="# Ezra 2:43 (New International Version)\nThe temple servants:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-9-2|1Ch 9:2]]; [[Neh-11-21|Ne 11:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

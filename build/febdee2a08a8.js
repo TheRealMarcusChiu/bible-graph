@@ -1,0 +1,1 @@
+(function(){var b="febdee2a08a8",m="# Nehemiah 3:31 (New International Version)\nNext to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

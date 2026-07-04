@@ -1,0 +1,1 @@
+(function(){var b="f0e2fc582978",m="# 1 Chronicles 15:22 (New International Version)\nKenaniah the head Levite was in charge of the singing; that was his responsibility because he was skillful at it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

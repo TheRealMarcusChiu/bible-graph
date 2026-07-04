@@ -1,0 +1,1 @@
+(function(){var b="a866e618582a",m="# Psalm 143:6 (New International Version)\nI spread out my hands<sup>^A</sup> to you;  \n    I thirst for you like a parched land.\n\n### Crossrefs\n- A: S [[Exod-9-29|Ex 9:29]]; S [[Job-11-13|Job 11:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

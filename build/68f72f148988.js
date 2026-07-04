@@ -1,0 +1,1 @@
+(function(){var b="68f72f148988",m="# 2 Chronicles 14:12 (New International Version)\nThe LORD struck down<sup>^A</sup> the Cushites before Asa and Judah. The Cushites fled, \n\n### Crossrefs\n- A: [[1Kgs-8-45|1Ki 8:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

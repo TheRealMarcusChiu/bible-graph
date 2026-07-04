@@ -1,0 +1,1 @@
+(function(){var b="a0d70dc188b7",m="# Nehemiah 7:39 (New International Version)\nThe priests:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

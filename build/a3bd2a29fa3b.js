@@ -1,0 +1,1 @@
+(function(){var b="a3bd2a29fa3b",m="# Psalm 83:12 (New International Version)\nwho said, \"Let us take possession<sup>^A</sup>  \n    of the pasturelands of God.\"\n\n### Crossrefs\n- A: [[2Chr-20-11|2Ch 20:11]]; [[Ezek-35-10|Eze 35:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

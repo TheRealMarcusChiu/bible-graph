@@ -1,0 +1,1 @@
+(function(){var b="eed697c9f636",m="# 1 Chronicles 26:6 (New International Version)\nObed-Edom's son Shemaiah also had sons, who were leaders in their father's family because they were very capable men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

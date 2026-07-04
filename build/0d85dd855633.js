@@ -1,0 +1,1 @@
+(function(){var b="0d85dd855633",m="# Proverbs 13:8 (New International Version)\nA person's riches may ransom their life,  \n    but the poor cannot respond to threatening rebukes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-15-16|Pr 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="de81535cde30",m="# Ezekiel 21:16 (New International Version)\nSlash to the right, you sword,  \n    then to the left,  \n    wherever your blade is turned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

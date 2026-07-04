@@ -1,0 +1,1 @@
+(function(){var b="63ab7da46e3f",m="# 1 Chronicles 16:24 (New International Version)\nDeclare his glory<sup>^A</sup> among the nations,  \n    his marvelous deeds among all peoples.\n\n### Crossrefs\n- A: [[Isa-42-12|Isa 42:12]]; [[Isa-66-19|66:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

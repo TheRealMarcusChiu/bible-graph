@@ -1,0 +1,1 @@
+(function(){var b="159b8dfdfdaa",m="# Psalm 58:3 (New International Version)\nEven from birth the wicked go astray;  \n    from the womb they are wayward, spreading lies.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

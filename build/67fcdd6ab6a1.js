@@ -1,0 +1,1 @@
+(function(){var b="67fcdd6ab6a1",m="# Ezekiel 48:27 (New International Version)\n\"Gad<sup>^A</sup> will have one portion; it will border the territory of Zebulun from east to west.\n\n### Crossrefs\n- A: [[Josh-13-24|Jos 13:24-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

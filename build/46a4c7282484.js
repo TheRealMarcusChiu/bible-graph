@@ -1,0 +1,1 @@
+(function(){var b="46a4c7282484",m="# Psalm 115:13 (New International Version)\nhe will bless those who fear<sup>^A</sup> the LORD--  \n    small and great alike.\n\n### Crossrefs\n- A: S [[Ps-112-1|Ps 112:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

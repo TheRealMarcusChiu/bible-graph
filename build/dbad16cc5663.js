@@ -1,0 +1,1 @@
+(function(){var b="dbad16cc5663",m="# Proverbs 5:5 (New International Version)\nHer feet go down to death;  \n    her steps lead straight to the grave.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-9-17|Ps 9:17]]; S [[Prov-2-18|Pr 2:18]]; [[Prov-7-26|7:26-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

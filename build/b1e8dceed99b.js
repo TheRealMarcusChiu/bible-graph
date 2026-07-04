@@ -1,0 +1,1 @@
+(function(){var b="b1e8dceed99b",m="# Proverbs 17:19 (New International Version)\nWhoever loves a quarrel loves sin;  \n    whoever builds a high gate invites destruction.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

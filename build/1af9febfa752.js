@@ -1,0 +1,1 @@
+(function(){var b="1af9febfa752",m="# Proverbs 14:12 (New International Version)\nThere is a way that appears to be right,<sup>^A</sup>  \n    but in the end it leads to death.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-12-15|Pr 12:15]]\n- B: [[Prov-16-25|Pr 16:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

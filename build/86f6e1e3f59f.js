@@ -1,0 +1,1 @@
+(function(){var b="86f6e1e3f59f",m="# Job 34:2 (New International Version)\n\"Hear my words, you wise men;  \n    listen to me,<sup>^A</sup> you men of learning.\n\n### Crossrefs\n- A: S [[Job-32-10|Job 32:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

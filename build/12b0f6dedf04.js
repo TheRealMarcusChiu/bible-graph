@@ -1,0 +1,1 @@
+(function(){var b="12b0f6dedf04",m="# 1 Chronicles 7:4 (New International Version)\nAccording to their family genealogy, they had 36,000 men ready for battle, for they had many wives and children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

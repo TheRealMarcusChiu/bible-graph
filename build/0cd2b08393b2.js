@@ -1,0 +1,1 @@
+(function(){var b="0cd2b08393b2",m="# 2 Kings 18:29 (New International Version)\nThis is what the king says: Do not let Hezekiah deceive<sup>^A</sup> you. He cannot deliver you from my hand. \n\n### Crossrefs\n- A: [[2Kgs-19-10|2Ki 19:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

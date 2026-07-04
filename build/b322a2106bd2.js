@@ -1,0 +1,1 @@
+(function(){var b="b322a2106bd2",m="# Proverbs 12:9 (New International Version)\nBetter to be a nobody and yet have a servant  \n    than pretend to be somebody and have no food.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

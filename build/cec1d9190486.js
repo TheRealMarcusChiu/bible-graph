@@ -1,0 +1,1 @@
+(function(){var b="cec1d9190486",m="# Obadiah 2 (New International Version)\n\"See, I will make you small<sup>^A</sup> among the nations;  \n    you will be utterly despised.\n\n### Crossrefs\n- A: [[Num-24-18|Nu 24:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

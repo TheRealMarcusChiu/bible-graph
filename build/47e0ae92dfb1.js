@@ -1,0 +1,1 @@
+(function(){var b="47e0ae92dfb1",m="# Psalm 107:7 (New International Version)\nHe led them by a straight way<sup>^A</sup>  \n    to a city<sup>^B</sup> where they could settle.\n\n### Crossrefs\n- A: S [[Ezra-8-21|Ezr 8:21]]\n- B: [[Ps-107-36|ver 36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

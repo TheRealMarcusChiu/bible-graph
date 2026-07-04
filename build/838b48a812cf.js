@@ -1,0 +1,1 @@
+(function(){var b="838b48a812cf",m="# Zechariah 4:11 (New International Version)\nThen I asked the angel, \"What are these two olive trees<sup>^A</sup> on the right and the left of the lampstand?\"\n\n### Crossrefs\n- A: S [[Zech-4-3|ver 3]]; S [[Rev-11-4|Rev 11:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

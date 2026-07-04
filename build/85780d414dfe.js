@@ -1,0 +1,1 @@
+(function(){var b="85780d414dfe",m="# Daniel 1:19 (New International Version)\nThe king talked with them, and he found none equal to Daniel, Hananiah, Mishael and Azariah; so they entered the king's service.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-41-46|Ge 41:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

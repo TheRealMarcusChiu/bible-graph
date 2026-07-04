@@ -1,0 +1,1 @@
+(function(){var b="bcb5ec32f6d7",m="# Proverbs 8:22 (New International Version)\n\"The LORD brought me forth as the first of his works,  \n    before his deeds of old;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

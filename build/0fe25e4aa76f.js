@@ -1,0 +1,1 @@
+(function(){var b="0fe25e4aa76f",m="# Psalm 102:1 (New International Version)\nPsalm 102\nHear my prayer,<sup>^A</sup> LORD;  \n    let my cry for help<sup>^B</sup> come to you.\n\n### Crossrefs\n- A: [[Ps-4-1|Ps 4:1]]\n- B: S [[Exod-2-23|Ex 2:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

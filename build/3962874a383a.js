@@ -1,0 +1,1 @@
+(function(){var b="3962874a383a",m="# Jeremiah 50:30 (New International Version)\nTherefore, her young men<sup>^A</sup> will fall in the streets;  \n    all her soldiers will be silenced in that day,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: S [[Isa-13-18|Isa 13:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

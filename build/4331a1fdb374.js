@@ -1,0 +1,1 @@
+(function(){var b="4331a1fdb374",m="# Proverbs 18:12 (New International Version)\nBefore a downfall the heart is haughty,  \n    but humility comes before honor.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-11-2|Pr 11:2]]; [[Prov-15-33|15:33]]; S [[Prov-16-18|16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

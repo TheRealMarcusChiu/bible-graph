@@ -1,0 +1,1 @@
+(function(){var b="fb255b025c4b",m="# 2 Kings 18:35 (New International Version)\nWho of all the gods of these countries has been able to save his land from me? How then can the LORD deliver Jerusalem from my hand?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-2-1|Ps 2:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="76c112252542",m="# Psalm 89:52 (New International Version)\nPraise be to the LORD forever!  \nAmen and Amen.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-41-13|Ps 41:13]]; S [[Ps-72-19|72:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

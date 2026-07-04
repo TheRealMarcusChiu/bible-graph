@@ -1,0 +1,1 @@
+(function(){var b="aa83ccdefe91",m="# Ezra 8:14 (New International Version)\nof the descendants of Bigvai, Uthai and Zakkur, and with them 70 men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

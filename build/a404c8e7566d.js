@@ -1,0 +1,1 @@
+(function(){var b="a404c8e7566d",m="# 1 Chronicles 22:16 (New International Version)\nin gold and silver, bronze and iron--craftsmen<sup>^A</sup> beyond number. Now begin the work, and the LORD be with you.\"\n\n### Crossrefs\n- A: [[2Chr-2-7|2Ch 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

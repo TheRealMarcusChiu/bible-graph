@@ -1,0 +1,1 @@
+(function(){var b="1bcea9ec343c",m="# Psalm 11:3 (New International Version)\nWhen the foundations<sup>^A</sup> are being destroyed,  \n    what can the righteous do?\"\n\n### Crossrefs\n- A: [[Ps-18-15|Ps 18:15]]; [[Ps-82-5|82:5]]; [[Isa-24-18|Isa 24:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

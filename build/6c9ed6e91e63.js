@@ -1,0 +1,1 @@
+(function(){var b="6c9ed6e91e63",m="# Job 21:6 (New International Version)\nWhen I think about this, I am terrified;<sup>^A</sup>  \n    trembling seizes my body.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-45-3|Ge 45:3]]\n- B: S [[Job-4-14|Job 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

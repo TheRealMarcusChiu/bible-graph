@@ -1,0 +1,1 @@
+(function(){var b="628ed61a8cde",m="# Psalm 74:5 (New International Version)\nThey behaved like men wielding axes  \n    to cut through a thicket of trees.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-46-22|Jer 46:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

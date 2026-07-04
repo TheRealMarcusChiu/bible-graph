@@ -1,0 +1,1 @@
+(function(){var b="654279c33f62",m="# 1 Chronicles 18:7 (New International Version)\nDavid took the gold shields carried by the officers of Hadadezer and brought them to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

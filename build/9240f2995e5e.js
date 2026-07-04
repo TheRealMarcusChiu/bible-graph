@@ -1,0 +1,1 @@
+(function(){var b="9240f2995e5e",m="# Psalm 115:7 (New International Version)\nThey have hands, but cannot feel,  \n    feet, but cannot walk,  \n    nor can they utter a sound with their throats.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ccb0fcac5d0e",m="# Job 13:7 (New International Version)\nWill you speak wickedly on God's behalf?  \n    Will you speak deceitfully for him?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-16|Job 12:16]]; S [[Job-16-17|16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

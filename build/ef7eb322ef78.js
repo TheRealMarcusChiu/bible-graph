@@ -1,0 +1,1 @@
+(function(){var b="ef7eb322ef78",m="# 2 Chronicles 13:16 (New International Version)\nThe Israelites fled before Judah, and God delivered<sup>^A</sup> them into their hands. \n\n### Crossrefs\n- A: [[2Chr-16-8|2Ch 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba8bc0043eb4",m="# Zephaniah 3\n\nThe sweeping day of the LORD and the joy of God rejoicing over his remnant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

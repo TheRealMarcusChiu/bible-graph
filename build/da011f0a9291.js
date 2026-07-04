@@ -1,0 +1,1 @@
+(function(){var b="da011f0a9291",m="# Psalm 57:9 (New International Version)\nI will praise you, Lord, among the nations;  \n    I will sing of you among the peoples.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

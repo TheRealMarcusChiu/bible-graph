@@ -1,0 +1,1 @@
+(function(){var b="7cdc9240376c",m="# Psalm 83:13 (New International Version)\nMake them like tumbleweed, my God,  \n    like chaff<sup>^A</sup> before the wind.\n\n### Crossrefs\n- A: S [[Job-13-25|Job 13:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

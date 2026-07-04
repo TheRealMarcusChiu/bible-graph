@@ -1,0 +1,1 @@
+(function(){var b="9048994f4692",m="# Ecclesiastes 6:6 (New International Version)\neven if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Eccl-2-14|Ecc 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc82c6d69c94",m="# Psalms 118\n\nIsrael's songbook -- 150 psalms of praise, lament, thanksgiving, and trust.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

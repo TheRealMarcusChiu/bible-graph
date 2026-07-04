@@ -1,0 +1,1 @@
+(function(){var b="ee1a5231d217",m="# Psalm 69:31 (New International Version)\nThis will please the LORD more than an ox,  \n    more than a bull with its horns and hooves.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-50-9|Ps 50:9-13]]; [[Ps-51-16|51:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

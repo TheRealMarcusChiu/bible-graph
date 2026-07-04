@@ -1,0 +1,1 @@
+(function(){var b="9cb90fae2687",m="# Proverbs 28:11 (New International Version)\nThe rich are wise in their own eyes;  \n    one who is poor and discerning sees how deluded they are.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

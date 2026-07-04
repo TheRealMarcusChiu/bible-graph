@@ -1,0 +1,1 @@
+(function(){var b="1a4e030f531f",m="# Proverbs 24:1 (New International Version)\nDo not envy<sup>^A</sup> the wicked,  \n    do not desire their company;\n\n### Crossrefs\n- A: [[Prov-3-31|Pr 3:31-32]]; [[Prov-23-17|23:17-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0e16398c7eb7",m="# 2 Kings 18:3 (New International Version)\nHe did what was right<sup>^A</sup> in the eyes of the LORD, just as his father David<sup>^B</sup> had done. \n\n### Crossrefs\n- A: S [[1Kgs-14-8|1Ki 14:8]]\n- B: [[Isa-38-5|Isa 38:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

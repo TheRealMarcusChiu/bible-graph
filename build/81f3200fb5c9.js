@@ -1,0 +1,1 @@
+(function(){var b="81f3200fb5c9",m="# Psalm 147:4 (New International Version)\nHe determines the number of the stars<sup>^A</sup>  \n    and calls them each by name.\n\n### Crossrefs\n- A: S [[Gen-15-5|Ge 15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

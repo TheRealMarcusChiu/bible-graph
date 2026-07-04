@@ -1,0 +1,1 @@
+(function(){var b="2c717c919537",m="# 1 Chronicles 11:17 (New International Version)\nDavid longed for water and said, \"Oh, that someone would get me a drink of water from the well near the gate of Bethlehem!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

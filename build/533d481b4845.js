@@ -1,0 +1,1 @@
+(function(){var b="533d481b4845",m="# Nehemiah 7:29 (New International Version)\n\n### Crossrefs\n- A: S [[Josh-18-26|Jos 18:26]]\n- B: S [[Josh-18-25|Jos 18:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

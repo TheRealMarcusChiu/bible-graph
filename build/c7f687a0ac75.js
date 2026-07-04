@@ -1,0 +1,1 @@
+(function(){var b="c7f687a0ac75",m="# Daniel 11:1 (New International Version)\nAnd in the first year of Darius<sup>^A</sup> the Mede, I took my stand to support and protect him.)\n\n### Crossrefs\n- A: S [[Dan-5-31|Da 5:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

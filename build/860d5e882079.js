@@ -1,0 +1,1 @@
+(function(){var b="860d5e882079",m="# 1 Chronicles 2:19 (New International Version)\nWhen Azubah died, Caleb<sup>^A</sup> married Ephrath, who bore him Hur. \n\n### Crossrefs\n- A: [[1Chr-2-42|ver 42]], [[1Chr-2-50|50]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

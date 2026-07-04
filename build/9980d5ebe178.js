@@ -1,0 +1,1 @@
+(function(){var b="9980d5ebe178",m="# Proverbs 8:12 (New International Version)\n\"I, wisdom, dwell together with prudence;  \n    I possess knowledge and discretion.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-1-4|Pr 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

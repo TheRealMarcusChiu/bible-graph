@@ -1,0 +1,1 @@
+(function(){var b="97cac906b004",m="# Job 10:13 (New International Version)\n\"But this is what you concealed in your heart,  \n    and I know that this was in your mind:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-23-13|Job 23:13]]; [[Ps-115-3|Ps 115:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="baa86fa94d41",m="# Job 30:5 (New International Version)\nThey were banished from human society,  \n    shouted at as if they were thieves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

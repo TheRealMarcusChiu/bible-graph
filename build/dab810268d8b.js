@@ -1,0 +1,1 @@
+(function(){var b="dab810268d8b",m="# Nehemiah 7:67 (New International Version)\nbesides their 7,337 male and female slaves; and they also had 245 male and female singers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

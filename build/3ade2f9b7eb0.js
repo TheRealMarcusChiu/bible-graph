@@ -1,0 +1,1 @@
+(function(){var b="3ade2f9b7eb0",m="# Psalm 78:34 (New International Version)\nWhenever God slew them, they would seek<sup>^A</sup> him;  \n    they eagerly turned to him again.\n\n### Crossrefs\n- A: S [[Deut-4-29|Dt 4:29]]; [[Hos-5-15|Hos 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

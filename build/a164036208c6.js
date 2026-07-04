@@ -1,0 +1,1 @@
+(function(){var b="a164036208c6",m="# 1 Chronicles 17:26 (New International Version)\nYou, LORD, are God! You have promised these good things to your servant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

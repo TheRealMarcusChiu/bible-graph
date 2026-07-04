@@ -1,0 +1,1 @@
+(function(){var b="89be0027d1a2",m="# Ezekiel 20:10 (New International Version)\nTherefore I led them out of Egypt and brought them into the wilderness.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-13-18|Ex 13:18]]; [[Exod-19-1|19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

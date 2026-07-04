@@ -1,0 +1,1 @@
+(function(){var b="e11c7b3f595f",m="# Psalm 113:9 (New International Version)\nHe settles the childless<sup>^A</sup> woman in her home  \n    as a happy mother of children.\nPraise the LORD.\n\n### Crossrefs\n- A: S [[1Sam-2-5|1Sa 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

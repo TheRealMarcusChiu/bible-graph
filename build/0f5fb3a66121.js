@@ -1,0 +1,1 @@
+(function(){var b="0f5fb3a66121",m="# Ecclesiastes 5:16 (New International Version)\nThis too is a grievous evil:\nAs everyone comes, so they depart,  \n    and what do they gain,  \n    since they toil for the wind?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Eccl-1-3|Ecc 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b23e33f56a53",m="# 2 Kings 25:20 (New International Version)\nNebuzaradan the commander took them all and brought them to the king of Babylon at Riblah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

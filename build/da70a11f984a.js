@@ -1,0 +1,1 @@
+(function(){var b="da70a11f984a",m="# 1 Chronicles 4:15 (New International Version)\nThe sons of Caleb son of Jephunneh:\nIru, Elah and Naam.\nThe son of Elah:\nKenaz.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

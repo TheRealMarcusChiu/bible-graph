@@ -1,0 +1,1 @@
+(function(){var b="2d485e698267",m="# Job 39:28 (New International Version)\nIt dwells on a cliff and stays there at night;  \n    a rocky crag<sup>^A</sup> is its stronghold.\n\n### Crossrefs\n- A: [[Jer-49-16|Jer 49:16]]; [[Obad-1-3|Ob 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

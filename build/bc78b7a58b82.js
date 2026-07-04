@@ -1,0 +1,1 @@
+(function(){var b="bc78b7a58b82",m="# Proverbs 28:23 (New International Version)\nWhoever rebukes a person will in the end gain favor  \n    rather than one who has a flattering tongue.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-27-5|Pr 27:5-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

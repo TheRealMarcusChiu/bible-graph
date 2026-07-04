@@ -1,0 +1,1 @@
+(function(){var b="036d4a97ebfb",m="# Psalm 88:16 (New International Version)\nYour wrath<sup>^A</sup> has swept over me;  \n    your terrors<sup>^B</sup> have destroyed me.\n\n### Crossrefs\n- A: [[Ps-7-11|Ps 7:11]]\n- B: [[Job-6-4|Job 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="334adaf92c77",m="# 1 Chronicles 24:12 (New International Version)\nthe eleventh to Eliashib,\nthe twelfth to Jakim,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

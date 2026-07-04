@@ -1,0 +1,1 @@
+(function(){var b="dd47acd93d99",m="# Psalm 66:15 (New International Version)\nI will sacrifice fat animals to you  \n    and an offering of rams;  \n    I will offer bulls and goats.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-16-5|Lev 16:5]]; [[Ps-51-19|Ps 51:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

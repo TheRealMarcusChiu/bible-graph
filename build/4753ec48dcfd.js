@@ -1,0 +1,1 @@
+(function(){var b="4753ec48dcfd",m="# 1 Chronicles 26:15 (New International Version)\nThe lot for the South Gate fell to Obed-Edom,<sup>^A</sup> and the lot for the storehouse fell to his sons. \n\n### Crossrefs\n- A: S [[1Chr-13-13|1Ch 13:13]]; [[2Chr-25-24|2Ch 25:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

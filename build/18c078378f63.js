@@ -1,0 +1,1 @@
+(function(){var b="18c078378f63",m="# Ezekiel 40:8 (New International Version)\nThen he measured the portico of the gateway;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

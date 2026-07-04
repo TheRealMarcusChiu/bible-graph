@@ -1,0 +1,1 @@
+(function(){var b="e68ef9d22447",m="# Jeremiah 29:3 (New International Version)\nHe entrusted the letter to Elasah son of Shaphan and to Gemariah son of Hilkiah, whom Zedekiah king of Judah sent to King Nebuchadnezzar in Babylon. It said:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

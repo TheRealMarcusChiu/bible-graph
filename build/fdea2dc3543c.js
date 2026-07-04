@@ -1,0 +1,1 @@
+(function(){var b="fdea2dc3543c",m="# 1 Chronicles 14:14 (New International Version)\nso David inquired of God again, and God answered him, \"Do not go directly after them, but circle around them and attack them in front of the poplar trees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

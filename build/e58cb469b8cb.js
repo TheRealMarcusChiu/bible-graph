@@ -1,0 +1,1 @@
+(function(){var b="e58cb469b8cb",m="# Psalm 83:2 (New International Version)\nSee how your enemies growl,<sup>^A</sup>  \n    how your foes rear their heads.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-2-1|Ps 2:1]]; [[Isa-17-12|Isa 17:12]]\n- B: [[Judg-8-28|Jdg 8:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

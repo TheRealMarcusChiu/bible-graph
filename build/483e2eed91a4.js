@@ -1,0 +1,1 @@
+(function(){var b="483e2eed91a4",m="# Psalm 50:19 (New International Version)\nYou use your mouth for evil  \n    and harness your tongue to deceit.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-10-7|Ps 10:7]]; [[Ps-36-3|36:3]]; [[Ps-52-2|52:2]]; [[Ps-101-7|101:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

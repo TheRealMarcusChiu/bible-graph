@@ -1,0 +1,1 @@
+(function(){var b="7cc9e07cb165",m="# Job 29:21 (New International Version)\n\"People listened to me expectantly,  \n    waiting in silence for my counsel.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-29-7|ver 7]],S [[Job-29-9|9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

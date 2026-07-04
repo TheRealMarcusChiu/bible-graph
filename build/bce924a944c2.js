@@ -1,0 +1,1 @@
+(function(){var b="bce924a944c2",m="# 2 Chronicles 9:5 (New International Version)\nShe said to the king, \"The report I heard in my own country about your achievements and your wisdom is true.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

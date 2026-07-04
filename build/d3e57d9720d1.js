@@ -1,0 +1,1 @@
+(function(){var b="d3e57d9720d1",m="# 2 Kings 7:5 (New International Version)\nAt dusk they got up and went to the camp of the Arameans. When they reached the edge of the camp, no one was there,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

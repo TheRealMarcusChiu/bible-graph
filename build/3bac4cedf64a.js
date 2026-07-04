@@ -1,0 +1,1 @@
+(function(){var b="3bac4cedf64a",m="# Jeremiah 41:15 (New International Version)\nBut Ishmael son of Nethaniah and eight of his men escaped<sup>^A</sup> from Johanan and fled to the Ammonites.\n\n### Crossrefs\n- A: [[Job-21-30|Job 21:30]]; S [[Prov-28-17|Pr 28:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

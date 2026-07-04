@@ -1,0 +1,1 @@
+(function(){var b="32e2b9c19125",m="# Proverbs 19:1 (New International Version)\nBetter the poor whose walk is blameless  \n    than a fool whose lips are perverse.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-28-6|Pr 28:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

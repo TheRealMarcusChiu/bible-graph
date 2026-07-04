@@ -1,0 +1,1 @@
+(function(){var b="7515ef969958",m="# Jeremiah 26:7 (New International Version)\nThe priests, the prophets and all the people heard Jeremiah speak these words in the house of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

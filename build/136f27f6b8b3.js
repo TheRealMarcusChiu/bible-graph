@@ -1,0 +1,1 @@
+(function(){var b="136f27f6b8b3",m="# Proverbs 14:23 (New International Version)\nAll hard work brings a profit,  \n    but mere talk leads only to poverty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

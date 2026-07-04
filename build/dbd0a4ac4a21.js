@@ -1,0 +1,1 @@
+(function(){var b="dbd0a4ac4a21",m="# Hosea 4:8 (New International Version)\nThey feed on the sins of my people  \n    and relish their wickedness.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-56-11|Isa 56:11]]; [[Hos-14-1|Hos 14:1]]; [[Mic-3-11|Mic 3:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

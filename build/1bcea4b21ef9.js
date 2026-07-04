@@ -1,0 +1,1 @@
+(function(){var b="1bcea4b21ef9",m="# Proverbs 2:8 (New International Version)\nfor he guards the course of the just  \n    and protects the way of his faithful ones.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Sam-2-9|1Sa 2:9]]; S [[Ps-18-25|Ps 18:25]]; S [[Ps-97-10|97:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="57687931da75",m="# 2 Kings 13:20 (New International Version)\nElisha died and was buried.\nNow Moabite raiders<sup>^A</sup> used to enter the country every spring. \n\n### Crossrefs\n- A: S [[2Kgs-5-2|2Ki 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fa0ceb0ec212",m="# 1 Chronicles 9:34 (New International Version)\nAll these were heads of Levite families, chiefs as listed in their genealogy, and they lived in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2f26f55d9783",m="# Psalm 18:47 (New International Version)\nHe is the God who avenges<sup>^A</sup> me,  \n    who subdues nations<sup>^B</sup> under me,\n\n### Crossrefs\n- A: S [[Gen-4-24|Ge 4:24]]\n- B: S [[Ps-18-39|ver 39]]; S [[Judg-4-23|Jdg 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

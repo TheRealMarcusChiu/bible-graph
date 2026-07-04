@@ -1,0 +1,1 @@
+(function(){var b="36551ffd2aae",m="# Proverbs 18:15 (New International Version)\nThe heart of the discerning acquires knowledge,<sup>^A</sup>  \n    for the ears of the wise seek it out.\n\n### Crossrefs\n- A: S [[Prov-15-14|Pr 15:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

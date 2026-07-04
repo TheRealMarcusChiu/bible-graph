@@ -1,0 +1,1 @@
+(function(){var b="2e69a27c885c",m="# 2 Chronicles 24:2 (New International Version)\nJoash did what was right in the eyes of the LORD<sup>^A</sup> all the years of Jehoiada the priest. \n\n### Crossrefs\n- A: [[2Chr-25-2|2Ch 25:2]]; [[2Chr-26-5|26:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

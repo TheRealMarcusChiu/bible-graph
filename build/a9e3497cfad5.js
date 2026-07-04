@@ -1,0 +1,1 @@
+(function(){var b="a9e3497cfad5",m="# Isaiah 45:16 (New International Version)\nAll the makers of idols will be put to shame and disgraced;<sup>^A</sup>  \n    they will go off into disgrace together.\n\n### Crossrefs\n- A: S [[Ps-35-4|Ps 35:4]]; S [[Isa-1-29|Isa 1:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

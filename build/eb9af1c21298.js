@@ -1,0 +1,1 @@
+(function(){var b="eb9af1c21298",m="# Psalm 119:36 (New International Version)\nTurn my heart<sup>^A</sup> toward your statutes  \n    and not toward selfish gain.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Josh-24-23|Jos 24:23]]\n- B: [[Ezek-33-31|Eze 33:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

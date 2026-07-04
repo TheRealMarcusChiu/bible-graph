@@ -1,0 +1,1 @@
+(function(){var b="6fbeff11a674",m="# 1 Chronicles 27:18 (New International Version)\nover Judah: Elihu, a brother of David;\nover Issachar: Omri son of Michael;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

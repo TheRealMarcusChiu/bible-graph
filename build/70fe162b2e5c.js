@@ -1,0 +1,1 @@
+(function(){var b="70fe162b2e5c",m="# Daniel 1:18 (New International Version)\nAt the end of the time<sup>^A</sup> set by the king to bring them into his service, the chief official presented them to Nebuchadnezzar. \n\n### Crossrefs\n- A: [[Dan-1-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

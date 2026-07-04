@@ -1,0 +1,1 @@
+(function(){var b="29993f4794e1",m="# Ecclesiastes 3:3 (New International Version)\na time to kill<sup>^A</sup> and a time to heal,  \n    a time to tear down and a time to build,\n\n### Crossrefs\n- A: S [[Deut-5-17|Dt 5:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

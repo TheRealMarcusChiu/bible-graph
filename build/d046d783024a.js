@@ -1,0 +1,1 @@
+(function(){var b="d046d783024a",m="# 2 Kings 17:22 (New International Version)\nThe Israelites persisted in all the sins of Jeroboam and did not turn away from them";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

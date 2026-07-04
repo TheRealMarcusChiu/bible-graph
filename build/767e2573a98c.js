@@ -1,0 +1,1 @@
+(function(){var b="767e2573a98c",m="# 2 Chronicles 6:17 (New International Version)\nAnd now, LORD, the God of Israel, let your word that you promised your servant David come true.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

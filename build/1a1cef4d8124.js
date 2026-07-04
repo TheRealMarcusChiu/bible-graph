@@ -1,0 +1,1 @@
+(function(){var b="1a1cef4d8124",m="# Daniel 5:5 (New International Version)\nSuddenly the fingers of a human hand appeared and wrote on the plaster of the wall, near the lampstand in the royal palace. The king watched the hand as it wrote.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

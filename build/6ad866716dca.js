@@ -1,0 +1,1 @@
+(function(){var b="6ad866716dca",m="# Song of Songs 6:6 (New International Version)\nYour teeth are like a flock of sheep  \n    coming up from the washing.  \nEach has its twin,  \n    not one of them is missing.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Song-4-2|SS 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

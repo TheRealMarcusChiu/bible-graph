@@ -1,0 +1,1 @@
+(function(){var b="8e2caaa2c8f2",m="# Psalm 119:70 (New International Version)\nTheir hearts are callous<sup>^A</sup> and unfeeling,  \n    but I delight in your law.\n\n### Crossrefs\n- A: S [[Ps-17-10|Ps 17:10]]; [[Isa-29-13|Isa 29:13]]; [[Acts-28-27|Ac 28:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

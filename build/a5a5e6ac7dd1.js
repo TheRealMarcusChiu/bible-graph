@@ -1,0 +1,1 @@
+(function(){var b="a5a5e6ac7dd1",m="# Joel 2:4 (New International Version)\nThey have the appearance of horses;<sup>^A</sup>  \n    they gallop along like cavalry.\n\n### Crossrefs\n- A: [[Rev-9-7|Rev 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

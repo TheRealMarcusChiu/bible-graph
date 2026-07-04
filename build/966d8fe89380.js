@@ -1,0 +1,1 @@
+(function(){var b="966d8fe89380",m="# Jeremiah 40:16 (New International Version)\nBut Gedaliah son of Ahikam said to Johanan<sup>^A</sup> son of Kareah, \"Don't do such a thing! What you are saying about Ishmael is not true.\"\n\n### Crossrefs\n- A: [[Jer-43-2|Jer 43:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="71c187a988d0",m="# Psalm 119:146 (New International Version)\nI call out to you; save me<sup>^A</sup>  \n    and I will keep your statutes.\n\n### Crossrefs\n- A: S [[Ps-119-94|ver 94]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

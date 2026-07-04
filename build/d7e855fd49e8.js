@@ -1,0 +1,1 @@
+(function(){var b="d7e855fd49e8",m="# Proverbs 26:28 (New International Version)\nA lying tongue hates those it hurts,  \n    and a flattering mouth<sup>^A</sup> works ruin.\n\n### Crossrefs\n- A: S [[Ps-12-3|Ps 12:3]]; [[Prov-29-5|Pr 29:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

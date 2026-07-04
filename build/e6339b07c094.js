@@ -1,0 +1,1 @@
+(function(){var b="e6339b07c094",m="# 1 Chronicles 7:17 (New International Version)\nThe son of Ulam:\nBedan.\nThese were the sons of Gilead<sup>^A</sup> son of Makir, the son of Manasseh. \n\n### Crossrefs\n- A: S [[Num-26-30|Nu 26:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

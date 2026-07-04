@@ -1,0 +1,1 @@
+(function(){var b="aba759236321",m="# Psalm 61:1 (New International Version)\nPsalm 61\nHear my cry, O God;<sup>^A</sup>  \n    listen to my prayer.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-64-1|Ps 64:1]]\n- B: [[Ps-4-1|Ps 4:1]]; [[Ps-86-6|86:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

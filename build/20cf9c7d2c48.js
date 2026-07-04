@@ -1,0 +1,1 @@
+(function(){var b="20cf9c7d2c48",m="# 2 Chronicles 29:3 (New International Version)\nIn the first month of the first year of his reign, he opened the doors of the temple of the LORD and repaired<sup>^A</sup> them. \n\n### Crossrefs\n- A: [[2Kgs-18-16|2Ki 18:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

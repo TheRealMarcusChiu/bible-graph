@@ -1,0 +1,1 @@
+(function(){var b="7734b6350853",m="# Proverbs 2:15 (New International Version)\nwhose paths are crooked<sup>^A</sup>  \n    and who are devious in their ways.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-125-5|Ps 125:5]]\n- B: [[Prov-21-8|Pr 21:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

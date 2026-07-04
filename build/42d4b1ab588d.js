@@ -1,0 +1,1 @@
+(function(){var b="42d4b1ab588d",m="# 1 Chronicles 27:17 (New International Version)\nover Levi: Hashabiah<sup>^A</sup> son of Kemuel;\nover Aaron: Zadok;<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Chr-26-30|1Ch 26:30]]\n- B: S [[2Sam-8-17|2Sa 8:17]]; S [[1Chr-12-28|1Ch 12:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

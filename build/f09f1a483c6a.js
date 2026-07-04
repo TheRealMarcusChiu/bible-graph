@@ -1,0 +1,1 @@
+(function(){var b="f09f1a483c6a",m="# 2 Kings 21:23 (New International Version)\nAmon's officials conspired against him and assassinated<sup>^A</sup> the king in his palace. \n\n### Crossrefs\n- A: S [[2Kgs-12-20|2Ki 12:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

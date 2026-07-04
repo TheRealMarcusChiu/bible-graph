@@ -1,0 +1,1 @@
+(function(){var b="30b211a33129",m="# 2 Chronicles 32:14 (New International Version)\nWho of all the gods of these nations that my predecessors destroyed has been able to save his people from me? How then can your god deliver you from my hand?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

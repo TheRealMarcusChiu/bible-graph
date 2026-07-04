@@ -1,0 +1,1 @@
+(function(){var b="126b62563702",m="# Daniel 11:13 (New International Version)\nFor the king of the North will muster another army, larger than the first; and after several years, he will advance with a huge army fully equipped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b9d078b89ab8",m="# Proverbs 22:11 (New International Version)\nOne who loves a pure heart and who speaks with grace  \n    will have the king for a friend.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-13|Pr 16:13]]; [[Matt-5-8|Mt 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4fe6224e35fd",m="# Psalm 104:8 (New International Version)\nthey flowed over the mountains,  \n    they went down into the valleys,  \n    to the place you assigned<sup>^A</sup> for them.\n\n### Crossrefs\n- A: [[Ps-33-7|Ps 33:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

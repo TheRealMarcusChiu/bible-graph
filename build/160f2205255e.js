@@ -1,0 +1,1 @@
+(function(){var b="160f2205255e",m="# Nehemiah 13:20 (New International Version)\nOnce or twice the merchants and sellers of all kinds of goods spent the night outside Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

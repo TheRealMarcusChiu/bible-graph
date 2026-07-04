@@ -1,0 +1,1 @@
+(function(){var b="c85f9d15b9b3",m="# Jeremiah 5:8 (New International Version)\nThey are well-fed, lusty stallions,  \n    each neighing for another man's wife.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-29-23|Jer 29:23]]; [[Ezek-22-11|Eze 22:11]]; [[Ezek-33-26|33:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

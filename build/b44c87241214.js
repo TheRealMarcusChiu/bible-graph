@@ -1,0 +1,1 @@
+(function(){var b="b44c87241214",m="# Ezekiel 1:18 (New International Version)\nTheir rims were high and awesome, and all four rims were full of eyes<sup>^A</sup> all around.\n\n### Crossrefs\n- A: [[Rev-4-6|Rev 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

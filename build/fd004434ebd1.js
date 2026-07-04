@@ -1,0 +1,1 @@
+(function(){var b="fd004434ebd1",m="# Job 6:7 (New International Version)\nI refuse to touch it;  \n    such food makes me ill.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-24|Job 3:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

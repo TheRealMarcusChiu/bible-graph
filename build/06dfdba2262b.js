@@ -1,0 +1,1 @@
+(function(){var b="06dfdba2262b",m="# Nehemiah 6:7 (New International Version)\nand have even appointed prophets to make this proclamation about you in Jerusalem: 'There is a king in Judah!' Now this report will get back to the king; so come, let us meet together.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

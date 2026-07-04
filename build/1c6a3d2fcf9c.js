@@ -1,0 +1,1 @@
+(function(){var b="1c6a3d2fcf9c",m="# Proverbs 20:14 (New International Version)\n\"It's no good, it's no good!\" says the buyer--  \n    then goes off and boasts about the purchase.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

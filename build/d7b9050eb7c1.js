@@ -1,0 +1,1 @@
+(function(){var b="d7b9050eb7c1",m="# Proverbs 9:14 (New International Version)\nShe sits at the door of her house,  \n    on a seat at the highest point of the city,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-9-3|ver 3]]; [[Ezek-16-25|Eze 16:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

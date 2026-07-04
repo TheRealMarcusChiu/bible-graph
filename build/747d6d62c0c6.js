@@ -1,0 +1,1 @@
+(function(){var b="747d6d62c0c6",m="# Ecclesiastes 7:21 (New International Version)\nDo not pay attention to every word people say,  \n    or you<sup>^A</sup> may hear your servant cursing you--\n\n### Crossrefs\n- A: [[Prov-30-10|Pr 30:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

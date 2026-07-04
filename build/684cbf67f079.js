@@ -1,0 +1,1 @@
+(function(){var b="684cbf67f079",m="# 2 Kings 4:7 (New International Version)\nShe went and told the man of God,<sup>^A</sup> and he said, \"Go, sell the oil and pay your debts. You and your sons can live on what is left.\"\n\n### Crossrefs\n- A: S [[1Kgs-12-22|1Ki 12:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

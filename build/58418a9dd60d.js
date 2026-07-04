@@ -1,0 +1,1 @@
+(function(){var b="58418a9dd60d",m="# Daniel 12:5 (New International Version)\nThen I, Daniel, looked, and there before me stood two others, one on this bank of the river and one on the opposite bank.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Dan-10-4|Da 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

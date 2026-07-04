@@ -1,0 +1,1 @@
+(function(){var b="9dc4c61d3d65",m="# Jeremiah 30:2 (New International Version)\n\"This is what the LORD, the God of Israel, says: 'Write<sup>^A</sup> in a book all the words I have spoken to you. \n\n### Crossrefs\n- A: S [[Isa-30-8|Isa 30:8]]; S [[Jer-36-2|Jer 36:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

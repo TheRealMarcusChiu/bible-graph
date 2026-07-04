@@ -1,0 +1,1 @@
+(function(){var b="673ed1280b09",m="# 1 Chronicles 2:43 (New International Version)\nThe sons of Hebron:\nKorah, Tappuah, Rekem and Shema.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

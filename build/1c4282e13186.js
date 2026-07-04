@@ -1,0 +1,1 @@
+(function(){var b="1c4282e13186",m="# Ezekiel 46:22 (New International Version)\nIn the four corners of the outer court were enclosed courts, forty cubits long and thirty cubits wide; each of the courts in the four corners was the same size.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

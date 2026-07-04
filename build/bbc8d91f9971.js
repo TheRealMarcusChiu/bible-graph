@@ -1,0 +1,1 @@
+(function(){var b="bbc8d91f9971",m="# Jeremiah 36:20 (New International Version)\nAfter they put the scroll in the room of Elishama the secretary, they went to the king in the courtyard and reported everything to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b2bca0fc3ae3",m="# Proverbs 17:17 (New International Version)\nA friend loves at all times,  \n    and a brother is born for a time of adversity.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-15-21|2Sa 15:21]]; [[Prov-27-10|Pr 27:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b570cc530afa",m="# 2 Chronicles 4:17 (New International Version)\nThe king had them cast in clay molds in the plain of the Jordan between Sukkoth<sup>^A</sup> and Zarethan. \n\n### Crossrefs\n- A: S [[Gen-33-17|Ge 33:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

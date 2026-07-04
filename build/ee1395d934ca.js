@@ -1,0 +1,1 @@
+(function(){var b="ee1395d934ca",m="# 2 Chronicles 6:19 (New International Version)\nYet, LORD my God, give attention to your servant's prayer and his plea for mercy. Hear the cry and the prayer that your servant is praying in your presence.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

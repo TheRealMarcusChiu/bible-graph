@@ -1,0 +1,1 @@
+(function(){var b="78220d137ca3",m="# Psalm 56:11 (New International Version)\nin God I trust and am not afraid.  \n    What can man do to me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

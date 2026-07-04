@@ -1,0 +1,1 @@
+(function(){var b="20bedefb62f1",m="# 2 Kings 14:3 (New International Version)\nHe did what was right in the eyes of the LORD, but not as his father David had done. In everything he followed the example of his father Joash.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a8ff199803aa",m="# Proverbs 30:24 (New International Version)\n\"Four things on earth are small,  \n    yet they are extremely wise:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

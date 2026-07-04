@@ -1,0 +1,1 @@
+(function(){var b="5f9949d0f53f",m="# Ezekiel 1:6 (New International Version)\nbut each of them had four faces<sup>^A</sup> and four wings. \n\n### Crossrefs\n- A: [[Ezek-10-14|Eze 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

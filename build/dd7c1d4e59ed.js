@@ -1,0 +1,1 @@
+(function(){var b="dd7c1d4e59ed",m="# Zechariah 6:6 (New International Version)\nThe one with the black horses is going toward the north country, the one with the white horses toward the west, and the one with the dappled horses toward the south.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

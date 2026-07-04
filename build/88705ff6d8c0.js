@@ -1,0 +1,1 @@
+(function(){var b="88705ff6d8c0",m="# Proverbs 6:12 (New International Version)\nA troublemaker and a villain,  \n    who goes about with a corrupt mouth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

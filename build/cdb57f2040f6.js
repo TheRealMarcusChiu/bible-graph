@@ -1,0 +1,1 @@
+(function(){var b="cdb57f2040f6",m="# 2 Chronicles 15:19 (New International Version)\nThere was no more war until the thirty-fifth year of Asa's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

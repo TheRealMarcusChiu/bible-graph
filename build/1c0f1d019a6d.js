@@ -1,0 +1,1 @@
+(function(){var b="1c0f1d019a6d",m="# Proverbs 19:16 (New International Version)\nWhoever keeps commandments keeps their life,  \n    but whoever shows contempt for their ways will die.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-16-17|Pr 16:17]]; S [[Rom-10-5|Ro 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

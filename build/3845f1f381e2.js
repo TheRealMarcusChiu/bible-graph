@@ -1,0 +1,1 @@
+(function(){var b="3845f1f381e2",m="# Psalm 57:8 (New International Version)\nAwake, my soul!  \n    Awake, harp and lyre!<sup>^A</sup>  \n    I will awaken the dawn.\n\n### Crossrefs\n- A: [[Ps-33-2|Ps 33:2]]; [[Ps-149-3|149:3]]; [[Ps-150-3|150:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

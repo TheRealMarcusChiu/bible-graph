@@ -1,0 +1,1 @@
+(function(){var b="dfc0f38efa89",m="# Proverbs 15:12 (New International Version)\nMockers resent correction,<sup>^A</sup>  \n    so they avoid the wise.\n\n### Crossrefs\n- A: S [[Prov-9-8|Pr 9:8]]; S [[Prov-12-1|12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

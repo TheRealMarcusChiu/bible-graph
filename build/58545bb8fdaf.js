@@ -1,0 +1,1 @@
+(function(){var b="58545bb8fdaf",m="# 1 Chronicles 12:33 (New International Version)\nfrom Zebulun, experienced soldiers prepared for battle with every type of weapon, to help David with undivided loyalty--50,000;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

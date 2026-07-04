@@ -1,0 +1,1 @@
+(function(){var b="2aa0ce858f3f",m="# Proverbs 4:27 (New International Version)\nDo not turn to the right or the left;<sup>^A</sup>  \n    keep your foot from evil.\n\n### Crossrefs\n- A: S [[Lev-10-11|Lev 10:11]]; S [[Deut-5-32|Dt 5:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

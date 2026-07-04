@@ -1,0 +1,1 @@
+(function(){var b="24868c3c641d",m="# 1 Chronicles 2:25 (New International Version)\nThe sons of Jerahmeel the firstborn of Hezron:\nRam his firstborn, Bunah, Oren, Ozem and Ahijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

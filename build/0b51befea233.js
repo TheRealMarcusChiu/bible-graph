@@ -1,0 +1,1 @@
+(function(){var b="0b51befea233",m="# Psalm 136:4 (New International Version)\nto him who alone does great wonders,<sup>^A</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Exod-3-20|Ex 3:20]]; S [[Job-9-10|Job 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

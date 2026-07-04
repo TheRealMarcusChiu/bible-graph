@@ -1,0 +1,1 @@
+(function(){var b="af7bd921d074",m="# Nehemiah 4:9 (New International Version)\nBut we prayed to our God and posted a guard day and night to meet this threat.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

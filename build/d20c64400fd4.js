@@ -1,0 +1,1 @@
+(function(){var b="d20c64400fd4",m="# Proverbs 24:13 (New International Version)\nEat honey, my son, for it is good;  \n    honey from the comb is sweet to your taste.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

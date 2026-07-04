@@ -1,0 +1,1 @@
+(function(){var b="1a620e26d8d6",m="# Psalm 119:126 (New International Version)\nIt is time for you to act, LORD;  \n    your law is being broken.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Num-15-31|Nu 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

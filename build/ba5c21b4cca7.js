@@ -1,0 +1,1 @@
+(function(){var b="ba5c21b4cca7",m="# 2 Chronicles 29:36 (New International Version)\nHezekiah and all the people rejoiced at what God had brought about for his people, because it was done so quickly.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Chr-35-8|2Ch 35:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

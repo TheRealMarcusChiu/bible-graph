@@ -1,0 +1,1 @@
+(function(){var b="39ef894ac425",m="# Job 41:24 (New International Version)\nIts chest is hard as rock,  \n    hard as a lower millstone.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-18-6|Mt 18:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

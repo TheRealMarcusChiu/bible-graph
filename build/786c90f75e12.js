@@ -1,0 +1,1 @@
+(function(){var b="786c90f75e12",m="# 2 Chronicles 20:13 (New International Version)\nAll the men of Judah, with their wives and children and little ones, stood there before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="66bc935c6099",m="# Ezekiel 4:1 (New International Version)\nSiege of Jerusalem Symbolized\n\"Now, son of man, take a block of clay, put it in front of you and draw the city of Jerusalem on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

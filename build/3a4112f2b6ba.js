@@ -1,0 +1,1 @@
+(function(){var b="3a4112f2b6ba",m="# Ezekiel 48:7 (New International Version)\n\"Judah<sup>^A</sup> will have one portion; it will border the territory of Reuben from east to west.\n\n### Crossrefs\n- A: [[Josh-15-1|Jos 15:1-63]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

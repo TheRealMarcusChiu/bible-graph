@@ -1,0 +1,1 @@
+(function(){var b="7bf3567d4e7c",m="# Proverbs 23:32 (New International Version)\nIn the end it bites like a snake  \n    and poisons like a viper.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

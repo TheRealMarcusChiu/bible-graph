@@ -1,0 +1,1 @@
+(function(){var b="fe61f470faba",m="# Psalm 106:12 (New International Version)\nThen they believed his promises  \n    and sang his praise.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-15-1|Ex 15:1-21]]; S [[Ps-105-43|Ps 105:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

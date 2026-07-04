@@ -1,0 +1,1 @@
+(function(){var b="2b571d6ee0ef",m="# 1 Chronicles 8:28 (New International Version)\nAll these were heads of families, chiefs as listed in their genealogy, and they lived in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

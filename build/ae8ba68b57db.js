@@ -1,0 +1,1 @@
+(function(){var b="ae8ba68b57db",m="# 2 Kings 4:24 (New International Version)\nShe saddled the donkey and said to her servant, \"Lead on; don't slow down for me unless I tell you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

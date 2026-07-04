@@ -1,0 +1,1 @@
+(function(){var b="5b54cc4df4fc",m="# Zechariah 11:14 (New International Version)\nThen I broke my second staff called Union, breaking the family bond between Judah and Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

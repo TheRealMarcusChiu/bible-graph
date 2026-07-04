@@ -1,0 +1,1 @@
+(function(){var b="274e23152e9d",m="# Ecclesiastes 4:5 (New International Version)\nFools fold their hands<sup>^A</sup>  \n    and ruin themselves.\n\n### Crossrefs\n- A: S [[Prov-6-10|Pr 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

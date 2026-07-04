@@ -1,0 +1,1 @@
+(function(){var b="0de5193c81cf",m="# 2 Chronicles 24:7 (New International Version)\nNow the sons of that wicked woman Athaliah had broken into the temple of God and had used even its sacred objects for the Baals.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5c4397c97721",m="# 1 Chronicles 6:11 (New International Version)\nAzariah the father of Amariah,\nAmariah the father of Ahitub,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

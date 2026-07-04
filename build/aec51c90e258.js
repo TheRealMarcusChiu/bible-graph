@@ -1,0 +1,1 @@
+(function(){var b="aec51c90e258",m="# Jeremiah 31:1 (New International Version)\n\"At that time,\" declares the LORD, \"I will be the God<sup>^A</sup> of all the families of Israel, and they will be my people.\"\n\n### Crossrefs\n- A: S [[Lev-26-12|Lev 26:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

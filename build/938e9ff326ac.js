@@ -1,0 +1,1 @@
+(function(){var b="938e9ff326ac",m="# Psalm 38:18 (New International Version)\nI confess my iniquity;<sup>^A</sup>  \n    I am troubled by my sin.\n\n### Crossrefs\n- A: S [[Lev-26-40|Lev 26:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

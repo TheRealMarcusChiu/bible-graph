@@ -1,0 +1,1 @@
+(function(){var b="b4c0b770341c",m="# Ezekiel 36:21 (New International Version)\nI had concern for my holy name, which the people of Israel profaned among the nations where they had gone.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-74-18|Ps 74:18]]; [[Isa-48-9|Isa 48:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

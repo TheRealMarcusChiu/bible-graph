@@ -1,0 +1,1 @@
+(function(){var b="9c288df47725",m="# 2 Chronicles 24:16 (New International Version)\nHe was buried with the kings in the City of David, because of the good he had done in Israel for God and his temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b09fddcd086d",m="# Hosea 2:16 (New International Version)\n\"In that day,\" declares the LORD,  \n    \"you will call me 'my husband';<sup>^A</sup>  \n    you will no longer call me 'my master.'\n\n### Crossrefs\n- A: S [[Isa-54-5|Isa 54:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

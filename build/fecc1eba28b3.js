@@ -1,0 +1,1 @@
+(function(){var b="fecc1eba28b3",m="# 2 Chronicles 29:30 (New International Version)\nKing Hezekiah and his officials ordered the Levites to praise the LORD with the words of David and of Asaph the seer. So they sang praises with gladness and bowed down and worshiped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a2bd31b87612",m="# Psalm 48:6 (New International Version)\nTrembling seized<sup>^A</sup> them there,  \n    pain like that of a woman in labor.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-4-14|Job 4:14]]\n- B: S [[Gen-3-16|Ge 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

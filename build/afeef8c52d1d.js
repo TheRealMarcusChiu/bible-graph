@@ -1,0 +1,1 @@
+(function(){var b="afeef8c52d1d",m="# 2 Chronicles 9:23 (New International Version)\nAll the kings<sup>^A</sup> of the earth sought audience with Solomon to hear the wisdom God had put in his heart. \n\n### Crossrefs\n- A: [[1Kgs-4-34|1Ki 4:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

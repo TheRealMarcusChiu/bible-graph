@@ -1,0 +1,1 @@
+(function(){var b="bad4d3d07dfe",m="# Micah 7:11 (New International Version)\nThe day for building your walls<sup>^A</sup> will come,  \n    the day for extending your boundaries.\n\n### Crossrefs\n- A: [[Isa-54-11|Isa 54:11]]; S [[Amos-9-11|Am 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

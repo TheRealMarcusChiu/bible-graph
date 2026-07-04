@@ -1,0 +1,1 @@
+(function(){var b="e572117b8e5e",m="# Nehemiah 10:26 (New International Version)\nAhiah, Hanan, Anan,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

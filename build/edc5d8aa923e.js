@@ -1,0 +1,1 @@
+(function(){var b="edc5d8aa923e",m="# Song of Songs 7:10 (New International Version)\nI belong to my beloved,  \n    and his desire<sup>^A</sup> is for me.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-45-11|Ps 45:11]]\n- B: [[Song-2-16|SS 2:16]]; [[Song-6-3|6:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="79e03905d773",m="# Proverbs 25:28 (New International Version)\nLike a city whose walls are broken through  \n    is a person who lacks self-control.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

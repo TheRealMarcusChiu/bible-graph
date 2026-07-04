@@ -1,0 +1,1 @@
+(function(){var b="a6cca34cfbb3",m="# 2 Chronicles 16:13 (New International Version)\nThen in the forty-first year of his reign Asa died and rested with his ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

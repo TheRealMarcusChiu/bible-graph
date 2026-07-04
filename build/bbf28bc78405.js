@@ -1,0 +1,1 @@
+(function(){var b="bbf28bc78405",m="# Psalm 66:1 (New International Version)\nPsalm 66\nShout for joy to God, all the earth!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-81-1|Ps 81:1]]; [[Ps-84-8|84:8]]; [[Ps-95-1|95:1]]; [[Ps-98-4|98:4]]; [[Ps-100-1|100:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

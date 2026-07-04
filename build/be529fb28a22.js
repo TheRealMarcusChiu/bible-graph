@@ -1,0 +1,1 @@
+(function(){var b="be529fb28a22",m="# Ezra 6:15 (New International Version)\nThe temple was completed on the third day of the month Adar, in the sixth year of the reign of King Darius.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-1-1|Zec 1:1]]; [[Zech-4-9|4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ae26befd0807",m="# Proverbs 12:17 (New International Version)\nAn honest witness tells the truth,  \n    but a false witness tells lies.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-12-2|Ps 12:2]]; [[Prov-14-5|Pr 14:5]], [[Prov-14-25|25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0a8b580ba499",m="# Job 31:31 (New International Version)\nif those of my household have never said,  \n    'Who has not been filled with Job's meat?'<sup>^A</sup>--\n\n### Crossrefs\n- A: S [[Job-22-7|Job 22:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

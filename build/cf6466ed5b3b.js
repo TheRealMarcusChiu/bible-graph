@@ -1,0 +1,1 @@
+(function(){var b="cf6466ed5b3b",m="# Jeremiah 35:1 (New International Version)\nThe Rekabites\nThis is the word that came to Jeremiah from the LORD during the reign of Jehoiakim<sup>^A</sup> son of Josiah king of Judah: \n\n### Crossrefs\n- A: S [[2Chr-36-5|2Ch 36:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

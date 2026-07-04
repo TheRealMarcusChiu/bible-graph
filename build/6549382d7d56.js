@@ -1,0 +1,1 @@
+(function(){var b="6549382d7d56",m="# Zechariah 5:10 (New International Version)\n\"Where are they taking the basket?\" I asked the angel who was speaking to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

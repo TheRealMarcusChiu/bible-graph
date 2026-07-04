@@ -1,0 +1,1 @@
+(function(){var b="596c3e006243",m="# Job 11:4 (New International Version)\nYou say to God, 'My beliefs are flawless<sup>^A</sup>  \n    and I am pure<sup>^B</sup> in your sight.'\n\n### Crossrefs\n- A: [[Job-9-21|Job 9:21]]\n- B: S [[Job-10-7|Job 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

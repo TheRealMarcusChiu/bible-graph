@@ -1,0 +1,1 @@
+(function(){var b="45125263d8cf",m="# Jeremiah 52:33 (New International Version)\nSo Jehoiachin put aside his prison clothes and for the rest of his life ate regularly at the king's table.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-9-7|2Sa 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

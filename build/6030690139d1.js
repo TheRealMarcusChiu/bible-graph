@@ -1,0 +1,1 @@
+(function(){var b="6030690139d1",m="# Psalm 109:6 (New International Version)\nAppoint someone evil to oppose my enemy;  \n    let an accuser<sup>^A</sup> stand at his right hand.\n\n### Crossrefs\n- A: [[1Chr-21-1|1Ch 21:1]]; [[Job-1-6|Job 1:6]]; [[Zech-3-1|Zec 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

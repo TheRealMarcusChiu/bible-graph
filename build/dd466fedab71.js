@@ -1,0 +1,1 @@
+(function(){var b="dd466fedab71",m="# Isaiah 54:15 (New International Version)\nIf anyone does attack you, it will not be my doing;  \n    whoever attacks you will surrender<sup>^A</sup> to you.\n\n### Crossrefs\n- A: [[Isa-41-11|Isa 41:11-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

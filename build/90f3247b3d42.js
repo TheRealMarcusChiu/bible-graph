@@ -1,0 +1,1 @@
+(function(){var b="90f3247b3d42",m="# Isaiah 29:12 (New International Version)\nOr if you give the scroll to someone who cannot read, and say, \"Read this, please,\" they will answer, \"I don't know how to read.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

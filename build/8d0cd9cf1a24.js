@@ -1,0 +1,1 @@
+(function(){var b="8d0cd9cf1a24",m="# Psalm 106:42 (New International Version)\nTheir enemies oppressed<sup>^A</sup> them  \n    and subjected them to their power.\n\n### Crossrefs\n- A: S [[Judg-4-3|Jdg 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

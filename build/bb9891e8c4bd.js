@@ -1,0 +1,1 @@
+(function(){var b="bb9891e8c4bd",m="# Job 20:16 (New International Version)\nHe will suck the poison<sup>^A</sup> of serpents;  \n    the fangs of an adder will kill him.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-32-32|Dt 32:32]]\n- B: [[Deut-32-24|Dt 32:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

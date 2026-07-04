@@ -1,0 +1,1 @@
+(function(){var b="2ad1ad0144ab",m="# Psalm 50:20 (New International Version)\nYou sit and testify against your brother<sup>^A</sup>  \n    and slander your own mother's son.\n\n### Crossrefs\n- A: [[Matt-10-21|Mt 10:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="eed82df9743f",m="# 2 Kings 8:23 (New International Version)\nAs for the other events of Jehoram's reign, and all he did, are they not written in the book of the annals of the kings of Judah?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

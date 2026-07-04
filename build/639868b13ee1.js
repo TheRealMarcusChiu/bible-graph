@@ -1,0 +1,1 @@
+(function(){var b="639868b13ee1",m="# Nehemiah 12:9 (New International Version)\nBakbukiah and Unni, their associates, stood opposite them in the services.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="271483b62dce",m="# 1 Chronicles 23:12 (New International Version)\nKohathites\nThe sons of Kohath:<sup>^A</sup>\nAmram, Izhar, Hebron and Uzziel--four in all.\n\n### Crossrefs\n- A: S [[Gen-46-11|Ge 46:11]]; S [[Exod-6-18|Ex 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9e18a6089574",m="# Psalm 107:24 (New International Version)\nThey saw the works of the LORD,<sup>^A</sup>  \n    his wonderful deeds in the deep.\n\n### Crossrefs\n- A: [[Ps-64-9|Ps 64:9]]; [[Ps-111-2|111:2]]; [[Ps-143-5|143:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

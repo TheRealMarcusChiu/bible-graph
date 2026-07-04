@@ -1,0 +1,1 @@
+(function(){var b="fe0f99c0e54b",m="# Psalm 137:4 (New International Version)\nHow can we sing the songs of the LORD<sup>^A</sup>  \n    while in a foreign land?\n\n### Crossrefs\n- A: S [[Neh-12-46|Ne 12:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

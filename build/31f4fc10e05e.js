@@ -1,0 +1,1 @@
+(function(){var b="31f4fc10e05e",m="# 1 Chronicles 4:26 (New International Version)\nThe descendants of Mishma:\nHammuel his son, Zakkur his son and Shimei his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0d6bb726a32b",m="# Ezekiel 31:7 (New International Version)\nIt was majestic in beauty,  \n    with its spreading boughs,  \nfor its roots went down  \n    to abundant waters.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-14-9|Job 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

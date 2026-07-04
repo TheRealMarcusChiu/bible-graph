@@ -1,0 +1,1 @@
+(function(){var b="93df0ee530a9",m="# Psalm 68:32 (New International Version)\nSing to God, you kingdoms of the earth,<sup>^A</sup>  \n    sing praise<sup>^B</sup> to the Lord,\n\n### Crossrefs\n- A: S [[Ps-46-6|Ps 46:6]]; [[Ps-67-4|67:4]]\n- B: [[Ps-7-17|Ps 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

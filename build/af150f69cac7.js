@@ -1,0 +1,1 @@
+(function(){var b="af150f69cac7",m="# Job 41:28 (New International Version)\nArrows do not make it flee;<sup>^A</sup>  \n    slingstones are like chaff to it.\n\n### Crossrefs\n- A: [[Ps-91-5|Ps 91:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

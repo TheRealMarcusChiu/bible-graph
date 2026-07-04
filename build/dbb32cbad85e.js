@@ -1,0 +1,1 @@
+(function(){var b="dbb32cbad85e",m="# Daniel 1:21 (New International Version)\nAnd Daniel remained there until the first year of King Cyrus.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Chr-36-22|2Ch 36:22]]; [[Dan-6-28|Da 6:28]]; [[Dan-10-1|10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

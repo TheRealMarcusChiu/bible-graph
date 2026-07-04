@@ -1,0 +1,1 @@
+(function(){var b="b7ec88bd4664",m="# Psalm 41:5 (New International Version)\nMy enemies say of me in malice,  \n    \"When will he die and his name perish?<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Ps-38-12|Ps 38:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

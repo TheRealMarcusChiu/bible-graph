@@ -1,0 +1,1 @@
+(function(){var b="570cb22a622c",m="# Zechariah 1:18 (New International Version)\nFour Horns and Four Craftsmen\nThen I looked up, and there before me were four horns.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

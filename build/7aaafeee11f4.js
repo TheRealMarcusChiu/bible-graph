@@ -1,0 +1,1 @@
+(function(){var b="7aaafeee11f4",m="# Proverbs 25:2 (New International Version)\nIt is the glory of God to conceal a matter;  \n    to search out a matter is the glory of kings.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-10|Pr 16:10-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

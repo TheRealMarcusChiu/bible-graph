@@ -1,0 +1,1 @@
+(function(){var b="1fd956dd0607",m="# 1 Chronicles 8:25 (New International Version)\nIphdeiah and Penuel were the sons of Shashak.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

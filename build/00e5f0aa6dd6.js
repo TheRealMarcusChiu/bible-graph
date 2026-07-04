@@ -1,0 +1,1 @@
+(function(){var b="00e5f0aa6dd6",m="# 2 Chronicles 25:6 (New International Version)\nHe also hired a hundred thousand fighting men from Israel for a hundred talents of silver.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

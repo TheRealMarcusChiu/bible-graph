@@ -1,0 +1,1 @@
+(function(){var b="276f8a97eaa8",m="# Job 16:6 (New International Version)\n\"Yet if I speak, my pain is not relieved;  \n    and if I refrain, it does not go away.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-3|Job 6:3]]; S [[Job-7-21|7:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="384b66968c53",m="# 1 Chronicles 8:2 (New International Version)\nNohah the fourth and Rapha the fifth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

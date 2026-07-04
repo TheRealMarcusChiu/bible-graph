@@ -1,0 +1,1 @@
+(function(){var b="09002e55cb0c",m="# 1 Chronicles 7:38 (New International Version)\nThe sons of Jether:\nJephunneh, Pispah and Ara.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

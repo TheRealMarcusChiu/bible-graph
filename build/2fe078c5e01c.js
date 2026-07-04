@@ -1,0 +1,1 @@
+(function(){var b="2fe078c5e01c",m="# Daniel 2:36 (New International Version)\n\"This was the dream, and now we will interpret it to the king.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-40-12|Ge 40:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

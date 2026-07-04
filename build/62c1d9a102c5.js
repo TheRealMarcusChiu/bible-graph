@@ -1,0 +1,1 @@
+(function(){var b="62c1d9a102c5",m="# Psalm 119:60 (New International Version)\nI will hasten and not delay  \n    to obey your commands.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-115|ver 115]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

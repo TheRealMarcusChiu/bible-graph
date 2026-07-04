@@ -1,0 +1,1 @@
+(function(){var b="13421362d547",m="# Nehemiah 12:19 (New International Version)\nof Joiarib's, Mattenai;\nof Jedaiah's, Uzzi;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1cecd18ef5be",m="# Psalm 73:23 (New International Version)\nYet I am always with you;  \n    you hold me by my right hand.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-48-13|Ge 48:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

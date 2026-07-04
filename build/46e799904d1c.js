@@ -1,0 +1,1 @@
+(function(){var b="46e799904d1c",m="# Psalm 77:10 (New International Version)\nThen I thought, \"To this I will appeal:  \n    the years when the Most High stretched out his right hand.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-15-6|Ex 15:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

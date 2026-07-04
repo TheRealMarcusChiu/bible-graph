@@ -1,0 +1,1 @@
+(function(){var b="461f2e5d14ca",m="# 2 Chronicles 32:16 (New International Version)\nSennacherib's officers spoke further against the LORD God and against his servant Hezekiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="39de6dd8c646",m="# Job 11:12 (New International Version)\nBut the witless can no more become wise  \n    than a wild donkey's colt<sup>^A</sup> can be born human.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-16-12|Ge 16:12]]\n- B: S [[2Chr-6-36|2Ch 6:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

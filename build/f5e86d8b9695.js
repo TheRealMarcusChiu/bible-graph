@@ -1,0 +1,1 @@
+(function(){var b="f5e86d8b9695",m="# 1 Chronicles 6:24 (New International Version)\nTahath his son, Uriel<sup>^A</sup> his son,\nUzziah his son and Shaul his son.\n\n### Crossrefs\n- A: [[1Chr-15-5|1Ch 15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

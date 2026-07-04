@@ -1,0 +1,1 @@
+(function(){var b="68ccd453b706",m="# 2 Chronicles 25:17 (New International Version)\nAfter Amaziah king of Judah consulted his advisers, he sent this challenge to Jehoash son of Jehoahaz, the son of Jehu, king of Israel: \"Come, let us face each other in battle.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

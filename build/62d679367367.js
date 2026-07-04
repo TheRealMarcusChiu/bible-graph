@@ -1,0 +1,1 @@
+(function(){var b="62d679367367",m="# Ecclesiastes 2:5 (New International Version)\nI made gardens and parks and planted all kinds of fruit trees in them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

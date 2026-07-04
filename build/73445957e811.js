@@ -1,0 +1,1 @@
+(function(){var b="73445957e811",m="# Hosea 9:14 (New International Version)\nGive them, LORD--  \n    what will you give them?  \nGive them wombs that miscarry  \n    and breasts that are dry.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Hos-9-11|ver 11]]; [[Luke-23-29|Lk 23:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

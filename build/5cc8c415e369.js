@@ -1,0 +1,1 @@
+(function(){var b="5cc8c415e369",m="# 1 Chronicles 11:24 (New International Version)\nSuch were the exploits of Benaiah son of Jehoiada; he too was as famous as the three mighty warriors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

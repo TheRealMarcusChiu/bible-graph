@@ -1,0 +1,1 @@
+(function(){var b="81fc7a4a2aac",m="# Proverbs 11:9 (New International Version)\nWith their mouths the godless destroy their neighbors,  \n    but through knowledge the righteous escape.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-12-6|Pr 12:6]]; [[Jer-45-5|Jer 45:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

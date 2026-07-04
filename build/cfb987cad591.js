@@ -1,0 +1,1 @@
+(function(){var b="cfb987cad591",m="# 2 Chronicles 24:8 (New International Version)\nAt the king's command, a chest was made and placed outside, at the gate of the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

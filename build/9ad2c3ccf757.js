@@ -1,0 +1,1 @@
+(function(){var b="9ad2c3ccf757",m="# 2 Chronicles 33:25 (New International Version)\nThen the people<sup>^A</sup> of the land killed all who had plotted against King Amon, and they made Josiah his son king in his place.\n\n### Crossrefs\n- A: S [[2Chr-22-1|2Ch 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

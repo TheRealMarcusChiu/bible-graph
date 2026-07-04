@@ -1,0 +1,1 @@
+(function(){var b="3ab623105979",m="# 2 Chronicles 12:4 (New International Version)\nhe captured the fortified cities<sup>^A</sup> of Judah and came as far as Jerusalem.\n\n### Crossrefs\n- A: S [[2Chr-11-10|2Ch 11:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d8986cfb52f0",m="# Ezekiel 33:30 (New International Version)\n\"As for you, son of man, your people are talking together about you by the walls and at the doors of the houses, saying to each other, 'Come and hear the message that has come from the LORD.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

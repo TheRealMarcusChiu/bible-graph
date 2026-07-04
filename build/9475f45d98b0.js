@@ -1,0 +1,1 @@
+(function(){var b="9475f45d98b0",m="# Nehemiah 12:41 (New International Version)\nas well as the priests--Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah and Hananiah with their trumpets--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

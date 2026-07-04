@@ -1,0 +1,1 @@
+(function(){var b="00d386afeee8",m="# 1 Chronicles 4:20 (New International Version)\nThe sons of Shimon:\nAmnon, Rinnah, Ben-Hanan and Tilon.\nThe descendants of Ishi:\nZoheth and Ben-Zoheth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cea1d97ef0ba",m="# Proverbs 17:7 (New International Version)\nEloquent lips are unsuited to a godless fool--  \n    how much worse lying lips to a ruler!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-10|Pr 16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="602abbde82d2",m="# Nehemiah 12:21 (New International Version)\nof Hilkiah's, Hashabiah;\nof Jedaiah's, Nethanel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

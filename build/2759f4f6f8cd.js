@@ -1,0 +1,1 @@
+(function(){var b="2759f4f6f8cd",m="# 1 Chronicles 29:30 (New International Version)\ntogether with the details of his reign and power, and the circumstances that surrounded him and Israel and the kingdoms of all the other lands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="632b3955607f",m="# Nehemiah 12:5 (New International Version)\nMijamin, Moadiah, Bilgah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

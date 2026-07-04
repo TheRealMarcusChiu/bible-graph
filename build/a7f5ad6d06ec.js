@@ -1,0 +1,1 @@
+(function(){var b="a7f5ad6d06ec",m="# Psalm 139:7 (New International Version)\nWhere can I go from your Spirit?  \n    Where can I flee<sup>^A</sup> from your presence?\n\n### Crossrefs\n- A: [[Jer-23-24|Jer 23:24]]; [[Jonah-1-3|Jnh 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8fa0702908de",m="# 1 Chronicles 6:8 (New International Version)\nAhitub the father of Zadok,<sup>^A</sup>\nZadok the father of Ahimaaz,\n\n### Crossrefs\n- A: S [[2Sam-8-17|2Sa 8:17]]; S [[1Chr-12-28|1Ch 12:28]]; S [[Ezra-7-2|Ezr 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

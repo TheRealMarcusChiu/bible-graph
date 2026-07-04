@@ -1,0 +1,1 @@
+(function(){var b="8c6eaa818513",m="# Psalm 86:2 (New International Version)\nGuard my life, for I am faithful to you;  \n    save your servant who trusts in you.<sup>^A</sup>  \nYou are my God; \n\n### Crossrefs\n- A: [[Ps-25-2|Ps 25:2]]; [[Ps-31-14|31:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

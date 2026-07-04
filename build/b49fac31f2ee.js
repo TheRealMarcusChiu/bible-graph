@@ -1,0 +1,1 @@
+(function(){var b="b49fac31f2ee",m="# Ecclesiastes 9:4 (New International Version)\nAnyone who is among the living has hope--even a live dog is better off than a dead lion!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

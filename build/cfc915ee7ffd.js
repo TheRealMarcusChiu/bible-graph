@@ -1,0 +1,1 @@
+(function(){var b="cfc915ee7ffd",m="# 2 Chronicles 23:21 (New International Version)\nAll the people of the land rejoiced, and the city was calm, because Athaliah had been slain with the sword.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Chr-22-1|2Ch 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

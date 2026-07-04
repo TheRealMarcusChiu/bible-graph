@@ -1,0 +1,1 @@
+(function(){var b="66f211876b90",m="# 2 Chronicles 30:2 (New International Version)\nThe king and his officials and the whole assembly in Jerusalem decided to celebrate<sup>^A</sup> the Passover in the second month. \n\n### Crossrefs\n- A: [[Num-9-10|Nu 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

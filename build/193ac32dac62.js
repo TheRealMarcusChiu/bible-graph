@@ -1,0 +1,1 @@
+(function(){var b="193ac32dac62",m="# Ezekiel 42:11 (New International Version)\nwith a passageway in front of them. These were like the rooms on the north; they had the same length and width, with similar exits and dimensions. Similar to the doorways on the north";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

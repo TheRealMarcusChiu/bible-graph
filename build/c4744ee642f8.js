@@ -1,0 +1,1 @@
+(function(){var b="c4744ee642f8",m="# Psalm 108:11 (New International Version)\nIs it not you, God, you who have rejected us  \n    and no longer go out with our armies?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-44-9|Ps 44:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

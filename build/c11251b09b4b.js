@@ -1,0 +1,1 @@
+(function(){var b="c11251b09b4b",m="# Job 32:16 (New International Version)\nMust I wait, now that they are silent,  \n    now that they stand there with no reply?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

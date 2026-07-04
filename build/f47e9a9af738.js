@@ -1,0 +1,1 @@
+(function(){var b="f47e9a9af738",m="# 2 Chronicles 8:9 (New International Version)\nBut Solomon did not make slaves of the Israelites for his work; they were his fighting men, commanders of his captains, and commanders of his chariots and charioteers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

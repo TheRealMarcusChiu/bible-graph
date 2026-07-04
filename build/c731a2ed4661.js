@@ -1,0 +1,1 @@
+(function(){var b="c731a2ed4661",m="# 1 Chronicles 2:24 (New International Version)\nAfter Hezron died in Caleb Ephrathah, Abijah the wife of Hezron bore him Ashhur<sup>^A</sup> the father of Tekoa.\n\n### Crossrefs\n- A: [[1Chr-4-5|1Ch 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

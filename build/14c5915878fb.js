@@ -1,0 +1,1 @@
+(function(){var b="14c5915878fb",m="# Jeremiah 34:11 (New International Version)\nBut afterward they changed their minds<sup>^A</sup> and took back the slaves they had freed and enslaved them again.\n\n### Crossrefs\n- A: [[Ps-78-37|Ps 78:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

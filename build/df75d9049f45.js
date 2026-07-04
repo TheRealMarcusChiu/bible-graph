@@ -1,0 +1,1 @@
+(function(){var b="df75d9049f45",m="# Proverbs 31:23 (New International Version)\nHer husband is respected at the city gate,  \n    where he takes his seat among the elders<sup>^A</sup> of the land.\n\n### Crossrefs\n- A: S [[Exod-3-16|Ex 3:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

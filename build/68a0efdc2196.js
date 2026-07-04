@@ -1,0 +1,1 @@
+(function(){var b="68a0efdc2196",m="# Proverbs 26:9 (New International Version)\nLike a thornbush in a drunkard's hand  \n    is a proverb in the mouth of a fool.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-26-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

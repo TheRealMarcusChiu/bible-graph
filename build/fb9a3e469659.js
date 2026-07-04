@@ -1,0 +1,1 @@
+(function(){var b="fb9a3e469659",m="# Ezekiel 40:15 (New International Version)\nThe distance from the entrance of the gateway to the far end of its portico was fifty cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

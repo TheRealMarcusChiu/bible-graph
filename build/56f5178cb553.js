@@ -1,0 +1,1 @@
+(function(){var b="56f5178cb553",m="# Proverbs 14:24 (New International Version)\nThe wealth of the wise is their crown,  \n    but the folly of fools yields folly.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-14-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

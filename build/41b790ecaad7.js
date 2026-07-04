@@ -1,0 +1,1 @@
+(function(){var b="41b790ecaad7",m="# 1 Chronicles 26:27 (New International Version)\nSome of the plunder taken in battle they dedicated for the repair of the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

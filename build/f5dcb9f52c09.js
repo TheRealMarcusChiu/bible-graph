@@ -1,0 +1,1 @@
+(function(){var b="f5dcb9f52c09",m="# 2 Kings 6:19 (New International Version)\nElisha told them, \"This is not the road and this is not the city. Follow me, and I will lead you to the man you are looking for.\" And he led them to Samaria.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

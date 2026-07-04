@@ -1,0 +1,1 @@
+(function(){var b="a1a3bb36dff3",m="# Job 38:38 (New International Version)\nwhen the dust becomes hard<sup>^A</sup>  \n    and the clods of earth stick together?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Lev-26-19|Lev 26:19]]\n- B: [[1Kgs-18-45|1Ki 18:45]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ef2339c3e2e7",m="# Jeremiah 16:20 (New International Version)\nDo people make their own gods?  \n    Yes, but they are not gods!\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-115-4|Ps 115:4-7]]; S [[Jer-2-11|Jer 2:11]]; [[Rom-1-23|Ro 1:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

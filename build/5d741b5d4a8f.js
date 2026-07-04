@@ -1,0 +1,1 @@
+(function(){var b="5d741b5d4a8f",m="# Ezekiel 29:13 (New International Version)\n\"'Yet this is what the Sovereign LORD says: At the end of forty years I will gather the Egyptians from the nations where they were scattered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

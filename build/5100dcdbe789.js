@@ -1,0 +1,1 @@
+(function(){var b="5100dcdbe789",m="# Psalm 106:20 (New International Version)\nThey exchanged their glorious God<sup>^A</sup>  \n    for an image of a bull, which eats grass.\n\n### Crossrefs\n- A: [[Jer-2-11|Jer 2:11]]; [[Rom-1-23|Ro 1:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

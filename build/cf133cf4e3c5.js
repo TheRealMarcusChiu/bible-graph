@@ -1,0 +1,1 @@
+(function(){var b="cf133cf4e3c5",m="# 1 Chronicles 2:34 (New International Version)\nSheshan had no sons--only daughters.\nHe had an Egyptian servant named Jarha.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

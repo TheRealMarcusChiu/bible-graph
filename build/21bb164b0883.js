@@ -1,0 +1,1 @@
+(function(){var b="21bb164b0883",m="# Ecclesiastes 3:12 (New International Version)\nI know that there is nothing better for people than to be happy and to do good while they live.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

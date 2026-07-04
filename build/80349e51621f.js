@@ -1,0 +1,1 @@
+(function(){var b="80349e51621f",m="# 2 Chronicles 24:13 (New International Version)\nThe men in charge of the work were diligent, and the repairs progressed under them. They rebuilt the temple of God according to its original design and reinforced it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

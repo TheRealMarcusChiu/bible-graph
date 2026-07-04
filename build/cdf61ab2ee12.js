@@ -1,0 +1,1 @@
+(function(){var b="cdf61ab2ee12",m="# Proverbs 12:24 (New International Version)\nDiligent hands will rule,  \n    but laziness ends in forced labor.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-4|Pr 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

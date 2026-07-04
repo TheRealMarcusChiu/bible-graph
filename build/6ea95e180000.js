@@ -1,0 +1,1 @@
+(function(){var b="6ea95e180000",m="# Ezekiel 27:34 (New International Version)\nNow you are shattered by the sea  \n    in the depths of the waters;  \nyour wares and all your company  \n    have gone down with you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-9-4|Zec 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

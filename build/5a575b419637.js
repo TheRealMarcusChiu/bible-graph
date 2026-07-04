@@ -1,0 +1,1 @@
+(function(){var b="5a575b419637",m="# Ezekiel 47:6 (New International Version)\nHe asked me, \"Son of man, do you see this?\"\nThen he led me back to the bank of the river.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

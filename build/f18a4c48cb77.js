@@ -1,0 +1,1 @@
+(function(){var b="f18a4c48cb77",m="# 2 Chronicles 11:13 (New International Version)\nThe priests and Levites from all their districts throughout Israel sided with him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

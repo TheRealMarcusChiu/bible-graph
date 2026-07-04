@@ -1,0 +1,1 @@
+(function(){var b="2041bc852222",m="# 2 Kings 13:18 (New International Version)\nThen he said, \"Take the arrows,\" and the king took them. Elisha told him, \"Strike the ground.\" He struck it three times and stopped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e1f27fd6d1fd",m="# Psalm 73:21 (New International Version)\nWhen my heart was grieved  \n    and my spirit embittered,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

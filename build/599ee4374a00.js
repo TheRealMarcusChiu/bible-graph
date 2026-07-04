@@ -1,0 +1,1 @@
+(function(){var b="599ee4374a00",m="# 1 Chronicles 14:6 (New International Version)\nNogah, Nepheg, Japhia,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20b4e8126154",m="# Ezra 2:67 (New International Version)\n435 camels and 6,720 donkeys.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

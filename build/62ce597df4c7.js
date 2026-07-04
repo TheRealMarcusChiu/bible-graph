@@ -1,0 +1,1 @@
+(function(){var b="62ce597df4c7",m="# Ezekiel 37:15 (New International Version)\nOne Nation Under One King\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

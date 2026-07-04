@@ -1,0 +1,1 @@
+(function(){var b="204980e8f4d5",m="# 2 Kings 24:11 (New International Version)\nand Nebuchadnezzar himself came up to the city while his officers were besieging it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

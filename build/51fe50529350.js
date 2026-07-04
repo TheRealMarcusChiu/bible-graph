@@ -1,0 +1,1 @@
+(function(){var b="51fe50529350",m="# Nehemiah 7:70 (New International Version)\nSome of the heads of the families contributed to the work. The governor gave to the treasury 1,000 darics of gold, 50 bowls and 530 garments for priests.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

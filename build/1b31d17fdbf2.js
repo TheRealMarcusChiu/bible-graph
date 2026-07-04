@@ -1,0 +1,1 @@
+(function(){var b="1b31d17fdbf2",m="# Jeremiah 37:6 (New International Version)\nThen the word of the LORD came to Jeremiah the prophet:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

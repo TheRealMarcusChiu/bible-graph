@@ -1,0 +1,1 @@
+(function(){var b="aeefc6fc5b6f",m="# Proverbs 25:21 (New International Version)\nIf your enemy is hungry, give him food to eat;  \n    if he is thirsty, give him water to drink.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

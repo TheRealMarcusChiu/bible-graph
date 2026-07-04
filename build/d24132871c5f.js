@@ -1,0 +1,1 @@
+(function(){var b="d24132871c5f",m="# Lamentations 3:7 (New International Version)\nHe has walled me in so I cannot escape;<sup>^A</sup>  \n    he has weighed me down with chains.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-3-23|Job 3:23]]\n- B: [[Jer-40-4|Jer 40:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

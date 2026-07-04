@@ -1,0 +1,1 @@
+(function(){var b="d314cf55bca9",m="# Proverbs 25:10 (New International Version)\nor the one who hears it may shame you  \n    and the charge against you will stand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

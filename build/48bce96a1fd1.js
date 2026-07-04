@@ -1,0 +1,1 @@
+(function(){var b="48bce96a1fd1",m="# Proverbs 24:5 (New International Version)\nThe wise prevail through great power,  \n    and those who have knowledge muster their strength.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

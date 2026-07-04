@@ -1,0 +1,1 @@
+(function(){var b="9a0ab32e1440",m="# Amos 5:14 (New International Version)\nSeek good, not evil,  \n    that you may live.<sup>^A</sup>  \nThen the LORD God Almighty will be with you,  \n    just as you say he is.\n\n### Crossrefs\n- A: S [[Amos-5-6|ver 6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a84cda618280",m="# 2 Kings 13:24 (New International Version)\nHazael king of Aram died, and Ben-Hadad<sup>^A</sup> his son succeeded him as king. \n\n### Crossrefs\n- A: [[2Kgs-13-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

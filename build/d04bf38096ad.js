@@ -1,0 +1,1 @@
+(function(){var b="d04bf38096ad",m="# Psalm 48:3 (New International Version)\nGod is in her citadels;<sup>^A</sup>  \n    he has shown himself to be her fortress.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-48-13|ver 13]]; [[Ps-122-7|Ps 122:7]]\n- B: [[Ps-18-2|Ps 18:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

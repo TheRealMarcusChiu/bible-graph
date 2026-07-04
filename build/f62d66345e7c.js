@@ -1,0 +1,1 @@
+(function(){var b="f62d66345e7c",m="# Ezra 5:4 (New International Version)\nThey also asked, \"What are the names of those who are constructing this building?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

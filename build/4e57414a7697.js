@@ -1,0 +1,1 @@
+(function(){var b="4e57414a7697",m="# 2 Kings 6:13 (New International Version)\n\"Go, find out where he is,\" the king ordered, \"so I can send men and capture him.\" The report came back: \"He is in Dothan.\"<sup>^A</sup> \n\n### Crossrefs\n- A: [[Gen-37-17|Ge 37:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

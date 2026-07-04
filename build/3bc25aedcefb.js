@@ -1,0 +1,1 @@
+(function(){var b="3bc25aedcefb",m="# Ezekiel 42:12 (New International Version)\nwere the doorways of the rooms on the south. There was a doorway at the beginning of the passageway that was parallel to the corresponding wall extending eastward, by which one enters the rooms.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

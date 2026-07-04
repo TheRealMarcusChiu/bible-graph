@@ -1,0 +1,1 @@
+(function(){var b="5a45c533ef70",m="# 1 Chronicles 9:15 (New International Version)\nBakbakkar, Heresh, Galal and Mattaniah<sup>^A</sup> son of Mika, the son of Zikri, the son of Asaph; \n\n### Crossrefs\n- A: [[2Chr-20-14|2Ch 20:14]]; [[Neh-11-22|Ne 11:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

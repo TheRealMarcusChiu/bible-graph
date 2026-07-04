@@ -1,0 +1,1 @@
+(function(){var b="6711d81cc6fe",m="# Job 17:4 (New International Version)\nYou have closed their minds to understanding;<sup>^A</sup>  \n    therefore you will not let them triumph.\n\n### Crossrefs\n- A: S [[Job-12-12|Job 12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

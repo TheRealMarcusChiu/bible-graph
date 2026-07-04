@@ -1,0 +1,1 @@
+(function(){var b="c25f28400821",m="# 2 Chronicles 6:3 (New International Version)\nWhile the whole assembly of Israel was standing there, the king turned around and blessed them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

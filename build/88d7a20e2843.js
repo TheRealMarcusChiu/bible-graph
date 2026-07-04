@@ -1,0 +1,1 @@
+(function(){var b="88d7a20e2843",m="# Proverbs 17:26 (New International Version)\nIf imposing a fine on the innocent is not good,<sup>^A</sup>  \n    surely to flog honest officials is not right.\n\n### Crossrefs\n- A: S [[Ps-94-21|Ps 94:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

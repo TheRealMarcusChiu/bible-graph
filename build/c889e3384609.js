@@ -1,0 +1,1 @@
+(function(){var b="c889e3384609",m="# Job 29:8 (New International Version)\nthe young men saw me and stepped aside<sup>^A</sup>  \n    and the old men rose to their feet;<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Tim-5-1|1Ti 5:1]]\n- B: S [[Lev-19-32|Lev 19:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

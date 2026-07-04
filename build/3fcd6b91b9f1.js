@@ -1,0 +1,1 @@
+(function(){var b="3fcd6b91b9f1",m="# Ezekiel 10:20 (New International Version)\nThese were the living creatures I had seen beneath the God of Israel by the Kebar River,<sup>^A</sup> and I realized that they were cherubim. \n\n### Crossrefs\n- A: [[Ezek-1-1|Eze 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

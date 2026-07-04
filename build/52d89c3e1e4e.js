@@ -1,0 +1,1 @@
+(function(){var b="52d89c3e1e4e",m="# Psalm 8:7 (New International Version)\nall flocks and herds,<sup>^A</sup>  \n    and the animals of the wild,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Gen-13-5|Ge 13:5]]; [[Gen-26-14|26:14]]\n- B: S [[Gen-2-19|Ge 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

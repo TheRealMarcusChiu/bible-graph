@@ -1,0 +1,1 @@
+(function(){var b="a379f914cdd9",m="# 1 Chronicles 24:27 (New International Version)\nThe sons of Merari:\nfrom Jaaziah: Beno, Shoham, Zakkur and Ibri.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

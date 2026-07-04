@@ -1,0 +1,1 @@
+(function(){var b="711bdf327f1b",m="# Lamentations 3:57 (New International Version)\nYou came near<sup>^A</sup> when I called you,  \n    and you said, \"Do not fear.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-46-1|Ps 46:1]]\n- B: [[Isa-41-10|Isa 41:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

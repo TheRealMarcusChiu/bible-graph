@@ -1,0 +1,1 @@
+(function(){var b="694ca498cb4f",m="# 2 Chronicles 9:28 (New International Version)\nSolomon's horses were imported from Egypt and from all other countries.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

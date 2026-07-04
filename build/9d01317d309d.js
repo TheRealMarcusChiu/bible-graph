@@ -1,0 +1,1 @@
+(function(){var b="9d01317d309d",m="# Proverbs 21:11 (New International Version)\nWhen a mocker is punished, the simple gain wisdom;  \n    by paying attention to the wise they get knowledge.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-19-25|Pr 19:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

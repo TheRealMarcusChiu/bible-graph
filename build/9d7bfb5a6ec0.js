@@ -1,0 +1,1 @@
+(function(){var b="9d7bfb5a6ec0",m="# Psalm 93:2 (New International Version)\nYour throne was established<sup>^A</sup> long ago;  \n    you are from all eternity.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Sam-7-16|2Sa 7:16]]\n- B: S [[Gen-21-33|Ge 21:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

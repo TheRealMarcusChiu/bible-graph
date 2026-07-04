@@ -1,0 +1,1 @@
+(function(){var b="ae2daed93440",m="# Proverbs 1:29 (New International Version)\nsince they hated knowledge  \n    and did not choose to fear the LORD.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-21-14|Job 21:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

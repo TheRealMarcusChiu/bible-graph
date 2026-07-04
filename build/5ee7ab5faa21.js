@@ -1,0 +1,1 @@
+(function(){var b="5ee7ab5faa21",m="# Psalm 89:39 (New International Version)\nYou have renounced the covenant with your servant  \n    and have defiled his crown in the dust.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Lam-5-16|La 5:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9d83afc5a5c1",m="# Ezra 6:2 (New International Version)\nA scroll was found in the citadel of Ecbatana in the province of Media, and this was written on it:\nMemorandum:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

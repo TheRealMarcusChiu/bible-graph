@@ -1,0 +1,1 @@
+(function(){var b="bd57496ba30a",m="# Proverbs 20:18 (New International Version)\nPlans are established by seeking advice;  \n    so if you wage war, obtain guidance.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-11-14|Pr 11:14]]; [[Prov-24-6|24:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

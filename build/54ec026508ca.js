@@ -1,0 +1,1 @@
+(function(){var b="54ec026508ca",m="# Psalm 111:3 (New International Version)\nGlorious and majestic are his deeds,  \n    and his righteousness endures<sup>^A</sup> forever.\n\n### Crossrefs\n- A: [[Ps-112-3|Ps 112:3]], [[Ps-112-9|9]]; [[Ps-119-142|119:142]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

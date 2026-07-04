@@ -1,0 +1,1 @@
+(function(){var b="b2710118d820",m="# Ezekiel 9:1 (New International Version)\nJudgment on the Idolaters\nThen I heard him call out in a loud voice, \"Bring near those who are appointed to execute judgment on the city, each with a weapon in his hand.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

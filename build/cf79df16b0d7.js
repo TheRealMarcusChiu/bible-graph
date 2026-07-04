@@ -1,0 +1,1 @@
+(function(){var b="cf79df16b0d7",m="# 2 Chronicles 10:3 (New International Version)\nSo they sent for Jeroboam, and he and all Israel<sup>^A</sup> went to Rehoboam and said to him: \n\n### Crossrefs\n- A: S [[1Chr-9-1|1Ch 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

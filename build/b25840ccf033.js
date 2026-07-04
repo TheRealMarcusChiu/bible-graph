@@ -1,0 +1,1 @@
+(function(){var b="b25840ccf033",m="# Psalm 91:7 (New International Version)\nA thousand may fall at your side,  \n    ten thousand at your right hand,  \n    but it will not come near you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

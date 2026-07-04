@@ -1,0 +1,1 @@
+(function(){var b="970ad42ebe05",m="# Psalm 67:5 (New International Version)\nMay the peoples praise you, God;  \n    may all the peoples praise you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a7a846d0270",m="# Job 39:8 (New International Version)\nIt ranges the hills<sup>^A</sup> for its pasture  \n    and searches for any green thing.\n\n### Crossrefs\n- A: [[Isa-32-20|Isa 32:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

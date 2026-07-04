@@ -1,0 +1,1 @@
+(function(){var b="0fda057e7db8",m="# Psalm 80:11 (New International Version)\nIts branches reached as far as the Sea,  \n    its shoots as far as the River.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-72-8|Ps 72:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="115aaef00dfa",m="# Job 24:10 (New International Version)\nLacking clothes, they go about naked;<sup>^A</sup>  \n    they carry the sheaves,<sup>^B</sup> but still go hungry.\n\n### Crossrefs\n- A: [[Deut-24-12|Dt 24:12-13]]\n- B: S [[Lev-19-9|Lev 19:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

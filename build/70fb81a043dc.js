@@ -1,0 +1,1 @@
+(function(){var b="70fb81a043dc",m="# Psalm 87:1 (New International Version)\nPsalm 87\nHe has founded his city on the holy mountain.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-48-1|Ps 48:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

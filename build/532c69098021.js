@@ -1,0 +1,1 @@
+(function(){var b="532c69098021",m="# Job 19:28 (New International Version)\n\"If you say, 'How we will hound<sup>^A</sup> him,  \n    since the root of the trouble lies in him,'\n\n### Crossrefs\n- A: S [[Job-13-25|Job 13:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

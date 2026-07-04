@@ -1,0 +1,1 @@
+(function(){var b="9a75434d7835",m="# Job 15:2 (New International Version)\n\"Would a wise person answer with empty notions  \n    or fill their belly with the hot east wind?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-41-6|Ge 41:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

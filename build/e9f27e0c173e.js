@@ -1,0 +1,1 @@
+(function(){var b="e9f27e0c173e",m="# 1 Chronicles 1:36 (New International Version)\nThe sons of Eliphaz:\nTeman, Omar, Zepho, Gatam and Kenaz;\nby Timna: Amalek.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-17-14|Ex 17:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

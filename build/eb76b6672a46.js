@@ -1,0 +1,1 @@
+(function(){var b="eb76b6672a46",m="# Proverbs 12:26 (New International Version)\nThe righteous choose their friends carefully,  \n    but the way of the wicked leads them astray.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-95-10|Ps 95:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

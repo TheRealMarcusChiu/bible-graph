@@ -1,0 +1,1 @@
+(function(){var b="0c617b47c1a3",m="# Ecclesiastes 7:3 (New International Version)\nFrustration is better than laughter,<sup>^A</sup>  \n    because a sad face is good for the heart.\n\n### Crossrefs\n- A: S [[Prov-14-13|Pr 14:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

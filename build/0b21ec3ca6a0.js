@@ -1,0 +1,1 @@
+(function(){var b="0b21ec3ca6a0",m="# Ezekiel 3:25 (New International Version)\nAnd you, son of man, they will tie with ropes; you will be bound so that you cannot go out among the people.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-4-8|Eze 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

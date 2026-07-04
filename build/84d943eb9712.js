@@ -1,0 +1,1 @@
+(function(){var b="84d943eb9712",m="# Job 41:9 (New International Version)\nAny hope of subduing it is false;  \n    the mere sight of it is overpowering.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-40-16|Job 40:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

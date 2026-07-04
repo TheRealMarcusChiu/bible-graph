@@ -1,0 +1,1 @@
+(function(){var b="e061edeaf00c",m="# Ezekiel 24:15 (New International Version)\nEzekiel's Wife Dies\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

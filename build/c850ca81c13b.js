@@ -1,0 +1,1 @@
+(function(){var b="c850ca81c13b",m="# 1 Chronicles 29:5 (New International Version)\nfor the gold work and the silver work, and for all the work to be done by the craftsmen. Now, who is willing to consecrate themselves to the LORD today?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

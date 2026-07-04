@@ -1,0 +1,1 @@
+(function(){var b="f7fbcc678a5f",m="# 1 Chronicles 25:7 (New International Version)\nAlong with their relatives--all of them trained and skilled in music for the LORD--they numbered 288.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

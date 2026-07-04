@@ -1,0 +1,1 @@
+(function(){var b="09dcde1eb115",m="# Song of Songs 1:11 (New International Version)\nWe will make you earrings of gold,  \n    studded with silver.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

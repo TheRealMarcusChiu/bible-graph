@@ -1,0 +1,1 @@
+(function(){var b="5f24732955a8",m="# Ezekiel 24:10 (New International Version)\nSo heap on the wood  \n    and kindle the fire.  \nCook the meat well,  \n    mixing in the spices;  \n    and let the bones be charred.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

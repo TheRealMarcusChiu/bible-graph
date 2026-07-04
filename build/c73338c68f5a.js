@@ -1,0 +1,1 @@
+(function(){var b="c73338c68f5a",m="# Nehemiah 3:23 (New International Version)\nBeyond them, Benjamin and Hasshub made repairs in front of their house; and next to them, Azariah son of Maaseiah, the son of Ananiah, made repairs beside his house.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

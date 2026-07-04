@@ -1,0 +1,1 @@
+(function(){var b="451958fbeb1f",m="# Proverbs 11:13 (New International Version)\nA gossip betrays a confidence,<sup>^A</sup>  \n    but a trustworthy person keeps a secret.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-20-19|Pr 20:19]]\n- B: S [[Prov-10-14|Pr 10:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

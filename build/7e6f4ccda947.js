@@ -1,0 +1,1 @@
+(function(){var b="7e6f4ccda947",m="# Ezekiel 34:11 (New International Version)\n\"'For this is what the Sovereign LORD says: I myself will search for my sheep<sup>^A</sup> and look after them. \n\n### Crossrefs\n- A: S [[Ps-119-176|Ps 119:176]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

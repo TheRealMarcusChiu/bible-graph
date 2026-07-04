@@ -1,0 +1,1 @@
+(function(){var b="3bb71094e9bf",m="# Ecclesiastes 7:8 (New International Version)\nThe end of a matter is better than its beginning,  \n    and patience<sup>^A</sup> is better than pride.\n\n### Crossrefs\n- A: [[Prov-14-29|Pr 14:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

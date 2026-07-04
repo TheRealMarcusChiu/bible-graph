@@ -1,0 +1,1 @@
+(function(){var b="a178b18f01fa",m="# Job 3:10 (New International Version)\nfor it did not shut the doors of the womb on me  \n    to hide trouble from my eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

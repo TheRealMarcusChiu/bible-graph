@@ -1,0 +1,1 @@
+(function(){var b="bf6ed0350029",m="# Esther 9:20 (New International Version)\nPurim Established\nMordecai recorded these events, and he sent letters to all the Jews throughout the provinces of King Xerxes, near and far,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

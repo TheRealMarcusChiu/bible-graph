@@ -1,0 +1,1 @@
+(function(){var b="76cb35adb624",m="# Job 6:12 (New International Version)\nDo I have the strength of stone?  \n    Is my flesh bronze?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-26-2|Job 26:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

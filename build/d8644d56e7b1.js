@@ -1,0 +1,1 @@
+(function(){var b="d8644d56e7b1",m="# Job 42:14 (New International Version)\nThe first daughter he named Jemimah, the second Keziah and the third Keren-Happuch.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

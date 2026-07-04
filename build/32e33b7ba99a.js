@@ -1,0 +1,1 @@
+(function(){var b="32e33b7ba99a",m="# Ezra 2:21 (New International Version)\n\n### Crossrefs\n- A: [[Mic-5-2|Mic 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

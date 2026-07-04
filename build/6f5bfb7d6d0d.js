@@ -1,0 +1,1 @@
+(function(){var b="6f5bfb7d6d0d",m="# Ezra 10:4 (New International Version)\nRise up; this matter is in your hands. We will support you, so take courage and do it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

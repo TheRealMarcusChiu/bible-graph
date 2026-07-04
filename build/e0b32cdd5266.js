@@ -1,0 +1,1 @@
+(function(){var b="e0b32cdd5266",m="# Psalm 21:8 (New International Version)\nYour hand will lay hold<sup>^A</sup> on all your enemies;  \n    your right hand will seize your foes.\n\n### Crossrefs\n- A: [[Isa-10-10|Isa 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="96eb5d1dfade",m="# Job 25:5 (New International Version)\nIf even the moon<sup>^A</sup> is not bright  \n    and the stars are not pure in his eyes,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-31-26|Job 31:26]]\n- B: S [[Job-4-18|Job 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

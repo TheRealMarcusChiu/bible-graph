@@ -1,0 +1,1 @@
+(function(){var b="6bb6b001f0e7",m="# Ezekiel 45:22 (New International Version)\nOn that day the prince is to provide a bull as a sin offering for himself and for all the people of the land.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Lev-4-14|Lev 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

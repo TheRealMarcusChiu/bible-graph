@@ -1,0 +1,1 @@
+(function(){var b="57320b574624",m="# Psalm 78:56 (New International Version)\nBut they put God to the test  \n    and rebelled against the Most High;  \n    they did not keep his statutes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="51eaceda18f9",m="# Esther 3:5 (New International Version)\nWhen Haman saw that Mordecai would not kneel down or pay him honor, he was enraged.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Esth-2-21|Est 2:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

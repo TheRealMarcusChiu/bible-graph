@@ -1,0 +1,1 @@
+(function(){var b="f09730a3bafb",m="# Ezra 10:13 (New International Version)\nBut there are many people here and it is the rainy season; so we cannot stand outside. Besides, this matter cannot be taken care of in a day or two, because we have sinned greatly in this thing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

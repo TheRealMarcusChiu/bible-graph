@@ -1,0 +1,1 @@
+(function(){var b="0803ee84ca76",m="# Proverbs 22:28 (New International Version)\nDo not move an ancient boundary stone<sup>^A</sup>  \n    set up by your ancestors.\n\n### Crossrefs\n- A: S [[Deut-19-14|Dt 19:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

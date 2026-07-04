@@ -1,0 +1,1 @@
+(function(){var b="f4a90db0b1fe",m="# Ezekiel 40:43 (New International Version)\nAnd double-pronged hooks, each a handbreadth long, were attached to the wall all around. The tables were for the flesh of the offerings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

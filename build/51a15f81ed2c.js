@@ -1,0 +1,1 @@
+(function(){var b="51a15f81ed2c",m="# Ecclesiastes 2:21 (New International Version)\nFor a person may labor with wisdom, knowledge and skill, and then they must leave all they own to another who has not toiled for it. This too is meaningless and a great misfortune.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

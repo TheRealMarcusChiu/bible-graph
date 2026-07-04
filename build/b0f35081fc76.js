@@ -1,0 +1,1 @@
+(function(){var b="b0f35081fc76",m="# 1 Chronicles 6:81 (New International Version)\nHeshbon and Jazer,<sup>^A</sup> together with their pasturelands.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-21-32|Nu 21:32]]\n- B: [[2Chr-11-14|2Ch 11:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

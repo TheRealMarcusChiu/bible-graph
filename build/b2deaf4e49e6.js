@@ -1,0 +1,1 @@
+(function(){var b="b2deaf4e49e6",m="# Psalm 77:5 (New International Version)\nI thought about the former days,<sup>^A</sup>  \n    the years of long ago;\n\n### Crossrefs\n- A: [[Deut-32-7|Dt 32:7]]; [[Ps-44-1|Ps 44:1]]; [[Ps-143-5|143:5]]; [[Eccl-7-10|Ecc 7:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c6d6f185c3a3",m="# Psalm 102:17 (New International Version)\nHe will respond to the prayer<sup>^A</sup> of the destitute;  \n    he will not despise their plea.\n\n### Crossrefs\n- A: S [[1Kgs-8-29|1Ki 8:29]]; [[Ps-4-1|Ps 4:1]]; [[Ps-6-9|6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

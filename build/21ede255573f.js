@@ -1,0 +1,1 @@
+(function(){var b="21ede255573f",m="# Esther 3:3 (New International Version)\nThen the royal officials at the king's gate asked Mordecai, \"Why do you disobey the king's command?\"<sup>^A</sup> \n\n### Crossrefs\n- A: [[Esth-5-9|Est 5:9]]; [[Dan-3-12|Da 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8e51f4df8468",m="# 1 Chronicles 21:9 (New International Version)\nThe LORD said to Gad,<sup>^A</sup> David's seer,<sup>^B</sup> \n\n### Crossrefs\n- A: S [[1Sam-22-5|1Sa 22:5]]\n- B: S [[1Sam-9-9|1Sa 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

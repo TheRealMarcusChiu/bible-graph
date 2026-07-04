@@ -1,0 +1,1 @@
+(function(){var b="e981aae83108",m="# 2 Chronicles 20:24 (New International Version)\nWhen the men of Judah came to the place that overlooks the desert and looked toward the vast army, they saw only dead bodies lying on the ground; no one had escaped.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

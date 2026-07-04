@@ -1,0 +1,1 @@
+(function(){var b="fa5eab9b8387",m="# Psalm 18:34 (New International Version)\nHe trains my hands for battle;<sup>^A</sup>  \n    my arms can bend a bow of bronze.\n\n### Crossrefs\n- A: [[Ps-144-1|Ps 144:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

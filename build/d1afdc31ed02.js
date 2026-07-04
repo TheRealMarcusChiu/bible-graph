@@ -1,0 +1,1 @@
+(function(){var b="d1afdc31ed02",m="# 2 Chronicles 33:17 (New International Version)\nThe people, however, continued to sacrifice at the high places, but only to the LORD their God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

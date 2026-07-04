@@ -1,0 +1,1 @@
+(function(){var b="b92faa97d127",m="# Proverbs 23:7 (New International Version)\nfor he is the kind of person  \n    who is always thinking about the cost.  \n\"Eat and drink,\" he says to you,  \n    but his heart is not with you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

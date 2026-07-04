@@ -1,0 +1,1 @@
+(function(){var b="1cab1e6c6315",m="# Psalm 116:4 (New International Version)\nThen I called on the name<sup>^A</sup> of the LORD:  \n    \"LORD, save me!<sup>^B</sup>\"\n\n### Crossrefs\n- A: [[Ps-80-18|Ps 80:18]]; [[Ps-118-5|118:5]]\n- B: S [[Ps-80-2|Ps 80:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

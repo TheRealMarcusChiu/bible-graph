@@ -1,0 +1,1 @@
+(function(){var b="a896eb07fe22",m="# Psalm 38:2 (New International Version)\nYour arrows<sup>^A</sup> have pierced me,  \n    and your hand has come down on me.\n\n### Crossrefs\n- A: S [[Job-6-4|Job 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

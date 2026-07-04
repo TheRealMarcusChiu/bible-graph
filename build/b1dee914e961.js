@@ -1,0 +1,1 @@
+(function(){var b="b1dee914e961",m="# Nehemiah 3:29 (New International Version)\nNext to them, Zadok son of Immer made repairs opposite his house. Next to him, Shemaiah son of Shekaniah, the guard at the East Gate, made repairs.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

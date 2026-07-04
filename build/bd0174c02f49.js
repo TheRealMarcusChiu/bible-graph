@@ -1,0 +1,1 @@
+(function(){var b="bd0174c02f49",m="# Psalm 55:4 (New International Version)\nMy heart is in anguish<sup>^A</sup> within me;  \n    the terrors<sup>^B</sup> of death have fallen on me.\n\n### Crossrefs\n- A: S [[Ps-6-3|Ps 6:3]]\n- B: S [[Job-18-11|Job 18:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

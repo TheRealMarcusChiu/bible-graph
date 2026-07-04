@@ -1,0 +1,1 @@
+(function(){var b="30075759ce36",m="# 2 Chronicles 34:19 (New International Version)\nWhen the king heard the words of the Law,<sup>^A</sup> he tore<sup>^B</sup> his robes. \n\n### Crossrefs\n- A: [[Deut-28-3|Dt 28:3-68]]\n- B: [[Isa-36-22|Isa 36:22]]; [[Isa-37-1|37:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

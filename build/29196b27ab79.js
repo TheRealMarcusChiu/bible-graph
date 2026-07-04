@@ -1,0 +1,1 @@
+(function(){var b="29196b27ab79",m="# Proverbs 31:13 (New International Version)\nShe selects wool and flax  \n    and works with eager hands.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Tim-2-9|1Ti 2:9-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

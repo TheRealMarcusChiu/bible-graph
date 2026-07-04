@@ -1,0 +1,1 @@
+(function(){var b="6449fb9d88fb",m="# Ecclesiastes 7:16 (New International Version)\nDo not be overrighteous,  \n    neither be overwise--  \n    why destroy yourself?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9bfec4ca50e9",m="# Jeremiah 13:6 (New International Version)\nMany days later the LORD said to me, \"Go now to Perath and get the belt I told you to hide there.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

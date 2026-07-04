@@ -1,0 +1,1 @@
+(function(){var b="288a81bbb28d",m="# 1 Chronicles 6:61 (New International Version)\nThe rest of Kohath's descendants were allotted ten towns from the clans of half the tribe of Manasseh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

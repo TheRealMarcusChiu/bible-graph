@@ -1,0 +1,1 @@
+(function(){var b="cccfce8072a4",m="# Proverbs 6:2 (New International Version)\nyou have been trapped by what you said,  \n    ensnared by the words of your mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

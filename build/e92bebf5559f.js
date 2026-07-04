@@ -1,0 +1,1 @@
+(function(){var b="e92bebf5559f",m="# Zechariah 7:6 (New International Version)\nAnd when you were eating and drinking, were you not just feasting for yourselves?<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Isa-43-23|Isa 43:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

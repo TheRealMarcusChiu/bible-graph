@@ -1,0 +1,1 @@
+(function(){var b="8e258942a7f8",m="# Job 41:19 (New International Version)\nFlames<sup>^A</sup> stream from its mouth;  \n    sparks of fire shoot out.\n\n### Crossrefs\n- A: [[Dan-10-6|Da 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

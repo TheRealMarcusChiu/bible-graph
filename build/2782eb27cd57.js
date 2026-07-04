@@ -1,0 +1,1 @@
+(function(){var b="2782eb27cd57",m="# Nehemiah 9:14 (New International Version)\nYou made known to them your holy Sabbath<sup>^A</sup> and gave them commands, decrees and laws through your servant Moses. \n\n### Crossrefs\n- A: S [[Gen-2-3|Ge 2:3]]; [[Exod-20-8|Ex 20:8-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

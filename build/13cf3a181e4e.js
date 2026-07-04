@@ -1,0 +1,1 @@
+(function(){var b="13cf3a181e4e",m="# Ezra 6:16 (New International Version)\nThen the people of Israel--the priests, the Levites and the rest of the exiles--celebrated the dedication<sup>^A</sup> of the house of God with joy. \n\n### Crossrefs\n- A: S [[1Kgs-8-63|1Ki 8:63]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

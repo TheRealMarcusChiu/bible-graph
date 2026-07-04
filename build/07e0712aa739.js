@@ -1,0 +1,1 @@
+(function(){var b="07e0712aa739",m="# Psalm 128:6 (New International Version)\nMay you live to see your children's children--<sup>^A</sup>  \n    peace be on Israel.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-48-11|Ge 48:11]]\n- B: S [[Ps-125-5|Ps 125:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

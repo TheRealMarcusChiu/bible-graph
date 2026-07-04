@@ -1,0 +1,1 @@
+(function(){var b="ca67a984ce4c",m="# Psalm 147:2 (New International Version)\nThe LORD builds up Jerusalem;<sup>^A</sup>  \n    he gathers the exiles<sup>^B</sup> of Israel.\n\n### Crossrefs\n- A: S [[Ps-51-18|Ps 51:18]]\n- B: S [[Ps-106-47|Ps 106:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

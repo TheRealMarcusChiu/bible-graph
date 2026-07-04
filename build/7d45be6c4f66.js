@@ -1,0 +1,1 @@
+(function(){var b="7d45be6c4f66",m="# 1 Chronicles 9:20 (New International Version)\nIn earlier times Phinehas<sup>^A</sup> son of Eleazar was the official in charge of the gatekeepers, and the LORD was with him. \n\n### Crossrefs\n- A: [[Num-25-7|Nu 25:7-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

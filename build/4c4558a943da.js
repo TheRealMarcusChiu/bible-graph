@@ -1,0 +1,1 @@
+(function(){var b="4c4558a943da",m="# Proverbs 7:22 (New International Version)\nAll at once he followed her  \n    like an ox going to the slaughter,  \nlike a deer stepping into a noose<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-18-10|Job 18:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

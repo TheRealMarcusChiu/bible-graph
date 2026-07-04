@@ -1,0 +1,1 @@
+(function(){var b="e2b42bb083ed",m="# 1 Chronicles 18:6 (New International Version)\nHe put garrisons in the Aramean kingdom of Damascus, and the Arameans became subject to him and brought him tribute. The LORD gave David victory wherever he went.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

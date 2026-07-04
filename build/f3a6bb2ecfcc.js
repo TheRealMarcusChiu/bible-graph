@@ -1,0 +1,1 @@
+(function(){var b="f3a6bb2ecfcc",m="# Proverbs 22:12 (New International Version)\nThe eyes of the LORD keep watch over knowledge,  \n    but he frustrates the words of the unfaithful.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

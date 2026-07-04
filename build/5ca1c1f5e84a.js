@@ -1,0 +1,1 @@
+(function(){var b="5ca1c1f5e84a",m="# Proverbs 14:22 (New International Version)\nDo not those who plot evil go astray?<sup>^A</sup>  \n    But those who plan what is good find love and faithfulness.\n\n### Crossrefs\n- A: [[Prov-4-16|Pr 4:16-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

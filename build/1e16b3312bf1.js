@@ -1,0 +1,1 @@
+(function(){var b="1e16b3312bf1",m="# Song of Songs 2:2 (New International Version)\nLike a lily among thorns  \n    is my darling among the young women.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

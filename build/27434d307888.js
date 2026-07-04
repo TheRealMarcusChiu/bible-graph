@@ -1,0 +1,1 @@
+(function(){var b="27434d307888",m="# Daniel 7:17 (New International Version)\n'The four great beasts are four kings that will rise from the earth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

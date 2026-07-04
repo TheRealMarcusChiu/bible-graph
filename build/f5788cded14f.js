@@ -1,0 +1,1 @@
+(function(){var b="f5788cded14f",m="# Proverbs 12:27 (New International Version)\nThe lazy do not roast any game,  \n    but the diligent feed on the riches of the hunt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

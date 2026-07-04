@@ -1,0 +1,1 @@
+(function(){var b="6094c1b532d5",m="# Psalm 119:134 (New International Version)\nRedeem me from human oppression,<sup>^A</sup>  \n    that I may obey your precepts.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-119-122|ver 122]]\n- B: S [[Ps-119-56|ver 56]],S [[Ps-119-88|88]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

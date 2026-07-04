@@ -1,0 +1,1 @@
+(function(){var b="8d0a2eb6b4b5",m="# Isaiah 28:26 (New International Version)\nHis God instructs him  \n    and teaches<sup>^A</sup> him the right way.\n\n### Crossrefs\n- A: S [[Ps-94-10|Ps 94:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

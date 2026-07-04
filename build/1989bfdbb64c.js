@@ -1,0 +1,1 @@
+(function(){var b="1989bfdbb64c",m="# Isaiah 38:4 (New International Version)\nThen the word<sup>^A</sup> of the LORD came to Isaiah: \n\n### Crossrefs\n- A: [[1Sam-13-13|1Sa 13:13]]; [[Isa-39-5|Isa 39:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

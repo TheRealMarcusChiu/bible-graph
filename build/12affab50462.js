@@ -1,0 +1,1 @@
+(function(){var b="12affab50462",m="# 2 Kings 7:14 (New International Version)\nSo they selected two chariots with their horses, and the king sent them after the Aramean army. He commanded the drivers, \"Go and find out what has happened.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

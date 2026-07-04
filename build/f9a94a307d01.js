@@ -1,0 +1,1 @@
+(function(){var b="f9a94a307d01",m="# Amos 2:13 (New International Version)\n\"Now then, I will crush you  \n    as a cart crushes when loaded with grain.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Amos-7-16|Am 7:16-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

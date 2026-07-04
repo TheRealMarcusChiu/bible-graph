@@ -1,0 +1,1 @@
+(function(){var b="f61767d68770",m="# Ecclesiastes 9:13 (New International Version)\nWisdom Better Than Folly\nI also saw under the sun this example of wisdom<sup>^A</sup> that greatly impressed me: \n\n### Crossrefs\n- A: S [[2Sam-20-22|2Sa 20:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

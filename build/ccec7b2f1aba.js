@@ -1,0 +1,1 @@
+(function(){var b="ccec7b2f1aba",m="# Isaiah 39:4 (New International Version)\nThe prophet asked, \"What did they see in your palace?\"\n\"They saw everything in my palace,\" Hezekiah said. \"There is nothing among my treasures that I did not show them.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

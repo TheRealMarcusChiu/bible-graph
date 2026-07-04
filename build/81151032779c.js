@@ -1,0 +1,1 @@
+(function(){var b="81151032779c",m="# Psalm 10:10 (New International Version)\nHis victims are crushed,<sup>^A</sup> they collapse;  \n    they fall under his strength.\n\n### Crossrefs\n- A: S [[Job-9-17|Job 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

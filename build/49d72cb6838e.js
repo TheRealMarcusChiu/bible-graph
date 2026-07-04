@@ -1,0 +1,1 @@
+(function(){var b="49d72cb6838e",m="# Job 41:23 (New International Version)\nThe folds of its flesh are tightly joined;  \n    they are firm and immovable.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

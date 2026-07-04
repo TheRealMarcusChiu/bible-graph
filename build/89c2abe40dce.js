@@ -1,0 +1,1 @@
+(function(){var b="89c2abe40dce",m="# Jeremiah 39:15 (New International Version)\nWhile Jeremiah had been confined in the courtyard of the guard, the word of the LORD came to him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

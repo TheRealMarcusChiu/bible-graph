@@ -1,0 +1,1 @@
+(function(){var b="b6bf751f48a0",m="# Psalm 59:15 (New International Version)\nThey wander about for food<sup>^A</sup>  \n    and howl if not satisfied.\n\n### Crossrefs\n- A: [[Job-15-23|Job 15:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

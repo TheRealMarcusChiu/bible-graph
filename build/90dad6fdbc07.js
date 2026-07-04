@@ -1,0 +1,1 @@
+(function(){var b="90dad6fdbc07",m="# Job 28:10 (New International Version)\nThey tunnel through the rock;<sup>^A</sup>  \n    their eyes see all its treasures.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-28-4|ver 4]]\n- B: [[Prov-2-4|Pr 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

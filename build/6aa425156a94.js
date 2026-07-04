@@ -1,0 +1,1 @@
+(function(){var b="6aa425156a94",m="# Proverbs 31:3 (New International Version)\nDo not spend your strength on women,  \n    your vigor on those who ruin kings.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-17-17|Dt 17:17]]; S [[1Kgs-11-3|1Ki 11:3]]; [[Prov-5-1|Pr 5:1-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

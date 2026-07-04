@@ -1,0 +1,1 @@
+(function(){var b="90ee0fc3bfdf",m="# Zechariah 6:4 (New International Version)\nI asked the angel who was speaking to me, \"What are these, my lord?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

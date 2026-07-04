@@ -1,0 +1,1 @@
+(function(){var b="130a98c76bc1",m="# Esther 9:32 (New International Version)\nEsther's decree confirmed these regulations about Purim, and it was written down in the records.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

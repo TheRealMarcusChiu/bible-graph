@@ -1,0 +1,1 @@
+(function(){var b="31ce31aa75ce",m="# Proverbs 12:19 (New International Version)\nTruthful lips endure forever,  \n    but a lying tongue lasts only a moment.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

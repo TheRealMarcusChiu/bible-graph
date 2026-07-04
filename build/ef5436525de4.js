@@ -1,0 +1,1 @@
+(function(){var b="ef5436525de4",m="# Psalm 149:3 (New International Version)\nLet them praise his name with dancing<sup>^A</sup>  \n    and make music to him with timbrel and harp.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-15-20|Ex 15:20]]\n- B: S [[Ps-57-8|Ps 57:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a581de6a109",m="# Psalm 109:30 (New International Version)\nWith my mouth I will greatly extol the LORD;  \n    in the great throng<sup>^A</sup> of worshipers I will praise him.\n\n### Crossrefs\n- A: S [[Ps-35-18|Ps 35:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

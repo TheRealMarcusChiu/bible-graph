@@ -1,0 +1,1 @@
+(function(){var b="d9fc43fea334",m="# Psalm 37:16 (New International Version)\nBetter the little that the righteous have  \n    than the wealth<sup>^A</sup> of many wicked;\n\n### Crossrefs\n- A: [[Prov-15-16|Pr 15:16]]; [[Prov-16-8|16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="371b92887ae5",m="# Daniel 4:11 (New International Version)\nThe tree grew large and strong and its top touched the sky; it was visible to the ends of the earth.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-19-11|Eze 19:11]]; [[Ezek-31-5|31:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

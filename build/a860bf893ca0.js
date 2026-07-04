@@ -1,0 +1,1 @@
+(function(){var b="a860bf893ca0",m="# 2 Chronicles 20:4 (New International Version)\nThe people of Judah<sup>^A</sup> came together to seek help from the LORD; indeed, they came from every town in Judah to seek him.\n\n### Crossrefs\n- A: [[Jer-36-6|Jer 36:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

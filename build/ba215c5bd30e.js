@@ -1,0 +1,1 @@
+(function(){var b="ba215c5bd30e",m="# Proverbs 26:7 (New International Version)\nLike the useless legs of one who is lame  \n    is a proverb in the mouth of a fool.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-26-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

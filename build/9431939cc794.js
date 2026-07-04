@@ -1,0 +1,1 @@
+(function(){var b="9431939cc794",m="# 1 Chronicles 11:26 (New International Version)\nThe mighty warriors were:\nAsahel<sup>^A</sup> the brother of Joab,\nElhanan son of Dodo from Bethlehem,\n\n### Crossrefs\n- A: S [[2Sam-2-18|2Sa 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

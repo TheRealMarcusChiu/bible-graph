@@ -1,0 +1,1 @@
+(function(){var b="4962dac760d6",m="# Ecclesiastes 1:6 (New International Version)\nThe wind blows to the south  \n    and turns to the north;  \nround and round it goes,  \n    ever returning on its course.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

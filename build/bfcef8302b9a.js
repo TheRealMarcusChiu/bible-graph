@@ -1,0 +1,1 @@
+(function(){var b="bfcef8302b9a",m="# 1 Chronicles 9:8 (New International Version)\nIbneiah son of Jeroham; Elah son of Uzzi, the son of Mikri; and Meshullam son of Shephatiah, the son of Reuel, the son of Ibnijah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

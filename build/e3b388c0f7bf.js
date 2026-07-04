@@ -1,0 +1,1 @@
+(function(){var b="e3b388c0f7bf",m="# Ezekiel 4:12 (New International Version)\nEat the food as you would a loaf of barley bread; bake it in the sight of the people, using human excrement<sup>^A</sup> for fuel.\" \n\n### Crossrefs\n- A: S [[Isa-36-12|Isa 36:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

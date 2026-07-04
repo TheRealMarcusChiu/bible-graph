@@ -1,0 +1,1 @@
+(function(){var b="eab3645e0dc7",m="# Nehemiah 10:11 (New International Version)\nMika, Rehob, Hashabiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

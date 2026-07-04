@@ -1,0 +1,1 @@
+(function(){var b="76a4e40cba29",m="# Isaiah 23:10 (New International Version)\nTill your land as they do along the Nile,  \n    Daughter Tarshish,  \n    for you no longer have a harbor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

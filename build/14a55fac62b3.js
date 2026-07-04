@@ -1,0 +1,1 @@
+(function(){var b="14a55fac62b3",m="# Daniel 6:9 (New International Version)\nSo King Darius put the decree in writing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

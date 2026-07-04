@@ -1,0 +1,1 @@
+(function(){var b="8a3922c90f5a",m="# Ezekiel 47:7 (New International Version)\nWhen I arrived there, I saw a great number of trees on each side of the river.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-47-12|ver 12]]; [[Rev-22-2|Rev 22:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

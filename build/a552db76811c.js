@@ -1,0 +1,1 @@
+(function(){var b="a552db76811c",m="# Daniel 11:5 (New International Version)\n\"The king of the South will become strong, but one of his commanders will become even stronger than he and will rule his own kingdom with great power.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

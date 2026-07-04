@@ -1,0 +1,1 @@
+(function(){var b="c5c142cae8bf",m="# 2 Chronicles 18:10 (New International Version)\nNow Zedekiah son of Kenaanah had made iron horns, and he declared, \"This is what the LORD says: 'With these you will gore the Arameans until they are destroyed.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

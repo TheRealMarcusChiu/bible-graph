@@ -1,0 +1,1 @@
+(function(){var b="2bf8b09c64c9",m="# Proverbs 12:12 (New International Version)\nThe wicked desire the stronghold of evildoers,  \n    but the root of the righteous endures.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

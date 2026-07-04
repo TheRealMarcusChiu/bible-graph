@@ -1,0 +1,1 @@
+(function(){var b="d7fdaaacc7a0",m="# Proverbs 5:16 (New International Version)\nShould your springs overflow in the streets,  \n    your streams of water in the public squares?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="acf01ab27324",m="# Amos 5:9 (New International Version)\nWith a blinding flash he destroys the stronghold  \n    and brings the fortified city to ruin.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Mic-5-11|Mic 5:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

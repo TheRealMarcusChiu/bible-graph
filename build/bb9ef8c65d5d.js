@@ -1,0 +1,1 @@
+(function(){var b="bb9ef8c65d5d",m="# Job 28:5 (New International Version)\nThe earth, from which food comes,<sup>^A</sup>  \n    is transformed below as by fire;\n\n### Crossrefs\n- A: [[Gen-1-29|Ge 1:29]]; [[Ps-104-14|Ps 104:14]]; [[Ps-145-15|145:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

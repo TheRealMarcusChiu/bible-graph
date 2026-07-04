@@ -1,0 +1,1 @@
+(function(){var b="84d643df36b4",m="# Jeremiah 49:9 (New International Version)\nIf grape pickers came to you,  \n    would they not leave a few grapes?  \nIf thieves came during the night,  \n    would they not steal only as much as they wanted?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

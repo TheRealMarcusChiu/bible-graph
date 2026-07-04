@@ -1,0 +1,1 @@
+(function(){var b="d06093c8d516",m="# 2 Chronicles 21:8 (New International Version)\nIn the time of Jehoram, Edom<sup>^A</sup> rebelled against Judah and set up its own king. \n\n### Crossrefs\n- A: [[2Chr-20-22|2Ch 20:22-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

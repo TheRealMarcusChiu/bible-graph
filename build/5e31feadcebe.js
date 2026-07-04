@@ -1,0 +1,1 @@
+(function(){var b="5e31feadcebe",m="# Job 36:9 (New International Version)\nhe tells them what they have done--  \n    that they have sinned arrogantly.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-15-25|Job 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

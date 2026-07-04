@@ -1,0 +1,1 @@
+(function(){var b="5adbd4543ad0",m="# Isaiah 8:5 (New International Version)\nThe LORD spoke to me again:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e9b27dec1999",m="# Psalm 89:2 (New International Version)\nI will declare that your love stands firm forever,  \n    that you have established your faithfulness in heaven itself.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-36-5|Ps 36:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

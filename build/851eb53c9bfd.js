@@ -1,0 +1,1 @@
+(function(){var b="851eb53c9bfd",m="# Psalm 10:6 (New International Version)\nHe says to himself, \"Nothing will ever shake me.\"  \n    He swears, \"No one will ever do me harm.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Rev-18-7|Rev 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

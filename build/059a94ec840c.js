@@ -1,0 +1,1 @@
+(function(){var b="059a94ec840c",m="# Isaiah 28:20 (New International Version)\nThe bed is too short to stretch out on,  \n    the blanket too narrow to wrap around you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-59-6|Isa 59:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

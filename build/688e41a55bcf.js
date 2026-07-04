@@ -1,0 +1,1 @@
+(function(){var b="688e41a55bcf",m="# Psalm 18:19 (New International Version)\nHe brought me out into a spacious place;<sup>^A</sup>  \n    he rescued me because he delighted in me.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-31-8|Ps 31:8]]\n- B: S [[Num-14-8|Nu 14:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

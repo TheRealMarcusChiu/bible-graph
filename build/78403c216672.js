@@ -1,0 +1,1 @@
+(function(){var b="78403c216672",m="# Proverbs 6:35 (New International Version)\nHe will not accept any compensation;  \n    he will refuse a bribe, however great it is.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-31-9|Job 31:9-11]]; [[Song-8-7|SS 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

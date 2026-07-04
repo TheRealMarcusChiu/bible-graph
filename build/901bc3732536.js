@@ -1,0 +1,1 @@
+(function(){var b="901bc3732536",m="# Jeremiah 52:10 (New International Version)\nThere at Riblah the king of Babylon killed the sons<sup>^A</sup> of Zedekiah before his eyes; he also killed all the officials of Judah. \n\n### Crossrefs\n- A: S [[Jer-22-30|Jer 22:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba907ec7cdd8",m="# Psalm 68:10 (New International Version)\nYour people settled in it,  \n    and from your bounty,<sup>^A</sup> God, you provided<sup>^B</sup> for the poor.\n\n### Crossrefs\n- A: S [[Deut-28-12|Dt 28:12]]\n- B: [[Ps-65-9|Ps 65:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

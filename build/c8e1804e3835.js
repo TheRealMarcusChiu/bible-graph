@@ -1,0 +1,1 @@
+(function(){var b="c8e1804e3835",m="# Proverbs 27:3 (New International Version)\nStone is heavy and sand<sup>^A</sup> a burden,  \n    but a fool's provocation is heavier than both.\n\n### Crossrefs\n- A: S [[Job-6-3|Job 6:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

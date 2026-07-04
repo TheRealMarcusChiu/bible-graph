@@ -1,0 +1,1 @@
+(function(){var b="f8d98f80c15a",m="# Psalm 107:30 (New International Version)\nThey were glad when it grew calm,  \n    and he guided them<sup>^A</sup> to their desired haven.\n\n### Crossrefs\n- A: [[Ps-107-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

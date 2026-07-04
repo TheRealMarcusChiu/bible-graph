@@ -1,0 +1,1 @@
+(function(){var b="4061957d5c10",m="# 1 Chronicles 9:7 (New International Version)\nOf the Benjamites:\nSallu son of Meshullam, the son of Hodaviah, the son of Hassenuah;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

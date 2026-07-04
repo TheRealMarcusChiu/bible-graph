@@ -1,0 +1,1 @@
+(function(){var b="09d221a1ac4a",m="# Job 33:6 (New International Version)\nI am the same as you in God's sight;<sup>^A</sup>  \n    I too am a piece of clay.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Acts-14-15|Ac 14:15]]; [[Jas-5-17|Jas 5:17]]\n- B: S [[Job-4-19|Job 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

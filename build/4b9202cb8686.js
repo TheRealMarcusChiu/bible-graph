@@ -1,0 +1,1 @@
+(function(){var b="4b9202cb8686",m="# Nehemiah 6:9 (New International Version)\nThey were all trying to frighten us, thinking, \"Their hands will get too weak for the work, and it will not be completed.\"\nBut I prayed, \"Now strengthen my hands.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

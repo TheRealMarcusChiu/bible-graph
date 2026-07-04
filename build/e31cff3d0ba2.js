@@ -1,0 +1,1 @@
+(function(){var b="e31cff3d0ba2",m="# Psalm 78:61 (New International Version)\nHe sent the ark of his might<sup>^A</sup> into captivity,<sup>^B</sup>  \n    his splendor into the hands of the enemy.\n\n### Crossrefs\n- A: [[Ps-132-8|Ps 132:8]]\n- B: S [[1Sam-4-17|1Sa 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

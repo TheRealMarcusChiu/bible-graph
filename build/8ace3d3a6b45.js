@@ -1,0 +1,1 @@
+(function(){var b="8ace3d3a6b45",m="# Job 38:35 (New International Version)\nDo you send the lightning bolts on their way?<sup>^A</sup>  \n    Do they report to you, 'Here we are'?\n\n### Crossrefs\n- A: S [[Job-36-32|Job 36:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

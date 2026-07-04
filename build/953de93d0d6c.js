@@ -1,0 +1,1 @@
+(function(){var b="953de93d0d6c",m="# Proverbs 12:3 (New International Version)\nNo one can be established through wickedness,  \n    but the righteous cannot be uprooted.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-25|Pr 10:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

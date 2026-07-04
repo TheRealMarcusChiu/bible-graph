@@ -1,0 +1,1 @@
+(function(){var b="b24e0625b715",m="# Psalm 85:6 (New International Version)\nWill you not revive<sup>^A</sup> us again,  \n    that your people may rejoice<sup>^B</sup> in you?\n\n### Crossrefs\n- A: S [[Ps-80-18|Ps 80:18]]\n- B: [[Phil-3-1|Php 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

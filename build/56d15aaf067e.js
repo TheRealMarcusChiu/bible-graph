@@ -1,0 +1,1 @@
+(function(){var b="56d15aaf067e",m="# Esther 4:12 (New International Version)\nWhen Esther's words were reported to Mordecai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

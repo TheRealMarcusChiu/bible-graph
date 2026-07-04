@@ -1,0 +1,1 @@
+(function(){var b="5f4796b6160b",m="# Proverbs 23:4 (New International Version)\nDo not wear yourself out to get rich;  \n    do not trust your own cleverness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6f4786964055",m="# Ecclesiastes 4:15 (New International Version)\nI saw that all who lived and walked under the sun followed the youth, the king's successor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

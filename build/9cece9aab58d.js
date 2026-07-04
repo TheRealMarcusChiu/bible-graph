@@ -1,0 +1,1 @@
+(function(){var b="9cece9aab58d",m="# Psalm 121:8 (New International Version)\nthe LORD will watch over your coming and going  \n    both now and forevermore.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-28-6|Dt 28:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

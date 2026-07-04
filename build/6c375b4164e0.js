@@ -1,0 +1,1 @@
+(function(){var b="6c375b4164e0",m="# 1 Chronicles 11:47 (New International Version)\nEliel, Obed and Jaasiel the Mezobaite.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

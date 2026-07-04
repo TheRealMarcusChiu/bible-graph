@@ -1,0 +1,1 @@
+(function(){var b="c22b28c6f726",m="# 1 Chronicles 24:26 (New International Version)\nThe sons of Merari:<sup>^A</sup> Mahli and Mushi.\nThe son of Jaaziah: Beno.\n\n### Crossrefs\n- A: S [[1Chr-6-19|1Ch 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fce8b332283a",m="# 1 Chronicles 15:3 (New International Version)\nDavid assembled all Israel<sup>^A</sup> in Jerusalem to bring up the ark of the LORD to the place he had prepared for it. \n\n### Crossrefs\n- A: S [[1Chr-13-5|1Ch 13:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

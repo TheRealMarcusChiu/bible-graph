@@ -1,0 +1,1 @@
+(function(){var b="34ce4e7f0fe4",m="# Psalm 136:14 (New International Version)\nand brought Israel through<sup>^A</sup> the midst of it,  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Exod-14-22|Ex 14:22]]; [[Ps-106-9|Ps 106:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a73938e9ed4a",m="# Ezekiel 41:9 (New International Version)\nThe outer wall of the side rooms was five cubits thick. The open area between the side rooms of the temple";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

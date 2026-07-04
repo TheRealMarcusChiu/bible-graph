@@ -1,0 +1,1 @@
+(function(){var b="0a71c2e33471",m="# Ezra 7:8 (New International Version)\nEzra arrived in Jerusalem in the fifth month of the seventh year of the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

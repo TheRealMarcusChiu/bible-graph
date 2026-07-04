@@ -1,0 +1,1 @@
+(function(){var b="5c118084d82e",m="# Isaiah 36:21 (New International Version)\nBut the people remained silent and said nothing in reply, because the king had commanded, \"Do not answer him.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-9-7|Pr 9:7-8]]; S [[Prov-26-4|26:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="41b3359ba171",m="# Hosea 10:7 (New International Version)\nSamaria's king will be destroyed,<sup>^A</sup>  \n    swept away like a twig on the surface of the waters.\n\n### Crossrefs\n- A: [[Hos-10-15|ver 15]]; [[Hos-13-11|Hos 13:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

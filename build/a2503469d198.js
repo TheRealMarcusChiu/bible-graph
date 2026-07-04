@@ -1,0 +1,1 @@
+(function(){var b="a2503469d198",m="# 1 Chronicles 6:7 (New International Version)\nMeraioth the father of Amariah,\nAmariah the father of Ahitub,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

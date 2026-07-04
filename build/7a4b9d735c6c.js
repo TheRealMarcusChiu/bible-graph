@@ -1,0 +1,1 @@
+(function(){var b="7a4b9d735c6c",m="# Job 22:12 (New International Version)\n\"Is not God in the heights of heaven?<sup>^A</sup>  \n    And see how lofty are the highest stars!\n\n### Crossrefs\n- A: S [[Job-11-8|Job 11:8]]; S [[Job-16-19|16:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

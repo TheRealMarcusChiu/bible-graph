@@ -1,0 +1,1 @@
+(function(){var b="f2f8b902df34",m="# Isaiah 7:15 (New International Version)\nHe will be eating curds<sup>^A</sup> and honey<sup>^B</sup> when he knows enough to reject the wrong and choose the right, \n\n### Crossrefs\n- A: S [[Gen-18-8|Ge 18:8]]\n- B: [[Isa-7-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

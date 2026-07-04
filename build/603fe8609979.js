@@ -1,0 +1,1 @@
+(function(){var b="603fe8609979",m="# Daniel 3:20 (New International Version)\nand commanded some of the strongest soldiers in his army to tie up Shadrach, Meshach and Abednego<sup>^A</sup> and throw them into the blazing furnace. \n\n### Crossrefs\n- A: S [[Dan-1-7|Da 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

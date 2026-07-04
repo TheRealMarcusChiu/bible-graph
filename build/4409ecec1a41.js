@@ -1,0 +1,1 @@
+(function(){var b="4409ecec1a41",m="# Job 8:8 (New International Version)\n\"Ask the former generation<sup>^A</sup>  \n    and find out what their ancestors learned,\n\n### Crossrefs\n- A: S [[Deut-32-7|Dt 32:7]]; S [[Ps-71-18|Ps 71:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

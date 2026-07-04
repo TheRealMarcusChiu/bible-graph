@@ -1,0 +1,1 @@
+(function(){var b="262991644307",m="# Proverbs 10:23 (New International Version)\nA fool finds pleasure in wicked schemes,<sup>^A</sup>  \n    but a person of understanding delights in wisdom.\n\n### Crossrefs\n- A: S [[Prov-2-14|Pr 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

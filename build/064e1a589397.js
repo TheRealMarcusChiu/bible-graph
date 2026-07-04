@@ -1,0 +1,1 @@
+(function(){var b="064e1a589397",m="# Psalm 150:3 (New International Version)\nPraise him with the sounding of the trumpet,<sup>^A</sup>  \n    praise him with the harp and lyre,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-10-2|Nu 10:2]]\n- B: S [[Ps-57-8|Ps 57:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

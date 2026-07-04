@@ -1,0 +1,1 @@
+(function(){var b="d0aa8c784f63",m="# 1 Chronicles 4:5 (New International Version)\nAshhur<sup>^A</sup> the father of Tekoa had two wives, Helah and Naarah.\n\n### Crossrefs\n- A: [[1Chr-2-24|1Ch 2:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5d5964051967",m="# Nehemiah 13:17 (New International Version)\nI rebuked the nobles of Judah and said to them, \"What is this wicked thing you are doing--desecrating the Sabbath day?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

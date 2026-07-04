@@ -1,0 +1,1 @@
+(function(){var b="f566d877552f",m="# Psalm 48:9 (New International Version)\nWithin your temple, O God,  \n    we meditate<sup>^A</sup> on your unfailing love.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-39-3|Ps 39:3]]\n- B: [[Ps-6-4|Ps 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

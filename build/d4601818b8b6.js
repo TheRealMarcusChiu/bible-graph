@@ -1,0 +1,1 @@
+(function(){var b="d4601818b8b6",m="# Psalm 37:35 (New International Version)\nI have seen a wicked and ruthless man  \n    flourishing<sup>^A</sup> like a luxuriant native tree,\n\n### Crossrefs\n- A: S [[Job-5-3|Job 5:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

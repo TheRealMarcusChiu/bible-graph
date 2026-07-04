@@ -1,0 +1,1 @@
+(function(){var b="5cf14ce2e58b",m="# Proverbs 27:13 (New International Version)\nTake the garment of one who puts up security for a stranger;  \n    hold it in pledge if it is done for an outsider.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-20-16|Pr 20:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a4b406136623",m="# 1 Chronicles 26:4 (New International Version)\nObed-Edom also had sons:\nShemaiah the firstborn,\nJehozabad the second,\nJoah the third,\nSakar the fourth,\nNethanel the fifth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

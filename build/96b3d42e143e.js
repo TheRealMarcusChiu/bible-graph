@@ -1,0 +1,1 @@
+(function(){var b="96b3d42e143e",m="# 1 Chronicles 11:29 (New International Version)\nSibbekai<sup>^A</sup> the Hushathite,\nIlai the Ahohite,\n\n### Crossrefs\n- A: S [[2Sam-21-18|2Sa 21:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="40edd96a25e3",m="# Ecclesiastes 3:9 (New International Version)\nWhat do workers gain from their toil?<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Eccl-1-3|Ecc 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

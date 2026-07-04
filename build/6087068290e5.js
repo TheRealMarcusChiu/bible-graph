@@ -1,0 +1,1 @@
+(function(){var b="6087068290e5",m="# Psalm 119:71 (New International Version)\nIt was good for me to be afflicted<sup>^A</sup>  \n    so that I might learn your decrees.\n\n### Crossrefs\n- A: [[Ps-119-67|ver 67]], [[Ps-119-75|75]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

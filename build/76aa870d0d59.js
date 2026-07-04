@@ -1,0 +1,1 @@
+(function(){var b="76aa870d0d59",m="# 1 Chronicles 21:6 (New International Version)\nBut Joab did not include Levi and Benjamin in the numbering, because the king's command was repulsive to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

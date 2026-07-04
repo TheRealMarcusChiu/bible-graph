@@ -1,0 +1,1 @@
+(function(){var b="1ee123dc719b",m="# 2 Chronicles 18:24 (New International Version)\nMicaiah replied, \"You will find out on the day you go to hide in an inner room.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

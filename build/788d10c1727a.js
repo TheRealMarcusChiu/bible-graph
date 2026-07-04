@@ -1,0 +1,1 @@
+(function(){var b="788d10c1727a",m="# Job 15:3 (New International Version)\nWould they argue with useless words,  \n    with speeches that have no value?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Neh-4-2|Ne 4:2-3]]; S [[Job-6-26|Job 6:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

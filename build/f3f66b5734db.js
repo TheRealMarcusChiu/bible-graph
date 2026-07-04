@@ -1,0 +1,1 @@
+(function(){var b="f3f66b5734db",m="# Psalm 4:6 (New International Version)\nMany, LORD, are asking, \"Who will bring us prosperity?\"  \n    Let the light of your face shine on us.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-6-25|Nu 6:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

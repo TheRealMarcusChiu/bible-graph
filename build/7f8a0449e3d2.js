@@ -1,0 +1,1 @@
+(function(){var b="7f8a0449e3d2",m="# 2 Kings 4:11 (New International Version)\nOne day when Elisha came, he went up to his room and lay down there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

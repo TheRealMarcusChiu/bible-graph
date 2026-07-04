@@ -1,0 +1,1 @@
+(function(){var b="4530f9963f4d",m="# Job 12:1 (New International Version)\nJob\nThen Job replied:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

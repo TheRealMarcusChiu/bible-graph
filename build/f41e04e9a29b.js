@@ -1,0 +1,1 @@
+(function(){var b="f41e04e9a29b",m="# Nehemiah 12:10 (New International Version)\nJoshua was the father of Joiakim, Joiakim the father of Eliashib,<sup>^A</sup> Eliashib the father of Joiada, \n\n### Crossrefs\n- A: S [[Ezra-10-24|Ezr 10:24]]; [[Neh-3-20|Ne 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

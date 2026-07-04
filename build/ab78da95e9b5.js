@@ -1,0 +1,1 @@
+(function(){var b="ab78da95e9b5",m="# Lamentations 5:13 (New International Version)\nYoung men toil at the millstones;  \n    boys stagger under loads of wood.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

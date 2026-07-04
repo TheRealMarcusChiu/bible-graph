@@ -1,0 +1,1 @@
+(function(){var b="986c93ec6867",m="# Proverbs 6:25 (New International Version)\nDo not lust in your heart after her beauty  \n    or let her captivate you with her eyes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

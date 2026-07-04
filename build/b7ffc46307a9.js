@@ -1,0 +1,1 @@
+(function(){var b="b7ffc46307a9",m="# Psalm 89:28 (New International Version)\nI will maintain my love to him forever,  \n    and my covenant with him will never fail.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-89-33|ver 33-34]]; [[Isa-55-3|Isa 55:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

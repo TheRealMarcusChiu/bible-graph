@@ -1,0 +1,1 @@
+(function(){var b="54ced36996c5",m="# Psalm 91:5 (New International Version)\nYou will not fear<sup>^A</sup> the terror of night,  \n    nor the arrow that flies by day,\n\n### Crossrefs\n- A: S [[Job-5-21|Job 5:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

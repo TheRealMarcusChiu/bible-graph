@@ -1,0 +1,1 @@
+(function(){var b="5f8ab8994760",m="# Song of Songs 7:3 (New International Version)\nYour breasts<sup>^A</sup> are like two fawns,  \n    like twin fawns of a gazelle.\n\n### Crossrefs\n- A: [[Song-4-5|SS 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

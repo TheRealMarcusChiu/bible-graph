@@ -1,0 +1,1 @@
+(function(){var b="41a8f995e39b",m="# 1 Chronicles 8:36 (New International Version)\nAhaz was the father of Jehoaddah, Jehoaddah was the father of Alemeth, Azmaveth and Zimri, and Zimri was the father of Moza.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

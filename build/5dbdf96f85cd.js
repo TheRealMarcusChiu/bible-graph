@@ -1,0 +1,1 @@
+(function(){var b="5dbdf96f85cd",m="# Proverbs 4:8 (New International Version)\nCherish her, and she will exalt you;  \n    embrace her, and she will honor you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-3-18|Pr 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

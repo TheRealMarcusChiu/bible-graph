@@ -1,0 +1,1 @@
+(function(){var b="f3bbea091b3f",m="# Proverbs 8:2 (New International Version)\nAt the highest point along the way,  \n    where the paths meet, she takes her stand;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

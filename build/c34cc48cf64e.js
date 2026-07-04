@@ -1,0 +1,1 @@
+(function(){var b="c34cc48cf64e",m="# 1 Chronicles 24:11 (New International Version)\nthe ninth to Jeshua,\nthe tenth to Shekaniah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

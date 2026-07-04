@@ -1,0 +1,1 @@
+(function(){var b="8c989988c4d1",m="# Ezekiel 40:44 (New International Version)\nOutside the inner gate, within the inner court, were two rooms, one at the side of the north gate and facing south, and another at the side of the south gate and facing north.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

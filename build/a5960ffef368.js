@@ -1,0 +1,1 @@
+(function(){var b="a5960ffef368",m="# Ecclesiastes 8:4 (New International Version)\nSince a king's word is supreme, who can say to him, \"What are you doing?<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[Esth-1-19|Est 1:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

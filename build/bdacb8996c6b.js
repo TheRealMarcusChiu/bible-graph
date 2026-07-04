@@ -1,0 +1,1 @@
+(function(){var b="bdacb8996c6b",m="# Job 9:18 (New International Version)\nHe would not let me catch my breath  \n    but would overwhelm me with misery.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-7-19|Job 7:19]]; S [[Job-10-1|10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

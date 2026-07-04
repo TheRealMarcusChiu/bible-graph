@@ -1,0 +1,1 @@
+(function(){var b="b505996ca686",m="# 1 Chronicles 6:79 (New International Version)\nKedemoth<sup>^A</sup> and Mephaath, together with their pasturelands;\n\n### Crossrefs\n- A: S [[Deut-2-26|Dt 2:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

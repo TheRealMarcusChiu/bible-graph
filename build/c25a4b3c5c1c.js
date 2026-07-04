@@ -1,0 +1,1 @@
+(function(){var b="c25a4b3c5c1c",m="# Psalm 7:3 (New International Version)\nLORD my God, if I have done this  \n    and there is guilt on my hands<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Isa-59-3|Isa 59:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

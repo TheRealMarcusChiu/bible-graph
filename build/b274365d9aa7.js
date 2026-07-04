@@ -1,0 +1,1 @@
+(function(){var b="b274365d9aa7",m="# Psalm 39:7 (New International Version)\n\"But now, Lord, what do I look for?  \n    My hope is in you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-9-18|Ps 9:18]]; S [[Ps-25-5|25:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

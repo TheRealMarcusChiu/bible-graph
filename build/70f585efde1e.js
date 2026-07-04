@@ -1,0 +1,1 @@
+(function(){var b="70f585efde1e",m="# Ezekiel 41:21 (New International Version)\nThe main hall<sup>^A</sup> had a rectangular doorframe, and the one at the front of the Most Holy Place was similar. \n\n### Crossrefs\n- A: [[Ezek-41-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

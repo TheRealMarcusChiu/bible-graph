@@ -1,0 +1,1 @@
+(function(){var b="64c5d12e0801",m="# Jeremiah 39:10 (New International Version)\nBut Nebuzaradan the commander of the guard left behind in the land of Judah some of the poor people, who owned nothing; and at that time he gave them vineyards and fields.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

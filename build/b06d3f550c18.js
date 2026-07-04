@@ -1,0 +1,1 @@
+(function(){var b="b06d3f550c18",m="# Proverbs 1:5 (New International Version)\nlet the wise listen and add to their learning,<sup>^A</sup>  \n    and let the discerning get guidance--\n\n### Crossrefs\n- A: [[Prov-9-9|Pr 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

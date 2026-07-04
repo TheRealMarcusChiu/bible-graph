@@ -1,0 +1,1 @@
+(function(){var b="af0e5fbafcd7",m="# Isaiah 44:27 (New International Version)\nwho says to the watery deep, 'Be dry,  \n    and I will dry up<sup>^A</sup> your streams,'\n\n### Crossrefs\n- A: S [[Isa-11-15|Isa 11:15]]; S [[Isa-19-5|19:5]]; [[Rev-16-12|Rev 16:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="81f8f73b2919",m="# Proverbs 8:8 (New International Version)\nAll the words of my mouth are just;  \n    none of them is crooked or perverse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

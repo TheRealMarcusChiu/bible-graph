@@ -1,0 +1,1 @@
+(function(){var b="35d04bc6b16d",m="# 2 Kings 18:20 (New International Version)\nYou say you have the counsel and the might for war--but you speak only empty words. On whom are you depending, that you rebel against me?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

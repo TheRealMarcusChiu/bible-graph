@@ -1,0 +1,1 @@
+(function(){var b="b1add9f1c852",m="# 1 Chronicles 26:18 (New International Version)\nAs for the court to the west, there were four at the road and two at the court itself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

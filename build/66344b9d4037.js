@@ -1,0 +1,1 @@
+(function(){var b="66344b9d4037",m="# Psalm 30:8 (New International Version)\nTo you, LORD, I called;  \n    to the Lord I cried for mercy:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

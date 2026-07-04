@@ -1,0 +1,1 @@
+(function(){var b="5c3646de82bb",m="# 1 Chronicles 1:37 (New International Version)\nThe sons of Reuel:<sup>^A</sup>\nNahath, Zerah, Shammah and Mizzah.\n\n### Crossrefs\n- A: [[Gen-36-17|Ge 36:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a269dd6a223e",m="# Ezekiel 37:4 (New International Version)\nThen he said to me, \"Prophesy to these bones and say to them, 'Dry bones, hear the word of the LORD!<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-22-29|Jer 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

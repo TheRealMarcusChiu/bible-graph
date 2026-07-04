@@ -1,0 +1,1 @@
+(function(){var b="d46904ed7730",m="# Psalm 82:4 (New International Version)\nRescue the weak and the needy;  \n    deliver them from the hand of the wicked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

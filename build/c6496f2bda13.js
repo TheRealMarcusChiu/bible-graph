@@ -1,0 +1,1 @@
+(function(){var b="c6496f2bda13",m="# Psalm 102:20 (New International Version)\nto hear the groans of the prisoners<sup>^A</sup>  \n    and release those condemned to death.\"\n\n### Crossrefs\n- A: S [[Ps-68-6|Ps 68:6]]; S [[Luke-4-19|Lk 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="21196c9c679a",m="# Ecclesiastes 6:11 (New International Version)\nThe more the words,  \n    the less the meaning,  \n    and how does that profit anyone?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

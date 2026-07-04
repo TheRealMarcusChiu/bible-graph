@@ -1,0 +1,1 @@
+(function(){var b="b23c61955a52",m="# Ezra 8:4 (New International Version)\nof the descendants of Pahath-Moab,<sup>^A</sup> Eliehoenai son of Zerahiah, and with him 200 men;\n\n### Crossrefs\n- A: [[Ezra-2-6|Ezr 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

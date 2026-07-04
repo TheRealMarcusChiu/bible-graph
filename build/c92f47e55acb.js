@@ -1,0 +1,1 @@
+(function(){var b="c92f47e55acb",m="# Hosea 9:2 (New International Version)\nThreshing floors and winepresses will not feed the people;  \n    the new wine<sup>^A</sup> will fail them.\n\n### Crossrefs\n- A: [[Isa-24-7|Isa 24:7]]; [[Hos-2-9|Hos 2:9]]; [[Joel-1-10|Joel 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

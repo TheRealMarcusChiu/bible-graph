@@ -1,0 +1,1 @@
+(function(){var b="4c75d46b1e3b",m="# Psalm 135:19 (New International Version)\nAll you Israelites, praise the LORD;<sup>^A</sup>  \n    house of Aaron, praise the LORD;\n\n### Crossrefs\n- A: S [[Ps-22-23|Ps 22:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

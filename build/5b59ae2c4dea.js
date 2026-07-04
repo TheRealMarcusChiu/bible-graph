@@ -1,0 +1,1 @@
+(function(){var b="5b59ae2c4dea",m="# Ezekiel 40:45 (New International Version)\nHe said to me, \"The room facing south is for the priests who guard the temple,<sup>^A</sup> \n\n### Crossrefs\n- A: [[1Chr-9-23|1Ch 9:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

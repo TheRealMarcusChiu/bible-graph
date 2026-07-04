@@ -1,0 +1,1 @@
+(function(){var b="ce063cec5daf",m="# Job 41:6 (New International Version)\nWill traders barter for it?  \n    Will they divide it up among the merchants?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

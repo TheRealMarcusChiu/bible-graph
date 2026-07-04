@@ -1,0 +1,1 @@
+(function(){var b="f4e6eb89b9e3",m="# Nahum 1:11 (New International Version)\nFrom you, Nineveh, has one come forth  \n    who plots evil against the LORD  \n    and devises wicked plans.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

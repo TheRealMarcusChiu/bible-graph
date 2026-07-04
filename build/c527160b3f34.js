@@ -1,0 +1,1 @@
+(function(){var b="c527160b3f34",m="# Job 14:3 (New International Version)\nDo you fix your eye on them?<sup>^A</sup>  \n    Will you bring them before you for judgment?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-8-4|Ps 8:4]]; [[Ps-144-3|144:3]]\n- B: S [[Job-7-18|Job 7:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

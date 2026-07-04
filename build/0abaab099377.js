@@ -1,0 +1,1 @@
+(function(){var b="0abaab099377",m="# Jeremiah 1:14 (New International Version)\nThe LORD said to me, \"From the north<sup>^A</sup> disaster will be poured out on all who live in the land. \n\n### Crossrefs\n- A: S [[Isa-14-31|Isa 14:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

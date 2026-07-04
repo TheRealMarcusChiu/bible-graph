@@ -1,0 +1,1 @@
+(function(){var b="7148c258cb21",m="# Job 12:2 (New International Version)\n\"Doubtless you are the only people who matter,  \n    and wisdom will die with you!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-15-8|Job 15:8]]; [[Job-17-10|17:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

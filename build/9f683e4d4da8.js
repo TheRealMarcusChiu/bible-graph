@@ -1,0 +1,1 @@
+(function(){var b="9f683e4d4da8",m="# Proverbs 22:20 (New International Version)\nHave I not written thirty sayings for you,  \n    sayings of counsel and knowledge,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

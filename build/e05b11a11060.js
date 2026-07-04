@@ -1,0 +1,1 @@
+(function(){var b="e05b11a11060",m="# Proverbs 17:10 (New International Version)\nA rebuke impresses a discerning person  \n    more than a hundred lashes a fool.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

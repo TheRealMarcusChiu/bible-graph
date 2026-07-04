@@ -1,0 +1,1 @@
+(function(){var b="c98e7f253483",m="# Psalm 108:2 (New International Version)\nAwake, harp and lyre!<sup>^A</sup>  \n    I will awaken the dawn.\n\n### Crossrefs\n- A: S [[Job-21-12|Job 21:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

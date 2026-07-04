@@ -1,0 +1,1 @@
+(function(){var b="f9d7e6a8a399",m="# Ezekiel 27:19 (New International Version)\nand casks of wine from Izal<sup>^A</sup> in exchange for your wares: wrought iron, cassia<sup>^B</sup> and calamus.\n\n### Crossrefs\n- A: [[Gen-10-27|Ge 10:27]]\n- B: S [[Exod-30-24|Ex 30:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

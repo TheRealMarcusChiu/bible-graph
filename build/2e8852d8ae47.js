@@ -1,0 +1,1 @@
+(function(){var b="2e8852d8ae47",m="# Amos 2:16 (New International Version)\nEven the bravest warriors<sup>^A</sup>  \n    will flee naked on that day,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[Jer-48-41|Jer 48:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

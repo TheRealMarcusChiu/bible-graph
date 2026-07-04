@@ -1,0 +1,1 @@
+(function(){var b="2e0290f7a650",m="# Daniel 10:9 (New International Version)\nThen I heard him speaking, and as I listened to him, I fell into a deep sleep, my face to the ground.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-8-18|Da 8:18]]; [[Matt-17-6|Mt 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="41d4b4fea507",m="# Proverbs 19:22 (New International Version)\nWhat a person desires is unfailing love;  \n    better to be poor than a liar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

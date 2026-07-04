@@ -1,0 +1,1 @@
+(function(){var b="ce252dea00dd",m="# Psalm 74:22 (New International Version)\nRise up,<sup>^A</sup> O God, and defend your cause;  \n    remember how fools<sup>^B</sup> mock you all day long.\n\n### Crossrefs\n- A: [[Ps-17-13|Ps 17:13]]\n- B: S [[Ps-53-1|Ps 53:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

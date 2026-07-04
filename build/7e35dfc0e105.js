@@ -1,0 +1,1 @@
+(function(){var b="7e35dfc0e105",m="# 1 Chronicles 4:28 (New International Version)\nThey lived in Beersheba,<sup>^A</sup> Moladah,<sup>^B</sup> Hazar Shual, \n\n### Crossrefs\n- A: S [[Gen-21-14|Ge 21:14]]\n- B: S [[Josh-15-26|Jos 15:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

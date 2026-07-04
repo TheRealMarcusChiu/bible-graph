@@ -1,0 +1,1 @@
+(function(){var b="949dbf037bdf",m="# Proverbs 4:2 (New International Version)\nI give you sound learning,  \n    so do not forsake my teaching.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

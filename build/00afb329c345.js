@@ -1,0 +1,1 @@
+(function(){var b="00afb329c345",m="# Jeremiah 48:22 (New International Version)\nto Dibon,<sup>^A</sup> Nebo<sup>^B</sup> and Beth Diblathaim,\n\n### Crossrefs\n- A: S [[Num-21-30|Nu 21:30]]; S [[Josh-13-9|Jos 13:9]], [[Josh-13-17|17]]\n- B: S [[Num-32-38|Nu 32:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

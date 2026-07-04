@@ -1,0 +1,1 @@
+(function(){var b="fd0763364315",m="# Psalm 59:3 (New International Version)\nSee how they lie in wait for me!  \n    Fierce men conspire<sup>^A</sup> against me  \n    for no offense or sin of mine, LORD.\n\n### Crossrefs\n- A: S [[Ps-56-6|Ps 56:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="abf077befee7",m="# Ezekiel 46:21 (New International Version)\nHe then brought me to the outer court and led me around to its four corners, and I saw in each corner another court.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

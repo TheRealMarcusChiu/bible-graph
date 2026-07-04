@@ -1,0 +1,1 @@
+(function(){var b="0c22c06ab6a3",m="# Isaiah 28:14 (New International Version)\nTherefore hear the word of the LORD,<sup>^A</sup> you scoffers<sup>^B</sup>  \n    who rule this people in Jerusalem.\n\n### Crossrefs\n- A: [[Isa-1-10|Isa 1:10]]\n- B: [[2Chr-36-16|2Ch 36:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

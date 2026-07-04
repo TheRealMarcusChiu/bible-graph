@@ -1,0 +1,1 @@
+(function(){var b="539b8830e810",m="# Job 34:9 (New International Version)\nFor he says, 'There is no profit  \n    in trying to please God.'<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-29|Job 9:29-31]]; S [[Job-21-15|21:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

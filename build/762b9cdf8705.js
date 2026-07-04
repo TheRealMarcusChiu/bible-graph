@@ -1,0 +1,1 @@
+(function(){var b="762b9cdf8705",m="# Ezekiel 7:25 (New International Version)\nWhen terror comes,  \n    they will seek peace in vain.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-6-14|Jer 6:14]]; S [[Jer-8-11|8:11]]; [[Ezek-13-10|Eze 13:10]], [[Ezek-13-16|16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

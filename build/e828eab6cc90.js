@@ -1,0 +1,1 @@
+(function(){var b="e828eab6cc90",m="# Jeremiah 5:2 (New International Version)\nAlthough they say, 'As surely as the LORD lives,'<sup>^A</sup>  \n    still they are swearing falsely.<sup>^B</sup>\"\n\n### Crossrefs\n- A: S [[Jer-4-2|Jer 4:2]]\n- B: S [[Lev-19-12|Lev 19:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5d3a29db22ee",m="# Psalm 19:2 (New International Version)\nDay after day they pour forth speech;  \n    night after night they reveal knowledge.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-74-16|Ps 74:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

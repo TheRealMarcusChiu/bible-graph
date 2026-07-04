@@ -1,0 +1,1 @@
+(function(){var b="03c8c47b9658",m="# Psalm 104:33 (New International Version)\nI will sing<sup>^A</sup> to the LORD all my life;  \n    I will sing praise to my God as long as I live.\n\n### Crossrefs\n- A: S [[Exod-15-1|Ex 15:1]]; [[Ps-108-1|Ps 108:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

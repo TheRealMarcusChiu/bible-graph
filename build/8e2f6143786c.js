@@ -1,0 +1,1 @@
+(function(){var b="8e2f6143786c",m="# Proverbs 22:13 (New International Version)\nThe sluggard says, \"There's a lion outside!<sup>^A</sup>  \n    I'll be killed in the public square!\"\n\n### Crossrefs\n- A: [[Prov-26-13|Pr 26:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

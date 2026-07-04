@@ -1,0 +1,1 @@
+(function(){var b="26f8997f6219",m="# 2 Chronicles 11:22 (New International Version)\nRehoboam appointed Abijah<sup>^A</sup> son of Maakah as crown prince among his brothers, in order to make him king. \n\n### Crossrefs\n- A: [[Deut-21-15|Dt 21:15-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

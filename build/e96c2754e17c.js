@@ -1,0 +1,1 @@
+(function(){var b="e96c2754e17c",m="# Psalm 31:16 (New International Version)\nLet your face shine<sup>^A</sup> on your servant;  \n    save me in your unfailing love.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-6-25|Nu 6:25]]\n- B: S [[Ps-6-4|Ps 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

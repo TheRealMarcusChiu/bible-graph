@@ -1,0 +1,1 @@
+(function(){var b="b9ead81fb82d",m="# Psalm 137:9 (New International Version)\nHappy is the one who seizes your infants  \n    and dashes them<sup>^A</sup> against the rocks.\n\n### Crossrefs\n- A: S [[2Kgs-8-12|2Ki 8:12]]; S [[Isa-13-16|Isa 13:16]]; [[Luke-19-44|Lk 19:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

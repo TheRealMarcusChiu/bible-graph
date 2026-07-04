@@ -1,0 +1,1 @@
+(function(){var b="5a16fa0c62fa",m="# Proverbs 3:15 (New International Version)\nShe is more precious than rubies;<sup>^A</sup>  \n    nothing you desire can compare with her.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-28-18|Job 28:18]]\n- B: S [[Job-28-17|Job 28:17-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

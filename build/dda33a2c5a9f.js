@@ -1,0 +1,1 @@
+(function(){var b="dda33a2c5a9f",m="# Micah 7:15 (New International Version)\n\"As in the days when you came out of Egypt,  \n    I will show them my wonders.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Exod-3-20|Ex 3:20]]; [[Ps-78-12|Ps 78:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

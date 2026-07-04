@@ -1,0 +1,1 @@
+(function(){var b="cb571f1239cc",m="# 2 Chronicles 34:6 (New International Version)\nIn the towns of Manasseh, Ephraim and Simeon, as far as Naphtali, and in the ruins around them,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

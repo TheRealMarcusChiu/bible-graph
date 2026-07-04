@@ -1,0 +1,1 @@
+(function(){var b="fe8232b33972",m="# 2 Chronicles 10:17 (New International Version)\nBut as for the Israelites who were living in the towns of Judah, Rehoboam still ruled over them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

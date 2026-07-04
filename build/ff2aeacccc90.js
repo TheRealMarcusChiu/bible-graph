@@ -1,0 +1,1 @@
+(function(){var b="ff2aeacccc90",m="# Daniel 10:18 (New International Version)\nAgain the one who looked like a man touched<sup>^A</sup> me and gave me strength.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Dan-10-16|ver 16]]\n- B: S [[Dan-8-18|Da 8:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

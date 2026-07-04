@@ -1,0 +1,1 @@
+(function(){var b="ba93ab20ae8f",m="# Ecclesiastes 10:5 (New International Version)\nThere is an evil I have seen under the sun,  \n    the sort of error that arises from a ruler:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

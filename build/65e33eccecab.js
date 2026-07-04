@@ -1,0 +1,1 @@
+(function(){var b="65e33eccecab",m="# Song of Songs 8:10 (New International Version)\nI am a wall,  \n    and my breasts are like towers.  \nThus I have become in his eyes  \n    like one bringing contentment.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

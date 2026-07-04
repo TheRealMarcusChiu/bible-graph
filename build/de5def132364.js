@@ -1,0 +1,1 @@
+(function(){var b="de5def132364",m="# 1 Chronicles 24:23 (New International Version)\nThe sons of Hebron:<sup>^A</sup> Jeriah the first, Amariah the second, Jahaziel the third and Jekameam the fourth.\n\n### Crossrefs\n- A: S [[1Chr-23-19|1Ch 23:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

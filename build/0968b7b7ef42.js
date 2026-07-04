@@ -1,0 +1,1 @@
+(function(){var b="0968b7b7ef42",m="# 1 Chronicles 17:22 (New International Version)\nYou made your people Israel your very own forever,<sup>^A</sup> and you, LORD, have become their God.\n\n### Crossrefs\n- A: [[Exod-19-5|Ex 19:5-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

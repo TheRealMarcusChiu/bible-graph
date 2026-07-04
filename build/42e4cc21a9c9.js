@@ -1,0 +1,1 @@
+(function(){var b="42e4cc21a9c9",m="# 1 Chronicles 9:14 (New International Version)\nOf the Levites:\nShemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, a Merarite;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2d8c2229a7c3",m="# Psalm 59:14 (New International Version)\nThey return at evening,  \n    snarling like dogs,  \n    and prowl about the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

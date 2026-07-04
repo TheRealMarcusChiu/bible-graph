@@ -1,0 +1,1 @@
+(function(){var b="889d311176ba",m="# Zechariah 11:8 (New International Version)\nIn one month I got rid of the three shepherds.\nThe flock detested<sup>^A</sup> me, and I grew weary of them \n\n### Crossrefs\n- A: S [[Ezek-14-5|Eze 14:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

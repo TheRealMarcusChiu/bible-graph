@@ -1,0 +1,1 @@
+(function(){var b="ecc63ba24313",m="# Psalm 104:18 (New International Version)\nThe high mountains belong to the wild goats;<sup>^A</sup>  \n    the crags are a refuge for the hyrax.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-14-5|Dt 14:5]]\n- B: [[Prov-30-26|Pr 30:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

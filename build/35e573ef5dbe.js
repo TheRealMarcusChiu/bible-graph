@@ -1,0 +1,1 @@
+(function(){var b="35e573ef5dbe",m="# Ezekiel 16:30 (New International Version)\n\"'I am filled with fury against you, declares the Sovereign LORD, when you do all these things, acting like a brazen prostitute!<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Jer-3-3|Jer 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

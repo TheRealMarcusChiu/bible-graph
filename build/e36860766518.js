@@ -1,0 +1,1 @@
+(function(){var b="e36860766518",m="# 2 Chronicles 21:9 (New International Version)\nSo Jehoram went there with his officers and all his chariots. The Edomites surrounded him and his chariot commanders, but he rose up and broke through by night.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

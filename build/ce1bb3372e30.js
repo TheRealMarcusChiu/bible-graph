@@ -1,0 +1,1 @@
+(function(){var b="ce1bb3372e30",m="# Daniel 5:22 (New International Version)\n\"But you, Belshazzar, his son, have not humbled<sup>^A</sup> yourself, though you knew all this. \n\n### Crossrefs\n- A: S [[Exod-10-3|Ex 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

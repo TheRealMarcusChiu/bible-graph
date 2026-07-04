@@ -1,0 +1,1 @@
+(function(){var b="74abe3635efa",m="# Isaiah 28:23 (New International Version)\nListen<sup>^A</sup> and hear my voice;  \n    pay attention and hear what I say.\n\n### Crossrefs\n- A: [[Isa-32-9|Isa 32:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

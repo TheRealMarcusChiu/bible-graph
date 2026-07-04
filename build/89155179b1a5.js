@@ -1,0 +1,1 @@
+(function(){var b="89155179b1a5",m="# Esther 9:6 (New International Version)\nIn the citadel of Susa, the Jews killed and destroyed five hundred men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

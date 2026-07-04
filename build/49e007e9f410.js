@@ -1,0 +1,1 @@
+(function(){var b="49e007e9f410",m="# Psalm 57:10 (New International Version)\nFor great is your love, reaching to the heavens;  \n    your faithfulness reaches to the skies.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-36-5|Ps 36:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

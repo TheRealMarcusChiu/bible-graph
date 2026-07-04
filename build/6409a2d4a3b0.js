@@ -1,0 +1,1 @@
+(function(){var b="6409a2d4a3b0",m="# 1 Chronicles 4:30 (New International Version)\nBethuel, Hormah,<sup>^A</sup> Ziklag,<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Num-14-45|Nu 14:45]]\n- B: S [[Josh-15-31|Jos 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

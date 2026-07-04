@@ -1,0 +1,1 @@
+(function(){var b="ef7f9a073738",m="# Proverbs 24:32 (New International Version)\nI applied my heart to what I observed  \n    and learned a lesson from what I saw:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

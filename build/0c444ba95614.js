@@ -1,0 +1,1 @@
+(function(){var b="0c444ba95614",m="# Proverbs 17:14 (New International Version)\nStarting a quarrel is like breaching a dam;  \n    so drop the matter before a dispute breaks out.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-5-25|Mt 5:25-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

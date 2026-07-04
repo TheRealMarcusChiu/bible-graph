@@ -1,0 +1,1 @@
+(function(){var b="dd4e31516021",m="# Jeremiah 18\n\nThe weeping prophet warns Judah of the Babylonian exile and promises a new covenant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

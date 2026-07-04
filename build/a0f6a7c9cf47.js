@@ -1,0 +1,1 @@
+(function(){var b="a0f6a7c9cf47",m="# 1 Chronicles 1:50 (New International Version)\nWhen Baal-Hanan died, Hadad succeeded him as king. His city was named Pau, and his wife's name was Mehetabel daughter of Matred, the daughter of Me-Zahab.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

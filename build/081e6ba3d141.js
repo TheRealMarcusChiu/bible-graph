@@ -1,0 +1,1 @@
+(function(){var b="081e6ba3d141",m="# 1 Chronicles 1:6 (New International Version)\nThe sons of Gomer:\nAshkenaz, Riphath and Togarmah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

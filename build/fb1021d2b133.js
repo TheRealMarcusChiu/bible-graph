@@ -1,0 +1,1 @@
+(function(){var b="fb1021d2b133",m="# Proverbs 4:5 (New International Version)\nGet wisdom,<sup>^A</sup> get understanding;  \n    do not forget my words or turn away from them.\n\n### Crossrefs\n- A: S [[Prov-2-12|Pr 2:12]]; [[Prov-3-13|3:13-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

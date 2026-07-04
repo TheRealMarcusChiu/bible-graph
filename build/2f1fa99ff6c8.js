@@ -1,0 +1,1 @@
+(function(){var b="2f1fa99ff6c8",m="# 2 Kings 4:14 (New International Version)\n\"What can be done for her?\" Elisha asked.\nGehazi said, \"She has no son, and her husband is old.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

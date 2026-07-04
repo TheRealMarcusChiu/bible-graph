@@ -1,0 +1,1 @@
+(function(){var b="09110b603866",m="# Psalm 119:31 (New International Version)\nI hold fast<sup>^A</sup> to your statutes, LORD;  \n    do not let me be put to shame.\n\n### Crossrefs\n- A: S [[Deut-10-20|Dt 10:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

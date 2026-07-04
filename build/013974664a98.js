@@ -1,0 +1,1 @@
+(function(){var b="013974664a98",m="# Job 13:20 (New International Version)\n\"Only grant me these two things, God,  \n    and then I will not hide from you:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

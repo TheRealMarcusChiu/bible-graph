@@ -1,0 +1,1 @@
+(function(){var b="52c605850442",m="# Proverbs 23:29 (New International Version)\nWho has woe? Who has sorrow?  \n    Who has strife? Who has complaints?  \n    Who has needless bruises? Who has bloodshot eyes?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

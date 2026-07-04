@@ -1,0 +1,1 @@
+(function(){var b="652ff0a06297",m="# 1 Chronicles 1:14 (New International Version)\nJebusites, Amorites, Girgashites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8fd464d3d3e4",m="# 2 Chronicles 21:11 (New International Version)\nHe had also built high places on the hills of Judah and had caused the people of Jerusalem to prostitute themselves and had led Judah astray.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1632563dbbe5",m="# 2 Kings 12:8 (New International Version)\nThe priests agreed that they would not collect any more money from the people and that they would not repair the temple themselves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5d9c95df16b4",m="# 2 Chronicles 26:12 (New International Version)\nThe total number of family leaders over the fighting men was 2,600.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

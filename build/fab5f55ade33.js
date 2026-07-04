@@ -1,0 +1,1 @@
+(function(){var b="fab5f55ade33",m="# Psalm 140:6 (New International Version)\nI say to the LORD, \"You are my God.\"<sup>^A</sup>  \n    Hear, LORD, my cry for mercy.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-16-2|Ps 16:2]]\n- B: S [[Ps-28-2|Ps 28:2]], [[Ps-28-6|6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

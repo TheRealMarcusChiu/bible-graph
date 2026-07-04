@@ -1,0 +1,1 @@
+(function(){var b="424a57b7f30b",m="# Psalm 119:163 (New International Version)\nI hate and detest<sup>^A</sup> falsehood  \n    but I love your law.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-119-128|ver 128]]\n- B: [[Ps-119-47|ver 47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

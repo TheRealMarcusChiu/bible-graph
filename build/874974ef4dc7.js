@@ -1,0 +1,1 @@
+(function(){var b="874974ef4dc7",m="# Job 39:22 (New International Version)\nIt laughs<sup>^A</sup> at fear, afraid of nothing;  \n    it does not shy away from the sword.\n\n### Crossrefs\n- A: S [[Job-5-22|Job 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

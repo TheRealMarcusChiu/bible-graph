@@ -1,0 +1,1 @@
+(function(){var b="75915c3b7f4f",m="# Ezekiel 8:7 (New International Version)\nThen he brought me to the entrance to the court. I looked, and I saw a hole in the wall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

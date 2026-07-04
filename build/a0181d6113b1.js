@@ -1,0 +1,1 @@
+(function(){var b="a0181d6113b1",m="# Psalm 115:6 (New International Version)\nThey have ears, but cannot hear,  \n    noses, but cannot smell.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

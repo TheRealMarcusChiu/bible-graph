@@ -1,0 +1,1 @@
+(function(){var b="cafeb3b47de4",m="# Job 9:29 (New International Version)\nSince I am already found guilty,  \n    why should I struggle in vain?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-3|ver 3]],S [[Job-9-15|15]]; [[Ps-37-33|Ps 37:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

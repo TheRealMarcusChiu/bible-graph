@@ -1,0 +1,1 @@
+(function(){var b="9233f9b665f6",m="# Daniel 2:26 (New International Version)\nThe king asked Daniel (also called Belteshazzar),<sup>^A</sup> \"Are you able to tell me what I saw in my dream and interpret it?\"\n\n### Crossrefs\n- A: S [[Dan-1-7|Da 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

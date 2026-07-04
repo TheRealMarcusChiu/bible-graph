@@ -1,0 +1,1 @@
+(function(){var b="240213e902df",m="# 1 Chronicles 17:2 (New International Version)\nNathan replied to David, \"Whatever you have in mind,<sup>^A</sup> do it, for God is with you.\"\n\n### Crossrefs\n- A: [[1Chr-22-7|1Ch 22:7]]; [[1Chr-28-2|28:2]]; [[2Chr-6-7|2Ch 6:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

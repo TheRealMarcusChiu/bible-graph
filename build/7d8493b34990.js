@@ -1,0 +1,1 @@
+(function(){var b="7d8493b34990",m="# 1 Chronicles 1:21 (New International Version)\nHadoram, Uzal, Diklah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

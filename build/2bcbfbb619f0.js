@@ -1,0 +1,1 @@
+(function(){var b="2bcbfbb619f0",m="# Psalm 85:4 (New International Version)\nRestore<sup>^A</sup> us again, God our Savior,<sup>^B</sup>  \n    and put away your displeasure toward us.\n\n### Crossrefs\n- A: S [[Ps-71-20|Ps 71:20]]\n- B: S [[Ps-65-5|Ps 65:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

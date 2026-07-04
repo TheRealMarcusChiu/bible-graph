@@ -1,0 +1,1 @@
+(function(){var b="731eb26f1f2e",m="# 2 Chronicles 32:22 (New International Version)\nSo the LORD saved Hezekiah and the people of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others. He took care of them on every side.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

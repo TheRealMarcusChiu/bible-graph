@@ -1,0 +1,1 @@
+(function(){var b="f2f1962290a7",m="# Daniel 1:12 (New International Version)\n\"Please test<sup>^A</sup> your servants for ten days: Give us nothing but vegetables to eat and water to drink. \n\n### Crossrefs\n- A: [[Rev-2-10|Rev 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

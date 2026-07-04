@@ -1,0 +1,1 @@
+(function(){var b="57f6accdac4b",m="# Ezekiel 34:19 (New International Version)\nMust my flock feed on what you have trampled and drink what you have muddied with your feet?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

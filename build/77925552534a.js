@@ -1,0 +1,1 @@
+(function(){var b="77925552534a",m="# Proverbs 6:28 (New International Version)\nCan a man walk on hot coals  \n    without his feet being scorched?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6be987163865",m="# Psalm 115:14 (New International Version)\nMay the LORD cause you to flourish,<sup>^A</sup>  \n    both you and your children.\n\n### Crossrefs\n- A: [[Deut-1-11|Dt 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

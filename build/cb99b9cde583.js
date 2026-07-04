@@ -1,0 +1,1 @@
+(function(){var b="cb99b9cde583",m="# 2 Chronicles 34:26 (New International Version)\nTell the king of Judah, who sent you to inquire of the LORD, 'This is what the LORD, the God of Israel, says concerning the words you heard:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

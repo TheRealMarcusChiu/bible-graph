@@ -1,0 +1,1 @@
+(function(){var b="217a030973c5",m="# Jeremiah 31:39 (New International Version)\nThe measuring line<sup>^A</sup> will stretch from there straight to the hill of Gareb and then turn to Goah. \n\n### Crossrefs\n- A: S [[1Kgs-7-23|1Ki 7:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

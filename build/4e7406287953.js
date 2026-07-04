@@ -1,0 +1,1 @@
+(function(){var b="4e7406287953",m="# 1 Chronicles 9:24 (New International Version)\nThe gatekeepers were on the four sides: east, west, north and south.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

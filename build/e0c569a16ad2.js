@@ -1,0 +1,1 @@
+(function(){var b="e0c569a16ad2",m="# 2 Kings 8:3 (New International Version)\nAt the end of the seven years she came back from the land of the Philistines and went to appeal to the king for her house and land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="831e4f222ae5",m="# 2 Kings 5:19 (New International Version)\n\"Go in peace,\"<sup>^A</sup> Elisha said.\nAfter Naaman had traveled some distance, \n\n### Crossrefs\n- A: [[1Sam-1-17|1Sa 1:17]]; S [[Acts-15-33|Ac 15:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6e928b1c0d77",m="# Nehemiah 11:10 (New International Version)\nFrom the priests:\nJedaiah; the son of Joiarib; Jakin;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

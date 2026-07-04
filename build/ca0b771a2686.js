@@ -1,0 +1,1 @@
+(function(){var b="ca0b771a2686",m="# 2 Chronicles 8:16 (New International Version)\nAll Solomon's work was carried out, from the day the foundation of the temple of the LORD was laid until its completion. So the temple of the LORD was finished.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="017f6e96949d",m="# Proverbs 23:33 (New International Version)\nYour eyes will see strange sights,  \n    and your mind will imagine confusing things.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

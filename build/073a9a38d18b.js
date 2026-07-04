@@ -1,0 +1,1 @@
+(function(){var b="073a9a38d18b",m="# 1 Chronicles 5:14 (New International Version)\nThese were the sons of Abihail son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

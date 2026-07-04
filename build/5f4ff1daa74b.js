@@ -1,0 +1,1 @@
+(function(){var b="5f4ff1daa74b",m="# Jonah 4:7 (New International Version)\nBut at dawn the next day God provided a worm, which chewed the plant so that it withered.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Joel-1-12|Joel 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

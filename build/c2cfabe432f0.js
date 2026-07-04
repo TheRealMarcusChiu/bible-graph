@@ -1,0 +1,1 @@
+(function(){var b="c2cfabe432f0",m="# Psalm 78:24 (New International Version)\nhe rained down manna<sup>^A</sup> for the people to eat,  \n    he gave them the grain of heaven.\n\n### Crossrefs\n- A: [[Exod-16-4|Ex 16:4]]; Jn 6:31*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

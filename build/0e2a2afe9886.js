@@ -1,0 +1,1 @@
+(function(){var b="0e2a2afe9886",m="# Nehemiah 1:10 (New International Version)\n\"They are your servants and your people, whom you redeemed by your great strength and your mighty hand.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-32-11|Ex 32:11]]; [[Isa-51-9|Isa 51:9-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

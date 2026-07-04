@@ -1,0 +1,1 @@
+(function(){var b="e8ca12e8a775",m="# Psalm 130:8 (New International Version)\nHe himself will redeem<sup>^A</sup> Israel  \n    from all their sins.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Luke-1-68|Lk 1:68]]\n- B: S [[Exod-34-7|Ex 34:7]]; S [[Matt-1-21|Mt 1:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

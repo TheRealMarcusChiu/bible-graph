@@ -1,0 +1,1 @@
+(function(){var b="52b648db29cd",m="# Proverbs 30:31 (New International Version)\na strutting rooster, a he-goat,  \n    and a king secure against revolt.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

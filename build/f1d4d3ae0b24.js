@@ -1,0 +1,1 @@
+(function(){var b="f1d4d3ae0b24",m="# Nehemiah 4:19 (New International Version)\nThen I said to the nobles, the officials and the rest of the people, \"The work is extensive and spread out, and we are widely separated from each other along the wall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="21fbb81f52f3",m="# Ecclesiastes 11:3 (New International Version)\nIf clouds are full of water,  \n    they pour rain on the earth.  \nWhether a tree falls to the south or to the north,  \n    in the place where it falls, there it will lie.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

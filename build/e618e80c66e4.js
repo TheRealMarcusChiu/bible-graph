@@ -1,0 +1,1 @@
+(function(){var b="e618e80c66e4",m="# 2 Kings 4:31 (New International Version)\nGehazi went on ahead and laid the staff on the boy's face, but there was no sound or response. So Gehazi went back to meet Elisha and told him, \"The boy has not awakened.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

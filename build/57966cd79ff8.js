@@ -1,0 +1,1 @@
+(function(){var b="57966cd79ff8",m="# 1 Chronicles 4:34 (New International Version)\nMeshobab, Jamlech, Joshah son of Amaziah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

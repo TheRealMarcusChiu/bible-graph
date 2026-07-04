@@ -1,0 +1,1 @@
+(function(){var b="8b77613a3f20",m="# Lamentations 3:19 (New International Version)\nI remember my affliction and my wandering,  \n    the bitterness<sup>^A</sup> and the gall.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Lam-3-5|ver 5]]\n- B: S [[Lam-3-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

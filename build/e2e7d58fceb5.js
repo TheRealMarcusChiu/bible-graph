@@ -1,0 +1,1 @@
+(function(){var b="e2e7d58fceb5",m="# Ezekiel 12:17 (New International Version)\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

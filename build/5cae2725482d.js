@@ -1,0 +1,1 @@
+(function(){var b="5cae2725482d",m="# Psalm 119:8 (New International Version)\nI will obey your decrees;  \n    do not utterly forsake me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-38-21|Ps 38:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

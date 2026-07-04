@@ -1,0 +1,1 @@
+(function(){var b="7a9a933fcb01",m="# 2 Chronicles 32:3 (New International Version)\nhe consulted with his officials and military staff about blocking off the water from the springs outside the city, and they helped him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

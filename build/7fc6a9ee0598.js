@@ -1,0 +1,1 @@
+(function(){var b="7fc6a9ee0598",m="# Psalm 115:11 (New International Version)\nYou who fear him,<sup>^A</sup> trust in the LORD--  \n    he is their help and shield.\n\n### Crossrefs\n- A: [[Ps-22-23|Ps 22:23]]; [[Ps-103-11|103:11]]; [[Ps-118-4|118:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

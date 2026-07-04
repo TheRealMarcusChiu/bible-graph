@@ -1,0 +1,1 @@
+(function(){var b="aaaf680728c1",m="# Psalm 78:26 (New International Version)\nHe let loose the east wind<sup>^A</sup> from the heavens  \n    and by his power made the south wind blow.\n\n### Crossrefs\n- A: S [[Num-11-31|Nu 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

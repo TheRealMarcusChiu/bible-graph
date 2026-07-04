@@ -1,0 +1,1 @@
+(function(){var b="dea9f16bcbf7",m="# Ezekiel 1:9 (New International Version)\nand the wings of one touched the wings of another. Each one went straight ahead; they did not turn as they moved.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-10-22|Eze 10:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

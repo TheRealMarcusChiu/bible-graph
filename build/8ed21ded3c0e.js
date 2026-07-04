@@ -1,0 +1,1 @@
+(function(){var b="8ed21ded3c0e",m="# Daniel 11:14 (New International Version)\n\"In those times many will rise against the king of the South. Those who are violent among your own people will rebel in fulfillment of the vision, but without success.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b7ffc05b39c4",m="# Psalm 89:42 (New International Version)\nYou have exalted the right hand of his foes;  \n    you have made all his enemies rejoice.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-13-2|Ps 13:2]]; [[Ps-80-6|80:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="da586ef89269",m="# Ezekiel 32:5 (New International Version)\nI will spread your flesh on the mountains  \n    and fill the valleys<sup>^A</sup> with your remains.\n\n### Crossrefs\n- A: S [[Ezek-31-12|Eze 31:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

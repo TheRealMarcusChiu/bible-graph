@@ -1,0 +1,1 @@
+(function(){var b="5c859e901ee2",m="# Nehemiah 12:22 (New International Version)\nThe family heads of the Levites in the days of Eliashib, Joiada, Johanan and Jaddua, as well as those of the priests, were recorded in the reign of Darius the Persian.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

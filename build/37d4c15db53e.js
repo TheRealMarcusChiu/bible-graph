@@ -1,0 +1,1 @@
+(function(){var b="37d4c15db53e",m="# 2 Kings 24:9 (New International Version)\nHe did evil<sup>^A</sup> in the eyes of the LORD, just as his father had done.\n\n### Crossrefs\n- A: [[1Kgs-15-26|1Ki 15:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

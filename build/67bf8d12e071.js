@@ -1,0 +1,1 @@
+(function(){var b="67bf8d12e071",m="# Isaiah 42:18 (New International Version)\nIsrael Blind and Deaf\n\"Hear, you deaf;<sup>^A</sup>  \n    look, you blind, and see!\n\n### Crossrefs\n- A: S [[Isa-35-5|Isa 35:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8dd88b0c2cd8",m="# Psalm 35:11 (New International Version)\nRuthless witnesses<sup>^A</sup> come forward;  \n    they question me on things I know nothing about.\n\n### Crossrefs\n- A: S [[Exod-23-1|Ex 23:1]]; S [[Matt-26-60|Mt 26:60]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

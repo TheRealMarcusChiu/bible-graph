@@ -1,0 +1,1 @@
+(function(){var b="66ffd95b051a",m="# 1 Chronicles 2:18 (New International Version)\nCaleb son of Hezron had children by his wife Azubah (and by Jerioth). These were her sons: Jesher, Shobab and Ardon.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

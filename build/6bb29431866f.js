@@ -1,0 +1,1 @@
+(function(){var b="6bb29431866f",m="# Psalm 89:9 (New International Version)\nYou rule over the surging sea;  \n    when its waves mount up, you still them.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-65-7|Ps 65:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

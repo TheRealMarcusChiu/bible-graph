@@ -1,0 +1,1 @@
+(function(){var b="6929ea41201b",m="# 2 Chronicles 16:11 (New International Version)\nThe events of Asa's reign, from beginning to end, are written in the book of the kings of Judah and Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

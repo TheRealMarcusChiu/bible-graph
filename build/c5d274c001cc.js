@@ -1,0 +1,1 @@
+(function(){var b="c5d274c001cc",m="# Ezra 2:13 (New International Version)\n\n### Crossrefs\n- A: [[Ezra-8-13|Ezr 8:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

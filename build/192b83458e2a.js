@@ -1,0 +1,1 @@
+(function(){var b="192b83458e2a",m="# Psalm 114:2 (New International Version)\nJudah<sup>^A</sup> became God's sanctuary,<sup>^B</sup>  \n    Israel his dominion.\n\n### Crossrefs\n- A: [[Ps-76-1|Ps 76:1]]\n- B: S [[Exod-15-17|Ex 15:17]]; [[Ps-78-68|Ps 78:68-69]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

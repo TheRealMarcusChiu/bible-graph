@@ -1,0 +1,1 @@
+(function(){var b="7e1946144f2f",m="# Psalm 44:10 (New International Version)\nYou made us retreat<sup>^A</sup> before the enemy,  \n    and our adversaries have plundered<sup>^B</sup> us.\n\n### Crossrefs\n- A: S [[Lev-26-17|Lev 26:17]]\n- B: S [[Judg-2-14|Jdg 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

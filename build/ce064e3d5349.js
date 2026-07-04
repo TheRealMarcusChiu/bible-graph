@@ -1,0 +1,1 @@
+(function(){var b="ce064e3d5349",m="# Psalm 37:22 (New International Version)\nthose the LORD blesses will inherit the land,  \n    but those he curses<sup>^A</sup> will be destroyed.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-5-3|Job 5:3]]\n- B: [[Ps-37-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

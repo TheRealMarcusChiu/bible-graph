@@ -1,0 +1,1 @@
+(function(){var b="80ab1b96660d",m="# Proverbs 4:20 (New International Version)\nMy son,<sup>^A</sup> pay attention to what I say;  \n    turn your ear to my words.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-34-11|Ps 34:11-16]]; [[Prov-1-8|Pr 1:8-9]]\n- B: [[Prov-5-1|Pr 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

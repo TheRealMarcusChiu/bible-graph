@@ -1,0 +1,1 @@
+(function(){var b="a6901844d5ad",m="# 1 Chronicles 6:75 (New International Version)\nHukok<sup>^A</sup> and Rehob,<sup>^B</sup> together with their pasturelands;\n\n### Crossrefs\n- A: [[Josh-19-34|Jos 19:34]]\n- B: S [[Num-13-21|Nu 13:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

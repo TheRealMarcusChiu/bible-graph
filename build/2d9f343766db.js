@@ -1,0 +1,1 @@
+(function(){var b="2d9f343766db",m="# Proverbs 17:16 (New International Version)\nWhy should fools have money in hand to buy wisdom,  \n    when they are not able to understand it?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-23|Pr 23:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

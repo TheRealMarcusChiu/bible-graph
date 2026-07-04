@@ -1,0 +1,1 @@
+(function(){var b="f2e42df1db38",m="# Ezekiel 27:20 (New International Version)\n\"'Dedan<sup>^A</sup> traded in saddle blankets with you.\n\n### Crossrefs\n- A: S [[Gen-10-7|Ge 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

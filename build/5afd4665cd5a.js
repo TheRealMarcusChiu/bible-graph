@@ -1,0 +1,1 @@
+(function(){var b="5afd4665cd5a",m="# 1 Chronicles 18:5 (New International Version)\nWhen the Arameans of Damascus<sup>^A</sup> came to help Hadadezer king of Zobah, David struck down twenty-two thousand of them. \n\n### Crossrefs\n- A: [[2Kgs-16-9|2Ki 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

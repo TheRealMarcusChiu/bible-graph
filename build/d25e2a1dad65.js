@@ -1,0 +1,1 @@
+(function(){var b="d25e2a1dad65",m="# Ecclesiastes 7:7 (New International Version)\nExtortion turns a wise person into a fool,  \n    and a bribe<sup>^A</sup> corrupts the heart.\n\n### Crossrefs\n- A: S [[Exod-18-21|Ex 18:21]]; S [[Exod-23-8|23:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

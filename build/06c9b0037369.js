@@ -1,0 +1,1 @@
+(function(){var b="06c9b0037369",m="# Micah 6:11 (New International Version)\nShall I acquit someone with dishonest scales,<sup>^A</sup>  \n    with a bag of false weights?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Lev-19-36|Lev 19:36]]\n- B: S [[Deut-25-13|Dt 25:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc2fb0de6f31",m="# 2 Chronicles 34:5 (New International Version)\nHe burned<sup>^A</sup> the bones of the priests on their altars, and so he purged Judah and Jerusalem. \n\n### Crossrefs\n- A: S [[1Kgs-13-2|1Ki 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

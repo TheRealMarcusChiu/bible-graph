@@ -1,0 +1,1 @@
+(function(){var b="dbe062f259a3",m="# Isaiah 7:24 (New International Version)\nHunters will go there with bow and arrow, for the land will be covered with briers<sup>^A</sup> and thorns. \n\n### Crossrefs\n- A: S [[Isa-5-6|Isa 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

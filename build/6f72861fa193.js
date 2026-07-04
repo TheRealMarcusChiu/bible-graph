@@ -1,0 +1,1 @@
+(function(){var b="6f72861fa193",m="# Proverbs 18:13 (New International Version)\nTo answer before listening--  \n    that is folly and shame.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-20-25|Pr 20:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

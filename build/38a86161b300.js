@@ -1,0 +1,1 @@
+(function(){var b="38a86161b300",m="# Lamentations 3:58 (New International Version)\nYou, Lord, took up my case;<sup>^A</sup>  \n    you redeemed my life.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Jer-51-36|Jer 51:36]]\n- B: [[Ps-34-22|Ps 34:22]]; S [[Jer-50-34|Jer 50:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

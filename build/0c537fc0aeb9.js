@@ -1,0 +1,1 @@
+(function(){var b="0c537fc0aeb9",m="# Ezekiel 34:7 (New International Version)\n\"'Therefore, you shepherds, hear the word of the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

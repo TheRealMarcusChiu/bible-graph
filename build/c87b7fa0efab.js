@@ -1,0 +1,1 @@
+(function(){var b="c87b7fa0efab",m="# Isaiah 42\n\nJudgment and hope: the Holy One of Israel, the coming Messiah, and the servant who suffers for his people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

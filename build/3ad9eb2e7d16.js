@@ -1,0 +1,1 @@
+(function(){var b="3ad9eb2e7d16",m="# Psalm 105:10 (New International Version)\nHe confirmed it<sup>^A</sup> to Jacob as a decree,  \n    to Israel as an everlasting covenant:<sup>^B</sup>\n\n### Crossrefs\n- A: [[Gen-28-13|Ge 28:13-15]]\n- B: [[Isa-55-3|Isa 55:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

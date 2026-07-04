@@ -1,0 +1,1 @@
+(function(){var b="647be789bb7e",m="# 1 Chronicles 23:16 (New International Version)\nThe descendants of Gershom:<sup>^A</sup>\nShubael was the first.\n\n### Crossrefs\n- A: [[1Chr-26-24|1Ch 26:24-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

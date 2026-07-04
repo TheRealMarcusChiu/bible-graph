@@ -1,0 +1,1 @@
+(function(){var b="e8a9716cd542",m="# 1 Chronicles 5:5 (New International Version)\nMicah his son,\nReaiah his son, Baal his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

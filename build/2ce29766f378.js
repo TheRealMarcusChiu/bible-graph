@@ -1,0 +1,1 @@
+(function(){var b="2ce29766f378",m="# Ecclesiastes 8:2 (New International Version)\nObey the King\nObey the king's command, I say, because you took an oath before God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

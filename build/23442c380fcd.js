@@ -1,0 +1,1 @@
+(function(){var b="23442c380fcd",m="# Ezra 5:6 (New International Version)\nThis is a copy of the letter that Tattenai, governor of Trans-Euphrates, and Shethar-Bozenai and their associates, the officials of Trans-Euphrates, sent to King Darius.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

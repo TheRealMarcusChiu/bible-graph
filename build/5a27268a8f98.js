@@ -1,0 +1,1 @@
+(function(){var b="5a27268a8f98",m="# Ezekiel 16:58 (New International Version)\nYou will bear the consequences of your lewdness and your detestable practices, declares the LORD.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-23-49|Eze 23:49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

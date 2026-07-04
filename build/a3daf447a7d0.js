@@ -1,0 +1,1 @@
+(function(){var b="a3daf447a7d0",m="# Ezekiel 37:18 (New International Version)\n\"When your people ask you, 'Won't you tell us what you mean by this?'<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-24-19|Eze 24:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

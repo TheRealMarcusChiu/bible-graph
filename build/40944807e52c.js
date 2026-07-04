@@ -1,0 +1,1 @@
+(function(){var b="40944807e52c",m="# Proverbs 23:12 (New International Version)\nApply your heart to instruction<sup>^A</sup>  \n    and your ears to words of knowledge.\n\n### Crossrefs\n- A: S [[Prov-2-2|Pr 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

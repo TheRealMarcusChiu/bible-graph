@@ -1,0 +1,1 @@
+(function(){var b="8b2a3c677047",m="# 1 Chronicles 28:10 (New International Version)\nConsider now, for the LORD has chosen you to build a house as the sanctuary. Be strong and do the work.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

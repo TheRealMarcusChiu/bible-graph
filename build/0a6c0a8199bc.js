@@ -1,0 +1,1 @@
+(function(){var b="0a6c0a8199bc",m="# Psalm 115:15 (New International Version)\nMay you be blessed by the LORD,  \n    the Maker of heaven<sup>^A</sup> and earth.\n\n### Crossrefs\n- A: S [[Gen-1-1|Ge 1:1]]; [[Acts-14-15|Ac 14:15]]; S [[Rev-10-6|Rev 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

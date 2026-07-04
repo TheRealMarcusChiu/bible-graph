@@ -1,0 +1,1 @@
+(function(){var b="2aff6940ba4c",m="# Nehemiah 10:19 (New International Version)\nHariph, Anathoth, Nebai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

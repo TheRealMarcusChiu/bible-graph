@@ -1,0 +1,1 @@
+(function(){var b="3b548641bad8",m="# Nehemiah 12:40 (New International Version)\nThe two choirs that gave thanks then took their places in the house of God; so did I, together with half the officials,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

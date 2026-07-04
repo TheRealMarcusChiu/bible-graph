@@ -1,0 +1,1 @@
+(function(){var b="6dd1ab83b8df",m="# Jeremiah 26:14 (New International Version)\nAs for me, I am in your hands;<sup>^A</sup> do with me whatever you think is good and right. \n\n### Crossrefs\n- A: [[Josh-9-25|Jos 9:25]]; [[Jer-38-5|Jer 38:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b6f3eb4affa",m="# Zechariah 6:2 (New International Version)\nThe first chariot had red horses, the second black,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Rev-6-5|Rev 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

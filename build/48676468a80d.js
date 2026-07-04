@@ -1,0 +1,1 @@
+(function(){var b="48676468a80d",m="# 1 Chronicles 5\n\nGenealogies of Israel and a priestly retelling of David's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

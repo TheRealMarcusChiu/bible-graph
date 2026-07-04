@@ -1,0 +1,1 @@
+(function(){var b="803b9a99881b",m="# Isaiah 10:8 (New International Version)\n'Are not my commanders<sup>^A</sup> all kings?' he says.\n\n### Crossrefs\n- A: [[2Kgs-18-24|2Ki 18:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

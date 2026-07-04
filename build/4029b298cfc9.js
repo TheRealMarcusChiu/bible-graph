@@ -1,0 +1,1 @@
+(function(){var b="4029b298cfc9",m="# Jonah 3:2 (New International Version)\n\"Go to the great city of Nineveh and proclaim to it the message I give you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bd0fcfda375e",m="# Amos 4\n\nA shepherd prophet denounces Israel's injustice and empty religion.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

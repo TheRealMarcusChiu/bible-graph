@@ -1,0 +1,1 @@
+(function(){var b="e90b025000dd",m="# Nehemiah 7:46 (New International Version)\nThe temple servants:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Neh-3-26|Ne 3:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e00f7622e18f",m="# Job 3:9 (New International Version)\nMay its morning stars become dark;  \n    may it wait for daylight in vain  \n    and not see the first rays of dawn,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-41-18|Job 41:18]]; [[Hab-3-4|Hab 3:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

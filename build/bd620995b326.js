@@ -1,0 +1,1 @@
+(function(){var b="bd620995b326",m="# Ezekiel 18:26 (New International Version)\nIf a righteous person turns from their righteousness and commits sin, they will die for it; because of the sin they have committed they will die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

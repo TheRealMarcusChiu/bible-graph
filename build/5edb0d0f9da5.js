@@ -1,0 +1,1 @@
+(function(){var b="5edb0d0f9da5",m="# Proverbs 3:35 (New International Version)\nThe wise inherit honor,  \n    but fools get only shame.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

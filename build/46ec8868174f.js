@@ -1,0 +1,1 @@
+(function(){var b="46ec8868174f",m="# Nehemiah 11:26 (New International Version)\nin Jeshua, in Moladah,<sup>^A</sup> in Beth Pelet,<sup>^B</sup> \n\n### Crossrefs\n- A: [[Josh-15-26|Jos 15:26]]\n- B: [[Josh-15-27|Jos 15:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

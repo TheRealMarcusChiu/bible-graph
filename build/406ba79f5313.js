@@ -1,0 +1,1 @@
+(function(){var b="406ba79f5313",m="# Isaiah 33:7 (New International Version)\nLook, their brave men<sup>^A</sup> cry aloud in the streets;  \n    the envoys<sup>^B</sup> of peace weep bitterly.\n\n### Crossrefs\n- A: [[Isa-10-34|Isa 10:34]]\n- B: S [[2Kgs-18-37|2Ki 18:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

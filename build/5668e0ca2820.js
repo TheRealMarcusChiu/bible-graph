@@ -1,0 +1,1 @@
+(function(){var b="5668e0ca2820",m="# Ezekiel 5:9 (New International Version)\nBecause of all your detestable idols, I will do to you what I have never done before and will never do again.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Dan-9-12|Da 9:12]]; S [[Matt-24-21|Mt 24:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

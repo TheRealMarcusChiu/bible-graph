@@ -1,0 +1,1 @@
+(function(){var b="0b4033b90ee9",m="# Psalm 69:34 (New International Version)\nLet heaven and earth praise him,  \n    the seas and all that move in them,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-96-11|Ps 96:11]]; [[Ps-98-7|98:7]]; [[Isa-44-23|Isa 44:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="131da6202a66",m="# Lamentations 3:34 (New International Version)\nTo crush underfoot  \n    all prisoners in the land,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

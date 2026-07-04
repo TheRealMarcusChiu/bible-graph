@@ -1,0 +1,1 @@
+(function(){var b="d3de346a6fd4",m="# 1 Chronicles 26:17 (New International Version)\nThere were six Levites a day on the east, four a day on the north, four a day on the south and two at a time at the storehouse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

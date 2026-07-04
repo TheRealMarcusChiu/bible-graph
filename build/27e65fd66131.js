@@ -1,0 +1,1 @@
+(function(){var b="27e65fd66131",m="# Ecclesiastes 6\n\nThe Teacher's search for meaning \"under the sun\" and his conclusion to fear God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

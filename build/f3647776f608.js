@@ -1,0 +1,1 @@
+(function(){var b="f3647776f608",m="# Job 1:9 (New International Version)\n\"Does Job fear God for nothing?\"<sup>^A</sup> Satan replied. \n\n### Crossrefs\n- A: [[1Tim-6-5|1Ti 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

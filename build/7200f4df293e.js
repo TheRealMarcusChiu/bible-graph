@@ -1,0 +1,1 @@
+(function(){var b="7200f4df293e",m="# Nehemiah 3:11 (New International Version)\nMalkijah son of Harim and Hasshub son of Pahath-Moab repaired another section and the Tower of the Ovens.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Neh-12-38|Ne 12:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

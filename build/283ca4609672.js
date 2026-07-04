@@ -1,0 +1,1 @@
+(function(){var b="283ca4609672",m="# 1 Chronicles 12:7 (New International Version)\nand Joelah and Zebadiah the sons of Jeroham from Gedor.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-15-58|Jos 15:58]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

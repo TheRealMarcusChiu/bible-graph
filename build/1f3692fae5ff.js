@@ -1,0 +1,1 @@
+(function(){var b="1f3692fae5ff",m="# Ecclesiastes 3:21 (New International Version)\nWho knows if the human spirit rises upward<sup>^A</sup> and if the spirit of the animal goes down into the earth?\"\n\n### Crossrefs\n- A: [[Eccl-12-7|Ecc 12:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

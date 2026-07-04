@@ -1,0 +1,1 @@
+(function(){var b="87833c7d4046",m="# Lamentations 3:41 (New International Version)\nLet us lift up our hearts and our hands  \n    to God in heaven,<sup>^A</sup> and say:\n\n### Crossrefs\n- A: S [[Ps-25-1|Ps 25:1]]; S [[Ps-28-2|28:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

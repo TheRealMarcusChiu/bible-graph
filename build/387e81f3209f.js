@@ -1,0 +1,1 @@
+(function(){var b="387e81f3209f",m="# Isaiah 12:5 (New International Version)\nSing<sup>^A</sup> to the LORD, for he has done glorious things;<sup>^B</sup>  \n    let this be known to all the world.\n\n### Crossrefs\n- A: S [[Exod-15-1|Ex 15:1]]\n- B: S [[Ps-98-1|Ps 98:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

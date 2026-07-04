@@ -1,0 +1,1 @@
+(function(){var b="275e0cb1bbdf",m="# Psalm 119:48 (New International Version)\nI reach out for your commands, which I love,  \n    that I may meditate<sup>^A</sup> on your decrees.\n\n### Crossrefs\n- A: S [[Gen-24-63|Ge 24:63]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

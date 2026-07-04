@@ -1,0 +1,1 @@
+(function(){var b="05a48cbe582a",m="# Job 19:24 (New International Version)\nthat they were inscribed with an iron tool<sup>^A</sup> on lead,  \n    or engraved in rock forever!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-17-1|Jer 17:1]]\n- B: S [[Job-16-18|Job 16:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

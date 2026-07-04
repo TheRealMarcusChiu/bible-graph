@@ -1,0 +1,1 @@
+(function(){var b="5f0d1df475ab",m="# 2 Chronicles 18:27 (New International Version)\nMicaiah declared, \"If you ever return safely, the LORD has not spoken through me.\" Then he added, \"Mark my words, all you people!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

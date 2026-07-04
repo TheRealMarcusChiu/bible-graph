@@ -1,0 +1,1 @@
+(function(){var b="1efca0644524",m="# Daniel 3:9 (New International Version)\nThey said to King Nebuchadnezzar, \"May the king live forever!<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Neh-2-3|Ne 2:3]]; [[Dan-5-10|Da 5:10]]; [[Dan-6-6|6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="18f488c6b204",m="# Job 19:18 (New International Version)\nEven the little boys<sup>^A</sup> scorn me;  \n    when I appear, they ridicule me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Kgs-2-23|2Ki 2:23]]\n- B: S [[Job-16-10|Job 16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="000845b16102",m="# Job 9:27 (New International Version)\nIf I say, 'I will forget my complaint,<sup>^A</sup>  \n    I will change my expression, and smile,'\n\n### Crossrefs\n- A: S [[Job-7-11|Job 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

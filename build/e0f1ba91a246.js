@@ -1,0 +1,1 @@
+(function(){var b="e0f1ba91a246",m="# Proverbs 7:13 (New International Version)\nShe took hold of him<sup>^A</sup> and kissed him  \n    and with a brazen face she said:<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-39-12|Ge 39:12]]\n- B: S [[Prov-1-20|Pr 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

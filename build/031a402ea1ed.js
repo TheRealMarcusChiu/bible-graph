@@ -1,0 +1,1 @@
+(function(){var b="031a402ea1ed",m="# Psalm 77:1 (New International Version)\nPsalm 77\nI cried out to God<sup>^A</sup> for help;  \n    I cried out to God to hear me.\n\n### Crossrefs\n- A: S [[1Kgs-8-52|1Ki 8:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

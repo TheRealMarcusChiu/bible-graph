@@ -1,0 +1,1 @@
+(function(){var b="2e3c0fe4e04d",m="# 1 Chronicles 11:40 (New International Version)\nIra the Ithrite,\nGareb the Ithrite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

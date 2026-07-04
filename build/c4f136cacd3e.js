@@ -1,0 +1,1 @@
+(function(){var b="c4f136cacd3e",m="# 1 Chronicles 16:20 (New International Version)\nthey wandered<sup>^A</sup> from nation to nation,  \n    from one kingdom to another.\n\n### Crossrefs\n- A: S [[Gen-20-13|Ge 20:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f3d6d74570c7",m="# 1 Chronicles 6:35 (New International Version)\nthe son of Zuph, the son of Elkanah,\nthe son of Mahath, the son of Amasai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

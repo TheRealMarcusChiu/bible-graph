@@ -1,0 +1,1 @@
+(function(){var b="f06dcdb144de",m="# 1 Chronicles 21:27 (New International Version)\nThen the LORD spoke to the angel, and he put his sword back into its sheath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd9a3051a10b",m="# Ezra 10:27 (New International Version)\nFrom the descendants of Zattu:\nElioenai, Eliashib, Mattaniah, Jeremoth, Zabad and Aziza.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

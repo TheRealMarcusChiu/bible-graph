@@ -1,0 +1,1 @@
+(function(){var b="20c4e7916fb3",m="# Ezra 5:15 (New International Version)\nand he told him, 'Take these articles and go and deposit them in the temple in Jerusalem. And rebuild the house of God on its site.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

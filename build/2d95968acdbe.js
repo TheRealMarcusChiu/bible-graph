@@ -1,0 +1,1 @@
+(function(){var b="2d95968acdbe",m="# Psalm 78:65 (New International Version)\nThen the Lord awoke as from sleep,<sup>^A</sup>  \n    as a warrior wakes from the stupor of wine.\n\n### Crossrefs\n- A: [[Ps-44-23|Ps 44:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

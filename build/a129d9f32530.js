@@ -1,0 +1,1 @@
+(function(){var b="a129d9f32530",m="# Proverbs 6:7 (New International Version)\nIt has no commander,  \n    no overseer or ruler,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

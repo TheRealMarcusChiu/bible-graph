@@ -1,0 +1,1 @@
+(function(){var b="6ff531bc6f05",m="# Jeremiah 38:24 (New International Version)\nThen Zedekiah said to Jeremiah, \"Do not let anyone know<sup>^A</sup> about this conversation, or you may die. \n\n### Crossrefs\n- A: [[Jer-37-17|Jer 37:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

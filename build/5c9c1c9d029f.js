@@ -1,0 +1,1 @@
+(function(){var b="5c9c1c9d029f",m="# Ezekiel 42:8 (New International Version)\nWhile the row of rooms on the side next to the outer court was fifty cubits long, the row on the side nearest the sanctuary was a hundred cubits long.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

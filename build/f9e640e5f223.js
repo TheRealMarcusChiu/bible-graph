@@ -1,0 +1,1 @@
+(function(){var b="f9e640e5f223",m="# 1 Chronicles 9:3 (New International Version)\nThose from Judah, from Benjamin, and from Ephraim and Manasseh who lived in Jerusalem were:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

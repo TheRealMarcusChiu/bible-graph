@@ -1,0 +1,1 @@
+(function(){var b="06b7e94d588f",m="# Song of Songs 5:10 (New International Version)\nMy beloved is radiant and ruddy,  \n    outstanding among ten thousand.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-45-2|Ps 45:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

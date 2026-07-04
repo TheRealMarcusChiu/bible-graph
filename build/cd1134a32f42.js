@@ -1,0 +1,1 @@
+(function(){var b="cd1134a32f42",m="# Psalm 118:23 (New International Version)\nthe LORD has done this,  \n    and it is marvelous<sup>^A</sup> in our eyes.\n\n### Crossrefs\n- A: Mt 21:42*; Mk 12:11*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="91ded772a0bd",m="# Proverbs 16:10 (New International Version)\nThe lips of a king speak as an oracle,  \n    and his mouth does not betray justice.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-17-7|Pr 17:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="840bacce6607",m="# 1 Chronicles 17:18 (New International Version)\n\"What more can David say to you for honoring your servant? For you know your servant,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

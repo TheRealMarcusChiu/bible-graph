@@ -1,0 +1,1 @@
+(function(){var b="a1094821881e",m="# Psalm 78:3 (New International Version)\nthings we have heard and known,  \n    things our ancestors have told us.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-6-13|Jdg 6:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

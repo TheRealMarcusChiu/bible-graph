@@ -1,0 +1,1 @@
+(function(){var b="f20fcb35d33d",m="# Psalm 97:6 (New International Version)\nThe heavens proclaim his righteousness,<sup>^A</sup>  \n    and all peoples see his glory.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-50-6|Ps 50:6]]; [[Ps-98-2|98:2]]\n- B: S [[Ps-19-1|Ps 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c3800684eba",m="# 2 Kings 6:26 (New International Version)\nAs the king of Israel was passing by on the wall, a woman cried to him, \"Help me, my lord the king!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5b4c147b6287",m="# Psalm 81:14 (New International Version)\nhow quickly I would subdue<sup>^A</sup> their enemies  \n    and turn my hand against<sup>^B</sup> their foes!\n\n### Crossrefs\n- A: [[Ps-47-3|Ps 47:3]]\n- B: [[Amos-1-8|Am 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

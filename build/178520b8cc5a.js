@@ -1,0 +1,1 @@
+(function(){var b="178520b8cc5a",m="# Ezekiel 22:16 (New International Version)\nWhen you have been defiled in the eyes of the nations, you will know that I am the LORD.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

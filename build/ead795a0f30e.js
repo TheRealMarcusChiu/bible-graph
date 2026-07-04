@@ -1,0 +1,1 @@
+(function(){var b="ead795a0f30e",m="# Proverbs 30:7 (New International Version)\n\"Two things I ask of you, LORD;  \n    do not refuse me before I die:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

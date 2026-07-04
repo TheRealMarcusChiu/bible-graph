@@ -1,0 +1,1 @@
+(function(){var b="4f94c4b7f677",m="# 1 Chronicles 26:24 (New International Version)\nShubael,<sup>^A</sup> a descendant of Gershom son of Moses, was the official in charge of the treasuries. \n\n### Crossrefs\n- A: [[1Chr-23-16|1Ch 23:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

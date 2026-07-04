@@ -1,0 +1,1 @@
+(function(){var b="4c7fcd781944",m="# Job 26:13 (New International Version)\nBy his breath the skies<sup>^A</sup> became fair;  \n    his hand pierced the gliding serpent.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-9-8|Job 9:8]]\n- B: [[Isa-27-1|Isa 27:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

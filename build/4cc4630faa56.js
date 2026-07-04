@@ -1,0 +1,1 @@
+(function(){var b="4cc4630faa56",m="# Psalm 89:43 (New International Version)\nIndeed, you have turned back the edge of his sword  \n    and have not supported him in battle.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-44-10|Ps 44:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

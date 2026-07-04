@@ -1,0 +1,1 @@
+(function(){var b="b682b1ba5a0d",m="# Job 6:18 (New International Version)\nCaravans turn aside from their routes;  \n    they go off into the wasteland and perish.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

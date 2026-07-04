@@ -1,0 +1,1 @@
+(function(){var b="37ccc343ee83",m="# Esther 9:9 (New International Version)\nParmashta, Arisai, Aridai and Vaizatha,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

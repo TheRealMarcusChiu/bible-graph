@@ -1,0 +1,1 @@
+(function(){var b="c171832d6d5a",m="# 1 Chronicles 10:11 (New International Version)\nWhen all the inhabitants of Jabesh Gilead<sup>^A</sup> heard what the Philistines had done to Saul, \n\n### Crossrefs\n- A: S [[Judg-21-8|Jdg 21:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

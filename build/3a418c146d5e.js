@@ -1,0 +1,1 @@
+(function(){var b="3a418c146d5e",m="# 2 Chronicles 28:2 (New International Version)\nHe followed the ways of the kings of Israel and also made idols<sup>^A</sup> for worshiping the Baals. \n\n### Crossrefs\n- A: [[Exod-34-17|Ex 34:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

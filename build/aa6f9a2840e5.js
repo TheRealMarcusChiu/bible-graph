@@ -1,0 +1,1 @@
+(function(){var b="aa6f9a2840e5",m="# 2 Kings 9:10 (New International Version)\nAs for Jezebel, dogs<sup>^A</sup> will devour her on the plot of ground at Jezreel, and no one will bury her.'\" Then he opened the door and ran.\n\n### Crossrefs\n- A: S [[1Kgs-21-23|1Ki 21:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

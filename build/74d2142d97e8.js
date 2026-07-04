@@ -1,0 +1,1 @@
+(function(){var b="74d2142d97e8",m="# Psalm 122:6 (New International Version)\nPray for the peace of Jerusalem:  \n    \"May those who love<sup>^A</sup> you be secure.\n\n### Crossrefs\n- A: S [[Ps-26-8|Ps 26:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

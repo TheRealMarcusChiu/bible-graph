@@ -1,0 +1,1 @@
+(function(){var b="f65087a9e63c",m="# Job 41:5 (New International Version)\nCan you make a pet of it like a bird  \n    or put it on a leash for the young women in your house?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

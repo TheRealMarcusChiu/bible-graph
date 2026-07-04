@@ -1,0 +1,1 @@
+(function(){var b="b8aeb9d0ecfc",m="# Psalm 44:7 (New International Version)\nbut you give us victory<sup>^A</sup> over our enemies,  \n    you put our adversaries to shame.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-20-4|Dt 20:4]]\n- B: S [[Job-8-22|Job 8:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

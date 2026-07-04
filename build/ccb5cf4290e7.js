@@ -1,0 +1,1 @@
+(function(){var b="ccb5cf4290e7",m="# 2 Kings 23:37 (New International Version)\nAnd he did evil<sup>^A</sup> in the eyes of the LORD, just as his predecessors had done.\n\n### Crossrefs\n- A: [[1Kgs-15-26|1Ki 15:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

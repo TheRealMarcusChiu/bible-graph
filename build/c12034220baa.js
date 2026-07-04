@@ -1,0 +1,1 @@
+(function(){var b="c12034220baa",m="# Job 15:10 (New International Version)\nThe gray-haired and the aged<sup>^A</sup> are on our side,  \n    men even older than your father.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-12-12|Job 12:12]]\n- B: S [[2Chr-10-6|2Ch 10:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

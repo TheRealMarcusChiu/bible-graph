@@ -1,0 +1,1 @@
+(function(){var b="d9b8c7f64549",m="# Psalm 78:19 (New International Version)\nThey spoke against God;<sup>^A</sup>  \n    they said, \"Can God really  \n    spread a table in the wilderness?\n\n### Crossrefs\n- A: [[Num-21-5|Nu 21:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

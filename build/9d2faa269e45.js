@@ -1,0 +1,1 @@
+(function(){var b="9d2faa269e45",m="# 2 Kings 23:28 (New International Version)\nAs for the other events of Josiah's reign, and all he did, are they not written in the book of the annals of the kings of Judah?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

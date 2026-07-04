@@ -1,0 +1,1 @@
+(function(){var b="0f1469fea8e3",m="# Ezekiel 36:18 (New International Version)\nSo I poured out<sup>^A</sup> my wrath on them because they had shed blood in the land and because they had defiled it with their idols. \n\n### Crossrefs\n- A: S [[2Chr-34-21|2Ch 34:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

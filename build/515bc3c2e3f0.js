@@ -1,0 +1,1 @@
+(function(){var b="515bc3c2e3f0",m="# 2 Kings 16:11 (New International Version)\nSo Uriah the priest built an altar in accordance with all the plans that King Ahaz had sent from Damascus and finished it before King Ahaz returned.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

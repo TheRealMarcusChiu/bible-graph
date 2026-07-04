@@ -1,0 +1,1 @@
+(function(){var b="48811e3f28bf",m="# Ezekiel 32:19 (New International Version)\nSay to them, 'Are you more favored than others? Go down and be laid among the uncircumcised.'<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-32-29|ver 29-30]]; S [[Ezek-28-10|Eze 28:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

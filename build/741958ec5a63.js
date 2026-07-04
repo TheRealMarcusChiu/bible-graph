@@ -1,0 +1,1 @@
+(function(){var b="741958ec5a63",m="# 1 Chronicles 3:6 (New International Version)\nThere were also Ibhar, Elishua, Eliphelet,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

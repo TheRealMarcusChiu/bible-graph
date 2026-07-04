@@ -1,0 +1,1 @@
+(function(){var b="579b99b7ac92",m="# 1 Chronicles 14:15 (New International Version)\nAs soon as you hear the sound of marching in the tops of the poplar trees, move out to battle, because that will mean God has gone out in front of you to strike the Philistine army.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

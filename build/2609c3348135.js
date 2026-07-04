@@ -1,0 +1,1 @@
+(function(){var b="2609c3348135",m="# Psalm 69:10 (New International Version)\nWhen I weep and fast,<sup>^A</sup>  \n    I must endure scorn;\n\n### Crossrefs\n- A: S [[Ps-35-13|Ps 35:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

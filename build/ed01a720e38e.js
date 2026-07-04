@@ -1,0 +1,1 @@
+(function(){var b="ed01a720e38e",m="# Ezekiel 2:10 (New International Version)\nwhich he unrolled before me. On both sides of it were written words of lament and mourning and woe.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-3-11|Isa 3:11]]; [[Rev-8-13|Rev 8:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

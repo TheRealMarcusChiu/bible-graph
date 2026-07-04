@@ -1,0 +1,1 @@
+(function(){var b="2c18d9e48f15",m="# Lamentations 3:25 (New International Version)\nThe LORD is good to those whose hope is in him,  \n    to the one who seeks him;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-33-18|Ps 33:18]]; [[Isa-25-9|Isa 25:9]]; S [[Isa-30-18|30:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

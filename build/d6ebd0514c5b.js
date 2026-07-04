@@ -1,0 +1,1 @@
+(function(){var b="d6ebd0514c5b",m="# Job 28:27 (New International Version)\nthen he looked at wisdom and appraised it;  \n    he confirmed it and tested it.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-3-19|Pr 3:19]]; [[Prov-8-22|8:22-31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

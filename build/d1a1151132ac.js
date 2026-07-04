@@ -1,0 +1,1 @@
+(function(){var b="d1a1151132ac",m="# Psalm 144:15 (New International Version)\nBlessed is the people<sup>^A</sup> of whom this is true;  \n    blessed is the people whose God is the LORD.\n\n### Crossrefs\n- A: [[Deut-28-3|Dt 28:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

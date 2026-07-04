@@ -1,0 +1,1 @@
+(function(){var b="2a1f95bb4417",m="# Psalm 147:17 (New International Version)\nHe hurls down his hail<sup>^A</sup> like pebbles.  \n    Who can withstand his icy blast?\n\n### Crossrefs\n- A: [[Exod-9-22|Ex 9:22-23]]; S [[Job-38-22|Job 38:22]]; S [[Ps-78-47|Ps 78:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0953b7c35b3d",m="# Psalm 78:11 (New International Version)\nThey forgot what he had done,<sup>^A</sup>  \n    the wonders he had shown them.\n\n### Crossrefs\n- A: [[Ps-106-13|Ps 106:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

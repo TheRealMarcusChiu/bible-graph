@@ -1,0 +1,1 @@
+(function(){var b="35357328b2dd",m="# Psalm 62:7 (New International Version)\nMy salvation and my honor depend on God;  \n    he is my mighty rock, my refuge.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-61-3|Ps 61:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

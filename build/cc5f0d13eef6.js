@@ -1,0 +1,1 @@
+(function(){var b="cc5f0d13eef6",m="# Job 16:21 (New International Version)\non behalf of a man he pleads<sup>^A</sup> with God  \n    as one pleads for a friend.\n\n### Crossrefs\n- A: [[1Kgs-8-45|1Ki 8:45]]; [[Ps-9-4|Ps 9:4]]; [[Ps-140-12|140:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

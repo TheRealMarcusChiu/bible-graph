@@ -1,0 +1,1 @@
+(function(){var b="a79fa6ed0d04",m="# 1 Chronicles 12:21 (New International Version)\nThey helped David against raiding bands, for all of them were brave warriors, and they were commanders in his army.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

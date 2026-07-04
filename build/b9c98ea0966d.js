@@ -1,0 +1,1 @@
+(function(){var b="b9c98ea0966d",m="# 2 Kings 11:7 (New International Version)\nand you who are in the other two companies that normally go off Sabbath duty are all to guard the temple for the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

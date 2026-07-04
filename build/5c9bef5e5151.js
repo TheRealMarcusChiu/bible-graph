@@ -1,0 +1,1 @@
+(function(){var b="5c9bef5e5151",m="# Jeremiah 30:5 (New International Version)\n\"This is what the LORD says:\n\"'Cries of fear<sup>^A</sup> are heard--  \n    terror, not peace.\n\n### Crossrefs\n- A: [[Jer-6-25|Jer 6:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

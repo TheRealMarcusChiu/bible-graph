@@ -1,0 +1,1 @@
+(function(){var b="ffca25931d8d",m="# Ezekiel 27:24 (New International Version)\nIn your marketplace they traded with you beautiful garments, blue fabric, embroidered work and multicolored rugs with cords twisted and tightly knotted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

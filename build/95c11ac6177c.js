@@ -1,0 +1,1 @@
+(function(){var b="95c11ac6177c",m="# Psalm 73:11 (New International Version)\nThey say, \"How would God know?  \n    Does the Most High know anything?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

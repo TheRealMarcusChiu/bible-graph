@@ -1,0 +1,1 @@
+(function(){var b="65ab58dbb0cc",m="# Proverbs 3:17 (New International Version)\nHer ways are pleasant ways,  \n    and all her paths are peace.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-11-28|Mt 11:28-30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

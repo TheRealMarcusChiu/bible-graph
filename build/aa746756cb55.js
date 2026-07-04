@@ -1,0 +1,1 @@
+(function(){var b="aa746756cb55",m="# Psalm 69:1 (New International Version)\nPsalm 69\nSave me, O God,  \n    for the waters<sup>^A</sup> have come up to my neck.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-42-7|Ps 42:7]]\n- B: [[Ps-32-6|Ps 32:6]]; [[Jonah-2-5|Jnh 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

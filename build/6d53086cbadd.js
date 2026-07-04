@@ -1,0 +1,1 @@
+(function(){var b="6d53086cbadd",m="# 1 Chronicles 8:37 (New International Version)\nMoza was the father of Binea; Raphah was his son, Eleasah his son and Azel his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

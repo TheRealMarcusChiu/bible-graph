@@ -1,0 +1,1 @@
+(function(){var b="2b619f863500",m="# Proverbs 26:3 (New International Version)\nA whip for the horse, a bridle for the donkey,<sup>^A</sup>  \n    and a rod for the backs of fools!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-32-9|Ps 32:9]]\n- B: S [[Prov-10-13|Pr 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

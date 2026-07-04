@@ -1,0 +1,1 @@
+(function(){var b="e954335769b1",m="# Proverbs 9:8 (New International Version)\nDo not rebuke mockers<sup>^A</sup> or they will hate you;  \n    rebuke the wise and they will love you.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-15-12|Pr 15:12]]\n- B: [[Ps-141-5|Ps 141:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

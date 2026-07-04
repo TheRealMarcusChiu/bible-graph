@@ -1,0 +1,1 @@
+(function(){var b="7b465577e3df",m="# 1 Chronicles 8:35 (New International Version)\nThe sons of Micah:\nPithon, Melek, Tarea and Ahaz.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

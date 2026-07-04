@@ -1,0 +1,1 @@
+(function(){var b="b1e704cffe14",m="# 1 Chronicles 11:30 (New International Version)\nMaharai the Netophathite,\nHeled son of Baanah the Netophathite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="edb893f7c4e9",m="# Ecclesiastes 3:10 (New International Version)\nI have seen the burden God has laid on the human race.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Eccl-1-13|Ecc 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

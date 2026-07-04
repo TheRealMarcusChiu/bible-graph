@@ -1,0 +1,1 @@
+(function(){var b="9607edefc335",m="# Jeremiah 13:23 (New International Version)\nCan an Ethiopian change his skin  \n    or a leopard its spots?  \nNeither can you do good  \n    who are accustomed to doing evil.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Chr-6-36|2Ch 6:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

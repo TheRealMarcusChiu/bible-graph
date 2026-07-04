@@ -1,0 +1,1 @@
+(function(){var b="01238bb657e6",m="# 2 Chronicles 14:4 (New International Version)\nHe commanded Judah to seek the LORD,<sup>^A</sup> the God of their ancestors, and to obey his laws and commands. \n\n### Crossrefs\n- A: S [[1Chr-16-11|1Ch 16:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ab6ae622ce1d",m="# Job 12:21 (New International Version)\nHe pours contempt on nobles<sup>^A</sup>  \n    and disarms the mighty.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-12-18|ver 18]]; S [[Isa-34-12|Isa 34:12]]\n- B: S [[Job-3-15|Job 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

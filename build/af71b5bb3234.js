@@ -1,0 +1,1 @@
+(function(){var b="af71b5bb3234",m="# Habakkuk 1:17 (New International Version)\nIs he to keep on emptying his net,  \n    destroying nations without mercy?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-14-6|Isa 14:6]]; [[Isa-19-8|19:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

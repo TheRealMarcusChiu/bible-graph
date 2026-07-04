@@ -1,0 +1,1 @@
+(function(){var b="06f17b91cbf2",m="# Esther 7:6 (New International Version)\nEsther said, \"An adversary and enemy! This vile Haman!\"\nThen Haman was terrified before the king and queen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

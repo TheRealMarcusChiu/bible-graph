@@ -1,0 +1,1 @@
+(function(){var b="405dda28c050",m="# Ezekiel 3:16 (New International Version)\nEzekiel's Task as Watchman\nAt the end of seven days the word of the LORD came to me:<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-42-7|Jer 42:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

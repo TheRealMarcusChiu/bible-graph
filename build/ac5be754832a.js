@@ -1,0 +1,1 @@
+(function(){var b="ac5be754832a",m="# Isaiah 10:1 (New International Version)\nWoe<sup>^A</sup> to those who make unjust laws,  \n    to those who issue oppressive decrees,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-5-8|Isa 5:8]]\n- B: S [[Ps-58-2|Ps 58:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

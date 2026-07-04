@@ -1,0 +1,1 @@
+(function(){var b="dd81c7ea495d",m="# Psalm 121:2 (New International Version)\nMy help comes from the LORD,  \n    the Maker of heaven<sup>^A</sup> and earth.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-1-1|Ge 1:1]]\n- B: S [[Ps-104-5|Ps 104:5]]; [[Ps-115-15|Ps 115:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

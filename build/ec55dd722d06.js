@@ -1,0 +1,1 @@
+(function(){var b="ec55dd722d06",m="# Nehemiah 10:7 (New International Version)\nMeshullam, Abijah, Mijamin,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

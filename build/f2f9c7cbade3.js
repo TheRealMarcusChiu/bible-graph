@@ -1,0 +1,1 @@
+(function(){var b="f2f9c7cbade3",m="# Proverbs 24:25 (New International Version)\nBut it will go well with those who convict the guilty,  \n    and rich blessing will come on them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

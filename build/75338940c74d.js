@@ -1,0 +1,1 @@
+(function(){var b="75338940c74d",m="# Psalm 55:12 (New International Version)\nIf an enemy were insulting me,  \n    I could endure it;  \nif a foe were rising against me,  \n    I could hide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

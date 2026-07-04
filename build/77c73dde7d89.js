@@ -1,0 +1,1 @@
+(function(){var b="77c73dde7d89",m="# Psalm 144:1 (New International Version)\nPsalm 144\nPraise be to the LORD my Rock,<sup>^A</sup>  \n    who trains my hands for war,  \n    my fingers for battle.\n\n### Crossrefs\n- A: S [[Gen-49-24|Ge 49:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

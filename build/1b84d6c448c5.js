@@ -1,0 +1,1 @@
+(function(){var b="1b84d6c448c5",m="# Proverbs 9:1 (New International Version)\nInvitations of Wisdom and Folly\nWisdom has built<sup>^A</sup> her house;  \n    she has set up its seven pillars.\n\n### Crossrefs\n- A: [[Eph-2-20|Eph 2:20-22]]; [[1Pet-2-5|1Pe 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

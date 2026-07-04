@@ -1,0 +1,1 @@
+(function(){var b="014c2f2e088f",m="# Hosea 10:3 (New International Version)\nThen they will say, \"We have no king  \n    because we did not revere the LORD.  \nBut even if we had a king,  \n    what could he do for us?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

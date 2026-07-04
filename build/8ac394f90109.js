@@ -1,0 +1,1 @@
+(function(){var b="8ac394f90109",m="# Nehemiah 10:8 (New International Version)\nMaaziah, Bilgai and Shemaiah.\nThese were the priests.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Neh-12-1|Ne 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

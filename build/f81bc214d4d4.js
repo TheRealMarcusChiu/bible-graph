@@ -1,0 +1,1 @@
+(function(){var b="f81bc214d4d4",m="# 2 Kings 21:21 (New International Version)\nHe followed completely the ways of his father, worshiping the idols his father had worshiped, and bowing down to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

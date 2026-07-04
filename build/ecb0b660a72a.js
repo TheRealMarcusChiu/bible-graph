@@ -1,0 +1,1 @@
+(function(){var b="ecb0b660a72a",m="# Jonah 3:1 (New International Version)\nJonah Goes to Nineveh\nThen the word of the LORD came to Jonah<sup>^A</sup> a second time: \n\n### Crossrefs\n- A: [[Jonah-1-1|Jnh 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

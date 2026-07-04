@@ -1,0 +1,1 @@
+(function(){var b="581ef182eae6",m="# 2 Kings 10:35 (New International Version)\nJehu rested with his ancestors and was buried in Samaria. And Jehoahaz his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

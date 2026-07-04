@@ -1,0 +1,1 @@
+(function(){var b="2af5ac42ed61",m="# Psalm 78:60 (New International Version)\nHe abandoned the tabernacle of Shiloh,<sup>^A</sup>  \n    the tent he had set up among humans.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Josh-18-1|Jos 18:1]]\n- B: [[Ezek-8-6|Eze 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

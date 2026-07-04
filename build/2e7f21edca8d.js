@@ -1,0 +1,1 @@
+(function(){var b="2e7f21edca8d",m="# Psalm 63:7 (New International Version)\nBecause you are my help,<sup>^A</sup>  \n    I sing in the shadow of your wings.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-27-9|Ps 27:9]]; [[Ps-118-7|118:7]]\n- B: S [[Ruth-2-12|Ru 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

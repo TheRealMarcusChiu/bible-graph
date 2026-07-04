@@ -1,0 +1,1 @@
+(function(){var b="cfb3ce508261",m="# Isaiah 10:31 (New International Version)\nMadmenah is in flight;  \n    the people of Gebim take cover.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

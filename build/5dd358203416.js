@@ -1,0 +1,1 @@
+(function(){var b="5dd358203416",m="# Hosea 14\n\nThe prophet's marriage to unfaithful Gomer pictures God's persistent love for wayward Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

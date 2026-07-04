@@ -1,0 +1,1 @@
+(function(){var b="ce6c3b47161d",m="# Proverbs 14:5 (New International Version)\nAn honest witness does not deceive,  \n    but a false witness pours out lies.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-12-2|Ps 12:2]]; S [[Prov-12-17|Pr 12:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

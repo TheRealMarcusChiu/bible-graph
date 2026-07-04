@@ -1,0 +1,1 @@
+(function(){var b="9e358ac58fb2",m="# Isaiah 66:21 (New International Version)\nAnd I will select some of them also to be priests<sup>^A</sup> and Levites,\" says the LORD.\n\n### Crossrefs\n- A: S [[Exod-19-6|Ex 19:6]]; [[1Pet-2-5|1Pe 2:5]], [[1Pet-2-9|9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

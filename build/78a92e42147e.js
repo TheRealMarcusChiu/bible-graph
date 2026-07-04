@@ -1,0 +1,1 @@
+(function(){var b="78a92e42147e",m="# Proverbs 28:3 (New International Version)\nA ruler who oppresses the poor  \n    is like a driving rain that leaves no crops.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

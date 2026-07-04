@@ -1,0 +1,1 @@
+(function(){var b="8e355d31788f",m="# Jeremiah 2:4 (New International Version)\nHear the word of the LORD, you descendants of Jacob,  \n    all you clans of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

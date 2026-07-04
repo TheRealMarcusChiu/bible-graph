@@ -1,0 +1,1 @@
+(function(){var b="d2444f1c2f2f",m="# Psalm 88:3 (New International Version)\nI am overwhelmed with troubles<sup>^A</sup>  \n    and my life draws near to death.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-6-3|Ps 6:3]]; [[Ps-25-17|25:17]]\n- B: S [[Job-33-22|Job 33:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b305ac30b173",m="# Ezra 10:22 (New International Version)\nFrom the descendants of Pashhur:<sup>^A</sup>\nElioenai, Maaseiah, Ishmael, Nethanel, Jozabad and Elasah.\n\n### Crossrefs\n- A: S [[1Chr-9-12|1Ch 9:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

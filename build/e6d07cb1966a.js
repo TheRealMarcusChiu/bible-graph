@@ -1,0 +1,1 @@
+(function(){var b="e6d07cb1966a",m="# Ecclesiastes 1:10 (New International Version)\nIs there anything of which one can say,  \n    \"Look! This is something new\"?  \nIt was here already, long ago;  \n    it was here before our time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2617c8d68065",m="# Habakkuk 2:7 (New International Version)\nWill not your creditors suddenly arise?  \n    Will they not wake up and make you tremble?  \n    Then you will become their prey.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-29-1|Pr 29:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

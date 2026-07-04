@@ -1,0 +1,1 @@
+(function(){var b="0e00a2323051",m="# Ecclesiastes 3:5 (New International Version)\na time to scatter stones and a time to gather them,  \n    a time to embrace and a time to refrain from embracing,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

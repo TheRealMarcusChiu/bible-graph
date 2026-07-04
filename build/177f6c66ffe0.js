@@ -1,0 +1,1 @@
+(function(){var b="177f6c66ffe0",m="# 1 Chronicles 14:9 (New International Version)\nNow the Philistines had come and raided the Valley<sup>^A</sup> of Rephaim; \n\n### Crossrefs\n- A: [[1Chr-14-13|ver 13]]; S [[Josh-15-8|Jos 15:8]]; S [[1Chr-11-15|1Ch 11:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

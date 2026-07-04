@@ -1,0 +1,1 @@
+(function(){var b="16a94baa9007",m="# Ezekiel 18:5 (New International Version)\n\"Suppose there is a righteous man  \n    who does what is just and right.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

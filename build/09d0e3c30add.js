@@ -1,0 +1,1 @@
+(function(){var b="09d0e3c30add",m="# Proverbs 30:23 (New International Version)\na contemptible woman who gets married,  \n    and a servant who displaces her mistress.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

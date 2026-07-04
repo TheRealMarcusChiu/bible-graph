@@ -1,0 +1,1 @@
+(function(){var b="edd5acb65664",m="# Lamentations 3:16 (New International Version)\nHe has broken my teeth with gravel;<sup>^A</sup>  \n    he has trampled me in the dust.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-20-17|Pr 20:17]]\n- B: S [[Ps-7-5|Ps 7:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a66b8d750872",m="# Ezekiel 38:12 (New International Version)\nI will plunder and loot and turn my hand against the resettled ruins and the people gathered from the nations, rich in livestock and goods, living at the center of the land.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

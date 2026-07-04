@@ -1,0 +1,1 @@
+(function(){var b="e313401e91de",m="# Job 21:5 (New International Version)\nLook at me and be appalled;  \n    clap your hand over your mouth.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-18-19|Jdg 18:19]]; [[Job-29-9|Job 29:9]]; [[Job-40-4|40:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

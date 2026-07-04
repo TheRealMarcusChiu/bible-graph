@@ -1,0 +1,1 @@
+(function(){var b="ab66ca59eccc",m="# Ezekiel 24:18 (New International Version)\nSo I spoke to the people in the morning, and in the evening my wife died. The next morning I did as I had been commanded.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-12-7|Eze 12:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

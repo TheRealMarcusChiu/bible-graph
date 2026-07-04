@@ -1,0 +1,1 @@
+(function(){var b="2b6d37b587b5",m="# Jeremiah 5:20 (New International Version)\n\"Announce this to the descendants of Jacob  \n    and proclaim<sup>^A</sup> it in Judah:\n\n### Crossrefs\n- A: S [[Jer-4-5|Jer 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

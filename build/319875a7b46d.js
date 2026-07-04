@@ -1,0 +1,1 @@
+(function(){var b="319875a7b46d",m="# Esther 2:16 (New International Version)\nShe was taken to King Xerxes in the royal residence in the tenth month, the month of Tebeth, in the seventh year of his reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

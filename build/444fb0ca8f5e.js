@@ -1,0 +1,1 @@
+(function(){var b="444fb0ca8f5e",m="# Psalm 107:13 (New International Version)\nThen they cried to the LORD in their trouble,  \n    and he saved them<sup>^A</sup> from their distress.\n\n### Crossrefs\n- A: S [[Ps-106-8|Ps 106:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

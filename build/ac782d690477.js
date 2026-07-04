@@ -1,0 +1,1 @@
+(function(){var b="ac782d690477",m="# Job 17:8 (New International Version)\nThe upright are appalled at this;  \n    the innocent are aroused<sup>^A</sup> against the ungodly.\n\n### Crossrefs\n- A: S [[Exod-4-14|Ex 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

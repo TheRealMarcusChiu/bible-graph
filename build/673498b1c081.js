@@ -1,0 +1,1 @@
+(function(){var b="673498b1c081",m="# Malachi 2:1 (New International Version)\nAdditional Warning to the Priests\n\"And now, you priests, this warning is for you.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Mal-2-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

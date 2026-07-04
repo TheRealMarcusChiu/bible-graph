@@ -1,0 +1,1 @@
+(function(){var b="36442a4fe488",m="# Jeremiah 13:2 (New International Version)\nSo I bought a belt, as the LORD directed, and put it around my waist.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

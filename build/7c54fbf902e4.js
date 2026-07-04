@@ -1,0 +1,1 @@
+(function(){var b="7c54fbf902e4",m="# 2 Chronicles 32:18 (New International Version)\nThen they called out in Hebrew to the people of Jerusalem who were on the wall, to terrify them and make them afraid in order to capture the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

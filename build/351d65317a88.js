@@ -1,0 +1,1 @@
+(function(){var b="351d65317a88",m="# Psalm 136:15 (New International Version)\nbut swept Pharaoh and his army into the Red Sea;<sup>^A</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Exod-14-27|Ex 14:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

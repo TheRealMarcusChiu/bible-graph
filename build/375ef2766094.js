@@ -1,0 +1,1 @@
+(function(){var b="375ef2766094",m="# Job 10:11 (New International Version)\nclothe me with skin and flesh  \n    and knit me together<sup>^A</sup> with bones and sinews?\n\n### Crossrefs\n- A: [[Ps-139-13|Ps 139:13]], [[Ps-139-15|15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

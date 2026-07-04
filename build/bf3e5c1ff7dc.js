@@ -1,0 +1,1 @@
+(function(){var b="bf3e5c1ff7dc",m="# Ezekiel 9:11 (New International Version)\nThen the man in linen with the writing kit at his side brought back word, saying, \"I have done as you commanded.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

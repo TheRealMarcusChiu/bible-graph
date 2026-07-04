@@ -1,0 +1,1 @@
+(function(){var b="283fa78cbc1f",m="# Psalm 68:9 (New International Version)\nYou gave abundant showers,<sup>^A</sup> O God;  \n    you refreshed your weary inheritance.\n\n### Crossrefs\n- A: S [[Deut-32-2|Dt 32:2]]; S [[Job-36-28|Job 36:28]]; S [[Ezek-34-26|Eze 34:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

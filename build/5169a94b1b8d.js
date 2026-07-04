@@ -1,0 +1,1 @@
+(function(){var b="5169a94b1b8d",m="# Psalm 70:3 (New International Version)\nMay those who say to me, \"Aha! Aha!\"<sup>^A</sup>  \n    turn back because of their shame.\n\n### Crossrefs\n- A: S [[Ps-35-21|Ps 35:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

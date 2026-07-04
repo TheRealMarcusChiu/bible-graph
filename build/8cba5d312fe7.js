@@ -1,0 +1,1 @@
+(function(){var b="8cba5d312fe7",m="# 1 Chronicles 3:8 (New International Version)\nElishama, Eliada and Eliphelet--nine in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

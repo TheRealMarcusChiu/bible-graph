@@ -1,0 +1,1 @@
+(function(){var b="363062843880",m="# Zechariah 5:1 (New International Version)\nThe Flying Scroll\nI looked again, and there before me was a flying scroll.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-40-7|Ps 40:7]]; S [[Jer-36-4|Jer 36:4]]; [[Rev-5-1|Rev 5:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

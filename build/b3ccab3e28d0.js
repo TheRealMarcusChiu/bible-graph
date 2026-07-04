@@ -1,0 +1,1 @@
+(function(){var b="b3ccab3e28d0",m="# Ecclesiastes 12:3 (New International Version)\nwhen the keepers of the house tremble,  \n    and the strong men stoop,  \nwhen the grinders cease because they are few,  \n    and those looking through the windows grow dim;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

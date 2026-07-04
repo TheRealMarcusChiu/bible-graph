@@ -1,0 +1,1 @@
+(function(){var b="5d80621e9f62",m="# 1 Chronicles 25:2 (New International Version)\nFrom the sons of Asaph:\nZakkur, Joseph, Nethaniah and Asarelah. The sons of Asaph were under the supervision of Asaph, who prophesied under the king's supervision.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

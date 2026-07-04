@@ -1,0 +1,1 @@
+(function(){var b="3d5f8a3a20cb",m="# Song of Songs 1:12 (New International Version)\nWhile the king was at his table,  \n    my perfume spread its fragrance.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Song-4-11|SS 4:11-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

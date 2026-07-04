@@ -1,0 +1,1 @@
+(function(){var b="d9b9f11fcb85",m="# Proverbs 26:23 (New International Version)\nLike a coating of silver dross on earthenware  \n    are fervent lips with an evil heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

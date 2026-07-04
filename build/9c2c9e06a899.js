@@ -1,0 +1,1 @@
+(function(){var b="9c2c9e06a899",m="# Psalm 118:16 (New International Version)\nThe LORD's right hand is lifted high;  \n    the LORD's right hand has done mighty things!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

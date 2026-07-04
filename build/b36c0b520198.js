@@ -1,0 +1,1 @@
+(function(){var b="b36c0b520198",m="# Job 21:3 (New International Version)\nBear with me while I speak,  \n    and after I have spoken, mock on.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-14|Job 6:14]]; S [[Job-11-3|11:3]]; S [[Job-16-10|16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

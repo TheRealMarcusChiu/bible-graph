@@ -1,0 +1,1 @@
+(function(){var b="fadbe062dff5",m="# Psalm 114:6 (New International Version)\nWhy, mountains, did you leap like rams,  \n    you hills, like lambs?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

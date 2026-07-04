@@ -1,0 +1,1 @@
+(function(){var b="6c702d3d4219",m="# Ecclesiastes 6:5 (New International Version)\nThough it never saw the sun or knew anything, it has more rest than does that man--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="795c1bc424be",m="# Nehemiah 4:21 (New International Version)\nSo we continued the work with half the men holding spears, from the first light of dawn till the stars came out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

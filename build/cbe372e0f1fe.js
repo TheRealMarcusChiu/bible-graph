@@ -1,0 +1,1 @@
+(function(){var b="cbe372e0f1fe",m="# Psalm 49:7 (New International Version)\nNo one can redeem the life of another  \n    or give to God a ransom for them--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

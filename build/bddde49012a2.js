@@ -1,0 +1,1 @@
+(function(){var b="bddde49012a2",m="# Ecclesiastes 1:4 (New International Version)\nGenerations come and generations go,  \n    but the earth remains forever.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-8-19|Job 8:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

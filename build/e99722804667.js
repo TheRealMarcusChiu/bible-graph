@@ -1,0 +1,1 @@
+(function(){var b="e99722804667",m="# Psalm 71:23 (New International Version)\nMy lips will shout for joy<sup>^A</sup>  \n    when I sing praise to you--  \n    I whom you have delivered.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-20-5|Ps 20:5]]\n- B: S [[Exod-15-13|Ex 15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

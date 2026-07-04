@@ -1,0 +1,1 @@
+(function(){var b="03b1fb6a2694",m="# Job 15:17 (New International Version)\n\"Listen to me and I will explain to you;  \n    let me tell you what I have seen,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-8|Job 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

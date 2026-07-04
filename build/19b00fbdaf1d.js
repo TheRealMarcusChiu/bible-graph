@@ -1,0 +1,1 @@
+(function(){var b="19b00fbdaf1d",m="# Habakkuk 3:5 (New International Version)\nPlague<sup>^A</sup> went before him;  \n    pestilence followed his steps.\n\n### Crossrefs\n- A: S [[Lev-26-25|Lev 26:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

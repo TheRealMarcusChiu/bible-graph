@@ -1,0 +1,1 @@
+(function(){var b="6ea8b65f7d13",m="# Ezekiel 46:4 (New International Version)\nThe burnt offering the prince brings to the LORD on the Sabbath day is to be six male lambs and a ram, all without defect.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b4149e599ade",m="# Jeremiah 37:12 (New International Version)\nJeremiah started to leave the city to go to the territory of Benjamin to get his share of the property<sup>^A</sup> among the people there. \n\n### Crossrefs\n- A: S [[Jer-32-9|Jer 32:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

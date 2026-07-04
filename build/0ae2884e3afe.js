@@ -1,0 +1,1 @@
+(function(){var b="0ae2884e3afe",m="# 2 Kings 4:20 (New International Version)\nAfter the servant had lifted him up and carried him to his mother, the boy sat on her lap until noon, and then he died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

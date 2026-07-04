@@ -1,0 +1,1 @@
+(function(){var b="a22802131d21",m="# 2 Kings 13:15 (New International Version)\nElisha said, \"Get a bow and some arrows,\"<sup>^A</sup> and he did so. \n\n### Crossrefs\n- A: [[1Sam-20-20|1Sa 20:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="59169873791d",m="# 2 Chronicles 13:17 (New International Version)\nAbijah and his troops inflicted heavy losses on them, so that there were five hundred thousand casualties among Israel's able men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

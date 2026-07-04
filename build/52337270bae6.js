@@ -1,0 +1,1 @@
+(function(){var b="52337270bae6",m="# Ezekiel 12:18 (New International Version)\n\"Son of man, tremble as you eat your food,<sup>^A</sup> and shudder in fear as you drink your water. \n\n### Crossrefs\n- A: [[Lam-5-9|La 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="520c4f9d22b6",m="# 2 Chronicles 26:8 (New International Version)\nThe Ammonites<sup>^A</sup> brought tribute to Uzziah, and his fame spread as far as the border of Egypt, because he had become very powerful.\n\n### Crossrefs\n- A: S [[Gen-19-38|Ge 19:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

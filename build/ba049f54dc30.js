@@ -1,0 +1,1 @@
+(function(){var b="ba049f54dc30",m="# Proverbs 12:28 (New International Version)\nIn the way of righteousness there is life;<sup>^A</sup>  \n    along that path is immortality.\n\n### Crossrefs\n- A: S [[Deut-30-15|Dt 30:15]]; S [[Prov-10-2|Pr 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="676dca3b1a27",m="# Jeremiah 13:3 (New International Version)\nThen the word of the LORD came to me a second time:<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-33-1|Jer 33:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

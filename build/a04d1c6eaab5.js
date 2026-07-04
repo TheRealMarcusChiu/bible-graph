@@ -1,0 +1,1 @@
+(function(){var b="a04d1c6eaab5",m="# Psalm 24:10 (New International Version)\nWho is he, this King of glory?  \n    The LORD Almighty<sup>^A</sup>--  \n    he is the King of glory.\n\n### Crossrefs\n- A: S [[1Sam-1-11|1Sa 1:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

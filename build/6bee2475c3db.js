@@ -1,0 +1,1 @@
+(function(){var b="6bee2475c3db",m="# Proverbs 31:7 (New International Version)\nLet them drink<sup>^A</sup> and forget their poverty  \n    and remember their misery no more.\n\n### Crossrefs\n- A: S [[Esth-1-10|Est 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

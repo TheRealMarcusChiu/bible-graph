@@ -1,0 +1,1 @@
+(function(){var b="aee2041ffa28",m="# Nehemiah 12:20 (New International Version)\nof Sallu's, Kallai;\nof Amok's, Eber;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

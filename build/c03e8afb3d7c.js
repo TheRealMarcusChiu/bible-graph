@@ -1,0 +1,1 @@
+(function(){var b="c03e8afb3d7c",m="# Psalm 105:15 (New International Version)\n\"Do not touch<sup>^A</sup> my anointed ones;  \n    do my prophets<sup>^B</sup> no harm.\"\n\n### Crossrefs\n- A: S [[Gen-26-11|Ge 26:11]]; S [[1Sam-12-3|1Sa 12:3]]\n- B: S [[Gen-20-7|Ge 20:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

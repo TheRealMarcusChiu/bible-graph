@@ -1,0 +1,1 @@
+(function(){var b="b97e973f2fe0",m="# 2 Chronicles 19:5 (New International Version)\nHe appointed judges<sup>^A</sup> in the land, in each of the fortified cities of Judah. \n\n### Crossrefs\n- A: S [[Gen-47-6|Ge 47:6]]; S [[Exod-18-26|Ex 18:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

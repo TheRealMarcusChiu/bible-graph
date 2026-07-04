@@ -1,0 +1,1 @@
+(function(){var b="759115c71c50",m="# 1 Chronicles 3:20 (New International Version)\nThere were also five others:\nHashubah, Ohel, Berekiah, Hasadiah and Jushab-Hesed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

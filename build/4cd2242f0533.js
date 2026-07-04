@@ -1,0 +1,1 @@
+(function(){var b="4cd2242f0533",m="# 1 Chronicles 8:10 (New International Version)\nJeuz, Sakia and Mirmah. These were his sons, heads of families.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

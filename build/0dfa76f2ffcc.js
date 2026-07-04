@@ -1,0 +1,1 @@
+(function(){var b="0dfa76f2ffcc",m="# Job 16:14 (New International Version)\nAgain and again<sup>^A</sup> he bursts upon me;  \n    he rushes at me like a warrior.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-9-17|Job 9:17]]\n- B: S [[Job-10-3|Job 10:3]]; [[Joel-2-7|Joel 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

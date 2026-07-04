@@ -1,0 +1,1 @@
+(function(){var b="5b140f859ff4",m="# Proverbs 6:22 (New International Version)\nWhen you walk, they will guide you;  \n    when you sleep, they will watch over you;  \n    when you awake, they will speak to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

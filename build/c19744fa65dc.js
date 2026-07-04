@@ -1,0 +1,1 @@
+(function(){var b="c19744fa65dc",m="# Jeremiah 18:3 (New International Version)\nSo I went down to the potter's house, and I saw him working at the wheel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

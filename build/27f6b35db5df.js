@@ -1,0 +1,1 @@
+(function(){var b="27f6b35db5df",m="# Proverbs 31:26 (New International Version)\nShe speaks with wisdom,  \n    and faithful instruction is on her tongue.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-31|Pr 10:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

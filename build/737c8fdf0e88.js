@@ -1,0 +1,1 @@
+(function(){var b="737c8fdf0e88",m="# Jeremiah 52:26 (New International Version)\nNebuzaradan<sup>^A</sup> the commander took them all and brought them to the king of Babylon at Riblah. \n\n### Crossrefs\n- A: S [[Jer-52-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

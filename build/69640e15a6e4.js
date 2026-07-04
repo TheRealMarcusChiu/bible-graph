@@ -1,0 +1,1 @@
+(function(){var b="69640e15a6e4",m="# Ezekiel 19:3 (New International Version)\nShe brought up one of her cubs,  \n    and he became a strong lion.  \nHe learned to tear the prey  \n    and he became a man-eater.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

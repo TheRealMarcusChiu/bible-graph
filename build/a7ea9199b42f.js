@@ -1,0 +1,1 @@
+(function(){var b="a7ea9199b42f",m="# Psalm 66:19 (New International Version)\nbut God has surely listened  \n    and has heard<sup>^A</sup> my prayer.\n\n### Crossrefs\n- A: S [[Ps-18-6|Ps 18:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

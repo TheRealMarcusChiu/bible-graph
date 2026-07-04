@@ -1,0 +1,1 @@
+(function(){var b="7db05187b847",m="# Psalm 102:16 (New International Version)\nFor the LORD will rebuild Zion<sup>^A</sup>  \n    and appear in his glory.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-51-18|Ps 51:18]]\n- B: [[Ps-8-1|Ps 8:1]]; [[Isa-60-1|Isa 60:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

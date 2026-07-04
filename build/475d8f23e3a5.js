@@ -1,0 +1,1 @@
+(function(){var b="475d8f23e3a5",m="# Proverbs 15:7 (New International Version)\nThe lips of the wise spread knowledge,<sup>^A</sup>  \n    but the hearts of fools are not upright.\n\n### Crossrefs\n- A: S [[Prov-15-2|ver 2]]; S [[Prov-10-13|Pr 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9bba9607f350",m="# Psalm 119:33 (New International Version)\nTeach me,<sup>^A</sup> LORD, the way of your decrees,  \n    that I may follow it to the end.\n\n### Crossrefs\n- A: [[Ps-119-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

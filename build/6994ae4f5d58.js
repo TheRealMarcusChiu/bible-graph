@@ -1,0 +1,1 @@
+(function(){var b="6994ae4f5d58",m="# 2 Chronicles 35:26 (New International Version)\nThe other events of Josiah's reign and his acts of devotion in accordance with what is written in the Law of the LORD--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

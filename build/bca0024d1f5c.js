@@ -1,0 +1,1 @@
+(function(){var b="bca0024d1f5c",m="# 1 Chronicles 11:32 (New International Version)\nHurai from the ravines of Gaash,\nAbiel the Arbathite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

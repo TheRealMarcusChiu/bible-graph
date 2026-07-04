@@ -1,0 +1,1 @@
+(function(){var b="a310b864079e",m="# Nehemiah 3:30 (New International Version)\nNext to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

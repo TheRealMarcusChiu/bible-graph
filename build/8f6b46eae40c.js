@@ -1,0 +1,1 @@
+(function(){var b="8f6b46eae40c",m="# 2 Kings 5:4 (New International Version)\nNaaman went to his master and told him what the girl from Israel had said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

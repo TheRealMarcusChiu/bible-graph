@@ -1,0 +1,1 @@
+(function(){var b="03b1555070d3",m="# Proverbs 16:17 (New International Version)\nThe highway of the upright avoids evil;  \n    those who guard their ways preserve their lives.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-16|Pr 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

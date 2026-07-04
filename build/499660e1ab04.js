@@ -1,0 +1,1 @@
+(function(){var b="499660e1ab04",m="# Proverbs 3:29 (New International Version)\nDo not plot harm against your neighbor,  \n    who lives trustfully near you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-8-17|Zec 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

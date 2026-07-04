@@ -1,0 +1,1 @@
+(function(){var b="414064664e8b",m="# Job 28:8 (New International Version)\nProud beasts<sup>^A</sup> do not set foot on it,  \n    and no lion prowls there.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-41-34|Job 41:34]]\n- B: [[Isa-35-9|Isa 35:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

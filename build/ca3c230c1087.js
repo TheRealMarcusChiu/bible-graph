@@ -1,0 +1,1 @@
+(function(){var b="ca3c230c1087",m="# Joel 2:6 (New International Version)\nAt the sight of them, nations are in anguish;<sup>^A</sup>  \n    every face turns pale.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-13-8|Isa 13:8]]\n- B: S [[Isa-29-22|Isa 29:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4fb89b114297",m="# Ecclesiastes 4:11 (New International Version)\nAlso, if two lie down together, they will keep warm.  \n    But how can one keep warm alone?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

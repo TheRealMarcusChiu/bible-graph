@@ -1,0 +1,1 @@
+(function(){var b="2308b1f3bf97",m="# Ezekiel 12:21 (New International Version)\nThere Will Be No Delay\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

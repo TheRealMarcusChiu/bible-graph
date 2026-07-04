@@ -1,0 +1,1 @@
+(function(){var b="b3bbe659c10b",m="# Job 14:11 (New International Version)\nAs the water of a lake dries up  \n    or a riverbed becomes parched and dry,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-14-14|2Sa 14:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

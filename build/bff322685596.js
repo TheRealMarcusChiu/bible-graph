@@ -1,0 +1,1 @@
+(function(){var b="bff322685596",m="# Ezekiel 43:16 (New International Version)\nThe altar hearth is square, twelve cubits long and twelve cubits wide.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Rev-21-16|Rev 21:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

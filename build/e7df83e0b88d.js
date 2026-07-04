@@ -1,0 +1,1 @@
+(function(){var b="e7df83e0b88d",m="# Nehemiah 7:60 (New International Version)\n\n### Crossrefs\n- A: S [[1Chr-9-2|1Ch 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

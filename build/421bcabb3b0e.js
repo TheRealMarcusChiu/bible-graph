@@ -1,0 +1,1 @@
+(function(){var b="421bcabb3b0e",m="# 2 Chronicles 13:3 (New International Version)\nAbijah went into battle with an army of four hundred thousand able fighting men, and Jeroboam drew up a battle line against him with eight hundred thousand able troops.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

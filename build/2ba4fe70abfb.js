@@ -1,0 +1,1 @@
+(function(){var b="2ba4fe70abfb",m="# Proverbs 9:13 (New International Version)\nFolly is an unruly woman;<sup>^A</sup>  \n    she is simple and knows nothing.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-7-11|Pr 7:11]]\n- B: S [[Prov-5-6|Pr 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

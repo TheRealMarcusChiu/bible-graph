@@ -1,0 +1,1 @@
+(function(){var b="3b05c4fd9735",m="# 2 Kings 13:9 (New International Version)\nJehoahaz rested with his ancestors and was buried in Samaria. And Jehoash his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cd2e37e825a2",m="# Psalm 136:8 (New International Version)\nthe sun to govern<sup>^A</sup> the day,  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Gen-1-16|Ge 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

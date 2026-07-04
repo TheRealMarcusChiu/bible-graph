@@ -1,0 +1,1 @@
+(function(){var b="ae5afd03ed31",m="# 2 Kings 14:4 (New International Version)\nThe high places,<sup>^A</sup> however, were not removed; the people continued to offer sacrifices and burn incense there.\n\n### Crossrefs\n- A: [[2Kgs-12-3|2Ki 12:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

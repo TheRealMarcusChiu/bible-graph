@@ -1,0 +1,1 @@
+(function(){var b="0cd3e76184b9",m="# Daniel 11:3 (New International Version)\nThen a mighty king will arise, who will rule with great power and do as he pleases.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Dan-8-4|Da 8:4]], [[Dan-8-21|21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="195ecc225886",m="# Proverbs 12:25 (New International Version)\nAnxiety weighs down the heart,<sup>^A</sup>  \n    but a kind word cheers it up.\n\n### Crossrefs\n- A: [[Prov-15-13|Pr 15:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

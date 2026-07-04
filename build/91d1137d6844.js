@@ -1,0 +1,1 @@
+(function(){var b="91d1137d6844",m="# Proverbs 24:28 (New International Version)\nDo not testify against your neighbor without cause<sup>^A</sup>--  \n    would you use your lips to mislead?\n\n### Crossrefs\n- A: S [[Ps-7-4|Ps 7:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

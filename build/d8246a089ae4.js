@@ -1,0 +1,1 @@
+(function(){var b="d8246a089ae4",m="# Proverbs 24:9 (New International Version)\nThe schemes of folly are sin,  \n    and people detest a mocker.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

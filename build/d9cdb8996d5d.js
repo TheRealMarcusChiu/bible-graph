@@ -1,0 +1,1 @@
+(function(){var b="d9cdb8996d5d",m="# Jeremiah 28:13 (New International Version)\n\"Go and tell Hananiah, 'This is what the LORD says: You have broken a wooden yoke, but in its place you will get a yoke of iron.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

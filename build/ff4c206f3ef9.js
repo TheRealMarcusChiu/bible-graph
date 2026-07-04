@@ -1,0 +1,1 @@
+(function(){var b="ff4c206f3ef9",m="# Ezra 10:30 (New International Version)\nFrom the descendants of Pahath-Moab:\nAdna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui and Manasseh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

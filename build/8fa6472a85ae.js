@@ -1,0 +1,1 @@
+(function(){var b="8fa6472a85ae",m="# Ezekiel 16:47 (New International Version)\nYou not only followed their ways and copied their detestable practices, but in all your ways you soon became more depraved than they.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-5-7|Eze 5:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

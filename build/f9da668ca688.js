@@ -1,0 +1,1 @@
+(function(){var b="f9da668ca688",m="# Psalm 67:3 (New International Version)\nMay the peoples praise you, God;  \n    may all the peoples praise you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-67-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

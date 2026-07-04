@@ -1,0 +1,1 @@
+(function(){var b="986b64c671de",m="# Psalm 119:6 (New International Version)\nThen I would not be put to shame<sup>^A</sup>  \n    when I consider all your commands.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-46|ver 46]], [[Ps-119-80|80]]\n- B: [[Ps-119-117|ver 117]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fa73d3844741",m="# Proverbs 31:9 (New International Version)\nSpeak up and judge fairly;  \n    defend the rights of the poor and needy.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-24-23|Pr 24:23]]; [[Prov-29-7|29:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

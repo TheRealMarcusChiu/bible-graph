@@ -1,0 +1,1 @@
+(function(){var b="c06411c66736",m="# Isaiah 3:25 (New International Version)\nYour men will fall by the sword,<sup>^A</sup>  \n    your warriors in battle.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-1-20|Isa 1:20]]\n- B: [[Jer-15-8|Jer 15:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c2dbffc4c250",m="# Psalm 96:2 (New International Version)\nSing to the LORD, praise his name;<sup>^A</sup>  \n    proclaim his salvation<sup>^B</sup> day after day.\n\n### Crossrefs\n- A: S [[Ps-68-4|Ps 68:4]]\n- B: [[Ps-27-1|Ps 27:1]]; [[Ps-71-15|71:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

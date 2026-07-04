@@ -1,0 +1,1 @@
+(function(){var b="4ccaeeae1d4c",m="# 1 Chronicles 7:12 (New International Version)\nThe Shuppites and Huppites were the descendants of Ir, and the Hushites the descendants of Aher.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

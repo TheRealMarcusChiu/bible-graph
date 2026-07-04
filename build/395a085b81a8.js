@@ -1,0 +1,1 @@
+(function(){var b="395a085b81a8",m="# 1 Chronicles 8:23 (New International Version)\nAbdon, Zikri, Hanan,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

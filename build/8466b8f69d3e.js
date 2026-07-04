@@ -1,0 +1,1 @@
+(function(){var b="8466b8f69d3e",m="# Proverbs 5:8 (New International Version)\nKeep to a path far from her,<sup>^A</sup>  \n    do not go near the door of her house,\n\n### Crossrefs\n- A: S [[Prov-2-16|Pr 2:16-19]]; [[Prov-6-20|6:20-29]]; [[Prov-7-1|7:1-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

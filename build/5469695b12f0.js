@@ -1,0 +1,1 @@
+(function(){var b="5469695b12f0",m="# 1 Chronicles 1:26 (New International Version)\nSerug, Nahor, Terah";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="147a3b74346a",m="# Ecclesiastes 5:20 (New International Version)\nThey seldom reflect on the days of their life, because God keeps them occupied with gladness of heart.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-12-7|Dt 12:7]], [[Deut-12-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

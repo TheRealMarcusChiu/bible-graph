@@ -1,0 +1,1 @@
+(function(){var b="b7d6dcbeb8d8",m="# Psalm 65:2 (New International Version)\nYou who answer prayer,  \n    to you all people will come.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-86-9|Ps 86:9]]; [[Isa-66-23|Isa 66:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

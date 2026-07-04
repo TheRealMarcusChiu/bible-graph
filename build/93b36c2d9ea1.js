@@ -1,0 +1,1 @@
+(function(){var b="93b36c2d9ea1",m="# 2 Chronicles 7:4 (New International Version)\nThen the king and all the people offered sacrifices before the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

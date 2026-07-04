@@ -1,0 +1,1 @@
+(function(){var b="780347c6a7e7",m="# 2 Kings 19:33 (New International Version)\nBy the way that he came he will return;<sup>^A</sup>  \n    he will not enter this city,  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[2Kgs-19-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

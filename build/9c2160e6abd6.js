@@ -1,0 +1,1 @@
+(function(){var b="9c2160e6abd6",m="# Proverbs 5:12 (New International Version)\nYou will say, \"How I hated discipline!  \n    How my heart spurned correction!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-12-1|Pr 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

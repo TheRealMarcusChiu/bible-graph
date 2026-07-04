@@ -1,0 +1,1 @@
+(function(){var b="0b1208b2d290",m="# 1 Chronicles 6:18 (New International Version)\nThe sons of Kohath:\nAmram, Izhar, Hebron and Uzziel.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-6-18|Ex 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

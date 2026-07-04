@@ -1,0 +1,1 @@
+(function(){var b="fee82556ca3f",m="# 1 Chronicles 9:40 (New International Version)\nThe son of Jonathan:\nMerib-Baal,<sup>^A</sup> who was the father of Micah.\n\n### Crossrefs\n- A: S [[2Sam-4-4|2Sa 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

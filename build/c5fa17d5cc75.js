@@ -1,0 +1,1 @@
+(function(){var b="c5fa17d5cc75",m="# Proverbs 19:18 (New International Version)\nDiscipline your children, for in that there is hope;  \n    do not be a willing party to their death.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-13-24|Pr 13:24]]; [[Prov-23-13|23:13-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1e0e58b99427",m="# Psalm 78:50 (New International Version)\nHe prepared a path for his anger;  \n    he did not spare them from death  \n    but gave them over to the plague.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

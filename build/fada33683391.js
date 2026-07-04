@@ -1,0 +1,1 @@
+(function(){var b="fada33683391",m="# Proverbs 27:5 (New International Version)\nBetter is open rebuke  \n    than hidden love.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

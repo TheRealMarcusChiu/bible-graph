@@ -1,0 +1,1 @@
+(function(){var b="d879636f8ad2",m="# 1 Chronicles 27:12 (New International Version)\nThe ninth, for the ninth month, was Abiezer<sup>^A</sup> the Anathothite, a Benjamite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: [[2Sam-23-27|2Sa 23:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="84df32cc5207",m="# Psalm 59:8 (New International Version)\nBut you laugh at them, LORD;<sup>^A</sup>  \n    you scoff at all those nations.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-37-13|Ps 37:13]]; [[Prov-1-26|Pr 1:26]]\n- B: [[Ps-2-4|Ps 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

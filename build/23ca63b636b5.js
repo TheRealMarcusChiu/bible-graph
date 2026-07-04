@@ -1,0 +1,1 @@
+(function(){var b="23ca63b636b5",m="# Psalm 60:12 (New International Version)\nWith God we will gain the victory,  \n    and he will trample down our enemies.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-40-12|Job 40:12]]; [[Ps-44-5|Ps 44:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ebc123dc7c38",m="# Daniel 1:11 (New International Version)\nDaniel then said to the guard whom the chief official had appointed over Daniel, Hananiah, Mishael and Azariah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="86033b5dffa4",m="# Proverbs 25:25 (New International Version)\nLike cold water to a weary soul  \n    is good news from a distant land.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-15-30|Pr 15:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

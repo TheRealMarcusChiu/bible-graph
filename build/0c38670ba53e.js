@@ -1,0 +1,1 @@
+(function(){var b="0c38670ba53e",m="# Zechariah 1:2 (New International Version)\n\"The LORD was very angry<sup>^A</sup> with your ancestors. \n\n### Crossrefs\n- A: S [[2Chr-36-16|2Ch 36:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fdea11f4c40c",m="# Psalm 25:2 (New International Version)\nI trust in you;<sup>^A</sup>  \n    do not let me be put to shame,  \n    nor let my enemies triumph over me.\n\n### Crossrefs\n- A: [[Ps-31-6|Ps 31:6]]; [[Ps-143-8|143:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="90601481d4d9",m="# Isaiah 34:9 (New International Version)\nEdom's streams will be turned into pitch,  \n    her dust into burning sulfur;<sup>^A</sup>  \n    her land will become blazing pitch!\n\n### Crossrefs\n- A: S [[Gen-19-24|Ge 19:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

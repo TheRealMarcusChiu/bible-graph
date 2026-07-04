@@ -1,0 +1,1 @@
+(function(){var b="832e85685da4",m="# 1 Chronicles 29:18 (New International Version)\nLORD, the God of our fathers Abraham, Isaac and Israel, keep these desires and thoughts in the hearts of your people forever, and keep their hearts loyal to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

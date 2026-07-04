@@ -1,0 +1,1 @@
+(function(){var b="96df4bcd7048",m="# Proverbs 4:14 (New International Version)\nDo not set foot on the path of the wicked  \n    or walk in the way of evildoers.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-1-1|Ps 1:1]]; S [[Prov-1-15|Pr 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

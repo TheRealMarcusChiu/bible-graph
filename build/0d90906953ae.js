@@ -1,0 +1,1 @@
+(function(){var b="0d90906953ae",m="# Proverbs 5:17 (New International Version)\nLet them be yours alone,  \n    never to be shared with strangers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

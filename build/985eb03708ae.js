@@ -1,0 +1,1 @@
+(function(){var b="985eb03708ae",m="# Jeremiah 26:17 (New International Version)\nSome of the elders of the land stepped forward and said to the entire assembly of people,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

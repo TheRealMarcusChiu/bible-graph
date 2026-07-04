@@ -1,0 +1,1 @@
+(function(){var b="d0857e20b266",m="# 1 Chronicles 7:34 (New International Version)\nThe sons of Shomer:\nAhi, Rohgah, Hubbah and Aram.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

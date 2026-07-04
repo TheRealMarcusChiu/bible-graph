@@ -1,0 +1,1 @@
+(function(){var b="f3d4f33f2ca5",m="# Proverbs 19:23 (New International Version)\nThe fear of the LORD leads to life;  \n    then one rests content, untouched by trouble.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-7|Job 4:7]]; S [[Prov-10-27|Pr 10:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

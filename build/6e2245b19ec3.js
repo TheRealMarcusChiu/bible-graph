@@ -1,0 +1,1 @@
+(function(){var b="6e2245b19ec3",m="# Ezra 8:16 (New International Version)\nSo I summoned Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah and Meshullam, who were leaders, and Joiarib and Elnathan, who were men of learning,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

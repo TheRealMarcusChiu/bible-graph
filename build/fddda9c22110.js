@@ -1,0 +1,1 @@
+(function(){var b="fddda9c22110",m="# Proverbs 9:7 (New International Version)\nWhoever corrects a mocker invites insults;  \n    whoever rebukes the wicked incurs abuse.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-9|Pr 23:9]]; [[Matt-7-6|Mt 7:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

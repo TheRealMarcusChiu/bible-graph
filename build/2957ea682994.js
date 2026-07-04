@@ -1,0 +1,1 @@
+(function(){var b="2957ea682994",m="# Ezekiel 32:17 (New International Version)\nIn the twelfth year, on the fifteenth day of the month, the word of the LORD came to me:<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-32-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="11145fe9167c",m="# Job 29:3 (New International Version)\nwhen his lamp shone on my head  \n    and by his light I walked through darkness!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-11-17|Job 11:17]]; S [[Job-12-25|12:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

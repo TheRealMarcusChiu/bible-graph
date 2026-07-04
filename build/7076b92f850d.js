@@ -1,0 +1,1 @@
+(function(){var b="7076b92f850d",m="# 2 Chronicles 32:2 (New International Version)\nWhen Hezekiah saw that Sennacherib had come and that he intended to wage war against Jerusalem,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Isa-22-7|Isa 22:7]]; [[Jer-1-15|Jer 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

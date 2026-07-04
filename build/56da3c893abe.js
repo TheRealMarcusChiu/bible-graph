@@ -1,0 +1,1 @@
+(function(){var b="56da3c893abe",m="# Jeremiah 5:30 (New International Version)\n\"A horrible<sup>^A</sup> and shocking thing  \n    has happened in the land:\n\n### Crossrefs\n- A: [[Jer-5-30|ver 30-31]]; [[Jer-18-13|Jer 18:13]]; [[Jer-23-14|23:14]]; [[Hos-6-10|Hos 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

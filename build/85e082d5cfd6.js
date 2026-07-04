@@ -1,0 +1,1 @@
+(function(){var b="85e082d5cfd6",m="# Proverbs 28:19 (New International Version)\nThose who work their land will have abundant food,  \n    but those who chase fantasies will have their fill of poverty.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-12-11|Pr 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

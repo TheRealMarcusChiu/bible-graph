@@ -1,0 +1,1 @@
+(function(){var b="c9c9ed0fdde5",m="# 2 Chronicles 14:10 (New International Version)\nAsa went out to meet him, and they took up battle positions in the Valley of Zephathah near Mareshah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

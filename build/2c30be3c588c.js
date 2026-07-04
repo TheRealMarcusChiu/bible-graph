@@ -1,0 +1,1 @@
+(function(){var b="2c30be3c588c",m="# Lamentations 3:39 (New International Version)\nWhy should the living complain  \n    when punished for their sins?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Jer-30-15|Jer 30:15]]; [[Mic-7-9|Mic 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

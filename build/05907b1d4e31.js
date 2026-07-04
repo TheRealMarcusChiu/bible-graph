@@ -1,0 +1,1 @@
+(function(){var b="05907b1d4e31",m="# Psalm 73:1 (New International Version)\nBOOK IIIPsalm 73\nSurely God is good to Israel,  \n    to those who are pure in heart.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-24-4|Ps 24:4]]; [[Matt-5-8|Mt 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6cb42cfed2ff",m="# 2 Kings 4:18 (New International Version)\nThe child grew, and one day he went out to his father, who was with the reapers.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ruth-2-3|Ru 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

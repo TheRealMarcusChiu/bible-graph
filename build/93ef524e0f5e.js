@@ -1,0 +1,1 @@
+(function(){var b="93ef524e0f5e",m="# Psalm 125:4 (New International Version)\nLORD, do good<sup>^A</sup> to those who are good,  \n    to those who are upright in heart.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-119-65|Ps 119:65]]\n- B: S [[Ps-36-10|Ps 36:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

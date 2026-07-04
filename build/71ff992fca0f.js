@@ -1,0 +1,1 @@
+(function(){var b="71ff992fca0f",m="# Psalm 105:29 (New International Version)\nHe turned their waters into blood,<sup>^A</sup>  \n    causing their fish to die.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-78-44|Ps 78:44]]\n- B: [[Exod-7-21|Ex 7:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="077862fcdedd",m="# 1 Chronicles 1:40 (New International Version)\nThe sons of Shobal:\nAlvan, Manahath, Ebal, Shepho and Onam.\nThe sons of Zibeon:\nAiah and Anah.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-36-2|Ge 36:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

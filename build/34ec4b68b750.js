@@ -1,0 +1,1 @@
+(function(){var b="34ec4b68b750",m="# Psalm 119:54 (New International Version)\nYour decrees are the theme of my song<sup>^A</sup>  \n    wherever I lodge.\n\n### Crossrefs\n- A: [[Ps-119-172|ver 172]]; [[Ps-101-1|Ps 101:1]]; [[Ps-138-5|138:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

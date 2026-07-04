@@ -1,0 +1,1 @@
+(function(){var b="3e533d1a73ae",m="# Psalm 78:22 (New International Version)\nfor they did not believe in God  \n    or trust<sup>^A</sup> in his deliverance.\n\n### Crossrefs\n- A: S [[Deut-1-32|Dt 1:32]]; [[Heb-3-19|Heb 3:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0f702077945c",m="# Nehemiah 6:8 (New International Version)\nI sent him this reply: \"Nothing like what you are saying is happening; you are just making it up out of your head.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

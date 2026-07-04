@@ -1,0 +1,1 @@
+(function(){var b="a76e1cbfea37",m="# 2 Chronicles 18:8 (New International Version)\nSo the king of Israel called one of his officials and said, \"Bring Micaiah son of Imlah at once.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

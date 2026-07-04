@@ -1,0 +1,1 @@
+(function(){var b="a34843e0badb",m="# Proverbs 22:15 (New International Version)\nFolly is bound up in the heart of a child,  \n    but the rod of discipline will drive it far away.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-13-24|Pr 13:24]]; S [[Prov-20-30|20:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

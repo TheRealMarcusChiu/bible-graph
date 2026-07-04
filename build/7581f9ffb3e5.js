@@ -1,0 +1,1 @@
+(function(){var b="7581f9ffb3e5",m="# Nehemiah 11:34 (New International Version)\nin Hadid, Zeboim<sup>^A</sup> and Neballat, \n\n### Crossrefs\n- A: [[1Sam-13-18|1Sa 13:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

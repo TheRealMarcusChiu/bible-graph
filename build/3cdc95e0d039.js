@@ -1,0 +1,1 @@
+(function(){var b="3cdc95e0d039",m="# Proverbs 23:25 (New International Version)\nMay your father and mother rejoice;  \n    may she who gave you birth be joyful!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-1|Pr 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6b4d61901dce",m="# Nehemiah 2:12 (New International Version)\nI set out during the night with a few others. I had not told anyone what my God had put in my heart to do for Jerusalem. There were no mounts with me except the one I was riding on.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

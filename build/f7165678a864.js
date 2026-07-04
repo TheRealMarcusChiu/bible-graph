@@ -1,0 +1,1 @@
+(function(){var b="f7165678a864",m="# Psalm 119:103 (New International Version)\nHow sweet are your words to my taste,  \n    sweeter than honey<sup>^A</sup> to my mouth!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-19-10|Ps 19:10]]\n- B: [[Prov-24-13|Pr 24:13-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

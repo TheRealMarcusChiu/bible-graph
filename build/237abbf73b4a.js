@@ -1,0 +1,1 @@
+(function(){var b="237abbf73b4a",m="# Nehemiah 12:7 (New International Version)\nSallu, Amok, Hilkiah and Jedaiah.\nThese were the leaders of the priests and their associates in the days of Joshua.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

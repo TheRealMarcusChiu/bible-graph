@@ -1,0 +1,1 @@
+(function(){var b="7bf203793280",m="# Job 20:2 (New International Version)\n\"My troubled thoughts prompt me to answer  \n    because I am greatly disturbed.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-42-5|Ps 42:5]]; [[Lam-1-20|La 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

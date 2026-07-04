@@ -1,0 +1,1 @@
+(function(){var b="f6f9bb7d1081",m="# Zechariah 13:5 (New International Version)\nEach will say, 'I am not a prophet. I am a farmer; the land has been my livelihood since my youth.'<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Amos-7-14|Am 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

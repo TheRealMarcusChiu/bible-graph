@@ -1,0 +1,1 @@
+(function(){var b="1ae572f3c60b",m="# 2 Kings 5:24 (New International Version)\nWhen Gehazi came to the hill, he took the things from the servants and put them away in the house. He sent the men away and they left.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

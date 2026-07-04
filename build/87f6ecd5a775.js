@@ -1,0 +1,1 @@
+(function(){var b="87f6ecd5a775",m="# Nehemiah 5:17 (New International Version)\nFurthermore, a hundred and fifty Jews and officials ate at my table, as well as those who came to us from the surrounding nations.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

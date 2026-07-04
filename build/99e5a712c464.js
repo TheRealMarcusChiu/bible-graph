@@ -1,0 +1,1 @@
+(function(){var b="99e5a712c464",m="# Ezekiel 11:25 (New International Version)\nand I told the exiles everything the LORD had shown me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-3-4|Eze 3:4]], [[Ezek-3-11|11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

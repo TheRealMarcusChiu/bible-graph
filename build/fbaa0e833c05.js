@@ -1,0 +1,1 @@
+(function(){var b="fbaa0e833c05",m="# Proverbs 7:9 (New International Version)\nat twilight,<sup>^A</sup> as the day was fading,  \n    as the dark of night set in.\n\n### Crossrefs\n- A: [[Job-24-15|Job 24:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d2670881d82d",m="# Nehemiah 3:32 (New International Version)\nand between the room above the corner and the Sheep Gate<sup>^A</sup> the goldsmiths and merchants made repairs.\n\n### Crossrefs\n- A: S [[Neh-3-1|ver 1]]; [[John-5-2|Jn 5:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fbe63258b8f8",m="# Isaiah 1:30 (New International Version)\nYou will be like an oak with fading leaves,<sup>^A</sup>  \n    like a garden without water.\n\n### Crossrefs\n- A: S [[Ps-1-3|Ps 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

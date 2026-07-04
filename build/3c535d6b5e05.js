@@ -1,0 +1,1 @@
+(function(){var b="3c535d6b5e05",m="# Job 40:17 (New International Version)\nIts tail sways like a cedar;  \n    the sinews of its thighs are close-knit.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-41-15|Job 41:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6049dadbbf12",m="# 1 Chronicles 15:14 (New International Version)\nSo the priests and Levites consecrated themselves in order to bring up the ark of the LORD, the God of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

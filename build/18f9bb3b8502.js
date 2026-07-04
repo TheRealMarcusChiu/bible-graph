@@ -1,0 +1,1 @@
+(function(){var b="18f9bb3b8502",m="# Ezekiel 11:10 (New International Version)\nYou will fall by the sword, and I will execute judgment on you at the borders of Israel.<sup>^A</sup> Then you will know that I am the LORD. \n\n### Crossrefs\n- A: [[2Kgs-14-25|2Ki 14:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

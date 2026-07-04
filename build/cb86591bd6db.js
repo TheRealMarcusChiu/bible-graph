@@ -1,0 +1,1 @@
+(function(){var b="cb86591bd6db",m="# Psalm 37:5 (New International Version)\nCommit your way to the LORD;  \n    trust in him<sup>^A</sup> and he will do this:\n\n### Crossrefs\n- A: [[Ps-4-5|Ps 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

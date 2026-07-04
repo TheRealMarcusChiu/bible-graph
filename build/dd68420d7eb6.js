@@ -1,0 +1,1 @@
+(function(){var b="dd68420d7eb6",m="# Ezra 8:7 (New International Version)\nof the descendants of Elam, Jeshaiah son of Athaliah, and with him 70 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

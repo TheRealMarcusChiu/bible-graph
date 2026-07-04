@@ -1,0 +1,1 @@
+(function(){var b="71006d383758",m="# Ecclesiastes 4:10 (New International Version)\nIf either of them falls down,  \n    one can help the other up.  \nBut pity anyone who falls  \n    and has no one to help them up.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="601dfe7aafbe",m="# Zechariah 11:15 (New International Version)\nThen the LORD said to me, \"Take again the equipment of a foolish shepherd.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

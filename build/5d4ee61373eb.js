@@ -1,0 +1,1 @@
+(function(){var b="5d4ee61373eb",m="# Psalm 119:18 (New International Version)\nOpen my eyes that I may see  \n    wonderful things in your law.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

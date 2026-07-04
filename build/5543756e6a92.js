@@ -1,0 +1,1 @@
+(function(){var b="5543756e6a92",m="# Psalm 119:72 (New International Version)\nThe law from your mouth is more precious to me  \n    than thousands of pieces of silver and gold.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-17|Job 28:17]]; S [[Ps-19-10|Ps 19:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

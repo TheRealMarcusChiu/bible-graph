@@ -1,0 +1,1 @@
+(function(){var b="ae34e87df14a",m="# Nehemiah 11:9 (New International Version)\nJoel son of Zikri was their chief officer, and Judah son of Hassenuah was over the New Quarter of the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

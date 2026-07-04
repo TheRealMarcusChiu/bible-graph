@@ -1,0 +1,1 @@
+(function(){var b="ad41e3b4544e",m="# Proverbs 18:4 (New International Version)\nThe words of the mouth are deep waters,<sup>^A</sup>  \n    but the fountain of wisdom is a rushing stream.\n\n### Crossrefs\n- A: S [[Ps-18-16|Ps 18:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

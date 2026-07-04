@@ -1,0 +1,1 @@
+(function(){var b="7942a50e33ef",m="# Psalm 68:12 (New International Version)\n\"Kings and armies flee<sup>^A</sup> in haste;  \n    the women at home divide the plunder.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Josh-10-16|Jos 10:16]]\n- B: S [[Judg-5-30|Jdg 5:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

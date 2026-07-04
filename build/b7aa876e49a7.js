@@ -1,0 +1,1 @@
+(function(){var b="b7aa876e49a7",m="# Nehemiah 11:7 (New International Version)\nFrom the descendants of Benjamin:\nSallu son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="026760f07bc0",m="# 2 Kings 6:8 (New International Version)\nElisha Traps Blinded Arameans\nNow the king of Aram was at war with Israel. After conferring with his officers, he said, \"I will set up my camp in such and such a place.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

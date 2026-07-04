@@ -1,0 +1,1 @@
+(function(){var b="d171c578f313",m="# 2 Chronicles 30:19 (New International Version)\nwho sets their heart on seeking God--the LORD, the God of their ancestors--even if they are not clean according to the rules of the sanctuary.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

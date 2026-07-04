@@ -1,0 +1,1 @@
+(function(){var b="7c25b3045fb5",m="# 2 Kings 20:8 (New International Version)\nHezekiah had asked Isaiah, \"What will be the sign that the LORD will heal me and that I will go up to the temple of the LORD on the third day from now?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

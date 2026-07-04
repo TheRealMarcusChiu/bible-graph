@@ -1,0 +1,1 @@
+(function(){var b="0dfc3fbe8775",m="# Psalm 101:7 (New International Version)\nNo one who practices deceit  \n    will dwell in my house;  \nno one who speaks falsely  \n    will stand in my presence.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d99eb991a2a0",m="# Job 6:8 (New International Version)\n\"Oh, that I might have my request,  \n    that God would grant what I hope for,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-14-13|Job 14:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

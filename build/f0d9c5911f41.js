@@ -1,0 +1,1 @@
+(function(){var b="f0d9c5911f41",m="# 2 Chronicles 29:4 (New International Version)\nHe brought in the priests and the Levites, assembled them in the square on the east side";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

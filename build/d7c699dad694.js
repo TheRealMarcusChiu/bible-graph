@@ -1,0 +1,1 @@
+(function(){var b="d7c699dad694",m="# Job 27:4 (New International Version)\nmy lips will not say anything wicked,  \n    and my tongue will not utter lies.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-28|Job 6:28]]; S [[Job-12-16|12:16]]; S [[Job-16-17|16:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

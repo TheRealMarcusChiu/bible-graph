@@ -1,0 +1,1 @@
+(function(){var b="fca4d0125b9e",m="# Psalm 108:8 (New International Version)\nGilead is mine, Manasseh is mine;  \n    Ephraim is my helmet,  \n    Judah<sup>^A</sup> is my scepter.\n\n### Crossrefs\n- A: S [[Ps-78-68|Ps 78:68]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

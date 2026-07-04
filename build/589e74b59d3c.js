@@ -1,0 +1,1 @@
+(function(){var b="589e74b59d3c",m="# Jonah 2:10 (New International Version)\nAnd the LORD commanded the fish, and it vomited Jonah onto dry land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

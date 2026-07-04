@@ -1,0 +1,1 @@
+(function(){var b="d6c755329a6e",m="# Psalm 135:20 (New International Version)\nhouse of Levi, praise the LORD;  \n    you who fear him, praise the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

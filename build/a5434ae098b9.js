@@ -1,0 +1,1 @@
+(function(){var b="a5434ae098b9",m="# Job 39:16 (New International Version)\nShe treats her young harshly,<sup>^A</sup> as if they were not hers;  \n    she cares not that her labor was in vain,\n\n### Crossrefs\n- A: [[Job-39-17|ver 17]]; [[Lam-4-3|La 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

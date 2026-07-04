@@ -1,0 +1,1 @@
+(function(){var b="adc47ecfd619",m="# Psalm 49:9 (New International Version)\nso that they should live on<sup>^A</sup> forever  \n    and not see decay.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-22-29|Ps 22:29]]; [[Ps-89-48|89:48]]\n- B: [[Ps-16-10|Ps 16:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="30fe3398a0d9",m="# 1 Chronicles 26:1 (New International Version)\nThe Gatekeepers\nThe divisions of the gatekeepers:<sup>^A</sup>\nFrom the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.\n\n### Crossrefs\n- A: S [[1Chr-9-17|1Ch 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

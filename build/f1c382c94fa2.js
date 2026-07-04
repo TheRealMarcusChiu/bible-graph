@@ -1,0 +1,1 @@
+(function(){var b="f1c382c94fa2",m="# 2 Kings 15:11 (New International Version)\nThe other events of Zechariah's reign are written in the book of the annals<sup>^A</sup> of the kings of Israel. \n\n### Crossrefs\n- A: [[1Kgs-15-31|1Ki 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33ee9448ea81",m="# Nehemiah 3:20 (New International Version)\nNext to him, Baruch son of Zabbai zealously repaired another section, from the angle to the entrance of the house of Eliashib the high priest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

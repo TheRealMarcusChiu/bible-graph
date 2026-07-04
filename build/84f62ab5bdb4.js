@@ -1,0 +1,1 @@
+(function(){var b="84f62ab5bdb4",m="# Job 39:21 (New International Version)\nIt paws fiercely, rejoicing in its strength,<sup>^A</sup>  \n    and charges into the fray.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-39-11|ver 11]]\n- B: [[Jer-8-6|Jer 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

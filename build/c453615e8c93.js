@@ -1,0 +1,1 @@
+(function(){var b="c453615e8c93",m="# Isaiah 1:22 (New International Version)\nYour silver has become dross,<sup>^A</sup>  \n    your choice wine is diluted with water.\n\n### Crossrefs\n- A: S [[Ps-119-119|Ps 119:119]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

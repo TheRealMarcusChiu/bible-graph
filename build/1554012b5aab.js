@@ -1,0 +1,1 @@
+(function(){var b="1554012b5aab",m="# Proverbs 14:7 (New International Version)\nStay away from a fool,  \n    for you will not find knowledge on their lips.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

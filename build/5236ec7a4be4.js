@@ -1,0 +1,1 @@
+(function(){var b="5236ec7a4be4",m="# 1 Chronicles 1:38 (New International Version)\nThe sons of Seir:\nLotan, Shobal, Zibeon, Anah, Dishon, Ezer and Dishan.\n\n### Crossrefs\n- A: [[1Chr-1-38|1:38-42pp]] — [[Gen-36-20|Ge 36:20-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

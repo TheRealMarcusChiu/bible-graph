@@ -1,0 +1,1 @@
+(function(){var b="347f616d33eb",m="# Proverbs 17:12 (New International Version)\nBetter to meet a bear robbed of her cubs  \n    than a fool bent on folly.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-25-25|1Sa 25:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1bb3333de8fe",m="# 1 Chronicles 24:30 (New International Version)\nAnd the sons of Mushi: Mahli, Eder and Jerimoth.\nThese were the Levites, according to their families.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1cc94e8616d3",m="# Daniel 11:12 (New International Version)\nWhen the army is carried off, the king of the South will be filled with pride and will slaughter many thousands, yet he will not remain triumphant.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

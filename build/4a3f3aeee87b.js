@@ -1,0 +1,1 @@
+(function(){var b="4a3f3aeee87b",m="# 1 Chronicles 24:9 (New International Version)\nthe fifth to Malkijah,\nthe sixth to Mijamin,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

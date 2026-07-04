@@ -1,0 +1,1 @@
+(function(){var b="a62544b04bfb",m="# Ecclesiastes 10:18 (New International Version)\nThrough laziness, the rafters sag;  \n    because of idle hands, the house leaks.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-20-4|Pr 20:4]]; S [[Prov-24-30|24:30-34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

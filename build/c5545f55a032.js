@@ -1,0 +1,1 @@
+(function(){var b="c5545f55a032",m="# Psalm 83:17 (New International Version)\nMay they ever be ashamed and dismayed;<sup>^A</sup>  \n    may they perish in disgrace.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Kgs-19-26|2Ki 19:26]]\n- B: S [[Ps-35-4|Ps 35:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

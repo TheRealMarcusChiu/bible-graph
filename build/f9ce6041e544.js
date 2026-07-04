@@ -1,0 +1,1 @@
+(function(){var b="f9ce6041e544",m="# Psalm 69:6 (New International Version)\nLord, the LORD Almighty,  \n    may those who hope in you  \n    not be disgraced because of me;  \nGod of Israel,  \n    may those who seek you  \n    not be put to shame because of me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="81fd319a1e3d",m="# Zechariah 1:10 (New International Version)\nThen the man standing among the myrtle trees explained, \"They are the ones the LORD has sent to go throughout the earth.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-6-5|Zec 6:5-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

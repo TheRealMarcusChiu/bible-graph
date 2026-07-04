@@ -1,0 +1,1 @@
+(function(){var b="57cc1cb7ae8c",m="# 1 Chronicles 26:25 (New International Version)\nHis relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zikri his son and Shelomith<sup>^A</sup> his son. \n\n### Crossrefs\n- A: [[1Chr-23-18|1Ch 23:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

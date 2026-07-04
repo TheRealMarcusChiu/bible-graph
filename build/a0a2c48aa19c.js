@@ -1,0 +1,1 @@
+(function(){var b="a0a2c48aa19c",m="# 2 Kings 15:17 (New International Version)\nMenahem King of Israel\nIn the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

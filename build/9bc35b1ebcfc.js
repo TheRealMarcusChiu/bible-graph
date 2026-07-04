@@ -1,0 +1,1 @@
+(function(){var b="9bc35b1ebcfc",m="# 2 Chronicles 21:2 (New International Version)\nJehoram's brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariahu, Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ea4dfd3ffde8",m="# 2 Chronicles 5:3 (New International Version)\nAnd all the Israelites<sup>^A</sup> came together to the king at the time of the festival in the seventh month.\n\n### Crossrefs\n- A: S [[1Chr-9-1|1Ch 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

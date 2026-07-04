@@ -1,0 +1,1 @@
+(function(){var b="77add879b8ca",m="# Ezra 5:9 (New International Version)\nWe questioned the elders and asked them, \"Who authorized you to rebuild this temple and to finish it?\"<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezra-4-12|Ezr 4:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

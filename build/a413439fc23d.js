@@ -1,0 +1,1 @@
+(function(){var b="a413439fc23d",m="# Psalm 136:10 (New International Version)\nto him who struck down the firstborn<sup>^A</sup> of Egypt  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Exod-4-23|Ex 4:23]]; S [[Exod-12-12|12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

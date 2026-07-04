@@ -1,0 +1,1 @@
+(function(){var b="6e520d3fd24f",m="# Proverbs 23:15 (New International Version)\nMy son, if your heart is wise,  \n    then my heart will be glad indeed;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

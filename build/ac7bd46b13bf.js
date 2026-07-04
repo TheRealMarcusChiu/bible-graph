@@ -1,0 +1,1 @@
+(function(){var b="ac7bd46b13bf",m="# Lamentations 3:23 (New International Version)\nThey are new every morning;  \n    great is your faithfulness.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-34-6|Ex 34:6]]; [[Zeph-3-5|Zep 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

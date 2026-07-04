@@ -1,0 +1,1 @@
+(function(){var b="f625ba48a0e0",m="# Ezekiel 33:14 (New International Version)\nAnd if I say to a wicked person, 'You will surely die,' but they then turn away from their sin and do what is just<sup>^A</sup> and right-- \n\n### Crossrefs\n- A: S [[Jer-22-3|Jer 22:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

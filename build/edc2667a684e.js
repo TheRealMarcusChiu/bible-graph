@@ -1,0 +1,1 @@
+(function(){var b="edc2667a684e",m="# Jeremiah 17:12 (New International Version)\nA glorious throne,<sup>^A</sup> exalted from the beginning,  \n    is the place of our sanctuary.\n\n### Crossrefs\n- A: S [[Jer-3-17|Jer 3:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

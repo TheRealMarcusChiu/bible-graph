@@ -1,0 +1,1 @@
+(function(){var b="6c151d0cb7bb",m="# Psalm 66:5 (New International Version)\nCome and see what God has done,  \n    his awesome deeds<sup>^A</sup> for mankind!\n\n### Crossrefs\n- A: [[Ps-66-3|ver 3]]; [[Ps-106-22|Ps 106:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

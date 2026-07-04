@@ -1,0 +1,1 @@
+(function(){var b="cdf2ac411b68",m="# Jeremiah 52:16 (New International Version)\nBut Nebuzaradan left behind<sup>^A</sup> the rest of the poorest people of the land to work the vineyards and fields.\n\n### Crossrefs\n- A: [[Jer-40-6|Jer 40:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

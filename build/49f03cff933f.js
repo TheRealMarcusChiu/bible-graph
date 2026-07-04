@@ -1,0 +1,1 @@
+(function(){var b="49f03cff933f",m="# Psalm 78:6 (New International Version)\nso the next generation would know them,  \n    even the children yet to be born,<sup>^A</sup>  \n    and they in turn would tell their children.\n\n### Crossrefs\n- A: S [[Ps-22-31|Ps 22:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

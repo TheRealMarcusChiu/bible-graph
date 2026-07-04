@@ -1,0 +1,1 @@
+(function(){var b="c23429e6bc61",m="# Esther 1:15 (New International Version)\n\"According to law, what must be done to Queen Vashti?\" he asked. \"She has not obeyed the command of King Xerxes that the eunuchs have taken to her.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

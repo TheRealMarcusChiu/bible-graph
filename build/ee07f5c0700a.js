@@ -1,0 +1,1 @@
+(function(){var b="ee07f5c0700a",m="# Psalm 68:19 (New International Version)\nPraise be to the Lord, to God our Savior,<sup>^A</sup>  \n    who daily bears our burdens.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-65-5|Ps 65:5]]\n- B: [[Ps-81-6|Ps 81:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

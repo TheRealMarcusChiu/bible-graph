@@ -1,0 +1,1 @@
+(function(){var b="7cad8c851d2a",m="# Psalm 106:30 (New International Version)\nBut Phinehas<sup>^A</sup> stood up and intervened,  \n    and the plague was checked.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-6-25|Ex 6:25]]\n- B: [[Num-25-8|Nu 25:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

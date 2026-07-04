@@ -1,0 +1,1 @@
+(function(){var b="efd9b1553e54",m="# Psalm 7:10 (New International Version)\nMy shield<sup>^A</sup> is God Most High,  \n    who saves the upright in heart.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-3-3|Ps 3:3]]\n- B: S [[Job-33-3|Job 33:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

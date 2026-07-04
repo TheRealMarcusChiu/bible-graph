@@ -1,0 +1,1 @@
+(function(){var b="6b691a819d3c",m="# Psalm 145:16 (New International Version)\nYou open your hand  \n    and satisfy the desires<sup>^A</sup> of every living thing.\n\n### Crossrefs\n- A: S [[Ps-90-14|Ps 90:14]]; S [[Ps-104-28|104:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

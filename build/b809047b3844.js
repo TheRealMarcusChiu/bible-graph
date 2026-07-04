@@ -1,0 +1,1 @@
+(function(){var b="b809047b3844",m="# 2 Chronicles 15:10 (New International Version)\nThey assembled at Jerusalem in the third month<sup>^A</sup> of the fifteenth year of Asa's reign. \n\n### Crossrefs\n- A: S [[Lev-23-15|Lev 23:15-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

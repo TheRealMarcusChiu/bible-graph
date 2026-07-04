@@ -1,0 +1,1 @@
+(function(){var b="5395a381c7d3",m="# Proverbs 18:23 (New International Version)\nThe poor plead for mercy,  \n    but the rich answer harshly.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

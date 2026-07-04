@@ -1,0 +1,1 @@
+(function(){var b="d16f6c8b2bcf",m="# Jeremiah 48:23 (New International Version)\nto Kiriathaim,<sup>^A</sup> Beth Gamul and Beth Meon,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-32-37|Nu 32:37]]; S [[Josh-13-19|Jos 13:19]]\n- B: S [[Josh-13-17|Jos 13:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

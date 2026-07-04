@@ -1,0 +1,1 @@
+(function(){var b="d2c88cb0da04",m="# Psalm 44:6 (New International Version)\nI put no trust in my bow,<sup>^A</sup>  \n    my sword does not bring me victory;\n\n### Crossrefs\n- A: [[Gen-48-22|Ge 48:22]]; [[Hos-1-7|Hos 1:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

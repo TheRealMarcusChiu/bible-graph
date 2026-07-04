@@ -1,0 +1,1 @@
+(function(){var b="dc5f3fa29c54",m="# Isaiah 21:6 (New International Version)\nThis is what the Lord says to me:\n\"Go, post a lookout<sup>^A</sup>  \n    and have him report what he sees.\n\n### Crossrefs\n- A: S [[2Kgs-9-17|2Ki 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

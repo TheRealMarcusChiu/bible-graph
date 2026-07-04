@@ -1,0 +1,1 @@
+(function(){var b="5bb88742fe1f",m="# Psalm 33:16 (New International Version)\nNo king is saved by the size of his army;<sup>^A</sup>  \n    no warrior escapes by his great strength.\n\n### Crossrefs\n- A: [[1Sam-14-6|1Sa 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

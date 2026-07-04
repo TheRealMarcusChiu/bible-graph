@@ -1,0 +1,1 @@
+(function(){var b="cf24ee33c058",m="# Psalm 78:66 (New International Version)\nHe beat back his enemies;  \n    he put them to everlasting shame.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Sam-5-6|1Sa 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

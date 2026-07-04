@@ -1,0 +1,1 @@
+(function(){var b="bffe934307b8",m="# 1 Chronicles 6:72 (New International Version)\nfrom the tribe of Issachar\nthey received Kedesh, Daberath,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-19-12|Jos 19:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

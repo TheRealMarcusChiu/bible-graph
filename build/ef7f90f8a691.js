@@ -1,0 +1,1 @@
+(function(){var b="ef7f90f8a691",m="# 1 Chronicles 27:20 (New International Version)\nover the Ephraimites: Hoshea son of Azaziah;\nover half the tribe of Manasseh: Joel son of Pedaiah;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

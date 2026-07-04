@@ -1,0 +1,1 @@
+(function(){var b="50e3d60f986a",m="# Psalm 73:12 (New International Version)\nThis is what the wicked are like--  \n    always free of care,<sup>^A</sup> they go on amassing wealth.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-73-5|ver 5]]\n- B: S [[Ps-49-6|Ps 49:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="10fc30aa1c28",m="# Proverbs 23:22 (New International Version)\nListen to your father, who gave you life,  \n    and do not despise your mother when she is old.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-19-32|Lev 19:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

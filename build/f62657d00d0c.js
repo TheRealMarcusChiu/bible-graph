@@ -1,0 +1,1 @@
+(function(){var b="f62657d00d0c",m="# 2 Chronicles 36:1 (New International Version)\nAnd the people<sup>^A</sup> of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.\n\n### Crossrefs\n- A: S [[2Chr-22-1|2Ch 22:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

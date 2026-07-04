@@ -1,0 +1,1 @@
+(function(){var b="cdec20441393",m="# Psalm 119:44 (New International Version)\nI will always obey your law,<sup>^A</sup>  \n    for ever and ever.\n\n### Crossrefs\n- A: [[Ps-119-33|ver 33]], [[Ps-119-34|34]], [[Ps-119-55|55]]; S [[Deut-6-25|Dt 6:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

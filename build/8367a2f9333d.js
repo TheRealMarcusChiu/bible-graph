@@ -1,0 +1,1 @@
+(function(){var b="8367a2f9333d",m="# 1 Chronicles 24:18 (New International Version)\nthe twenty-third to Delaiah\nand the twenty-fourth to Maaziah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

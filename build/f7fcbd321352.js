@@ -1,0 +1,1 @@
+(function(){var b="f7fcbd321352",m="# Proverbs 7:2 (New International Version)\nKeep my commands and you will live;<sup>^A</sup>  \n    guard my teachings as the apple of your eye.\n\n### Crossrefs\n- A: [[Prov-4-4|Pr 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

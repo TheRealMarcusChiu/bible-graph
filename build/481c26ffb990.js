@@ -1,0 +1,1 @@
+(function(){var b="481c26ffb990",m="# 1 Chronicles 2:30 (New International Version)\nThe sons of Nadab:\nSeled and Appaim. Seled died without children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

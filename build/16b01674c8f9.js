@@ -1,0 +1,1 @@
+(function(){var b="16b01674c8f9",m="# Psalm 120:4 (New International Version)\nHe will punish you with a warrior's sharp arrows,<sup>^A</sup>  \n    with burning coals of the broom bush.\n\n### Crossrefs\n- A: S [[Deut-32-23|Dt 32:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

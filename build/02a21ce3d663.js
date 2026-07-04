@@ -1,0 +1,1 @@
+(function(){var b="02a21ce3d663",m="# Jeremiah 46:7 (New International Version)\n\"Who is this that rises like the Nile,  \n    like rivers of surging waters?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-47-2|Jer 47:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

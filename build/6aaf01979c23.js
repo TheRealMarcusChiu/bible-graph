@@ -1,0 +1,1 @@
+(function(){var b="6aaf01979c23",m="# Proverbs 11:6 (New International Version)\nThe righteousness of the upright delivers them,  \n    but the unfaithful are trapped by evil desires.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Esth-7-9|Est 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

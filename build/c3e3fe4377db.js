@@ -1,0 +1,1 @@
+(function(){var b="c3e3fe4377db",m="# Daniel 2:33 (New International Version)\nits legs of iron, its feet partly of iron and partly of baked clay.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

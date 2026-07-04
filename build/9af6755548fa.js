@@ -1,0 +1,1 @@
+(function(){var b="9af6755548fa",m="# Ezekiel 11\n\nVisions from exile in Babylon -- judgment on Jerusalem, and promised restoration with a new heart and spirit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

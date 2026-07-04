@@ -1,0 +1,1 @@
+(function(){var b="a1c310262dd1",m="# 2 Chronicles 33:5 (New International Version)\nIn both courts of the temple of the LORD,<sup>^A</sup> he built altars to all the starry hosts. \n\n### Crossrefs\n- A: S [[2Chr-4-9|2Ch 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

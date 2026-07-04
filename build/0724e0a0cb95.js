@@ -1,0 +1,1 @@
+(function(){var b="0724e0a0cb95",m="# Psalm 56:12 (New International Version)\nI am under vows<sup>^A</sup> to you, my God;  \n    I will present my thank offerings to you.\n\n### Crossrefs\n- A: [[Ps-50-14|Ps 50:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

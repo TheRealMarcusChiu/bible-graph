@@ -1,0 +1,1 @@
+(function(){var b="0fe2a7b94cea",m="# Daniel 11:42 (New International Version)\nHe will extend his power over many countries; Egypt will not escape.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

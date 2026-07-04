@@ -1,0 +1,1 @@
+(function(){var b="99b9ce742315",m="# Psalm 89:51 (New International Version)\nthe taunts with which your enemies, LORD, have mocked,  \n    with which they have mocked every step of your anointed one.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-74-10|Ps 74:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

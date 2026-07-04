@@ -1,0 +1,1 @@
+(function(){var b="c7c0b7e593bd",m="# Nehemiah 10:3 (New International Version)\nPashhur,<sup>^A</sup> Amariah, Malkijah,\n\n### Crossrefs\n- A: S [[1Chr-9-12|1Ch 9:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

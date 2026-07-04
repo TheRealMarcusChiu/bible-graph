@@ -1,0 +1,1 @@
+(function(){var b="6228ab8da1c6",m="# Psalm 33:20 (New International Version)\nWe wait<sup>^A</sup> in hope for the LORD;  \n    he is our help and our shield.\n\n### Crossrefs\n- A: S [[Ps-27-14|Ps 27:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

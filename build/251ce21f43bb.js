@@ -1,0 +1,1 @@
+(function(){var b="251ce21f43bb",m="# Daniel 10:15 (New International Version)\nWhile he was saying this to me, I bowed with my face toward the ground and was speechless.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-24-27|Eze 24:27]]; [[Luke-1-20|Lk 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

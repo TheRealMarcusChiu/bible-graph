@@ -1,0 +1,1 @@
+(function(){var b="039ddbbb35c7",m="# Proverbs 6:3 (New International Version)\nSo do this, my son, to free yourself,  \n    since you have fallen into your neighbor's hands:  \nGo--to the point of exhaustion--  \n    and give your neighbor no rest!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c58e8f59bc81",m="# Song of Songs 8:13 (New International Version)\nYou who dwell in the gardens  \n    with friends in attendance,  \n    let me hear your voice!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5742b65e13d6",m="# 1 Chronicles 5:19 (New International Version)\nThey waged war against the Hagrites, Jetur,<sup>^A</sup> Naphish and Nodab. \n\n### Crossrefs\n- A: [[Gen-25-15|Ge 25:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

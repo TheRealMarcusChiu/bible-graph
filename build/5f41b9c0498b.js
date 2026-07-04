@@ -1,0 +1,1 @@
+(function(){var b="5f41b9c0498b",m="# 1 Chronicles 1:49 (New International Version)\nWhen Shaul died, Baal-Hanan son of Akbor succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

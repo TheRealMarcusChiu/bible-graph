@@ -1,0 +1,1 @@
+(function(){var b="bd6d351b9f69",m="# Daniel 4\n\nFaithful Jews in the Babylonian court and apocalyptic visions of God's kingdom over the empires.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

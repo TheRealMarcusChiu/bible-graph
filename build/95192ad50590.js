@@ -1,0 +1,1 @@
+(function(){var b="95192ad50590",m="# Nehemiah 12:23 (New International Version)\nThe family heads among the descendants of Levi up to the time of Johanan son of Eliashib were recorded in the book of the annals.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

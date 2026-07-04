@@ -1,0 +1,1 @@
+(function(){var b="5549006de1a5",m="# Isaiah 13:12 (New International Version)\nI will make people<sup>^A</sup> scarcer than pure gold,  \n    more rare than the gold of Ophir.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-4-1|Isa 4:1]]\n- B: S [[Gen-10-29|Ge 10:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

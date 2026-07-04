@@ -1,0 +1,1 @@
+(function(){var b="3ad20912b292",m="# 1 Chronicles 7:16 (New International Version)\nMakir's wife Maakah gave birth to a son and named him Peresh. His brother was named Sheresh, and his sons were Ulam and Rakem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

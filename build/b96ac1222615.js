@@ -1,0 +1,1 @@
+(function(){var b="b96ac1222615",m="# Psalm 78:44 (New International Version)\nHe turned their river into blood;<sup>^A</sup>  \n    they could not drink from their streams.\n\n### Crossrefs\n- A: [[Exod-7-20|Ex 7:20-21]]; [[Ps-105-29|Ps 105:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

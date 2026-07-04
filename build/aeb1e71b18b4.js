@@ -1,0 +1,1 @@
+(function(){var b="aeb1e71b18b4",m="# Proverbs 18:1 (New International Version)\nAn unfriendly person pursues selfish ends  \n    and against all sound judgment starts quarrels.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

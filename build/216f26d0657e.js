@@ -1,0 +1,1 @@
+(function(){var b="216f26d0657e",m="# 2 Chronicles 18:30 (New International Version)\nNow the king of Aram had ordered his chariot commanders, \"Do not fight with anyone, small or great, except the king of Israel.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

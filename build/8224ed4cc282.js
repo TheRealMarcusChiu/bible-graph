@@ -1,0 +1,1 @@
+(function(){var b="8224ed4cc282",m="# 1 Chronicles 9:36 (New International Version)\nand his firstborn son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

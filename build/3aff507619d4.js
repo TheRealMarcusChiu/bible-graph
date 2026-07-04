@@ -1,0 +1,1 @@
+(function(){var b="3aff507619d4",m="# Job 21:11 (New International Version)\nThey send forth their children as a flock;<sup>^A</sup>  \n    their little ones dance about.\n\n### Crossrefs\n- A: [[Ps-78-52|Ps 78:52]]; [[Ps-107-41|107:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

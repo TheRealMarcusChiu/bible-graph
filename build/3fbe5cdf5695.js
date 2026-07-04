@@ -1,0 +1,1 @@
+(function(){var b="3fbe5cdf5695",m="# Zechariah 5:2 (New International Version)\nHe asked me, \"What do you see?\"<sup>^A</sup>\nI answered, \"I see a flying scroll, twenty cubits long and ten cubits wide.\"\n\n### Crossrefs\n- A: S [[Jer-1-13|Jer 1:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

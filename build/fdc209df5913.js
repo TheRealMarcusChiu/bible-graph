@@ -1,0 +1,1 @@
+(function(){var b="fdc209df5913",m="# 2 Chronicles 10:9 (New International Version)\nHe asked them, \"What is your advice? How should we answer these people who say to me, 'Lighten the yoke your father put on us'?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="be9f7ffaa933",m="# Job 33:10 (New International Version)\nYet God has found fault with me;  \n    he considers me his enemy.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-13-24|Job 13:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1aeddb585bf6",m="# Psalm 78:2 (New International Version)\nI will open my mouth with a parable;<sup>^A</sup>  \n    I will utter hidden things, things from of old--\n\n### Crossrefs\n- A: S [[Ps-49-4|Ps 49:4]]; S Mt 13:35*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

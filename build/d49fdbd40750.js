@@ -1,0 +1,1 @@
+(function(){var b="d49fdbd40750",m="# Zechariah 4:13 (New International Version)\nHe replied, \"Do you not know what these are?\"\n\"No, my lord,\" I said.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

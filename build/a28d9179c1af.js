@@ -1,0 +1,1 @@
+(function(){var b="a28d9179c1af",m="# Ezekiel 42:7 (New International Version)\nThere was an outer wall parallel to the rooms and the outer court; it extended in front of the rooms for fifty cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

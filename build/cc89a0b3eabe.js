@@ -1,0 +1,1 @@
+(function(){var b="cc89a0b3eabe",m="# Proverbs 17:21 (New International Version)\nTo have a fool for a child brings grief;  \n    there is no joy for the parent of a godless fool.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-1|Pr 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

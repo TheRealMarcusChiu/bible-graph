@@ -1,0 +1,1 @@
+(function(){var b="756a0d90a46e",m="# Proverbs 30:26 (New International Version)\nhyraxes<sup>^A</sup> are creatures of little power,  \n    yet they make their home in the crags;\n\n### Crossrefs\n- A: S [[Ps-104-18|Ps 104:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

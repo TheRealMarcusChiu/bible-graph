@@ -1,0 +1,1 @@
+(function(){var b="2bb496b6f7e9",m="# Nehemiah 11:23 (New International Version)\nThe musicians<sup>^A</sup> were under the king's orders, which regulated their daily activity.\n\n### Crossrefs\n- A: S [[1Chr-15-16|1Ch 15:16]]; [[Neh-7-44|Ne 7:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

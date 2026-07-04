@@ -1,0 +1,1 @@
+(function(){var b="d65cb02bcdbe",m="# Amos 6\n\nA shepherd prophet denounces Israel's injustice and empty religion.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

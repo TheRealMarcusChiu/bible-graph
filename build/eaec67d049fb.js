@@ -1,0 +1,1 @@
+(function(){var b="eaec67d049fb",m="# Psalm 90:13 (New International Version)\nRelent, LORD! How long<sup>^A</sup> will it be?  \n    Have compassion on your servants.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-6-3|Ps 6:3]]\n- B: S [[Deut-32-36|Dt 32:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9100ef79da27",m="# 2 Kings 15:34 (New International Version)\nHe did what was right<sup>^A</sup> in the eyes of the LORD, just as his father Uzziah had done. \n\n### Crossrefs\n- A: S [[1Kgs-14-8|1Ki 14:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

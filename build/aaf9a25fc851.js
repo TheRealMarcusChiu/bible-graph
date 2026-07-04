@@ -1,0 +1,1 @@
+(function(){var b="aaf9a25fc851",m="# Psalm 121:3 (New International Version)\nHe will not let your foot slip--  \n    he who watches over you will not slumber;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

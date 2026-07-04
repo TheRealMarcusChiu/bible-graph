@@ -1,0 +1,1 @@
+(function(){var b="508d46aac18f",m="# 2 Chronicles 18:19 (New International Version)\nAnd the LORD said, 'Who will entice Ahab king of Israel into attacking Ramoth Gilead and going to his death there?'\n\"One suggested this, and another that.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b1179ab362c9",m="# Psalm 89:31 (New International Version)\nif they violate my decrees  \n    and fail to keep my commands,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

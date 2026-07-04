@@ -1,0 +1,1 @@
+(function(){var b="a13c7c16d13d",m="# Job 22:2 (New International Version)\n\"Can a man be of benefit to God?<sup>^A</sup>  \n    Can even a wise person benefit him?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Luke-17-10|Lk 17:10]]\n- B: S [[Job-7-17|Job 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

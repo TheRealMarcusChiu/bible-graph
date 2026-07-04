@@ -1,0 +1,1 @@
+(function(){var b="bbe9f9d3f23a",m="# Proverbs 18:19 (New International Version)\nA brother wronged<sup>^A</sup> is more unyielding than a fortified city;  \n    disputes are like the barred gates of a citadel.\n\n### Crossrefs\n- A: S [[1Sam-17-28|1Sa 17:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

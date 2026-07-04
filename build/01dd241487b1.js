@@ -1,0 +1,1 @@
+(function(){var b="01dd241487b1",m="# Nehemiah 6:19 (New International Version)\nMoreover, they kept reporting to me his good deeds and then telling him what I said. And Tobiah sent letters to intimidate me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

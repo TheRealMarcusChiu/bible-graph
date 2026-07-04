@@ -1,0 +1,1 @@
+(function(){var b="224eda9e50ef",m="# Job 13:2 (New International Version)\nWhat you know, I also know;  \n    I am not inferior to you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-3|Job 12:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

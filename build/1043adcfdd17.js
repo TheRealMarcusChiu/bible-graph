@@ -1,0 +1,1 @@
+(function(){var b="1043adcfdd17",m="# Proverbs 25:26 (New International Version)\nLike a muddied spring or a polluted well  \n    are the righteous who give way to the wicked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

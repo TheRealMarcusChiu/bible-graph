@@ -1,0 +1,1 @@
+(function(){var b="89f6a1af783a",m="# Psalm 73:15 (New International Version)\nIf I had spoken out like that,  \n    I would have betrayed your children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

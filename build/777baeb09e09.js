@@ -1,0 +1,1 @@
+(function(){var b="777baeb09e09",m="# 2 Chronicles 20:26 (New International Version)\nOn the fourth day they assembled in the Valley of Berakah, where they praised the LORD. This is why it is called the Valley of Berakah to this day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1f42453c853e",m="# 2 Kings 9:34 (New International Version)\nJehu went in and ate and drank. \"Take care of that cursed woman,\" he said, \"and bury her, for she was a king's daughter.\"<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-16-31|1Ki 16:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

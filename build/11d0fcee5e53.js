@@ -1,0 +1,1 @@
+(function(){var b="11d0fcee5e53",m="# 2 Chronicles 4:14 (New International Version)\nthe stands<sup>^A</sup> with their basins;\n\n### Crossrefs\n- A: [[1Kgs-7-27|1Ki 7:27-30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

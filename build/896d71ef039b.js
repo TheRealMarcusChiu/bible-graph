@@ -1,0 +1,1 @@
+(function(){var b="896d71ef039b",m="# Nehemiah 3:10 (New International Version)\nAdjoining this, Jedaiah son of Harumaph made repairs opposite his house, and Hattush son of Hashabneiah made repairs next to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

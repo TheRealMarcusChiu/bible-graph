@@ -1,0 +1,1 @@
+(function(){var b="866c93e2ea28",m="# Psalm 94:14 (New International Version)\nFor the LORD will not reject his people;<sup>^A</sup>  \n    he will never forsake his inheritance.\n\n### Crossrefs\n- A: S [[Deut-31-6|Dt 31:6]]; [[Ps-37-28|Ps 37:28]]; [[Rom-11-2|Ro 11:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

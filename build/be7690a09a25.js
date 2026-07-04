@@ -1,0 +1,1 @@
+(function(){var b="be7690a09a25",m="# Job 24:3 (New International Version)\nThey drive away the orphan's donkey  \n    and take the widow's ox in pledge.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-27|Job 6:27]]; S [[Job-22-9|22:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

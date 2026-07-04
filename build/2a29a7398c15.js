@@ -1,0 +1,1 @@
+(function(){var b="2a29a7398c15",m="# Psalm 57:7 (New International Version)\nMy heart, O God, is steadfast,  \n    my heart is steadfast;<sup>^A</sup>  \n    I will sing and make music.\n\n### Crossrefs\n- A: [[Ps-112-7|Ps 112:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

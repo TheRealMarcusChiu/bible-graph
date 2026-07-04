@@ -1,0 +1,1 @@
+(function(){var b="f37a580decdf",m="# Nehemiah 12:34 (New International Version)\nJudah, Benjamin,<sup>^A</sup> Shemaiah, Jeremiah, \n\n### Crossrefs\n- A: S [[Ezra-1-5|Ezr 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2340d1fc23d8",m="# 2 Kings 2:13 (New International Version)\nElisha then picked up Elijah's cloak that had fallen from him and went back and stood on the bank of the Jordan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

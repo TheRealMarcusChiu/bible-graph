@@ -1,0 +1,1 @@
+(function(){var b="f1dc3e0cddea",m="# Proverbs 4:25 (New International Version)\nLet your eyes<sup>^A</sup> look straight ahead;  \n    fix your gaze directly before you.\n\n### Crossrefs\n- A: S [[Job-31-1|Job 31:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

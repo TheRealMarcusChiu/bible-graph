@@ -1,0 +1,1 @@
+(function(){var b="0b572a526141",m="# Psalm 109:26 (New International Version)\nHelp me,<sup>^A</sup> LORD my God;  \n    save me according to your unfailing love.\n\n### Crossrefs\n- A: [[Ps-12-1|Ps 12:1]]; [[Ps-119-86|119:86]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5152fd7e7789",m="# 1 Chronicles 26:22 (New International Version)\nthe sons of Jehieli, Zetham and his brother Joel. They were in charge of the treasuries<sup>^A</sup> of the temple of the LORD.\n\n### Crossrefs\n- A: [[1Chr-9-26|1Ch 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

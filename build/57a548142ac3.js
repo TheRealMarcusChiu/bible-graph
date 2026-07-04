@@ -1,0 +1,1 @@
+(function(){var b="57a548142ac3",m="# Job 40:7 (New International Version)\n\"Brace yourself like a man;  \n    I will question you,  \n    and you shall answer me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-38-3|Job 38:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

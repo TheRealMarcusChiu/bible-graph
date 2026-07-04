@@ -1,0 +1,1 @@
+(function(){var b="51aff2bbff34",m="# Job 36:25 (New International Version)\nAll humanity has seen it;<sup>^A</sup>  \n    mortals gaze on it from afar.\n\n### Crossrefs\n- A: [[Rom-1-20|Ro 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

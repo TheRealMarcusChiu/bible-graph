@@ -1,0 +1,1 @@
+(function(){var b="d240c1e86d87",m="# Psalm 104:16 (New International Version)\nThe trees of the LORD<sup>^A</sup> are well watered,  \n    the cedars of Lebanon<sup>^B</sup> that he planted.\n\n### Crossrefs\n- A: [[Gen-1-11|Ge 1:11]]\n- B: S [[Ps-72-16|Ps 72:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

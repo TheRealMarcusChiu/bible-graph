@@ -1,0 +1,1 @@
+(function(){var b="2b456919569d",m="# Psalm 37:10 (New International Version)\nA little while, and the wicked will be no more;<sup>^A</sup>  \n    though you look for them, they will not be found.\n\n### Crossrefs\n- A: S [[Job-7-10|Job 7:10]]; [[Ezek-27-36|Eze 27:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1a531ae4ee57",m="# Proverbs 21:7 (New International Version)\nThe violence of the wicked will drag them away,<sup>^A</sup>  \n    for they refuse to do what is right.\n\n### Crossrefs\n- A: S [[Prov-11-5|Pr 11:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

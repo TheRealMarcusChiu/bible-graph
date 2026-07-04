@@ -1,0 +1,1 @@
+(function(){var b="db190b84b404",m="# Job 40:18 (New International Version)\nIts bones are tubes of bronze,  \n    its limbs<sup>^A</sup> like rods of iron.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-41-12|Job 41:12]]\n- B: [[Isa-11-4|Isa 11:4]]; [[Isa-49-2|49:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

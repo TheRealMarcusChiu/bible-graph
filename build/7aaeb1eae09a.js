@@ -1,0 +1,1 @@
+(function(){var b="7aaeb1eae09a",m="# 1 Chronicles 18:12 (New International Version)\nAbishai son of Zeruiah struck down eighteen thousand Edomites<sup>^A</sup> in the Valley of Salt. \n\n### Crossrefs\n- A: [[1Kgs-11-15|1Ki 11:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

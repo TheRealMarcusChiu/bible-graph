@@ -1,0 +1,1 @@
+(function(){var b="c2ab412ef745",m="# Ezra 10:25 (New International Version)\nAnd among the other Israelites:\nFrom the descendants of Parosh:<sup>^A</sup>\nRamiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah and Benaiah.\n\n### Crossrefs\n- A: S [[Ezra-2-3|Ezr 2:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

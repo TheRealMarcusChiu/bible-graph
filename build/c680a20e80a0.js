@@ -1,0 +1,1 @@
+(function(){var b="c680a20e80a0",m="# Psalm 89:35 (New International Version)\nOnce for all, I have sworn by my holiness--  \n    and I will not lie to David--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

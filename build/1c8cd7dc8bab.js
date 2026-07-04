@@ -1,0 +1,1 @@
+(function(){var b="1c8cd7dc8bab",m="# Psalm 109:29 (New International Version)\nMay my accusers be clothed with disgrace  \n    and wrapped in shame<sup>^A</sup> as in a cloak.\n\n### Crossrefs\n- A: S [[Ps-35-26|Ps 35:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

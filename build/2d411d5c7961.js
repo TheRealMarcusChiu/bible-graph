@@ -1,0 +1,1 @@
+(function(){var b="2d411d5c7961",m="# Jeremiah 6:18 (New International Version)\nTherefore hear, you nations;  \n    you who are witnesses,  \n    observe what will happen to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

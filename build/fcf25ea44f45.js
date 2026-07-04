@@ -1,0 +1,1 @@
+(function(){var b="fcf25ea44f45",m="# Proverbs 2:17 (New International Version)\nwho has left the partner of her youth  \n    and ignored the covenant she made before God.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Mal-2-14|Mal 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

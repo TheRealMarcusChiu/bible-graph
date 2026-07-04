@@ -1,0 +1,1 @@
+(function(){var b="63a85836e1dd",m="# Proverbs 15:24 (New International Version)\nThe path of life leads upward for the prudent  \n    to keep them from going down to the realm of the dead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

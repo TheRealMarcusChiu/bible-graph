@@ -1,0 +1,1 @@
+(function(){var b="6847b6d4fe55",m="# 1 Chronicles 23:18 (New International Version)\nThe sons of Izhar:\nShelomith<sup>^A</sup> was the first.\n\n### Crossrefs\n- A: [[1Chr-26-25|1Ch 26:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

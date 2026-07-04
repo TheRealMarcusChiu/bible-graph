@@ -1,0 +1,1 @@
+(function(){var b="24120c6baa2b",m="# 2 Chronicles 17:13 (New International Version)\nand had large supplies in the towns of Judah. He also kept experienced fighting men in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

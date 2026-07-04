@@ -1,0 +1,1 @@
+(function(){var b="eedf1fca4321",m="# Psalm 119:111 (New International Version)\nYour statutes are my heritage forever;  \n    they are the joy of my heart.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-14|ver 14]], [[Ps-119-162|162]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

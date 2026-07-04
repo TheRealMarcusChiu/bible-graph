@@ -1,0 +1,1 @@
+(function(){var b="7d620790789f",m="# Proverbs 11:24 (New International Version)\nOne person gives freely, yet gains even more;  \n    another withholds unduly, but comes to poverty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

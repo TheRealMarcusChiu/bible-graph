@@ -1,0 +1,1 @@
+(function(){var b="3eb77b22a212",m="# Proverbs 30:8 (New International Version)\nKeep falsehood and lies far from me;  \n    give me neither poverty nor riches,  \n    but give me only my daily bread.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-6-11|Mt 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

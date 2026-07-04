@@ -1,0 +1,1 @@
+(function(){var b="14de67f8fab4",m="# Psalm 44:14 (New International Version)\nYou have made us a byword<sup>^A</sup> among the nations;  \n    the peoples shake their heads<sup>^B</sup> at us.\n\n### Crossrefs\n- A: S [[1Kgs-9-7|1Ki 9:7]]\n- B: S [[2Kgs-19-21|2Ki 19:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

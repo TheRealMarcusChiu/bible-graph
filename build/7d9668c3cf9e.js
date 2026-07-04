@@ -1,0 +1,1 @@
+(function(){var b="7d9668c3cf9e",m="# 1 Chronicles 1:24 (New International Version)\nShem,<sup>^A</sup> Arphaxad, Shelah,\n\n### Crossrefs\n- A: S [[Gen-10-21|Ge 10:21-25]]; [[Luke-3-34|Lk 3:34-36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

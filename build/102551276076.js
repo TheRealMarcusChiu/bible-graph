@@ -1,0 +1,1 @@
+(function(){var b="102551276076",m="# Lamentations 3:61 (New International Version)\nLORD, you have heard their insults,<sup>^A</sup>  \n    all their plots against me--\n\n### Crossrefs\n- A: [[Ps-89-50|Ps 89:50]]; [[Zeph-2-8|Zep 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

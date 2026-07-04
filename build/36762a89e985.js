@@ -1,0 +1,1 @@
+(function(){var b="36762a89e985",m="# Ezra 10:37 (New International Version)\nMattaniah, Mattenai and Jaasu.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

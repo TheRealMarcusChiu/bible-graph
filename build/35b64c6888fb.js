@@ -1,0 +1,1 @@
+(function(){var b="35b64c6888fb",m="# Psalm 124:4 (New International Version)\nthe flood<sup>^A</sup> would have engulfed us,  \n    the torrent<sup>^B</sup> would have swept over us,\n\n### Crossrefs\n- A: [[Ps-88-17|Ps 88:17]]\n- B: S [[Ps-18-4|Ps 18:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

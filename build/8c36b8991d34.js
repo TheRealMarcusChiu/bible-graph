@@ -1,0 +1,1 @@
+(function(){var b="8c36b8991d34",m="# 2 Kings 15:33 (New International Version)\nHe was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother's name was Jerusha daughter of Zadok.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

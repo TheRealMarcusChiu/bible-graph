@@ -1,0 +1,1 @@
+(function(){var b="eafb8edfd223",m="# Jeremiah 38:10 (New International Version)\nThen the king commanded Ebed-Melek the Cushite, \"Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

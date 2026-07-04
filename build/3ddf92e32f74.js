@@ -1,0 +1,1 @@
+(function(){var b="3ddf92e32f74",m="# Psalm 104:27 (New International Version)\nAll creatures look to you  \n    to give them their food<sup>^A</sup> at the proper time.\n\n### Crossrefs\n- A: [[Job-36-31|Job 36:31]]; [[Ps-145-15|Ps 145:15]]; [[Ps-147-9|147:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

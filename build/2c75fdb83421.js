@@ -1,0 +1,1 @@
+(function(){var b="2c75fdb83421",m="# Psalm 78:35 (New International Version)\nThey remembered that God was their Rock,<sup>^A</sup>  \n    that God Most High was their Redeemer.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-49-24|Ge 49:24]]\n- B: S [[Deut-9-26|Dt 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

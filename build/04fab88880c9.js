@@ -1,0 +1,1 @@
+(function(){var b="04fab88880c9",m="# Proverbs 7:14 (New International Version)\n\"Today I fulfilled my vows,  \n    and I have food from my fellowship offering<sup>^A</sup> at home.\n\n### Crossrefs\n- A: S [[Lev-7-11|Lev 7:11-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20f5b59d4f3f",m="# Psalm 119:14 (New International Version)\nI rejoice in following your statutes<sup>^A</sup>  \n    as one rejoices in great riches.\n\n### Crossrefs\n- A: [[Ps-119-111|ver 111]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

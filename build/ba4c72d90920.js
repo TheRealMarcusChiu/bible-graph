@@ -1,0 +1,1 @@
+(function(){var b="ba4c72d90920",m="# Proverbs 1:16 (New International Version)\nfor their feet rush into evil,<sup>^A</sup>  \n    they are swift to shed blood.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-15-31|Job 15:31]]\n- B: [[Prov-6-18|Pr 6:18]]; [[Isa-59-7|Isa 59:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

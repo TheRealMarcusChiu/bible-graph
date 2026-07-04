@@ -1,0 +1,1 @@
+(function(){var b="87c235dde4e4",m="# Proverbs 1:3 (New International Version)\nfor receiving instruction in prudent behavior,  \n    doing what is right and just and fair;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

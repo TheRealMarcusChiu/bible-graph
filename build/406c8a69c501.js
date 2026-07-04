@@ -1,0 +1,1 @@
+(function(){var b="406c8a69c501",m="# 2 Kings 20:19 (New International Version)\n\"The word of the LORD you have spoken is good,\" Hezekiah replied. For he thought, \"Will there not be peace and security in my lifetime?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

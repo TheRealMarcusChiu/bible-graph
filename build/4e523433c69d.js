@@ -1,0 +1,1 @@
+(function(){var b="4e523433c69d",m="# Jeremiah 46:24 (New International Version)\nDaughter Egypt will be put to shame,  \n    given into the hands of the people of the north.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[2Kgs-24-7|2Ki 24:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

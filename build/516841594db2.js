@@ -1,0 +1,1 @@
+(function(){var b="516841594db2",m="# Proverbs 21:29 (New International Version)\nThe wicked put up a bold front,  \n    but the upright give thought to their ways.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-14-8|Pr 14:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

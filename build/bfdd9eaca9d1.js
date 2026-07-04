@@ -1,0 +1,1 @@
+(function(){var b="bfdd9eaca9d1",m="# 1 Chronicles 11:37 (New International Version)\nHezro the Carmelite,\nNaarai son of Ezbai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="183ca1d9772c",m="# Psalm 7:14 (New International Version)\nWhoever is pregnant with evil  \n    conceives trouble and gives birth<sup>^A</sup> to disillusionment.\n\n### Crossrefs\n- A: [[Isa-59-4|Isa 59:4]]; [[Jas-1-15|Jas 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4fde4cf9f221",m="# Micah 5:12 (New International Version)\nI will destroy your witchcraft  \n    and you will no longer cast spells.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-18-10|Dt 18:10-12]]; [[Isa-2-6|Isa 2:6]]; [[Isa-8-19|8:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

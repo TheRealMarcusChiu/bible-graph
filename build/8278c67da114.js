@@ -1,0 +1,1 @@
+(function(){var b="8278c67da114",m="# Psalm 92:13 (New International Version)\nplanted in the house of the LORD,  \n    they will flourish in the courts of our God.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-135-2|Ps 135:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

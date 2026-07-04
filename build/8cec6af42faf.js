@@ -1,0 +1,1 @@
+(function(){var b="8cec6af42faf",m="# Ezekiel 3:5 (New International Version)\nYou are not being sent to a people of obscure speech and strange language,<sup>^A</sup> but to the people of Israel-- \n\n### Crossrefs\n- A: S [[Isa-28-11|Isa 28:11]]; [[Jonah-1-2|Jnh 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

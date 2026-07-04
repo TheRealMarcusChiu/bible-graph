@@ -1,0 +1,1 @@
+(function(){var b="dc28da82199d",m="# Daniel 3:11 (New International Version)\nand that whoever does not fall down and worship will be thrown into a blazing furnace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

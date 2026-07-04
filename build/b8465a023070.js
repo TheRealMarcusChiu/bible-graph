@@ -1,0 +1,1 @@
+(function(){var b="b8465a023070",m="# Ezekiel 18:3 (New International Version)\n\"As surely as I live, declares the Sovereign LORD, you will no longer quote this proverb<sup>^A</sup> in Israel. \n\n### Crossrefs\n- A: S [[Ps-49-4|Ps 49:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

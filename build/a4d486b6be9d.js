@@ -1,0 +1,1 @@
+(function(){var b="a4d486b6be9d",m="# Job 31:26 (New International Version)\nif I have regarded the sun<sup>^A</sup> in its radiance  \n    or the moon<sup>^B</sup> moving in splendor,\n\n### Crossrefs\n- A: S [[Gen-1-16|Ge 1:16]]\n- B: [[Job-25-5|Job 25:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8b87919448c7",m="# Job 40:13 (New International Version)\nBury them all in the dust together;<sup>^A</sup>  \n    shroud their faces in the grave.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Num-16-31|Nu 16:31-34]]\n- B: S [[Job-4-9|Job 4:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

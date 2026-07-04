@@ -1,0 +1,1 @@
+(function(){var b="d35a005a20a5",m="# Daniel 5:9 (New International Version)\nSo King Belshazzar became even more terrified<sup>^A</sup> and his face grew more pale. His nobles were baffled.\n\n### Crossrefs\n- A: S [[Ps-48-5|Ps 48:5]]; S [[Isa-21-4|Isa 21:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

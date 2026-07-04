@@ -1,0 +1,1 @@
+(function(){var b="be342d668ec0",m="# Nehemiah 10:23 (New International Version)\nHoshea, Hananiah,<sup>^A</sup> Hasshub,\n\n### Crossrefs\n- A: S [[Neh-7-2|Ne 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7aa28231119d",m="# Nehemiah 11:13 (New International Version)\nand his associates, who were heads of families--242 men; Amashsai son of Azarel, the son of Ahzai, the son of Meshillemoth, the son of Immer,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

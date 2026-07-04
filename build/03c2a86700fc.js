@@ -1,0 +1,1 @@
+(function(){var b="03c2a86700fc",m="# Psalm 121:6 (New International Version)\nthe sun<sup>^A</sup> will not harm you by day,  \n    nor the moon by night.\n\n### Crossrefs\n- A: [[Isa-49-10|Isa 49:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

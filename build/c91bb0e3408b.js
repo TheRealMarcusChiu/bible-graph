@@ -1,0 +1,1 @@
+(function(){var b="c91bb0e3408b",m="# Nehemiah 7:71 (New International Version)\nSome of the heads of the families<sup>^A</sup> gave to the treasury for the work 20,000 darics of gold and 2,200 minas of silver. \n\n### Crossrefs\n- A: S [[1Chr-29-7|1Ch 29:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5664ad297690",m="# 2 Chronicles 30:23 (New International Version)\nThe whole assembly then agreed to celebrate<sup>^A</sup> the festival seven more days; so for another seven days they celebrated joyfully. \n\n### Crossrefs\n- A: [[2Chr-7-9|2Ch 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

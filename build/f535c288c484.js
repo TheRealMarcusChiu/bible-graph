@@ -1,0 +1,1 @@
+(function(){var b="f535c288c484",m="# Psalm 121:5 (New International Version)\nThe LORD watches over<sup>^A</sup> you--  \n    the LORD is your shade at your right hand;\n\n### Crossrefs\n- A: S [[Ps-1-6|Ps 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

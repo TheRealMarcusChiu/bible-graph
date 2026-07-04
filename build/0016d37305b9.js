@@ -1,0 +1,1 @@
+(function(){var b="0016d37305b9",m="# Nehemiah 8:8 (New International Version)\nThey read from the Book of the Law of God, making it clear and giving the meaning so that the people understood what was being read.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

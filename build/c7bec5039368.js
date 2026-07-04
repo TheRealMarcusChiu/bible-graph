@@ -1,0 +1,1 @@
+(function(){var b="c7bec5039368",m="# Psalm 90:4 (New International Version)\nA thousand years in your sight  \n    are like a day that has just gone by,  \n    or like a watch in the night.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-10-5|Job 10:5]]; [[2Pet-3-8|2Pe 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

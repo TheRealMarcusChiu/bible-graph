@@ -1,0 +1,1 @@
+(function(){var b="3db01d366fe0",m="# 1 Chronicles 19:19 (New International Version)\nWhen the vassals of Hadadezer saw that they had been routed by Israel, they made peace with David and became subject to him.\nSo the Arameans were not willing to help the Ammonites anymore.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

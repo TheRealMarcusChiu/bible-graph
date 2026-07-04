@@ -1,0 +1,1 @@
+(function(){var b="9de184f79252",m="# Proverbs 18:17 (New International Version)\nIn a lawsuit the first to speak seems right,  \n    until someone comes forward and cross-examines.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f3d4f37d2245",m="# Psalm 31:6 (New International Version)\nI hate those who cling to worthless idols;<sup>^A</sup>  \n    as for me, I trust in the LORD.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-32-21|Dt 32:21]]\n- B: S [[Ps-4-5|Ps 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5b619f1c5f79",m="# 2 Kings 2:7 (New International Version)\nFifty men from the company of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped at the Jordan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

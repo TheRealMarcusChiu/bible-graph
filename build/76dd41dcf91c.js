@@ -1,0 +1,1 @@
+(function(){var b="76dd41dcf91c",m="# 2 Kings 18:10 (New International Version)\nAt the end of three years the Assyrians took it. So Samaria was captured in Hezekiah's sixth year, which was the ninth year of Hoshea king of Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

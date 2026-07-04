@@ -1,0 +1,1 @@
+(function(){var b="c057c6e132e5",m="# Ezekiel 4:15 (New International Version)\n\"Very well,\" he said, \"I will let you bake your bread over cow dung instead of human excrement.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

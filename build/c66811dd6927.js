@@ -1,0 +1,1 @@
+(function(){var b="c66811dd6927",m="# Nehemiah 6:3 (New International Version)\nso I sent messengers to them with this reply: \"I am carrying on a great project and cannot go down. Why should the work stop while I leave it and go down to you?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

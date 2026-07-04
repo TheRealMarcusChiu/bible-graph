@@ -1,0 +1,1 @@
+(function(){var b="868c45c548aa",m="# Ezekiel 20:32 (New International Version)\n\"'You say, \"We want to be like the nations, like the peoples of the world, who serve wood and stone.\" But what you have in mind will never happen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

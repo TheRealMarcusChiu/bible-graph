@@ -1,0 +1,1 @@
+(function(){var b="c7410665d76d",m="# Proverbs 11:27 (New International Version)\nWhoever seeks good finds favor,  \n    but evil comes to one who searches for it.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-7-15|Ps 7:15-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

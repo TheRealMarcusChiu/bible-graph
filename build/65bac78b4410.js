@@ -1,0 +1,1 @@
+(function(){var b="65bac78b4410",m="# 1 Chronicles 2:51 (New International Version)\nSalma the father of Bethlehem, and Hareph the father of Beth Gader.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

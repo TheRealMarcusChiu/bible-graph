@@ -1,0 +1,1 @@
+(function(){var b="1d22430b464c",m="# Isaiah 32:5 (New International Version)\nNo longer will the fool<sup>^A</sup> be called noble  \n    nor the scoundrel be highly respected.\n\n### Crossrefs\n- A: S [[1Sam-25-25|1Sa 25:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06bfbad6f0a7",m="# Job 41:14 (New International Version)\nWho dares open the doors of its mouth,<sup>^A</sup>  \n    ringed about with fearsome teeth?\n\n### Crossrefs\n- A: [[Ps-22-13|Ps 22:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8f63cbbf0684",m="# Jeremiah 1:4 (New International Version)\nThe Call of Jeremiah\nThe word of the LORD came to me, saying,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="040ffc083344",m="# Proverbs 30:19 (New International Version)\nthe way of an eagle in the sky,  \n    the way of a snake on a rock,  \nthe way of a ship on the high seas,  \n    and the way of a man with a young woman.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b8e87d06c00f",m="# 2 Chronicles 25:21 (New International Version)\nSo Jehoash king of Israel attacked. He and Amaziah king of Judah faced each other at Beth Shemesh in Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

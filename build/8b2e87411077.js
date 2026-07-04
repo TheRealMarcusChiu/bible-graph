@@ -1,0 +1,1 @@
+(function(){var b="8b2e87411077",m="# Psalm 119:97 (New International Version)\nOh, how I love your law!<sup>^A</sup>  \n    I meditate<sup>^B</sup> on it all day long.\n\n### Crossrefs\n- A: S [[Ps-119-47|ver 47]]\n- B: S [[Ps-119-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

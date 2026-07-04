@@ -1,0 +1,1 @@
+(function(){var b="577815b5c5db",m="# Jeremiah 51:4 (New International Version)\nThey will fall<sup>^A</sup> down slain in Babylon,  \n    fatally wounded in her streets.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Isa-13-15|Isa 13:15]]\n- B: S [[Isa-13-18|Isa 13:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

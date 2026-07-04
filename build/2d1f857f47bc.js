@@ -1,0 +1,1 @@
+(function(){var b="2d1f857f47bc",m="# Proverbs 7:10 (New International Version)\nThen out came a woman to meet him,  \n    dressed like a prostitute and with crafty intent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

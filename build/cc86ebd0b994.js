@@ -1,0 +1,1 @@
+(function(){var b="cc86ebd0b994",m="# Jeremiah 48:30 (New International Version)\nI know her insolence but it is futile,\"  \ndeclares the LORD,  \n    \"and her boasts<sup>^A</sup> accomplish nothing.\n\n### Crossrefs\n- A: S [[Ps-10-3|Ps 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

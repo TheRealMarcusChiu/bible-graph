@@ -1,0 +1,1 @@
+(function(){var b="9adb57210c1a",m="# Ezekiel 33:20 (New International Version)\nYet you Israelites say, 'The way of the Lord is not just.' But I will judge each of you according to your own ways.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-34-11|Job 34:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

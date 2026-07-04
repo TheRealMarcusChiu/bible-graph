@@ -1,0 +1,1 @@
+(function(){var b="d1edada2aaea",m="# Psalm 62:3 (New International Version)\nHow long will you assault me?  \n    Would all of you throw me down--  \n    this leaning wall,<sup>^A</sup> this tottering fence?\n\n### Crossrefs\n- A: [[Isa-30-13|Isa 30:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

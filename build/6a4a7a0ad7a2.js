@@ -1,0 +1,1 @@
+(function(){var b="6a4a7a0ad7a2",m="# Ecclesiastes 10:10 (New International Version)\nIf the ax is dull  \n    and its edge unsharpened,  \nmore strength is needed,  \n    but skill will bring success.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

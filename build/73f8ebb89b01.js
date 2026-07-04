@@ -1,0 +1,1 @@
+(function(){var b="73f8ebb89b01",m="# Psalm 73:10 (New International Version)\nTherefore their people turn to them  \n    and drink up waters in abundance.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

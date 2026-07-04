@@ -1,0 +1,1 @@
+(function(){var b="d95c65391fe7",m="# 1 Chronicles 2:1 (New International Version)\nIsrael's Sons<sup>^A</sup>\nThese were the sons of Israel:\nReuben, Simeon, Levi, Judah, Issachar, Zebulun, \n\n### Crossrefs\n- A: [[1Chr-2-1|2:1-2pp]] — [[Gen-35-23|Ge 35:23-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

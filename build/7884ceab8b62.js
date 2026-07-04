@@ -1,0 +1,1 @@
+(function(){var b="7884ceab8b62",m="# 2 Kings 12:14 (New International Version)\nit was paid to the workers, who used it to repair the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

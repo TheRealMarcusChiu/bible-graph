@@ -1,0 +1,1 @@
+(function(){var b="4d2138724180",m="# Proverbs 27:19 (New International Version)\nAs water reflects the face,  \n    so one's life reflects the heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

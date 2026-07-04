@@ -1,0 +1,1 @@
+(function(){var b="0cf10c4be020",m="# 2 Chronicles 13:19 (New International Version)\nAbijah pursued Jeroboam and took from him the towns of Bethel, Jeshanah and Ephron, with their surrounding villages.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

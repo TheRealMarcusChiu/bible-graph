@@ -1,0 +1,1 @@
+(function(){var b="02b41b4b1637",m="# Nehemiah 10:20 (New International Version)\nMagpiash, Meshullam, Hezir,<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Chr-24-15|1Ch 24:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6610619b1f17",m="# Proverbs 2:12 (New International Version)\nWisdom will save<sup>^A</sup> you from the ways of wicked men,  \n    from men whose words are perverse,\n\n### Crossrefs\n- A: [[Prov-2-16|ver 16]]; [[Prov-3-13|Pr 3:13-18]]; [[Prov-4-5|4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

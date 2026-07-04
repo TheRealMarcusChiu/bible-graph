@@ -1,0 +1,1 @@
+(function(){var b="a4ee22f55f02",m="# Proverbs 26:8 (New International Version)\nLike tying a stone in a sling  \n    is the giving of honor to a fool.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-26-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

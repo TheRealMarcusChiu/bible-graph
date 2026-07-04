@@ -1,0 +1,1 @@
+(function(){var b="9a075fde883e",m="# 1 Chronicles 10:2 (New International Version)\nThe Philistines were in hot pursuit of Saul and his sons, and they killed his sons Jonathan, Abinadab and Malki-Shua.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

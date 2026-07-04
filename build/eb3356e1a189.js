@@ -1,0 +1,1 @@
+(function(){var b="eb3356e1a189",m="# 1 Chronicles 29:16 (New International Version)\nLORD our God, all this abundance that we have provided for building you a temple for your Holy Name comes from your hand, and all of it belongs to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

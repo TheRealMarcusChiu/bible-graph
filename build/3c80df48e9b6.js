@@ -1,0 +1,1 @@
+(function(){var b="3c80df48e9b6",m="# Psalm 6:9 (New International Version)\nThe LORD has heard my cry for mercy;<sup>^A</sup>  \n    the LORD accepts my prayer.\n\n### Crossrefs\n- A: [[Ps-28-6|Ps 28:6]]; [[Ps-116-1|116:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

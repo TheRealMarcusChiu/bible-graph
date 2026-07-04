@@ -1,0 +1,1 @@
+(function(){var b="e51600a38592",m="# Jeremiah 5:25 (New International Version)\nYour wrongdoings have kept these away;  \n    your sins have deprived you of good.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-84-11|Ps 84:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

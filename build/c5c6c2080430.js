@@ -1,0 +1,1 @@
+(function(){var b="c5c6c2080430",m="# Zechariah 11:11 (New International Version)\nIt was revoked on that day, and so the oppressed of the flock who were watching me knew it was the word of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

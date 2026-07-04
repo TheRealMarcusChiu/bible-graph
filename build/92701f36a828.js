@@ -1,0 +1,1 @@
+(function(){var b="92701f36a828",m="# Psalm 113:4 (New International Version)\nThe LORD is exalted<sup>^A</sup> over all the nations,  \n    his glory above the heavens.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-99-2|Ps 99:2]]\n- B: S [[Ps-8-1|Ps 8:1]]; S [[Ps-57-11|57:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

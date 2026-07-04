@@ -1,0 +1,1 @@
+(function(){var b="208f6bdd2418",m="# Jeremiah 34:6 (New International Version)\nThen Jeremiah the prophet told all this to Zedekiah king of Judah, in Jerusalem,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

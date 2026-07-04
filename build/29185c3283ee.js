@@ -1,0 +1,1 @@
+(function(){var b="29185c3283ee",m="# Lamentations 5:6 (New International Version)\nWe submitted to Egypt and Assyria<sup>^A</sup>  \n    to get enough bread.\n\n### Crossrefs\n- A: [[Jer-2-36|Jer 2:36]]; [[Hos-5-13|Hos 5:13]]; [[Hos-7-11|7:11]]; [[Hos-9-3|9:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

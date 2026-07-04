@@ -1,0 +1,1 @@
+(function(){var b="079f0048c354",m="# 1 Chronicles 3:3 (New International Version)\nthe fifth, Shephatiah the son of Abital;\nand the sixth, Ithream, by his wife Eglah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

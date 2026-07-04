@@ -1,0 +1,1 @@
+(function(){var b="33bde93461cc",m="# 2 Chronicles 25:3 (New International Version)\nAfter the kingdom was firmly in his control, he executed the officials who had murdered his father the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c2b2971bb6ee",m="# Psalm 119:151 (New International Version)\nYet you are near,<sup>^A</sup> LORD,  \n    and all your commands are true.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-34-18|Ps 34:18]]; [[Phil-4-5|Php 4:5]]\n- B: S [[Ps-119-142|ver 142]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

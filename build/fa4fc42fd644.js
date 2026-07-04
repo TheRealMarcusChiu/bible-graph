@@ -1,0 +1,1 @@
+(function(){var b="fa4fc42fd644",m="# Ezra 4:22 (New International Version)\nBe careful not to neglect this matter. Why let this threat grow, to the detriment of the royal interests?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-6-2|Da 6:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

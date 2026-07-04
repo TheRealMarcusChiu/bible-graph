@@ -1,0 +1,1 @@
+(function(){var b="0801e1aa0823",m="# Psalm 25:12 (New International Version)\nWho, then, are those who fear the LORD?<sup>^A</sup>  \n    He will instruct them in the ways<sup>^B</sup> they should choose.\n\n### Crossrefs\n- A: S [[Job-1-8|Job 1:8]]\n- B: [[Ps-25-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

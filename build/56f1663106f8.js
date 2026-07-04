@@ -1,0 +1,1 @@
+(function(){var b="56f1663106f8",m="# Job 9:16 (New International Version)\nEven if I summoned him and he responded,  \n    I do not believe he would give me a hearing.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-13-22|Job 13:22]]; [[Rom-9-20|Ro 9:20-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bee73d7caf50",m="# Proverbs 14:6 (New International Version)\nThe mocker seeks wisdom and finds none,  \n    but knowledge comes easily to the discerning.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-9-9|Pr 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

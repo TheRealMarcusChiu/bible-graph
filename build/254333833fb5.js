@@ -1,0 +1,1 @@
+(function(){var b="254333833fb5",m="# Psalm 86:6 (New International Version)\nHear my prayer, LORD;  \n    listen to my cry<sup>^A</sup> for mercy.\n\n### Crossrefs\n- A: [[Ps-5-2|Ps 5:2]]; [[Ps-17-1|17:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

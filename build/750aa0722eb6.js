@@ -1,0 +1,1 @@
+(function(){var b="750aa0722eb6",m="# 1 Chronicles 2:44 (New International Version)\nShema was the father of Raham, and Raham the father of Jorkeam. Rekem was the father of Shammai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

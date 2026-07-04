@@ -1,0 +1,1 @@
+(function(){var b="fcc48fb95be3",m="# Psalm 38:14 (New International Version)\nI have become like one who does not hear,  \n    whose mouth can offer no reply.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

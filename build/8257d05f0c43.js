@@ -1,0 +1,1 @@
+(function(){var b="8257d05f0c43",m="# Psalm 38:15 (New International Version)\nLORD, I wait<sup>^A</sup> for you;  \n    you will answer,<sup>^B</sup> Lord my God.\n\n### Crossrefs\n- A: [[Ps-27-14|Ps 27:14]]\n- B: [[Ps-17-6|Ps 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

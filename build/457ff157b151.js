@@ -1,0 +1,1 @@
+(function(){var b="457ff157b151",m="# Ezra 10:41 (New International Version)\nAzarel, Shelemiah, Shemariah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

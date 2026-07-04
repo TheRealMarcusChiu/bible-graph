@@ -1,0 +1,1 @@
+(function(){var b="ed166dda3556",m="# Psalm 106:28 (New International Version)\nThey yoked themselves to the Baal of Peor<sup>^A</sup>  \n    and ate sacrifices offered to lifeless gods;\n\n### Crossrefs\n- A: S [[Num-23-28|Nu 23:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

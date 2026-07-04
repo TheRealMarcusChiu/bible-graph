@@ -1,0 +1,1 @@
+(function(){var b="274a314cc682",m="# Isaiah 23:5 (New International Version)\nWhen word comes to Egypt,  \n    they will be in anguish<sup>^A</sup> at the report from Tyre.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ezek-30-9|Eze 30:9]]\n- B: [[Ezek-26-17|Eze 26:17-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

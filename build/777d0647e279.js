@@ -1,0 +1,1 @@
+(function(){var b="777d0647e279",m="# Esther 8:6 (New International Version)\nFor how can I bear to see disaster fall on my people? How can I bear to see the destruction of my family?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-44-34|Ge 44:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

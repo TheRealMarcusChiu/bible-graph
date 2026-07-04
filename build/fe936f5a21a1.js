@@ -1,0 +1,1 @@
+(function(){var b="fe936f5a21a1",m="# Ezekiel 42:4 (New International Version)\nIn front of the rooms was an inner passageway ten cubits wide and a hundred cubits long. Their doors were on the north.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-46-19|Eze 46:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

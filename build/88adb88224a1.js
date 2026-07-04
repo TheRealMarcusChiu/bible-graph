@@ -1,0 +1,1 @@
+(function(){var b="88adb88224a1",m="# Daniel 4:28 (New International Version)\nThe Dream Is Fulfilled\nAll this happened<sup>^A</sup> to King Nebuchadnezzar. \n\n### Crossrefs\n- A: [[Num-23-19|Nu 23:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

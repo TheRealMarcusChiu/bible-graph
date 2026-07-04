@@ -1,0 +1,1 @@
+(function(){var b="98d2a7caeb8c",m="# Jeremiah 14:5 (New International Version)\nEven the doe in the field  \n    deserts her newborn fawn  \n    because there is no grass.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-15-6|Isa 15:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

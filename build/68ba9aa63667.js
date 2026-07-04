@@ -1,0 +1,1 @@
+(function(){var b="68ba9aa63667",m="# Ecclesiastes 9:14 (New International Version)\nThere was once a small city with only a few people in it. And a powerful king came against it, surrounded it and built huge siege works against it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

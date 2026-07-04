@@ -1,0 +1,1 @@
+(function(){var b="f507677d855a",m="# Proverbs 16:11 (New International Version)\nHonest scales and balances belong to the LORD;  \n    all the weights in the bag are of his making.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-11-1|Pr 11:1]]; [[Ezek-45-10|Eze 45:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

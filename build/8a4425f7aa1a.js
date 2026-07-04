@@ -1,0 +1,1 @@
+(function(){var b="8a4425f7aa1a",m="# Ezra 4:4 (New International Version)\nThen the peoples around them set out to discourage the people of Judah and make them afraid to go on building.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezra-3-3|Ezr 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

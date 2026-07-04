@@ -1,0 +1,1 @@
+(function(){var b="7728f8bd1d0d",m="# 2 Chronicles 8:10 (New International Version)\nThey were also King Solomon's chief officials--two hundred and fifty officials supervising the men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

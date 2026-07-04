@@ -1,0 +1,1 @@
+(function(){var b="eb4d01b153da",m="# 1 Chronicles 4:16 (New International Version)\nThe sons of Jehallelel:\nZiph, Ziphah, Tiria and Asarel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

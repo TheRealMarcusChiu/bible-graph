@@ -1,0 +1,1 @@
+(function(){var b="42a3fcc09930",m="# Ezekiel 24:8 (New International Version)\nTo stir up wrath and take revenge  \n    I put her blood on the bare rock,  \n    so that it would not be covered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

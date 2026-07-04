@@ -1,0 +1,1 @@
+(function(){var b="5a1568c69410",m="# Job 38:39 (New International Version)\n\"Do you hunt the prey for the lioness  \n    and satisfy the hunger of the lions<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-49-9|Ge 49:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

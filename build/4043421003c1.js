@@ -1,0 +1,1 @@
+(function(){var b="4043421003c1",m="# Psalm 78:37 (New International Version)\ntheir hearts were not loyal<sup>^A</sup> to him,  \n    they were not faithful to his covenant.\n\n### Crossrefs\n- A: [[Ps-78-8|ver 8]]; [[Acts-8-21|Ac 8:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

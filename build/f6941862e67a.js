@@ -1,0 +1,1 @@
+(function(){var b="f6941862e67a",m="# Job 27:11 (New International Version)\n\"I will teach you about the power of God;  \n    the ways<sup>^A</sup> of the Almighty I will not conceal.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-36-23|Job 36:23]]\n- B: [[Job-27-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

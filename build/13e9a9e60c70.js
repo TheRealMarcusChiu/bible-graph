@@ -1,0 +1,1 @@
+(function(){var b="13e9a9e60c70",m="# Psalm 102:21 (New International Version)\nSo the name of the LORD will be declared<sup>^A</sup> in Zion  \n    and his praise<sup>^B</sup> in Jerusalem\n\n### Crossrefs\n- A: [[Ps-22-22|Ps 22:22]]\n- B: [[Ps-9-14|Ps 9:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

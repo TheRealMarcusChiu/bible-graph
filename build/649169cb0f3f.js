@@ -1,0 +1,1 @@
+(function(){var b="649169cb0f3f",m="# Esther 9:23 (New International Version)\nSo the Jews agreed to continue the celebration they had begun, doing what Mordecai had written to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

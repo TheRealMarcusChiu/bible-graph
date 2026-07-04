@@ -1,0 +1,1 @@
+(function(){var b="dd5adc937285",m="# Psalm 118:2 (New International Version)\nLet Israel say:<sup>^A</sup>  \n    \"His love endures forever.\"<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-115-9|Ps 115:9]]\n- B: [[Ps-106-1|Ps 106:1]]; [[Ps-136-1|136:1-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a6c2dcea1458",m="# Psalm 89:41 (New International Version)\nAll who pass by have plundered<sup>^A</sup> him;  \n    he has become the scorn of his neighbors.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Judg-2-14|Jdg 2:14]]\n- B: S [[Ps-44-13|Ps 44:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

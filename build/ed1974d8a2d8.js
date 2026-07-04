@@ -1,0 +1,1 @@
+(function(){var b="ed1974d8a2d8",m="# Nehemiah 11:5 (New International Version)\nand Maaseiah son of Baruch, the son of Kol-Hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, a descendant of Shelah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

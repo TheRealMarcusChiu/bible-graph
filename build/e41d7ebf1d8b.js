@@ -1,0 +1,1 @@
+(function(){var b="e41d7ebf1d8b",m="# 1 Chronicles 11:9 (New International Version)\nAnd David became more and more powerful,<sup>^A</sup> because the LORD Almighty was with him.\n\n### Crossrefs\n- A: [[Esth-9-4|Est 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

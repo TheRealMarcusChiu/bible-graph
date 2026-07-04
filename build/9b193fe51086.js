@@ -1,0 +1,1 @@
+(function(){var b="9b193fe51086",m="# Job 24:21 (New International Version)\nThey prey on the barren and childless woman,  \n    and to the widow they show no kindness.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-22-9|Job 22:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="76455c26788b",m="# 1 Chronicles 3:16 (New International Version)\nThe successors of Jehoiakim:\nJehoiachin<sup>^A</sup> his son,\nand Zedekiah.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Kgs-24-6|2Ki 24:6]], [[2Kgs-24-8|8]]\n- B: S [[2Kgs-24-18|2Ki 24:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

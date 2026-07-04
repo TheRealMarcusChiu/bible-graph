@@ -1,0 +1,1 @@
+(function(){var b="890745d8f81a",m="# Psalm 80:15 (New International Version)\nthe root your right hand has planted,  \n    the son you have raised up for yourself.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

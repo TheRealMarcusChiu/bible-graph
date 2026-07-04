@@ -1,0 +1,1 @@
+(function(){var b="2ef5ce82f811",m="# Zechariah 7:4 (New International Version)\nThen the word of the LORD Almighty came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

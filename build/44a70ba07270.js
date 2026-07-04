@@ -1,0 +1,1 @@
+(function(){var b="44a70ba07270",m="# Proverbs 29:7 (New International Version)\nThe righteous care about justice for the poor,<sup>^A</sup>  \n    but the wicked have no such concern.\n\n### Crossrefs\n- A: [[Prov-31-8|Pr 31:8-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="78a05345fd09",m="# Nehemiah 12:4 (New International Version)\nIddo,<sup>^A</sup> Ginnethon, Abijah,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Neh-12-16|ver 16]]; [[Zech-1-1|Zec 1:1]]\n- B: S [[1Chr-24-10|1Ch 24:10]]; [[Luke-1-5|Lk 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aa3c2fb053b8",m="# Ezekiel 35:2 (New International Version)\n\"Son of man, set your face against Mount Seir;<sup>^A</sup> prophesy against it \n\n### Crossrefs\n- A: S [[Gen-14-6|Ge 14:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

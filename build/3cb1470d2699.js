@@ -1,0 +1,1 @@
+(function(){var b="3cb1470d2699",m="# Proverbs 8:4 (New International Version)\n\"To you, O people, I call out;<sup>^A</sup>  \n    I raise my voice to all mankind.\n\n### Crossrefs\n- A: [[Isa-42-2|Isa 42:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

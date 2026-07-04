@@ -1,0 +1,1 @@
+(function(){var b="cec4d99c4fdc",m="# Ezekiel 20:2 (New International Version)\nThen the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

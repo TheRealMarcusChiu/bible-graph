@@ -1,0 +1,1 @@
+(function(){var b="62269504bfea",m="# 2 Kings 4:32 (New International Version)\nWhen Elisha reached the house, there was the boy lying dead on his couch.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Kgs-4-21|ver 21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

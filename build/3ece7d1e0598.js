@@ -1,0 +1,1 @@
+(function(){var b="3ece7d1e0598",m="# Proverbs 23:24 (New International Version)\nThe father of a righteous child has great joy;  \n    a man who fathers a wise son rejoices in him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-23-15|ver 15-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="02ec1adc823f",m="# Psalm 119:141 (New International Version)\nThough I am lowly and despised,<sup>^A</sup>  \n    I do not forget your precepts.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-22-6|Ps 22:6]]\n- B: [[Ps-119-61|ver 61]], [[Ps-119-134|134]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a8b2d6bcec46",m="# Job 27:5 (New International Version)\nI will never admit you are in the right;  \n    till I die, I will not deny my integrity.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-2-9|Job 2:9]]; S [[Job-10-7|10:7]]; S [[Job-32-2|32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

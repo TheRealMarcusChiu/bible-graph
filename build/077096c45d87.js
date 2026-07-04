@@ -1,0 +1,1 @@
+(function(){var b="077096c45d87",m="# 1 Chronicles 5:21 (New International Version)\nThey seized the livestock of the Hagrites--fifty thousand camels, two hundred fifty thousand sheep and two thousand donkeys. They also took one hundred thousand people captive,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

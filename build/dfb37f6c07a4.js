@@ -1,0 +1,1 @@
+(function(){var b="dfb37f6c07a4",m="# Psalm 44:18 (New International Version)\nOur hearts had not turned<sup>^A</sup> back;  \n    our feet had not strayed from your path.\n\n### Crossrefs\n- A: [[Ps-119-51|Ps 119:51]], [[Ps-119-157|157]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

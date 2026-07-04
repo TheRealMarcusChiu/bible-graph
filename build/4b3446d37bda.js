@@ -1,0 +1,1 @@
+(function(){var b="4b3446d37bda",m="# Lamentations 5:11 (New International Version)\nWomen have been violated<sup>^A</sup> in Zion,  \n    and virgins in the towns of Judah.\n\n### Crossrefs\n- A: S [[Gen-34-29|Ge 34:29]]; [[Zech-14-2|Zec 14:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

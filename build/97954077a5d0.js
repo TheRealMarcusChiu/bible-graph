@@ -1,0 +1,1 @@
+(function(){var b="97954077a5d0",m="# 1 Chronicles 3:18 (New International Version)\nMalkiram, Pedaiah, Shenazzar,<sup>^A</sup> Jekamiah, Hoshama and Nedabiah.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ezra-1-8|Ezr 1:8]]; [[Ezra-5-14|5:14]]\n- B: [[Jer-22-30|Jer 22:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="659ed0b0b671",m="# Psalm 119:131 (New International Version)\nI open my mouth and pant,<sup>^A</sup>  \n    longing for your commands.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-42-1|Ps 42:1]]\n- B: S [[Ps-119-20|ver 20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6cdf48d7f6d4",m="# 1 Chronicles 27:19 (New International Version)\nover Zebulun: Ishmaiah son of Obadiah;\nover Naphtali: Jerimoth son of Azriel;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="83342455ecbb",m="# Daniel 11:44 (New International Version)\nBut reports from the east and the north will alarm him, and he will set out in a great rage to destroy and annihilate many.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

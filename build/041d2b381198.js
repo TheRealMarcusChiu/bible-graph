@@ -1,0 +1,1 @@
+(function(){var b="041d2b381198",m="# Ezra 6\n\nThe return of the exiles to Jerusalem, the rebuilding of the temple, and Ezra's reforms.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

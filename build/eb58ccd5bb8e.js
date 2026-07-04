@@ -1,0 +1,1 @@
+(function(){var b="eb58ccd5bb8e",m="# 1 Chronicles 7:31 (New International Version)\nThe sons of Beriah:\nHeber and Malkiel, who was the father of Birzaith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

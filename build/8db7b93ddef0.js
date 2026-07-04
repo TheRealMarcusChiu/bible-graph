@@ -1,0 +1,1 @@
+(function(){var b="8db7b93ddef0",m="# Proverbs 22:19 (New International Version)\nSo that your trust may be in the LORD,  \n    I teach you today, even you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

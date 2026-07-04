@@ -1,0 +1,1 @@
+(function(){var b="57530eeb47fc",m="# 1 Chronicles 4:33 (New International Version)\nand all the villages around these towns as far as Baalath. These were their settlements. And they kept a genealogical record.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

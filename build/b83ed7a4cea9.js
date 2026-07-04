@@ -1,0 +1,1 @@
+(function(){var b="b83ed7a4cea9",m="# Ezekiel 16:35 (New International Version)\n\"'Therefore, you prostitute, hear the word of the LORD!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

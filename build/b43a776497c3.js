@@ -1,0 +1,1 @@
+(function(){var b="b43a776497c3",m="# Ezekiel 36:13 (New International Version)\n\"'This is what the Sovereign LORD says: Because some say to you, \"You devour people<sup>^A</sup> and deprive your nation of its children,\" \n\n### Crossrefs\n- A: S [[Num-13-32|Nu 13:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e92d74c1ae3d",m="# Job 26:3 (New International Version)\nWhat advice you have offered to one without wisdom!  \n    And what great insight<sup>^A</sup> you have displayed!\n\n### Crossrefs\n- A: [[Job-34-35|Job 34:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d7fb92c25895",m="# Psalm 55:16 (New International Version)\nAs for me, I call to God,  \n    and the LORD saves me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

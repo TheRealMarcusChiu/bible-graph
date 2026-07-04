@@ -1,0 +1,1 @@
+(function(){var b="4d12bc83c0c9",m="# Proverbs 19:29 (New International Version)\nPenalties are prepared for mockers,  \n    and beatings for the backs of fools.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-25-2|Dt 25:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

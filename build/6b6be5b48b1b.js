@@ -1,0 +1,1 @@
+(function(){var b="6b6be5b48b1b",m="# Habakkuk 1:14 (New International Version)\nYou have made people like the fish in the sea,  \n    like the sea creatures that have no ruler.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

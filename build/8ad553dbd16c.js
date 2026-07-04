@@ -1,0 +1,1 @@
+(function(){var b="8ad553dbd16c",m="# Proverbs 20:13 (New International Version)\nDo not love sleep or you will grow poor;<sup>^A</sup>  \n    stay awake and you will have food to spare.\n\n### Crossrefs\n- A: S [[Prov-6-11|Pr 6:11]]; S [[Prov-19-15|19:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

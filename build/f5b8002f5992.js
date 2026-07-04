@@ -1,0 +1,1 @@
+(function(){var b="f5b8002f5992",m="# Job 30:7 (New International Version)\nThey brayed<sup>^A</sup> among the bushes<sup>^B</sup>  \n    and huddled in the undergrowth.\n\n### Crossrefs\n- A: [[Job-6-5|Job 6:5]]\n- B: [[Job-39-5|Job 39:5-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

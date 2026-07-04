@@ -1,0 +1,1 @@
+(function(){var b="2127adad160e",m="# 2 Chronicles 9:12 (New International Version)\nKing Solomon gave the queen of Sheba all she desired and asked for; he gave her more than she had brought to him. Then she left and returned with her retinue to her own country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

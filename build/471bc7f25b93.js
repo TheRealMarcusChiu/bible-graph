@@ -1,0 +1,1 @@
+(function(){var b="471bc7f25b93",m="# Psalm 109:31 (New International Version)\nFor he stands at the right hand<sup>^A</sup> of the needy,  \n    to save their lives from those who would condemn them.\n\n### Crossrefs\n- A: [[Ps-16-8|Ps 16:8]]; [[Ps-108-6|108:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

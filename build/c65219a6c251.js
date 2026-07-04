@@ -1,0 +1,1 @@
+(function(){var b="c65219a6c251",m="# 2 Kings 4:15 (New International Version)\nThen Elisha said, \"Call her.\" So he called her, and she stood in the doorway.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

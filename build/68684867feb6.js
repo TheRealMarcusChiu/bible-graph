@@ -1,0 +1,1 @@
+(function(){var b="68684867feb6",m="# 1 Chronicles 2:45 (New International Version)\nThe son of Shammai was Maon<sup>^A</sup>, and Maon was the father of Beth Zur.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Josh-15-55|Jos 15:55]]\n- B: S [[Josh-15-58|Jos 15:58]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

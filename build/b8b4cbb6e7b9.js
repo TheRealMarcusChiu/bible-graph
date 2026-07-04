@@ -1,0 +1,1 @@
+(function(){var b="b8b4cbb6e7b9",m="# Jeremiah 13:4 (New International Version)\n\"Take the belt you bought and are wearing around your waist, and go now to Perath<sup>^A</sup> and hide it there in a crevice in the rocks.\" \n\n### Crossrefs\n- A: S [[Gen-2-14|Ge 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

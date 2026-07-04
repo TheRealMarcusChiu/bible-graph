@@ -1,0 +1,1 @@
+(function(){var b="be3582243a51",m="# Nehemiah 12:33 (New International Version)\nalong with Azariah, Ezra, Meshullam,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

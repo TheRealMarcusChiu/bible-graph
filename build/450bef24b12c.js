@@ -1,0 +1,1 @@
+(function(){var b="450bef24b12c",m="# Job 23:6 (New International Version)\nWould he vigorously oppose me?<sup>^A</sup>  \n    No, he would not press charges against me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-9-4|Job 9:4]]\n- B: S [[Job-6-4|Job 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

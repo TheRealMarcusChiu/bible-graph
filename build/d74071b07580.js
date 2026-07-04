@@ -1,0 +1,1 @@
+(function(){var b="d74071b07580",m="# Song of Songs 6:7 (New International Version)\nYour temples behind your veil<sup>^A</sup>  \n    are like the halves of a pomegranate.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-24-65|Ge 24:65]]\n- B: [[Song-4-3|SS 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

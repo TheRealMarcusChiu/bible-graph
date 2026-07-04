@@ -1,0 +1,1 @@
+(function(){var b="2473eab79092",m="# 2 Kings 17:5 (New International Version)\nThe king of Assyria invaded the entire land, marched against Samaria and laid siege<sup>^A</sup> to it for three years. \n\n### Crossrefs\n- A: [[Hos-13-16|Hos 13:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e299fb8b60a9",m="# Isaiah 22:24 (New International Version)\nAll the glory of his family will hang on him: its offspring and offshoots--all its lesser vessels, from the bowls to all the jars.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

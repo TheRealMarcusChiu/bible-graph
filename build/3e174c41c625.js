@@ -1,0 +1,1 @@
+(function(){var b="3e174c41c625",m="# 2 Chronicles 32:32 (New International Version)\nThe other events of Hezekiah's reign and his acts of devotion are written in the vision of the prophet Isaiah son of Amoz in the book of the kings of Judah and Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

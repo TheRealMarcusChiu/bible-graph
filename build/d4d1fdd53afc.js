@@ -1,0 +1,1 @@
+(function(){var b="d4d1fdd53afc",m="# Ezekiel 18:29 (New International Version)\nYet the Israelites say, 'The way of the Lord is not just.' Are my ways unjust, people of Israel? Is it not your ways that are unjust?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

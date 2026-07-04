@@ -1,0 +1,1 @@
+(function(){var b="cb479a8bfab8",m="# Ezekiel 44:1 (New International Version)\nThe Priesthood Restored\nThen the man brought me back to the outer gate of the sanctuary, the one facing east,<sup>^A</sup> and it was shut. \n\n### Crossrefs\n- A: S [[Ezek-43-1|Eze 43:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

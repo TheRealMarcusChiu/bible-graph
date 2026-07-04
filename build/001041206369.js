@@ -1,0 +1,1 @@
+(function(){var b="001041206369",m="# Psalm 51:15 (New International Version)\nOpen my lips, Lord,<sup>^A</sup>  \n    and my mouth will declare your praise.\n\n### Crossrefs\n- A: [[Exod-4-15|Ex 4:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

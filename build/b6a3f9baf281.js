@@ -1,0 +1,1 @@
+(function(){var b="b6a3f9baf281",m="# Proverbs 8:20 (New International Version)\nI walk in the way of righteousness,<sup>^A</sup>  \n    along the paths of justice,\n\n### Crossrefs\n- A: S [[Ps-5-8|Ps 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

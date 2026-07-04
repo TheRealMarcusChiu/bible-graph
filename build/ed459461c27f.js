@@ -1,0 +1,1 @@
+(function(){var b="ed459461c27f",m="# Proverbs 26:11 (New International Version)\nAs a dog returns to its vomit,<sup>^A</sup>  \n    so fools repeat their folly.<sup>^B</sup>\n\n### Crossrefs\n- A: 2Pe 2:22*\n- B: S [[Ps-85-8|Ps 85:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

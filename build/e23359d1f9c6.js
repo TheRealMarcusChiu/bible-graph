@@ -1,0 +1,1 @@
+(function(){var b="e23359d1f9c6",m="# Job 14:18 (New International Version)\n\"But as a mountain erodes and crumbles<sup>^A</sup>  \n    and as a rock is moved from its place,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ezek-38-20|Eze 38:20]]\n- B: [[Job-18-4|Job 18:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

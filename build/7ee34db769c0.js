@@ -1,0 +1,1 @@
+(function(){var b="7ee34db769c0",m="# Job 27:13 (New International Version)\n\"Here is the fate God allots to the wicked,  \n    the heritage a ruthless man receives from the Almighty:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-16-19|Job 16:19]]; S [[Job-20-29|20:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

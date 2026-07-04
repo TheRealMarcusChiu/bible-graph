@@ -1,0 +1,1 @@
+(function(){var b="2c7e47372383",m="# 2 Kings 10:20 (New International Version)\nJehu said, \"Call an assembly<sup>^A</sup> in honor of Baal.\" So they proclaimed it. \n\n### Crossrefs\n- A: S [[Exod-32-5|Ex 32:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

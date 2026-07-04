@@ -1,0 +1,1 @@
+(function(){var b="bf0f1698a639",m="# Ezekiel 36:14 (New International Version)\ntherefore you will no longer devour people or make your nation childless, declares the Sovereign LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

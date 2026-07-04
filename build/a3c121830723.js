@@ -1,0 +1,1 @@
+(function(){var b="a3c121830723",m="# 2 Kings 20:2 (New International Version)\nHezekiah turned his face to the wall and prayed to the LORD,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5145a6148784",m="# Psalm 150:2 (New International Version)\nPraise him for his acts of power;<sup>^A</sup>  \n    praise him for his surpassing greatness.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-3-24|Dt 3:24]]\n- B: S [[Exod-15-7|Ex 15:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

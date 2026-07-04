@@ -1,0 +1,1 @@
+(function(){var b="38620a661171",m="# Psalm 53:3 (New International Version)\nEveryone has turned away, all have become corrupt;  \n    there is no one who does good,  \n    not even one.<sup>^A</sup>\n\n### Crossrefs\n- A: Ro 3:10-12*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

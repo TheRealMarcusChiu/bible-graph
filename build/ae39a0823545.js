@@ -1,0 +1,1 @@
+(function(){var b="ae39a0823545",m="# 1 Chronicles 21:30 (New International Version)\nBut David could not go before it to inquire of God, because he was afraid of the sword of the angel of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

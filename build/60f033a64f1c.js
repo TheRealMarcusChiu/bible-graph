@@ -1,0 +1,1 @@
+(function(){var b="60f033a64f1c",m="# Job 41:29 (New International Version)\nA club seems to it but a piece of straw;<sup>^A</sup>  \n    it laughs<sup>^B</sup> at the rattling of the lance.\n\n### Crossrefs\n- A: [[Job-41-27|ver 27]]\n- B: S [[Job-5-22|Job 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

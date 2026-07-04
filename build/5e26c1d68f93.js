@@ -1,0 +1,1 @@
+(function(){var b="5e26c1d68f93",m="# 1 Chronicles 15:8 (New International Version)\nfrom the descendants of Elizaphan,<sup>^A</sup>\nShemaiah the leader and 200 relatives;\n\n### Crossrefs\n- A: S [[Exod-6-22|Ex 6:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="585afe22ab6a",m="# Esther 9:30 (New International Version)\nAnd Mordecai sent letters to all the Jews in the 127 provinces<sup>^A</sup> of Xerxes' kingdom--words of goodwill and assurance-- \n\n### Crossrefs\n- A: S [[Esth-1-1|Est 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e6b48b9c24a6",m="# Job 3:11 (New International Version)\n\"Why did I not perish at birth,  \n    and die as I came from the womb?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="06aec5de5866",m="# Ecclesiastes 7:4 (New International Version)\nThe heart of the wise is in the house of mourning,  \n    but the heart of fools is in the house of pleasure.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Eccl-2-1|Ecc 2:1]]; [[Jer-16-8|Jer 16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

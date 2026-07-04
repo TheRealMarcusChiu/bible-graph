@@ -1,0 +1,1 @@
+(function(){var b="ea76f061c2ee",m="# Job 27:15 (New International Version)\nThe plague will bury those who survive him,  \n    and their widows will not weep for them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-78-64|Ps 78:64]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

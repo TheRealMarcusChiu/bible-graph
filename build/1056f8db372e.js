@@ -1,0 +1,1 @@
+(function(){var b="1056f8db372e",m="# Ezekiel 21:9 (New International Version)\n\"Son of man, prophesy and say, 'This is what the Lord says:\n\"'A sword, a sword,  \n    sharpened and polished--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

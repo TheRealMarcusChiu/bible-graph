@@ -1,0 +1,1 @@
+(function(){var b="abc8cda9d42c",m="# Job 6:11 (New International Version)\n\"What strength do I have, that I should still hope?  \n    What prospects, that I should be patient?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-6-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

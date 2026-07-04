@@ -1,0 +1,1 @@
+(function(){var b="f0b081451fce",m="# Esther 2:11 (New International Version)\nEvery day he walked back and forth near the courtyard of the harem to find out how Esther was and what was happening to her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

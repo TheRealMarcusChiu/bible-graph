@@ -1,0 +1,1 @@
+(function(){var b="b94fab009435",m="# Proverbs 29:12 (New International Version)\nIf a ruler<sup>^A</sup> listens to lies,  \n    all his officials become wicked.<sup>^B</sup>\n\n### Crossrefs\n- A: [[2Kgs-21-9|2Ki 21:9]]\n- B: S [[Job-34-30|Job 34:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

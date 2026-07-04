@@ -1,0 +1,1 @@
+(function(){var b="45edbddbb60d",m="# Amos 4:12 (New International Version)\n\"Therefore this is what I will do to you, Israel,  \n    and because I will do this to you, Israel,  \n    prepare to meet your God.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c55b3bc76a8",m="# Job 21:8 (New International Version)\nThey see their children established around them,  \n    their offspring before their eyes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-17-14|Ps 17:14]]; [[Mal-3-15|Mal 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

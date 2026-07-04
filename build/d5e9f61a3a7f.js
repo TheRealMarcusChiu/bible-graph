@@ -1,0 +1,1 @@
+(function(){var b="d5e9f61a3a7f",m="# Psalm 60:2 (New International Version)\nYou have shaken the land<sup>^A</sup> and torn it open;  \n    mend its fractures,<sup>^B</sup> for it is quaking.\n\n### Crossrefs\n- A: [[Ps-18-7|Ps 18:7]]\n- B: S [[2Chr-7-14|2Ch 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="193fbfa9ef17",m="# Nahum 2:8 (New International Version)\nNineveh is like a pool  \n    whose water is draining away.  \n\"Stop! Stop!\" they cry,  \n    but no one turns back.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

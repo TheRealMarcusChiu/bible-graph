@@ -1,0 +1,1 @@
+(function(){var b="5cb46a4013b1",m="# Job 39:10 (New International Version)\nCan you hold it to the furrow with a harness?<sup>^A</sup>  \n    Will it till the valleys behind you?\n\n### Crossrefs\n- A: [[Job-41-13|Job 41:13]]; [[Ps-32-9|Ps 32:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

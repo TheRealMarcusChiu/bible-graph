@@ -1,0 +1,1 @@
+(function(){var b="58186b5aab33",m="# 1 Chronicles 3:24 (New International Version)\nThe sons of Elioenai:\nHodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani--seven in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

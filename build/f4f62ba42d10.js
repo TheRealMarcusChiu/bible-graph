@@ -1,0 +1,1 @@
+(function(){var b="f4f62ba42d10",m="# Psalm 104:30 (New International Version)\nWhen you send your Spirit,<sup>^A</sup>  \n    they are created,  \n    and you renew the face of the ground.\n\n### Crossrefs\n- A: S [[Gen-1-2|Ge 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

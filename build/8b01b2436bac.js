@@ -1,0 +1,1 @@
+(function(){var b="8b01b2436bac",m="# Psalm 94:8 (New International Version)\nTake notice, you senseless ones<sup>^A</sup> among the people;  \n    you fools, when will you become wise?\n\n### Crossrefs\n- A: S [[Deut-32-6|Dt 32:6]]; S [[Ps-73-22|Ps 73:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

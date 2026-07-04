@@ -1,0 +1,1 @@
+(function(){var b="0ff90815f079",m="# Job 12:3 (New International Version)\nBut I have a mind as well as you;  \n    I am not inferior to you.  \n    Who does not know all these things?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-13-2|Job 13:2]]; [[Job-15-9|15:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

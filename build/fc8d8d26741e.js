@@ -1,0 +1,1 @@
+(function(){var b="fc8d8d26741e",m="# Job 41:30 (New International Version)\nIts undersides are jagged potsherds,  \n    leaving a trail in the mud like a threshing sledge.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-28-27|Isa 28:27]]; [[Isa-41-15|41:15]]; [[Amos-1-3|Am 1:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

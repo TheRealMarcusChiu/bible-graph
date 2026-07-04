@@ -1,0 +1,1 @@
+(function(){var b="d71d2752fe7a",m="# Job 15:9 (New International Version)\nWhat do you know that we do not know?  \n    What insights do you have that we do not have?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-3|Job 12:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

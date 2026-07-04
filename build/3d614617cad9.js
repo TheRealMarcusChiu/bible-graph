@@ -1,0 +1,1 @@
+(function(){var b="3d614617cad9",m="# Psalm 55:6 (New International Version)\nI said, \"Oh, that I had the wings of a dove!  \n    I would fly away and be at rest.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

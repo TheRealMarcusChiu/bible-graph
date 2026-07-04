@@ -1,0 +1,1 @@
+(function(){var b="ad45456a3868",m="# Psalm 18:3 (New International Version)\nI called to the LORD, who is worthy of praise,<sup>^A</sup>  \n    and I have been saved from my enemies.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Chr-16-25|1Ch 16:25]]\n- B: S [[Ps-9-13|Ps 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

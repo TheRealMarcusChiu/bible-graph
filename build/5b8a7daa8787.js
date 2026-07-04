@@ -1,0 +1,1 @@
+(function(){var b="5b8a7daa8787",m="# 2 Kings 20:7 (New International Version)\nThen Isaiah said, \"Prepare a poultice of figs.\" They did so and applied it to the boil,<sup>^A</sup> and he recovered.\n\n### Crossrefs\n- A: S [[Exod-9-9|Ex 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

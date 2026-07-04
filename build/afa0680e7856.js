@@ -1,0 +1,1 @@
+(function(){var b="afa0680e7856",m="# Ezekiel 42:19 (New International Version)\nThen he turned to the west side and measured; it was five hundred cubits by the measuring rod.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

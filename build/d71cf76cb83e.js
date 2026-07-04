@@ -1,0 +1,1 @@
+(function(){var b="d71cf76cb83e",m="# Psalm 119:174 (New International Version)\nI long for your salvation,<sup>^A</sup> LORD,  \n    and your law gives me delight.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-166|ver 166]]\n- B: [[Ps-119-16|ver 16]], [[Ps-119-24|24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc0a757f3cfd",m="# 1 Chronicles 10:6 (New International Version)\nSo Saul and his three sons died, and all his house died together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

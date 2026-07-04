@@ -1,0 +1,1 @@
+(function(){var b="22fbcec39356",m="# Psalm 72:13 (New International Version)\nHe will take pity<sup>^A</sup> on the weak and the needy  \n    and save the needy from death.\n\n### Crossrefs\n- A: [[Isa-60-10|Isa 60:10]]; [[Joel-2-18|Joel 2:18]]; [[Luke-10-33|Lk 10:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

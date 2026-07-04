@@ -1,0 +1,1 @@
+(function(){var b="aa536cb27960",m="# Zephaniah 2:12 (New International Version)\n\"You Cushites,<sup>^A</sup> too,  \n    will be slain by my sword.<sup>^B</sup>\"\n\n### Crossrefs\n- A: S [[Gen-10-6|Ge 10:6]]; S [[Isa-20-4|Isa 20:4]]\n- B: S [[Jer-46-10|Jer 46:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

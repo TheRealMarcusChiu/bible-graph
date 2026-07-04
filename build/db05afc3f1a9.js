@@ -1,0 +1,1 @@
+(function(){var b="db05afc3f1a9",m="# Proverbs 9:15 (New International Version)\ncalling out<sup>^A</sup> to those who pass by,  \n    who go straight on their way,\n\n### Crossrefs\n- A: S [[Prov-1-20|Pr 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

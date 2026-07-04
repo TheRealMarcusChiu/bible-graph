@@ -1,0 +1,1 @@
+(function(){var b="ddaae55c9d69",m="# Proverbs 15:10 (New International Version)\nStern discipline awaits anyone who leaves the path;  \n    the one who hates correction will die.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-1-31|Pr 1:31-32]]; S [[Prov-12-1|12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

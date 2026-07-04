@@ -1,0 +1,1 @@
+(function(){var b="d4cf6477a7dc",m="# 2 Chronicles 1:6 (New International Version)\nSolomon went up to the bronze altar before the LORD in the tent of meeting and offered a thousand burnt offerings on it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

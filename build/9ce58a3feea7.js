@@ -1,0 +1,1 @@
+(function(){var b="9ce58a3feea7",m="# Ezekiel 45:3 (New International Version)\nIn the sacred district, measure off a section 25,000 cubits long and 10,000 cubits wide. In it will be the sanctuary, the Most Holy Place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

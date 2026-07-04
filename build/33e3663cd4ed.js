@@ -1,0 +1,1 @@
+(function(){var b="33e3663cd4ed",m="# Proverbs 25:11 (New International Version)\nLike apples of gold in settings of silver<sup>^A</sup>  \n    is a ruling rightly given.\n\n### Crossrefs\n- A: [[Prov-25-12|ver 12]]; [[Prov-15-23|Pr 15:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

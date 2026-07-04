@@ -1,0 +1,1 @@
+(function(){var b="3b0a2a61676a",m="# Proverbs 6:33 (New International Version)\nBlows and disgrace are his lot,  \n    and his shame will never<sup>^A</sup> be wiped away.\n\n### Crossrefs\n- A: [[Prov-5-9|Pr 5:9-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

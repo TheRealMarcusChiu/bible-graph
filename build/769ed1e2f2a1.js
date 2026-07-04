@@ -1,0 +1,1 @@
+(function(){var b="769ed1e2f2a1",m="# Proverbs 21:17 (New International Version)\nWhoever loves pleasure will become poor;  \n    whoever loves wine and olive oil will never be rich.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-20|Pr 23:20-21]], [[Prov-23-29|29-35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

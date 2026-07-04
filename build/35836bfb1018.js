@@ -1,0 +1,1 @@
+(function(){var b="35836bfb1018",m="# Psalm 105:32 (New International Version)\nHe turned their rain into hail,<sup>^A</sup>  \n    with lightning throughout their land;\n\n### Crossrefs\n- A: [[Exod-9-22|Ex 9:22-25]]; S [[Job-38-22|Job 38:22]]; S [[Ps-78-47|Ps 78:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

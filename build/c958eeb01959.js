@@ -1,0 +1,1 @@
+(function(){var b="c958eeb01959",m="# 1 Chronicles 7:30 (New International Version)\nAsher\nThe sons of Asher:<sup>^A</sup>\nImnah, Ishvah, Ishvi and Beriah. Their sister was Serah.\n\n### Crossrefs\n- A: S [[Num-1-40|Nu 1:40]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

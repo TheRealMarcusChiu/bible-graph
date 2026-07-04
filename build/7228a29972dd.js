@@ -1,0 +1,1 @@
+(function(){var b="7228a29972dd",m="# 1 Chronicles 7:25 (New International Version)\nRephah was his son, Resheph his son,\nTelah his son, Tahan his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

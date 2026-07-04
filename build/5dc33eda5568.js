@@ -1,0 +1,1 @@
+(function(){var b="5dc33eda5568",m="# Hosea 8:11 (New International Version)\n\"Though Ephraim built many altars for sin offerings,  \n    these have become altars for sinning.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Hos-10-1|Hos 10:1]]; [[Hos-12-11|12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c1bf070e3f1e",m="# Psalm 76:6 (New International Version)\nAt your rebuke,<sup>^A</sup> God of Jacob,  \n    both horse and chariot<sup>^B</sup> lie still.\n\n### Crossrefs\n- A: S [[Ps-50-21|Ps 50:21]]\n- B: S [[Exod-15-1|Ex 15:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6fbfa34c1193",m="# 1 Chronicles 24:25 (New International Version)\nThe brother of Micah: Ishiah;\nfrom the sons of Ishiah: Zechariah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

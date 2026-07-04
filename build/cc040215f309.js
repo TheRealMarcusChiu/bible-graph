@@ -1,0 +1,1 @@
+(function(){var b="cc040215f309",m="# 2 Chronicles 3:2 (New International Version)\nHe began building on the second day of the second month in the fourth year of his reign.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezra-5-11|Ezr 5:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

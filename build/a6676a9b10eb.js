@@ -1,0 +1,1 @@
+(function(){var b="a6676a9b10eb",m="# 1 Chronicles 6:27 (New International Version)\nEliab his son,\nJeroham his son, Elkanah<sup>^A</sup> his son\nand Samuel<sup>^B</sup> his son.\n\n### Crossrefs\n- A: S [[1Sam-1-1|1Sa 1:1]]\n- B: S [[1Sam-1-20|1Sa 1:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

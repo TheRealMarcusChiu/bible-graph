@@ -1,0 +1,1 @@
+(function(){var b="83a15d1ac1a1",m="# 1 Chronicles 7:19 (New International Version)\nThe sons of Shemida<sup>^A</sup> were:\nAhian, Shechem, Likhi and Aniam.\n\n### Crossrefs\n- A: [[Josh-17-2|Jos 17:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

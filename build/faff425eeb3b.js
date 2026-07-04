@@ -1,0 +1,1 @@
+(function(){var b="faff425eeb3b",m="# 2 Kings 17:40 (New International Version)\nThey would not listen, however, but persisted in their former practices.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="68fbc108bb41",m="# Zechariah 12:14 (New International Version)\nand all the rest of the clans and their wives.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-7-3|Zec 7:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

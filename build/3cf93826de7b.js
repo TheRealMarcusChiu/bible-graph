@@ -1,0 +1,1 @@
+(function(){var b="3cf93826de7b",m="# Psalm 114:4 (New International Version)\nthe mountains leaped<sup>^A</sup> like rams,  \n    the hills like lambs.\n\n### Crossrefs\n- A: S [[Judg-5-5|Jdg 5:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

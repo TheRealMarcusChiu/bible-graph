@@ -1,0 +1,1 @@
+(function(){var b="ce862fb5a29e",m="# Job 16:2 (New International Version)\n\"I have heard many things like these;  \n    you are miserable comforters,<sup>^A</sup> all of you!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-69-20|Ps 69:20]]\n- B: S [[Job-6-15|Job 6:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

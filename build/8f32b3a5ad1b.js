@@ -1,0 +1,1 @@
+(function(){var b="8f32b3a5ad1b",m="# Ecclesiastes 3:2 (New International Version)\na time to be born and a time to die,  \n    a time to plant and a time to uproot,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-28-24|Isa 28:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f36b432f0dd2",m="# Daniel 12\n\nFaithful Jews in the Babylonian court and apocalyptic visions of God's kingdom over the empires.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

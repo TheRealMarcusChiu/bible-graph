@@ -1,0 +1,1 @@
+(function(){var b="f5410033e319",m="# 1 Chronicles 7:23 (New International Version)\nThen he made love to his wife again, and she became pregnant and gave birth to a son. He named him Beriah, because there had been misfortune in his family.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

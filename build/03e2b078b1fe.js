@@ -1,0 +1,1 @@
+(function(){var b="03e2b078b1fe",m="# Job 8:20 (New International Version)\n\"Surely God does not reject one who is blameless<sup>^A</sup>  \n    or strengthen the hands of evildoers.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-1-1|Job 1:1]]\n- B: S [[Gen-18-25|Ge 18:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

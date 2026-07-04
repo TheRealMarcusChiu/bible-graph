@@ -1,0 +1,1 @@
+(function(){var b="67896f651f6d",m="# 1 Chronicles 11:42 (New International Version)\nAdina son of Shiza the Reubenite, who was chief of the Reubenites, and the thirty with him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

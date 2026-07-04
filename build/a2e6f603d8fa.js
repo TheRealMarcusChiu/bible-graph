@@ -1,0 +1,1 @@
+(function(){var b="a2e6f603d8fa",m="# Proverbs 12:11 (New International Version)\nThose who work their land will have abundant food,  \n    but those who chase fantasies have no sense.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-28-19|Pr 28:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

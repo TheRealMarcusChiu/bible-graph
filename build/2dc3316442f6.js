@@ -1,0 +1,1 @@
+(function(){var b="2dc3316442f6",m="# Ezekiel 39:12 (New International Version)\n\"'For seven months the Israelites will be burying them in order to cleanse the land.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Deut-21-23|Dt 21:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

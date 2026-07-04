@@ -1,0 +1,1 @@
+(function(){var b="49b8e9dd0e93",m="# Ezekiel 44:8 (New International Version)\nInstead of carrying out your duty in regard to my holy things, you put others in charge of my sanctuary.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Lev-22-2|Lev 22:2]]; [[Num-18-7|Nu 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7a3d3f1f71fb",m="# Proverbs 28:4 (New International Version)\nThose who forsake instruction praise the wicked,  \n    but those who heed it resist them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

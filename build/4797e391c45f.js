@@ -1,0 +1,1 @@
+(function(){var b="4797e391c45f",m="# 2 Kings 3:21 (New International Version)\nNow all the Moabites had heard that the kings had come to fight against them; so every man, young and old, who could bear arms was called up and stationed on the border.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="877c89f518d3",m="# Ezekiel 17:1 (New International Version)\nTwo Eagles and a Vine\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

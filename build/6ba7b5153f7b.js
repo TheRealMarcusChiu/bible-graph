@@ -1,0 +1,1 @@
+(function(){var b="6ba7b5153f7b",m="# 1 Chronicles 15:20 (New International Version)\nZechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah and Benaiah were to play the lyres according to _alamoth,_";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

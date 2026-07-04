@@ -1,0 +1,1 @@
+(function(){var b="137240d187b2",m="# Song of Songs 3:10 (New International Version)\nIts posts he made of silver,  \n    its base of gold.  \nIts seat was upholstered with purple,  \n    its interior inlaid with love.  \nDaughters of Jerusalem,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

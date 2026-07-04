@@ -1,0 +1,1 @@
+(function(){var b="51a3f090954b",m="# Ezra 10:44 (New International Version)\nAll these had married foreign women, and some of them had children by these wives.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

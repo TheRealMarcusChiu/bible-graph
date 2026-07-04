@@ -1,0 +1,1 @@
+(function(){var b="9135d5b7360b",m="# Jeremiah 34:9 (New International Version)\nEveryone was to free their Hebrew slaves, both male and female; no one was to hold a fellow Hebrew in bondage.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Deut-15-12|Dt 15:12-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

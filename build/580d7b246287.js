@@ -1,0 +1,1 @@
+(function(){var b="580d7b246287",m="# Proverbs 5:4 (New International Version)\nbut in the end she is bitter as gall,<sup>^A</sup>  \n    sharp as a double-edged sword.\n\n### Crossrefs\n- A: [[Eccl-7-26|Ecc 7:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

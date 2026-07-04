@@ -1,0 +1,1 @@
+(function(){var b="5b8529d49c37",m="# 2 Kings 15:22 (New International Version)\nMenahem rested with his ancestors. And Pekahiah his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

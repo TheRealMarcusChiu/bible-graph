@@ -1,0 +1,1 @@
+(function(){var b="b8d29b84f01a",m="# 1 Chronicles 28\n\nGenealogies of Israel and a priestly retelling of David's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

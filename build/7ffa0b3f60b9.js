@@ -1,0 +1,1 @@
+(function(){var b="7ffa0b3f60b9",m="# Nehemiah 7:20 (New International Version)\n\n### Crossrefs\n- A: S [[Ezra-8-6|Ezr 8:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

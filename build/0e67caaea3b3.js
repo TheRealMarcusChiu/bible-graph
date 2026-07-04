@@ -1,0 +1,1 @@
+(function(){var b="0e67caaea3b3",m="# Jeremiah 6:8 (New International Version)\nTake warning, Jerusalem,  \n    or I will turn away<sup>^A</sup> from you  \nand make your land desolate  \n    so no one can live in it.\"\n\n### Crossrefs\n- A: [[Ezek-23-18|Eze 23:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

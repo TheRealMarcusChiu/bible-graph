@@ -1,0 +1,1 @@
+(function(){var b="cc0741f64a69",m="# 2 Chronicles 9:3 (New International Version)\nWhen the queen of Sheba saw the wisdom of Solomon,<sup>^A</sup> as well as the palace he had built, \n\n### Crossrefs\n- A: [[1Kgs-5-12|1Ki 5:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

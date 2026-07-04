@@ -1,0 +1,1 @@
+(function(){var b="31b7b089177c",m="# Psalm 69:14 (New International Version)\nRescue me from the mire,  \n    do not let me sink;  \ndeliver me from those who hate me,  \n    from the deep waters.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-69-2|ver 2]]; [[Ps-144-7|Ps 144:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

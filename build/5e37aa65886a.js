@@ -1,0 +1,1 @@
+(function(){var b="5e37aa65886a",m="# Ezekiel 43:9 (New International Version)\nNow let them put away from me their prostitution and the funeral offerings for their kings, and I will live among them forever.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-37-26|Eze 37:26-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

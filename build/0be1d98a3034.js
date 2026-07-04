@@ -1,0 +1,1 @@
+(function(){var b="0be1d98a3034",m="# Ezra 10:26 (New International Version)\nFrom the descendants of Elam:<sup>^A</sup>\nMattaniah, Zechariah, Jehiel, Abdi, Jeremoth and Elijah.\n\n### Crossrefs\n- A: S [[Ezra-10-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

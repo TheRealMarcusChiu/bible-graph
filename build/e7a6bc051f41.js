@@ -1,0 +1,1 @@
+(function(){var b="e7a6bc051f41",m="# Ezekiel 20:29 (New International Version)\nThen I said to them: What is this high place<sup>^A</sup> you go to?'\" (It is called Bamah to this day.)\n\n### Crossrefs\n- A: [[Ezek-16-16|Eze 16:16]]; [[Ezek-43-7|43:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c20e215f2663",m="# 1 Chronicles 6:48 (New International Version)\nTheir fellow Levites<sup>^A</sup> were assigned to all the other duties of the tabernacle, the house of God. \n\n### Crossrefs\n- A: [[1Chr-23-32|1Ch 23:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

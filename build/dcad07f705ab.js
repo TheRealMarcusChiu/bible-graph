@@ -1,0 +1,1 @@
+(function(){var b="dcad07f705ab",m="# Proverbs 17:1 (New International Version)\nBetter a dry crust with peace and quiet  \n    than a house full of feasting, with strife.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-15-16|Pr 15:16]], [[Prov-15-17|17]]; S [[Prov-16-8|16:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

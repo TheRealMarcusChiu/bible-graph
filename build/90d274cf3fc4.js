@@ -1,0 +1,1 @@
+(function(){var b="90d274cf3fc4",m="# 2 Kings 19:24 (New International Version)\nI have dug wells in foreign lands  \n    and drunk the water there.  \nWith the soles of my feet  \n    I have dried up all the streams of Egypt.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

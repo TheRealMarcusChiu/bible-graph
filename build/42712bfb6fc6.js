@@ -1,0 +1,1 @@
+(function(){var b="42712bfb6fc6",m="# Proverbs 15:15 (New International Version)\nAll the days of the oppressed are wretched,  \n    but the cheerful heart has a continual feast.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-15-13|ver 13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

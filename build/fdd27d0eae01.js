@@ -1,0 +1,1 @@
+(function(){var b="fdd27d0eae01",m="# 2 Kings 10:21 (New International Version)\nThen he sent word throughout Israel, and all the servants of Baal came; not one stayed away. They crowded into the temple of Baal until it was full from one end to the other.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

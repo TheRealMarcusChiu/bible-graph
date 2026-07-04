@@ -1,0 +1,1 @@
+(function(){var b="fa473d9938ac",m="# Psalm 29:7 (New International Version)\nThe voice of the LORD strikes  \n    with flashes of lightning.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-1-14|Eze 1:14]]; [[Rev-8-5|Rev 8:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5331a6952e7a",m="# Nehemiah 12:6 (New International Version)\nShemaiah, Joiarib, Jedaiah,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-24-7|1Ch 24:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

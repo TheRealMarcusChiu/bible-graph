@@ -1,0 +1,1 @@
+(function(){var b="6f6a923c289d",m="# Ezra 10:35 (New International Version)\nBenaiah, Bedeiah, Keluhi,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

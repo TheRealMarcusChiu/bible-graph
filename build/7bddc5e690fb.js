@@ -1,0 +1,1 @@
+(function(){var b="7bddc5e690fb",m="# Psalm 104:19 (New International Version)\nHe made the moon to mark the seasons,<sup>^A</sup>  \n    and the sun<sup>^B</sup> knows when to go down.\n\n### Crossrefs\n- A: S [[Gen-1-14|Ge 1:14]]\n- B: [[Ps-19-6|Ps 19:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

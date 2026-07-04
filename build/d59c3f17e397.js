@@ -1,0 +1,1 @@
+(function(){var b="d59c3f17e397",m="# 2 Chronicles 17:3 (New International Version)\nThe LORD was with Jehoshaphat because he followed the ways of his father David<sup>^A</sup> before him. He did not consult the Baals \n\n### Crossrefs\n- A: S [[1Kgs-22-43|1Ki 22:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

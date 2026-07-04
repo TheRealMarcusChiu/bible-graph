@@ -1,0 +1,1 @@
+(function(){var b="77745da15bf0",m="# Psalm 81:12 (New International Version)\nSo I gave them over<sup>^A</sup> to their stubborn hearts  \n    to follow their own devices.\n\n### Crossrefs\n- A: [[Ezek-20-25|Eze 20:25]]; [[Acts-7-42|Ac 7:42]]; [[Rom-1-24|Ro 1:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

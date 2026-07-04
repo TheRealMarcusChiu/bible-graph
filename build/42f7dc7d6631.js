@@ -1,0 +1,1 @@
+(function(){var b="42f7dc7d6631",m="# Jeremiah 25:28 (New International Version)\nBut if they refuse to take the cup from your hand and drink<sup>^A</sup>, tell them, 'This is what the LORD Almighty says: You must drink it! \n\n### Crossrefs\n- A: S [[Isa-51-23|Isa 51:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

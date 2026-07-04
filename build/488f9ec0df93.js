@@ -1,0 +1,1 @@
+(function(){var b="488f9ec0df93",m="# Lamentations 3:21 (New International Version)\nYet this I call to mind  \n    and therefore I have hope:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

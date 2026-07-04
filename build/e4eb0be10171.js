@@ -1,0 +1,1 @@
+(function(){var b="e4eb0be10171",m="# Isaiah 37:18 (New International Version)\n\"It is true, LORD, that the Assyrian kings have laid waste all these peoples and their lands.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Kgs-15-29|2Ki 15:29]]; [[Nah-2-11|Na 2:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

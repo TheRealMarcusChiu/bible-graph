@@ -1,0 +1,1 @@
+(function(){var b="2d2fbb580d93",m="# Psalm 60:8 (New International Version)\nMoab is my washbasin,  \n    on Edom I toss my sandal;  \n    over Philistia I shout in triumph.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[2Sam-8-1|2Sa 8:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

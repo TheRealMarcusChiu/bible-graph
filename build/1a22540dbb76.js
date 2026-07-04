@@ -1,0 +1,1 @@
+(function(){var b="1a22540dbb76",m="# Psalm 136:5 (New International Version)\nwho by his understanding<sup>^A</sup> made the heavens,<sup>^B</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Prov-3-19|Pr 3:19]]; [[Jer-51-15|Jer 51:15]]\n- B: S [[Gen-1-1|Ge 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

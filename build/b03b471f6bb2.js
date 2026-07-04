@@ -1,0 +1,1 @@
+(function(){var b="b03b471f6bb2",m="# Psalm 31:24 (New International Version)\nBe strong and take heart,<sup>^A</sup>  \n    all you who hope in the LORD.\n\n### Crossrefs\n- A: [[Ps-27-14|Ps 27:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

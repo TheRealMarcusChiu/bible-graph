@@ -1,0 +1,1 @@
+(function(){var b="df1619f5b726",m="# Psalm 83:15 (New International Version)\nso pursue them with your tempest<sup>^A</sup>  \n    and terrify them with your storm.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-50-3|Ps 50:3]]\n- B: S [[Job-9-17|Job 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

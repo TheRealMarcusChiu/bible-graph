@@ -1,0 +1,1 @@
+(function(){var b="6f7ff664ff02",m="# Ecclesiastes 10:1 (New International Version)\nAs dead flies give perfume a bad smell,  \n    so a little folly<sup>^A</sup> outweighs wisdom and honor.\n\n### Crossrefs\n- A: [[Prov-13-16|Pr 13:16]]; [[Prov-18-2|18:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

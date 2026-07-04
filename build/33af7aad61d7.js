@@ -1,0 +1,1 @@
+(function(){var b="33af7aad61d7",m="# Nehemiah 8:11 (New International Version)\nThe Levites calmed all the people, saying, \"Be still, for this is a holy day. Do not grieve.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

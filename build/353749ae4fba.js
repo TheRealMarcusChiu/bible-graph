@@ -1,0 +1,1 @@
+(function(){var b="353749ae4fba",m="# 1 Chronicles 1:20 (New International Version)\nJoktan was the father of\nAlmodad, Sheleph, Hazarmaveth, Jerah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e2eafb992c76",m="# Jeremiah 39:12 (New International Version)\n\"Take him and look after him; don't harm<sup>^A</sup> him but do for him whatever he asks.\" \n\n### Crossrefs\n- A: S [[Prov-16-7|Pr 16:7]]; [[Jer-15-20|Jer 15:20-21]]; [[1Pet-3-13|1Pe 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

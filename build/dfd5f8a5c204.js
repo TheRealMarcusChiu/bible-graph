@@ -1,0 +1,1 @@
+(function(){var b="dfd5f8a5c204",m="# Jeremiah 48:14 (New International Version)\n\"How can you say, 'We are warriors,<sup>^A</sup>  \n    men valiant in battle'?\n\n### Crossrefs\n- A: [[Ps-33-16|Ps 33:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

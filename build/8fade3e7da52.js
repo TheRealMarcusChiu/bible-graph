@@ -1,0 +1,1 @@
+(function(){var b="8fade3e7da52",m="# Hosea 13:12 (New International Version)\nThe guilt of Ephraim is stored up,  \n    his sins are kept on record.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-32-34|Dt 32:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

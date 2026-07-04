@@ -1,0 +1,1 @@
+(function(){var b="7f2cc0747255",m="# Amos 8:1 (New International Version)\nA Basket of Ripe Fruit\nThis is what the Sovereign LORD showed me:<sup>^A</sup> a basket of ripe fruit. \n\n### Crossrefs\n- A: S [[Amos-7-1|Am 7:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

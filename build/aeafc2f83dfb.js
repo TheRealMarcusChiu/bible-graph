@@ -1,0 +1,1 @@
+(function(){var b="aeafc2f83dfb",m="# Proverbs 6:11 (New International Version)\nand poverty<sup>^A</sup> will come on you like a thief  \n    and scarcity like an armed man.\n\n### Crossrefs\n- A: [[Prov-6-10|ver 10-11]]; [[Prov-20-13|Pr 20:13]]; [[Prov-24-30|24:30-34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

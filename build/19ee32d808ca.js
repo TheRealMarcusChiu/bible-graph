@@ -1,0 +1,1 @@
+(function(){var b="19ee32d808ca",m="# 1 Chronicles 10:8 (New International Version)\nThe next day, when the Philistines came to strip the dead, they found Saul and his sons fallen on Mount Gilboa.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

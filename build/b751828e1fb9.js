@@ -1,0 +1,1 @@
+(function(){var b="b751828e1fb9",m="# 1 Chronicles 2:31 (New International Version)\nThe son of Appaim:\nIshi, who was the father of Sheshan.\nSheshan was the father of Ahlai.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

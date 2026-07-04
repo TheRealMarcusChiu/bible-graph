@@ -1,0 +1,1 @@
+(function(){var b="e49f3f7ba21f",m="# 1 Chronicles 19:11 (New International Version)\nHe put the rest of the men under the command of Abishai<sup>^A</sup> his brother, and they were deployed against the Ammonites. \n\n### Crossrefs\n- A: S [[1Sam-26-6|1Sa 26:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

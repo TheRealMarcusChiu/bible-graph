@@ -1,0 +1,1 @@
+(function(){var b="171642207ba5",m="# 1 Chronicles 8:31 (New International Version)\nGedor, Ahio, Zeker";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

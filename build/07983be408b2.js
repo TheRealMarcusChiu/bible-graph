@@ -1,0 +1,1 @@
+(function(){var b="07983be408b2",m="# Job 40:6 (New International Version)\nThen the LORD spoke to Job out of the storm:<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-14-21|Ex 14:21]]; S [[Job-38-1|Job 38:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

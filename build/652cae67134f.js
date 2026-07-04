@@ -1,0 +1,1 @@
+(function(){var b="652cae67134f",m="# Jeremiah 29:15 (New International Version)\nYou may say, \"The LORD has raised up prophets for us in Babylon,\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

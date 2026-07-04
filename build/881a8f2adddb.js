@@ -1,0 +1,1 @@
+(function(){var b="881a8f2adddb",m="# Job 31:38 (New International Version)\n\"if my land cries out against me<sup>^A</sup>  \n    and all its furrows are wet<sup>^B</sup> with tears,\n\n### Crossrefs\n- A: S [[Gen-4-10|Ge 4:10]]\n- B: [[Ps-65-10|Ps 65:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="27702ea31df2",m="# Proverbs 6:27 (New International Version)\nCan a man scoop fire into his lap  \n    without his clothes being burned?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f5a038079f55",m="# Proverbs 1:11 (New International Version)\nIf they say, \"Come along with us;  \n    let's lie in wait<sup>^A</sup> for innocent blood,  \n    let's ambush some harmless soul;\n\n### Crossrefs\n- A: S [[Ps-10-8|Ps 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

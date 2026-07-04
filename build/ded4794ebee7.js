@@ -1,0 +1,1 @@
+(function(){var b="ded4794ebee7",m="# 2 Chronicles 34:10 (New International Version)\nThen they entrusted it to the men appointed to supervise the work on the LORD's temple. These men paid the workers who repaired and restored the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

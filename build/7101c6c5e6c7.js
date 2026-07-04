@@ -1,0 +1,1 @@
+(function(){var b="7101c6c5e6c7",m="# Ezekiel 48:6 (New International Version)\n\"Reuben<sup>^A</sup> will have one portion; it will border the territory of Ephraim from east to west.\n\n### Crossrefs\n- A: [[Josh-13-15|Jos 13:15-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

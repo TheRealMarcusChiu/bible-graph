@@ -1,0 +1,1 @@
+(function(){var b="18b12c10f9f3",m="# Psalm 75:5 (New International Version)\nDo not lift your horns against heaven;  \n    do not speak so defiantly.<sup>^A</sup>'\"\n\n### Crossrefs\n- A: S [[Job-15-25|Job 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

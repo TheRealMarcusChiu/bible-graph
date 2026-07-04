@@ -1,0 +1,1 @@
+(function(){var b="1a14ffe7e31b",m="# Job 31:5 (New International Version)\n\"If I have walked with falsehood  \n    or my foot has hurried after deceit<sup>^A</sup>--\n\n### Crossrefs\n- A: S [[Job-15-31|Job 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

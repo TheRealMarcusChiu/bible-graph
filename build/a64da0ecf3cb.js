@@ -1,0 +1,1 @@
+(function(){var b="a64da0ecf3cb",m="# Nahum 3\n\nThe fall of Nineveh, capital of cruel Assyria.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

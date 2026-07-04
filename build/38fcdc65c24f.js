@@ -1,0 +1,1 @@
+(function(){var b="38fcdc65c24f",m="# 1 Chronicles 6:6 (New International Version)\nUzzi the father of Zerahiah,\nZerahiah the father of Meraioth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b05b206151b9",m="# 1 Chronicles 7:10 (New International Version)\nThe son of Jediael:\nBilhan.\nThe sons of Bilhan:\nJeush, Benjamin, Ehud, Kenaanah, Zethan, Tarshish and Ahishahar.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

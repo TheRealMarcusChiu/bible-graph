@@ -1,0 +1,1 @@
+(function(){var b="7e6e649f4441",m="# Proverbs 7:4 (New International Version)\nSay to wisdom, \"You are my sister,\"  \n    and to insight, \"You are my relative.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

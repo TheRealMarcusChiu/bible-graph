@@ -1,0 +1,1 @@
+(function(){var b="052af290d99f",m="# Daniel 10:17 (New International Version)\nHow can I, your servant, talk with you, my lord? My strength is gone and I can hardly breathe.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Dan-4-19|Da 4:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

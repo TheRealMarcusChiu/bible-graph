@@ -1,0 +1,1 @@
+(function(){var b="a8746c2d24b8",m="# 1 Chronicles 9:31 (New International Version)\nA Levite named Mattithiah, the firstborn son of Shallum the Korahite, was entrusted with the responsibility for baking the offering bread.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

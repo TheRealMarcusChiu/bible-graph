@@ -1,0 +1,1 @@
+(function(){var b="524b729df81b",m="# Psalm 132:3 (New International Version)\n\"I will not enter my house<sup>^A</sup>  \n    or go to my bed,\n\n### Crossrefs\n- A: S [[2Sam-7-2|2Sa 7:2]], [[2Sam-7-27|27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

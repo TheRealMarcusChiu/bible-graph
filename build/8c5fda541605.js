@@ -1,0 +1,1 @@
+(function(){var b="8c5fda541605",m="# Psalm 19:11 (New International Version)\nBy them your servant is warned;  \n    in keeping them there is great reward.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

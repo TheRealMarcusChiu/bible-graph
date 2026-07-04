@@ -1,0 +1,1 @@
+(function(){var b="cd881d792ba2",m="# Psalm 119:49 (New International Version)\nRemember your word<sup>^A</sup> to your servant,  \n    for you have given me hope.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-9|ver 9]]\n- B: [[Ps-119-43|ver 43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

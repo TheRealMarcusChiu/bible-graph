@@ -1,0 +1,1 @@
+(function(){var b="52d73463e2fc",m="# Daniel 3:25 (New International Version)\nHe said, \"Look! I see four men walking around in the fire, unbound and unharmed, and the fourth looks like a son of the gods.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

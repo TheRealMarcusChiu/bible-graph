@@ -1,0 +1,1 @@
+(function(){var b="53265befcde2",m="# Proverbs 8:5 (New International Version)\nYou who are simple,<sup>^A</sup> gain prudence;<sup>^B</sup>  \n    you who are foolish, set your hearts on it.\n\n### Crossrefs\n- A: S [[Prov-1-22|Pr 1:22]]\n- B: [[Prov-1-4|Pr 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

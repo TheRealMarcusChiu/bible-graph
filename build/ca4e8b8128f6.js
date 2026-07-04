@@ -1,0 +1,1 @@
+(function(){var b="ca4e8b8128f6",m="# Psalm 139:6 (New International Version)\nSuch knowledge is too wonderful for me,<sup>^A</sup>  \n    too lofty<sup>^B</sup> for me to attain.\n\n### Crossrefs\n- A: S [[Ps-131-1|Ps 131:1]]\n- B: [[Rom-11-33|Ro 11:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

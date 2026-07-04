@@ -1,0 +1,1 @@
+(function(){var b="6cce278c2115",m="# Psalm 88:11 (New International Version)\nIs your love declared in the grave,  \n    your faithfulness<sup>^A</sup> in Destruction?\n\n### Crossrefs\n- A: S [[Ps-30-9|Ps 30:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

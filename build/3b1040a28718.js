@@ -1,0 +1,1 @@
+(function(){var b="3b1040a28718",m="# Proverbs 25:15 (New International Version)\nThrough patience a ruler can be persuaded,<sup>^A</sup>  \n    and a gentle tongue can break a bone.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Eccl-10-4|Ecc 10:4]]\n- B: [[Prov-15-1|Pr 15:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

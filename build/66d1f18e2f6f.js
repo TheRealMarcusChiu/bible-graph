@@ -1,0 +1,1 @@
+(function(){var b="66d1f18e2f6f",m="# Proverbs 24:10 (New International Version)\nIf you falter in a time of trouble,  \n    how small is your strength!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-5|Job 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

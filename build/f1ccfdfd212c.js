@@ -1,0 +1,1 @@
+(function(){var b="f1ccfdfd212c",m="# 2 Kings 22:11 (New International Version)\nWhen the king heard the words of the Book of the Law,<sup>^A</sup> he tore his robes. \n\n### Crossrefs\n- A: [[2Kgs-22-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

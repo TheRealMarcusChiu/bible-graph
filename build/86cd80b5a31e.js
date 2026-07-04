@@ -1,0 +1,1 @@
+(function(){var b="86cd80b5a31e",m="# 1 Chronicles 6:74 (New International Version)\nfrom the tribe of Asher\nthey received Mashal, Abdon,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Josh-19-28|Jos 19:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

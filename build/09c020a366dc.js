@@ -1,0 +1,1 @@
+(function(){var b="09c020a366dc",m="# Zechariah 8:1 (New International Version)\nThe LORD Promises to Bless Jerusalem\nThe word of the LORD Almighty came to me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

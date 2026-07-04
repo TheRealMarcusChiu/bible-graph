@@ -1,0 +1,1 @@
+(function(){var b="0d02ad8f3855",m="# Ezekiel 27:1 (New International Version)\nA Lament Over Tyre\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

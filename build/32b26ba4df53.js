@@ -1,0 +1,1 @@
+(function(){var b="32b26ba4df53",m="# Psalm 118:29 (New International Version)\nGive thanks to the LORD, for he is good;  \n    his love endures forever.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

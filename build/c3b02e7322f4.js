@@ -1,0 +1,1 @@
+(function(){var b="c3b02e7322f4",m="# Nehemiah 5:2 (New International Version)\nSome were saying, \"We and our sons and daughters are numerous; in order for us to eat and stay alive, we must get grain.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

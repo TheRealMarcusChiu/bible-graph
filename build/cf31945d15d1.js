@@ -1,0 +1,1 @@
+(function(){var b="cf31945d15d1",m="# Ezekiel 34:21 (New International Version)\nBecause you shove with flank and shoulder, butting all the weak sheep with your horns<sup>^A</sup> until you have driven them away, \n\n### Crossrefs\n- A: S [[Deut-33-17|Dt 33:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

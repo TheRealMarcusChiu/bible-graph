@@ -1,0 +1,1 @@
+(function(){var b="53a1ed162962",m="# Amos 5:1 (New International Version)\nA Lament and Call to Repentance\nHear this word, Israel, this lament<sup>^A</sup> I take up concerning you:\n\n### Crossrefs\n- A: S [[Jer-4-8|Jer 4:8]]; S [[Ezek-19-1|Eze 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

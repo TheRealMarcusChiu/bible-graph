@@ -1,0 +1,1 @@
+(function(){var b="37c219511f0c",m="# Job 33:2 (New International Version)\nI am about to open my mouth;  \n    my words are on the tip of my tongue.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

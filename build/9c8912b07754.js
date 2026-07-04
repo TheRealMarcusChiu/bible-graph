@@ -1,0 +1,1 @@
+(function(){var b="9c8912b07754",m="# Psalm 63:3 (New International Version)\nBecause your love is better than life,<sup>^A</sup>  \n    my lips will glorify you.\n\n### Crossrefs\n- A: [[Ps-36-7|Ps 36:7]]; [[Ps-69-16|69:16]]; [[Ps-106-45|106:45]]; [[Ps-109-21|109:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

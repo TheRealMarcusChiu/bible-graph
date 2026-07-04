@@ -1,0 +1,1 @@
+(function(){var b="2cd8b80ac70e",m="# 2 Chronicles 11:8 (New International Version)\nGath, Mareshah, Ziph,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

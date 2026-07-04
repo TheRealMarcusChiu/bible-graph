@@ -1,0 +1,1 @@
+(function(){var b="d647bdb41121",m="# 2 Kings 15:15 (New International Version)\nThe other events of Shallum's reign, and the conspiracy he led, are written in the book of the annals<sup>^A</sup> of the kings of Israel.\n\n### Crossrefs\n- A: [[1Kgs-15-31|1Ki 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

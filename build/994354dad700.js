@@ -1,0 +1,1 @@
+(function(){var b="994354dad700",m="# 2 Kings 17:39 (New International Version)\nRather, worship the LORD your God; it is he who will deliver you from the hand of all your enemies.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

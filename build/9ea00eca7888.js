@@ -1,0 +1,1 @@
+(function(){var b="9ea00eca7888",m="# Esther 9:14 (New International Version)\nSo the king commanded that this be done. An edict was issued in Susa, and they impaled<sup>^A</sup> the ten sons of Haman. \n\n### Crossrefs\n- A: S [[Ezra-6-11|Ezr 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

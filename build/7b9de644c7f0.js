@@ -1,0 +1,1 @@
+(function(){var b="7b9de644c7f0",m="# Jeremiah 52:2 (New International Version)\nHe did evil in the eyes of the LORD, just as Jehoiakim<sup>^A</sup> had done. \n\n### Crossrefs\n- A: S [[Jer-36-30|Jer 36:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="26e8c4b7db4c",m="# Psalm 119:147 (New International Version)\nI rise before dawn<sup>^A</sup> and cry for help;  \n    I have put my hope in your word.\n\n### Crossrefs\n- A: [[Ps-5-3|Ps 5:3]]; [[Ps-57-8|57:8]]; [[Ps-108-2|108:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

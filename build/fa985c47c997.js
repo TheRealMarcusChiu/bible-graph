@@ -1,0 +1,1 @@
+(function(){var b="fa985c47c997",m="# Job 15:18 (New International Version)\nwhat the wise have declared,  \n    hiding nothing received from their ancestors<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-32-7|Dt 32:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e089f4afedae",m="# Proverbs 26:17 (New International Version)\nLike one who grabs a stray dog by the ears  \n    is someone who rushes into a quarrel not their own.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

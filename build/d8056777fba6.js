@@ -1,0 +1,1 @@
+(function(){var b="d8056777fba6",m="# 2 Chronicles 31:8 (New International Version)\nWhen Hezekiah and his officials came and saw the heaps, they praised the LORD and blessed<sup>^A</sup> his people Israel.\n\n### Crossrefs\n- A: [[Ps-144-13|Ps 144:13-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

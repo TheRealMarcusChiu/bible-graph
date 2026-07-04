@@ -1,0 +1,1 @@
+(function(){var b="f59e2b2fb8b0",m="# 2 Kings 6:20 (New International Version)\nAfter they entered the city, Elisha said, \"LORD, open the eyes of these men so they can see.\" Then the LORD opened their eyes and they looked, and there they were, inside Samaria.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

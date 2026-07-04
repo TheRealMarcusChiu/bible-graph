@@ -1,0 +1,1 @@
+(function(){var b="c37145cf9899",m="# Psalm 109:3 (New International Version)\nWith words of hatred<sup>^A</sup> they surround me;  \n    they attack me without cause.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-69-4|Ps 69:4]]\n- B: [[Ps-35-7|Ps 35:7]]; [[John-15-25|Jn 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

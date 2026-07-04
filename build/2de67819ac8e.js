@@ -1,0 +1,1 @@
+(function(){var b="2de67819ac8e",m="# 2 Chronicles 10:5 (New International Version)\nRehoboam answered, \"Come back to me in three days.\" So the people went away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c52b297ae73e",m="# Ezra 8:11 (New International Version)\nof the descendants of Bebai, Zechariah son of Bebai, and with him 28 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

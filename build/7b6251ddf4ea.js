@@ -1,0 +1,1 @@
+(function(){var b="7b6251ddf4ea",m="# Ezekiel 41:12 (New International Version)\nThe building facing the temple courtyard on the west side was seventy cubits wide. The wall of the building was five cubits thick all around, and its length was ninety cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

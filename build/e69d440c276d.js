@@ -1,0 +1,1 @@
+(function(){var b="e69d440c276d",m="# Psalm 87:7 (New International Version)\nAs they make music<sup>^A</sup> they will sing,  \n    \"All my fountains<sup>^B</sup> are in you.\"\n\n### Crossrefs\n- A: [[Ps-149-3|Ps 149:3]]\n- B: S [[Ps-36-9|Ps 36:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

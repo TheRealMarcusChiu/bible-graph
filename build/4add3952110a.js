@@ -1,0 +1,1 @@
+(function(){var b="4add3952110a",m="# Proverbs 13:10 (New International Version)\nWhere there is strife, there is pride,  \n    but wisdom is found in those who take advice.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-19-30|Jdg 19:30]]; S [[Prov-9-9|Pr 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

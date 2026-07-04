@@ -1,0 +1,1 @@
+(function(){var b="b39dca0d9465",m="# Isaiah 21:8 (New International Version)\nAnd the lookout<sup>^A</sup> shouted,\n\"Day after day, my lord, I stand on the watchtower;  \n    every night I stay at my post.\n\n### Crossrefs\n- A: [[Mic-7-7|Mic 7:7]]; [[Hab-2-1|Hab 2:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

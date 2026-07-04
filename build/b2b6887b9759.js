@@ -1,0 +1,1 @@
+(function(){var b="b2b6887b9759",m="# 2 Chronicles 20:36 (New International Version)\nHe agreed with him to construct a fleet of trading ships. After these were built at Ezion Geber,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9323af4e79cb",m="# 1 Chronicles 11:5 (New International Version)\nsaid to David, \"You will not get in here.\" Nevertheless, David captured the fortress of Zion--which is the City of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fd5894a42b37",m="# Job 19:23 (New International Version)\n\"Oh, that my words were recorded,  \n    that they were written on a scroll,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-17-14|Ex 17:14]]; S [[Ps-40-7|Ps 40:7]]; S [[Isa-8-1|Isa 8:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

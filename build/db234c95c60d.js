@@ -1,0 +1,1 @@
+(function(){var b="db234c95c60d",m="# Jonah 4:10 (New International Version)\nBut the LORD said, \"You have been concerned about this plant, though you did not tend it or make it grow. It sprang up overnight and died overnight.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

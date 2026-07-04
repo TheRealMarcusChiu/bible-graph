@@ -1,0 +1,1 @@
+(function(){var b="05bc81210ecd",m="# Nehemiah 7:43 (New International Version)\nThe Levites:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

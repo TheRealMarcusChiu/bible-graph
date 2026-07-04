@@ -1,0 +1,1 @@
+(function(){var b="96466dd5c579",m="# Proverbs 3:4 (New International Version)\nThen you will win favor and a good name  \n    in the sight of God and man.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Sam-2-26|1Sa 2:26]]; [[Luke-2-52|Lk 2:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

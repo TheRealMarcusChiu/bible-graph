@@ -1,0 +1,1 @@
+(function(){var b="304337ef5b32",m="# 2 Chronicles 11:6 (New International Version)\nBethlehem, Etam, Tekoa,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1cef432a96af",m="# Daniel 1:13 (New International Version)\nThen compare our appearance with that of the young men who eat the royal food, and treat your servants in accordance with what you see.\"<sup>^A</sup> \n\n### Crossrefs\n- A: [[Dan-1-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

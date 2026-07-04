@@ -1,0 +1,1 @@
+(function(){var b="b35d79538118",m="# Proverbs 19:4 (New International Version)\nWealth attracts many friends,  \n    but even the closest friend of the poor person deserts them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-7|ver 7]]; [[Prov-14-20|Pr 14:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

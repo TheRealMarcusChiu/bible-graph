@@ -1,0 +1,1 @@
+(function(){var b="9d83c480b302",m="# 2 Kings 6:2 (New International Version)\nLet us go to the Jordan, where each of us can get a pole; and let us build a place there for us to meet.\"\nAnd he said, \"Go.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

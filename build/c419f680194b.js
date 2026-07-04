@@ -1,0 +1,1 @@
+(function(){var b="c419f680194b",m="# Job 21:24 (New International Version)\nwell nourished<sup>^A</sup> in body,  \n    bones<sup>^B</sup> rich with marrow.<sup>^C</sup>\n\n### Crossrefs\n- A: [[Ps-73-4|Ps 73:4]]\n- B: [[Job-20-11|Job 20:11]]\n- C: [[Prov-3-8|Pr 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

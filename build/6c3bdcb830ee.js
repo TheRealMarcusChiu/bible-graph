@@ -1,0 +1,1 @@
+(function(){var b="6c3bdcb830ee",m="# Job 42:16 (New International Version)\nAfter this, Job lived a hundred and forty years; he saw his children and their children to the fourth generation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

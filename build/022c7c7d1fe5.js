@@ -1,0 +1,1 @@
+(function(){var b="022c7c7d1fe5",m="# Psalm 8:9 (New International Version)\nLORD, our Lord,  \n    how majestic is your name in all the earth!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-8-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

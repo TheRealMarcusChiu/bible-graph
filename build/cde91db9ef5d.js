@@ -1,0 +1,1 @@
+(function(){var b="cde91db9ef5d",m="# Ezekiel 44:26 (New International Version)\nAfter he is cleansed, he must wait seven days.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Num-19-14|Nu 19:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

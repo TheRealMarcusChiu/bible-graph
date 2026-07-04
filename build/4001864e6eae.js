@@ -1,0 +1,1 @@
+(function(){var b="4001864e6eae",m="# Proverbs 24:11 (New International Version)\nRescue those being led away to death;  \n    hold back those staggering toward slaughter.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-82-4|Ps 82:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

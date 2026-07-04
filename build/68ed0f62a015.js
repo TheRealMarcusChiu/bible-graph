@@ -1,0 +1,1 @@
+(function(){var b="68ed0f62a015",m="# Jeremiah 30:1 (New International Version)\nRestoration of Israel\nThis is the word that came to Jeremiah from the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="de4ff711f43b",m="# Daniel 3:13 (New International Version)\nFurious<sup>^A</sup> with rage, Nebuchadnezzar summoned Shadrach, Meshach and Abednego. So these men were brought before the king, \n\n### Crossrefs\n- A: S [[Dan-2-12|Da 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="263f041b85c3",m="# 2 Kings 6:4 (New International Version)\nAnd he went with them.\nThey went to the Jordan and began to cut down trees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

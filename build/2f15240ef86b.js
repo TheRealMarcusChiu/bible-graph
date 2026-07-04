@@ -1,0 +1,1 @@
+(function(){var b="2f15240ef86b",m="# 1 Chronicles 16:22 (New International Version)\n\"Do not touch my anointed ones;  \n    do my prophets<sup>^A</sup> no harm.\"\n\n### Crossrefs\n- A: S [[Gen-20-7|Ge 20:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b0e5c1d52253",m="# Psalm 89:37 (New International Version)\nit will be established forever like the moon,  \n    the faithful witness in the sky.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-33-20|Jer 33:20-21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

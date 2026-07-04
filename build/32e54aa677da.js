@@ -1,0 +1,1 @@
+(function(){var b="32e54aa677da",m="# Nehemiah 11:19 (New International Version)\nThe gatekeepers:\nAkkub, Talmon and their associates, who kept watch at the gates--172 men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

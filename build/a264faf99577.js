@@ -1,0 +1,1 @@
+(function(){var b="a264faf99577",m="# Jeremiah 39:17 (New International Version)\nBut I will rescue<sup>^A</sup> you on that day, declares the LORD; you will not be given into the hands of those you fear. \n\n### Crossrefs\n- A: [[Ps-34-22|Ps 34:22]]; [[Ps-41-1|41:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

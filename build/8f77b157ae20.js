@@ -1,0 +1,1 @@
+(function(){var b="8f77b157ae20",m="# Isaiah 49:24 (New International Version)\nCan plunder be taken from warriors,<sup>^A</sup>  \n    or captives be rescued from the fierce?\n\n### Crossrefs\n- A: [[Matt-12-29|Mt 12:29]]; [[Mark-3-27|Mk 3:27]]; [[Luke-11-21|Lk 11:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

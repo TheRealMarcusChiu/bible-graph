@@ -1,0 +1,1 @@
+(function(){var b="9ac75acd08f8",m="# Psalm 18:40 (New International Version)\nYou made my enemies turn their backs<sup>^A</sup> in flight,  \n    and I destroyed<sup>^B</sup> my foes.\n\n### Crossrefs\n- A: S [[Josh-7-12|Jos 7:12]]\n- B: [[Ps-18-37|ver 37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

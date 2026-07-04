@@ -1,0 +1,1 @@
+(function(){var b="a8e1337519e8",m="# Ezekiel 27:14 (New International Version)\n\"'Men of Beth Togarmah<sup>^A</sup> exchanged chariot horses, cavalry horses and mules for your merchandise.\n\n### Crossrefs\n- A: S [[Gen-10-3|Ge 10:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

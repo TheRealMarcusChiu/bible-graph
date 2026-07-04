@@ -1,0 +1,1 @@
+(function(){var b="a404e66c5d58",m="# Proverbs 5:10 (New International Version)\nlest strangers feast on your wealth  \n    and your toil enrich the house of another.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-29-3|Pr 29:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

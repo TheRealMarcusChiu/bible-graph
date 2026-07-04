@@ -1,0 +1,1 @@
+(function(){var b="641c0faa4f77",m="# Job 38:16 (New International Version)\n\"Have you journeyed to the springs of the sea  \n    or walked in the recesses of the deep?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-1-7|Ge 1:7]]; S [[Job-9-8|Job 9:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

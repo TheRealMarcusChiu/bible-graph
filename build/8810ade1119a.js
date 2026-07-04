@@ -1,0 +1,1 @@
+(function(){var b="8810ade1119a",m="# Nehemiah 2:5 (New International Version)\nand I answered the king, \"If it pleases the king and if your servant has found favor in his sight, let him send me to the city in Judah where my ancestors are buried so that I can rebuild it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

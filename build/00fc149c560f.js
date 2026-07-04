@@ -1,0 +1,1 @@
+(function(){var b="00fc149c560f",m="# 2 Chronicles 27:7 (New International Version)\nThe other events in Jotham's reign, including all his wars and the other things he did, are written in the book of the kings of Israel and Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="13b46c33fba1",m="# Psalm 82:6 (New International Version)\n\"I said, 'You are \"gods\";<sup>^A</sup>  \n    you are all sons of the Most High.'\n\n### Crossrefs\n- A: Jn 10:34*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

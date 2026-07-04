@@ -1,0 +1,1 @@
+(function(){var b="823d5882b979",m="# Psalm 49:5 (New International Version)\nWhy should I fear<sup>^A</sup> when evil days come,  \n    when wicked deceivers surround me--\n\n### Crossrefs\n- A: [[Ps-23-4|Ps 23:4]]; [[Ps-27-1|27:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

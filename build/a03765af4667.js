@@ -1,0 +1,1 @@
+(function(){var b="a03765af4667",m="# Jeremiah 2:16 (New International Version)\nAlso, the men of Memphis<sup>^A</sup> and Tahpanhes<sup>^B</sup>  \n    have cracked your skull.\n\n### Crossrefs\n- A: S [[Isa-19-13|Isa 19:13]]\n- B: [[Jer-43-7|Jer 43:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

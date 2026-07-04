@@ -1,0 +1,1 @@
+(function(){var b="db8460a528d7",m="# 2 Chronicles 18:17 (New International Version)\nThe king of Israel said to Jehoshaphat, \"Didn't I tell you that he never prophesies anything good about me, but only bad?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

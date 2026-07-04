@@ -1,0 +1,1 @@
+(function(){var b="08bf91770107",m="# Lamentations 3:50 (New International Version)\nuntil the LORD looks down  \n    from heaven and sees.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-14-2|Ps 14:2]]; [[Ps-80-14|80:14]]; S [[Isa-63-15|Isa 63:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

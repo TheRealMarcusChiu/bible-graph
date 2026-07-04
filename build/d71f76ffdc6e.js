@@ -1,0 +1,1 @@
+(function(){var b="d71f76ffdc6e",m="# Isaiah 3:19 (New International Version)\nthe earrings and bracelets<sup>^A</sup> and veils,<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Gen-24-47|Ge 24:47]]\n- B: [[Ezek-16-11|Eze 16:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

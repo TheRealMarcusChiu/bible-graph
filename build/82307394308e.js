@@ -1,0 +1,1 @@
+(function(){var b="82307394308e",m="# Psalm 37:21 (New International Version)\nThe wicked borrow and do not repay,  \n    but the righteous give generously;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-25-35|Lev 25:35]]; [[Ps-112-5|Ps 112:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

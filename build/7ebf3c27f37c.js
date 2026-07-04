@@ -1,0 +1,1 @@
+(function(){var b="7ebf3c27f37c",m="# 2 Chronicles 32:29 (New International Version)\nHe built villages and acquired great numbers of flocks and herds, for God had given him very great riches.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-39-2|Isa 39:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

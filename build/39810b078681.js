@@ -1,0 +1,1 @@
+(function(){var b="39810b078681",m="# Psalm 75:6 (New International Version)\nNo one from the east or the west  \n    or from the desert can exalt themselves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

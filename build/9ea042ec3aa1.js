@@ -1,0 +1,1 @@
+(function(){var b="9ea042ec3aa1",m="# Nehemiah 12:26 (New International Version)\nThey served in the days of Joiakim son of Joshua, the son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priest, the teacher of the Law.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="add892c05067",m="# Job 10:10 (New International Version)\nDid you not pour me out like milk  \n    and curdle me like cheese,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

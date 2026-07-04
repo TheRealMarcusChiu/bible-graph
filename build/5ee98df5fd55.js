@@ -1,0 +1,1 @@
+(function(){var b="5ee98df5fd55",m="# Nehemiah 13:21 (New International Version)\nBut I warned them and said, \"Why do you spend the night by the wall? If you do this again, I will arrest you.\" From that time on they no longer came on the Sabbath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cb399a038694",m="# Psalm 92:8 (New International Version)\nBut you, LORD, are forever exalted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

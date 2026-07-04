@@ -1,0 +1,1 @@
+(function(){var b="52fd5ffe7062",m="# Psalm 119:23 (New International Version)\nThough rulers sit together and slander me,  \n    your servant will meditate on your decrees.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

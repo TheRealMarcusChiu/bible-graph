@@ -1,0 +1,1 @@
+(function(){var b="47c0ff567454",m="# Psalm 116:13 (New International Version)\nI will lift up the cup of salvation  \n    and call on the name<sup>^A</sup> of the LORD.\n\n### Crossrefs\n- A: S [[Ps-105-1|Ps 105:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

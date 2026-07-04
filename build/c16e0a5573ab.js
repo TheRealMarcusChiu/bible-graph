@@ -1,0 +1,1 @@
+(function(){var b="c16e0a5573ab",m="# Jonah 1:15 (New International Version)\nThen they took Jonah and threw him overboard, and the raging sea grew calm.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ps-107-29|Ps 107:29]]; [[Luke-8-24|Lk 8:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

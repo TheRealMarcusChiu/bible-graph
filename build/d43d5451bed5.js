@@ -1,0 +1,1 @@
+(function(){var b="d43d5451bed5",m="# 1 Chronicles 26:13 (New International Version)\nLots<sup>^A</sup> were cast for each gate, according to their families, young and old alike.\n\n### Crossrefs\n- A: S [[1Chr-24-5|1Ch 24:5]], [[1Chr-24-31|31]]; [[1Chr-25-8|25:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

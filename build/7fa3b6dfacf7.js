@@ -1,0 +1,1 @@
+(function(){var b="7fa3b6dfacf7",m="# Ezekiel 32:28 (New International Version)\n\"You too, Pharaoh, will be broken and will lie among the uncircumcised, with those killed by the sword.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="71d617431fb5",m="# Job 39:19 (New International Version)\n\"Do you give the horse its strength<sup>^A</sup>  \n    or clothe its neck with a flowing mane?\n\n### Crossrefs\n- A: S [[Job-39-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d572590a982d",m="# Ezekiel 23:43 (New International Version)\nThen I said about the one worn out by adultery, 'Now let them use her as a prostitute,<sup>^A</sup> for that is all she is.' \n\n### Crossrefs\n- A: [[Ezek-23-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

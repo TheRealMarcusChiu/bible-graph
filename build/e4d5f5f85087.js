@@ -1,0 +1,1 @@
+(function(){var b="e4d5f5f85087",m="# Psalm 36:11 (New International Version)\nMay the foot of the proud not come against me,  \n    nor the hand of the wicked<sup>^A</sup> drive me away.\n\n### Crossrefs\n- A: [[Ps-71-4|Ps 71:4]]; [[Ps-140-4|140:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="68813914c576",m="# 2 Chronicles 4:13 (New International Version)\nthe four hundred pomegranates for the two sets of network (two rows of pomegranates for each network, decorating the bowl-shaped capitals on top of the pillars);";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

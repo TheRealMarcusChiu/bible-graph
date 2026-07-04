@@ -1,0 +1,1 @@
+(function(){var b="1f2062018a9a",m="# Proverbs 31:12 (New International Version)\nShe brings him good, not harm,  \n    all the days of her life.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

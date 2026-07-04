@@ -1,0 +1,1 @@
+(function(){var b="49f9aa8c41d1",m="# Job 3:12 (New International Version)\nWhy were there knees to receive me<sup>^A</sup>  \n    and breasts that I might be nursed?\n\n### Crossrefs\n- A: S [[Gen-48-12|Ge 48:12]]; [[Isa-66-12|Isa 66:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

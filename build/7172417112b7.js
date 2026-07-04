@@ -1,0 +1,1 @@
+(function(){var b="7172417112b7",m="# 1 Chronicles 17:15 (New International Version)\nNathan reported to David all the words of this entire revelation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

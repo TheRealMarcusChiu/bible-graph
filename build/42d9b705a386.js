@@ -1,0 +1,1 @@
+(function(){var b="42d9b705a386",m="# Jeremiah 18:4 (New International Version)\nBut the pot he was shaping from the clay was marred in his hands; so the potter formed it into another pot, shaping it as seemed best to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

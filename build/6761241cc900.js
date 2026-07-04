@@ -1,0 +1,1 @@
+(function(){var b="6761241cc900",m="# Psalm 53:6 (New International Version)\nOh, that salvation for Israel would come out of Zion!  \n    When God restores his people,  \n    let Jacob rejoice and Israel be glad!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

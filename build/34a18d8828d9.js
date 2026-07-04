@@ -1,0 +1,1 @@
+(function(){var b="34a18d8828d9",m="# Jeremiah 12:17 (New International Version)\nBut if any nation does not listen, I will completely uproot and destroy<sup>^A</sup> it,\" declares the LORD.\n\n### Crossrefs\n- A: S [[Gen-27-29|Ge 27:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

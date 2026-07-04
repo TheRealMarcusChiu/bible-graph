@@ -1,0 +1,1 @@
+(function(){var b="b553fa022eca",m="# Proverbs 7:19 (New International Version)\nMy husband is not at home;  \n    he has gone on a long journey.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

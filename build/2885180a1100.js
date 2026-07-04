@@ -1,0 +1,1 @@
+(function(){var b="2885180a1100",m="# Job 30:6 (New International Version)\nThey were forced to live in the dry stream beds,  \n    among the rocks and in holes in the ground.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-2-19|Isa 2:19]]; [[Hos-10-8|Hos 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

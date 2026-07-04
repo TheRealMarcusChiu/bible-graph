@@ -1,0 +1,1 @@
+(function(){var b="bbe99a45d85a",m="# Jeremiah 52:14 (New International Version)\nThe whole Babylonian army, under the commander of the imperial guard, broke down all the walls<sup>^A</sup> around Jerusalem. \n\n### Crossrefs\n- A: S [[Neh-1-3|Ne 1:3]]; [[Lam-2-8|La 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

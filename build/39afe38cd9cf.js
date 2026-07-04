@@ -1,0 +1,1 @@
+(function(){var b="39afe38cd9cf",m="# Psalm 48:12 (New International Version)\nWalk about Zion, go around her,  \n    count her towers,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Neh-3-1|Ne 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

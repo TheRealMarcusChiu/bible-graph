@@ -1,0 +1,1 @@
+(function(){var b="ac3577462e54",m="# Psalm 95:7 (New International Version)\nfor he is our God  \n    and we are the people of his pasture,<sup>^A</sup>  \n    the flock under his care.\nToday, if only you would hear his voice,\n\n### Crossrefs\n- A: S [[Ps-74-1|Ps 74:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

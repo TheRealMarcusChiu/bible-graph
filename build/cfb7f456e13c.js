@@ -1,0 +1,1 @@
+(function(){var b="cfb7f456e13c",m="# Ezekiel 4:8 (New International Version)\nI will tie you up with ropes so that you cannot turn from one side to the other until you have finished the days of your siege.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-3-25|Eze 3:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

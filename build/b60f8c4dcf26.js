@@ -1,0 +1,1 @@
+(function(){var b="b60f8c4dcf26",m="# Job 8:17 (New International Version)\nit entwines its roots around a pile of rocks  \n    and looks for a place among the stones.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

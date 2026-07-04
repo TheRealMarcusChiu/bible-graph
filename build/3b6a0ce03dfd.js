@@ -1,0 +1,1 @@
+(function(){var b="3b6a0ce03dfd",m="# Proverbs 21:18 (New International Version)\nThe wicked become a ransom<sup>^A</sup> for the righteous,  \n    and the unfaithful for the upright.\n\n### Crossrefs\n- A: [[Prov-11-8|Pr 11:8]]; [[Isa-43-3|Isa 43:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

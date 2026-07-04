@@ -1,0 +1,1 @@
+(function(){var b="203c5a3b67c4",m="# Job 27:10 (New International Version)\nWill they find delight in the Almighty?<sup>^A</sup>  \n    Will they call on God at all times?\n\n### Crossrefs\n- A: S [[Job-22-26|Job 22:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fc61bb242060",m="# Job 29:15 (New International Version)\nI was eyes<sup>^A</sup> to the blind  \n    and feet to the lame.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Num-10-31|Nu 10:31]]\n- B: S [[Job-4-4|Job 4:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

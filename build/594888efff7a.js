@@ -1,0 +1,1 @@
+(function(){var b="594888efff7a",m="# 1 Chronicles 28:16 (New International Version)\nthe weight of gold for each table<sup>^A</sup> for consecrated bread; the weight of silver for the silver tables; \n\n### Crossrefs\n- A: S [[Exod-25-23|Ex 25:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

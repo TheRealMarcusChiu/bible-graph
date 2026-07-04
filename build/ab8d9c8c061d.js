@@ -1,0 +1,1 @@
+(function(){var b="ab8d9c8c061d",m="# Jeremiah 4:12 (New International Version)\na wind<sup>^A</sup> too strong for that comes from me. Now I pronounce my judgments<sup>^B</sup> against them.\"\n\n### Crossrefs\n- A: S [[Isa-64-6|Isa 64:6]]\n- B: [[Jer-1-16|Jer 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc24f1af9db1",m="# Nehemiah 6:17 (New International Version)\nAlso, in those days the nobles of Judah were sending many letters to Tobiah, and replies from Tobiah kept coming to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

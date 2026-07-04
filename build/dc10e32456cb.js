@@ -1,0 +1,1 @@
+(function(){var b="dc10e32456cb",m="# 2 Chronicles 17:4 (New International Version)\nbut sought<sup>^A</sup> the God of his father and followed his commands rather than the practices of Israel. \n\n### Crossrefs\n- A: [[2Chr-22-9|2Ch 22:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

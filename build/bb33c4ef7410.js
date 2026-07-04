@@ -1,0 +1,1 @@
+(function(){var b="bb33c4ef7410",m="# Daniel 8:6 (New International Version)\nIt came toward the two-horned ram I had seen standing beside the canal and charged at it in great rage.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

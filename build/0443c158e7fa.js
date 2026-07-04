@@ -1,0 +1,1 @@
+(function(){var b="0443c158e7fa",m="# Jeremiah 10:17 (New International Version)\nComing Destruction\nGather up your belongings<sup>^A</sup> to leave the land,  \n    you who live under siege.\n\n### Crossrefs\n- A: [[Ezek-12-3|Eze 12:3-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

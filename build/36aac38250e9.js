@@ -1,0 +1,1 @@
+(function(){var b="36aac38250e9",m="# Proverbs 16:31 (New International Version)\nGray hair is a crown of splendor;<sup>^A</sup>  \n    it is attained in the way of righteousness.\n\n### Crossrefs\n- A: [[Prov-20-29|Pr 20:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b5d46046e411",m="# Esther 6:6 (New International Version)\nWhen Haman entered, the king asked him, \"What should be done for the man the king delights to honor?\"\nNow Haman thought to himself, \"Who is there that the king would rather honor than me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9e7d20ff1173",m="# Daniel 8:20 (New International Version)\nThe two-horned ram that you saw represents the kings of Media and Persia.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-27-10|Eze 27:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

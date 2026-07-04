@@ -1,0 +1,1 @@
+(function(){var b="b05675899034",m="# Psalm 78:33 (New International Version)\nSo he ended their days in futility<sup>^A</sup>  \n    and their years in terror.\n\n### Crossrefs\n- A: [[Num-14-29|Nu 14:29]], [[Num-14-35|35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

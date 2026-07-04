@@ -1,0 +1,1 @@
+(function(){var b="9a34e87e3a21",m="# 1 Chronicles 21:24 (New International Version)\nBut King David replied to Araunah, \"No, I insist on paying the full price. I will not take for the LORD what is yours, or sacrifice a burnt offering that costs me nothing.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

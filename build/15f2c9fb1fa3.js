@@ -1,0 +1,1 @@
+(function(){var b="15f2c9fb1fa3",m="# 2 Chronicles 17:17 (New International Version)\nFrom Benjamin:<sup>^A</sup>\nEliada, a valiant soldier, with 200,000 men armed with bows and shields;\n\n### Crossrefs\n- A: S [[Num-1-36|Nu 1:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

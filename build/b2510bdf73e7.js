@@ -1,0 +1,1 @@
+(function(){var b="b2510bdf73e7",m="# Joel 3:6 (New International Version)\nYou sold the people of Judah and Jerusalem to the Greeks,<sup>^A</sup> that you might send them far from their homeland.\n\n### Crossrefs\n- A: [[Ezek-27-13|Eze 27:13]]; [[Zech-9-13|Zec 9:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

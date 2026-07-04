@@ -1,0 +1,1 @@
+(function(){var b="517e76d56076",m="# Job 39:4 (New International Version)\nTheir young thrive and grow strong in the wilds;  \n    they leave and do not return.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

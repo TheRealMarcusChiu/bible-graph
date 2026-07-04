@@ -1,0 +1,1 @@
+(function(){var b="b5f2b5b0c0db",m="# Esther 10:1 (New International Version)\nThe Greatness of Mordecai\nKing Xerxes imposed tribute throughout the empire, to its distant shores.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ps-72-10|Ps 72:10]]; [[Ps-97-1|97:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

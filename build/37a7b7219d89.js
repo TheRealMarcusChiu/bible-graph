@@ -1,0 +1,1 @@
+(function(){var b="37a7b7219d89",m="# Ezekiel 16:34 (New International Version)\nSo in your prostitution you are the opposite of others; no one runs after you for your favors. You are the very opposite, for you give payment and none is given to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

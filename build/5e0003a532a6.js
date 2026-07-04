@@ -1,0 +1,1 @@
+(function(){var b="5e0003a532a6",m="# Job 17:12 (New International Version)\nturn night into day;<sup>^A</sup>  \n    in the face of the darkness light is near.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Isa-50-11|Isa 50:11]]\n- B: [[Job-5-17|Job 5:17-26]]; S [[Job-11-17|11:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

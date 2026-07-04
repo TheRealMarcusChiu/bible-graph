@@ -1,0 +1,1 @@
+(function(){var b="2219ae718860",m="# Joel 2:8 (New International Version)\nThey do not jostle each other;  \n    each marches straight ahead.  \nThey plunge through defenses  \n    without breaking ranks.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

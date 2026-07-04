@@ -1,0 +1,1 @@
+(function(){var b="4db92c047860",m="# Job 30:17 (New International Version)\nNight pierces my bones;  \n    my gnawing pains never rest.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-28-35|Dt 28:35]]; S [[Job-16-16|Job 16:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

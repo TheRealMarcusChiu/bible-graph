@@ -1,0 +1,1 @@
+(function(){var b="b00c23abbd3e",m="# Psalm 94:3 (New International Version)\nHow long, LORD, will the wicked,  \n    how long will the wicked be jubilant?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-13-2|Ps 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8b23ed73b231",m="# Psalm 102:7 (New International Version)\nI lie awake;<sup>^A</sup> I have become  \n    like a bird alone<sup>^B</sup> on a roof.\n\n### Crossrefs\n- A: [[Ps-77-4|Ps 77:4]]\n- B: [[Ps-38-11|Ps 38:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

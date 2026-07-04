@@ -1,0 +1,1 @@
+(function(){var b="5a36c82f8b31",m="# Job 12:8 (New International Version)\nor speak to the earth, and it will teach you,  \n    or let the fish in the sea inform you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="20b01e0a9247",m="# Psalm 30:6 (New International Version)\nWhen I felt secure, I said,  \n    \"I will never be shaken.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-29-18|Job 29:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

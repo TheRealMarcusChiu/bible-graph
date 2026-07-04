@@ -1,0 +1,1 @@
+(function(){var b="817f3276578b",m="# Proverbs 29:16 (New International Version)\nWhen the wicked thrive, so does sin,  \n    but the righteous will see their downfall.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-91-8|Ps 91:8]]; S [[Ps-92-11|92:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aed7c586513e",m="# Psalm 51:5 (New International Version)\nSurely I was sinful<sup>^A</sup> at birth,<sup>^B</sup>  \n    sinful from the time my mother conceived me.\n\n### Crossrefs\n- A: S [[Lev-5-2|Lev 5:2]]\n- B: S [[Job-5-7|Job 5:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

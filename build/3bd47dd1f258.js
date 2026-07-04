@@ -1,0 +1,1 @@
+(function(){var b="3bd47dd1f258",m="# Jeremiah 43:8 (New International Version)\nIn Tahpanhes<sup>^A</sup> the word of the LORD came to Jeremiah: \n\n### Crossrefs\n- A: [[Ps-139-7|Ps 139:7]]; [[Jer-2-16|Jer 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d1142c8dbbfd",m="# Psalm 119:142 (New International Version)\nYour righteousness is everlasting  \n    and your law is true.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-151|ver 151]], [[Ps-119-160|160]]; [[Ps-19-7|Ps 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

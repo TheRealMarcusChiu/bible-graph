@@ -1,0 +1,1 @@
+(function(){var b="e6ac483ac338",m="# 2 Chronicles 20:19 (New International Version)\nThen some Levites from the Kohathites and Korahites stood up and praised the LORD, the God of Israel, with a very loud voice.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="721f811ae424",m="# Psalm 121:7 (New International Version)\nThe LORD will keep you from all harm<sup>^A</sup>--  \n    he will watch over your life;\n\n### Crossrefs\n- A: S [[Ps-9-9|Ps 9:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

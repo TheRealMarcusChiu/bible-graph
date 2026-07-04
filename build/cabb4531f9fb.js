@@ -1,0 +1,1 @@
+(function(){var b="cabb4531f9fb",m="# Ezekiel 39:5 (New International Version)\nYou will fall in the open field, for I have spoken, declares the Sovereign LORD.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-32-4|Eze 32:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

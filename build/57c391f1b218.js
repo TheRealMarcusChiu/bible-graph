@@ -1,0 +1,1 @@
+(function(){var b="57c391f1b218",m="# Psalm 89:38 (New International Version)\nBut you have rejected,<sup>^A</sup> you have spurned,  \n    you have been very angry with your anointed one.\n\n### Crossrefs\n- A: [[1Chr-28-9|1Ch 28:9]]; [[Ps-44-9|Ps 44:9]]; [[Ps-78-59|78:59]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="240c75772e5f",m="# 1 Chronicles 6:59 (New International Version)\nAshan,<sup>^A</sup> Juttah and Beth Shemesh, together with their pasturelands. \n\n### Crossrefs\n- A: S [[Josh-15-42|Jos 15:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

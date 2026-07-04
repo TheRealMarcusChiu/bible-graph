@@ -1,0 +1,1 @@
+(function(){var b="d239a363503b",m="# 1 Chronicles 2:46 (New International Version)\nCaleb's concubine Ephah was the mother of Haran, Moza and Gazez. Haran was the father of Gazez.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

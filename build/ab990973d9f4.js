@@ -1,0 +1,1 @@
+(function(){var b="ab990973d9f4",m="# Isaiah 14:18 (New International Version)\nAll the kings of the nations lie in state,  \n    each in his own tomb.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-21-32|Job 21:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

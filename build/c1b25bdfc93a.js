@@ -1,0 +1,1 @@
+(function(){var b="c1b25bdfc93a",m="# Psalm 136:9 (New International Version)\nthe moon and stars to govern the night;  \n_His love endures forever._";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

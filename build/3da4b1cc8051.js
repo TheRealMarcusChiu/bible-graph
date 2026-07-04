@@ -1,0 +1,1 @@
+(function(){var b="3da4b1cc8051",m="# Psalm 18:5 (New International Version)\nThe cords of the grave coiled around me;  \n    the snares of death<sup>^A</sup> confronted me.\n\n### Crossrefs\n- A: [[Prov-13-14|Pr 13:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

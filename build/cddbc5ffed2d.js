@@ -1,0 +1,1 @@
+(function(){var b="cddbc5ffed2d",m="# Job 6:2 (New International Version)\n\"If only my anguish could be weighed  \n    and all my misery be placed on the scales!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-31-6|Job 31:6]]; [[Prov-11-1|Pr 11:1]]; [[Dan-5-27|Da 5:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

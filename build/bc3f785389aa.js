@@ -1,0 +1,1 @@
+(function(){var b="bc3f785389aa",m="# Job 31:17 (New International Version)\nif I have kept my bread to myself,  \n    not sharing it with the fatherless<sup>^A</sup>--\n\n### Crossrefs\n- A: S [[Job-6-27|Job 6:27]]; S [[Job-22-7|22:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

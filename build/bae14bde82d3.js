@@ -1,0 +1,1 @@
+(function(){var b="bae14bde82d3",m="# Job 36:3 (New International Version)\nI get my knowledge from afar;<sup>^A</sup>  \n    I will ascribe justice to my Maker.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-6-28|Job 6:28]]\n- B: S [[Job-4-17|Job 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

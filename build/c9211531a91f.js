@@ -1,0 +1,1 @@
+(function(){var b="c9211531a91f",m="# Ezekiel 1:8 (New International Version)\nUnder their wings on their four sides they had human hands.<sup>^A</sup> All four of them had faces and wings, \n\n### Crossrefs\n- A: [[Ezek-10-8|Eze 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

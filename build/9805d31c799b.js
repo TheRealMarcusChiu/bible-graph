@@ -1,0 +1,1 @@
+(function(){var b="9805d31c799b",m="# Nehemiah 2:15 (New International Version)\nso I went up the valley by night, examining the wall. Finally, I turned back and reentered through the Valley Gate.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

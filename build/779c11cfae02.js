@@ -1,0 +1,1 @@
+(function(){var b="779c11cfae02",m="# 1 Chronicles 4:35 (New International Version)\nJoel, Jehu son of Joshibiah, the son of Seraiah, the son of Asiel,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

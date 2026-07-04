@@ -1,0 +1,1 @@
+(function(){var b="2455fcc62b28",m="# 2 Kings 14:2 (New International Version)\nHe was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother's name was Jehoaddan; she was from Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ccf865c100f6",m="# Jeremiah 50:10 (New International Version)\nSo Babylonia will be plundered;<sup>^A</sup>  \n    all who plunder her will have their fill,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[Isa-47-11|Isa 47:11]]; S [[Jer-30-16|Jer 30:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

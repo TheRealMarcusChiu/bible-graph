@@ -1,0 +1,1 @@
+(function(){var b="63e097373fc1",m="# 2 Chronicles 28:26 (New International Version)\nThe other events of his reign and all his ways, from beginning to end, are written in the book of the kings of Judah and Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9666436fe6d2",m="# Job 31:36 (New International Version)\nSurely I would wear it on my shoulder,<sup>^A</sup>  \n    I would put it on like a crown.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-28-12|Ex 28:12]]\n- B: [[Job-29-14|Job 29:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

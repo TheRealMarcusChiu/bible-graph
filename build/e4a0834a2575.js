@@ -1,0 +1,1 @@
+(function(){var b="e4a0834a2575",m="# Ecclesiastes 8:6 (New International Version)\nFor there is a proper time and procedure for every matter,<sup>^A</sup>  \n    though a person may be weighed down by misery.\n\n### Crossrefs\n- A: [[Eccl-3-1|Ecc 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

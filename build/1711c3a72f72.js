@@ -1,0 +1,1 @@
+(function(){var b="1711c3a72f72",m="# Job 41:22 (New International Version)\nStrength<sup>^A</sup> resides in its neck;  \n    dismay goes before it.\n\n### Crossrefs\n- A: S [[Job-39-11|Job 39:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="df20490ab3c8",m="# 2 Kings 3:26 (New International Version)\nWhen the king of Moab saw that the battle had gone against him, he took with him seven hundred swordsmen to break through to the king of Edom, but they failed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="38051b4eddd9",m="# Proverbs 6:30 (New International Version)\nPeople do not despise a thief if he steals  \n    to satisfy his hunger when he is starving.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

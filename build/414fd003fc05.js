@@ -1,0 +1,1 @@
+(function(){var b="414fd003fc05",m="# 1 Chronicles 24:13 (New International Version)\nthe thirteenth to Huppah,\nthe fourteenth to Jeshebeab,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

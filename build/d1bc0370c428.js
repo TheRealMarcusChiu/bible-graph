@@ -1,0 +1,1 @@
+(function(){var b="d1bc0370c428",m="# 2 Chronicles 34:16 (New International Version)\nThen Shaphan took the book to the king and reported to him: \"Your officials are doing everything that has been committed to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

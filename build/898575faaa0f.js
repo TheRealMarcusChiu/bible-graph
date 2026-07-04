@@ -1,0 +1,1 @@
+(function(){var b="898575faaa0f",m="# Jeremiah 7:1 (New International Version)\nFalse Religion Worthless\nThis is the word that came to Jeremiah from the LORD:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

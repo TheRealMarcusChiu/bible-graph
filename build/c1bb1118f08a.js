@@ -1,0 +1,1 @@
+(function(){var b="c1bb1118f08a",m="# Psalm 119:99 (New International Version)\nI have more insight than all my teachers,  \n    for I meditate on your statutes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

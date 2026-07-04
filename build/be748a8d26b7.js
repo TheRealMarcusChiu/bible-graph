@@ -1,0 +1,1 @@
+(function(){var b="be748a8d26b7",m="# Esther 9:21 (New International Version)\nto have them celebrate annually the fourteenth and fifteenth days of the month of Adar";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

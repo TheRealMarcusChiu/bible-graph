@@ -1,0 +1,1 @@
+(function(){var b="123af38f9c0d",m="# Jonah 1:11 (New International Version)\nThe sea was getting rougher and rougher. So they asked him, \"What should we do to you to make the sea calm down for us?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

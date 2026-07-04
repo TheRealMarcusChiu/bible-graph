@@ -1,0 +1,1 @@
+(function(){var b="b37543007ef7",m="# Proverbs 23:6 (New International Version)\nDo not eat the food of a begrudging host,  \n    do not crave his delicacies;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-23-1|ver 1-3]]; [[Ps-141-4|Ps 141:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

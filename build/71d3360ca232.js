@@ -1,0 +1,1 @@
+(function(){var b="71d3360ca232",m="# Isaiah 57:2 (New International Version)\nThose who walk uprightly<sup>^A</sup>  \n    enter into peace;  \n    they find rest<sup>^B</sup> as they lie in death.\n\n### Crossrefs\n- A: [[Isa-26-7|Isa 26:7]]\n- B: [[Dan-12-13|Da 12:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

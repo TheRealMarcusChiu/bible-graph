@@ -1,0 +1,1 @@
+(function(){var b="56d36fde76a9",m="# Proverbs 21:16 (New International Version)\nWhoever strays from the path of prudence  \n    comes to rest in the company of the dead.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-18-24|Eze 18:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

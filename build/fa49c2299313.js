@@ -1,0 +1,1 @@
+(function(){var b="fa49c2299313",m="# 1 Chronicles 11:46 (New International Version)\nEliel the Mahavite,\nJeribai and Joshaviah the sons of Elnaam,\nIthmah the Moabite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

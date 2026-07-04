@@ -1,0 +1,1 @@
+(function(){var b="8fcf42e39527",m="# Proverbs 13:1 (New International Version)\nA wise son heeds his father's instruction,  \n    but a mocker does not respond to rebukes.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-12-1|Pr 12:1]]; [[Prov-15-5|15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

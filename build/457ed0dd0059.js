@@ -1,0 +1,1 @@
+(function(){var b="457ed0dd0059",m="# Song of Songs 3:1 (New International Version)\nAll night long on my bed  \n    I looked<sup>^A</sup> for the one my heart loves;  \n    I looked for him but did not find him.\n\n### Crossrefs\n- A: [[Song-5-6|SS 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

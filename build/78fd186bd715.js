@@ -1,0 +1,1 @@
+(function(){var b="78fd186bd715",m="# Psalm 132:10 (New International Version)\nFor the sake of your servant David,  \n    do not reject your anointed one.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

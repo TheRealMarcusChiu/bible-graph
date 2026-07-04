@@ -1,0 +1,1 @@
+(function(){var b="5822950c2df6",m="# Psalm 66:8 (New International Version)\nPraise<sup>^A</sup> our God, all peoples,  \n    let the sound of his praise be heard;\n\n### Crossrefs\n- A: S [[Ps-22-23|Ps 22:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

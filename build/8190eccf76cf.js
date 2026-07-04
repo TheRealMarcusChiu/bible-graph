@@ -1,0 +1,1 @@
+(function(){var b="8190eccf76cf",m="# Nehemiah 4:8 (New International Version)\nThey all plotted together<sup>^A</sup> to come and fight against Jerusalem and stir up trouble against it. \n\n### Crossrefs\n- A: [[Ps-2-2|Ps 2:2]]; [[Ps-83-1|83:1-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

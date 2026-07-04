@@ -1,0 +1,1 @@
+(function(){var b="8b8a57532fbc",m="# Ezra 2:28 (New International Version)\n\n### Crossrefs\n- A: S [[Gen-12-8|Ge 12:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d778ded14658",m="# Psalm 105:11 (New International Version)\n\"To you I will give the land of Canaan<sup>^A</sup>  \n    as the portion you will inherit.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-12-7|Ge 12:7]]\n- B: S [[Num-34-2|Nu 34:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

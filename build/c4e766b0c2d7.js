@@ -1,0 +1,1 @@
+(function(){var b="c4e766b0c2d7",m="# Psalm 76:3 (New International Version)\nThere he broke the flashing arrows,<sup>^A</sup>  \n    the shields and the swords, the weapons of war.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ezek-39-9|Eze 39:9]]\n- B: [[Ps-46-9|Ps 46:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

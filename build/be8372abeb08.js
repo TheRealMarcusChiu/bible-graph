@@ -1,0 +1,1 @@
+(function(){var b="be8372abeb08",m="# 2 Chronicles 33:12 (New International Version)\nIn his distress he sought the favor of the LORD his God and humbled<sup>^A</sup> himself greatly before the God of his ancestors. \n\n### Crossrefs\n- A: S [[2Chr-6-37|2Ch 6:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

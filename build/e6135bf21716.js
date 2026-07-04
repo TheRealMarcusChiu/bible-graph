@@ -1,0 +1,1 @@
+(function(){var b="e6135bf21716",m="# Esther 4:13 (New International Version)\nhe sent back this answer: \"Do not think that because you are in the king's house you alone of all the Jews will escape.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

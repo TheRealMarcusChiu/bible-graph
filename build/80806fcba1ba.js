@@ -1,0 +1,1 @@
+(function(){var b="80806fcba1ba",m="# Jeremiah 5:18 (New International Version)\n\"Yet even in those days,\" declares the LORD, \"I will not destroy<sup>^A</sup> you completely. \n\n### Crossrefs\n- A: S [[Jer-4-27|Jer 4:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

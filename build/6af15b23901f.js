@@ -1,0 +1,1 @@
+(function(){var b="6af15b23901f",m="# Psalm 85:11 (New International Version)\nFaithfulness springs forth from the earth,  \n    and righteousness<sup>^A</sup> looks down from heaven.\n\n### Crossrefs\n- A: [[Isa-45-8|Isa 45:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

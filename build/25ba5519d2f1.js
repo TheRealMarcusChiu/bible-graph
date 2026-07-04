@@ -1,0 +1,1 @@
+(function(){var b="25ba5519d2f1",m="# 2 Kings 14:20 (New International Version)\nHe was brought back by horse<sup>^A</sup> and was buried in Jerusalem with his ancestors, in the City of David.\n\n### Crossrefs\n- A: S [[2Kgs-9-28|2Ki 9:28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

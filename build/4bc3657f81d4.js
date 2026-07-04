@@ -1,0 +1,1 @@
+(function(){var b="4bc3657f81d4",m="# Daniel 5:3 (New International Version)\nSo they brought in the gold goblets that had been taken from the temple of God in Jerusalem, and the king and his nobles, his wives and his concubines drank from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

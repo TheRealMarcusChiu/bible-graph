@@ -1,0 +1,1 @@
+(function(){var b="5cbfbe92e07d",m="# Ezekiel 18:1 (New International Version)\nThe One Who Sins Will Die\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

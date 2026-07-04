@@ -1,0 +1,1 @@
+(function(){var b="51739093408b",m="# 2 Chronicles 29:14 (New International Version)\nfrom the descendants of Heman,\nJehiel and Shimei;\nfrom the descendants of Jeduthun,\nShemaiah and Uzziel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

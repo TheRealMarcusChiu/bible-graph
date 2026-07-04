@@ -1,0 +1,1 @@
+(function(){var b="03d649ec79d9",m="# Psalm 123:1 (New International Version)\nPsalm 123\nI lift up my eyes to you,  \n    to you who sit enthroned<sup>^A</sup> in heaven.\n\n### Crossrefs\n- A: S [[Ps-68-5|Ps 68:5]]; [[Isa-6-1|Isa 6:1]]; [[Isa-63-15|63:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

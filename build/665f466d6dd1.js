@@ -1,0 +1,1 @@
+(function(){var b="665f466d6dd1",m="# Esther 5:13 (New International Version)\nBut all this gives me no satisfaction as long as I see that Jew Mordecai sitting at the king's gate.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Esth-2-19|Est 2:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

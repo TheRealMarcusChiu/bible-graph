@@ -1,0 +1,1 @@
+(function(){var b="a0583e6b1d39",m="# Psalm 105:37 (New International Version)\nHe brought out Israel, laden with silver and gold,<sup>^A</sup>  \n    and from among their tribes no one faltered.\n\n### Crossrefs\n- A: S [[Exod-3-21|Ex 3:21]], [[Exod-3-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

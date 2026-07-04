@@ -1,0 +1,1 @@
+(function(){var b="7b827f5fb3cb",m="# 2 Chronicles 29:33 (New International Version)\nThe animals consecrated as sacrifices amounted to six hundred bulls and three thousand sheep and goats.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

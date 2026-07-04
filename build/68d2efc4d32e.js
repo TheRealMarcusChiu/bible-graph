@@ -1,0 +1,1 @@
+(function(){var b="68d2efc4d32e",m="# 1 Chronicles 2:22 (New International Version)\nSegub was the father of Jair, who controlled twenty-three towns in Gilead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5512444856b7",m="# Proverbs 31:27 (New International Version)\nShe watches over the affairs of her household  \n    and does not eat the bread of idleness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

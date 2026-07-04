@@ -1,0 +1,1 @@
+(function(){var b="4211c44b4683",m="# Zechariah 8:20 (New International Version)\nThis is what the LORD Almighty says: \"Many peoples and the inhabitants of many cities will yet come,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

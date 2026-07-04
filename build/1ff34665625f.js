@@ -1,0 +1,1 @@
+(function(){var b="1ff34665625f",m="# 2 Kings 4:40 (New International Version)\nThe stew was poured out for the men, but as they began to eat it, they cried out, \"Man of God, there is death in the pot!\" And they could not eat it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

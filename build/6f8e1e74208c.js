@@ -1,0 +1,1 @@
+(function(){var b="6f8e1e74208c",m="# Jeremiah 22:27 (New International Version)\nYou will never come back to the land you long to return<sup>^A</sup> to.\"\n\n### Crossrefs\n- A: S [[Jer-22-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

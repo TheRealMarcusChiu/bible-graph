@@ -1,0 +1,1 @@
+(function(){var b="748f7da93618",m="# Psalm 81:11 (New International Version)\n\"But my people would not listen to me;  \n    Israel would not submit to me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-32-1|Ex 32:1-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="27449e7d2c0d",m="# 1 Chronicles 19:8 (New International Version)\nOn hearing this, David sent Joab out with the entire army of fighting men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

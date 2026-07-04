@@ -1,0 +1,1 @@
+(function(){var b="3cef18dad223",m="# Ezra 9:10 (New International Version)\n\"But now, our God, what can we say after this? For we have forsaken the commands<sup>^A</sup> \n\n### Crossrefs\n- A: [[Deut-11-8|Dt 11:8]]; [[Isa-1-19|Isa 1:19-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba488a96bbd4",m="# 1 Chronicles 23:2 (New International Version)\nHe also gathered together all the leaders of Israel, as well as the priests and Levites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

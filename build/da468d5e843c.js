@@ -1,0 +1,1 @@
+(function(){var b="da468d5e843c",m="# Esther 4:17 (New International Version)\nSo Mordecai went away and carried out all of Esther's instructions.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

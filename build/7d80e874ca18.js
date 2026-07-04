@@ -1,0 +1,1 @@
+(function(){var b="7d80e874ca18",m="# Nehemiah 4:13 (New International Version)\nTherefore I stationed some of the people behind the lowest points of the wall at the exposed places, posting them by families, with their swords, spears and bows.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

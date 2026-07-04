@@ -1,0 +1,1 @@
+(function(){var b="7932ad25d225",m="# 1 Chronicles 14:10 (New International Version)\nso David inquired of God: \"Shall I go and attack the Philistines? Will you deliver them into my hands?\"\nThe LORD answered him, \"Go, I will deliver them into your hands.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

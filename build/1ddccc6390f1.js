@@ -1,0 +1,1 @@
+(function(){var b="1ddccc6390f1",m="# 1 Chronicles 18:16 (New International Version)\nZadok<sup>^A</sup> son of Ahitub and Ahimelek<sup>^B</sup> son of Abiathar were priests; Shavsha was secretary; \n\n### Crossrefs\n- A: [[1Chr-6-8|1Ch 6:8]]\n- B: [[1Chr-24-6|1Ch 24:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

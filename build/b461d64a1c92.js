@@ -1,0 +1,1 @@
+(function(){var b="b461d64a1c92",m="# Isaiah 23:6 (New International Version)\nCross over to Tarshish;<sup>^A</sup>  \n    wail, you people of the island.\n\n### Crossrefs\n- A: S [[Gen-10-4|Ge 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

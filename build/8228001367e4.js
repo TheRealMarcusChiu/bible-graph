@@ -1,0 +1,1 @@
+(function(){var b="8228001367e4",m="# Proverbs 1:18 (New International Version)\nThese men lie in wait<sup>^A</sup> for their own blood;  \n    they ambush only themselves!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-71-10|Ps 71:10]]\n- B: S [[Prov-1-11|ver 11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

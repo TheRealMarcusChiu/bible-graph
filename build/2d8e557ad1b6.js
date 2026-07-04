@@ -1,0 +1,1 @@
+(function(){var b="2d8e557ad1b6",m="# 2 Kings 21:22 (New International Version)\nHe forsook<sup>^A</sup> the LORD, the God of his ancestors, and did not walk<sup>^B</sup> in obedience to him.\n\n### Crossrefs\n- A: S [[1Sam-8-8|1Sa 8:8]]\n- B: [[1Kgs-11-33|1Ki 11:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

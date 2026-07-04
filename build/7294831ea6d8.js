@@ -1,0 +1,1 @@
+(function(){var b="7294831ea6d8",m="# Psalm 91:13 (New International Version)\nYou will tread on the lion and the cobra;  \n    you will trample the great lion and the serpent.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-6-22|Da 6:22]]; [[Luke-10-19|Lk 10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

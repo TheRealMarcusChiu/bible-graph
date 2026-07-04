@@ -1,0 +1,1 @@
+(function(){var b="5983a0a7172e",m="# Job 41:4 (New International Version)\nWill it make an agreement with you  \n    for you to take it as your slave for life?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-21-6|Ex 21:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

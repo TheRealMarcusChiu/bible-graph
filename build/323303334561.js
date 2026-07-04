@@ -1,0 +1,1 @@
+(function(){var b="323303334561",m="# Proverbs 18:2 (New International Version)\nFools find no pleasure in understanding  \n    but delight in airing their own opinions.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-12-23|Pr 12:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

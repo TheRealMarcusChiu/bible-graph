@@ -1,0 +1,1 @@
+(function(){var b="4cc6b6d6bb04",m="# Song of Songs 2:10 (New International Version)\nMy beloved spoke and said to me,  \n    \"Arise, my darling,  \n    my beautiful one, come with me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

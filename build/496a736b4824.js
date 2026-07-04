@@ -1,0 +1,1 @@
+(function(){var b="496a736b4824",m="# 1 Chronicles 8:7 (New International Version)\nNaaman, Ahijah, and Gera, who deported them and who was the father of Uzza and Ahihud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

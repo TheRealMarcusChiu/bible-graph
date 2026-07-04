@@ -1,0 +1,1 @@
+(function(){var b="5d35c4577d4a",m="# 1 Chronicles 13:12 (New International Version)\nDavid was afraid of God that day and asked, \"How can I ever bring the ark of God to me?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f7a824622595",m="# 2 Kings 9:2 (New International Version)\nWhen you get there, look for Jehu son of Jehoshaphat, the son of Nimshi. Go to him, get him away from his companions and take him into an inner room.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

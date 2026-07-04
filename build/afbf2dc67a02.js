@@ -1,0 +1,1 @@
+(function(){var b="afbf2dc67a02",m="# 1 Chronicles 12:12 (New International Version)\nJohanan the eighth, Elzabad the ninth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

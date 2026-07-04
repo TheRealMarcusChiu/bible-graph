@@ -1,0 +1,1 @@
+(function(){var b="acd771cafe11",m="# Hosea 4:18 (New International Version)\nEven when their drinks are gone,  \n    they continue their prostitution;  \n    their rulers dearly love shameful ways.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

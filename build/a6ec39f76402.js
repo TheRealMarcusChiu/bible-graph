@@ -1,0 +1,1 @@
+(function(){var b="a6ec39f76402",m="# Isaiah 36:18 (New International Version)\n\"Do not let Hezekiah mislead you when he says, 'The LORD will deliver us.' Have the gods of any nations ever delivered their lands from the hand of the king of Assyria?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

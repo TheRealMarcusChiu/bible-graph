@@ -1,0 +1,1 @@
+(function(){var b="701c10b5e751",m="# Job 31:18 (New International Version)\nbut from my youth I reared them as a father would,  \n    and from my birth I guided the widow<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Isa-51-18|Isa 51:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

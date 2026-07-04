@@ -1,0 +1,1 @@
+(function(){var b="f923b2b2c1f9",m="# 1 Chronicles 11:45 (New International Version)\nJediael son of Shimri,\nhis brother Joha the Tizite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

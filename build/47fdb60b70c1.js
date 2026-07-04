@@ -1,0 +1,1 @@
+(function(){var b="47fdb60b70c1",m="# Ezekiel 40:18 (New International Version)\nIt abutted the sides of the gateways and was as wide as they were long; this was the lower pavement.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

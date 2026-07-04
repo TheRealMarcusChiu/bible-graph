@@ -1,0 +1,1 @@
+(function(){var b="333b925068db",m="# Job 21:2 (New International Version)\n\"Listen carefully to my words;<sup>^A</sup>  \n    let this be the consolation you give me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-13-17|Job 13:17]]\n- B: [[Job-21-34|ver 34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

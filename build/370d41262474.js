@@ -1,0 +1,1 @@
+(function(){var b="370d41262474",m="# 1 Chronicles 6:30 (New International Version)\nShimea his son, Haggiah his son\nand Asaiah his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

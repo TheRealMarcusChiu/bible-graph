@@ -1,0 +1,1 @@
+(function(){var b="7367cfa0db5d",m="# Psalm 18:13 (New International Version)\nThe LORD thundered<sup>^A</sup> from heaven;  \n    the voice of the Most High resounded.\n\n### Crossrefs\n- A: S [[Exod-9-23|Ex 9:23]]; S [[1Sam-2-10|1Sa 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

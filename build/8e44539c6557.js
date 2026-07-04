@@ -1,0 +1,1 @@
+(function(){var b="8e44539c6557",m="# Proverbs 24:15 (New International Version)\nDo not lurk like a thief near the house of the righteous,  \n    do not plunder their dwelling place;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

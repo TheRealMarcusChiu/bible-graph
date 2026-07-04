@@ -1,0 +1,1 @@
+(function(){var b="f9db4b6e9c47",m="# Ezra 2:65 (New International Version)\nbesides their 7,337 male and female slaves; and they also had 200 male and female singers.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-19-35|2Sa 19:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

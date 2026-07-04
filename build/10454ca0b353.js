@@ -1,0 +1,1 @@
+(function(){var b="10454ca0b353",m="# Proverbs 8:26 (New International Version)\nbefore he made the world or its fields  \n    or any of the dust of the earth.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-90-2|Ps 90:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

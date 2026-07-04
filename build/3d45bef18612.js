@@ -1,0 +1,1 @@
+(function(){var b="3d45bef18612",m="# 2 Kings 3:10 (New International Version)\n\"What!\" exclaimed the king of Israel. \"Has the LORD called us three kings together only to deliver us into the hands of Moab?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

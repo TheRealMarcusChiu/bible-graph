@@ -1,0 +1,1 @@
+(function(){var b="13c0f40daa07",m="# Job 23:8 (New International Version)\n\"But if I go to the east, he is not there;  \n    if I go to the west, I do not find him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

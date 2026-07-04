@@ -1,0 +1,1 @@
+(function(){var b="b310635e139f",m="# Psalm 72:3 (New International Version)\nMay the mountains bring prosperity to the people,  \n    the hills the fruit of righteousness.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

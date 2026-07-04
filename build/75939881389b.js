@@ -1,0 +1,1 @@
+(function(){var b="75939881389b",m="# Psalm 81:16 (New International Version)\nBut you would be fed with the finest of wheat;<sup>^A</sup>  \n    with honey from the rock I would satisfy you.\"\n\n### Crossrefs\n- A: S [[Deut-32-14|Dt 32:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

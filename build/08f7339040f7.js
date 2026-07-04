@@ -1,0 +1,1 @@
+(function(){var b="08f7339040f7",m="# Ezra 4:18 (New International Version)\nThe letter you sent us has been read and translated in my presence.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

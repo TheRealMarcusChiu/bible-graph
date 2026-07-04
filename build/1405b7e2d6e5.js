@@ -1,0 +1,1 @@
+(function(){var b="1405b7e2d6e5",m="# Jeremiah 30:23 (New International Version)\nSee, the storm<sup>^A</sup> of the LORD  \n    will burst out in wrath,  \na driving wind swirling down  \n    on the heads of the wicked.\n\n### Crossrefs\n- A: S [[Jer-23-19|Jer 23:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

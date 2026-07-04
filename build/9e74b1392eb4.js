@@ -1,0 +1,1 @@
+(function(){var b="9e74b1392eb4",m="# Isaiah 10:10 (New International Version)\nAs my hand seized the kingdoms of the idols,<sup>^A</sup>  \n    kingdoms whose images excelled those of Jerusalem and Samaria--\n\n### Crossrefs\n- A: [[2Kgs-19-18|2Ki 19:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

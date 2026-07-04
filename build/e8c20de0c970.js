@@ -1,0 +1,1 @@
+(function(){var b="e8c20de0c970",m="# Psalm 3:1 (New International Version)\nPsalm 3\nLORD, how many are my foes!  \n    How many rise up against me!\n\n### Crossrefs\n- A: [[2Sam-15-14|2Sa 15:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

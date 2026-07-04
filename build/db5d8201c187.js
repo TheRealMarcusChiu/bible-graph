@@ -1,0 +1,1 @@
+(function(){var b="db5d8201c187",m="# Hosea 2:14 (New International Version)\n\"Therefore I am now going to allure her;  \n    I will lead her into the wilderness<sup>^A</sup>  \n    and speak tenderly to her.\n\n### Crossrefs\n- A: S [[Ezek-19-13|Eze 19:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

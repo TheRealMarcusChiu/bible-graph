@@ -1,0 +1,1 @@
+(function(){var b="7bd87e0d8f9a",m="# Ezekiel 45:2 (New International Version)\nOf this, a section 500 cubits square<sup>^A</sup> is to be for the sanctuary, with 50 cubits around it for open land. \n\n### Crossrefs\n- A: [[Ezek-42-20|Eze 42:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

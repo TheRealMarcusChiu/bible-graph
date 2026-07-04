@@ -1,0 +1,1 @@
+(function(){var b="b01cad64565a",m="# Ecclesiastes 5:17 (New International Version)\nAll their days they eat in darkness,  \n    with great frustration, affliction and anger.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

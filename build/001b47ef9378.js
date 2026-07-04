@@ -1,0 +1,1 @@
+(function(){var b="001b47ef9378",m="# Proverbs 24:24 (New International Version)\nWhoever says to the guilty, \"You are innocent,\"<sup>^A</sup>  \n    will be cursed by peoples and denounced by nations.\n\n### Crossrefs\n- A: S [[Prov-17-15|Pr 17:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

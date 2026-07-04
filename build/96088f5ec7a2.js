@@ -1,0 +1,1 @@
+(function(){var b="96088f5ec7a2",m="# Psalm 136:11 (New International Version)\nand brought Israel out<sup>^A</sup> from among them  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Exod-6-6|Ex 6:6]]; [[Exod-13-3|13:3]]; [[Ps-105-43|Ps 105:43]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

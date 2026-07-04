@@ -1,0 +1,1 @@
+(function(){var b="042dc929c876",m="# Psalm 83:16 (New International Version)\nCover their faces with shame,<sup>^A</sup> LORD,  \n    so that they will seek your name.\n\n### Crossrefs\n- A: S [[Ps-34-5|Ps 34:5]]; [[Ps-109-29|109:29]]; [[Ps-132-18|132:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

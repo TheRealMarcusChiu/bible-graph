@@ -1,0 +1,1 @@
+(function(){var b="6de27fbf37aa",m="# 1 Chronicles 7:8 (New International Version)\nThe sons of Beker:\nZemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth and Alemeth. All these were the sons of Beker.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

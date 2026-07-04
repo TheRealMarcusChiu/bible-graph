@@ -1,0 +1,1 @@
+(function(){var b="d1b2a487c9ca",m="# Hosea 8:3 (New International Version)\nBut Israel has rejected what is good;  \n    an enemy will pursue him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Matt-7-23|Mt 7:23]]; [[Titus-1-16|Tit 1:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

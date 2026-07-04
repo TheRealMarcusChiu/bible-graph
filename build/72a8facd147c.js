@@ -1,0 +1,1 @@
+(function(){var b="72a8facd147c",m="# Proverbs 29:9 (New International Version)\nIf a wise person goes to court with a fool,  \n    the fool rages and scoffs, and there is no peace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

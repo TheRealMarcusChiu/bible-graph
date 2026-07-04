@@ -1,0 +1,1 @@
+(function(){var b="a7b2f99b287a",m="# 2 Chronicles 5:6 (New International Version)\nand King Solomon and the entire assembly of Israel that had gathered about him were before the ark, sacrificing so many sheep and cattle that they could not be recorded or counted.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

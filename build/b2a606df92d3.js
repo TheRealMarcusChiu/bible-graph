@@ -1,0 +1,1 @@
+(function(){var b="b2a606df92d3",m="# Zechariah 1:5 (New International Version)\nWhere are your ancestors now? And the prophets, do they live forever?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

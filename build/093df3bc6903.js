@@ -1,0 +1,1 @@
+(function(){var b="093df3bc6903",m="# Psalm 62:1 (New International Version)\nPsalm 62\nTruly my soul finds rest<sup>^A</sup> in God;<sup>^B</sup>  \n    my salvation comes from him.\n\n### Crossrefs\n- A: S [[Ps-5-3|Ps 5:3]]\n- B: [[Ps-62-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

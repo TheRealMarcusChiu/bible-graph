@@ -1,0 +1,1 @@
+(function(){var b="be3fd77ffbbf",m="# Proverbs 16:24 (New International Version)\nGracious words are a honeycomb,<sup>^A</sup>  \n    sweet to the soul and healing to the bones.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Sam-14-27|1Sa 14:27]]\n- B: [[Prov-24-13|Pr 24:13-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="47f2224c4911",m="# Psalm 50:13 (New International Version)\nDo I eat the flesh of bulls  \n    or drink the blood of goats?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

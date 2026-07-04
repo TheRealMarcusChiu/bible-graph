@@ -1,0 +1,1 @@
+(function(){var b="03ef35f4cfa8",m="# Jeremiah 36:28 (New International Version)\n\"Take another scroll<sup>^A</sup> and write on it all the words that were on the first scroll, which Jehoiakim king of Judah burned up. \n\n### Crossrefs\n- A: [[Jer-36-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

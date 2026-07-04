@@ -1,0 +1,1 @@
+(function(){var b="a5de262fbbfe",m="# Jonah 1:13 (New International Version)\nInstead, the men did their best to row back to land. But they could not, for the sea grew even wilder than before.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Prov-21-30|Pr 21:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

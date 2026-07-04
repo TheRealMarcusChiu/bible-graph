@@ -1,0 +1,1 @@
+(function(){var b="0304ad6ec10a",m="# Job 38:12 (New International Version)\n\"Have you ever given orders to the morning,<sup>^A</sup>  \n    or shown the dawn its place,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-57-8|Ps 57:8]]\n- B: [[Ps-74-16|Ps 74:16]]; [[Amos-5-8|Am 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

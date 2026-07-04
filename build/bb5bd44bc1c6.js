@@ -1,0 +1,1 @@
+(function(){var b="bb5bd44bc1c6",m="# Ezekiel 12:10 (New International Version)\n\"Say to them, 'This is what the Sovereign LORD says: This prophecy concerns the prince in Jerusalem and all the Israelites who are there.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

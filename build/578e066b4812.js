@@ -1,0 +1,1 @@
+(function(){var b="578e066b4812",m="# Psalm 119:66 (New International Version)\nTeach me knowledge<sup>^A</sup> and good judgment,  \n    for I trust your commands.\n\n### Crossrefs\n- A: S [[Ps-51-6|Ps 51:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

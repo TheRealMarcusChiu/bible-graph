@@ -1,0 +1,1 @@
+(function(){var b="fffa41b6c6fb",m="# Proverbs 31:29 (New International Version)\n\"Many women do noble things,  \n    but you surpass them all.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

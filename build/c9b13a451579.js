@@ -1,0 +1,1 @@
+(function(){var b="c9b13a451579",m="# Psalm 78:64 (New International Version)\ntheir priests were put to the sword,<sup>^A</sup>  \n    and their widows could not weep.\n\n### Crossrefs\n- A: [[1Sam-4-17|1Sa 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

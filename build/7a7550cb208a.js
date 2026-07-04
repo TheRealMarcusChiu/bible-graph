@@ -1,0 +1,1 @@
+(function(){var b="7a7550cb208a",m="# Lamentations 3:27 (New International Version)\nIt is good for a man to bear the yoke  \n    while he is young.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c68c0bb63d89",m="# Proverbs 15:14 (New International Version)\nThe discerning heart seeks knowledge,<sup>^A</sup>  \n    but the mouth of a fool feeds on folly.\n\n### Crossrefs\n- A: [[Prov-18-15|Pr 18:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

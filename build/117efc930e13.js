@@ -1,0 +1,1 @@
+(function(){var b="117efc930e13",m="# Psalm 25:4 (New International Version)\nShow me your ways, LORD,  \n    teach me your paths.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-34-32|Job 34:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

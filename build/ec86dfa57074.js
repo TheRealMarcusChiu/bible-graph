@@ -1,0 +1,1 @@
+(function(){var b="ec86dfa57074",m="# Proverbs 26:6 (New International Version)\nSending a message by the hands of a fool<sup>^A</sup>  \n    is like cutting off one's feet or drinking poison.\n\n### Crossrefs\n- A: S [[Prov-10-26|Pr 10:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

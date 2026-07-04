@@ -1,0 +1,1 @@
+(function(){var b="5cf09c7a58a9",m="# Psalm 20:9 (New International Version)\nLORD, give victory to the king!  \n    Answer us<sup>^A</sup> when we call!\n\n### Crossrefs\n- A: [[Ps-17-6|Ps 17:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

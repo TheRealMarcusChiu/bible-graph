@@ -1,0 +1,1 @@
+(function(){var b="b23e726e8522",m="# Proverbs 21:19 (New International Version)\nBetter to live in a desert  \n    than with a quarrelsome and nagging wife.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-21-9|ver 9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

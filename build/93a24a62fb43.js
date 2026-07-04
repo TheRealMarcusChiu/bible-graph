@@ -1,0 +1,1 @@
+(function(){var b="93a24a62fb43",m="# Proverbs 25:8 (New International Version)\ndo not bring hastily to court,  \nfor what will you do in the end  \n    if your neighbor puts you to shame?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-5-25|Mt 5:25-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="47bc96a9fb1d",m="# Ezekiel 11:14 (New International Version)\nThe Promise of Israel's Return\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

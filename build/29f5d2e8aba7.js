@@ -1,0 +1,1 @@
+(function(){var b="29f5d2e8aba7",m="# Job 38:21 (New International Version)\nSurely you know, for you were already born!<sup>^A</sup>  \n    You have lived so many years!\n\n### Crossrefs\n- A: [[Job-15-7|Job 15:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8604b620716",m="# Jeremiah 11:9 (New International Version)\nThen the LORD said to me, \"There is a conspiracy<sup>^A</sup> among the people of Judah and those who live in Jerusalem. \n\n### Crossrefs\n- A: [[Ezek-22-25|Eze 22:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3d441bb7d921",m="# Psalm 16:1 (New International Version)\nPsalm 16\nKeep me safe,<sup>^A</sup> my God,  \n    for in you I take refuge.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-12-7|Ps 12:7]]\n- B: [[Ps-2-12|Ps 2:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

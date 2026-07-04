@@ -1,0 +1,1 @@
+(function(){var b="79436aa7dae5",m="# 1 Chronicles 7:39 (New International Version)\nThe sons of Ulla:\nArah, Hanniel and Rizia.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

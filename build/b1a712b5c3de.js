@@ -1,0 +1,1 @@
+(function(){var b="b1a712b5c3de",m="# Lamentations 4:7 (New International Version)\nTheir princes were brighter than snow  \n    and whiter than milk,  \ntheir bodies more ruddy than rubies,  \n    their appearance like lapis lazuli.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

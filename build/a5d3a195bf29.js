@@ -1,0 +1,1 @@
+(function(){var b="a5d3a195bf29",m="# Daniel 2:15 (New International Version)\nHe asked the king's officer, \"Why did the king issue such a harsh decree?\" Arioch then explained the matter to Daniel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

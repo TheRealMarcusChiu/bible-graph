@@ -1,0 +1,1 @@
+(function(){var b="155715714a71",m="# Esther 4:10 (New International Version)\nThen she instructed him to say to Mordecai,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

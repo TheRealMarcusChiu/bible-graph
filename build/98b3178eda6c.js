@@ -1,0 +1,1 @@
+(function(){var b="98b3178eda6c",m="# Proverbs 14:19 (New International Version)\nEvildoers will bow down in the presence of the good,  \n    and the wicked at the gates of the righteous.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-11-29|Pr 11:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

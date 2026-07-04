@@ -1,0 +1,1 @@
+(function(){var b="462e481157e5",m="# Lamentations 5:15 (New International Version)\nJoy is gone from our hearts;  \n    our dancing has turned to mourning.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Jer-25-10|Jer 25:10]]; [[Amos-8-10|Am 8:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fc4d16e0bdfc",m="# Song of Songs 2:4 (New International Version)\nLet him lead me to the banquet hall,<sup>^A</sup>  \n    and let his banner<sup>^B</sup> over me be love.\n\n### Crossrefs\n- A: [[Esth-1-11|Est 1:11]]\n- B: S [[Num-1-52|Nu 1:52]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

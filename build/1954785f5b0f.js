@@ -1,0 +1,1 @@
+(function(){var b="1954785f5b0f",m="# Jeremiah 13:15 (New International Version)\nThreat of Captivity\nHear and pay attention,  \n    do not be arrogant,  \n    for the LORD has spoken.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-23-21|Ex 23:21]]; [[Ps-95-7|Ps 95:7-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

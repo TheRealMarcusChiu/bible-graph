@@ -1,0 +1,1 @@
+(function(){var b="dbe5a5efe7d5",m="# Psalm 118:21 (New International Version)\nI will give you thanks, for you answered me;<sup>^A</sup>  \n    you have become my salvation.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-118-5|ver 5]]\n- B: [[Ps-27-1|Ps 27:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

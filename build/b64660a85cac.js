@@ -1,0 +1,1 @@
+(function(){var b="b64660a85cac",m="# 1 Chronicles 24:21 (New International Version)\nAs for Rehabiah,<sup>^A</sup> from his sons:\nIshiah was the first.\n\n### Crossrefs\n- A: [[1Chr-23-17|1Ch 23:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

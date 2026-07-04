@@ -1,0 +1,1 @@
+(function(){var b="3481d45ff6e0",m="# Psalm 60:10 (New International Version)\nIs it not you, God, you who have now rejected us  \n    and no longer go out with our armies?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-7-12|Jos 7:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6ec2114253d2",m="# 1 Chronicles 15:6 (New International Version)\nfrom the descendants of Merari,\nAsaiah the leader and 220 relatives;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

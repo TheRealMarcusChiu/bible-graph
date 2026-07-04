@@ -1,0 +1,1 @@
+(function(){var b="439bfde60929",m="# Daniel 4:29 (New International Version)\nTwelve months later, as the king was walking on the roof of the royal palace of Babylon,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="35c64b0ad34c",m="# Job 21:32 (New International Version)\nThey are carried to the grave,  \n    and watch is kept over their tombs.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-14-18|Isa 14:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

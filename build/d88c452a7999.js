@@ -1,0 +1,1 @@
+(function(){var b="d88c452a7999",m="# Jeremiah 6:2 (New International Version)\nI will destroy Daughter Zion,<sup>^A</sup>  \n    so beautiful and delicate.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-9-14|Ps 9:14]]\n- B: [[Lam-4-5|La 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aa08b87f0d89",m="# 1 Chronicles 7:13 (New International Version)\nNaphtali\nThe sons of Naphtali:<sup>^A</sup>\nJahziel, Guni, Jezer and Shillem--the descendants of Bilhah.\n\n### Crossrefs\n- A: S [[Gen-30-8|Ge 30:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

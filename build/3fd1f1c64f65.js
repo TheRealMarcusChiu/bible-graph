@@ -1,0 +1,1 @@
+(function(){var b="3fd1f1c64f65",m="# Psalm 38:17 (New International Version)\nFor I am about to fall,<sup>^A</sup>  \n    and my pain<sup>^B</sup> is ever with me.\n\n### Crossrefs\n- A: S [[Ps-37-24|Ps 37:24]]\n- B: [[Ps-38-7|ver 7]]; S [[Job-6-10|Job 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

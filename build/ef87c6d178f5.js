@@ -1,0 +1,1 @@
+(function(){var b="ef87c6d178f5",m="# Proverbs 27:16 (New International Version)\nrestraining her is like restraining the wind  \n    or grasping oil with the hand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="d4cadd9314d0",m="# 2 Kings 12:17 (New International Version)\nAbout this time Hazael<sup>^A</sup> king of Aram went up and attacked Gath and captured it. Then he turned to attack Jerusalem. \n\n### Crossrefs\n- A: [[2Kgs-8-12|2Ki 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

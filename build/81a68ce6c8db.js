@@ -1,0 +1,1 @@
+(function(){var b="81a68ce6c8db",m="# 1 Chronicles 7:6 (New International Version)\nBenjamin\nThree sons of Benjamin:<sup>^A</sup>\nBela, Beker and Jediael.\n\n### Crossrefs\n- A: S [[Num-26-38|Nu 26:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

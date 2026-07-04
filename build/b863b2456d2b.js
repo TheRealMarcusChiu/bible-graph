@@ -1,0 +1,1 @@
+(function(){var b="b863b2456d2b",m="# Ezekiel 16:23 (New International Version)\n\"'Woe!<sup>^A</sup> Woe to you, declares the Sovereign LORD. In addition to all your other wickedness, \n\n### Crossrefs\n- A: [[Ezek-24-6|Eze 24:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

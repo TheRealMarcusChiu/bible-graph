@@ -1,0 +1,1 @@
+(function(){var b="1003bba829ea",m="# Nehemiah 11:18 (New International Version)\nThe Levites in the holy city<sup>^A</sup> totaled 284.\n\n### Crossrefs\n- A: S [[Rev-21-2|Rev 21:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

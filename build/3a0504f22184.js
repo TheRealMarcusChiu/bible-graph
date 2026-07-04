@@ -1,0 +1,1 @@
+(function(){var b="3a0504f22184",m="# Daniel 2:8 (New International Version)\nThen the king answered, \"I am certain that you are trying to gain time, because you realize that this is what I have firmly decided:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

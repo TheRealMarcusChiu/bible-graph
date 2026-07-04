@@ -1,0 +1,1 @@
+(function(){var b="49a3146aad55",m="# Proverbs 23:19 (New International Version)\nListen, my son,<sup>^A</sup> and be wise,  \n    and set your heart on the right path:\n\n### Crossrefs\n- A: [[Deut-4-9|Dt 4:9]]; [[Prov-28-7|Pr 28:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

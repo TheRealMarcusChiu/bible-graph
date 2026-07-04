@@ -1,0 +1,1 @@
+(function(){var b="74f01dd8749a",m="# Jeremiah 46:15 (New International Version)\nWhy will your warriors be laid low?  \n    They cannot stand, for the LORD will push them down.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-23-5|Jos 23:5]]; [[Isa-66-15|Isa 66:15-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

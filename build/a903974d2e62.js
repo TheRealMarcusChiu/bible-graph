@@ -1,0 +1,1 @@
+(function(){var b="a903974d2e62",m="# Job 37:17 (New International Version)\nYou who swelter in your clothes  \n    when the land lies hushed under the south wind,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Acts-27-13|Ac 27:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

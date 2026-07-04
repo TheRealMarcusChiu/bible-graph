@@ -1,0 +1,1 @@
+(function(){var b="11508865813a",m="# Jeremiah 38:15 (New International Version)\nJeremiah said to Zedekiah, \"If I give you an answer, will you not kill me? Even if I did give you counsel, you would not listen to me.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="216e43a1c3b0",m="# 1 Chronicles 16:27 (New International Version)\nSplendor and majesty are before him;  \n    strength and joy are in his dwelling place.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

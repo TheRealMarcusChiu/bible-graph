@@ -1,0 +1,1 @@
+(function(){var b="c2e894ad738a",m="# Nehemiah 11:8 (New International Version)\nand his followers, Gabbai and Sallai--928 men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

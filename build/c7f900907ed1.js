@@ -1,0 +1,1 @@
+(function(){var b="c7f900907ed1",m="# 2 Kings 23:22 (New International Version)\nNeither in the days of the judges who led Israel nor in the days of the kings of Israel and the kings of Judah had any such Passover been observed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

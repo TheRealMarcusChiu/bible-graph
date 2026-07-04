@@ -1,0 +1,1 @@
+(function(){var b="d934335e6bba",m="# 1 Chronicles 1:27 (New International Version)\nand Abram (that is, Abraham).";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3c9aa047ecd8",m="# 2 Chronicles 35:2 (New International Version)\nHe appointed the priests to their duties and encouraged them in the service of the LORD's temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

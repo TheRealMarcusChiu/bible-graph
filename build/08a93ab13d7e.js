@@ -1,0 +1,1 @@
+(function(){var b="08a93ab13d7e",m="# Nehemiah 11:32 (New International Version)\nin Anathoth,<sup>^A</sup> Nob<sup>^B</sup> and Ananiah, \n\n### Crossrefs\n- A: [[Josh-21-18|Jos 21:18]]; [[Isa-10-30|Isa 10:30]]; [[Jer-1-1|Jer 1:1]]\n- B: S [[1Sam-21-1|1Sa 21:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

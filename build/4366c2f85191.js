@@ -1,0 +1,1 @@
+(function(){var b="4366c2f85191",m="# Jeremiah 28:10 (New International Version)\nThen the prophet Hananiah took the yoke<sup>^A</sup> off the neck of the prophet Jeremiah and broke it, \n\n### Crossrefs\n- A: S [[Lev-26-13|Lev 26:13]]; S [[1Kgs-22-11|1Ki 22:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

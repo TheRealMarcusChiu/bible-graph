@@ -1,0 +1,1 @@
+(function(){var b="a9c14c93d880",m="# Psalm 143:9 (New International Version)\nRescue me<sup>^A</sup> from my enemies,<sup>^B</sup> LORD,  \n    for I hide myself in you.\n\n### Crossrefs\n- A: S [[Ps-140-1|Ps 140:1]]\n- B: S [[Ps-18-17|Ps 18:17]]; [[Ps-31-15|31:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="34669d65af7c",m="# Daniel 2:17 (New International Version)\nThen Daniel returned to his house and explained the matter to his friends Hananiah, Mishael and Azariah.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Dan-1-6|Da 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

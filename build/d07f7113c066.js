@@ -1,0 +1,1 @@
+(function(){var b="d07f7113c066",m="# 1 Chronicles 6:5 (New International Version)\nAbishua the father of Bukki,\nBukki the father of Uzzi,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

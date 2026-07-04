@@ -1,0 +1,1 @@
+(function(){var b="b159a7a9b653",m="# 1 Chronicles 2:17 (New International Version)\nAbigail was the mother of Amasa,<sup>^A</sup> whose father was Jether the Ishmaelite.\n\n### Crossrefs\n- A: [[2Sam-17-25|2Sa 17:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

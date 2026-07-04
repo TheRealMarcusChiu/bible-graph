@@ -1,0 +1,1 @@
+(function(){var b="e3c151990f13",m="# Psalm 7:16 (New International Version)\nThe trouble they cause recoils on them;  \n    their violence comes down on their own heads.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

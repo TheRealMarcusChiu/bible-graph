@@ -1,0 +1,1 @@
+(function(){var b="4343504b64ba",m="# Proverbs 7:12 (New International Version)\nnow in the street, now in the squares,  \n    at every corner she lurks.)<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-8-1|Pr 8:1-36]]; [[Prov-23-26|23:26-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7a9640d6387a",m="# 2 Kings 24:10 (New International Version)\nAt that time the officers of Nebuchadnezzar<sup>^A</sup> king of Babylon advanced on Jerusalem and laid siege to it, \n\n### Crossrefs\n- A: S [[2Kgs-24-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

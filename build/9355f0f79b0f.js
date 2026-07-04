@@ -1,0 +1,1 @@
+(function(){var b="9355f0f79b0f",m="# Ecclesiastes 10:3 (New International Version)\nEven as fools walk along the road,  \n    they lack sense  \n    and show everyone<sup>^A</sup> how stupid they are.\n\n### Crossrefs\n- A: [[Prov-13-16|Pr 13:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

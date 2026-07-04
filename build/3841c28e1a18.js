@@ -1,0 +1,1 @@
+(function(){var b="3841c28e1a18",m="# Psalm 92:14 (New International Version)\nThey will still bear fruit<sup>^A</sup> in old age,  \n    they will stay fresh and green,\n\n### Crossrefs\n- A: S [[Ps-1-3|Ps 1:3]]; S [[John-15-2|Jn 15:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

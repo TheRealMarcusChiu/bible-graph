@@ -1,0 +1,1 @@
+(function(){var b="5d8f916f49a0",m="# Jeremiah 9:17 (New International Version)\nThis is what the LORD Almighty says:\n\"Consider now! Call for the wailing women<sup>^A</sup> to come;  \n    send for the most skillful of them.\n\n### Crossrefs\n- A: S [[Eccl-12-5|Ecc 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

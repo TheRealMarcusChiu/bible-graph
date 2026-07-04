@@ -1,0 +1,1 @@
+(function(){var b="06dc71226a95",m="# Daniel 2:43 (New International Version)\nAnd just as you saw the iron mixed with baked clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

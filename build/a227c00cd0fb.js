@@ -1,0 +1,1 @@
+(function(){var b="a227c00cd0fb",m="# 2 Kings 4:44 (New International Version)\nThen he set it before them, and they ate and had some left over, according to the word of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

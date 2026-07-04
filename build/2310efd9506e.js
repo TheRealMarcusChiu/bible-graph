@@ -1,0 +1,1 @@
+(function(){var b="2310efd9506e",m="# 1 Chronicles 12:34 (New International Version)\nfrom Naphtali--1,000 officers, together with 37,000 men carrying shields and spears;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

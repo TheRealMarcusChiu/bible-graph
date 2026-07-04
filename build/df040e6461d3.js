@@ -1,0 +1,1 @@
+(function(){var b="df040e6461d3",m="# Proverbs 15:19 (New International Version)\nThe way of the sluggard is blocked with thorns,<sup>^A</sup>  \n    but the path of the upright is a highway.\n\n### Crossrefs\n- A: [[Prov-22-5|Pr 22:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

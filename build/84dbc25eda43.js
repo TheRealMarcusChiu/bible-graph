@@ -1,0 +1,1 @@
+(function(){var b="84dbc25eda43",m="# Proverbs 12:20 (New International Version)\nDeceit is in the hearts of those who plot evil,  \n    but those who promote peace have joy.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Rom-14-19|Ro 14:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

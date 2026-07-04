@@ -1,0 +1,1 @@
+(function(){var b="6cec25c04ac4",m="# 1 Chronicles 15:9 (New International Version)\nfrom the descendants of Hebron,<sup>^A</sup>\nEliel the leader and 80 relatives;\n\n### Crossrefs\n- A: [[Exod-6-18|Ex 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

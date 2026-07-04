@@ -1,0 +1,1 @@
+(function(){var b="fdc9d7308188",m="# Ezra 6:7 (New International Version)\nDo not interfere with the work on this temple of God. Let the governor of the Jews and the Jewish elders rebuild this house of God on its site.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

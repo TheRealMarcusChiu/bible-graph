@@ -1,0 +1,1 @@
+(function(){var b="0453b286d761",m="# Psalm 119:107 (New International Version)\nI have suffered much;  \n    preserve my life,<sup>^A</sup> LORD, according to your word.\n\n### Crossrefs\n- A: S [[Ps-119-25|ver 25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

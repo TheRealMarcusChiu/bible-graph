@@ -1,0 +1,1 @@
+(function(){var b="ea7b43b462c3",m="# 2 Chronicles 3:4 (New International Version)\nThe portico at the front of the temple was twenty cubits long across the width of the building and twenty cubits high.\nHe overlaid the inside with pure gold.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="41f8e6322880",m="# Proverbs 13:9 (New International Version)\nThe light of the righteous shines brightly,  \n    but the lamp of the wicked is snuffed out.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-18-5|Job 18:5]]; S [[Prov-4-18|Pr 4:18-19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

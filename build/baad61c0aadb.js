@@ -1,0 +1,1 @@
+(function(){var b="baad61c0aadb",m="# Psalm 23:2 (New International Version)\nHe makes me lie down in green pastures,  \nhe leads me beside quiet waters,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-36-8|Ps 36:8]]; [[Ps-46-4|46:4]]; [[Rev-7-17|Rev 7:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

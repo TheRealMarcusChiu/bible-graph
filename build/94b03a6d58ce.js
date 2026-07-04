@@ -1,0 +1,1 @@
+(function(){var b="94b03a6d58ce",m="# 1 Chronicles 29:13 (New International Version)\nNow, our God, we give you thanks,  \n    and praise your glorious name.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

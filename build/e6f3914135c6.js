@@ -1,0 +1,1 @@
+(function(){var b="e6f3914135c6",m="# 2 Kings 4:30 (New International Version)\nBut the child's mother said, \"As surely as the LORD lives and as you live, I will not leave you.\" So he got up and followed her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

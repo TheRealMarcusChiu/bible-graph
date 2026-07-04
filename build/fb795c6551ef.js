@@ -1,0 +1,1 @@
+(function(){var b="fb795c6551ef",m="# Proverbs 28:5 (New International Version)\nEvildoers do not understand what is right,  \n    but those who seek the LORD understand it fully.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

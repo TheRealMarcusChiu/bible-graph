@@ -1,0 +1,1 @@
+(function(){var b="e02012e1abe5",m="# Jeremiah 18:19 (New International Version)\nListen to me, LORD;  \n    hear what my accusers<sup>^A</sup> are saying!\n\n### Crossrefs\n- A: [[Ps-71-13|Ps 71:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

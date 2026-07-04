@@ -1,0 +1,1 @@
+(function(){var b="aec030b67a86",m="# Jeremiah 41:14 (New International Version)\nAll the people Ishmael had taken captive at Mizpah<sup>^A</sup> turned and went over to Johanan son of Kareah. \n\n### Crossrefs\n- A: [[Jer-40-6|Jer 40:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

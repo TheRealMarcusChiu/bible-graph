@@ -1,0 +1,1 @@
+(function(){var b="5d769f1c33a6",m="# 1 Chronicles 6:51 (New International Version)\nBukki his son,\nUzzi his son, Zerahiah his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

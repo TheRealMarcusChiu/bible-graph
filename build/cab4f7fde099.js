@@ -1,0 +1,1 @@
+(function(){var b="cab4f7fde099",m="# 2 Kings 21:5 (New International Version)\nIn the two courts<sup>^A</sup> of the temple of the LORD, he built altars to all the starry hosts. \n\n### Crossrefs\n- A: [[1Kgs-7-12|1Ki 7:12]]; [[2Kgs-23-12|2Ki 23:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

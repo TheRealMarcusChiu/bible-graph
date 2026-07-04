@@ -1,0 +1,1 @@
+(function(){var b="8b2ee1d0f288",m="# Psalm 72:20 (New International Version)\nThis concludes the prayers of David son of Jesse.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ruth-4-17|Ru 4:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

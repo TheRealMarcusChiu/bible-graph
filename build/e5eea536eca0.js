@@ -1,0 +1,1 @@
+(function(){var b="e5eea536eca0",m="# Jeremiah 29:20 (New International Version)\nTherefore, hear the word of the LORD, all you exiles whom I have sent<sup>^A</sup> away from Jerusalem to Babylon. \n\n### Crossrefs\n- A: S [[Jer-24-5|Jer 24:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

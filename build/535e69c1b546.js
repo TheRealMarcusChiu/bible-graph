@@ -1,0 +1,1 @@
+(function(){var b="535e69c1b546",m="# Psalm 148:12 (New International Version)\nyoung men and women,  \n    old men and children.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

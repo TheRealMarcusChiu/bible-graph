@@ -1,0 +1,1 @@
+(function(){var b="e8db81f6fa6d",m="# 2 Kings 17:33 (New International Version)\nThey worshiped the LORD, but they also served their own gods in accordance with the customs of the nations from which they had been brought.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

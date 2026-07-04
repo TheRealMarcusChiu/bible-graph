@@ -1,0 +1,1 @@
+(function(){var b="565ca1398a15",m="# Proverbs 3:25 (New International Version)\nHave no fear of sudden disaster  \n    or of the ruin that overtakes the wicked,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

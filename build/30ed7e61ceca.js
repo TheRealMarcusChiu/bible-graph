@@ -1,0 +1,1 @@
+(function(){var b="30ed7e61ceca",m="# Proverbs 1:23 (New International Version)\nRepent at my rebuke!  \n    Then I will pour out my thoughts to you,  \n    I will make known to you my teachings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

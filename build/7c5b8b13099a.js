@@ -1,0 +1,1 @@
+(function(){var b="7c5b8b13099a",m="# 1 Chronicles 1:31 (New International Version)\nJetur, Naphish and Kedemah. These were the sons of Ishmael.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

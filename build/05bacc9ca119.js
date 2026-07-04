@@ -1,0 +1,1 @@
+(function(){var b="05bacc9ca119",m="# Song of Songs 3:2 (New International Version)\nI will get up now and go about the city,  \n    through its streets and squares;  \nI will search for the one my heart loves.  \n    So I looked for him but did not find him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

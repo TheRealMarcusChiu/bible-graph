@@ -1,0 +1,1 @@
+(function(){var b="71a1ffb993b0",m="# 2 Kings 19:5 (New International Version)\nWhen King Hezekiah's officials came to Isaiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

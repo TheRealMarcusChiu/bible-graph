@@ -1,0 +1,1 @@
+(function(){var b="d791650faae1",m="# Psalm 51:9 (New International Version)\nHide your face from my sins<sup>^A</sup>  \n    and blot out<sup>^B</sup> all my iniquity.\n\n### Crossrefs\n- A: [[Jer-16-17|Jer 16:17]]; [[Zech-4-10|Zec 4:10]]\n- B: S [[2Sam-12-13|2Sa 12:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

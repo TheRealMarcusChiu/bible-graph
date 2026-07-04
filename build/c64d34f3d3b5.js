@@ -1,0 +1,1 @@
+(function(){var b="c64d34f3d3b5",m="# Jeremiah 49:25 (New International Version)\nWhy has the city of renown not been abandoned,  \n    the town in which I delight?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

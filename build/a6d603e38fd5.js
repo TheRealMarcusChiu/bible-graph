@@ -1,0 +1,1 @@
+(function(){var b="a6d603e38fd5",m="# Psalm 58:1 (New International Version)\nPsalm 58\nDo you rulers indeed speak justly?<sup>^A</sup>  \n    Do you judge people with equity?\n\n### Crossrefs\n- A: [[Ps-82-2|Ps 82:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

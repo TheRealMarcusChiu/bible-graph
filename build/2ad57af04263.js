@@ -1,0 +1,1 @@
+(function(){var b="2ad57af04263",m="# 1 Chronicles 2:26 (New International Version)\nJerahmeel had another wife, whose name was Atarah; she was the mother of Onam.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

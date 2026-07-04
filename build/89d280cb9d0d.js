@@ -1,0 +1,1 @@
+(function(){var b="89d280cb9d0d",m="# 2 Kings 3:12 (New International Version)\nJehoshaphat said, \"The word<sup>^A</sup> of the LORD is with him.\" So the king of Israel and Jehoshaphat and the king of Edom went down to him.\n\n### Crossrefs\n- A: S [[Num-11-17|Nu 11:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

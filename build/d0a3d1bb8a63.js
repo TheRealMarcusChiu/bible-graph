@@ -1,0 +1,1 @@
+(function(){var b="d0a3d1bb8a63",m="# 2 Chronicles 9:11 (New International Version)\nThe king used the algumwood to make steps for the temple of the LORD and for the royal palace, and to make harps and lyres for the musicians. Nothing like them had ever been seen in Judah.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

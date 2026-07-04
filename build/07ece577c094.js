@@ -1,0 +1,1 @@
+(function(){var b="07ece577c094",m="# Song of Songs 3:7 (New International Version)\nLook! It is Solomon's carriage,  \n    escorted by sixty warriors,<sup>^A</sup>  \n    the noblest of Israel,\n\n### Crossrefs\n- A: S [[1Sam-8-11|1Sa 8:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="603c00bcf990",m="# Ezekiel 27:28 (New International Version)\nThe shorelands will quake<sup>^A</sup>  \n    when your sailors cry out.\n\n### Crossrefs\n- A: S [[Jer-49-21|Jer 49:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

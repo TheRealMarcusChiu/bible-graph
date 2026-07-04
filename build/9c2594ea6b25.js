@@ -1,0 +1,1 @@
+(function(){var b="9c2594ea6b25",m="# Proverbs 4:21 (New International Version)\nDo not let them out of your sight,<sup>^A</sup>  \n    keep them within your heart;\n\n### Crossrefs\n- A: [[Prov-3-21|Pr 3:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

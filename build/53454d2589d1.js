@@ -1,0 +1,1 @@
+(function(){var b="53454d2589d1",m="# Proverbs 31:8 (New International Version)\nSpeak<sup>^A</sup> up for those who cannot speak for themselves,  \n    for the rights of all who are destitute.\n\n### Crossrefs\n- A: S [[1Sam-19-4|1Sa 19:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="e9d8742c9545",m="# Nehemiah 4:12 (New International Version)\nThen the Jews who lived near them came and told us ten times over, \"Wherever you turn, they will attack us.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

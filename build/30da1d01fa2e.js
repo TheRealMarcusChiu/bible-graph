@@ -1,0 +1,1 @@
+(function(){var b="30da1d01fa2e",m="# Proverbs 30:3 (New International Version)\nI have not learned wisdom,  \n    nor have I attained to the knowledge of the Holy One.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-9-10|Pr 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

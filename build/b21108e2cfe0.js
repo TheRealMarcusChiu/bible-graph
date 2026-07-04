@@ -1,0 +1,1 @@
+(function(){var b="b21108e2cfe0",m="# Psalm 88:7 (New International Version)\nYour wrath<sup>^A</sup> lies heavily on me;  \n    you have overwhelmed me with all your waves.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-7-11|Ps 7:11]]\n- B: S [[Ps-42-7|Ps 42:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

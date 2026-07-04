@@ -1,0 +1,1 @@
+(function(){var b="53dc01af6499",m="# Psalm 69:33 (New International Version)\nThe LORD hears the needy<sup>^A</sup>  \n    and does not despise his captive people.\n\n### Crossrefs\n- A: [[Ps-12-5|Ps 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

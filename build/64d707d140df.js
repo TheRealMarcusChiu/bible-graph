@@ -1,0 +1,1 @@
+(function(){var b="64d707d140df",m="# Jeremiah 42:7 (New International Version)\nTen days later the word of the LORD came to Jeremiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="61ee3d28fdb8",m="# Psalm 140:8 (New International Version)\nDo not grant the wicked<sup>^A</sup> their desires, LORD;  \n    do not let their plans succeed.\n\n### Crossrefs\n- A: [[Ps-10-2|Ps 10:2-3]]; S [[Ps-66-7|66:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

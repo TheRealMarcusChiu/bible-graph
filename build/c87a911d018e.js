@@ -1,0 +1,1 @@
+(function(){var b="c87a911d018e",m="# Esther 2:13 (New International Version)\nAnd this is how she would go to the king: Anything she wanted was given her to take with her from the harem to the king's palace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

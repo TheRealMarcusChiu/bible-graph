@@ -1,0 +1,1 @@
+(function(){var b="dd854c87a8a0",m="# Daniel 2:32 (New International Version)\nThe head of the statue was made of pure gold, its chest and arms of silver, its belly and thighs of bronze,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

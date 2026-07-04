@@ -1,0 +1,1 @@
+(function(){var b="e3da6ec504a8",m="# Ezra 8:24 (New International Version)\nThen I set apart twelve of the leading priests, namely, Sherebiah,<sup>^A</sup> Hashabiah and ten of their brothers, \n\n### Crossrefs\n- A: [[Ezra-8-18|ver 18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

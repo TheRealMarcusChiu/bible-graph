@@ -1,0 +1,1 @@
+(function(){var b="7d4e6e9f6f80",m="# Ezra 10:42 (New International Version)\nShallum, Amariah and Joseph.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

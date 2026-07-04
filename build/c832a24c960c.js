@@ -1,0 +1,1 @@
+(function(){var b="c832a24c960c",m="# Job 8:1 (New International Version)\nBildad\nThen Bildad the Shuhite<sup>^A</sup> replied:\n\n### Crossrefs\n- A: S [[Gen-25-2|Ge 25:2]]; [[Job-18-1|Job 18:1]]; [[Job-25-1|25:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

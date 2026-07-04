@@ -1,0 +1,1 @@
+(function(){var b="b2d5b2a8699a",m="# Psalm 30:2 (New International Version)\nLORD my God, I called to you for help,<sup>^A</sup>  \n    and you healed me.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-5-2|Ps 5:2]]; [[Ps-88-13|88:13]]\n- B: S [[Num-12-13|Nu 12:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

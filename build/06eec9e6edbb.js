@@ -1,0 +1,1 @@
+(function(){var b="06eec9e6edbb",m="# Proverbs 23:9 (New International Version)\nDo not speak to fools,  \n    for they will scorn your prudent words.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-9-7|Pr 9:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="adb8aa28f8f3",m="# Psalm 135:13 (New International Version)\nYour name, LORD, endures forever,<sup>^A</sup>  \n    your renown,<sup>^B</sup> LORD, through all generations.\n\n### Crossrefs\n- A: S [[Exod-3-15|Ex 3:15]]\n- B: S [[Ps-102-12|Ps 102:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

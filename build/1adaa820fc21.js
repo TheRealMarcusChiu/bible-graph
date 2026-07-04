@@ -1,0 +1,1 @@
+(function(){var b="1adaa820fc21",m="# Proverbs 27:6 (New International Version)\nWounds from a friend can be trusted,  \n    but an enemy multiplies kisses.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-141-5|Ps 141:5]]; [[Prov-28-23|Pr 28:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

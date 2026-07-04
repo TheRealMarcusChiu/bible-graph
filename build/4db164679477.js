@@ -1,0 +1,1 @@
+(function(){var b="4db164679477",m="# Psalm 78:28 (New International Version)\nHe made them come down inside their camp,  \n    all around their tents.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

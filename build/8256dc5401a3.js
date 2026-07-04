@@ -1,0 +1,1 @@
+(function(){var b="8256dc5401a3",m="# Psalm 17:11 (New International Version)\nThey have tracked me down, they now surround me,<sup>^A</sup>  \n    with eyes alert, to throw me to the ground.\n\n### Crossrefs\n- A: [[Ps-88-17|Ps 88:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

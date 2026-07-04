@@ -1,0 +1,1 @@
+(function(){var b="7bf06c2a42e9",m="# Ezekiel 3:8 (New International Version)\nBut I will make you as unyielding and hardened as they are.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-1-18|Jer 1:18]]; S [[Jer-15-20|15:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

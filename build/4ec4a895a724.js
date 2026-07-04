@@ -1,0 +1,1 @@
+(function(){var b="4ec4a895a724",m="# Psalm 51:3 (New International Version)\nFor I know my transgressions,  \n    and my sin is always before me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-59-12|Isa 59:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

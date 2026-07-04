@@ -1,0 +1,1 @@
+(function(){var b="c39cae79e28e",m="# Job 13:17 (New International Version)\nListen carefully to what I say;<sup>^A</sup>  \n    let my words ring in your ears.\n\n### Crossrefs\n- A: [[Job-21-2|Job 21:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

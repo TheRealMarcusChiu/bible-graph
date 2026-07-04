@@ -1,0 +1,1 @@
+(function(){var b="8b115b066fec",m="# 2 Kings 5:21 (New International Version)\nSo Gehazi hurried after Naaman. When Naaman saw him running toward him, he got down from the chariot to meet him. \"Is everything all right?\" he asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

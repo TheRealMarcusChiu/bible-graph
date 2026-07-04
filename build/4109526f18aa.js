@@ -1,0 +1,1 @@
+(function(){var b="4109526f18aa",m="# Job 6:13 (New International Version)\nDo I have any power to help myself,<sup>^A</sup>  \n    now that success has been driven from me?\n\n### Crossrefs\n- A: [[Job-26-2|Job 26:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

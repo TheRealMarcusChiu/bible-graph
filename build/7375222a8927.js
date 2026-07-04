@@ -1,0 +1,1 @@
+(function(){var b="7375222a8927",m="# 1 Chronicles 6:13 (New International Version)\nShallum the father of Hilkiah,<sup>^A</sup>\nHilkiah the father of Azariah,\n\n### Crossrefs\n- A: [[2Kgs-22-1|2Ki 22:1-20]]; [[2Chr-34-9|2Ch 34:9]]; [[2Chr-35-8|35:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b52907dc6b27",m="# Zechariah 9:17 (New International Version)\nHow attractive and beautiful they will be!  \n    Grain will make the young men thrive,  \n    and new wine the young women.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

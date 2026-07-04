@@ -1,0 +1,1 @@
+(function(){var b="690072446994",m="# Psalm 89:30 (New International Version)\n\"If his sons forsake my law  \n    and do not follow my statutes,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

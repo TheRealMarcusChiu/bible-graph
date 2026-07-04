@@ -1,0 +1,1 @@
+(function(){var b="e51f32886f25",m="# Proverbs 31:28 (New International Version)\nHer children arise and call her blessed;  \n    her husband also, and he praises her:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

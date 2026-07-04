@@ -1,0 +1,1 @@
+(function(){var b="5c00fbad87bc",m="# Ezra 10:31 (New International Version)\nFrom the descendants of Harim:\nEliezer, Ishijah, Malkijah, Shemaiah, Shimeon,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

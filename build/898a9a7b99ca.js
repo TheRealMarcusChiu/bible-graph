@@ -1,0 +1,1 @@
+(function(){var b="898a9a7b99ca",m="# Job 29:22 (New International Version)\nAfter I had spoken, they spoke no more;<sup>^A</sup>  \n    my words fell gently on their ears.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-29-10|ver 10]]\n- B: [[Deut-32-2|Dt 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

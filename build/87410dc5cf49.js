@@ -1,0 +1,1 @@
+(function(){var b="87410dc5cf49",m="# 1 Chronicles 9:6 (New International Version)\nOf the Zerahites:\nJeuel.\nThe people from Judah numbered 690.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

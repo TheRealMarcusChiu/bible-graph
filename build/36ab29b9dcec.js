@@ -1,0 +1,1 @@
+(function(){var b="36ab29b9dcec",m="# Jeremiah 37:11 (New International Version)\nAfter the Babylonian army had withdrawn<sup>^A</sup> from Jerusalem because of Pharaoh's army, \n\n### Crossrefs\n- A: [[Jer-37-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9286ea73a489",m="# Nehemiah 4:17 (New International Version)\nwho were building the wall. Those who carried materials did their work with one hand and held a weapon<sup>^A</sup> in the other, \n\n### Crossrefs\n- A: [[Ps-149-6|Ps 149:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

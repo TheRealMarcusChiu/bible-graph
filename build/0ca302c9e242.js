@@ -1,0 +1,1 @@
+(function(){var b="0ca302c9e242",m="# 2 Chronicles 31:18 (New International Version)\nThey included all the little ones, the wives, and the sons and daughters of the whole community listed in these genealogical records. For they were faithful in consecrating themselves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

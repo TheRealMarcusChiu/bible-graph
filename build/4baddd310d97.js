@@ -1,0 +1,1 @@
+(function(){var b="4baddd310d97",m="# Ecclesiastes 11:7 (New International Version)\nRemember Your Creator While Young\nLight is sweet,  \n    and it pleases the eyes to see the sun.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Eccl-7-11|Ecc 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

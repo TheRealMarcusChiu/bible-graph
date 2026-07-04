@@ -1,0 +1,1 @@
+(function(){var b="4be19b5fa3ff",m="# 2 Chronicles 28:11 (New International Version)\nNow listen to me! Send back your fellow Israelites you have taken as prisoners, for the LORD's fierce anger rests on you.<sup>^A</sup>\"\n\n### Crossrefs\n- A: [[2Chr-11-4|2Ch 11:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

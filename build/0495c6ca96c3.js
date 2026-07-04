@@ -1,0 +1,1 @@
+(function(){var b="0495c6ca96c3",m="# Proverbs 10:29 (New International Version)\nThe way of the LORD is a refuge for the blameless,  \n    but it is the ruin of those who do evil.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-21-15|Pr 21:15]]; [[Hos-14-9|Hos 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

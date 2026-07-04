@@ -1,0 +1,1 @@
+(function(){var b="21959243a5fd",m="# Psalm 88:17 (New International Version)\nAll day long they surround me like a flood;<sup>^A</sup>  \n    they have completely engulfed me.\n\n### Crossrefs\n- A: [[Ps-124-4|Ps 124:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5795718ac7a3",m="# Jeremiah 26:22 (New International Version)\nKing Jehoiakim, however, sent Elnathan<sup>^A</sup> son of Akbor to Egypt, along with some other men. \n\n### Crossrefs\n- A: [[Jer-36-12|Jer 36:12]], [[Jer-36-25|25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="85d36382b177",m="# 2 Kings 4:9 (New International Version)\nShe said to her husband, \"I know that this man who often comes our way is a holy man of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

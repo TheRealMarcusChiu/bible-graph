@@ -1,0 +1,1 @@
+(function(){var b="acb1cf9d5aad",m="# Psalm 69:11 (New International Version)\nwhen I put on sackcloth,<sup>^A</sup>  \n    people make sport of me.\n\n### Crossrefs\n- A: S [[2Sam-3-31|2Sa 3:31]]; S [[Ps-35-13|Ps 35:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

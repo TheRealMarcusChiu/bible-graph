@@ -1,0 +1,1 @@
+(function(){var b="35d3e622a783",m="# Proverbs 3:30 (New International Version)\nDo not accuse anyone for no reason--  \n    when they have done you no harm.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

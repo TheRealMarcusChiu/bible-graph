@@ -1,0 +1,1 @@
+(function(){var b="e9321be6e4d6",m="# Ezekiel 37:8 (New International Version)\nI looked, and tendons and flesh appeared on them and skin covered them, but there was no breath in them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

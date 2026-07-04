@@ -1,0 +1,1 @@
+(function(){var b="48a459b0902d",m="# Proverbs 27:26 (New International Version)\nthe lambs will provide you with clothing,  \n    and the goats with the price of a field.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

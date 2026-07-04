@@ -1,0 +1,1 @@
+(function(){var b="ee5153d109df",m="# 1 Chronicles 24:2 (New International Version)\nBut Nadab and Abihu died before their father did,<sup>^A</sup> and they had no sons; so Eleazar and Ithamar served as the priests. \n\n### Crossrefs\n- A: [[Lev-10-1|Lev 10:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

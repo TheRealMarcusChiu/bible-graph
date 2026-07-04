@@ -1,0 +1,1 @@
+(function(){var b="4b7507f49c65",m="# Proverbs 24:22 (New International Version)\nfor those two will send sudden destruction<sup>^A</sup> on them,  \n    and who knows what calamities they can bring?\n\n### Crossrefs\n- A: S [[Ps-73-19|Ps 73:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

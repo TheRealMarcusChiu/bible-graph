@@ -1,0 +1,1 @@
+(function(){var b="6c07581e9ad9",m="# Job 38:28 (New International Version)\nDoes the rain have a father?<sup>^A</sup>  \n    Who fathers the drops of dew?\n\n### Crossrefs\n- A: S [[2Sam-1-21|2Sa 1:21]]; S [[Job-5-10|Job 5:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

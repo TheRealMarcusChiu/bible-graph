@@ -1,0 +1,1 @@
+(function(){var b="a8db95fc5584",m="# 1 Chronicles 11:7 (New International Version)\nDavid then took up residence in the fortress, and so it was called the City of David.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

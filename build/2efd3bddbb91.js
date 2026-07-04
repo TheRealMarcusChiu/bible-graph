@@ -1,0 +1,1 @@
+(function(){var b="2efd3bddbb91",m="# Haggai 1:5 (New International Version)\nNow this is what the LORD Almighty says: \"Give careful thought<sup>^A</sup> to your ways. \n\n### Crossrefs\n- A: [[Hag-1-7|ver 7]]; [[Lam-3-40|La 3:40]]; [[Hag-2-15|Hag 2:15]], [[Hag-2-18|18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

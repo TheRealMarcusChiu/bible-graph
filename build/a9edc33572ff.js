@@ -1,0 +1,1 @@
+(function(){var b="a9edc33572ff",m="# Job 42:4 (New International Version)\n\"You said, 'Listen now, and I will speak;  \n    I will question you,  \n    and you shall answer me.'<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-38-3|Job 38:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

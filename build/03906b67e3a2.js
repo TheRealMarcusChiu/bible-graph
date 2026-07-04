@@ -1,0 +1,1 @@
+(function(){var b="03906b67e3a2",m="# Psalm 116:12 (New International Version)\nWhat shall I return to the LORD  \n    for all his goodness<sup>^A</sup> to me?\n\n### Crossrefs\n- A: [[Ps-103-2|Ps 103:2]]; [[Ps-106-1|106:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

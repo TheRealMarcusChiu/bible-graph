@@ -1,0 +1,1 @@
+(function(){var b="71cccf52b084",m="# Proverbs 5:13 (New International Version)\nI would not obey my teachers  \n    or turn my ear to my instructors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

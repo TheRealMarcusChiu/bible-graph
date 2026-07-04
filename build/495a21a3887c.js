@@ -1,0 +1,1 @@
+(function(){var b="495a21a3887c",m="# 1 Chronicles 1:23 (New International Version)\nOphir, Havilah and Jobab. All these were sons of Joktan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3a66704a48ae",m="# 1 Chronicles 19:4 (New International Version)\nSo Hanun seized David's envoys, shaved them, cut off their garments at the buttocks, and sent them away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

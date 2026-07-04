@@ -1,0 +1,1 @@
+(function(){var b="13d4d2f11a3e",m="# 1 Chronicles 27:31 (New International Version)\nJaziz the Hagrite<sup>^A</sup> was in charge of the flocks.\nAll these were the officials in charge of King David's property.\n\n### Crossrefs\n- A: S [[1Chr-5-10|1Ch 5:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

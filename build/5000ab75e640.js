@@ -1,0 +1,1 @@
+(function(){var b="5000ab75e640",m="# Psalm 119:7 (New International Version)\nI will praise you with an upright heart  \n    as I learn your righteous laws.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-4-8|Dt 4:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

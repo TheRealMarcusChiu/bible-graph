@@ -1,0 +1,1 @@
+(function(){var b="e79d0fe890a6",m="# 1 Chronicles 10:12 (New International Version)\nall their valiant men went and took the bodies of Saul and his sons and brought them to Jabesh. Then they buried their bones under the great tree in Jabesh, and they fasted seven days.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

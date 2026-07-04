@@ -1,0 +1,1 @@
+(function(){var b="af303d2c47ef",m="# Jeremiah 9:6 (New International Version)\nYou live in the midst of deception;<sup>^A</sup>  \n    in their deceit they refuse to acknowledge me,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: S [[Jer-5-27|Jer 5:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

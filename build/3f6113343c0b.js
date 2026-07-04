@@ -1,0 +1,1 @@
+(function(){var b="3f6113343c0b",m="# Esther 4:3 (New International Version)\nIn every province to which the edict and order of the king came, there was great mourning among the Jews, with fasting, weeping and wailing. Many lay in sackcloth and ashes.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

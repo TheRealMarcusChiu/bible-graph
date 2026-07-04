@@ -1,0 +1,1 @@
+(function(){var b="108dd3fb310c",m="# 1 Chronicles 12:37 (New International Version)\nand from east of the Jordan, from Reuben, Gad and the half-tribe of Manasseh, armed with every type of weapon--120,000.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

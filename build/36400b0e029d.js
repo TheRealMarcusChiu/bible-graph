@@ -1,0 +1,1 @@
+(function(){var b="36400b0e029d",m="# Daniel 10:10 (New International Version)\nA hand touched me<sup>^A</sup> and set me trembling on my hands and knees.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Jer-1-9|Jer 1:9]]\n- B: [[Rev-1-17|Rev 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a3eccc5b4c82",m="# Proverbs 13:19 (New International Version)\nA longing fulfilled is sweet to the soul,<sup>^A</sup>  \n    but fools detest turning from evil.\n\n### Crossrefs\n- A: S [[Prov-10-11|Pr 10:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

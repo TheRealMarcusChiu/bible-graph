@@ -1,0 +1,1 @@
+(function(){var b="76e0374bed25",m="# Isaiah 38:22 (New International Version)\nHezekiah had asked, \"What will be the sign<sup>^A</sup> that I will go up to the temple of the LORD?\"\n\n### Crossrefs\n- A: S [[2Chr-32-31|2Ch 32:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

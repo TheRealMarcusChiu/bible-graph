@@ -1,0 +1,1 @@
+(function(){var b="804e48c09423",m="# 1 Chronicles 6:12 (New International Version)\nAhitub the father of Zadok,\nZadok the father of Shallum,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

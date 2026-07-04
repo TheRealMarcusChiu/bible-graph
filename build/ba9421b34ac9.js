@@ -1,0 +1,1 @@
+(function(){var b="ba9421b34ac9",m="# Ecclesiastes 8:1 (New International Version)\nWho is like the wise?  \n    Who knows the explanation of things?  \nA person's wisdom brightens their face  \n    and changes its hard appearance.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="67fdf7229d75",m="# Psalm 51:16 (New International Version)\nYou do not delight in sacrifice,<sup>^A</sup> or I would bring it;  \n    you do not take pleasure in burnt offerings.\n\n### Crossrefs\n- A: S [[1Sam-15-22|1Sa 15:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

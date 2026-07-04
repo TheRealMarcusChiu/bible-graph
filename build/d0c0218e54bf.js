@@ -1,0 +1,1 @@
+(function(){var b="d0c0218e54bf",m="# 1 Chronicles 16:14 (New International Version)\nHe is the LORD our God;  \n    his judgments<sup>^A</sup> are in all the earth.\n\n### Crossrefs\n- A: [[Isa-4-4|Isa 4:4]]; [[Isa-26-9|26:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

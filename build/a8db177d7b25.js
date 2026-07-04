@@ -1,0 +1,1 @@
+(function(){var b="a8db177d7b25",m="# 1 Chronicles 19:14 (New International Version)\nThen Joab and the troops with him advanced to fight the Arameans, and they fled before him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="314443cbfc21",m="# Ezra 6:19 (New International Version)\nThe Passover\nOn the fourteenth day of the first month, the exiles celebrated the Passover.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-12-11|Ex 12:11]]; S [[Num-28-16|Nu 28:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

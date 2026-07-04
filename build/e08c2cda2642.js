@@ -1,0 +1,1 @@
+(function(){var b="e08c2cda2642",m="# Psalm 147:16 (New International Version)\nHe spreads the snow<sup>^A</sup> like wool  \n    and scatters the frost<sup>^B</sup> like ashes.\n\n### Crossrefs\n- A: [[Ps-148-8|Ps 148:8]]\n- B: S [[Job-37-12|Job 37:12]]; [[Job-38-29|38:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

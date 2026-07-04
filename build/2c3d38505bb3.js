@@ -1,0 +1,1 @@
+(function(){var b="2c3d38505bb3",m="# Psalm 118:13 (New International Version)\nI was pushed back and about to fall,  \n    but the LORD helped me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-118-7|ver 7]]; [[2Chr-18-31|2Ch 18:31]]; [[Ps-86-17|Ps 86:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

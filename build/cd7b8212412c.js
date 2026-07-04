@@ -1,0 +1,1 @@
+(function(){var b="cd7b8212412c",m="# Psalm 89:29 (New International Version)\nI will establish his line forever,  \n    his throne as long as the heavens endure.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-89-4|ver 4]], [[Ps-89-36|36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

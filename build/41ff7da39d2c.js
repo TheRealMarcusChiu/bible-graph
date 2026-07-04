@@ -1,0 +1,1 @@
+(function(){var b="41ff7da39d2c",m="# Lamentations 3:2 (New International Version)\nHe has driven me away and made me walk  \n    in darkness<sup>^A</sup> rather than light;\n\n### Crossrefs\n- A: S [[Job-19-8|Job 19:8]]; S [[Ps-82-5|Ps 82:5]]; S [[Jer-4-23|Jer 4:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0da3190ee00e",m="# Nehemiah 7:72 (New International Version)\nThe total given by the rest of the people was 20,000 darics of gold, 2,000 minas of silver and 67 garments for priests.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-25-2|Ex 25:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

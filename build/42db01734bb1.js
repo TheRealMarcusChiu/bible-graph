@@ -1,0 +1,1 @@
+(function(){var b="42db01734bb1",m="# 2 Kings 11:13 (New International Version)\nWhen Athaliah heard the noise made by the guards and the people, she went to the people at the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

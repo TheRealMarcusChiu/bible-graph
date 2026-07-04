@@ -1,0 +1,1 @@
+(function(){var b="0bf17475189d",m="# Psalm 83:5 (New International Version)\nWith one mind they plot together;<sup>^A</sup>  \n    they form an alliance against you--\n\n### Crossrefs\n- A: [[Ps-2-2|Ps 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fb42519b215f",m="# Jeremiah 28:17 (New International Version)\nIn the seventh month of that same year, Hananiah the prophet died.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Kgs-1-17|2Ki 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

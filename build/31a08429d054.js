@@ -1,0 +1,1 @@
+(function(){var b="31a08429d054",m="# Psalm 87:5 (New International Version)\nIndeed, of Zion it will be said,  \n    \"This one and that one were born in her,  \n    and the Most High himself will establish her.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3e067e5e1df8",m="# Joel 3:5 (New International Version)\nFor you took my silver and my gold and carried off my finest treasures to your temples.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-15-18|1Ki 15:18]]; S [[2Chr-21-16|2Ch 21:16-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="271b12635f89",m="# Psalm 55:10 (New International Version)\nDay and night they prowl<sup>^A</sup> about on its walls;  \n    malice and abuse are within it.\n\n### Crossrefs\n- A: [[1Pet-5-8|1Pe 5:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

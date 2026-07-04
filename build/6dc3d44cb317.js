@@ -1,0 +1,1 @@
+(function(){var b="6dc3d44cb317",m="# Psalm 32:11 (New International Version)\nRejoice in the LORD<sup>^A</sup> and be glad, you righteous;  \n    sing, all you who are upright in heart!\n\n### Crossrefs\n- A: [[Ps-64-10|Ps 64:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

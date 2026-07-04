@@ -1,0 +1,1 @@
+(function(){var b="81bea3ec2105",m="# Lamentations 3:59 (New International Version)\nLORD, you have seen the wrong done to me.<sup>^A</sup>  \n    Uphold my cause!<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-18-19|Jer 18:19-20]]\n- B: [[Ps-35-23|Ps 35:23]]; [[Ps-43-1|43:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

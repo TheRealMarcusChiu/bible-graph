@@ -1,0 +1,1 @@
+(function(){var b="b399033cefbb",m="# Song of Songs 1:9 (New International Version)\nI liken you, my darling, to a mare  \n    among Pharaoh's chariot horses.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Chr-1-17|2Ch 1:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

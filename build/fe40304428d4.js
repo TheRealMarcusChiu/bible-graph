@@ -1,0 +1,1 @@
+(function(){var b="fe40304428d4",m="# Lamentations 3:35 (New International Version)\nto deny people their rights  \n    before the Most High,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-14-18|Ge 14:18]], [[Gen-14-19|19]], [[Gen-14-20|20]], [[Gen-14-22|22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

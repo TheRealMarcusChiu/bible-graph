@@ -1,0 +1,1 @@
+(function(){var b="5a2962626fd7",m="# Psalm 106:44 (New International Version)\nYet he took note of their distress  \n    when he heard their cry;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-3-9|Jdg 3:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

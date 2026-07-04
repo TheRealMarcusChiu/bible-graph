@@ -1,0 +1,1 @@
+(function(){var b="e2ec91d358fc",m="# Psalm 68:24 (New International Version)\nYour procession, God, has come into view,  \n    the procession of my God and King into the sanctuary.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-63-2|Ps 63:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0fda92c87271",m="# Job 1:14 (New International Version)\na messenger came to Job and said, \"The oxen were plowing and the donkeys were grazing<sup>^A</sup> nearby, \n\n### Crossrefs\n- A: [[Gen-36-24|Ge 36:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3e556210942d",m="# Jeremiah 25:8 (New International Version)\nTherefore the LORD Almighty says this: \"Because you have not listened to my words,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

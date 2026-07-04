@@ -1,0 +1,1 @@
+(function(){var b="ace7bf057dc2",m="# Job 21:27 (New International Version)\n\"I know full well what you are thinking,  \n    the schemes by which you would wrong me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

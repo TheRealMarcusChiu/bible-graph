@@ -1,0 +1,1 @@
+(function(){var b="4ed49065d852",m="# Jeremiah 49:6 (New International Version)\n\"Yet afterward, I will restore<sup>^A</sup> the fortunes of the Ammonites,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[Jer-12-14|Jer 12:14-17]]; S [[Jer-48-47|48:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

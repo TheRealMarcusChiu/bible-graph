@@ -1,0 +1,1 @@
+(function(){var b="7e403b54b502",m="# Proverbs 29:27 (New International Version)\nThe righteous detest the dishonest;  \n    the wicked detest the upright.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-29-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

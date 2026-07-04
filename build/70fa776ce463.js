@@ -1,0 +1,1 @@
+(function(){var b="70fa776ce463",m="# Psalm 95:5 (New International Version)\nThe sea is his, for he made it,  \n    and his hands formed the dry land.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-1-9|Ge 1:9]]; [[Ps-146-6|Ps 146:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

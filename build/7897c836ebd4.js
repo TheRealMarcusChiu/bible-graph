@@ -1,0 +1,1 @@
+(function(){var b="7897c836ebd4",m="# Daniel 8:21 (New International Version)\nThe shaggy goat is the king of Greece,<sup>^A</sup> and the large horn between its eyes is the first king.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Dan-10-20|Da 10:20]]\n- B: [[Dan-11-3|Da 11:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

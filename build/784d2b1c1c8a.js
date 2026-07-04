@@ -1,0 +1,1 @@
+(function(){var b="784d2b1c1c8a",m="# Jeremiah 18:7 (New International Version)\nIf at any time I announce that a nation or kingdom is to be uprooted,<sup>^A</sup> torn down and destroyed, \n\n### Crossrefs\n- A: [[Jer-1-10|Jer 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

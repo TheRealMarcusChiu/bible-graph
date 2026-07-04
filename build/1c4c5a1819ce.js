@@ -1,0 +1,1 @@
+(function(){var b="1c4c5a1819ce",m="# 1 Chronicles 10:10 (New International Version)\nThey put his armor in the temple of their gods and hung up his head in the temple of Dagon.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-16-23|Jdg 16:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

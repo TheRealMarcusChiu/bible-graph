@@ -1,0 +1,1 @@
+(function(){var b="04481596b9fc",m="# 2 Kings 16:12 (New International Version)\nWhen the king came back from Damascus and saw the altar, he approached it and presented offerings<sup>^A</sup> on it. \n\n### Crossrefs\n- A: [[2Chr-26-16|2Ch 26:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

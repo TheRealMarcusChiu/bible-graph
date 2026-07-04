@@ -1,0 +1,1 @@
+(function(){var b="2cf80744e6b9",m="# Jeremiah 27:2 (New International Version)\nThis is what the LORD said to me: \"Make a yoke<sup>^A</sup> out of straps and crossbars and put it on your neck. \n\n### Crossrefs\n- A: S [[Lev-26-13|Lev 26:13]]; S [[1Kgs-22-11|1Ki 22:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

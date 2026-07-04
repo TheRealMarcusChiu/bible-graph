@@ -1,0 +1,1 @@
+(function(){var b="7c1aa5b8367c",m="# Proverbs 9:16 (New International Version)\n\"Let all who are simple come to my house!\"  \nTo those who have no sense<sup>^A</sup> she says,\n\n### Crossrefs\n- A: S [[Prov-1-22|Pr 1:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

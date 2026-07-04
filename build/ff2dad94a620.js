@@ -1,0 +1,1 @@
+(function(){var b="ff2dad94a620",m="# 2 Chronicles 14:15 (New International Version)\nThey also attacked the camps of the herders and carried off droves of sheep and goats and camels. Then they returned to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

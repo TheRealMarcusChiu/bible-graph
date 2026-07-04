@@ -1,0 +1,1 @@
+(function(){var b="47a75a413b2a",m="# Ezekiel 28:15 (New International Version)\nYou were blameless in your ways  \n    from the day you were created  \n    till wickedness was found in you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

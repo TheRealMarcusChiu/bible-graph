@@ -1,0 +1,1 @@
+(function(){var b="a6314d8ddf28",m="# Ezekiel 43:26 (New International Version)\nFor seven days they are to make atonement for the altar and cleanse it; thus they will dedicate it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

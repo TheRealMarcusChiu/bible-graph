@@ -1,0 +1,1 @@
+(function(){var b="2095fccd072a",m="# Ezekiel 22:24 (New International Version)\n\"Son of man, say to the land, 'You are a land that has not been cleansed or rained on in the day of wrath.'<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-24-13|Eze 24:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

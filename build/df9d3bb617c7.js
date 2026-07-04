@@ -1,0 +1,1 @@
+(function(){var b="df9d3bb617c7",m="# Hosea 4:17 (New International Version)\nEphraim is joined to idols;  \n    leave him alone!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c46b520016b6",m="# Proverbs 6:9 (New International Version)\nHow long will you lie there, you sluggard?<sup>^A</sup>  \n    When will you get up from your sleep?\n\n### Crossrefs\n- A: [[Prov-24-30|Pr 24:30-34]]; [[Prov-26-13|26:13-16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

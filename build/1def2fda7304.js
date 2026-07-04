@@ -1,0 +1,1 @@
+(function(){var b="1def2fda7304",m="# Job 23:9 (New International Version)\nWhen he is at work in the north, I do not see him;  \n    when he turns to the south, I catch no glimpse of him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-11|Job 9:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

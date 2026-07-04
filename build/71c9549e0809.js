@@ -1,0 +1,1 @@
+(function(){var b="71c9549e0809",m="# Psalm 73:16 (New International Version)\nWhen I tried to understand<sup>^A</sup> all this,  \n    it troubled me deeply\n\n### Crossrefs\n- A: [[Eccl-8-17|Ecc 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

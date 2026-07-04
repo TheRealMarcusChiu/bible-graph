@@ -1,0 +1,1 @@
+(function(){var b="cc609210dc7f",m="# 1 Chronicles 27:3 (New International Version)\nHe was a descendant of Perez and chief of all the army officers for the first month.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

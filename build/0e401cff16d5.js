@@ -1,0 +1,1 @@
+(function(){var b="0e401cff16d5",m="# Job 6:6 (New International Version)\nIs tasteless food eaten without salt,  \n    or is there flavor in the sap of the mallow?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-33-20|Job 33:20]]; [[Ps-107-18|Ps 107:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

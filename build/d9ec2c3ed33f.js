@@ -1,0 +1,1 @@
+(function(){var b="d9ec2c3ed33f",m="# Esther 2:2 (New International Version)\nThen the king's personal attendants proposed, \"Let a search be made for beautiful young virgins for the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ccb9a12068ae",m="# Ezekiel 37:20 (New International Version)\nHold before their eyes the sticks you have written on";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

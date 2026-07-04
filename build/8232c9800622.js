@@ -1,0 +1,1 @@
+(function(){var b="8232c9800622",m="# Proverbs 7:8 (New International Version)\nHe was going down the street near her corner,  \n    walking along in the direction of her house";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

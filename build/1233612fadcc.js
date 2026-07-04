@@ -1,0 +1,1 @@
+(function(){var b="1233612fadcc",m="# 2 Chronicles 34:17 (New International Version)\nThey have paid out the money that was in the temple of the LORD and have entrusted it to the supervisors and workers.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

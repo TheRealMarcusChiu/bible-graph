@@ -1,0 +1,1 @@
+(function(){var b="f328542dd4ee",m="# Psalm 18:24 (New International Version)\nThe LORD has rewarded me according to my righteousness,<sup>^A</sup>  \n    according to the cleanness of my hands in his sight.\n\n### Crossrefs\n- A: S [[1Sam-26-23|1Sa 26:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

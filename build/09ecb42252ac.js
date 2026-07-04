@@ -1,0 +1,1 @@
+(function(){var b="09ecb42252ac",m="# Job 29:10 (New International Version)\nthe voices of the nobles were hushed,<sup>^A</sup>  \n    and their tongues stuck to the roof of their mouths.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-29-22|ver 22]]\n- B: [[Ps-137-6|Ps 137:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

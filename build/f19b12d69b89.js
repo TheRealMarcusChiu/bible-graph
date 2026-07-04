@@ -1,0 +1,1 @@
+(function(){var b="f19b12d69b89",m="# 2 Kings 10:4 (New International Version)\nBut they were terrified and said, \"If two kings could not resist him, how can we?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

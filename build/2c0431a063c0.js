@@ -1,0 +1,1 @@
+(function(){var b="2c0431a063c0",m="# Ezekiel 43:22 (New International Version)\n\"On the second day you are to offer a male goat without defect for a sin offering, and the altar is to be purified as it was purified with the bull.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="067f2fa99736",m="# Psalm 45:15 (New International Version)\nLed in with joy and gladness,<sup>^A</sup>  \n    they enter the palace of the king.\n\n### Crossrefs\n- A: S [[Esth-8-17|Est 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

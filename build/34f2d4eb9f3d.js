@@ -1,0 +1,1 @@
+(function(){var b="34f2d4eb9f3d",m="# Psalm 49:8 (New International Version)\nthe ransom<sup>^A</sup> for a life is costly,  \n    no payment is ever enough--<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-35-31|Nu 35:31]]\n- B: [[Matt-16-26|Mt 16:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

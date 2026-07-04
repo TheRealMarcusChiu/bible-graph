@@ -1,0 +1,1 @@
+(function(){var b="6b032ce00c04",m="# Zechariah 13:6 (New International Version)\nIf someone asks, 'What are these wounds on your body?' they will answer, 'The wounds I was given at the house of my friends.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

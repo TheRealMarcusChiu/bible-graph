@@ -1,0 +1,1 @@
+(function(){var b="84b7c6258262",m="# Esther 1:4 (New International Version)\nFor a full 180 days he displayed the vast wealth of his kingdom and the splendor and glory of his majesty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

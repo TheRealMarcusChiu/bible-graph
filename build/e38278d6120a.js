@@ -1,0 +1,1 @@
+(function(){var b="e38278d6120a",m="# Nehemiah 12:18 (New International Version)\nof Bilgah's, Shammua;\nof Shemaiah's, Jehonathan;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7bb8999bcf03",m="# Zechariah 7:8 (New International Version)\nAnd the word of the LORD came again to Zechariah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8bc4f70d1063",m="# Psalm 59:17 (New International Version)\nYou are my strength, I sing praise to you;  \n    you, God, are my fortress,  \n    my God on whom I can rely.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-59-10|ver 10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

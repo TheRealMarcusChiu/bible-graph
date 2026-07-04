@@ -1,0 +1,1 @@
+(function(){var b="f38761847cbb",m="# Job 8:5 (New International Version)\nBut if you will seek God earnestly  \n    and plead<sup>^A</sup> with the Almighty,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-9-15|Job 9:15]]\n- B: S [[Job-5-8|Job 5:8]], [[Job-5-27|27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

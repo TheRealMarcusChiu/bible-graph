@@ -1,0 +1,1 @@
+(function(){var b="3ba5a534911d",m="# Nehemiah 10:14 (New International Version)\nThe leaders of the people:\nParosh, Pahath-Moab, Elam, Zattu, Bani,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

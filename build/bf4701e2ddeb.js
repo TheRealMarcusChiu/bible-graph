@@ -1,0 +1,1 @@
+(function(){var b="bf4701e2ddeb",m="# Psalm 84:8 (New International Version)\nHear my prayer,<sup>^A</sup> LORD God Almighty;  \n    listen to me, God of Jacob.\n\n### Crossrefs\n- A: [[Ps-4-1|Ps 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

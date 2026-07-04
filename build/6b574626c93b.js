@@ -1,0 +1,1 @@
+(function(){var b="6b574626c93b",m="# Lamentations 3:46 (New International Version)\n\"All our enemies have opened their mouths  \n    wide<sup>^A</sup> against us.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-22-13|Ps 22:13]]\n- B: [[Lam-2-16|La 2:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

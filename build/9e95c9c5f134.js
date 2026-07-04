@@ -1,0 +1,1 @@
+(function(){var b="9e95c9c5f134",m="# Ezekiel 42:2 (New International Version)\nThe building whose door faced north was a hundred cubits long and fifty cubits wide.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

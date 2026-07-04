@@ -1,0 +1,1 @@
+(function(){var b="7ffbe7750760",m="# 2 Kings 9:23 (New International Version)\nJoram turned about and fled, calling out to Ahaziah, \"Treachery,<sup>^A</sup> Ahaziah!\"\n\n### Crossrefs\n- A: [[2Kgs-11-14|2Ki 11:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

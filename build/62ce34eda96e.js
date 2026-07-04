@@ -1,0 +1,1 @@
+(function(){var b="62ce34eda96e",m="# 1 Chronicles 6:53 (New International Version)\nZadok<sup>^A</sup> his son\nand Ahimaaz his son.\n\n### Crossrefs\n- A: S [[2Sam-8-17|2Sa 8:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

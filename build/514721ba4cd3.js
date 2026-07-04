@@ -1,0 +1,1 @@
+(function(){var b="514721ba4cd3",m="# Jeremiah 5:29 (New International Version)\nShould I not punish them for this?\"  \n    declares the LORD.  \n\"Should I not avenge<sup>^A</sup> myself  \n    on such a nation as this?\n\n### Crossrefs\n- A: S [[Isa-57-6|Isa 57:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

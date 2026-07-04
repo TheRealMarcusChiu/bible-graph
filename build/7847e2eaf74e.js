@@ -1,0 +1,1 @@
+(function(){var b="7847e2eaf74e",m="# Nahum 2:6 (New International Version)\nThe river gates<sup>^A</sup> are thrown open  \n    and the palace collapses.\n\n### Crossrefs\n- A: [[Isa-45-1|Isa 45:1]]; [[Nah-3-13|Na 3:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

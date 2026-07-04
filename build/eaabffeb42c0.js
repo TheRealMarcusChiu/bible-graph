@@ -1,0 +1,1 @@
+(function(){var b="eaabffeb42c0",m="# Proverbs 12:10 (New International Version)\nThe righteous care for the needs of their animals,<sup>^A</sup>  \n    but the kindest acts of the wicked are cruel.\n\n### Crossrefs\n- A: S [[Num-22-29|Nu 22:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

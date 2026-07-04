@@ -1,0 +1,1 @@
+(function(){var b="fb6b5735fd39",m="# Proverbs 27:17 (New International Version)\nAs iron sharpens iron,  \n    so one person sharpens another.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

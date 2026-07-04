@@ -1,0 +1,1 @@
+(function(){var b="3b3f757cf9c1",m="# Jeremiah 36:8 (New International Version)\nBaruch son of Neriah did everything Jeremiah the prophet told him to do; at the LORD's temple he read the words of the LORD from the scroll.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

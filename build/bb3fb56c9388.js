@@ -1,0 +1,1 @@
+(function(){var b="bb3fb56c9388",m="# Jeremiah 29:5 (New International Version)\n\"Build<sup>^A</sup> houses and settle down; plant gardens and eat what they produce. \n\n### Crossrefs\n- A: [[Jer-29-28|ver 28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

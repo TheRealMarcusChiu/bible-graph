@@ -1,0 +1,1 @@
+(function(){var b="bad7ddd9438e",m="# Isaiah 42:2 (New International Version)\nHe will not shout or cry out,<sup>^A</sup>  \n    or raise his voice in the streets.\n\n### Crossrefs\n- A: [[Prov-8-1|Pr 8:1-4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

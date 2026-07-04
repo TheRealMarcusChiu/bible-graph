@@ -1,0 +1,1 @@
+(function(){var b="b914ecf9f4d8",m="# Jeremiah 2:14 (New International Version)\nIs Israel a servant, a slave<sup>^A</sup> by birth?  \n    Why then has he become plunder?\n\n### Crossrefs\n- A: [[Exod-4-22|Ex 4:22]]; [[Jer-31-9|Jer 31:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

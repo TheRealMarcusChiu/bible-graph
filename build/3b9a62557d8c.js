@@ -1,0 +1,1 @@
+(function(){var b="3b9a62557d8c",m="# Isaiah 61:5 (New International Version)\nStrangers<sup>^A</sup> will shepherd your flocks;  \n    foreigners will work your fields and vineyards.\n\n### Crossrefs\n- A: S [[Isa-14-1|Isa 14:1-2]]; S [[Isa-56-6|56:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

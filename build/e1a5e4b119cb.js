@@ -1,0 +1,1 @@
+(function(){var b="e1a5e4b119cb",m="# Proverbs 12:21 (New International Version)\nNo harm overtakes the righteous,<sup>^A</sup>  \n    but the wicked have their fill of trouble.\n\n### Crossrefs\n- A: S [[Job-4-7|Job 4:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

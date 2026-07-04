@@ -1,0 +1,1 @@
+(function(){var b="13b74f70e20f",m="# Ezekiel 16:5 (New International Version)\nNo one looked on you with pity or had compassion enough to do any of these things for you. Rather, you were thrown out into the open field, for on the day you were born you were despised.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="79eb2937dec2",m="# 2 Kings 23:19 (New International Version)\nJust as he had done at Bethel, Josiah removed all the shrines at the high places that the kings of Israel had built in the towns of Samaria and that had aroused the LORD's anger.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

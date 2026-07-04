@@ -1,0 +1,1 @@
+(function(){var b="65a592e97231",m="# Psalm 94:9 (New International Version)\nDoes he who fashioned the ear not hear?  \n    Does he who formed the eye not see?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-4-11|Ex 4:11]]; [[Prov-20-12|Pr 20:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b9aa195e0b7a",m="# Psalm 144:3 (New International Version)\nLORD, what are human beings<sup>^A</sup> that you care for them,  \n    mere mortals that you think of them?\n\n### Crossrefs\n- A: [[Heb-2-6|Heb 2:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bad96e31e831",m="# 2 Kings 18:36 (New International Version)\nBut the people remained silent and said nothing in reply, because the king had commanded, \"Do not answer him.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ee469bbacc83",m="# Psalm 86:14 (New International Version)\nArrogant foes are attacking me, O God;  \n    ruthless people are trying to kill me--  \n    they have no regard for you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-54-3|Ps 54:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

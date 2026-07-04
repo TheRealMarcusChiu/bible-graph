@@ -1,0 +1,1 @@
+(function(){var b="22c8703ade0d",m="# Job 19:17 (New International Version)\nMy breath is offensive to my wife;  \n    I am loathsome<sup>^A</sup> to my own family.\n\n### Crossrefs\n- A: [[Ps-38-5|Ps 38:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

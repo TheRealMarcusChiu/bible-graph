@@ -1,0 +1,1 @@
+(function(){var b="69a1ed534d07",m="# Ezra 10:43 (New International Version)\nFrom the descendants of Nebo:\nJeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel and Benaiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

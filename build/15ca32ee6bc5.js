@@ -1,0 +1,1 @@
+(function(){var b="15ca32ee6bc5",m="# Psalm 69:26 (New International Version)\nFor they persecute those you wound  \n    and talk about the pain of those you hurt.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-19-22|Job 19:22]]; [[Zech-1-15|Zec 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

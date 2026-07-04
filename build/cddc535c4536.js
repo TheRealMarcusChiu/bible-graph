@@ -1,0 +1,1 @@
+(function(){var b="cddc535c4536",m="# Proverbs 21:26 (New International Version)\nAll day long he craves for more,  \n    but the righteous<sup>^A</sup> give without sparing.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[2Sam-17-27|2Sa 17:27]]\n- B: S [[Lev-25-35|Lev 25:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

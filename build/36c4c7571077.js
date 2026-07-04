@@ -1,0 +1,1 @@
+(function(){var b="36c4c7571077",m="# Psalm 136:13 (New International Version)\nto him who divided the Red Sea<sup>^A</sup> asunder  \n_His love endures forever._\n\n### Crossrefs\n- A: S [[Ps-78-13|Ps 78:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3985e88929c6",m="# Psalm 55:11 (New International Version)\nDestructive forces<sup>^A</sup> are at work in the city;  \n    threats and lies<sup>^B</sup> never leave its streets.\n\n### Crossrefs\n- A: [[Ps-5-9|Ps 5:9]]\n- B: [[Ps-10-7|Ps 10:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

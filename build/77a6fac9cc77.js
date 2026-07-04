@@ -1,0 +1,1 @@
+(function(){var b="77a6fac9cc77",m="# Proverbs 31:25 (New International Version)\nShe is clothed with strength and dignity;  \n    she can laugh at the days to come.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1e13a25e615a",m="# Nehemiah 12:43 (New International Version)\nAnd on that day they offered great sacrifices, rejoicing because God had given them great joy. The women and children also rejoiced. The sound of rejoicing in Jerusalem could be heard far away.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

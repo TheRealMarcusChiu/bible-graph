@@ -1,0 +1,1 @@
+(function(){var b="8d50b9616032",m="# 1 Chronicles 1:15 (New International Version)\nHivites, Arkites, Sinites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

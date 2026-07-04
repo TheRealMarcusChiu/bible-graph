@@ -1,0 +1,1 @@
+(function(){var b="eba588ac7e89",m="# Job 34:7 (New International Version)\nIs there anyone like Job,  \n    who drinks scorn like water?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-21|Job 9:21]]; S [[Job-15-16|15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

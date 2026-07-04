@@ -1,0 +1,1 @@
+(function(){var b="ef172e6d665a",m="# Psalm 34:6 (New International Version)\nThis poor man called, and the LORD heard him;  \n    he saved him out of all his troubles.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-25-17|Ps 25:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

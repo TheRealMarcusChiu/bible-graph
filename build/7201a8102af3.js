@@ -1,0 +1,1 @@
+(function(){var b="7201a8102af3",m="# 2 Kings 17:30 (New International Version)\nThe people from Babylon made Sukkoth Benoth, those from Kuthah made Nergal, and those from Hamath made Ashima;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

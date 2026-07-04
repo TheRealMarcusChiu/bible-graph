@@ -1,0 +1,1 @@
+(function(){var b="26fcb6a084d9",m="# 1 Chronicles 2:40 (New International Version)\nEleasah the father of Sismai,\nSismai the father of Shallum,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

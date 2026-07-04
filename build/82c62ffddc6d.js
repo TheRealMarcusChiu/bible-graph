@@ -1,0 +1,1 @@
+(function(){var b="82c62ffddc6d",m="# 2 Kings 17:27 (New International Version)\nThen the king of Assyria gave this order: \"Have one of the priests you took captive from Samaria go back to live there and teach the people what the god of the land requires.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

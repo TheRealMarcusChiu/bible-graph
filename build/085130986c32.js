@@ -1,0 +1,1 @@
+(function(){var b="085130986c32",m="# 2 Kings 20:10 (New International Version)\n\"It is a simple<sup>^A</sup> matter for the shadow to go forward ten steps,\" said Hezekiah. \"Rather, have it go back ten steps.\"\n\n### Crossrefs\n- A: S [[2Kgs-3-18|2Ki 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

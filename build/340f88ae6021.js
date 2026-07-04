@@ -1,0 +1,1 @@
+(function(){var b="340f88ae6021",m="# Proverbs 25:3 (New International Version)\nAs the heavens are high and the earth is deep,  \n    so the hearts of kings are unsearchable.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

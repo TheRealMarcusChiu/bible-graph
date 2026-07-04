@@ -1,0 +1,1 @@
+(function(){var b="53dc439c060b",m="# Psalm 49:18 (New International Version)\nThough while they live they count themselves blessed--<sup>^A</sup>  \n    and people praise you when you prosper--\n\n### Crossrefs\n- A: [[Ps-10-6|Ps 10:6]]; [[Luke-12-19|Lk 12:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

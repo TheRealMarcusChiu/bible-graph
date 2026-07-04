@@ -1,0 +1,1 @@
+(function(){var b="1018aace1ee2",m="# 1 Chronicles 12:24 (New International Version)\nfrom Judah, carrying shield and spear--6,800 armed for battle;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

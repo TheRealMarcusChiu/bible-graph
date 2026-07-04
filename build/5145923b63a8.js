@@ -1,0 +1,1 @@
+(function(){var b="5145923b63a8",m="# Jeremiah 20:14 (New International Version)\nCursed be the day I was born!<sup>^A</sup>  \n    May the day my mother bore me not be blessed!\n\n### Crossrefs\n- A: S [[Job-3-8|Job 3:8]], [[Job-3-16|16]]; [[Jer-15-10|Jer 15:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

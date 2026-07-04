@@ -1,0 +1,1 @@
+(function(){var b="e06a06955ccd",m="# 2 Chronicles 35:19 (New International Version)\nThis Passover was celebrated in the eighteenth year of Josiah's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

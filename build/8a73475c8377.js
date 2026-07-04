@@ -1,0 +1,1 @@
+(function(){var b="8a73475c8377",m="# 2 Kings 25:12 (New International Version)\nBut the commander left behind some of the poorest people<sup>^A</sup> of the land to work the vineyards and fields.\n\n### Crossrefs\n- A: S [[2Kgs-24-14|2Ki 24:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

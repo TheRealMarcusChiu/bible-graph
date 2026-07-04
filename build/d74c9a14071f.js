@@ -1,0 +1,1 @@
+(function(){var b="d74c9a14071f",m="# 2 Chronicles 9:15 (New International Version)\nKing Solomon made two hundred large shields of hammered gold; six hundred shekels of hammered gold went into each shield.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

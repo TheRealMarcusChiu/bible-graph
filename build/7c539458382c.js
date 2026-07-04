@@ -1,0 +1,1 @@
+(function(){var b="7c539458382c",m="# 2 Chronicles 8:4 (New International Version)\nHe also built up Tadmor in the desert and all the store cities he had built in Hamath.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Sam-8-9|2Sa 8:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

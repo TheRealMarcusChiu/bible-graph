@@ -1,0 +1,1 @@
+(function(){var b="4af525629e11",m="# Proverbs 22:16 (New International Version)\nOne who oppresses the poor to increase his wealth  \n    and one who gives gifts to the rich--both come to poverty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

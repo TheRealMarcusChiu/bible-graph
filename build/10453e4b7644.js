@@ -1,0 +1,1 @@
+(function(){var b="10453e4b7644",m="# Micah 5:15 (New International Version)\nI will take vengeance<sup>^A</sup> in anger and wrath  \n    on the nations that have not obeyed me.\"\n\n### Crossrefs\n- A: S [[Isa-65-12|Isa 65:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

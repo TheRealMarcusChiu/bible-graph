@@ -1,0 +1,1 @@
+(function(){var b="fb450a60e5c4",m="# 1 Chronicles 1:9 (New International Version)\nThe sons of Cush:\nSeba, Havilah, Sabta, Raamah and Sabteka.\nThe sons of Raamah:\nSheba and Dedan.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

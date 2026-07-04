@@ -1,0 +1,1 @@
+(function(){var b="732416bfe125",m="# Psalm 72:5 (New International Version)\nMay he endure<sup>^A</sup> as long as the sun,  \n    as long as the moon, through all generations.<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Sam-13-13|1Sa 13:13]]\n- B: [[Ps-33-11|Ps 33:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="77135c281846",m="# Psalm 55:18 (New International Version)\nHe rescues me unharmed  \n    from the battle waged against me,  \n    even though many oppose me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

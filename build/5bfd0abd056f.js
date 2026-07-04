@@ -1,0 +1,1 @@
+(function(){var b="5bfd0abd056f",m="# Daniel 4:20 (New International Version)\nThe tree you saw, which grew large and strong, with its top touching the sky, visible to the whole earth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

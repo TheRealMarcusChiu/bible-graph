@@ -1,0 +1,1 @@
+(function(){var b="dc9619c6b83a",m="# Psalm 92:2 (New International Version)\nproclaiming your love in the morning<sup>^A</sup>  \n    and your faithfulness at night,\n\n### Crossrefs\n- A: S [[Ps-55-17|Ps 55:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

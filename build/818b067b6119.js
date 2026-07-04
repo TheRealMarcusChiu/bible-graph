@@ -1,0 +1,1 @@
+(function(){var b="818b067b6119",m="# Psalm 90:6 (New International Version)\nIn the morning it springs up new,  \n    but by evening it is dry and withered.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Isa-40-6|Isa 40:6-8]]; [[Matt-6-30|Mt 6:30]]; [[Jas-1-10|Jas 1:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

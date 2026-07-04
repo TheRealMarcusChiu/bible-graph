@@ -1,0 +1,1 @@
+(function(){var b="b8fd70a0d477",m="# Proverbs 26:20 (New International Version)\nWithout wood a fire goes out;  \n    without a gossip a quarrel dies down.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-22-10|Pr 22:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="34a0f0d32b8a",m="# Ezekiel 45:13 (New International Version)\n\"'This is the special gift you are to offer: a sixth of an ephah from each homer of wheat and a sixth of an ephah from each homer of barley.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

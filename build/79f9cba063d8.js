@@ -1,0 +1,1 @@
+(function(){var b="79f9cba063d8",m="# Daniel 11:29 (New International Version)\n\"At the appointed time he will invade the South again, but this time the outcome will be different from what it was before.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

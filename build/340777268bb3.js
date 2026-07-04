@@ -1,0 +1,1 @@
+(function(){var b="340777268bb3",m="# Job 11:7 (New International Version)\n\"Can you fathom<sup>^A</sup> the mysteries of God?  \n    Can you probe the limits of the Almighty?\n\n### Crossrefs\n- A: S [[Job-5-9|Job 5:9]]; [[Eccl-3-11|Ecc 3:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

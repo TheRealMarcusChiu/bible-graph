@@ -1,0 +1,1 @@
+(function(){var b="8532a172a4db",m="# Psalm 119:93 (New International Version)\nI will never forget<sup>^A</sup> your precepts,  \n    for by them you have preserved my life.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-83|ver 83]]\n- B: S [[Ps-103-5|Ps 103:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

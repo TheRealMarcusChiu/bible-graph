@@ -1,0 +1,1 @@
+(function(){var b="28d0457914ed",m="# 1 Chronicles 16:6 (New International Version)\nand Benaiah and Jahaziel the priests were to blow the trumpets regularly before the ark of the covenant of God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

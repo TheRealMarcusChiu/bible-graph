@@ -1,0 +1,1 @@
+(function(){var b="3f114d2a3bad",m="# Jeremiah 27:4 (New International Version)\nGive them a message for their masters and say, 'This is what the LORD Almighty, the God of Israel, says: \"Tell this to your masters:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

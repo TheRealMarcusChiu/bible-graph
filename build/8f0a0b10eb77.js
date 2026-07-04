@@ -1,0 +1,1 @@
+(function(){var b="8f0a0b10eb77",m="# 2 Kings 22:7 (New International Version)\nBut they need not account for the money entrusted to them, because they are honest in their dealings.\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Kgs-12-15|2Ki 12:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="95d79f89c8ef",m="# Psalm 83:11 (New International Version)\nMake their nobles like Oreb and Zeeb,<sup>^A</sup>  \n    all their princes like Zebah and Zalmunna,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Judg-7-25|Jdg 7:25]]\n- B: S [[Judg-8-5|Jdg 8:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

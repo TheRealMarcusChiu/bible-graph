@@ -1,0 +1,1 @@
+(function(){var b="81ae10dd1b55",m="# Nehemiah 12:29 (New International Version)\nfrom Beth Gilgal, and from the area of Geba and Azmaveth, for the musicians had built villages for themselves around Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

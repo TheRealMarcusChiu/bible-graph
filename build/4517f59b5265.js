@@ -1,0 +1,1 @@
+(function(){var b="4517f59b5265",m="# 1 Chronicles 6:42 (New International Version)\nthe son of Ethan, the son of Zimmah,\nthe son of Shimei,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

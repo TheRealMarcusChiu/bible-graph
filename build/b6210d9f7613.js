@@ -1,0 +1,1 @@
+(function(){var b="b6210d9f7613",m="# Psalm 25:1 (New International Version)\nPsalm 25\nIn you, LORD my God,  \n    I put my trust.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-86-4|Ps 86:4]]; [[Ps-143-8|143:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

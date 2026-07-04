@@ -1,0 +1,1 @@
+(function(){var b="8ba7adabaa93",m="# Ezekiel 12:28 (New International Version)\n\"Therefore say to them, 'This is what the Sovereign LORD says: None of my words will be delayed any longer; whatever I say will be fulfilled, declares the Sovereign LORD.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="08d7217152ba",m="# 1 Chronicles 21:22 (New International Version)\nDavid said to him, \"Let me have the site of your threshing floor so I can build an altar to the LORD, that the plague on the people may be stopped. Sell it to me at the full price.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

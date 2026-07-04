@@ -1,0 +1,1 @@
+(function(){var b="b036eda58535",m="# Proverbs 31:30 (New International Version)\nCharm is deceptive, and beauty is fleeting;  \n    but a woman who fears the LORD is to be praised.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

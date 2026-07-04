@@ -1,0 +1,1 @@
+(function(){var b="b0441f1f78b7",m="# Job 32:5 (New International Version)\nBut when he saw that the three men had nothing more to say, his anger was aroused.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4e90d12dc2d6",m="# Psalm 105:18 (New International Version)\nThey bruised his feet with shackles,<sup>^A</sup>  \n    his neck was put in irons,\n\n### Crossrefs\n- A: S [[Gen-40-15|Ge 40:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

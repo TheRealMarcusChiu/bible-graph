@@ -1,0 +1,1 @@
+(function(){var b="64f696e3d298",m="# Proverbs 6:26 (New International Version)\nFor a prostitute can be had for a loaf of bread,  \n    but another man's wife preys on your very life.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-7-22|Pr 7:22-23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

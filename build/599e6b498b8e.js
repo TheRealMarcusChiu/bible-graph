@@ -1,0 +1,1 @@
+(function(){var b="599e6b498b8e",m="# Psalm 129:3 (New International Version)\nPlowmen have plowed my back  \n    and made their furrows long.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33fa30c18876",m="# Job 16:22 (New International Version)\n\"Only a few years will pass  \n    before I take the path of no return.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-10-21|Job 10:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

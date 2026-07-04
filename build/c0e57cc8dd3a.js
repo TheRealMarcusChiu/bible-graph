@@ -1,0 +1,1 @@
+(function(){var b="c0e57cc8dd3a",m="# Psalm 33:17 (New International Version)\nA horse<sup>^A</sup> is a vain hope for deliverance;  \n    despite all its great strength it cannot save.\n\n### Crossrefs\n- A: S [[Ps-20-7|Ps 20:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

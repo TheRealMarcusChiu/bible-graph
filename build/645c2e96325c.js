@@ -1,0 +1,1 @@
+(function(){var b="645c2e96325c",m="# Ezra 8:30 (New International Version)\nThen the priests and Levites received the silver and gold and sacred articles that had been weighed out to be taken to the house of our God in Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="3e8fcc26c06e",m="# Haggai 2:8 (New International Version)\n'The silver is mine and the gold<sup>^A</sup> is mine,' declares the LORD Almighty. \n\n### Crossrefs\n- A: S [[1Chr-29-2|1Ch 29:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

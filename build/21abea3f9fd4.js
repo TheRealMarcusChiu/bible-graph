@@ -1,0 +1,1 @@
+(function(){var b="21abea3f9fd4",m="# Psalm 78:72 (New International Version)\nAnd David shepherded them with integrity of heart;<sup>^A</sup>  \n    with skillful hands he led them.\n\n### Crossrefs\n- A: S [[Gen-17-1|Ge 17:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

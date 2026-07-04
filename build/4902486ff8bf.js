@@ -1,0 +1,1 @@
+(function(){var b="4902486ff8bf",m="# Psalm 119:22 (New International Version)\nRemove from me their scorn<sup>^A</sup> and contempt,  \n    for I keep your statutes.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-39-8|Ps 39:8]]\n- B: [[Ps-119-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

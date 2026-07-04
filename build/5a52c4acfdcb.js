@@ -1,0 +1,1 @@
+(function(){var b="5a52c4acfdcb",m="# Proverbs 2:4 (New International Version)\nand if you look for it as for silver  \n    and search for it as for hidden treasure,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-3-21|Job 3:21]]; [[Matt-13-44|Mt 13:44]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

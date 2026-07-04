@@ -1,0 +1,1 @@
+(function(){var b="3b8f94307315",m="# Job 27:16 (New International Version)\nThough he heaps up silver like dust<sup>^A</sup>  \n    and clothes like piles of clay,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Kgs-10-27|1Ki 10:27]]\n- B: [[Zech-9-3|Zec 9:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

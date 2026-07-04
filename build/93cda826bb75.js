@@ -1,0 +1,1 @@
+(function(){var b="93cda826bb75",m="# Psalm 81:4 (New International Version)\nthis is a decree for Israel,  \n    an ordinance of the God of Jacob.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-81-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

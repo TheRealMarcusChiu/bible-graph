@@ -1,0 +1,1 @@
+(function(){var b="923522e398ab",m="# Psalm 119:29 (New International Version)\nKeep me from deceitful ways;<sup>^A</sup>  \n    be gracious to me<sup>^B</sup> and teach me your law.\n\n### Crossrefs\n- A: [[Ps-26-4|Ps 26:4]]\n- B: S [[Num-6-25|Nu 6:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

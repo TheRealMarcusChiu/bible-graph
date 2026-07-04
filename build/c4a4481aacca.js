@@ -1,0 +1,1 @@
+(function(){var b="c4a4481aacca",m="# Job 38:29 (New International Version)\nFrom whose womb comes the ice?  \n    Who gives birth to the frost from the heavens<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-147-16|Ps 147:16-17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

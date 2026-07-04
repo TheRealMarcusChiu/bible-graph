@@ -1,0 +1,1 @@
+(function(){var b="5eaf3c081c09",m="# Daniel 3:8 (New International Version)\nAt this time some astrologers<sup>^A</sup> came forward and denounced the Jews. \n\n### Crossrefs\n- A: S [[Isa-19-3|Isa 19:3]]; S [[Dan-2-10|Da 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

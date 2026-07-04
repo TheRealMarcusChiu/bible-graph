@@ -1,0 +1,1 @@
+(function(){var b="53b9c7515ddc",m="# 2 Chronicles 28:25 (New International Version)\nIn every town in Judah he built high places to burn sacrifices to other gods and aroused the anger of the LORD, the God of his ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

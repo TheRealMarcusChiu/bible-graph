@@ -1,0 +1,1 @@
+(function(){var b="c44801f22d4c",m="# Daniel 3:21 (New International Version)\nSo these men, wearing their robes, trousers, turbans and other clothes, were bound and thrown into the blazing furnace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

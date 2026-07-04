@@ -1,0 +1,1 @@
+(function(){var b="5d9dd2ddd84a",m="# Psalm 115:5 (New International Version)\nThey have mouths, but cannot speak,<sup>^A</sup>  \n    eyes, but cannot see.\n\n### Crossrefs\n- A: [[Jer-10-5|Jer 10:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

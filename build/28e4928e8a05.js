@@ -1,0 +1,1 @@
+(function(){var b="28e4928e8a05",m="# 1 Chronicles 9:21 (New International Version)\nZechariah<sup>^A</sup> son of Meshelemiah was the gatekeeper at the entrance to the tent of meeting.\n\n### Crossrefs\n- A: [[1Chr-26-2|1Ch 26:2]], [[1Chr-26-14|14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

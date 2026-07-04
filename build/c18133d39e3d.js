@@ -1,0 +1,1 @@
+(function(){var b="c18133d39e3d",m="# 1 Chronicles 3:2 (New International Version)\nthe third, Absalom the son of Maakah daughter of Talmai king of Geshur;\nthe fourth, Adonijah<sup>^A</sup> the son of Haggith;\n\n### Crossrefs\n- A: [[1Kgs-2-22|1Ki 2:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

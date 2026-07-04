@@ -1,0 +1,1 @@
+(function(){var b="6b48c6a8e7b5",m="# Nahum 2:9 (New International Version)\nPlunder the silver!  \n    Plunder the gold!  \nThe supply is endless,  \n    the wealth from all its treasures!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

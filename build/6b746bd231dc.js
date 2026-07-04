@@ -1,0 +1,1 @@
+(function(){var b="6b746bd231dc",m="# 2 Chronicles 11:5 (New International Version)\nRehoboam Fortifies Judah\nRehoboam lived in Jerusalem and built up towns for defense in Judah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

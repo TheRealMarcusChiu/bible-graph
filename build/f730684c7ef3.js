@@ -1,0 +1,1 @@
+(function(){var b="f730684c7ef3",m="# Daniel 4:4 (New International Version)\nI, Nebuchadnezzar, was at home in my palace, contented<sup>^A</sup> and prosperous. \n\n### Crossrefs\n- A: [[Ps-30-6|Ps 30:6]]; S [[Isa-32-9|Isa 32:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

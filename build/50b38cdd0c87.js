@@ -1,0 +1,1 @@
+(function(){var b="50b38cdd0c87",m="# Hosea 1:5 (New International Version)\nIn that day I will break Israel's bow in the Valley of Jezreel.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Josh-15-56|Jos 15:56]]; S [[1Sam-29-1|1Sa 29:1]]; [[2Kgs-15-29|2Ki 15:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

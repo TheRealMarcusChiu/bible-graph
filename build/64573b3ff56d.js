@@ -1,0 +1,1 @@
+(function(){var b="64573b3ff56d",m="# Daniel 11:37 (New International Version)\nHe will show no regard for the gods of his ancestors or for the one desired by women, nor will he regard any god, but will exalt himself above them all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

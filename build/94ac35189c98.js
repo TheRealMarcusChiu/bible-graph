@@ -1,0 +1,1 @@
+(function(){var b="94ac35189c98",m="# Job 39:13 (New International Version)\n\"The wings of the ostrich flap joyfully,  \n    though they cannot compare  \n    with the wings and feathers of the stork.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Zech-5-9|Zec 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

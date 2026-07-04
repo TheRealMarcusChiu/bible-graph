@@ -1,0 +1,1 @@
+(function(){var b="8e7c65c88e96",m="# Psalm 80:6 (New International Version)\nYou have made us an object of derision to our neighbors,  \n    and our enemies mock us.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-79-4|Ps 79:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

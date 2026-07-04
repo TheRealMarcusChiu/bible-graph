@@ -1,0 +1,1 @@
+(function(){var b="9423f2026d1f",m="# Proverbs 16:21 (New International Version)\nThe wise in heart are called discerning,  \n    and gracious words promote instruction.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-23|ver 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

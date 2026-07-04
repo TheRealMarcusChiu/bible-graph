@@ -1,0 +1,1 @@
+(function(){var b="d1f0ffe3d073",m="# Ezekiel 47:23 (New International Version)\nIn whatever tribe a foreigner resides, there you are to give them their inheritance,\" declares the Sovereign LORD.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-10-19|Dt 10:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

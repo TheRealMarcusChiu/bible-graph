@@ -1,0 +1,1 @@
+(function(){var b="e2c98579cd71",m="# Lamentations 3:64 (New International Version)\nPay them back what they deserve, LORD,  \n    for what their hands have done.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-28-4|Ps 28:4]]; S [[Jer-51-6|Jer 51:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

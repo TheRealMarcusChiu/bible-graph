@@ -1,0 +1,1 @@
+(function(){var b="b22cd905dda6",m="# 2 Chronicles 11:11 (New International Version)\nHe strengthened their defenses and put commanders in them, with supplies of food, olive oil and wine.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

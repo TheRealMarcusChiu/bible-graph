@@ -1,0 +1,1 @@
+(function(){var b="ad1cf9d8eded",m="# Psalm 132:8 (New International Version)\n'Arise, LORD,<sup>^A</sup> and come to your resting place,  \n    you and the ark of your might.\n\n### Crossrefs\n- A: S [[Num-10-35|Nu 10:35]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

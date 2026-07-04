@@ -1,0 +1,1 @@
+(function(){var b="586c235cd7b2",m="# 1 Chronicles 19:12 (New International Version)\nJoab said, \"If the Arameans are too strong for me, then you are to rescue me; but if the Ammonites are too strong for you, then I will rescue you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

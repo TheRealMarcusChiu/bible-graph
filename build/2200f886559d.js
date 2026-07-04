@@ -1,0 +1,1 @@
+(function(){var b="2200f886559d",m="# Isaiah 24:12 (New International Version)\nThe city is left in ruins,<sup>^A</sup>  \n    its gate<sup>^B</sup> is battered to pieces.\n\n### Crossrefs\n- A: S [[Isa-19-18|Isa 19:18]]\n- B: S [[Isa-3-26|Isa 3:26]]; S [[Isa-13-2|13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

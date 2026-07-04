@@ -1,0 +1,1 @@
+(function(){var b="f825e3d2cf6e",m="# Proverbs 19:28 (New International Version)\nA corrupt witness mocks at justice,  \n    and the mouth of the wicked gulps down evil.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-15-16|Job 15:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

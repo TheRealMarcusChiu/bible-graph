@@ -1,0 +1,1 @@
+(function(){var b="560faac83fd6",m="# Psalm 26:6 (New International Version)\nI wash my hands in innocence,<sup>^A</sup>  \n    and go about your altar, LORD,\n\n### Crossrefs\n- A: [[Ps-73-13|Ps 73:13]]; [[Matt-27-24|Mt 27:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

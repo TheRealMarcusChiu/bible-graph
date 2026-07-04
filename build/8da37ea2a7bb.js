@@ -1,0 +1,1 @@
+(function(){var b="8da37ea2a7bb",m="# Psalm 148:6 (New International Version)\nand he established them for ever and ever--  \n    he issued a decree<sup>^A</sup> that will never pass away.\n\n### Crossrefs\n- A: [[Jer-31-35|Jer 31:35-36]]; [[Jer-33-25|33:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

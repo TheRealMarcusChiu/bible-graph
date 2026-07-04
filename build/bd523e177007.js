@@ -1,0 +1,1 @@
+(function(){var b="bd523e177007",m="# Job 15:1 (New International Version)\nEliphaz\nThen Eliphaz the Temanite<sup>^A</sup> replied:\n\n### Crossrefs\n- A: S [[Job-4-1|Job 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

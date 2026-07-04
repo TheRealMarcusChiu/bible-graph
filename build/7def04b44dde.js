@@ -1,0 +1,1 @@
+(function(){var b="7def04b44dde",m="# Proverbs 2:11 (New International Version)\nDiscretion will protect you,  \n    and understanding will guard you.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-4-6|Pr 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cadf6842481a",m="# Psalm 27:10 (New International Version)\nThough my father and mother forsake me,  \n    the LORD will receive me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

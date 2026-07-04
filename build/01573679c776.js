@@ -1,0 +1,1 @@
+(function(){var b="01573679c776",m="# Nehemiah 10:27 (New International Version)\nMalluk, Harim and Baanah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

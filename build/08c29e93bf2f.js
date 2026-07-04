@@ -1,0 +1,1 @@
+(function(){var b="08c29e93bf2f",m="# Hosea 7:8 (New International Version)\n\"Ephraim mixes<sup>^A</sup> with the nations;  \n    Ephraim is a flat loaf not turned over.\n\n### Crossrefs\n- A: [[Hos-7-11|ver 11]]; [[Ps-106-35|Ps 106:35]]; S [[Hos-5-13|Hos 5:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

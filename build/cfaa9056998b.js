@@ -1,0 +1,1 @@
+(function(){var b="cfaa9056998b",m="# Ezekiel 17:14 (New International Version)\nso that the kingdom would be brought low,<sup>^A</sup> unable to rise again, surviving only by keeping his treaty. \n\n### Crossrefs\n- A: [[Ezek-29-14|Eze 29:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

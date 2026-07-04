@@ -1,0 +1,1 @@
+(function(){var b="079a27d74db5",m="# Jonah 3:4 (New International Version)\nJonah began by going a day's journey into the city, proclaiming,<sup>^A</sup> \"Forty more days and Nineveh will be overthrown.\" \n\n### Crossrefs\n- A: S [[Jer-18-7|Jer 18:7-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

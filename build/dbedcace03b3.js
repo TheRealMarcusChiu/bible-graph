@@ -1,0 +1,1 @@
+(function(){var b="dbedcace03b3",m="# Ezekiel 24:12 (New International Version)\nIt has frustrated all efforts;  \n    its heavy deposit has not been removed,  \n    not even by fire.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

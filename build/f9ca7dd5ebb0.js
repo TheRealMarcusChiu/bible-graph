@@ -1,0 +1,1 @@
+(function(){var b="f9ca7dd5ebb0",m="# Psalm 104:9 (New International Version)\nYou set a boundary<sup>^A</sup> they cannot cross;  \n    never again will they cover the earth.\n\n### Crossrefs\n- A: S [[Gen-1-9|Ge 1:9]]; S [[Ps-16-6|Ps 16:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

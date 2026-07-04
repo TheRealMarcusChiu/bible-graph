@@ -1,0 +1,1 @@
+(function(){var b="4a20747ab434",m="# Psalm 36:12 (New International Version)\nSee how the evildoers lie fallen--  \n    thrown down, not able to rise!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-18-38|Ps 18:38]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

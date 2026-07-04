@@ -1,0 +1,1 @@
+(function(){var b="e6cd0d976f30",m="# Proverbs 31:11 (New International Version)\nHer husband<sup>^A</sup> has full confidence in her  \n    and lacks nothing of value.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-2-18|Ge 2:18]]\n- B: S [[Prov-12-4|Pr 12:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

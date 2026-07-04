@@ -1,0 +1,1 @@
+(function(){var b="c51203f3437a",m="# Jeremiah 44:20 (New International Version)\nThen Jeremiah said to all the people, both men and women, who were answering him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

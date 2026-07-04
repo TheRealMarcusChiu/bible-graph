@@ -1,0 +1,1 @@
+(function(){var b="dea902df9d0f",m="# Proverbs 14:34 (New International Version)\nRighteousness exalts a nation,<sup>^A</sup>  \n    but sin condemns any people.\n\n### Crossrefs\n- A: [[Prov-11-11|Pr 11:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c67213c40a73",m="# Jeremiah 37:19 (New International Version)\nWhere are your prophets<sup>^A</sup> who prophesied to you, 'The king of Babylon will not attack you or this land'? \n\n### Crossrefs\n- A: S [[Jer-14-13|Jer 14:13]]; [[Ezek-13-2|Eze 13:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

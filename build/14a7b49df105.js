@@ -1,0 +1,1 @@
+(function(){var b="14a7b49df105",m="# 1 Chronicles 4:37 (New International Version)\nand Ziza son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

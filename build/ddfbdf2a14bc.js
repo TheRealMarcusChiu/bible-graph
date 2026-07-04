@@ -1,0 +1,1 @@
+(function(){var b="ddfbdf2a14bc",m="# Proverbs 13:20 (New International Version)\nWalk with the wise and become wise,  \n    for a companion of fools suffers harm.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Chr-10-8|2Ch 10:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ba3d75d107d4",m="# Proverbs 25:17 (New International Version)\nSeldom set foot in your neighbor's house--  \n    too much of you, and they will hate you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

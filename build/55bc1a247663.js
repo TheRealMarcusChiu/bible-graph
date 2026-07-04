@@ -1,0 +1,1 @@
+(function(){var b="55bc1a247663",m="# Psalm 109:1 (New International Version)\nPsalm 109\nMy God, whom I praise,<sup>^A</sup>  \n    do not remain silent,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-15-2|Ex 15:2]]; [[Jer-17-14|Jer 17:14]]\n- B: S [[Job-34-29|Job 34:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

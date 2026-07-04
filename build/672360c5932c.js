@@ -1,0 +1,1 @@
+(function(){var b="672360c5932c",m="# Psalm 60:11 (New International Version)\nGive us aid against the enemy,  \n    for human help is worthless.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-146-3|Ps 146:3]]; [[Prov-3-5|Pr 3:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

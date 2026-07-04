@@ -1,0 +1,1 @@
+(function(){var b="7851af51fb85",m="# Psalm 136:23 (New International Version)\nHe remembered us<sup>^A</sup> in our low estate  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Ps-78-39|Ps 78:39]]; [[Ps-103-14|103:14]]; [[Ps-115-12|115:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

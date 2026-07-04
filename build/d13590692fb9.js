@@ -1,0 +1,1 @@
+(function(){var b="d13590692fb9",m="# Proverbs 15:17 (New International Version)\nBetter a small serving of vegetables with love  \n    than a fattened calf with hatred.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-15-16|ver 16]]; [[Prov-17-1|Pr 17:1]]; [[Eccl-4-6|Ecc 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

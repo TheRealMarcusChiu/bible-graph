@@ -1,0 +1,1 @@
+(function(){var b="3a56c3e02502",m="# Proverbs 11:30 (New International Version)\nThe fruit of the righteous is a tree of life,<sup>^A</sup>  \n    and the one who is wise saves lives.\n\n### Crossrefs\n- A: S [[Gen-2-9|Ge 2:9]]; S [[Prov-10-11|Pr 10:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

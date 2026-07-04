@@ -1,0 +1,1 @@
+(function(){var b="af6c28e7abe2",m="# Psalm 113:6 (New International Version)\nwho stoops down to look<sup>^A</sup>  \n    on the heavens and the earth?\n\n### Crossrefs\n- A: [[Ps-11-4|Ps 11:4]]; [[Ps-138-6|138:6]]; [[Isa-57-15|Isa 57:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

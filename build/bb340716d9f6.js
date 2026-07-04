@@ -1,0 +1,1 @@
+(function(){var b="bb340716d9f6",m="# Song of Songs 8:1 (New International Version)\nIf only you were to me like a brother,  \n    who was nursed at my mother's breasts!  \nThen, if I found you outside,  \n    I would kiss you,  \n    and no one would despise me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

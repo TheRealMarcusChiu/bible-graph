@@ -1,0 +1,1 @@
+(function(){var b="aa9207984b2e",m="# Lamentations 3:28 (New International Version)\nLet him sit alone in silence,<sup>^A</sup>  \n    for the LORD has laid it on him.\n\n### Crossrefs\n- A: [[Jer-15-17|Jer 15:17]]; [[Lam-2-10|La 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

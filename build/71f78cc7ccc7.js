@@ -1,0 +1,1 @@
+(function(){var b="71f78cc7ccc7",m="# Proverbs 11:8 (New International Version)\nThe righteous person is rescued from trouble,  \n    and it falls on the wicked instead.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-21-18|Pr 21:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

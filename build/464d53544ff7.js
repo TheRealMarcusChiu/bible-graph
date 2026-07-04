@@ -1,0 +1,1 @@
+(function(){var b="464d53544ff7",m="# Job 12:20 (New International Version)\nHe silences the lips of trusted advisers  \n    and takes away the discernment of elders.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-12-12|ver 12]], [[Job-12-24|24]]; [[Dan-4-33|Da 4:33-34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

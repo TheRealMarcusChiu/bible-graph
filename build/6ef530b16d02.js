@@ -1,0 +1,1 @@
+(function(){var b="6ef530b16d02",m="# Jonah 1:2 (New International Version)\n\"Go to the great city of Nineveh<sup>^A</sup> and preach against it, because its wickedness has come up before me.\"\n\n### Crossrefs\n- A: S [[Gen-10-11|Ge 10:11]]; S [[Nah-1-1|Na 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

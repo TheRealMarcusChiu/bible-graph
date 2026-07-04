@@ -1,0 +1,1 @@
+(function(){var b="7f16a4632e3c",m="# 2 Chronicles 23:10 (New International Version)\nHe stationed all the men, each with his weapon in his hand, around the king--near the altar and the temple, from the south side to the north side of the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

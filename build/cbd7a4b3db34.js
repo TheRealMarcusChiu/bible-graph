@@ -1,0 +1,1 @@
+(function(){var b="cbd7a4b3db34",m="# Job 11:1 (New International Version)\nZophar\nThen Zophar the Naamathite<sup>^A</sup> replied:\n\n### Crossrefs\n- A: S [[Job-2-11|Job 2:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

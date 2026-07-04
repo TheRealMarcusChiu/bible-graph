@@ -1,0 +1,1 @@
+(function(){var b="2bbac368ae6b",m="# Proverbs 30:32 (New International Version)\n\"If you play the fool and exalt yourself,  \n    or if you plan evil,  \n    clap your hand over your mouth!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-29-9|Job 29:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

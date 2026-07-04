@@ -1,0 +1,1 @@
+(function(){var b="c07cf0777591",m="# Nehemiah 1:7 (New International Version)\nWe have acted very wickedly<sup>^A</sup> toward you. We have not obeyed the commands, decrees and laws you gave your servant Moses.\n\n### Crossrefs\n- A: [[Ps-106-6|Ps 106:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

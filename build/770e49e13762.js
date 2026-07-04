@@ -1,0 +1,1 @@
+(function(){var b="770e49e13762",m="# Psalm 90:7 (New International Version)\nWe are consumed by your anger  \n    and terrified by your indignation.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

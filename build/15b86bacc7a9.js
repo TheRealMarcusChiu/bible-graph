@@ -1,0 +1,1 @@
+(function(){var b="15b86bacc7a9",m="# 1 Chronicles 1:39 (New International Version)\nThe sons of Lotan:\nHori and Homam. Timna was Lotan's sister.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

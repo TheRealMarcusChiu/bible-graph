@@ -1,0 +1,1 @@
+(function(){var b="6c539a8c5a14",m="# Psalm 122:3 (New International Version)\nJerusalem is built like a city  \n    that is closely compacted together.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

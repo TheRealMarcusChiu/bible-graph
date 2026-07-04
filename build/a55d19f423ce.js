@@ -1,0 +1,1 @@
+(function(){var b="a55d19f423ce",m="# Proverbs 7:26 (New International Version)\nMany are the victims she has brought down;  \n    her slain are a mighty throng.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

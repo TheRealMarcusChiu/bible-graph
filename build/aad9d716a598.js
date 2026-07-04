@@ -1,0 +1,1 @@
+(function(){var b="aad9d716a598",m="# Psalm 140:9 (New International Version)\nThose who surround me proudly rear their heads;  \n    may the mischief of their lips engulf them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-18-7|Pr 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

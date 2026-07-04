@@ -1,0 +1,1 @@
+(function(){var b="d521f016a73e",m="# Daniel 12:8 (New International Version)\nI heard, but I did not understand. So I asked, \"My lord, what will the outcome of all this be?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

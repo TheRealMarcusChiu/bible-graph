@@ -1,0 +1,1 @@
+(function(){var b="e1c6b50b1acf",m="# Proverbs 20:29 (New International Version)\nThe glory of young men is their strength,  \n    gray hair the splendor of the old.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-31|Pr 16:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

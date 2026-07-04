@@ -1,0 +1,1 @@
+(function(){var b="48732d107f84",m="# Ecclesiastes 9:18 (New International Version)\nWisdom<sup>^A</sup> is better than weapons of war,  \n    but one sinner destroys much good.\n\n### Crossrefs\n- A: S [[Eccl-2-13|Ecc 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

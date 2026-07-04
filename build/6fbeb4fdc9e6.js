@@ -1,0 +1,1 @@
+(function(){var b="6fbeb4fdc9e6",m="# Psalm 79:11 (New International Version)\nMay the groans of the prisoners come before you;  \n    with your strong arm preserve those condemned to die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7b6ecf7f2b66",m="# Jonah 4:9 (New International Version)\nBut God said to Jonah, \"Is it right for you to be angry about the plant?\"<sup>^A</sup>\n\"It is,\" he said. \"And I'm so angry I wish I were dead.\"\n\n### Crossrefs\n- A: [[Jonah-4-4|ver 4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

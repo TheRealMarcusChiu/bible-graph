@@ -1,0 +1,1 @@
+(function(){var b="b3b2eeef9685",m="# Proverbs 16:27 (New International Version)\nA scoundrel<sup>^A</sup> plots evil,  \n    and on their lips it is like a scorching fire.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-140-2|Ps 140:2]]\n- B: [[Jas-3-6|Jas 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

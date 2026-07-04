@@ -1,0 +1,1 @@
+(function(){var b="0f292c56f66e",m="# Proverbs 28:2 (New International Version)\nWhen a country is rebellious, it has many rulers,  \n    but a ruler with discernment and knowledge maintains order.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

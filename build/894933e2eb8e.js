@@ -1,0 +1,1 @@
+(function(){var b="894933e2eb8e",m="# 1 Chronicles 23:23 (New International Version)\nThe sons of Mushi:\nMahli, Eder and Jerimoth--three in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

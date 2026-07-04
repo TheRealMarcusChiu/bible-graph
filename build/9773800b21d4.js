@@ -1,0 +1,1 @@
+(function(){var b="9773800b21d4",m="# Ezekiel 34:20 (New International Version)\n\"'Therefore this is what the Sovereign LORD says to them: See, I myself will judge between the fat sheep and the lean sheep.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Matt-25-32|Mt 25:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

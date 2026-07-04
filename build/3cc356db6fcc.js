@@ -1,0 +1,1 @@
+(function(){var b="3cc356db6fcc",m="# Job 9:33 (New International Version)\nIf only there were someone to mediate between us,<sup>^A</sup>  \n    someone to bring us together,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Sam-2-25|1Sa 2:25]]\n- B: S [[Job-9-19|ver 19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

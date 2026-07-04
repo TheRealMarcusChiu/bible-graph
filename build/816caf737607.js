@@ -1,0 +1,1 @@
+(function(){var b="816caf737607",m="# Proverbs 17:4 (New International Version)\nA wicked person listens to deceitful lips;  \n    a liar pays attention to a destructive tongue.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

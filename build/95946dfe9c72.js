@@ -1,0 +1,1 @@
+(function(){var b="95946dfe9c72",m="# Psalm 53:4 (New International Version)\nDo all these evildoers know nothing?\nThey devour my people as though eating bread;  \n    they never call on God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7181732dfa0e",m="# 2 Kings 6:7 (New International Version)\n\"Lift it out,\" he said. Then the man reached out his hand and took it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

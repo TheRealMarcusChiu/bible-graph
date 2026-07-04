@@ -1,0 +1,1 @@
+(function(){var b="65de6aaaece5",m="# Jeremiah 2:12 (New International Version)\nBe appalled at this, you heavens,  \n    and shudder with great horror,\"  \ndeclares the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

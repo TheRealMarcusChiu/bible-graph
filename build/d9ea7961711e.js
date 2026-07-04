@@ -1,0 +1,1 @@
+(function(){var b="d9ea7961711e",m="# Psalm 89:44 (New International Version)\nYou have put an end to his splendor  \n    and cast his throne to the ground.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

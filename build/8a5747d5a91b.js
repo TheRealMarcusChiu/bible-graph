@@ -1,0 +1,1 @@
+(function(){var b="8a5747d5a91b",m="# Job 9:11 (New International Version)\nWhen he passes me, I cannot see him;  \n    when he goes by, I cannot perceive him.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-23-8|Job 23:8-9]]; [[Job-35-14|35:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

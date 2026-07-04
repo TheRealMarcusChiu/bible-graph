@@ -1,0 +1,1 @@
+(function(){var b="3e6665bb43fc",m="# Job 19:15 (New International Version)\nMy guests<sup>^A</sup> and my female servants<sup>^B</sup> count me a foreigner;  \n    they look on me as on a stranger.\n\n### Crossrefs\n- A: [[Gen-14-14|Ge 14:14]]\n- B: [[Eccl-2-7|Ecc 2:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

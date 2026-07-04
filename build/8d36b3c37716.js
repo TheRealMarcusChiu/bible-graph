@@ -1,0 +1,1 @@
+(function(){var b="8d36b3c37716",m="# Nehemiah 5:16 (New International Version)\nInstead,<sup>^A</sup> I devoted myself to the work on this wall. All my men were assembled there for the work; we did not acquire any land.\n\n### Crossrefs\n- A: [[2Thess-3-7|2Th 3:7-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

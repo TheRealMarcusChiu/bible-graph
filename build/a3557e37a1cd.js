@@ -1,0 +1,1 @@
+(function(){var b="a3557e37a1cd",m="# Job 21:25 (New International Version)\nAnother dies in bitterness of soul,<sup>^A</sup>  \n    never having enjoyed anything good.\n\n### Crossrefs\n- A: S [[Job-10-1|Job 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

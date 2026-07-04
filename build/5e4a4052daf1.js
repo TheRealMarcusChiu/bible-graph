@@ -1,0 +1,1 @@
+(function(){var b="5e4a4052daf1",m="# 2 Chronicles 35:5 (New International Version)\n\"Stand in the holy place with a group of Levites for each subdivision of the families of your fellow Israelites, the lay people.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

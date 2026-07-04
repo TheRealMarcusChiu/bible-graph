@@ -1,0 +1,1 @@
+(function(){var b="57947c2b4542",m="# Job 23:17 (New International Version)\nYet I am not silenced by the darkness,<sup>^A</sup>  \n    by the thick darkness that covers my face.\n\n### Crossrefs\n- A: S [[Job-3-6|Job 3:6]]; S [[Job-19-8|19:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

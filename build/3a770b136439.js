@@ -1,0 +1,1 @@
+(function(){var b="3a770b136439",m="# 1 Chronicles 15:21 (New International Version)\nand Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel and Azaziah were to play the harps, directing according to _sheminith._";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

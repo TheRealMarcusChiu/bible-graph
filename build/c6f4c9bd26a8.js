@@ -1,0 +1,1 @@
+(function(){var b="c6f4c9bd26a8",m="# Psalm 119:167 (New International Version)\nI obey your statutes,  \n    for I love them<sup>^A</sup> greatly.\n\n### Crossrefs\n- A: [[Ps-119-47|ver 47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0935a84f32f7",m="# 2 Chronicles 18:2 (New International Version)\nSome years later he went down to see Ahab in Samaria. Ahab slaughtered many sheep and cattle for him and the people with him and urged him to attack Ramoth Gilead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

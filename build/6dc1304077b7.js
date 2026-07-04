@@ -1,0 +1,1 @@
+(function(){var b="6dc1304077b7",m="# Isaiah 36:5 (New International Version)\nYou say you have counsel and might for war--but you speak only empty words. On whom are you depending, that you rebel<sup>^A</sup> against me? \n\n### Crossrefs\n- A: S [[2Kgs-18-7|2Ki 18:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

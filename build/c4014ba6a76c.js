@@ -1,0 +1,1 @@
+(function(){var b="c4014ba6a76c",m="# 1 Chronicles 4:12 (New International Version)\nEshton was the father of Beth Rapha, Paseah and Tehinnah the father of Ir Nahash. These were the men of Rekah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

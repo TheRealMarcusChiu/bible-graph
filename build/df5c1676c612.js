@@ -1,0 +1,1 @@
+(function(){var b="df5c1676c612",m="# Psalm 107:34 (New International Version)\nand fruitful land into a salt waste,<sup>^A</sup>  \n    because of the wickedness of those who lived there.\n\n### Crossrefs\n- A: S [[Gen-13-10|Ge 13:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

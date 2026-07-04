@@ -1,0 +1,1 @@
+(function(){var b="3efcc3116b8c",m="# Jeremiah 48:3 (New International Version)\nCries of anguish arise from Horonaim,<sup>^A</sup>  \n    cries of great havoc and destruction.\n\n### Crossrefs\n- A: S [[Isa-15-5|Isa 15:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="02d3bd4705ff",m="# Proverbs 19:26 (New International Version)\nWhoever robs their father and drives out their mother<sup>^A</sup>  \n    is a child who brings shame and disgrace.\n\n### Crossrefs\n- A: [[Prov-28-24|Pr 28:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

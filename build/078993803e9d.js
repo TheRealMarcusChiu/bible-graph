@@ -1,0 +1,1 @@
+(function(){var b="078993803e9d",m="# Ezekiel 33:18 (New International Version)\nIf a righteous person turns from their righteousness and does evil,<sup>^A</sup> they will die for it.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Jer-18-10|Jer 18:10]]\n- B: S [[Ezek-3-20|Eze 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

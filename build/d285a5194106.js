@@ -1,0 +1,1 @@
+(function(){var b="d285a5194106",m="# Nehemiah 8:13 (New International Version)\nOn the second day of the month, the heads of all the families, along with the priests and the Levites, gathered around Ezra the teacher to give attention to the words of the Law.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

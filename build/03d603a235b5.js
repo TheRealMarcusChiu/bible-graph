@@ -1,0 +1,1 @@
+(function(){var b="03d603a235b5",m="# Psalm 109:8 (New International Version)\nMay his days be few;<sup>^A</sup>  \n    may another take his place<sup>^B</sup> of leadership.\n\n### Crossrefs\n- A: S [[Job-15-32|Job 15:32]]\n- B: Ac 1:20*";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1b7f5227e70f",m="# Ecclesiastes 7:22 (New International Version)\nfor you know in your heart  \n    that many times you yourself have cursed others.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

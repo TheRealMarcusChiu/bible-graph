@@ -1,0 +1,1 @@
+(function(){var b="9cb744887b2d",m="# Job 39:30 (New International Version)\nIts young ones feast on blood,  \n    and where the slain are, there it is.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Matt-24-28|Mt 24:28]]; [[Luke-17-37|Lk 17:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

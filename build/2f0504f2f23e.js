@@ -1,0 +1,1 @@
+(function(){var b="2f0504f2f23e",m="# Psalm 106:32 (New International Version)\nBy the waters of Meribah<sup>^A</sup> they angered the LORD,  \n    and trouble came to Moses because of them;\n\n### Crossrefs\n- A: S [[Exod-17-7|Ex 17:7]]; [[Num-20-2|Nu 20:2-13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

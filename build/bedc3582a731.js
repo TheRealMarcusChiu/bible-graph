@@ -1,0 +1,1 @@
+(function(){var b="bedc3582a731",m="# Job 28:21 (New International Version)\nIt is hidden from the eyes of every living thing,  \n    concealed even from the birds in the sky.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-28-7|ver 7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

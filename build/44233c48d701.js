@@ -1,0 +1,1 @@
+(function(){var b="44233c48d701",m="# Ezra 8:13 (New International Version)\nof the descendants of Adonikam,<sup>^A</sup> the last ones, whose names were Eliphelet, Jeuel and Shemaiah, and with them 60 men;\n\n### Crossrefs\n- A: [[Ezra-2-13|Ezr 2:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

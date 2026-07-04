@@ -1,0 +1,1 @@
+(function(){var b="e3f3e043caec",m="# Job 2:6 (New International Version)\nThe LORD said to Satan, \"Very well, then, he is in your hands;<sup>^A</sup> but you must spare his life.\"<sup>^B</sup>\n\n### Crossrefs\n- A: [[2Cor-12-7|2Co 12:7]]\n- B: S [[Job-1-12|Job 1:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

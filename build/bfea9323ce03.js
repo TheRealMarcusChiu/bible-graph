@@ -1,0 +1,1 @@
+(function(){var b="bfea9323ce03",m="# Zechariah 4:12 (New International Version)\nAgain I asked him, \"What are these two olive branches beside the two gold pipes that pour out golden oil?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

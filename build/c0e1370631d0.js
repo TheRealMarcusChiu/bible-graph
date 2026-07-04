@@ -1,0 +1,1 @@
+(function(){var b="c0e1370631d0",m="# Job 37:14 (New International Version)\n\"Listen<sup>^A</sup> to this, Job;  \n    stop and consider God's wonders.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-32-10|Job 32:10]]\n- B: S [[Job-5-9|Job 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

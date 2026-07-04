@@ -1,0 +1,1 @@
+(function(){var b="d4045020c959",m="# Nehemiah 3:19 (New International Version)\nNext to him, Ezer son of Jeshua, ruler of Mizpah, repaired another section, from a point facing the ascent to the armory as far as the angle of the wall.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

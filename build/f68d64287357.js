@@ -1,0 +1,1 @@
+(function(){var b="f68d64287357",m="# Proverbs 21:15 (New International Version)\nWhen justice is done, it brings joy to the righteous  \n    but terror to evildoers.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-29|Pr 10:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

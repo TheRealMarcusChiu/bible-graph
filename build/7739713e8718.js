@@ -1,0 +1,1 @@
+(function(){var b="7739713e8718",m="# 1 Chronicles 6:66 (New International Version)\nSome of the Kohathite clans were given as their territory towns from the tribe of Ephraim.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

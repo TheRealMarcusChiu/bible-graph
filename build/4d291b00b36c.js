@@ -1,0 +1,1 @@
+(function(){var b="4d291b00b36c",m="# Proverbs 11:29 (New International Version)\nWhoever brings ruin on their family will inherit only wind,  \n    and the fool will be servant to the wise.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-14-19|Pr 14:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

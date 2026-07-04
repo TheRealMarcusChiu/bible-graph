@@ -1,0 +1,1 @@
+(function(){var b="92c2b517bc62",m="# Psalm 89:23 (New International Version)\nI will crush his foes before him<sup>^A</sup>  \n    and strike down his adversaries.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-18-40|Ps 18:40]]\n- B: [[2Sam-7-9|2Sa 7:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

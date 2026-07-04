@@ -1,0 +1,1 @@
+(function(){var b="aee999394e4f",m="# Proverbs 16:19 (New International Version)\nBetter to be lowly in spirit along with the oppressed  \n    than to share plunder with the proud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

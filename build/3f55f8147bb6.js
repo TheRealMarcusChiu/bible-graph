@@ -1,0 +1,1 @@
+(function(){var b="3f55f8147bb6",m="# Proverbs 18:3 (New International Version)\nWhen wickedness comes, so does contempt,  \n    and with shame comes reproach.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

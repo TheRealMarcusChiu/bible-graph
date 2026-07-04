@@ -1,0 +1,1 @@
+(function(){var b="50217fb658b3",m="# Psalm 127:4 (New International Version)\nLike arrows<sup>^A</sup> in the hands of a warrior  \n    are children born in one's youth.\n\n### Crossrefs\n- A: [[Ps-112-2|Ps 112:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

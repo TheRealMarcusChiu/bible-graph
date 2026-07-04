@@ -1,0 +1,1 @@
+(function(){var b="922e1c50bce1",m="# Job 9:14 (New International Version)\n\"How then can I dispute with him?  \n    How can I find words to argue with him?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

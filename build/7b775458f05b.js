@@ -1,0 +1,1 @@
+(function(){var b="7b775458f05b",m="# 1 Chronicles 7:1 (New International Version)\nIssachar\nThe sons of Issachar:<sup>^A</sup>\nTola, Puah,<sup>^B</sup> Jashub and Shimron--four in all.\n\n### Crossrefs\n- A: S [[Gen-30-18|Ge 30:18]]\n- B: S [[Gen-46-13|Ge 46:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

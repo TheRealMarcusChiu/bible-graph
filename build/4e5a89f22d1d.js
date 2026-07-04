@@ -1,0 +1,1 @@
+(function(){var b="4e5a89f22d1d",m="# Proverbs 25:4 (New International Version)\nRemove the dross from the silver,  \n    and a silversmith can produce a vessel;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

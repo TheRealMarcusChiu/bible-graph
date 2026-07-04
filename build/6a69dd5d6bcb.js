@@ -1,0 +1,1 @@
+(function(){var b="6a69dd5d6bcb",m="# Proverbs 5\n\nWise sayings on living skillfully in the fear of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

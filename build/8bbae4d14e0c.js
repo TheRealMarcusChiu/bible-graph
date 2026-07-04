@@ -1,0 +1,1 @@
+(function(){var b="8bbae4d14e0c",m="# Job 42:13 (New International Version)\nAnd he also had seven sons and three daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="11599e122a33",m="# Proverbs 17:6 (New International Version)\nChildren's children<sup>^A</sup> are a crown to the aged,  \n    and parents are the pride of their children.\n\n### Crossrefs\n- A: S [[Ps-128-5|Ps 128:5-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

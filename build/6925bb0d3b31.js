@@ -1,0 +1,1 @@
+(function(){var b="6925bb0d3b31",m="# Psalm 106:41 (New International Version)\nHe gave them into the hands<sup>^A</sup> of the nations,  \n    and their foes ruled over them.\n\n### Crossrefs\n- A: S [[Judg-2-14|Jdg 2:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

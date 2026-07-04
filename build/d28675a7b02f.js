@@ -1,0 +1,1 @@
+(function(){var b="d28675a7b02f",m="# 2 Kings 13:22 (New International Version)\nHazael king of Aram oppressed<sup>^A</sup> Israel throughout the reign of Jehoahaz. \n\n### Crossrefs\n- A: S [[1Kgs-19-17|1Ki 19:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

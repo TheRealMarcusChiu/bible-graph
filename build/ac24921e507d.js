@@ -1,0 +1,1 @@
+(function(){var b="ac24921e507d",m="# 1 Chronicles 18:13 (New International Version)\nHe put garrisons in Edom, and all the Edomites became subject to David. The LORD gave David victory wherever he went.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

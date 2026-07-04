@@ -1,0 +1,1 @@
+(function(){var b="ab9feb8cdb7d",m="# Psalm 81:8 (New International Version)\nHear me, my people,<sup>^A</sup> and I will warn you--  \n    if you would only listen to me, Israel!\n\n### Crossrefs\n- A: [[Ps-50-7|Ps 50:7]]; [[Ps-78-1|78:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

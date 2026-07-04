@@ -1,0 +1,1 @@
+(function(){var b="a6057da0fa7d",m="# Psalm 109:19 (New International Version)\nMay it be like a cloak wrapped<sup>^A</sup> about him,  \n    like a belt tied forever around him.\n\n### Crossrefs\n- A: [[Ps-109-29|ver 29]]; [[Ps-73-6|Ps 73:6]]; [[Ezek-7-27|Eze 7:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

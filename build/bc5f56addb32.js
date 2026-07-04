@@ -1,0 +1,1 @@
+(function(){var b="bc5f56addb32",m="# Jeremiah 50:22 (New International Version)\nThe noise<sup>^A</sup> of battle is in the land,  \n    the noise of great destruction!\n\n### Crossrefs\n- A: [[Jer-4-19|Jer 4:19-21]]; [[Jer-51-54|51:54]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

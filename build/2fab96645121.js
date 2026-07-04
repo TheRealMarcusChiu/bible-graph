@@ -1,0 +1,1 @@
+(function(){var b="2fab96645121",m="# Psalm 106:27 (New International Version)\nmake their descendants fall among the nations  \n    and scatter<sup>^A</sup> them throughout the lands.\n\n### Crossrefs\n- A: S [[Lev-26-33|Lev 26:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

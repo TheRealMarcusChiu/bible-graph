@@ -1,0 +1,1 @@
+(function(){var b="7b5cc6ea702a",m="# Psalm 106:18 (New International Version)\nFire blazed<sup>^A</sup> among their followers;  \n    a flame consumed the wicked.\n\n### Crossrefs\n- A: S [[Lev-10-2|Lev 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

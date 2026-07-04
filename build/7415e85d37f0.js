@@ -1,0 +1,1 @@
+(function(){var b="7415e85d37f0",m="# Proverbs 13:2 (New International Version)\nFrom the fruit of their lips people enjoy good things,<sup>^A</sup>  \n    but the unfaithful have an appetite for violence.\n\n### Crossrefs\n- A: S [[Prov-12-14|Pr 12:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

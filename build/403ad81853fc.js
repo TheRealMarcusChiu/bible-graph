@@ -1,0 +1,1 @@
+(function(){var b="403ad81853fc",m="# Proverbs 31:20 (New International Version)\nShe opens her arms to the poor  \n    and extends her hands to the needy.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-15-11|Dt 15:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

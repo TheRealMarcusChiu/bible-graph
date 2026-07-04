@@ -1,0 +1,1 @@
+(function(){var b="005ddd882018",m="# Psalm 36:2 (New International Version)\nIn their own eyes they flatter themselves  \n    too much to detect or hate their sin.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-29-19|Dt 29:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

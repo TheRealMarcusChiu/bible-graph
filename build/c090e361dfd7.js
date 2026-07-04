@@ -1,0 +1,1 @@
+(function(){var b="c090e361dfd7",m="# Psalm 119:15 (New International Version)\nI meditate on your precepts<sup>^A</sup>  \n    and consider your ways.\n\n### Crossrefs\n- A: [[Ps-119-97|ver 97]], [[Ps-119-148|148]]; [[Ps-1-2|Ps 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

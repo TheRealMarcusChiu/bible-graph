@@ -1,0 +1,1 @@
+(function(){var b="edd45ab5de2f",m="# Proverbs 31:2 (New International Version)\nListen, my son! Listen, son of my womb!  \n    Listen, my son, the answer to my prayers!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Judg-11-30|Jdg 11:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

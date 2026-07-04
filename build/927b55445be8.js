@@ -1,0 +1,1 @@
+(function(){var b="927b55445be8",m="# Job 19:3 (New International Version)\nTen times<sup>^A</sup> now you have reproached<sup>^B</sup> me;  \n    shamelessly you attack me.\n\n### Crossrefs\n- A: S [[Gen-31-7|Ge 31:7]]\n- B: [[Job-20-3|Job 20:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

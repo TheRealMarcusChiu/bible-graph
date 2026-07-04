@@ -1,0 +1,1 @@
+(function(){var b="c454e02a454e",m="# Job 19:16 (New International Version)\nI summon my servant, but he does not answer,  \n    though I beg him with my own mouth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

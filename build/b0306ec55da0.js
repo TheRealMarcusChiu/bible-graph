@@ -1,0 +1,1 @@
+(function(){var b="b0306ec55da0",m="# Psalm 29:10 (New International Version)\nThe LORD sits enthroned over the flood;<sup>^A</sup>  \n    the LORD is enthroned as King forever.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Gen-6-17|Ge 6:17]]\n- B: S [[Exod-15-18|Ex 15:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="831fe19b8788",m="# 1 Chronicles 27:2 (New International Version)\nIn charge of the first division, for the first month, was Jashobeam<sup>^A</sup> son of Zabdiel. There were 24,000 men in his division. \n\n### Crossrefs\n- A: [[2Sam-23-8|2Sa 23:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

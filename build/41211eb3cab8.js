@@ -1,0 +1,1 @@
+(function(){var b="41211eb3cab8",m="# Job 3:22 (New International Version)\nwho are filled with gladness  \n    and rejoice when they reach the grave?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-7-16|Job 7:16]]; [[Eccl-4-3|Ecc 4:3]]; [[Jer-8-3|Jer 8:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

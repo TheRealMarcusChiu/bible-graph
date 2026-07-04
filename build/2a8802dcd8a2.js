@@ -1,0 +1,1 @@
+(function(){var b="2a8802dcd8a2",m="# 2 Chronicles 9:27 (New International Version)\nThe king made silver as common in Jerusalem as stones, and cedar as plentiful as sycamore-fig trees in the foothills.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

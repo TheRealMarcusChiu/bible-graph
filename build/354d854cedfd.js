@@ -1,0 +1,1 @@
+(function(){var b="354d854cedfd",m="# 2 Chronicles 2:2 (New International Version)\nHe conscripted 70,000 men as carriers and 80,000 as stonecutters in the hills and 3,600 as foremen over them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Chr-10-4|2Ch 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

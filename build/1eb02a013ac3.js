@@ -1,0 +1,1 @@
+(function(){var b="1eb02a013ac3",m="# Psalm 18:44 (New International Version)\nforeigners<sup>^A</sup> cower before me;  \n    as soon as they hear of me, they obey me.\n\n### Crossrefs\n- A: [[Ps-54-3|Ps 54:3]]; [[Ps-144-7|144:7]], [[Ps-144-11|11]]; [[Isa-25-5|Isa 25:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

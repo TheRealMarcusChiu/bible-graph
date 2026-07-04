@@ -1,0 +1,1 @@
+(function(){var b="1082dcb6beb7",m="# Proverbs 24:4 (New International Version)\nthrough knowledge its rooms are filled  \n    with rare and beautiful treasures.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-8-21|Pr 8:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

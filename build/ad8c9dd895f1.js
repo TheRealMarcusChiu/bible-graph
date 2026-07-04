@@ -1,0 +1,1 @@
+(function(){var b="ad8c9dd895f1",m="# Psalm 119:79 (New International Version)\nMay those who fear you turn to me,  \n    those who understand your statutes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-27|ver 27]], [[Ps-119-125|125]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

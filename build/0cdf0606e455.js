@@ -1,0 +1,1 @@
+(function(){var b="0cdf0606e455",m="# Psalm 118:7 (New International Version)\nThe LORD is with me; he is my helper.<sup>^A</sup>  \n    I look in triumph on my enemies.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-33-29|Dt 33:29]]\n- B: S [[Ps-54-7|Ps 54:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

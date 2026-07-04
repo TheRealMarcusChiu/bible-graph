@@ -1,0 +1,1 @@
+(function(){var b="284962e93521",m="# Psalm 115:2 (New International Version)\nWhy do the nations say,  \n    \"Where is their God?\"<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-42-3|Ps 42:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

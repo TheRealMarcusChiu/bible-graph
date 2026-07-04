@@ -1,0 +1,1 @@
+(function(){var b="859b5790820d",m="# Psalm 74:16 (New International Version)\nThe day is yours, and yours also the night;  \n    you established the sun and moon.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-1-16|Ge 1:16]]; [[Ps-136-7|Ps 136:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

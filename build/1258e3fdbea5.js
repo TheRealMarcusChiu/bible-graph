@@ -1,0 +1,1 @@
+(function(){var b="1258e3fdbea5",m="# Daniel 2:7 (New International Version)\nOnce more they replied, \"Let the king tell his servants the dream, and we will interpret it.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

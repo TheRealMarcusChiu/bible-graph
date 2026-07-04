@@ -1,0 +1,1 @@
+(function(){var b="957b01390fd3",m="# 1 Chronicles 3:21 (New International Version)\nThe descendants of Hananiah:\nPelatiah and Jeshaiah, and the sons of Rephaiah, of Arnan, of Obadiah and of Shekaniah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

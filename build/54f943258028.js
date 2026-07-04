@@ -1,0 +1,1 @@
+(function(){var b="54f943258028",m="# Proverbs 16:28 (New International Version)\nA perverse person stirs up conflict,<sup>^A</sup>  \n    and a gossip separates close friends.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Prov-14-17|Pr 14:17]]\n- B: [[Prov-17-9|Pr 17:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="25b68e3e9ddc",m="# Job 34:27 (New International Version)\nbecause they turned from following him<sup>^A</sup>  \n    and had no regard for any of his ways.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-14-3|Ps 14:3]]\n- B: S [[1Sam-15-11|1Sa 15:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

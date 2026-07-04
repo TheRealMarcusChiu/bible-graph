@@ -1,0 +1,1 @@
+(function(){var b="464796de14d0",m="# Psalm 58:4 (New International Version)\nTheir venom is like the venom of a snake,<sup>^A</sup>  \n    like that of a cobra that has stopped its ears,\n\n### Crossrefs\n- A: S [[Num-21-6|Nu 21:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

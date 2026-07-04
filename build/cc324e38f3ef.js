@@ -1,0 +1,1 @@
+(function(){var b="cc324e38f3ef",m="# Psalm 22:28 (New International Version)\nfor dominion belongs to the LORD<sup>^A</sup>  \n    and he rules over the nations.\n\n### Crossrefs\n- A: [[Ps-47-7|Ps 47:7-8]]; [[Zech-14-9|Zec 14:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

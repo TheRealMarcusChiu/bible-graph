@@ -1,0 +1,1 @@
+(function(){var b="aa998be7bf10",m="# 2 Kings 6:5 (New International Version)\nAs one of them was cutting down a tree, the iron axhead fell into the water. \"Oh no, my lord!\" he cried out. \"It was borrowed!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="77a56c9292f2",m="# Lamentations 3:63 (New International Version)\nLook at them! Sitting or standing,  \n    they mock me in their songs.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-30-9|Job 30:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

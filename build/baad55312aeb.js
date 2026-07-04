@@ -1,0 +1,1 @@
+(function(){var b="baad55312aeb",m="# Ezekiel 2:2 (New International Version)\nAs he spoke, the Spirit came into me and raised me<sup>^A</sup> to my feet, and I heard him speaking to me.\n\n### Crossrefs\n- A: [[Ezek-3-24|Eze 3:24]]; [[Dan-8-18|Da 8:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

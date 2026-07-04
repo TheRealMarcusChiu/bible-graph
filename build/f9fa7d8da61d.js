@@ -1,0 +1,1 @@
+(function(){var b="f9fa7d8da61d",m="# Esther 3:2 (New International Version)\nAll the royal officials at the king's gate knelt down and paid honor to Haman, for the king had commanded this concerning him. But Mordecai would not kneel down or pay him honor.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

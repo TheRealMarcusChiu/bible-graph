@@ -1,0 +1,1 @@
+(function(){var b="94b3d5afde3c",m="# Ezekiel 41:11 (New International Version)\nThere were entrances to the side rooms from the open area, one on the north and another on the south; and the base adjoining the open area was five cubits wide all around.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

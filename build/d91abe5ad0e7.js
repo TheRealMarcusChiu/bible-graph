@@ -1,0 +1,1 @@
+(function(){var b="d91abe5ad0e7",m="# Proverbs 3:20 (New International Version)\nby his knowledge the watery depths were divided,  \n    and the clouds let drop the dew.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

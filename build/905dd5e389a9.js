@@ -1,0 +1,1 @@
+(function(){var b="905dd5e389a9",m="# 1 Chronicles 4:31 (New International Version)\nBeth Markaboth, Hazar Susim, Beth Biri and Shaaraim.<sup>^A</sup> These were their towns until the reign of David. \n\n### Crossrefs\n- A: S [[Josh-15-36|Jos 15:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

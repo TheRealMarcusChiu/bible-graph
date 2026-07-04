@@ -1,0 +1,1 @@
+(function(){var b="544b398bf696",m="# Psalm 78:67 (New International Version)\nThen he rejected the tents of Joseph,  \n    he did not choose the tribe of Ephraim;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-7-15|Jer 7:15]]; [[Hos-9-13|Hos 9:13]]; [[Hos-12-1|12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

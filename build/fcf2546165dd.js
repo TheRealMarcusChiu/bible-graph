@@ -1,0 +1,1 @@
+(function(){var b="fcf2546165dd",m="# Job 41:27 (New International Version)\nIron it treats like straw<sup>^A</sup>  \n    and bronze like rotten wood.\n\n### Crossrefs\n- A: [[Job-41-29|ver 29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

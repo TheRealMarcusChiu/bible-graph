@@ -1,0 +1,1 @@
+(function(){var b="c54cb33e9bed",m="# Amos 5:23 (New International Version)\nAway with the noise of your songs!  \n    I will not listen to the music of your harps.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Amos-6-5|Am 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

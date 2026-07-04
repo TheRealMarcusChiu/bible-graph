@@ -1,0 +1,1 @@
+(function(){var b="d35ade0cf13c",m="# Isaiah 2:16 (New International Version)\nfor every trading ship<sup>^A</sup>  \n    and every stately vessel.\n\n### Crossrefs\n- A: <i>fn</i> S Ge 10:4; S [[1Kgs-9-26|1Ki 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

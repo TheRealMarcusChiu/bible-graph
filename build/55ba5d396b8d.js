@@ -1,0 +1,1 @@
+(function(){var b="55ba5d396b8d",m="# 1 Chronicles 4:40 (New International Version)\nThey found rich, good pasture, and the land was spacious, peaceful and quiet.<sup>^A</sup> Some Hamites had lived there formerly.\n\n### Crossrefs\n- A: [[Judg-18-7|Jdg 18:7-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

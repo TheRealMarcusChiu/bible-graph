@@ -1,0 +1,1 @@
+(function(){var b="fc030f9d4d9b",m="# Ecclesiastes 10:15 (New International Version)\nThe toil of fools wearies them;  \n    they do not know the way to town.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

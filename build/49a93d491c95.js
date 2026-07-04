@@ -1,0 +1,1 @@
+(function(){var b="49a93d491c95",m="# Psalm 2:1 (New International Version)\nPsalm 2\nWhy do the nations conspire  \n    and the peoples plot<sup>^A</sup> in vain?\n\n### Crossrefs\n- A: [[Ps-21-11|Ps 21:11]]; [[Ps-83-5|83:5]]; [[Prov-24-2|Pr 24:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4d8468080603",m="# Psalm 41:11 (New International Version)\nI know that you are pleased with me,<sup>^A</sup>  \n    for my enemy does not triumph over me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-14-8|Nu 14:8]]\n- B: [[Ps-25-2|Ps 25:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

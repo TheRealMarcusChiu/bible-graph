@@ -1,0 +1,1 @@
+(function(){var b="40c0f9eca2e5",m="# Habakkuk 1:9 (New International Version)\nthey all come intent on violence.  \nTheir hordes advance like a desert wind  \n    and gather prisoners<sup>^A</sup> like sand.\n\n### Crossrefs\n- A: [[Hab-2-5|Hab 2:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

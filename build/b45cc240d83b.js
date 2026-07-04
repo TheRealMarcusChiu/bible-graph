@@ -1,0 +1,1 @@
+(function(){var b="b45cc240d83b",m="# Proverbs 8:19 (New International Version)\nMy fruit is better than fine gold;<sup>^A</sup>  \n    what I yield surpasses choice silver.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-28-17|Job 28:17-19]]\n- B: S [[Prov-3-13|Pr 3:13-14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

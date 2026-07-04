@@ -1,0 +1,1 @@
+(function(){var b="c7022a286729",m="# Nehemiah 5:6 (New International Version)\nWhen I heard their outcry and these charges, I was very angry.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

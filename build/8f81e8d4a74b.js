@@ -1,0 +1,1 @@
+(function(){var b="8f81e8d4a74b",m="# 2 Chronicles 23:5 (New International Version)\na third of you at the royal palace and a third at the Foundation Gate, and all the others are to be in the courtyards of the temple of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

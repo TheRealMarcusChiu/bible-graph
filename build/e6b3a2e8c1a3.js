@@ -1,0 +1,1 @@
+(function(){var b="e6b3a2e8c1a3",m="# Proverbs 23:23 (New International Version)\nBuy the truth and do not sell it--  \n    wisdom, instruction and insight as well.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-4-7|Pr 4:7]]; [[Prov-17-16|17:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c0c5c748e5c3",m="# Psalm 49:16 (New International Version)\nDo not be overawed when others grow rich,  \n    when the splendor of their houses increases;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

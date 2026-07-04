@@ -1,0 +1,1 @@
+(function(){var b="3e9b66bdf299",m="# 1 Chronicles 21:11 (New International Version)\nSo Gad went to David and said to him, \"This is what the LORD says: 'Take your choice:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

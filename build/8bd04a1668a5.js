@@ -1,0 +1,1 @@
+(function(){var b="8bd04a1668a5",m="# Psalm 9:16 (New International Version)\nThe LORD is known by his acts of justice;  \n    the wicked are ensnared by the work of their hands.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-5-22|Pr 5:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

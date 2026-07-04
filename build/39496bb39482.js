@@ -1,0 +1,1 @@
+(function(){var b="39496bb39482",m="# Job 34:3 (New International Version)\nFor the ear tests words  \n    as the tongue tastes food.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-12-11|Job 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

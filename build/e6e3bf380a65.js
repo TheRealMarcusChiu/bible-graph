@@ -1,0 +1,1 @@
+(function(){var b="e6e3bf380a65",m="# Psalm 64:6 (New International Version)\nThey plot injustice and say,  \n    \"We have devised a perfect plan!\"  \n    Surely the human mind and heart are cunning.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

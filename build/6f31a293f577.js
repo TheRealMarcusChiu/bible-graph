@@ -1,0 +1,1 @@
+(function(){var b="6f31a293f577",m="# Ezra 7:13 (New International Version)\nNow I decree that any of the Israelites in my kingdom, including priests and Levites, who volunteer to go to Jerusalem with you, may go.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

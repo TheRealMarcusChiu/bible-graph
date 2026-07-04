@@ -1,0 +1,1 @@
+(function(){var b="ef3f526c35ae",m="# Psalm 2:3 (New International Version)\n\"Let us break their chains<sup>^A</sup>  \n    and throw off their shackles.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-36-8|Job 36:8]]\n- B: S [[2Sam-3-34|2Sa 3:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

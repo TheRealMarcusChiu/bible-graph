@@ -1,0 +1,1 @@
+(function(){var b="6d87516718a7",m="# Malachi 2:4 (New International Version)\nAnd you will know that I have sent you this warning so that my covenant with Levi<sup>^A</sup> may continue,\" says the LORD Almighty. \n\n### Crossrefs\n- A: S [[Num-3-12|Nu 3:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

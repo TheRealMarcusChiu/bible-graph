@@ -1,0 +1,1 @@
+(function(){var b="1e8a2863b548",m="# Ezra 2:55 (New International Version)\nThe descendants of the servants of Solomon:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

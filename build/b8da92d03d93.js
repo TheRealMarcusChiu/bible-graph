@@ -1,0 +1,1 @@
+(function(){var b="b8da92d03d93",m="# 1 Chronicles 1:12 (New International Version)\nPathrusites, Kasluhites (from whom the Philistines came) and Caphtorites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

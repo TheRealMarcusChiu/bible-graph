@@ -1,0 +1,1 @@
+(function(){var b="332ac79e8acd",m="# Proverbs 17:24 (New International Version)\nA discerning person keeps wisdom in view,  \n    but a fool's eyes<sup>^A</sup> wander to the ends of the earth.\n\n### Crossrefs\n- A: S [[Job-31-1|Job 31:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

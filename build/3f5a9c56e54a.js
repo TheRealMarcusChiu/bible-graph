@@ -1,0 +1,1 @@
+(function(){var b="3f5a9c56e54a",m="# Psalm 69:32 (New International Version)\nThe poor will see and be glad<sup>^A</sup>--  \n    you who seek God, may your hearts live!<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-34-2|Ps 34:2]]\n- B: [[Ps-22-26|Ps 22:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

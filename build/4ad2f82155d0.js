@@ -1,0 +1,1 @@
+(function(){var b="4ad2f82155d0",m="# Ezekiel 1:25 (New International Version)\nThen there came a voice from above the vault over their heads as they stood with lowered wings.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

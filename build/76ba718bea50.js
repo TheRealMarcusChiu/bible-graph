@@ -1,0 +1,1 @@
+(function(){var b="76ba718bea50",m="# Psalm 118:10 (New International Version)\nAll the nations surrounded me,  \n    but in the name of the LORD I cut them down.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-37-9|Ps 37:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

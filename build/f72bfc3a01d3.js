@@ -1,0 +1,1 @@
+(function(){var b="f72bfc3a01d3",m="# Ezekiel 23:30 (New International Version)\nhave brought this on you, because you lusted after the nations and defiled yourself with their idols.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ps-106-37|Ps 106:37-38]]; [[Zeph-3-1|Zep 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

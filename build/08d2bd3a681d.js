@@ -1,0 +1,1 @@
+(function(){var b="08d2bd3a681d",m="# 2 Kings 4:3 (New International Version)\nElisha said, \"Go around and ask all your neighbors for empty jars. Don't ask for just a few.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

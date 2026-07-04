@@ -1,0 +1,1 @@
+(function(){var b="d8d7beeb74ee",m="# Esther 1:2 (New International Version)\nAt that time King Xerxes reigned from his royal throne in the citadel of Susa,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezra-4-9|Ezr 4:9]]; S [[Esth-2-8|Est 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

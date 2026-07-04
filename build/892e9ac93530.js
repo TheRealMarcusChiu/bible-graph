@@ -1,0 +1,1 @@
+(function(){var b="892e9ac93530",m="# Isaiah 63:2 (New International Version)\nWhy are your garments red,  \n    like those of one treading the winepress?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-49-11|Ge 49:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

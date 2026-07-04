@@ -1,0 +1,1 @@
+(function(){var b="507df2414af3",m="# 1 Chronicles 1:7 (New International Version)\nThe sons of Javan:\nElishah, Tarshish, the Kittites and the Rodanites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

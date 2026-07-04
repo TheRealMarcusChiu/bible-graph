@@ -1,0 +1,1 @@
+(function(){var b="5ba4954f278f",m="# 1 Chronicles 26:9 (New International Version)\nMeshelemiah had sons and relatives, who were able men--18 in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

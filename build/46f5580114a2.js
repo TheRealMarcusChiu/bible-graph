@@ -1,0 +1,1 @@
+(function(){var b="46f5580114a2",m="# 2 Kings 8:4 (New International Version)\nThe king was talking to Gehazi, the servant of the man of God, and had said, \"Tell me about all the great things Elisha has done.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

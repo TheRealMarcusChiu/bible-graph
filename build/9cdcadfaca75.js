@@ -1,0 +1,1 @@
+(function(){var b="9cdcadfaca75",m="# Psalm 132:5 (New International Version)\ntill I find a place<sup>^A</sup> for the LORD,  \n    a dwelling for the Mighty One of Jacob.\"\n\n### Crossrefs\n- A: S [[1Kgs-8-17|1Ki 8:17]]; [[Acts-7-46|Ac 7:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

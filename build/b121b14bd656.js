@@ -1,0 +1,1 @@
+(function(){var b="b121b14bd656",m="# Psalm 78:27 (New International Version)\nHe rained meat down on them like dust,  \n    birds<sup>^A</sup> like sand on the seashore.\n\n### Crossrefs\n- A: S [[Exod-16-13|Ex 16:13]]; [[Num-11-31|Nu 11:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

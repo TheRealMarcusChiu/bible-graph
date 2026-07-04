@@ -1,0 +1,1 @@
+(function(){var b="2b5c25afd7f2",m="# Ezekiel 10:13 (New International Version)\nI heard the wheels being called \"the whirling wheels.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cad993f43664",m="# Ezekiel 41:23 (New International Version)\nBoth the main hall<sup>^A</sup> and the Most Holy Place had double doors.<sup>^B</sup> \n\n### Crossrefs\n- A: [[Ezek-41-1|ver 1]]\n- B: [[1Kgs-6-32|1Ki 6:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

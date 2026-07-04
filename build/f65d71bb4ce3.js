@@ -1,0 +1,1 @@
+(function(){var b="f65d71bb4ce3",m="# Psalm 21:13 (New International Version)\nBe exalted<sup>^A</sup> in your strength, LORD;<sup>^B</sup>  \n    we will sing and praise your might.\n\n### Crossrefs\n- A: S [[Ps-18-46|Ps 18:46]]\n- B: [[Ps-18-1|Ps 18:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

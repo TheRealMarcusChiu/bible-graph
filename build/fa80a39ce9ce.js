@@ -1,0 +1,1 @@
+(function(){var b="fa80a39ce9ce",m="# Ezra 10:12 (New International Version)\nThe whole assembly responded with a loud voice:<sup>^A</sup> \"You are right! We must do as you say. \n\n### Crossrefs\n- A: S [[Josh-6-5|Jos 6:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f052ee9cc473",m="# Proverbs 19:2 (New International Version)\nDesire without knowledge is not good--  \n    how much more will hasty feet miss the way!<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-29-20|Pr 29:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

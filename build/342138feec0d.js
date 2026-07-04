@@ -1,0 +1,1 @@
+(function(){var b="342138feec0d",m="# Psalm 116:18 (New International Version)\nI will fulfill my vows<sup>^A</sup> to the LORD  \n    in the presence of all his people,\n\n### Crossrefs\n- A: [[Ps-116-14|ver 14]]; S [[Lev-22-18|Lev 22:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

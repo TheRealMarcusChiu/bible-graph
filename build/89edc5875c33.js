@@ -1,0 +1,1 @@
+(function(){var b="89edc5875c33",m="# Proverbs 27:14 (New International Version)\nIf anyone loudly blesses their neighbor early in the morning,  \n    it will be taken as a curse.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

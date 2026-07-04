@@ -1,0 +1,1 @@
+(function(){var b="f63de0b48c2c",m="# 1 Chronicles 4:14 (New International Version)\nMeonothai was the father of Ophrah.\nSeraiah was the father of Joab,\nthe father of Ge Harashim. It was called this because its people were skilled workers.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

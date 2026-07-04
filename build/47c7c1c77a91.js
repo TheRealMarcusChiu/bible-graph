@@ -1,0 +1,1 @@
+(function(){var b="47c7c1c77a91",m="# Ezekiel 22:5 (New International Version)\nThose who are near and those who are far away will mock you, you infamous city, full of turmoil.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-22-2|Isa 22:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

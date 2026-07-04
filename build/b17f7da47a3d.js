@@ -1,0 +1,1 @@
+(function(){var b="b17f7da47a3d",m="# Jeremiah 46:3 (New International Version)\n\"Prepare your shields,<sup>^A</sup> both large and small,  \n    and march out for battle!\n\n### Crossrefs\n- A: S [[Isa-21-5|Isa 21:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bacb3b07a2a6",m="# Psalm 94:4 (New International Version)\nThey pour out arrogant<sup>^A</sup> words;  \n    all the evildoers are full of boasting.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Jer-43-2|Jer 43:2]]\n- B: S [[Ps-52-1|Ps 52:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

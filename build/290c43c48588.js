@@ -1,0 +1,1 @@
+(function(){var b="290c43c48588",m="# Ecclesiastes 7:17 (New International Version)\nDo not be overwicked,  \n    and do not be a fool--  \n    why die before your time?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-15-32|Job 15:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

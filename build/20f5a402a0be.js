@@ -1,0 +1,1 @@
+(function(){var b="20f5a402a0be",m="# Ezekiel 10:21 (New International Version)\nEach had four faces<sup>^A</sup> and four wings,<sup>^B</sup> and under their wings was what looked like human hands. \n\n### Crossrefs\n- A: [[Ezek-41-18|Eze 41:18]]\n- B: [[Ezek-1-6|Eze 1:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

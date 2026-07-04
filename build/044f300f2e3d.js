@@ -1,0 +1,1 @@
+(function(){var b="044f300f2e3d",m="# Nehemiah 4:23 (New International Version)\nNeither I nor my brothers nor my men nor the guards with me took off our clothes; each had his weapon, even when he went for water.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

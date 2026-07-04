@@ -1,0 +1,1 @@
+(function(){var b="5882aa9fdc15",m="# Ezekiel 13:12 (New International Version)\nWhen the wall collapses, will people not ask you, \"Where is the whitewash you covered it with?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

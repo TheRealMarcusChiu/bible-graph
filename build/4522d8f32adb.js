@@ -1,0 +1,1 @@
+(function(){var b="4522d8f32adb",m="# Proverbs 2:21 (New International Version)\nFor the upright will live in the land,<sup>^A</sup>  \n    and the blameless will remain in it;\n\n### Crossrefs\n- A: S [[Ps-37-29|Ps 37:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

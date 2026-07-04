@@ -1,0 +1,1 @@
+(function(){var b="26a8bb8904a3",m="# Psalm 102:5 (New International Version)\nIn my distress I groan aloud<sup>^A</sup>  \n    and am reduced to skin and bones.\n\n### Crossrefs\n- A: S [[Ps-6-6|Ps 6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

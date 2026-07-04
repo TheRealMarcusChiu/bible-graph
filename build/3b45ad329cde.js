@@ -1,0 +1,1 @@
+(function(){var b="3b45ad329cde",m="# Nehemiah 4:16 (New International Version)\nFrom that day on, half of my men did the work, while the other half were equipped with spears, shields, bows and armor. The officers posted themselves behind all the people of Judah";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

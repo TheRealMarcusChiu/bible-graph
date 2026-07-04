@@ -1,0 +1,1 @@
+(function(){var b="0a3b6edb9056",m="# Ezekiel 43:3 (New International Version)\nThe vision I saw was like the vision I had seen when he came to destroy the city and like the visions I had seen by the Kebar River, and I fell facedown.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

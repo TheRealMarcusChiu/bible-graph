@@ -1,0 +1,1 @@
+(function(){var b="c5b76e3795d3",m="# Ezekiel 40:41 (New International Version)\nSo there were four tables on one side of the gateway and four on the other--eight tables in all--on which the sacrifices were slaughtered.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

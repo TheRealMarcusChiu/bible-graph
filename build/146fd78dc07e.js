@@ -1,0 +1,1 @@
+(function(){var b="146fd78dc07e",m="# Proverbs 5:3 (New International Version)\nFor the lips of the adulterous woman drip honey,  \n    and her speech is smoother than oil;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-55-21|Ps 55:21]]; [[Prov-7-5|Pr 7:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

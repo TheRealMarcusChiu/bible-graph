@@ -1,0 +1,1 @@
+(function(){var b="d36281f8dfca",m="# Proverbs 27:27 (New International Version)\nYou will have plenty of goats' milk to feed your family  \n    and to nourish your female servants.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

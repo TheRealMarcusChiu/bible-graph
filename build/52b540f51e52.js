@@ -1,0 +1,1 @@
+(function(){var b="52b540f51e52",m="# Habakkuk 3:12 (New International Version)\nIn wrath you strode through the earth  \n    and in anger you threshed<sup>^A</sup> the nations.\n\n### Crossrefs\n- A: S [[Isa-41-15|Isa 41:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1184787e9543",m="# Psalm 138:4 (New International Version)\nMay all the kings of the earth<sup>^A</sup> praise you, LORD,  \n    when they hear what you have decreed.\n\n### Crossrefs\n- A: [[Ps-72-11|Ps 72:11]]; [[Ps-102-15|102:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

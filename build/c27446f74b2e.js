@@ -1,0 +1,1 @@
+(function(){var b="c27446f74b2e",m="# 2 Chronicles 14:1 (New International Version)\nAnd Abijah rested with his ancestors and was buried in the City of David. Asa his son succeeded him as king, and in his days the country was at peace for ten years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

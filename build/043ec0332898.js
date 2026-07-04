@@ -1,0 +1,1 @@
+(function(){var b="043ec0332898",m="# 1 Chronicles 24:15 (New International Version)\nthe seventeenth to Hezir,<sup>^A</sup>\nthe eighteenth to Happizzez,\n\n### Crossrefs\n- A: [[Neh-10-20|Ne 10:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

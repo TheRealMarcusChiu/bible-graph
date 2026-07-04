@@ -1,0 +1,1 @@
+(function(){var b="53970ef9c57e",m="# Psalm 35:24 (New International Version)\nVindicate me in your righteousness, LORD my God;  \n    do not let them gloat<sup>^A</sup> over me.\n\n### Crossrefs\n- A: [[Ps-22-17|Ps 22:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

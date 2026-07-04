@@ -1,0 +1,1 @@
+(function(){var b="e11fe24934f4",m="# Psalm 118:14 (New International Version)\nThe LORD is my strength<sup>^A</sup> and my defense;  \n    he has become my salvation.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-15-2|Ex 15:2]]\n- B: S [[Ps-62-2|Ps 62:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

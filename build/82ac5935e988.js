@@ -1,0 +1,1 @@
+(function(){var b="82ac5935e988",m="# Psalm 92:11 (New International Version)\nMy eyes have seen the defeat of my adversaries;  \n    my ears have heard the rout of my wicked foes.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-54-7|Ps 54:7]]; [[Ps-91-8|91:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

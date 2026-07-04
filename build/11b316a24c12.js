@@ -1,0 +1,1 @@
+(function(){var b="11b316a24c12",m="# 1 Chronicles 1:8 (New International Version)\nThe sons of Ham:\nCush, Egypt, Put and Canaan.\n\n### Crossrefs\n- A: [[1Chr-1-8|1:8-16pp]] — [[Gen-10-6|Ge 10:6-20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

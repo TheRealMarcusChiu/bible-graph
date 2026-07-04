@@ -1,0 +1,1 @@
+(function(){var b="90324847fcd9",m="# Proverbs 11:17 (New International Version)\nThose who are kind benefit themselves,  \n    but the cruel bring ruin on themselves.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

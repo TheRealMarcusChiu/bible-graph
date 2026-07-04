@@ -1,0 +1,1 @@
+(function(){var b="d062fb0d1f6b",m="# 2 Chronicles 23:7 (New International Version)\nThe Levites are to station themselves around the king, each with weapon in hand. Anyone who enters the temple is to be put to death. Stay close to the king wherever he goes.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

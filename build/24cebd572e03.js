@@ -1,0 +1,1 @@
+(function(){var b="24cebd572e03",m="# Lamentations 3:65 (New International Version)\nPut a veil over their hearts,<sup>^A</sup>  \n    and may your curse be on them!\n\n### Crossrefs\n- A: [[Exod-14-8|Ex 14:8]]; [[Deut-2-30|Dt 2:30]]; [[Isa-6-10|Isa 6:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

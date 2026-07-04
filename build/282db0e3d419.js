@@ -1,0 +1,1 @@
+(function(){var b="282db0e3d419",m="# Job 15:4 (New International Version)\nBut you even undermine piety  \n    and hinder devotion to God.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-25-6|Job 25:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

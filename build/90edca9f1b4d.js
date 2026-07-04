@@ -1,0 +1,1 @@
+(function(){var b="90edca9f1b4d",m="# 1 Chronicles 23:11 (New International Version)\nJahath was the first and Ziza the second, but Jeush and Beriah did not have many sons; so they were counted as one family with one assignment.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

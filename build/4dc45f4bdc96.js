@@ -1,0 +1,1 @@
+(function(){var b="4dc45f4bdc96",m="# Jeremiah 22:29 (New International Version)\nO land,<sup>^A</sup> land, land,  \n    hear the word of the LORD!\n\n### Crossrefs\n- A: S [[Jer-6-19|Jer 6:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ac19c4fa0eb3",m="# Psalm 122:8 (New International Version)\nFor the sake of my family and friends,  \n    I will say, \"Peace be within you.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

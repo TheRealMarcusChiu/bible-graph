@@ -1,0 +1,1 @@
+(function(){var b="50a3a6ade06c",m="# Isaiah 3:21 (New International Version)\nthe signet rings and nose rings,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-24-22|Ge 24:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="278c118c8e4b",m="# Job 30:14 (New International Version)\nThey advance as through a gaping breach;<sup>^A</sup>  \n    amid the ruins they come rolling in.\n\n### Crossrefs\n- A: S [[2Kgs-25-4|2Ki 25:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

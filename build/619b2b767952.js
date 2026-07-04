@@ -1,0 +1,1 @@
+(function(){var b="619b2b767952",m="# Ezekiel 10:10 (New International Version)\nAs for their appearance, the four of them looked alike; each was like a wheel intersecting a wheel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

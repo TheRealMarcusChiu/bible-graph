@@ -1,0 +1,1 @@
+(function(){var b="7acd49ef9109",m="# 1 Chronicles 7:40 (New International Version)\nAll these were descendants of Asher--heads of families, choice men, brave warriors and outstanding leaders. The number of men ready for battle, as listed in their genealogy, was 26,000.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

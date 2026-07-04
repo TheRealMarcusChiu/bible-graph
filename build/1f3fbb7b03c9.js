@@ -1,0 +1,1 @@
+(function(){var b="1f3fbb7b03c9",m="# Proverbs 11:23 (New International Version)\nThe desire of the righteous ends only in good,  \n    but the hope of the wicked only in wrath.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

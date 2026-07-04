@@ -1,0 +1,1 @@
+(function(){var b="65f7671c0e0f",m="# 1 Chronicles 4:3 (New International Version)\nThese were the sons of Etam:\nJezreel, Ishma and Idbash. Their sister was named Hazzelelponi.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7ab7b65e4718",m="# Proverbs 10:30 (New International Version)\nThe righteous will never be uprooted,  \n    but the wicked will not remain in the land.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-37-9|Ps 37:9]], [[Ps-37-28|28-29]]; S [[Prov-2-20|Pr 2:20-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

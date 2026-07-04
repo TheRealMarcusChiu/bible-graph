@@ -1,0 +1,1 @@
+(function(){var b="73cf23caaceb",m="# Psalm 26:5 (New International Version)\nI abhor<sup>^A</sup> the assembly of evildoers  \n    and refuse to sit with the wicked.\n\n### Crossrefs\n- A: [[Ps-139-21|Ps 139:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

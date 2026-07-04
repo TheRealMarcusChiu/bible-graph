@@ -1,0 +1,1 @@
+(function(){var b="f6fe5d711a8f",m="# 1 Chronicles 26:11 (New International Version)\nHilkiah the second, Tabaliah the third and Zechariah the fourth. The sons and relatives of Hosah were 13 in all.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

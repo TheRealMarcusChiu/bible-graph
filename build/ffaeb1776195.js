@@ -1,0 +1,1 @@
+(function(){var b="ffaeb1776195",m="# Psalm 139:11 (New International Version)\nIf I say, \"Surely the darkness will hide me  \n    and the light become night around me,\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

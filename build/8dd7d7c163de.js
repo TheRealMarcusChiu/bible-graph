@@ -1,0 +1,1 @@
+(function(){var b="8dd7d7c163de",m="# Daniel 11:26 (New International Version)\nThose who eat from the king's provisions will try to destroy him; his army will be swept away, and many will fall in battle.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

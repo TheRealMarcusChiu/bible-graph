@@ -1,0 +1,1 @@
+(function(){var b="6502f565810b",m="# Proverbs 21:5 (New International Version)\nThe plans of the diligent lead to profit<sup>^A</sup>  \n    as surely as haste leads to poverty.\n\n### Crossrefs\n- A: S [[Prov-10-4|Pr 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

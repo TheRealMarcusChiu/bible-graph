@@ -1,0 +1,1 @@
+(function(){var b="e8d27d9b1fd8",m="# 2 Kings 3:6 (New International Version)\nSo at that time King Joram set out from Samaria and mobilized all Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

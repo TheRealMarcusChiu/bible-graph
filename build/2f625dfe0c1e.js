@@ -1,0 +1,1 @@
+(function(){var b="2f625dfe0c1e",m="# Job 4:13 (New International Version)\nAmid disquieting dreams in the night,  \n    when deep sleep falls on people,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-33-15|Job 33:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

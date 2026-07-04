@@ -1,0 +1,1 @@
+(function(){var b="beb97f9bbfe4",m="# Ezekiel 15:1 (New International Version)\nJerusalem as a Useless Vine\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

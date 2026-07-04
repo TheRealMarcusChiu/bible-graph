@@ -1,0 +1,1 @@
+(function(){var b="2b4d5fcf92b5",m="# 1 Chronicles 1:22 (New International Version)\nObal, Abimael, Sheba,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

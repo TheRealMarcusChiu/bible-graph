@@ -1,0 +1,1 @@
+(function(){var b="6b0213f9ec07",m="# 2 Chronicles 32:6 (New International Version)\nHe appointed military officers over the people and assembled them before him in the square at the city gate and encouraged them with these words:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="be81f4692c51",m="# Jeremiah 28:7 (New International Version)\nNevertheless, listen to what I have to say in your hearing and in the hearing of all the people:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

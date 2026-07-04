@@ -1,0 +1,1 @@
+(function(){var b="0a4563d1f79a",m="# Psalm 119:38 (New International Version)\nFulfill your promise<sup>^A</sup> to your servant,  \n    so that you may be feared.\n\n### Crossrefs\n- A: S [[Num-23-19|Nu 23:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

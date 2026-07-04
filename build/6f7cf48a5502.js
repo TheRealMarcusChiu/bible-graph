@@ -1,0 +1,1 @@
+(function(){var b="6f7cf48a5502",m="# 2 Kings 13:11 (New International Version)\nHe did evil in the eyes of the LORD and did not turn away from any of the sins of Jeroboam son of Nebat, which he had caused Israel to commit; he continued in them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="67c90ba6c8cd",m="# Ecclesiastes 7:13 (New International Version)\nConsider what God has done:<sup>^A</sup>\nWho can straighten  \n    what he has made crooked?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Eccl-2-24|Ecc 2:24]]\n- B: [[Eccl-1-15|Ecc 1:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

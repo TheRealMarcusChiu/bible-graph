@@ -1,0 +1,1 @@
+(function(){var b="a1fcfb6a3b1b",m="# Nehemiah 10:2 (New International Version)\nSeraiah,<sup>^A</sup> Azariah, Jeremiah,\n\n### Crossrefs\n- A: S [[Ezra-2-2|Ezr 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

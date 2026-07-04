@@ -1,0 +1,1 @@
+(function(){var b="040fbc3c4d76",m="# Job 37:10 (New International Version)\nThe breath of God produces ice,  \n    and the broad waters become frozen.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-38-29|Job 38:29-30]]; [[Ps-147-17|Ps 147:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

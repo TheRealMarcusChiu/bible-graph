@@ -1,0 +1,1 @@
+(function(){var b="dd1ac44ab12b",m="# 2 Chronicles 3:10 (New International Version)\nFor the Most Holy Place he made a pair<sup>^A</sup> of sculptured cherubim and overlaid them with gold. \n\n### Crossrefs\n- A: [[Exod-25-18|Ex 25:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

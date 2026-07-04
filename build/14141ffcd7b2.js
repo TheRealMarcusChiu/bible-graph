@@ -1,0 +1,1 @@
+(function(){var b="14141ffcd7b2",m="# Proverbs 10:15 (New International Version)\nThe wealth of the rich is their fortified city,<sup>^A</sup>  \n    but poverty is the ruin of the poor.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-18-11|Pr 18:11]]\n- B: [[Prov-19-7|Pr 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

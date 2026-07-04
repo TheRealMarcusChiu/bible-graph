@@ -1,0 +1,1 @@
+(function(){var b="6a57ec80911f",m="# Esther 3:11 (New International Version)\n\"Keep the money,\" the king said to Haman, \"and do with the people as you please.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c9898211ee35",m="# Psalm 89:49 (New International Version)\nLord, where is your former great love,  \n    which in your faithfulness you swore to David?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

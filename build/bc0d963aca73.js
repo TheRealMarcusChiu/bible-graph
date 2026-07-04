@@ -1,0 +1,1 @@
+(function(){var b="bc0d963aca73",m="# Psalm 119:112 (New International Version)\nMy heart is set<sup>^A</sup> on keeping your decrees  \n    to the very end.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-108-1|Ps 108:1]]\n- B: [[Ps-119-33|ver 33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

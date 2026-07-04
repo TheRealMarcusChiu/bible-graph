@@ -1,0 +1,1 @@
+(function(){var b="ca832ba33fee",m="# Psalm 18:37 (New International Version)\nI pursued my enemies<sup>^A</sup> and overtook them;  \n    I did not turn back till they were destroyed.\n\n### Crossrefs\n- A: S [[Lev-26-7|Lev 26:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

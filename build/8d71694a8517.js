@@ -1,0 +1,1 @@
+(function(){var b="8d71694a8517",m="# Job 27:23 (New International Version)\nIt claps its hands<sup>^A</sup> in derision  \n    and hisses him out of his place.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-24-10|Nu 24:10]]; [[Nah-3-19|Na 3:19]]\n- B: S [[Job-7-10|Job 7:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

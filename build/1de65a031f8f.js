@@ -1,0 +1,1 @@
+(function(){var b="1de65a031f8f",m="# 1 Chronicles 6:17 (New International Version)\nThese are the names of the sons of Gershon:\nLibni and Shimei.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-6-17|Ex 6:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

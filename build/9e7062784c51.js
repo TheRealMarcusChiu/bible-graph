@@ -1,0 +1,1 @@
+(function(){var b="9e7062784c51",m="# Proverbs 8:6 (New International Version)\nListen, for I have trustworthy things to say;  \n    I open my lips to speak what is right.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

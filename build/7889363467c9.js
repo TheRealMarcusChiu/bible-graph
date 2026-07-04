@@ -1,0 +1,1 @@
+(function(){var b="7889363467c9",m="# 2 Chronicles 20:16 (New International Version)\nTomorrow march down against them. They will be climbing up by the Pass of Ziz, and you will find them at the end of the gorge in the Desert of Jeruel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

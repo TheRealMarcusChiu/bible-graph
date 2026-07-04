@@ -1,0 +1,1 @@
+(function(){var b="6fc95413c923",m="# Ezekiel 48:24 (New International Version)\n\"Simeon<sup>^A</sup> will have one portion; it will border the territory of Benjamin from east to west.\n\n### Crossrefs\n- A: S [[Gen-29-33|Ge 29:33]]; [[Josh-19-1|Jos 19:1-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

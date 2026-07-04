@@ -1,0 +1,1 @@
+(function(){var b="d419139fedbf",m="# 2 Chronicles 18:32 (New International Version)\nfor when the chariot commanders saw that he was not the king of Israel, they stopped pursuing him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

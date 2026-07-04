@@ -1,0 +1,1 @@
+(function(){var b="e0e0489c6ac4",m="# 1 Chronicles 2:48 (New International Version)\nCaleb's concubine Maakah was the mother of Sheber and Tirhanah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

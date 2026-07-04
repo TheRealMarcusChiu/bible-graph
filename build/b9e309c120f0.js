@@ -1,0 +1,1 @@
+(function(){var b="b9e309c120f0",m="# Proverbs 7:7 (New International Version)\nI saw among the simple,  \n    I noticed among the young men,  \n    a youth who had no sense.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-1-22|Pr 1:22]]; S [[Prov-6-32|6:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

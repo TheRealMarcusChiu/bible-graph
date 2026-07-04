@@ -1,0 +1,1 @@
+(function(){var b="4da7a71d52cb",m="# Psalm 119:139 (New International Version)\nMy zeal wears me out,<sup>^A</sup>  \n    for my enemies ignore your words.\n\n### Crossrefs\n- A: [[Ps-69-9|Ps 69:9]]; [[John-2-17|Jn 2:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

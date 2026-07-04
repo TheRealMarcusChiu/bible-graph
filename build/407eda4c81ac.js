@@ -1,0 +1,1 @@
+(function(){var b="407eda4c81ac",m="# Proverbs 5:2 (New International Version)\nthat you may maintain discretion  \n    and your lips may preserve knowledge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="15c0191df7b6",m="# 2 Kings 7:11 (New International Version)\nThe gatekeepers shouted the news, and it was reported within the palace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

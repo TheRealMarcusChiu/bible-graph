@@ -1,0 +1,1 @@
+(function(){var b="4e9bfd8517f1",m="# 2 Kings 18:6 (New International Version)\nHe held fast<sup>^A</sup> to the LORD and did not stop following him; he kept the commands the LORD had given Moses. \n\n### Crossrefs\n- A: [[Deut-10-20|Dt 10:20]]; S [[Deut-6-18|Dt 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a6b837c9f212",m="# Job 41:25 (New International Version)\nWhen it rises up, the mighty are terrified;<sup>^A</sup>  \n    they retreat before its thrashing.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-39-20|Job 39:20]]\n- B: S [[Job-3-8|Job 3:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

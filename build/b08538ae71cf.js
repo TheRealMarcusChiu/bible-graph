@@ -1,0 +1,1 @@
+(function(){var b="b08538ae71cf",m="# 2 Chronicles 22:12 (New International Version)\nHe remained hidden with them at the temple of God for six years while Athaliah ruled the land.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a65837bc628e",m="# Psalm 114:7 (New International Version)\nTremble, earth,<sup>^A</sup> at the presence of the Lord,  \n    at the presence of the God of Jacob,\n\n### Crossrefs\n- A: S [[Exod-15-14|Ex 15:14]]; S [[1Chr-16-30|1Ch 16:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

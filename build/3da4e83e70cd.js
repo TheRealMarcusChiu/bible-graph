@@ -1,0 +1,1 @@
+(function(){var b="3da4e83e70cd",m="# 1 Chronicles 7:9 (New International Version)\nTheir genealogical record listed the heads of families and 20,200 fighting men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

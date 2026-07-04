@@ -1,0 +1,1 @@
+(function(){var b="eb09b27bde61",m="# Jeremiah 6:5 (New International Version)\nSo arise, let us attack at night  \n    and destroy her fortresses!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2006e1933a68",m="# Nehemiah 6:13 (New International Version)\nHe had been hired to intimidate me so that I would commit a sin by doing this, and then they would give me a bad name to discredit me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Jer-20-10|Jer 20:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

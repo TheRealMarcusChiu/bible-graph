@@ -1,0 +1,1 @@
+(function(){var b="8d352b7dbadd",m="# Proverbs 2:14 (New International Version)\nwho delight in doing wrong  \n    and rejoice in the perverseness of evil,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-10-23|Pr 10:23]]; [[Prov-15-21|15:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

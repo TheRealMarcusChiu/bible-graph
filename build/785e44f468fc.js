@@ -1,0 +1,1 @@
+(function(){var b="785e44f468fc",m="# Ezekiel 40:32 (New International Version)\nThen he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements<sup>^A</sup> as the others. \n\n### Crossrefs\n- A: S [[Ezek-40-24|ver 24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

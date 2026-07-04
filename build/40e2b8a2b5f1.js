@@ -1,0 +1,1 @@
+(function(){var b="40e2b8a2b5f1",m="# 2 Kings 18:33 (New International Version)\nHas the god<sup>^A</sup> of any nation ever delivered his land from the hand of the king of Assyria? \n\n### Crossrefs\n- A: [[2Kgs-19-12|2Ki 19:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

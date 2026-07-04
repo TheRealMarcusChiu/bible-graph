@@ -1,0 +1,1 @@
+(function(){var b="72eb88f259dd",m="# Job 15:15 (New International Version)\nIf God places no trust in his holy ones,<sup>^A</sup>  \n    if even the heavens are not pure in his eyes,<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-5-1|Job 5:1]]\n- B: S [[Job-4-18|Job 4:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

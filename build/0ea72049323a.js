@@ -1,0 +1,1 @@
+(function(){var b="0ea72049323a",m="# Proverbs 17:25 (New International Version)\nA foolish son brings grief to his father  \n    and bitterness to the mother who bore him.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-1|Pr 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

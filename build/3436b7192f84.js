@@ -1,0 +1,1 @@
+(function(){var b="3436b7192f84",m="# Psalm 45:13 (New International Version)\nAll glorious<sup>^A</sup> is the princess within her chamber;  \n    her gown is interwoven with gold.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Isa-61-10|Isa 61:10]]\n- B: [[Exod-39-3|Ex 39:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

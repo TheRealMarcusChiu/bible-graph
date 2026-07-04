@@ -1,0 +1,1 @@
+(function(){var b="e0769c9e7650",m="# Proverbs 19:19 (New International Version)\nA hot-tempered person must pay the penalty;  \n    rescue them, and you will have to do it again.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

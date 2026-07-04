@@ -1,0 +1,1 @@
+(function(){var b="a96e5dc11367",m="# Proverbs 8:9 (New International Version)\nTo the discerning all of them are right;  \n    they are upright to those who have found knowledge.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

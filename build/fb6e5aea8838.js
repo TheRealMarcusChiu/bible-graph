@@ -1,0 +1,1 @@
+(function(){var b="fb6e5aea8838",m="# 2 Kings 20:4 (New International Version)\nBefore Isaiah had left the middle court, the word of the LORD came to him:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

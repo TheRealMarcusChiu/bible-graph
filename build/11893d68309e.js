@@ -1,0 +1,1 @@
+(function(){var b="11893d68309e",m="# 1 Chronicles 25:4 (New International Version)\nAs for Heman, from his sons:\nBukkiah, Mattaniah, Uzziel, Shubael and Jerimoth; Hananiah, Hanani, Eliathah, Giddalti and Romamti-Ezer; Joshbekashah, Mallothi, Hothir and Mahazioth.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

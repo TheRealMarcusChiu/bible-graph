@@ -1,0 +1,1 @@
+(function(){var b="79de99fe5119",m="# Psalm 99:9 (New International Version)\nExalt the LORD our God  \n    and worship at his holy mountain,  \n    for the LORD our God is holy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

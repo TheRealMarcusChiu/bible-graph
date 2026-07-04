@@ -1,0 +1,1 @@
+(function(){var b="7b555f6a423c",m="# Proverbs 5:11 (New International Version)\nAt the end of your life you will groan,  \n    when your flesh and body are spent.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

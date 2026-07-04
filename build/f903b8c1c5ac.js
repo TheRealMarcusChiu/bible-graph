@@ -1,0 +1,1 @@
+(function(){var b="f903b8c1c5ac",m="# 1 Chronicles 6:50 (New International Version)\nThese were the descendants of Aaron:\nEleazar his son, Phinehas his son,\nAbishua his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

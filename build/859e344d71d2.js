@@ -1,0 +1,1 @@
+(function(){var b="859e344d71d2",m="# Psalm 107:23 (New International Version)\nSome went out on the sea<sup>^A</sup> in ships;<sup>^B</sup>  \n    they were merchants on the mighty waters.\n\n### Crossrefs\n- A: [[Isa-42-10|Isa 42:10]]\n- B: S [[Ps-104-26|Ps 104:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

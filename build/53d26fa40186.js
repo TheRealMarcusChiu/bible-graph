@@ -1,0 +1,1 @@
+(function(){var b="53d26fa40186",m="# Psalm 139:17 (New International Version)\nHow precious to me are your thoughts,<sup>^A</sup> God!<sup>^B</sup>  \n    How vast is the sum of them!\n\n### Crossrefs\n- A: S [[Ps-92-5|Ps 92:5]]\n- B: S [[Job-5-9|Job 5:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

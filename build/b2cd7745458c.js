@@ -1,0 +1,1 @@
+(function(){var b="b2cd7745458c",m="# Proverbs 14:4 (New International Version)\nWhere there are no oxen, the manger is empty,  \n    but from the strength of an ox<sup>^A</sup> come abundant harvests.\n\n### Crossrefs\n- A: [[Ps-144-14|Ps 144:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="953bacf05d71",m="# 2 Kings 4:17 (New International Version)\nBut the woman became pregnant, and the next year about that same time she gave birth to a son, just as Elisha had told her.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

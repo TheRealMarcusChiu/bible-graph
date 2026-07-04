@@ -1,0 +1,1 @@
+(function(){var b="ba0877186a5d",m="# Ezekiel 38:3 (New International Version)\nand say: 'This is what the Sovereign LORD says: I am against you, Gog, chief prince of Meshek and Tubal.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-39-1|Eze 39:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c17c82fe8374",m="# Ezekiel 40:11 (New International Version)\nThen he measured the width of the entrance of the gateway; it was ten cubits and its length was thirteen cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

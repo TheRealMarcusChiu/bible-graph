@@ -1,0 +1,1 @@
+(function(){var b="86d1e82ac485",m="# Psalm 73:5 (New International Version)\nThey are free<sup>^A</sup> from common human burdens;  \n    they are not plagued by human ills.\n\n### Crossrefs\n- A: [[Ps-73-12|ver 12]]; [[Ezek-23-42|Eze 23:42]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

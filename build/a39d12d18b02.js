@@ -1,0 +1,1 @@
+(function(){var b="a39d12d18b02",m="# Psalm 119:10 (New International Version)\nI seek you with all my heart;<sup>^A</sup>  \n    do not let me stray from your commands.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-9-1|Ps 9:1]]\n- B: [[Ps-119-21|ver 21]], [[Ps-119-118|118]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

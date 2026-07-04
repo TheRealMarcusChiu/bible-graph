@@ -1,0 +1,1 @@
+(function(){var b="7dc07f6164ab",m="# Job 29:11 (New International Version)\nWhoever heard me spoke well of me,  \n    and those who saw me commended me,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-4|Job 4:4]]; [[Heb-11-4|Heb 11:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

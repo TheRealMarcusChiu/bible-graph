@@ -1,0 +1,1 @@
+(function(){var b="c47d7d07211f",m="# Amos 6:3 (New International Version)\nYou put off the day of disaster  \n    and bring near a reign of terror.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-56-12|Isa 56:12]]; S [[Ezek-12-22|Eze 12:22]]; [[Amos-9-10|Am 9:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

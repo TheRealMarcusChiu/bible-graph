@@ -1,0 +1,1 @@
+(function(){var b="6f09b0c38f02",m="# 1 Chronicles 24:17 (New International Version)\nthe twenty-first to Jakin,\nthe twenty-second to Gamul,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

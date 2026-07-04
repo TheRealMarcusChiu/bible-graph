@@ -1,0 +1,1 @@
+(function(){var b="24c4165ba86b",m="# Jeremiah 14:11 (New International Version)\nThen the LORD said to me, \"Do not pray<sup>^A</sup> for the well-being of this people. \n\n### Crossrefs\n- A: S [[Exod-32-10|Ex 32:10]]; S [[1Sam-2-25|1Sa 2:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

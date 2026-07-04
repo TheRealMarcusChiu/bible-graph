@@ -1,0 +1,1 @@
+(function(){var b="152a1c3c4ba6",m="# 1 Chronicles 4:9 (New International Version)\nJabez was more honorable than his brothers. His mother had named him Jabez, saying, \"I gave birth to him in pain.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c5c62580629",m="# Proverbs 1:21 (New International Version)\non top of the wall she cries out,  \n    at the city gate she makes her speech:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

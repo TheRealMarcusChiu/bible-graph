@@ -1,0 +1,1 @@
+(function(){var b="67fabc49f884",m="# Proverbs 13:4 (New International Version)\nA sluggard's appetite is never filled,<sup>^A</sup>  \n    but the desires of the diligent are fully satisfied.\n\n### Crossrefs\n- A: [[Prov-21-25|Pr 21:25-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

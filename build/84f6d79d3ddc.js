@@ -1,0 +1,1 @@
+(function(){var b="84f6d79d3ddc",m="# Ezekiel 16:9 (New International Version)\n\"'I bathed you with water and washed<sup>^A</sup> the blood from you and put ointments on you. \n\n### Crossrefs\n- A: S [[Ruth-3-3|Ru 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

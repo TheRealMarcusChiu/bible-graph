@@ -1,0 +1,1 @@
+(function(){var b="84abac42345c",m="# Jeremiah 38:13 (New International Version)\nand they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Jer-37-21|Jer 37:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

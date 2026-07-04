@@ -1,0 +1,1 @@
+(function(){var b="af49e5c27cd0",m="# 1 Chronicles 6:77 (New International Version)\nThe Merarites (the rest of the Levites) received the following:\nFrom the tribe of Zebulun\nthey received Jokneam, Kartah, Rimmono and Tabor, together with their pasturelands;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9e2f236f5af9",m="# 1 Chronicles 6:52 (New International Version)\nMeraioth his son, Amariah his son,\nAhitub his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

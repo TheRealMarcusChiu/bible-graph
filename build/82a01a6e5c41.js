@@ -1,0 +1,1 @@
+(function(){var b="82a01a6e5c41",m="# 1 Chronicles 1:18 (New International Version)\nArphaxad was the father of Shelah,\nand Shelah the father of Eber.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

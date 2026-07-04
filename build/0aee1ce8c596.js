@@ -1,0 +1,1 @@
+(function(){var b="0aee1ce8c596",m="# Amos 4:3 (New International Version)\nYou will each go straight out  \n    through breaches in the wall,<sup>^A</sup>  \n    and you will be cast out toward Harmon,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: S [[Ezek-12-5|Eze 12:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

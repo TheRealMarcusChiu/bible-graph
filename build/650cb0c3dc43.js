@@ -1,0 +1,1 @@
+(function(){var b="650cb0c3dc43",m="# 1 Chronicles 9:44 (New International Version)\nAzel had six sons, and these were their names:\nAzrikam, Bokeru, Ishmael, Sheariah, Obadiah and Hanan. These were the sons of Azel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

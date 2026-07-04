@@ -1,0 +1,1 @@
+(function(){var b="16bd7755ea03",m="# Psalm 60:5 (New International Version)\nSave us and help us with your right hand,<sup>^A</sup>  \n    that those you love<sup>^B</sup> may be delivered.\n\n### Crossrefs\n- A: S [[Job-40-14|Job 40:14]]\n- B: S [[Deut-33-12|Dt 33:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

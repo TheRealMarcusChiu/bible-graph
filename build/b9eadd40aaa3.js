@@ -1,0 +1,1 @@
+(function(){var b="b9eadd40aaa3",m="# Nehemiah 13:30 (New International Version)\nSo I purified the priests and the Levites of everything foreign,<sup>^A</sup> and assigned them duties, each to his own task. \n\n### Crossrefs\n- A: S [[Neh-9-2|Ne 9:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

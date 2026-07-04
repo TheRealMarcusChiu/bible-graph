@@ -1,0 +1,1 @@
+(function(){var b="7c4028f0447a",m="# Ezekiel 46:10 (New International Version)\nThe prince is to be among them, going in when they go in and going out when they go out.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Sam-6-14|2Sa 6:14-15]]; [[Ps-42-4|Ps 42:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

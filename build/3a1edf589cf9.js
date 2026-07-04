@@ -1,0 +1,1 @@
+(function(){var b="3a1edf589cf9",m="# Song of Songs 5:14 (New International Version)\nHis arms are rods of gold  \n    set with topaz.  \nHis body is like polished ivory  \n    decorated with lapis lazuli.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-6|Job 28:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

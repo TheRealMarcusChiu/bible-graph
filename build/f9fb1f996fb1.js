@@ -1,0 +1,1 @@
+(function(){var b="f9fb1f996fb1",m="# 2 Kings 4:22 (New International Version)\nShe called her husband and said, \"Please send me one of the servants and a donkey so I can go to the man of God quickly and return.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

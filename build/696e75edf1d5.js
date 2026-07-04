@@ -1,0 +1,1 @@
+(function(){var b="696e75edf1d5",m="# Ecclesiastes 2:18 (New International Version)\nI hated all the things I had toiled for under the sun, because I must leave them to the one who comes after me.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ps-39-6|Ps 39:6]]; [[Ps-49-10|49:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

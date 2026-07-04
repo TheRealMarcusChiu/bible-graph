@@ -1,0 +1,1 @@
+(function(){var b="8616fd9cb64d",m="# Jeremiah 11:7 (New International Version)\nFrom the time I brought your ancestors up from Egypt until today, I warned them again and again,<sup>^A</sup> saying, \"Obey me.\" \n\n### Crossrefs\n- A: S [[2Chr-36-15|2Ch 36:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

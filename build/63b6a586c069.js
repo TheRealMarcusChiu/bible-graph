@@ -1,0 +1,1 @@
+(function(){var b="63b6a586c069",m="# Nehemiah 11:27 (New International Version)\nin Hazar Shual,<sup>^A</sup> in Beersheba<sup>^B</sup> and its settlements, \n\n### Crossrefs\n- A: [[Josh-15-28|Jos 15:28]]\n- B: S [[Gen-21-14|Ge 21:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f3c3a587322c",m="# Psalm 118:9 (New International Version)\nIt is better to take refuge in the LORD  \n    than to trust in princes.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-146-3|Ps 146:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

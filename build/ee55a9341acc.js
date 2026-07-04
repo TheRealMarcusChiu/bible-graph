@@ -1,0 +1,1 @@
+(function(){var b="ee55a9341acc",m="# Psalm 69:29 (New International Version)\nBut as for me, afflicted and in pain--  \n    may your salvation, God, protect me.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-20-1|Ps 20:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

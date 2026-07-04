@@ -1,0 +1,1 @@
+(function(){var b="5c891a096e83",m="# 1 Chronicles 8:39 (New International Version)\nThe sons of his brother Eshek:\nUlam his firstborn, Jeush the second son and Eliphelet the third.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

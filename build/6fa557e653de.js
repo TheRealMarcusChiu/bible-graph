@@ -1,0 +1,1 @@
+(function(){var b="6fa557e653de",m="# Ezekiel 48:3 (New International Version)\n\"Naphtali<sup>^A</sup> will have one portion; it will border the territory of Asher from east to west.\n\n### Crossrefs\n- A: [[Josh-19-32|Jos 19:32-39]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="04137409a37a",m="# Jeremiah 36:11 (New International Version)\nWhen Micaiah son of Gemariah, the son of Shaphan, heard all the words of the LORD from the scroll,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

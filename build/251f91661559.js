@@ -1,0 +1,1 @@
+(function(){var b="251f91661559",m="# Amos 7:7 (New International Version)\nThis is what he showed me: The Lord was standing by a wall that had been built true to plumb, with a plumb line in his hand.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

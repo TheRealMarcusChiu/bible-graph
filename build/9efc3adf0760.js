@@ -1,0 +1,1 @@
+(function(){var b="9efc3adf0760",m="# Proverbs 23:13 (New International Version)\nDo not withhold discipline from a child;  \n    if you punish them with the rod, they will not die.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

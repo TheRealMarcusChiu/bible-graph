@@ -1,0 +1,1 @@
+(function(){var b="f51063232947",m="# 1 Chronicles 11:12 (New International Version)\nNext to him was Eleazar son of Dodai the Ahohite, one of the three mighty warriors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

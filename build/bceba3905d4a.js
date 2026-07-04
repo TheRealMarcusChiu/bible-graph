@@ -1,0 +1,1 @@
+(function(){var b="bceba3905d4a",m="# Nehemiah 10:6 (New International Version)\nDaniel, Ginnethon, Baruch,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

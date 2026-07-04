@@ -1,0 +1,1 @@
+(function(){var b="44f808c353ff",m="# Psalm 107:5 (New International Version)\nThey were hungry<sup>^A</sup> and thirsty,<sup>^B</sup>  \n    and their lives ebbed away.\n\n### Crossrefs\n- A: [[Exod-16-3|Ex 16:3]]\n- B: S [[Exod-15-22|Ex 15:22]]; S [[Exod-17-2|17:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

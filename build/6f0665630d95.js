@@ -1,0 +1,1 @@
+(function(){var b="6f0665630d95",m="# Ezekiel 18:10 (New International Version)\n\"Suppose he has a violent son, who sheds blood<sup>^A</sup> or does any of these other things \n\n### Crossrefs\n- A: [[Exod-21-12|Ex 21:12]]; [[Ezek-22-6|Eze 22:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b4717a04fcf7",m="# Proverbs 24:26 (New International Version)\nAn honest answer  \n    is like a kiss on the lips.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

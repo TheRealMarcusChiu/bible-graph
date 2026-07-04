@@ -1,0 +1,1 @@
+(function(){var b="9ed6ac839db0",m="# 2 Kings 3:24 (New International Version)\nBut when the Moabites came to the camp of Israel, the Israelites rose up and fought them until they fled. And the Israelites invaded the land and slaughtered the Moabites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6c83382c3ce7",m="# Ezekiel 45:14 (New International Version)\nThe prescribed portion of olive oil, measured by the bath, is a tenth of a bath from each cor (which consists of ten baths or one homer, for ten baths are equivalent to a homer).";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

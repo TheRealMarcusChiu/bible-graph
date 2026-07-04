@@ -1,0 +1,1 @@
+(function(){var b="daf35a6d3b1d",m="# Nehemiah 8:5 (New International Version)\nEzra opened the book. All the people could see him because he was standing<sup>^A</sup> above them; and as he opened it, the people all stood up. \n\n### Crossrefs\n- A: [[Judg-3-20|Jdg 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

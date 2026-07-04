@@ -1,0 +1,1 @@
+(function(){var b="98fcdbebf746",m="# Ezekiel 48:9 (New International Version)\n\"The special portion you are to offer to the LORD will be 25,000 cubits long and 10,000 cubits wide.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Ezek-45-1|Eze 45:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

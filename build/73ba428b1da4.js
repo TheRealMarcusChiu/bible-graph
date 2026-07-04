@@ -1,0 +1,1 @@
+(function(){var b="73ba428b1da4",m="# Psalm 31:14 (New International Version)\nBut I trust<sup>^A</sup> in you, LORD;  \n    I say, \"You are my God.\"\n\n### Crossrefs\n- A: [[Ps-4-5|Ps 4:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

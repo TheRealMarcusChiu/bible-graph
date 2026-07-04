@@ -1,0 +1,1 @@
+(function(){var b="d8cc591c6cc9",m="# Jeremiah 13:1 (New International Version)\nA Linen Belt\nThis is what the LORD said to me: \"Go and buy a linen belt and put it around your waist, but do not let it touch water.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

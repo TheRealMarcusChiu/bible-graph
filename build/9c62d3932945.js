@@ -1,0 +1,1 @@
+(function(){var b="9c62d3932945",m="# Esther 8:10 (New International Version)\nMordecai wrote in the name of King Xerxes, sealed the dispatches with the king's signet ring, and sent them by mounted couriers, who rode fast horses especially bred for the king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

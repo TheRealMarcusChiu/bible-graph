@@ -1,0 +1,1 @@
+(function(){var b="def8cd7f2615",m="# Job 32:15 (New International Version)\n\"They are dismayed and have no more to say;  \n    words have failed them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-32-1|ver 1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

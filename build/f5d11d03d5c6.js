@@ -1,0 +1,1 @@
+(function(){var b="f5d11d03d5c6",m="# Jeremiah 25:25 (New International Version)\nall the kings of Zimri,<sup>^A</sup> Elam<sup>^B</sup> and Media;<sup>^C</sup> \n\n### Crossrefs\n- A: [[Gen-25-2|Ge 25:2]]\n- B: S [[Gen-10-22|Ge 10:22]]\n- C: S [[Isa-21-2|Isa 21:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

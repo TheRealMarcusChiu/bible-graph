@@ -1,0 +1,1 @@
+(function(){var b="bdb5633cb22a",m="# Ezra 10:24 (New International Version)\nFrom the musicians:\nEliashib.<sup>^A</sup>\nFrom the gatekeepers:\nShallum, Telem and Uri.\n\n### Crossrefs\n- A: [[Neh-3-1|Ne 3:1]]; [[Neh-12-10|12:10]]; [[Neh-13-7|13:7]], [[Neh-13-28|28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

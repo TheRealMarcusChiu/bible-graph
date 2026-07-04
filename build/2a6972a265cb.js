@@ -1,0 +1,1 @@
+(function(){var b="2a6972a265cb",m="# Lamentations 5:21 (New International Version)\nRestore<sup>^A</sup> us to yourself, LORD, that we may return;  \n    renew our days as of old\n\n### Crossrefs\n- A: S [[Ps-80-3|Ps 80:3]]; [[Isa-60-20|Isa 60:20-22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

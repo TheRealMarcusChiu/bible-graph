@@ -1,0 +1,1 @@
+(function(){var b="6504703067e8",m="# Proverbs 2:3 (New International Version)\nindeed, if you call out for insight<sup>^A</sup>  \n    and cry aloud for understanding,\n\n### Crossrefs\n- A: [[Jas-1-5|Jas 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="864ece76bd30",m="# Ecclesiastes 12:8 (New International Version)\n\"Meaningless! Meaningless!\" says the Teacher.<sup>^A</sup>  \n    \"Everything is meaningless!<sup>^B</sup>\"\n\n### Crossrefs\n- A: [[Eccl-1-1|Ecc 1:1]]\n- B: S [[Eccl-1-2|Ecc 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cbd9786b7747",m="# Nehemiah 7:61 (New International Version)\nThe following came up from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer, but they could not show that their families were descended from Israel:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

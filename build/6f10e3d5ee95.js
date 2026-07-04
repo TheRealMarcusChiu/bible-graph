@@ -1,0 +1,1 @@
+(function(){var b="6f10e3d5ee95",m="# Hosea 5:11 (New International Version)\nEphraim is oppressed,  \n    trampled in judgment,  \n    intent on pursuing idols.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Hos-9-16|Hos 9:16]]; [[Mic-6-16|Mic 6:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

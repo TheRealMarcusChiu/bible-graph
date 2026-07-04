@@ -1,0 +1,1 @@
+(function(){var b="8e093cb2c117",m="# Job 33:7 (New International Version)\nNo fear of me should alarm you,  \n    nor should my hand be heavy on you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-34|Job 9:34]]; [[2Cor-2-4|2Co 2:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

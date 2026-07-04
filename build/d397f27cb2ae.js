@@ -1,0 +1,1 @@
+(function(){var b="d397f27cb2ae",m="# Jeremiah 38:12 (New International Version)\nEbed-Melek the Cushite said to Jeremiah, \"Put these old rags and worn-out clothes under your arms to pad the ropes.\" Jeremiah did so,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="66b26bed22d7",m="# Job 26:4 (New International Version)\nWho has helped you utter these words?  \n    And whose spirit spoke from your mouth?<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Kgs-22-24|1Ki 22:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

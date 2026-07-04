@@ -1,0 +1,1 @@
+(function(){var b="f141944e5165",m="# Ezekiel 23:31 (New International Version)\nYou have gone the way of your sister; so I will put her cup<sup>^A</sup> into your hand.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Jer-25-15|Jer 25:15]]\n- B: [[2Kgs-21-13|2Ki 21:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

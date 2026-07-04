@@ -1,0 +1,1 @@
+(function(){var b="f9453b42a0f6",m="# Daniel 11:32 (New International Version)\nWith flattery he will corrupt those who have violated the covenant, but the people who know their God will firmly resist<sup>^A</sup> him.\n\n### Crossrefs\n- A: [[Mic-5-7|Mic 5:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

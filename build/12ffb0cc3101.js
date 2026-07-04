@@ -1,0 +1,1 @@
+(function(){var b="12ffb0cc3101",m="# Psalm 12:8 (New International Version)\nwho freely strut<sup>^A</sup> about  \n    when what is vile is honored by the human race.\n\n### Crossrefs\n- A: [[Ps-55-10|Ps 55:10-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

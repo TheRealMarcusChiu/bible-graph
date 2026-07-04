@@ -1,0 +1,1 @@
+(function(){var b="011f1ae8460e",m="# Esther 8:4 (New International Version)\nThen the king extended the gold scepter<sup>^A</sup> to Esther and she arose and stood before him.\n\n### Crossrefs\n- A: S [[Esth-4-11|Est 4:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

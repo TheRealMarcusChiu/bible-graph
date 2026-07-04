@@ -1,0 +1,1 @@
+(function(){var b="02625ce24472",m="# Proverbs 20:26 (New International Version)\nA wise king winnows out the wicked;  \n    he drives the threshing wheel over them.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-20-8|ver 8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

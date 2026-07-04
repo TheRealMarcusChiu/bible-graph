@@ -1,0 +1,1 @@
+(function(){var b="6eda66a6db86",m="# Ezekiel 48:23 (New International Version)\n\"As for the rest of the tribes: Benjamin<sup>^A</sup> will have one portion; it will extend from the east side to the west side.\n\n### Crossrefs\n- A: [[Josh-18-11|Jos 18:11-28]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0dbb3ddacfae",m="# Psalm 89:32 (New International Version)\nI will punish their sin with the rod,  \n    their iniquity with flogging;<sup>^A</sup>\n\n### Crossrefs\n- A: [[2Sam-7-14|2Sa 7:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

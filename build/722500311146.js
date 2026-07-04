@@ -1,0 +1,1 @@
+(function(){var b="722500311146",m="# Psalm 118:6 (New International Version)\nThe LORD is with me;<sup>^A</sup> I will not be afraid.  \n    What can mere mortals do to me?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Deut-31-6|Dt 31:6]]; Heb 13:6*\n- B: S [[Ps-56-4|Ps 56:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

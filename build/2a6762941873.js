@@ -1,0 +1,1 @@
+(function(){var b="2a6762941873",m="# Proverbs 8:16 (New International Version)\nby me princes govern,<sup>^A</sup>  \n    and nobles--all who rule on earth.\n\n### Crossrefs\n- A: S [[2Chr-1-10|2Ch 1:10]]; [[Prov-29-4|Pr 29:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

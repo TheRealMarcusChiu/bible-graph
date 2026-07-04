@@ -1,0 +1,1 @@
+(function(){var b="a2a08e4469f2",m="# 2 Chronicles 18:20 (New International Version)\nFinally, a spirit came forward, stood before the LORD and said, 'I will entice him.'\n\"'By what means?' the LORD asked.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

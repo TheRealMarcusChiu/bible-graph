@@ -1,0 +1,1 @@
+(function(){var b="f5ec3ac64bba",m="# Zechariah 2:7 (New International Version)\n\"Come, Zion! Escape,<sup>^A</sup> you who live in Daughter Babylon!\"<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Isa-42-7|Isa 42:7]]\n- B: S [[Isa-48-20|Isa 48:20]]; [[Jer-3-18|Jer 3:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

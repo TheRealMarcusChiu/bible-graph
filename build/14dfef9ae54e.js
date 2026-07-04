@@ -1,0 +1,1 @@
+(function(){var b="14dfef9ae54e",m="# Micah 3:2 (New International Version)\nyou who hate good and love evil;  \nwho tear the skin from my people  \n    and the flesh from their bones;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-53-4|Ps 53:4]]; S [[Ezek-22-27|Eze 22:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

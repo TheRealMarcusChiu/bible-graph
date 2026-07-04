@@ -1,0 +1,1 @@
+(function(){var b="1b27b81556cf",m="# Psalm 139:20 (New International Version)\nThey speak of you with evil intent;  \n    your adversaries<sup>^A</sup> misuse your name.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-65-7|Ps 65:7]]\n- B: S [[Deut-5-11|Dt 5:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

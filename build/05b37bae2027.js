@@ -1,0 +1,1 @@
+(function(){var b="05b37bae2027",m="# Job 41:32 (New International Version)\nIt leaves a glistening wake behind it;  \n    one would think the deep had white hair.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

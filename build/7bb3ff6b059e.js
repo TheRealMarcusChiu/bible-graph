@@ -1,0 +1,1 @@
+(function(){var b="7bb3ff6b059e",m="# 2 Kings 2:20 (New International Version)\n\"Bring me a new bowl,\" he said, \"and put salt in it.\" So they brought it to him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

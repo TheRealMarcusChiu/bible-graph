@@ -1,0 +1,1 @@
+(function(){var b="876dfd8567bd",m="# Ecclesiastes 5:14 (New International Version)\nor wealth lost through some misfortune,  \nso that when they have children  \n    there is nothing left for them to inherit.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

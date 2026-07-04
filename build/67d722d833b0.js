@@ -1,0 +1,1 @@
+(function(){var b="67d722d833b0",m="# Lamentations 5:8 (New International Version)\nSlaves<sup>^A</sup> rule over us,  \n    and there is no one to free us from their hands.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Neh-5-15|Ne 5:15]]\n- B: [[Zech-11-6|Zec 11:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

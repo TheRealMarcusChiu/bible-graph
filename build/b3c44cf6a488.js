@@ -1,0 +1,1 @@
+(function(){var b="b3c44cf6a488",m="# Job 6:30 (New International Version)\nIs there any wickedness on my lips?<sup>^A</sup>  \n    Can my mouth not discern<sup>^B</sup> malice?\n\n### Crossrefs\n- A: [[Job-27-4|Job 27:4]]\n- B: [[Job-12-11|Job 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

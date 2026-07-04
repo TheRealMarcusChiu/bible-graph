@@ -1,0 +1,1 @@
+(function(){var b="6df91a21ce57",m="# 2 Chronicles 5:8 (New International Version)\nThe cherubim<sup>^A</sup> spread their wings over the place of the ark and covered the ark and its carrying poles. \n\n### Crossrefs\n- A: S [[Gen-3-24|Ge 3:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

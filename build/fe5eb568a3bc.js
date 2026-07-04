@@ -1,0 +1,1 @@
+(function(){var b="fe5eb568a3bc",m="# 1 Chronicles 1:2 (New International Version)\nKenan,<sup>^A</sup> Mahalalel,<sup>^B</sup> Jared,<sup>^C</sup> \n\n### Crossrefs\n- A: S [[Gen-5-9|Ge 5:9]]\n- B: S [[Gen-5-12|Ge 5:12]]\n- C: S [[Gen-5-15|Ge 5:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="db7d1f3e51ce",m="# Psalm 132:4 (New International Version)\nI will allow no sleep to my eyes  \n    or slumber to my eyelids,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

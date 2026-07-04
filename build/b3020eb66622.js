@@ -1,0 +1,1 @@
+(function(){var b="b3020eb66622",m="# Psalm 38:11 (New International Version)\nMy friends and companions avoid me because of my wounds;<sup>^A</sup>  \n    my neighbors stay far away.\n\n### Crossrefs\n- A: S [[Ps-38-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

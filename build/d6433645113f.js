@@ -1,0 +1,1 @@
+(function(){var b="d6433645113f",m="# Nehemiah 7:57 (New International Version)\nThe descendants of the servants of Solomon:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

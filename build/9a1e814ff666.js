@@ -1,0 +1,1 @@
+(function(){var b="9a1e814ff666",m="# Proverbs 27:12 (New International Version)\nThe prudent see danger and take refuge,  \n    but the simple keep going and pay the penalty.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-22-3|Pr 22:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

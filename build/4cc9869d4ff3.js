@@ -1,0 +1,1 @@
+(function(){var b="4cc9869d4ff3",m="# Job 35:3 (New International Version)\nYet you ask him, 'What profit is it to me,  \n    and what do I gain by not sinning?'<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-29|Job 9:29-31]]; S [[Job-21-15|21:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="11f79fcb1d37",m="# Proverbs 31:21 (New International Version)\nWhen it snows, she has no fear for her household;  \n    for all of them are clothed in scarlet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

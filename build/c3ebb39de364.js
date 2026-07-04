@@ -1,0 +1,1 @@
+(function(){var b="c3ebb39de364",m="# Jeremiah 9:25 (New International Version)\n\"The days are coming,\" declares the LORD, \"when I will punish all who are circumcised only in the flesh<sup>^A</sup>-- \n\n### Crossrefs\n- A: S [[Lev-26-41|Lev 26:41]]; [[Rom-2-25|Ro 2:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5dffae641b92",m="# Psalm 122:9 (New International Version)\nFor the sake of the house of the LORD our God,  \n    I will seek your prosperity.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-128-5|Ps 128:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

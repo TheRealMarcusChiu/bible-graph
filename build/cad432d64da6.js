@@ -1,0 +1,1 @@
+(function(){var b="cad432d64da6",m="# Jeremiah 32:6 (New International Version)\nJeremiah said, \"The word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

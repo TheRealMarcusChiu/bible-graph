@@ -1,0 +1,1 @@
+(function(){var b="570af58dc6e6",m="# 1 Chronicles 21:8 (New International Version)\nThen David said to God, \"I have sinned greatly by doing this. Now, I beg you, take away the guilt of your servant. I have done a very foolish thing.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

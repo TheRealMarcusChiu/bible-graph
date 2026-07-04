@@ -1,0 +1,1 @@
+(function(){var b="b5ec288996b2",m="# Ecclesiastes 7:10 (New International Version)\nDo not say, \"Why were the old days<sup>^A</sup> better than these?\"  \n    For it is not wise to ask such questions.\n\n### Crossrefs\n- A: S [[Ps-77-5|Ps 77:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dc982517f7d3",m="# Ezekiel 48:15 (New International Version)\n\"The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for the common use of the city, for houses and for pastureland. The city will be in the center of it";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

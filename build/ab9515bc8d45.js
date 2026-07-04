@@ -1,0 +1,1 @@
+(function(){var b="ab9515bc8d45",m="# 1 Chronicles 1:45 (New International Version)\nWhen Jobab died, Husham from the land of the Temanites<sup>^A</sup> succeeded him as king.\n\n### Crossrefs\n- A: S [[Gen-36-11|Ge 36:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c49611557995",m="# Proverbs 25:19 (New International Version)\nLike a broken tooth or a lame foot  \n    is reliance on the unfaithful in a time of trouble.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

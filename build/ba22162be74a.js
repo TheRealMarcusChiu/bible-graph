@@ -1,0 +1,1 @@
+(function(){var b="ba22162be74a",m="# 1 Chronicles 7:24 (New International Version)\nHis daughter was Sheerah, who built Lower and Upper Beth Horon<sup>^A</sup> as well as Uzzen Sheerah.\n\n### Crossrefs\n- A: S [[Josh-10-10|Jos 10:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

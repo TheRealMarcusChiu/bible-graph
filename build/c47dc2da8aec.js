@@ -1,0 +1,1 @@
+(function(){var b="c47dc2da8aec",m="# Nehemiah 3:24 (New International Version)\nNext to him, Binnui<sup>^A</sup> son of Henadad repaired another section, from Azariah's house to the angle and the corner, \n\n### Crossrefs\n- A: S [[Ezra-8-33|Ezr 8:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="a3866253740a",m="# 2 Kings 13:1 (New International Version)\nJehoahaz King of Israel\nIn the twenty-third year of Joash son of Ahaziah king of Judah, Jehoahaz son of Jehu became king of Israel in Samaria, and he reigned seventeen years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

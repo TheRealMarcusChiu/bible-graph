@@ -1,0 +1,1 @@
+(function(){var b="26978c866cb1",m="# Proverbs 8:14 (New International Version)\nCounsel and sound judgment are mine;  \n    I have insight, I have power.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-4|Job 9:4]]; [[Prov-21-22|Pr 21:22]]; [[Eccl-7-19|Ecc 7:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

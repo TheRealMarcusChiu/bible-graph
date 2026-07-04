@@ -1,0 +1,1 @@
+(function(){var b="ae9b6b494265",m="# Proverbs 21:10 (New International Version)\nThe wicked crave evil;  \n    their neighbors get no mercy from them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

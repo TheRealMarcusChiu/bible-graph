@@ -1,0 +1,1 @@
+(function(){var b="473eae10a03c",m="# 1 Chronicles 9:43 (New International Version)\nMoza was the father of Binea; Rephaiah was his son, Eleasah his son and Azel his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="36f955cc6056",m="# Psalm 62:11 (New International Version)\nOne thing God has spoken,  \n    two things I have heard:  \n\"Power belongs to you, God,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[1Chr-29-11|1Ch 29:11]]; [[Rev-19-1|Rev 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4b1d3818a1a5",m="# Ezra 7:18 (New International Version)\nYou and your fellow Israelites may then do whatever seems best with the rest of the silver and gold, in accordance with the will of your God.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="fc756bc81b05",m="# Proverbs 4:12 (New International Version)\nWhen you walk, your steps will not be hampered;  \n    when you run, you will not stumble.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-18-7|Job 18:7]]; [[Prov-3-23|Pr 3:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6137f452a12c",m="# Proverbs 11:3 (New International Version)\nThe integrity of the upright guides them,  \n    but the unfaithful are destroyed by their duplicity.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-11-5|ver 5]]; [[Prov-13-6|Pr 13:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

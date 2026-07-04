@@ -1,0 +1,1 @@
+(function(){var b="6b7d21e77209",m="# Jeremiah 51:61 (New International Version)\nHe said to Seraiah, \"When you get to Babylon, see that you read all these words aloud.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

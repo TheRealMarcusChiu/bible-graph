@@ -1,0 +1,1 @@
+(function(){var b="c5126ec004fb",m="# Proverbs 27:8 (New International Version)\nLike a bird that flees its nest<sup>^A</sup>  \n    is anyone who flees from home.\n\n### Crossrefs\n- A: [[Isa-16-2|Isa 16:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

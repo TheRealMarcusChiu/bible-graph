@@ -1,0 +1,1 @@
+(function(){var b="e8116bdfd64f",m="# Psalm 119:42 (New International Version)\nthen I can answer<sup>^A</sup> anyone who taunts me,<sup>^B</sup>  \n    for I trust in your word.\n\n### Crossrefs\n- A: [[Prov-27-11|Pr 27:11]]\n- B: S [[Ps-42-10|Ps 42:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="adba964c61b7",m="# Proverbs 6:18 (New International Version)\na heart that devises wicked schemes,  \n        feet that are quick to rush into evil,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-15-31|Job 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

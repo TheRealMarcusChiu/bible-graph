@@ -1,0 +1,1 @@
+(function(){var b="337bb99b9add",m="# Psalm 69:5 (New International Version)\nYou, God, know my folly;<sup>^A</sup>  \n    my guilt is not hidden from you.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-38-5|Ps 38:5]]\n- B: S [[Ps-44-21|Ps 44:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

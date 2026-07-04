@@ -1,0 +1,1 @@
+(function(){var b="4e4bf1b7d322",m="# Ezekiel 14:18 (New International Version)\nas surely as I live, declares the Sovereign LORD, even if these three men were in it, they could not save their own sons or daughters. They alone would be saved.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

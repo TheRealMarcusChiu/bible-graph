@@ -1,0 +1,1 @@
+(function(){var b="678038c952e2",m="# 1 Chronicles 13:9 (New International Version)\nWhen they came to the threshing floor of Kidon, Uzzah reached out his hand to steady the ark, because the oxen stumbled.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

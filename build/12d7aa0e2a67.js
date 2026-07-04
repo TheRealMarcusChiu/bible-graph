@@ -1,0 +1,1 @@
+(function(){var b="12d7aa0e2a67",m="# Proverbs 23:1 (New International Version)\nWhen you sit to dine with a ruler,  \n    note well what is before you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

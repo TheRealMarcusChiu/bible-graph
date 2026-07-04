@@ -1,0 +1,1 @@
+(function(){var b="3e14ea6ffd39",m="# Proverbs 2:1 (New International Version)\nMoral Benefits of Wisdom\nMy son,<sup>^A</sup> if you accept my words  \n    and store up my commands within you,\n\n### Crossrefs\n- A: S [[Prov-1-8|Pr 1:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

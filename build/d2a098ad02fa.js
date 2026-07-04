@@ -1,0 +1,1 @@
+(function(){var b="d2a098ad02fa",m="# Isaiah 46:8 (New International Version)\n\"Remember<sup>^A</sup> this, keep it in mind,  \n    take it to heart, you rebels.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-44-21|Isa 44:21]]\n- B: S [[Isa-1-2|Isa 1:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

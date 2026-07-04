@@ -1,0 +1,1 @@
+(function(){var b="93522fc7967e",m="# Psalm 120:3 (New International Version)\nWhat will he do to you,  \n    and what more besides,  \n    you deceitful tongue?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

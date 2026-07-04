@@ -1,0 +1,1 @@
+(function(){var b="efb9f3d4e52b",m="# Job 20:4 (New International Version)\n\"Surely you know how it has been from of old,<sup>^A</sup>  \n    ever since mankind was placed on the earth,\n\n### Crossrefs\n- A: [[Deut-4-32|Dt 4:32]]; S [[Deut-32-7|32:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

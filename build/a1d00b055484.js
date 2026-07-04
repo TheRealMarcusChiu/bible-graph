@@ -1,0 +1,1 @@
+(function(){var b="a1d00b055484",m="# Proverbs 27:21 (New International Version)\nThe crucible for silver and the furnace for gold,<sup>^A</sup>  \n    but people are tested by their praise.\n\n### Crossrefs\n- A: S [[Prov-17-3|Pr 17:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

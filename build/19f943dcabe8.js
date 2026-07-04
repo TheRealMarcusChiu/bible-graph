@@ -1,0 +1,1 @@
+(function(){var b="19f943dcabe8",m="# Psalm 103:21 (New International Version)\nPraise the LORD, all his heavenly hosts,<sup>^A</sup>  \n    you his servants<sup>^B</sup> who do his will.\n\n### Crossrefs\n- A: S [[1Kgs-22-19|1Ki 22:19]]\n- B: S [[Neh-7-73|Ne 7:73]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

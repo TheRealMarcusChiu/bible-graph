@@ -1,0 +1,1 @@
+(function(){var b="5b191370f281",m="# Isaiah 7:5 (New International Version)\nAram, Ephraim and Remaliah's<sup>^A</sup> son have plotted<sup>^B</sup> your ruin, saying, \n\n### Crossrefs\n- A: S [[Isa-7-1|ver 1]]\n- B: [[Isa-7-2|ver 2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

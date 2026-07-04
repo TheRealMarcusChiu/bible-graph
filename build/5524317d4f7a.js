@@ -1,0 +1,1 @@
+(function(){var b="5524317d4f7a",m="# Micah 3:1 (New International Version)\nLeaders and Prophets Rebuked\nThen I said,\n\"Listen, you leaders<sup>^A</sup> of Jacob,  \n    you rulers of Israel.  \nShould you not embrace justice,\n\n### Crossrefs\n- A: S [[Jer-5-5|Jer 5:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

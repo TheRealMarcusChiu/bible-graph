@@ -1,0 +1,1 @@
+(function(){var b="a7a4adaa36d1",m="# Psalm 12:1 (New International Version)\nPsalm 12\nHelp, LORD, for no one is faithful anymore;<sup>^A</sup>  \n    those who are loyal have vanished from the human race.\n\n### Crossrefs\n- A: [[Isa-57-1|Isa 57:1]]; [[Mic-7-2|Mic 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

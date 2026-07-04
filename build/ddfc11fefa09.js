@@ -1,0 +1,1 @@
+(function(){var b="ddfc11fefa09",m="# 2 Kings 5:6 (New International Version)\nThe letter that he took to the king of Israel read: \"With this letter I am sending my servant Naaman to you so that you may cure him of his leprosy.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

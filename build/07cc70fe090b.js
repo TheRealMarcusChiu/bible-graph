@@ -1,0 +1,1 @@
+(function(){var b="07cc70fe090b",m="# Job 41:1 (New International Version)\n\"Can you pull in Leviathan<sup>^A</sup> with a fishhook<sup>^B</sup>  \n    or tie down its tongue with a rope?\n\n### Crossrefs\n- A: S [[Job-3-8|Job 3:8]]\n- B: [[Amos-4-2|Am 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

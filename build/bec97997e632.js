@@ -1,0 +1,1 @@
+(function(){var b="bec97997e632",m="# 1 Chronicles 23:22 (New International Version)\nEleazar died without having sons: he had only daughters. Their cousins, the sons of Kish, married them.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Num-36-8|Nu 36:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="bba3f47ded9e",m="# Jonah 4:4 (New International Version)\nBut the LORD replied, \"Is it right for you to be angry?\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-4-6|Ge 4:6]]; [[Matt-20-11|Mt 20:11-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

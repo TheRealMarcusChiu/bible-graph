@@ -1,0 +1,1 @@
+(function(){var b="475c9990ebc5",m="# Zechariah 2:3 (New International Version)\nWhile the angel who was speaking to me was leaving, another angel came to meet him";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

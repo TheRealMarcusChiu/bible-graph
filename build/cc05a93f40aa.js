@@ -1,0 +1,1 @@
+(function(){var b="cc05a93f40aa",m="# Proverbs 22:26 (New International Version)\nDo not be one who shakes hands in pledge<sup>^A</sup>  \n    or puts up security for debts;\n\n### Crossrefs\n- A: [[Prov-6-1|Pr 6:1-5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

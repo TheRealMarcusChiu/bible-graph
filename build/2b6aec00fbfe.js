@@ -1,0 +1,1 @@
+(function(){var b="2b6aec00fbfe",m="# 2 Chronicles 12:11 (New International Version)\nWhenever the king went to the LORD's temple, the guards went with him, bearing the shields, and afterward they returned them to the guardroom.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

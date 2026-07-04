@@ -1,0 +1,1 @@
+(function(){var b="cd86e48edcbe",m="# Job 33:13 (New International Version)\nWhy do you complain to him<sup>^A</sup>  \n    that he responds to no one's words?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Job-40-2|Job 40:2]]; [[Isa-45-9|Isa 45:9]]\n- B: S [[Job-11-8|Job 11:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

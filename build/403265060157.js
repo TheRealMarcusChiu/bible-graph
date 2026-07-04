@@ -1,0 +1,1 @@
+(function(){var b="403265060157",m="# Proverbs 28:25 (New International Version)\nThe greedy stir up conflict,<sup>^A</sup>  \n    but those who trust in the LORD<sup>^B</sup> will prosper.\n\n### Crossrefs\n- A: S [[Prov-14-17|Pr 14:17]]\n- B: [[Prov-29-25|Pr 29:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

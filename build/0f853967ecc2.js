@@ -1,0 +1,1 @@
+(function(){var b="0f853967ecc2",m="# Psalm 77:11 (New International Version)\nI will remember the deeds of the LORD;  \n    yes, I will remember your miracles<sup>^A</sup> of long ago.\n\n### Crossrefs\n- A: S [[Neh-9-17|Ne 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

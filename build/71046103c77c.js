@@ -1,0 +1,1 @@
+(function(){var b="71046103c77c",m="# Isaiah 3:22 (New International Version)\nthe fine robes and the capes and cloaks,<sup>^A</sup> the purses \n\n### Crossrefs\n- A: [[Ruth-3-15|Ru 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

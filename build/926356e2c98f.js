@@ -1,0 +1,1 @@
+(function(){var b="926356e2c98f",m="# Proverbs 17:8 (New International Version)\nA bribe is seen as a charm by the one who gives it;  \n    they think success will come at every turn.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-23-8|Ex 23:8]]; [[Prov-19-6|Pr 19:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

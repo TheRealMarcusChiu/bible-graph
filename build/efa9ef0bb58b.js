@@ -1,0 +1,1 @@
+(function(){var b="efa9ef0bb58b",m="# Ezekiel 41:24 (New International Version)\nEach door had two leaves--two hinged leaves<sup>^A</sup> for each door. \n\n### Crossrefs\n- A: [[1Kgs-6-34|1Ki 6:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7b7577ef8657",m="# Ecclesiastes 6:7 (New International Version)\nEveryone's toil is for their mouth,  \n    yet their appetite is never satisfied.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-27-20|Pr 27:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

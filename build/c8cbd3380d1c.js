@@ -1,0 +1,1 @@
+(function(){var b="c8cbd3380d1c",m="# 1 Chronicles 4:27 (New International Version)\nShimei had sixteen sons and six daughters, but his brothers did not have many children; so their entire clan did not become as numerous as the people of Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c8cf26a4f02d",m="# Jeremiah 32:22 (New International Version)\nYou gave them this land you had sworn to give their ancestors, a land flowing with milk and honey.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Exod-3-8|Ex 3:8]]; [[Ezek-20-6|Eze 20:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

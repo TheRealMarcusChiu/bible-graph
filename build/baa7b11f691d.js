@@ -1,0 +1,1 @@
+(function(){var b="baa7b11f691d",m="# Song of Songs 1:17 (New International Version)\nThe beams of our house are cedars;<sup>^A</sup>  \n    our rafters are firs.\n\n### Crossrefs\n- A: [[1Kgs-6-9|1Ki 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1a63aea34f59",m="# 1 Chronicles 5:4 (New International Version)\nThe descendants of Joel:\nShemaiah his son, Gog his son,\nShimei his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9624fe805be4",m="# 2 Kings 2:22 (New International Version)\nAnd the water has remained pure<sup>^A</sup> to this day, according to the word Elisha had spoken.\n\n### Crossrefs\n- A: [[Exod-15-25|Ex 15:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

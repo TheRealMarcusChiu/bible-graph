@@ -1,0 +1,1 @@
+(function(){var b="c2c0b2f6be2f",m="# Psalm 107:12 (New International Version)\nSo he subjected them to bitter labor;  \n    they stumbled, and there was no one to help.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Kgs-14-26|2Ki 14:26]]; [[Ps-72-12|Ps 72:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

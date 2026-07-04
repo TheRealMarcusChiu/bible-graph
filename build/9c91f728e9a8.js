@@ -1,0 +1,1 @@
+(function(){var b="9c91f728e9a8",m="# Ecclesiastes 5:11 (New International Version)\nAs goods increase,  \n    so do those who consume them.  \nAnd what benefit are they to the owners  \n    except to feast their eyes on them?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5a5316e5df9f",m="# 1 Chronicles 11:43 (New International Version)\nHanan son of Maakah,\nJoshaphat the Mithnite,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b84a8c5b94c8",m="# Proverbs 7:25 (New International Version)\nDo not let your heart turn to her ways  \n    or stray into her paths.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-5-7|Pr 5:7-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

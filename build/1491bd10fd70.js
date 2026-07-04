@@ -1,0 +1,1 @@
+(function(){var b="1491bd10fd70",m="# Ezekiel 22:19 (New International Version)\nTherefore this is what the Sovereign LORD says: 'Because you have all become dross,<sup>^A</sup> I will gather you into Jerusalem. \n\n### Crossrefs\n- A: S [[Ps-119-119|Ps 119:119]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

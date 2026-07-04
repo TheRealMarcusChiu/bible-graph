@@ -1,0 +1,1 @@
+(function(){var b="d56ee592097a",m="# Ecclesiastes 7:24 (New International Version)\nWhatever exists is far off and most profound--  \n    who can discover it?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-28-12|Job 28:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

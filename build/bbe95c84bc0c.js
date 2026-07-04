@@ -1,0 +1,1 @@
+(function(){var b="bbe95c84bc0c",m="# Jeremiah 48:4 (New International Version)\nMoab will be broken;  \n    her little ones will cry out.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

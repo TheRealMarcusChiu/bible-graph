@@ -1,0 +1,1 @@
+(function(){var b="3d097879d75a",m="# Proverbs 22:25 (New International Version)\nor you may learn their ways  \n    and get yourself ensnared.<sup>^A</sup>\n\n### Crossrefs\n- A: [[1Cor-15-33|1Co 15:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

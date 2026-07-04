@@ -1,0 +1,1 @@
+(function(){var b="c7efe6eae05b",m="# 1 Chronicles 6:64 (New International Version)\nSo the Israelites gave the Levites these towns<sup>^A</sup> and their pasturelands. \n\n### Crossrefs\n- A: [[Num-35-1|Nu 35:1-8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

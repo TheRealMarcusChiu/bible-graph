@@ -1,0 +1,1 @@
+(function(){var b="82ea9f2087e3",m="# Jeremiah 39:11 (New International Version)\nNow Nebuchadnezzar king of Babylon had given these orders about Jeremiah through Nebuzaradan commander of the imperial guard:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

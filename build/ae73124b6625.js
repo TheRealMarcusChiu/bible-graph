@@ -1,0 +1,1 @@
+(function(){var b="ae73124b6625",m="# Proverbs 26:22 (New International Version)\nThe words of a gossip are like choice morsels;  \n    they go down to the inmost parts.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-18-8|Pr 18:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

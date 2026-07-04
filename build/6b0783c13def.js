@@ -1,0 +1,1 @@
+(function(){var b="6b0783c13def",m="# 1 Chronicles 11:41 (New International Version)\nUriah<sup>^A</sup> the Hittite,\nZabad<sup>^B</sup> son of Ahlai,\n\n### Crossrefs\n- A: [[2Sam-11-6|2Sa 11:6]]\n- B: [[1Chr-2-36|1Ch 2:36]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

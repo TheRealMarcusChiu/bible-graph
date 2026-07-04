@@ -1,0 +1,1 @@
+(function(){var b="07f3553fe6ad",m="# Job 22:20 (New International Version)\n'Surely our foes are destroyed,<sup>^A</sup>  \n    and fire<sup>^B</sup> devours their wealth.'\n\n### Crossrefs\n- A: [[Ps-18-39|Ps 18:39]]\n- B: S [[Job-15-30|Job 15:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

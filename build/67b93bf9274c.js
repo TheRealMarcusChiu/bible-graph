@@ -1,0 +1,1 @@
+(function(){var b="67b93bf9274c",m="# Song of Songs 2:11 (New International Version)\nSee! The winter is past;  \n    the rains are over and gone.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="42291ebabf30",m="# Jeremiah 52:21 (New International Version)\nEach pillar was eighteen cubits high and twelve cubits in circumference; each was four fingers thick, and hollow.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Kgs-7-15|1Ki 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

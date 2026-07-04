@@ -1,0 +1,1 @@
+(function(){var b="d24cd929ce71",m="# 1 Chronicles 12:25 (New International Version)\nfrom Simeon, warriors ready for battle--7,100;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

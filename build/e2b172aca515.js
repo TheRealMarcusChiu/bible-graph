@@ -1,0 +1,1 @@
+(function(){var b="e2b172aca515",m="# Job 41:12 (New International Version)\n\"I will not fail to speak of Leviathan's limbs,<sup>^A</sup>  \n    its strength<sup>^B</sup> and its graceful form.\n\n### Crossrefs\n- A: [[Job-40-18|Job 40:18]]\n- B: S [[Job-39-11|Job 39:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

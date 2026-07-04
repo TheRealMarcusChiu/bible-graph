@@ -1,0 +1,1 @@
+(function(){var b="ed1388199b6f",m="# 1 Chronicles 7:35 (New International Version)\nThe sons of his brother Helem:\nZophah, Imna, Shelesh and Amal.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

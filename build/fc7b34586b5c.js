@@ -1,0 +1,1 @@
+(function(){var b="fc7b34586b5c",m="# Daniel 7:21 (New International Version)\nAs I watched, this horn was waging war against the holy people and defeating them,<sup>^A</sup> \n\n### Crossrefs\n- A: [[Rev-13-7|Rev 13:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

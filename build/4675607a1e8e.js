@@ -1,0 +1,1 @@
+(function(){var b="4675607a1e8e",m="# 1 Chronicles 17\n\nGenealogies of Israel and a priestly retelling of David's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

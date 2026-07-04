@@ -1,0 +1,1 @@
+(function(){var b="2c54f4f19fd1",m="# 1 Chronicles 22:4 (New International Version)\nHe also provided more cedar logs<sup>^A</sup> than could be counted, for the Sidonians and Tyrians had brought large numbers of them to David.\n\n### Crossrefs\n- A: S [[1Kgs-5-6|1Ki 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

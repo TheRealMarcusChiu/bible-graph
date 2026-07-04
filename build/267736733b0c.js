@@ -1,0 +1,1 @@
+(function(){var b="267736733b0c",m="# Jeremiah 23:23 (New International Version)\n\"Am I only a God nearby,<sup>^A</sup>\"  \ndeclares the LORD,  \n    \"and not a God far away?\n\n### Crossrefs\n- A: [[Ps-139-1|Ps 139:1-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

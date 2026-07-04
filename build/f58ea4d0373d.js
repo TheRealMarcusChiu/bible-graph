@@ -1,0 +1,1 @@
+(function(){var b="f58ea4d0373d",m="# Proverbs 13:12 (New International Version)\nHope deferred makes the heart sick,  \n    but a longing fulfilled is a tree of life.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-10-11|Pr 10:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

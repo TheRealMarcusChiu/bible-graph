@@ -1,0 +1,1 @@
+(function(){var b="de5798e02476",m="# Proverbs 8:18 (New International Version)\nWith me are riches and honor,<sup>^A</sup>  \n    enduring wealth and prosperity.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[1Kgs-3-13|1Ki 3:13]]\n- B: S [[Deut-8-18|Dt 8:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

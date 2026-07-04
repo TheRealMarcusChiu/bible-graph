@@ -1,0 +1,1 @@
+(function(){var b="2334fa535484",m="# Jeremiah 31:25 (New International Version)\nI will refresh the weary<sup>^A</sup> and satisfy the faint.\"<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Isa-40-29|Isa 40:29]]\n- B: [[John-4-14|Jn 4:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c92832e89eee",m="# 1 Chronicles 12:13 (New International Version)\nJeremiah the tenth and Makbannai the eleventh.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

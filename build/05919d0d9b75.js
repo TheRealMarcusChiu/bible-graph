@@ -1,0 +1,1 @@
+(function(){var b="05919d0d9b75",m="# Esther 8:14 (New International Version)\nThe couriers, riding the royal horses, went out, spurred on by the king's command, and the edict was issued in the citadel of Susa.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Esth-3-15|Est 3:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

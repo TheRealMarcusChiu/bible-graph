@@ -1,0 +1,1 @@
+(function(){var b="538dfb4eabb7",m="# 1 Chronicles 19:15 (New International Version)\nWhen the Ammonites realized that the Arameans were fleeing, they too fled before his brother Abishai and went inside the city. So Joab went back to Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

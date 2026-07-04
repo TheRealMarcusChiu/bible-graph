@@ -1,0 +1,1 @@
+(function(){var b="1688a9a8d6c9",m="# Psalm 78:15 (New International Version)\nHe split the rocks<sup>^A</sup> in the wilderness  \n    and gave them water as abundant as the seas;\n\n### Crossrefs\n- A: S [[Num-20-11|Nu 20:11]]; [[1Cor-10-4|1Co 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

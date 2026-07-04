@@ -1,0 +1,1 @@
+(function(){var b="cceb0d6eea51",m="# Esther 5:5 (New International Version)\n\"Bring Haman at once,\" the king said, \"so that we may do what Esther asks.\"\nSo the king and Haman went to the banquet Esther had prepared.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

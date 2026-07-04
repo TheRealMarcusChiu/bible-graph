@@ -1,0 +1,1 @@
+(function(){var b="0d8588336176",m="# 1 Chronicles 12:27 (New International Version)\nincluding Jehoiada, leader of the family of Aaron, with 3,700 men,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="25457c3a4eb8",m="# Job 20:9 (New International Version)\nThe eye that saw him will not see him again;  \n    his place will look on him no more.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-7-8|Job 7:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

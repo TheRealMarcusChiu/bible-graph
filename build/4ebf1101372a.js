@@ -1,0 +1,1 @@
+(function(){var b="4ebf1101372a",m="# Ezekiel 35:1 (New International Version)\nA Prophecy Against Edom\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

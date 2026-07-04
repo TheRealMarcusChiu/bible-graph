@@ -1,0 +1,1 @@
+(function(){var b="1e85a2182ed6",m="# Psalm 132:15 (New International Version)\nI will bless her with abundant provisions;  \n    her poor I will satisfy with food.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-107-9|Ps 107:9]]; [[Ps-147-14|147:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

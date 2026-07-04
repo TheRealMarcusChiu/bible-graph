@@ -1,0 +1,1 @@
+(function(){var b="886774a915ae",m="# Psalm 129:7 (New International Version)\na reaper cannot fill his hands with it,<sup>^A</sup>  \n    nor one who gathers fill his arms.\n\n### Crossrefs\n- A: S [[Deut-28-38|Dt 28:38]]; [[Ps-79-12|Ps 79:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

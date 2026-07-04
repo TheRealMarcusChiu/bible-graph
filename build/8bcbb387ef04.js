@@ -1,0 +1,1 @@
+(function(){var b="8bcbb387ef04",m="# 2 Chronicles 19:9 (New International Version)\nHe gave them these orders: \"You must serve faithfully and wholeheartedly in the fear of the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

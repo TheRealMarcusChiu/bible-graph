@@ -1,0 +1,1 @@
+(function(){var b="671182c15616",m="# Lamentations 5:10 (New International Version)\nOur skin is hot as an oven,  \n    feverish from hunger.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-30-30|Job 30:30]]; S [[Lam-4-8|La 4:8-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

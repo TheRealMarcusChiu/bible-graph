@@ -1,0 +1,1 @@
+(function(){var b="896a05bdcb83",m="# Isaiah 6:6 (New International Version)\nThen one of the seraphim flew to me with a live coal<sup>^A</sup> in his hand, which he had taken with tongs from the altar. \n\n### Crossrefs\n- A: S [[Lev-10-1|Lev 10:1]]; [[Ezek-10-2|Eze 10:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

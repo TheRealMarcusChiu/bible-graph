@@ -1,0 +1,1 @@
+(function(){var b="b9aa6f02fd51",m="# 2 Kings 3:3 (New International Version)\nNevertheless he clung to the sins<sup>^A</sup> of Jeroboam son of Nebat, which he had caused Israel to commit; he did not turn away from them.\n\n### Crossrefs\n- A: S [[1Kgs-12-28|1Ki 12:28-32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

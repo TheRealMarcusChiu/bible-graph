@@ -1,0 +1,1 @@
+(function(){var b="866a9ce102c0",m="# Esther 2:5 (New International Version)\nNow there was in the citadel of Susa a Jew of the tribe of Benjamin, named Mordecai son of Jair, the son of Shimei, the son of Kish,<sup>^A</sup> \n\n### Crossrefs\n- A: S [[1Sam-9-1|1Sa 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

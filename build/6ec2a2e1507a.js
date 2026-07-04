@@ -1,0 +1,1 @@
+(function(){var b="6ec2a2e1507a",m="# Proverbs 20:5 (New International Version)\nThe purposes of a person's heart are deep waters,<sup>^A</sup>  \n    but one who has insight draws them out.\n\n### Crossrefs\n- A: S [[Ps-18-16|Ps 18:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

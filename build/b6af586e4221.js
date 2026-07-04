@@ -1,0 +1,1 @@
+(function(){var b="b6af586e4221",m="# 1 Chronicles 10:5 (New International Version)\nWhen the armor-bearer saw that Saul was dead, he too fell on his sword and died.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

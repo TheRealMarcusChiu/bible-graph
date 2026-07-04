@@ -1,0 +1,1 @@
+(function(){var b="b57d373fce2b",m="# Psalm 103:13 (New International Version)\nAs a father has compassion<sup>^A</sup> on his children,  \n    so the LORD has compassion on those who fear him;\n\n### Crossrefs\n- A: [[Mal-3-17|Mal 3:17]]; [[1John-3-1|1Jn 3:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

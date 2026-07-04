@@ -1,0 +1,1 @@
+(function(){var b="56e417b853d2",m="# Psalm 90:5 (New International Version)\nYet you sweep people away<sup>^A</sup> in the sleep of death--  \n    they are like the new grass of the morning:\n\n### Crossrefs\n- A: S [[Gen-19-15|Ge 19:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

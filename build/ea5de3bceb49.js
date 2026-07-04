@@ -1,0 +1,1 @@
+(function(){var b="ea5de3bceb49",m="# Proverbs 27:7 (New International Version)\nOne who is full loathes honey from the comb,  \n    but to the hungry even what is bitter tastes sweet.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

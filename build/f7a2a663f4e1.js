@@ -1,0 +1,1 @@
+(function(){var b="f7a2a663f4e1",m="# 1 Chronicles 2:39 (New International Version)\nAzariah the father of Helez,\nHelez the father of Eleasah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

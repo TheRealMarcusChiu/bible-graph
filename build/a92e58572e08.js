@@ -1,0 +1,1 @@
+(function(){var b="a92e58572e08",m="# Ezekiel 20:45 (New International Version)\nProphecy Against the South\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

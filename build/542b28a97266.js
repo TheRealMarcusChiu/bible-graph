@@ -1,0 +1,1 @@
+(function(){var b="542b28a97266",m="# Job 27:12 (New International Version)\nYou have all seen this yourselves.  \n    Why then this meaningless talk?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

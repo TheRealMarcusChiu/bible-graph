@@ -1,0 +1,1 @@
+(function(){var b="5d3ab95d7024",m="# 2 Chronicles 17:15 (New International Version)\nnext, Jehohanan the commander, with 280,000;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

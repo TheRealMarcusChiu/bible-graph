@@ -1,0 +1,1 @@
+(function(){var b="0a197b3b23c6",m="# Daniel 7:26 (New International Version)\n\"'But the court will sit, and his power will be taken away and completely destroyed<sup>^A</sup> forever. \n\n### Crossrefs\n- A: [[Rev-19-20|Rev 19:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0c323491e9ab",m="# Ezekiel 39:8 (New International Version)\nIt is coming! It will surely take place, declares the Sovereign LORD. This is the day<sup>^A</sup> I have spoken of.\n\n### Crossrefs\n- A: [[Ezek-7-6|Eze 7:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

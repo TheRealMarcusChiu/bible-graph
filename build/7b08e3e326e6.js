@@ -1,0 +1,1 @@
+(function(){var b="7b08e3e326e6",m="# Lamentations 3:13 (New International Version)\nHe pierced<sup>^A</sup> my heart  \n    with arrows from his quiver.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-16-13|Job 16:13]]\n- B: [[Job-6-4|Job 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

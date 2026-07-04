@@ -1,0 +1,1 @@
+(function(){var b="a02a43639bc8",m="# Psalm 88:18 (New International Version)\nYou have taken from me friend<sup>^A</sup> and neighbor--  \n    darkness is my closest friend.\n\n### Crossrefs\n- A: [[Ps-88-8|ver 8]]; [[Ps-38-11|Ps 38:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

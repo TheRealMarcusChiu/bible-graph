@@ -1,0 +1,1 @@
+(function(){var b="019bb2685045",m="# 2 Chronicles 15:17 (New International Version)\nAlthough he did not remove the high places from Israel, Asa's heart was fully committed to the LORD all his life.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

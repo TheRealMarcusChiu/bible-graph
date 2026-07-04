@@ -1,0 +1,1 @@
+(function(){var b="549d10fdbfe5",m="# 2 Chronicles 4:5 (New International Version)\nIt was a handbreadth in thickness, and its rim was like the rim of a cup, like a lily blossom. It held three thousand baths.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

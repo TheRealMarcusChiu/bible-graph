@@ -1,0 +1,1 @@
+(function(){var b="93d1e26f485d",m="# 2 Chronicles 30:10 (New International Version)\nThe couriers went from town to town in Ephraim and Manasseh, as far as Zebulun, but people scorned and ridiculed<sup>^A</sup> them. \n\n### Crossrefs\n- A: [[2Chr-36-16|2Ch 36:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

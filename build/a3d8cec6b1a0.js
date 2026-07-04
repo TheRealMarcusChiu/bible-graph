@@ -1,0 +1,1 @@
+(function(){var b="a3d8cec6b1a0",m="# Jeremiah 51:18 (New International Version)\nThey are worthless,<sup>^A</sup> the objects of mockery;  \n    when their judgment comes, they will perish.\n\n### Crossrefs\n- A: S [[Jer-18-15|Jer 18:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

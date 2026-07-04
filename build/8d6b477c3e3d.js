@@ -1,0 +1,1 @@
+(function(){var b="8d6b477c3e3d",m="# Ezekiel 13:1 (New International Version)\nFalse Prophets Condemned\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

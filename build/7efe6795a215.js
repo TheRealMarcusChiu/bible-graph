@@ -1,0 +1,1 @@
+(function(){var b="7efe6795a215",m="# Proverbs 2:20 (New International Version)\nThus you will walk in the ways of the good  \n    and keep to the paths of the righteous.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

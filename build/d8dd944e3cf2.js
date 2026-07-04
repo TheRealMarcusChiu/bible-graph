@@ -1,0 +1,1 @@
+(function(){var b="d8dd944e3cf2",m="# Jeremiah 23:40 (New International Version)\nI will bring on you everlasting disgrace<sup>^A</sup>--everlasting shame that will not be forgotten.\"\n\n### Crossrefs\n- A: S [[Jer-20-11|Jer 20:11]]; [[Ezek-5-14|Eze 5:14-15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

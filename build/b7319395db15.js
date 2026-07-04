@@ -1,0 +1,1 @@
+(function(){var b="b7319395db15",m="# Job 26:5 (New International Version)\n\"The dead are in deep anguish,<sup>^A</sup>  \n    those beneath the waters and all that live in them.\n\n### Crossrefs\n- A: [[Ps-88-10|Ps 88:10]]; [[Isa-14-9|Isa 14:9]]; [[Isa-26-14|26:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

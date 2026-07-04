@@ -1,0 +1,1 @@
+(function(){var b="e7c6ba27cff2",m="# Psalm 104:17 (New International Version)\nThere the birds<sup>^A</sup> make their nests;  \n    the stork has its home in the junipers.\n\n### Crossrefs\n- A: [[Ps-104-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

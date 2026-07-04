@@ -1,0 +1,1 @@
+(function(){var b="c0017fef8c10",m="# 2 Kings 22:6 (New International Version)\nthe carpenters, the builders and the masons. Also have them purchase timber and dressed stone to repair the temple.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Kgs-12-11|2Ki 12:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

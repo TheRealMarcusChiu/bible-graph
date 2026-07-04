@@ -1,0 +1,1 @@
+(function(){var b="2c51072e82fe",m="# Psalm 63:8 (New International Version)\nI cling to you;<sup>^A</sup>  \n    your right hand upholds me.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Num-32-12|Nu 32:12]]; [[Hos-6-3|Hos 6:3]]\n- B: S [[Ps-41-12|Ps 41:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

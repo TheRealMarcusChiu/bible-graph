@@ -1,0 +1,1 @@
+(function(){var b="7afe1a4876ed",m="# Ezekiel 23:6 (New International Version)\nclothed in blue, governors and commanders, all of them handsome young men, and mounted horsemen.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

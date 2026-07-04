@@ -1,0 +1,1 @@
+(function(){var b="51197d5c1b5e",m="# Psalm 119:59 (New International Version)\nI have considered my ways<sup>^A</sup>  \n    and have turned my steps to your statutes.\n\n### Crossrefs\n- A: [[Josh-24-14|Jos 24:14-15]]; S [[Ps-39-1|Ps 39:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

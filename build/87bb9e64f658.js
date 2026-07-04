@@ -1,0 +1,1 @@
+(function(){var b="87bb9e64f658",m="# Isaiah 32:12 (New International Version)\nBeat your breasts<sup>^A</sup> for the pleasant fields,  \n    for the fruitful vines<sup>^B</sup>\n\n### Crossrefs\n- A: [[Nah-2-7|Na 2:7]]\n- B: [[Isa-16-9|Isa 16:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

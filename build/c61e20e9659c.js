@@ -1,0 +1,1 @@
+(function(){var b="c61e20e9659c",m="# 1 Chronicles 21:7 (New International Version)\nThis command was also evil in the sight of God; so he punished Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

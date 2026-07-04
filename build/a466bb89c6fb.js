@@ -1,0 +1,1 @@
+(function(){var b="a466bb89c6fb",m="# Ecclesiastes 3:6 (New International Version)\na time to search and a time to give up,  \n    a time to keep and a time to throw away,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="6e4bc6ed2483",m="# 1 Chronicles 9:4 (New International Version)\nUthai son of Ammihud, the son of Omri, the son of Imri, the son of Bani, a descendant of Perez son of Judah.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-38-29|Ge 38:29]]; [[Gen-46-12|46:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

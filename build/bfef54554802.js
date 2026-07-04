@@ -1,0 +1,1 @@
+(function(){var b="bfef54554802",m="# Proverbs 5:7 (New International Version)\nNow then, my sons, listen<sup>^A</sup> to me;  \n    do not turn aside from what I say.\n\n### Crossrefs\n- A: [[Prov-1-8|Pr 1:8-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

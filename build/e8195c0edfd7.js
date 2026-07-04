@@ -1,0 +1,1 @@
+(function(){var b="e8195c0edfd7",m="# Psalm 90:15 (New International Version)\nMake us glad for as many days as you have afflicted us,  \n    for as many years as we have seen trouble.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

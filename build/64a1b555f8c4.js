@@ -1,0 +1,1 @@
+(function(){var b="64a1b555f8c4",m="# Psalm 49:13 (New International Version)\nThis is the fate of those who trust in themselves,<sup>^A</sup>  \n    and of their followers, who approve their sayings.\n\n### Crossrefs\n- A: [[Luke-12-20|Lk 12:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

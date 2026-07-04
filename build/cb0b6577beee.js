@@ -1,0 +1,1 @@
+(function(){var b="cb0b6577beee",m="# Psalm 34:17 (New International Version)\nThe righteous cry out, and the LORD hears<sup>^A</sup> them;  \n    he delivers them from all their troubles.\n\n### Crossrefs\n- A: [[Ps-145-19|Ps 145:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

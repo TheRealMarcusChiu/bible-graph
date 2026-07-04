@@ -1,0 +1,1 @@
+(function(){var b="485da7e7dae6",m="# Psalm 35:12 (New International Version)\nThey repay me evil for good<sup>^A</sup>  \n    and leave me like one bereaved.\n\n### Crossrefs\n- A: [[Ps-38-20|Ps 38:20]]; [[Ps-109-5|109:5]]; [[Prov-17-13|Pr 17:13]]; [[Jer-18-20|Jer 18:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

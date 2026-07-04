@@ -1,0 +1,1 @@
+(function(){var b="4f81d435caaf",m="# Psalm 141:6 (New International Version)\nTheir rulers will be thrown down from the cliffs,<sup>^A</sup>  \n    and the wicked will learn that my words were well spoken.\n\n### Crossrefs\n- A: S [[2Chr-25-12|2Ch 25:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

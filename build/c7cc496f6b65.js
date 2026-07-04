@@ -1,0 +1,1 @@
+(function(){var b="c7cc496f6b65",m="# Psalm 105:13 (New International Version)\nthey wandered from nation to nation,<sup>^A</sup>  \n    from one kingdom to another.\n\n### Crossrefs\n- A: [[Gen-15-13|Ge 15:13-16]]; [[Num-32-13|Nu 32:13]]; [[Num-33-3|33:3-49]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b889c2abfc76",m="# 2 Kings 18:30 (New International Version)\nDo not let Hezekiah persuade you to trust in the LORD when he says, 'The LORD will surely deliver us; this city will not be given into the hand of the king of Assyria.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

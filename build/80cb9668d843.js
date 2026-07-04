@@ -1,0 +1,1 @@
+(function(){var b="80cb9668d843",m="# Proverbs 10:8 (New International Version)\nThe wise in heart accept commands,  \n    but a chattering fool comes to ruin.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-10-14|ver 14]]; S [[Job-33-33|Job 33:33]]; [[Matt-7-24|Mt 7:24-27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

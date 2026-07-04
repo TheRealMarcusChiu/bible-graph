@@ -1,0 +1,1 @@
+(function(){var b="1c3e051570ab",m="# 2 Kings 2:10 (New International Version)\n\"You have asked a difficult thing,\" Elijah said, \"yet if you see me when I am taken from you, it will be yours--otherwise, it will not.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9a0faba65fc9",m="# Psalm 109:22 (New International Version)\nFor I am poor and needy,  \n    and my heart is wounded within me.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

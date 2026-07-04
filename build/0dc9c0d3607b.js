@@ -1,0 +1,1 @@
+(function(){var b="0dc9c0d3607b",m="# Ezekiel 41:8 (New International Version)\nI saw that the temple had a raised base all around it, forming the foundation of the side rooms. It was the length of the rod, six long cubits.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

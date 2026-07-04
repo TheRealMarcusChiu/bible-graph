@@ -1,0 +1,1 @@
+(function(){var b="495baca95c22",m="# Proverbs 26:2 (New International Version)\nLike a fluttering sparrow or a darting swallow,  \n    an undeserved curse does not come to rest.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-23-5|Dt 23:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

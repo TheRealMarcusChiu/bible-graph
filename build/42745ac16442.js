@@ -1,0 +1,1 @@
+(function(){var b="42745ac16442",m="# Job 11:19 (New International Version)\nYou will lie down, with no one to make you afraid,<sup>^A</sup>  \n    and many will court your favor.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Lev-26-6|Lev 26:6]]\n- B: [[Isa-45-14|Isa 45:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

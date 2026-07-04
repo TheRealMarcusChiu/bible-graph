@@ -1,0 +1,1 @@
+(function(){var b="1fc9fc2faf6d",m="# 1 Chronicles 17:25 (New International Version)\n\"You, my God, have revealed to your servant that you will build a house for him. So your servant has found courage to pray to you.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

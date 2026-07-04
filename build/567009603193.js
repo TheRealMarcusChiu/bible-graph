@@ -1,0 +1,1 @@
+(function(){var b="567009603193",m="# Proverbs 22:18 (New International Version)\nfor it is pleasing when you keep them in your heart  \n    and have all of them ready on your lips.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

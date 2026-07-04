@@ -1,0 +1,1 @@
+(function(){var b="92bf9a30f2da",m="# Psalm 102:19 (New International Version)\n\"The LORD looked down<sup>^A</sup> from his sanctuary on high,  \n    from heaven he viewed the earth,\n\n### Crossrefs\n- A: [[Ps-53-2|Ps 53:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

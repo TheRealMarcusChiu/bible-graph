@@ -1,0 +1,1 @@
+(function(){var b="5affbbf50b78",m="# Ezekiel 46:24 (New International Version)\nHe said to me, \"These are the kitchens where those who minister at the temple are to cook the sacrifices of the people.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

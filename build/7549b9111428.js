@@ -1,0 +1,1 @@
+(function(){var b="7549b9111428",m="# 1 Chronicles 23:15 (New International Version)\nThe sons of Moses:\nGershom and Eliezer.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Exod-18-4|Ex 18:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

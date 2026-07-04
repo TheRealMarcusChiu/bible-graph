@@ -1,0 +1,1 @@
+(function(){var b="f61798e4e5a3",m="# Proverbs 31:15 (New International Version)\nShe gets up while it is still night;  \n    she provides food for her family  \n    and portions for her female servants.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

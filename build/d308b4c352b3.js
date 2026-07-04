@@ -1,0 +1,1 @@
+(function(){var b="d308b4c352b3",m="# Ezekiel 4:7 (New International Version)\nTurn your face<sup>^A</sup> toward the siege of Jerusalem and with bared arm prophesy against her. \n\n### Crossrefs\n- A: S [[Ezek-4-3|ver 3]]; [[Ezek-6-2|Eze 6:2]]; S [[Ezek-13-17|13:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

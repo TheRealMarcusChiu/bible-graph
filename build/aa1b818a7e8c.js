@@ -1,0 +1,1 @@
+(function(){var b="aa1b818a7e8c",m="# Psalm 78:69 (New International Version)\nHe built his sanctuary<sup>^A</sup> like the heights,  \n    like the earth that he established forever.\n\n### Crossrefs\n- A: S [[Ps-15-1|Ps 15:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

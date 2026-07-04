@@ -1,0 +1,1 @@
+(function(){var b="a25de2dd0ce5",m="# Proverbs 2:5 (New International Version)\nthen you will understand the fear of the LORD  \n    and find the knowledge of God.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-4-6|Dt 4:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

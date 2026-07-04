@@ -1,0 +1,1 @@
+(function(){var b="4bf813d4de0f",m="# Job 36:14 (New International Version)\nThey die in their youth,<sup>^A</sup>  \n    among male prostitutes of the shrines.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-15-32|Job 15:32]]\n- B: S [[Deut-23-17|Dt 23:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

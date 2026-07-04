@@ -1,0 +1,1 @@
+(function(){var b="31e7958fb360",m="# Obadiah 6 (New International Version)\nBut how Esau will be ransacked,  \n    his hidden treasures pillaged!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

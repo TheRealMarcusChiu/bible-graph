@@ -1,0 +1,1 @@
+(function(){var b="b73ca96ccb46",m="# Proverbs 26:4 (New International Version)\nDo not answer a fool according to his folly,  \n    or you yourself will be just like him.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-26-5|ver 5]]; [[Isa-36-21|Isa 36:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

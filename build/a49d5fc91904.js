@@ -1,0 +1,1 @@
+(function(){var b="a49d5fc91904",m="# Psalm 86:4 (New International Version)\nBring joy to your servant, Lord,  \n    for I put my trust<sup>^A</sup> in you.\n\n### Crossrefs\n- A: [[Ps-46-5|Ps 46:5]]; [[Ps-143-8|143:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

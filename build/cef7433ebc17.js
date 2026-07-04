@@ -1,0 +1,1 @@
+(function(){var b="cef7433ebc17",m="# Job 35:2 (New International Version)\n\"Do you think this is just?  \n    You say, 'I am in the right,<sup>^A</sup> not God.'<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-33-32|Job 33:32]]\n- B: S [[Job-2-9|Job 2:9]]; S [[Job-32-2|32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

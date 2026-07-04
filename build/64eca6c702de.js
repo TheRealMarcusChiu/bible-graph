@@ -1,0 +1,1 @@
+(function(){var b="64eca6c702de",m="# Proverbs 30:2 (New International Version)\nSurely I am only a brute, not a man;  \n    I do not have human understanding.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

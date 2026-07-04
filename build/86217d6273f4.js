@@ -1,0 +1,1 @@
+(function(){var b="86217d6273f4",m="# Job 9:2 (New International Version)\n\"Indeed, I know that this is true.  \n    But how can mere mortals prove their innocence before God?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-4-17|Job 4:17]]; [[Rom-3-20|Ro 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

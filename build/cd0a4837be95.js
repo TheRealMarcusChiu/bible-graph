@@ -1,0 +1,1 @@
+(function(){var b="cd0a4837be95",m="# 1 Chronicles 1:47 (New International Version)\nWhen Hadad died, Samlah from Masrekah succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

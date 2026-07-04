@@ -1,0 +1,1 @@
+(function(){var b="074ee26b5128",m="# Psalm 89:50 (New International Version)\nRemember, Lord, how your servant has been mocked,<sup>^A</sup>  \n    how I bear in my heart the taunts of all the nations,\n\n### Crossrefs\n- A: [[Ps-69-19|Ps 69:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

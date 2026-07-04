@@ -1,0 +1,1 @@
+(function(){var b="1cdcbc71654f",m="# 1 Chronicles 27:11 (New International Version)\nThe eighth, for the eighth month, was Sibbekai<sup>^A</sup> the Hushathite, a Zerahite. There were 24,000 men in his division.\n\n### Crossrefs\n- A: S [[2Sam-21-18|2Sa 21:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

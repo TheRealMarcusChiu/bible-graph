@@ -1,0 +1,1 @@
+(function(){var b="62c5ba770b32",m="# Jeremiah 51:40 (New International Version)\n\"I will bring them down  \n    like lambs to the slaughter,  \n    like rams and goats.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-39-18|Eze 39:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

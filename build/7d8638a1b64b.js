@@ -1,0 +1,1 @@
+(function(){var b="7d8638a1b64b",m="# Nehemiah 5:4 (New International Version)\nStill others were saying, \"We have had to borrow money to pay the king's tax<sup>^A</sup> on our fields and vineyards. \n\n### Crossrefs\n- A: S [[Ezra-4-13|Ezr 4:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

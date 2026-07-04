@@ -1,0 +1,1 @@
+(function(){var b="ec4f9b940c4b",m="# 2 Kings 11:10 (New International Version)\nThen he gave the commanders the spears and shields<sup>^A</sup> that had belonged to King David and that were in the temple of the LORD. \n\n### Crossrefs\n- A: S [[2Sam-8-7|2Sa 8:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

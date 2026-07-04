@@ -1,0 +1,1 @@
+(function(){var b="489a63386b74",m="# Proverbs 21:28 (New International Version)\nA false witness<sup>^A</sup> will perish,<sup>^B</sup>  \n    but a careful listener will testify successfully.\n\n### Crossrefs\n- A: [[Isa-29-21|Isa 29:21]]\n- B: S [[Prov-19-5|Pr 19:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

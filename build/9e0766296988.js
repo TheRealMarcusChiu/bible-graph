@@ -1,0 +1,1 @@
+(function(){var b="9e0766296988",m="# Proverbs 24:29 (New International Version)\nDo not say, \"I'll do to them as they have done to me;  \n    I'll pay them back for what they did.\"<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-20-22|Pr 20:22]]; [[Matt-5-38|Mt 5:38-41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

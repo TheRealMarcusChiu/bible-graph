@@ -1,0 +1,1 @@
+(function(){var b="01be9bf6a2fd",m="# Jeremiah 38:8 (New International Version)\nEbed-Melek went out of the palace and said to him,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

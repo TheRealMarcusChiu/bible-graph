@@ -1,0 +1,1 @@
+(function(){var b="209edf332f43",m="# Song of Songs 2:6 (New International Version)\nHis left arm is under my head,  \n    and his right arm embraces me.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Song-8-3|SS 8:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

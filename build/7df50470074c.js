@@ -1,0 +1,1 @@
+(function(){var b="7df50470074c",m="# Ezekiel 48:17 (New International Version)\nThe pastureland for the city will be 250 cubits on the north, 250 cubits on the south, 250 cubits on the east, and 250 cubits on the west.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

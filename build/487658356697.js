@@ -1,0 +1,1 @@
+(function(){var b="487658356697",m="# Jeremiah 41:4 (New International Version)\nThe day after Gedaliah's assassination, before anyone knew about it,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

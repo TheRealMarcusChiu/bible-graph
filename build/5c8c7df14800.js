@@ -1,0 +1,1 @@
+(function(){var b="5c8c7df14800",m="# Nehemiah 10:13 (New International Version)\nHodiah, Bani and Beninu.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

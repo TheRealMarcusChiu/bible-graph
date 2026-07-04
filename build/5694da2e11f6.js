@@ -1,0 +1,1 @@
+(function(){var b="5694da2e11f6",m="# Lamentations 3:11 (New International Version)\nhe dragged me from the path and mangled<sup>^A</sup> me  \n    and left me without help.\n\n### Crossrefs\n- A: [[Hos-6-1|Hos 6:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

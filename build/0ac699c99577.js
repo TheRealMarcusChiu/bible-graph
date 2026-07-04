@@ -1,0 +1,1 @@
+(function(){var b="0ac699c99577",m="# 1 Chronicles 6:20 (New International Version)\nOf Gershon:\nLibni his son, Jahath his son,\nZimmah his son,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

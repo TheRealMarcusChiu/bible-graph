@@ -1,0 +1,1 @@
+(function(){var b="1daea4ae2748",m="# Proverbs 14:10 (New International Version)\nEach heart knows its own bitterness,  \n    and no one else can share its joy.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

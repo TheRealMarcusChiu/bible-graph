@@ -1,0 +1,1 @@
+(function(){var b="a4f49abc5977",m="# 1 Chronicles 27:30 (New International Version)\nObil the Ishmaelite was in charge of the camels.\nJehdeiah the Meronothite was in charge of the donkeys.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="cc99ca52776d",m="# 2 Chronicles 10:4 (New International Version)\n\"Your father put a heavy yoke on us,<sup>^A</sup> but now lighten the harsh labor and the heavy yoke he put on us, and we will serve you.\"\n\n### Crossrefs\n- A: [[2Chr-2-2|2Ch 2:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

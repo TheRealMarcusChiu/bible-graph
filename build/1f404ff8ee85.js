@@ -1,0 +1,1 @@
+(function(){var b="1f404ff8ee85",m="# Job 16:15 (New International Version)\n\"I have sewed sackcloth<sup>^A</sup> over my skin  \n    and buried my brow in the dust.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-37-34|Ge 37:34]]\n- B: S [[Job-2-8|Job 2:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

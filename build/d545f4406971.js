@@ -1,0 +1,1 @@
+(function(){var b="d545f4406971",m="# Esther 9:8 (New International Version)\nPoratha, Adalia, Aridatha,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

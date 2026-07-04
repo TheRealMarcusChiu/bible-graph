@@ -1,0 +1,1 @@
+(function(){var b="61fa205aabce",m="# 1 Chronicles 2:20 (New International Version)\nHur was the father of Uri, and Uri the father of Bezalel.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-31-2|Ex 31:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

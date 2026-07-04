@@ -1,0 +1,1 @@
+(function(){var b="b3c4218e0d96",m="# Job 35:6 (New International Version)\nIf you sin, how does that affect him?  \n    If your sins are many, what does that do to him?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-7-20|Job 7:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4a6aeafb95fa",m="# 1 Chronicles 8:5 (New International Version)\nGera, Shephuphan and Huram.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

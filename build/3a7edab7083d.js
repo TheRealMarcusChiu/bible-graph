@@ -1,0 +1,1 @@
+(function(){var b="3a7edab7083d",m="# Proverbs 23:28 (New International Version)\nLike a bandit she lies in wait<sup>^A</sup>  \n    and multiplies the unfaithful among men.\n\n### Crossrefs\n- A: [[Prov-7-11|Pr 7:11-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

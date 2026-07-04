@@ -1,0 +1,1 @@
+(function(){var b="72fc997273ae",m="# Psalm 37:19 (New International Version)\nIn times of disaster they will not wither;  \n    in days of famine they will enjoy plenty.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

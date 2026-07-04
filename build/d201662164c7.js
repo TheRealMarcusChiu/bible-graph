@@ -1,0 +1,1 @@
+(function(){var b="d201662164c7",m="# Proverbs 7:27 (New International Version)\nHer house is a highway to the grave,  \n    leading down to the chambers of death.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Judg-16-19|Jdg 16:19]]; S [[Prov-2-18|Pr 2:18]]; [[Rev-22-15|Rev 22:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

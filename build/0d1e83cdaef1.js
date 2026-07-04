@@ -1,0 +1,1 @@
+(function(){var b="0d1e83cdaef1",m="# Jonah 1:4 (New International Version)\nThen the LORD sent a great wind on the sea, and such a violent storm arose that the ship threatened to break up.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ps-107-23|Ps 107:23-26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

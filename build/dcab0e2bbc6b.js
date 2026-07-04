@@ -1,0 +1,1 @@
+(function(){var b="dcab0e2bbc6b",m="# Ezekiel 40:12 (New International Version)\nIn front of each alcove was a wall one cubit high, and the alcoves were six cubits square.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

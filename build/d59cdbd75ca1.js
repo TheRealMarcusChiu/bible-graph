@@ -1,0 +1,1 @@
+(function(){var b="d59cdbd75ca1",m="# 2 Kings 10:12 (New International Version)\nJehu then set out and went toward Samaria. At Beth Eked of the Shepherds,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

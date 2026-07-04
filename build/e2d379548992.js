@@ -1,0 +1,1 @@
+(function(){var b="e2d379548992",m="# Proverbs 8:21 (New International Version)\nbestowing a rich inheritance on those who love me  \n    and making their treasuries full.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-15-6|Pr 15:6]]; [[Prov-24-4|24:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

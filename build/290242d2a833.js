@@ -1,0 +1,1 @@
+(function(){var b="290242d2a833",m="# Psalm 119:164 (New International Version)\nSeven times a day I praise you  \n    for your righteous laws.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-7|ver 7]], [[Ps-119-160|160]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

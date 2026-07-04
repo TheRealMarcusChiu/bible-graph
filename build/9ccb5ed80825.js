@@ -1,0 +1,1 @@
+(function(){var b="9ccb5ed80825",m="# Proverbs 4:15 (New International Version)\nAvoid it, do not travel on it;  \n    turn from it and go on your way.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

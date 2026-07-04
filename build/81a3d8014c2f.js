@@ -1,0 +1,1 @@
+(function(){var b="81a3d8014c2f",m="# Daniel 6:19 (New International Version)\nAt the first light of dawn, the king got up and hurried to the lions' den.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

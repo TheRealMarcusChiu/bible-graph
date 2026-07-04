@@ -1,0 +1,1 @@
+(function(){var b="fe079a7ca46d",m="# Psalm 74:3 (New International Version)\nTurn your steps toward these everlasting ruins,<sup>^A</sup>  \n    all this destruction the enemy has brought on the sanctuary.\n\n### Crossrefs\n- A: [[Isa-44-26|Isa 44:26]]; [[Isa-52-9|52:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

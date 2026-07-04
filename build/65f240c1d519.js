@@ -1,0 +1,1 @@
+(function(){var b="65f240c1d519",m="# Psalm 118:3 (New International Version)\nLet the house of Aaron say:<sup>^A</sup>  \n    \"His love endures forever.\"\n\n### Crossrefs\n- A: [[Exod-30-30|Ex 30:30]]; [[Ps-115-10|Ps 115:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

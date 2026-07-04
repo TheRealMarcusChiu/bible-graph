@@ -1,0 +1,1 @@
+(function(){var b="026d00606c7c",m="# Nehemiah 12:13 (New International Version)\nof Ezra's, Meshullam;\nof Amariah's, Jehohanan;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

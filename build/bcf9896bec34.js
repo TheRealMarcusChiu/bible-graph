@@ -1,0 +1,1 @@
+(function(){var b="bcf9896bec34",m="# Esther 5:10 (New International Version)\nNevertheless, Haman restrained himself and went home.\nCalling together his friends and Zeresh,<sup>^A</sup> his wife, \n\n### Crossrefs\n- A: [[Esth-6-13|Est 6:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

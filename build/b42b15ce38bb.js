@@ -1,0 +1,1 @@
+(function(){var b="b42b15ce38bb",m="# Proverbs 19:9 (New International Version)\nA false witness will not go unpunished,  \n    and whoever pours out lies will perish.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-19-5|ver 5]]; S [[Deut-19-19|Dt 19:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

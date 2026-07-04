@@ -1,0 +1,1 @@
+(function(){var b="a7418b2f858d",m="# Psalm 66:18 (New International Version)\nIf I had cherished sin in my heart,  \n    the Lord would not have listened;<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-1-45|Dt 1:45]]; S [[1Sam-8-18|1Sa 8:18]]; [[Jas-4-3|Jas 4:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="754096074674",m="# Lamentations 3:6 (New International Version)\nHe has made me dwell in darkness  \n    like those long dead.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-88-5|Ps 88:5-6]]; [[Ps-143-3|143:3]]; [[Isa-59-10|Isa 59:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

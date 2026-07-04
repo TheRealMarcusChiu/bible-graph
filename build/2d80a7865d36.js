@@ -1,0 +1,1 @@
+(function(){var b="2d80a7865d36",m="# Nehemiah 2:11 (New International Version)\nNehemiah Inspects Jerusalem's Walls\nI went to Jerusalem, and after staying there three days<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Gen-40-13|Ge 40:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

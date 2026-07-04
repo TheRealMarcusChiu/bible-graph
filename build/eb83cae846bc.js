@@ -1,0 +1,1 @@
+(function(){var b="eb83cae846bc",m="# Isaiah 28:24 (New International Version)\nWhen a farmer plows for planting,<sup>^A</sup> does he plow continually?  \n    Does he keep on breaking up and working the soil?\n\n### Crossrefs\n- A: [[Eccl-3-2|Ecc 3:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

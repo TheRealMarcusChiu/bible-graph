@@ -1,0 +1,1 @@
+(function(){var b="ceaa4c4102a3",m="# Micah 5:14 (New International Version)\nI will uproot from among you your Asherah poles<sup>^A</sup>  \n    when I demolish your cities.\n\n### Crossrefs\n- A: S [[Exod-34-13|Ex 34:13]]; S [[Judg-3-7|Jdg 3:7]]; S [[2Kgs-17-10|2Ki 17:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

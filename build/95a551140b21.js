@@ -1,0 +1,1 @@
+(function(){var b="95a551140b21",m="# Ezekiel 45:16 (New International Version)\nAll the people of the land will be required to give this special offering to the prince in Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

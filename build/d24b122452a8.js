@@ -1,0 +1,1 @@
+(function(){var b="d24b122452a8",m="# Proverbs 15:20 (New International Version)\nA wise son brings joy to his father,<sup>^A</sup>  \n    but a foolish man despises his mother.\n\n### Crossrefs\n- A: S [[Prov-10-1|Pr 10:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

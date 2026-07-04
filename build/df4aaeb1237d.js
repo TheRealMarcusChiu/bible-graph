@@ -1,0 +1,1 @@
+(function(){var b="df4aaeb1237d",m="# Proverbs 6:8 (New International Version)\nyet it stores its provisions in summer<sup>^A</sup>  \n    and gathers its food at harvest.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-30-24|Pr 30:24-25]]\n- B: [[Prov-10-4|Pr 10:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

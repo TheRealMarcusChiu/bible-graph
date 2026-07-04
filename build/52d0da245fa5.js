@@ -1,0 +1,1 @@
+(function(){var b="52d0da245fa5",m="# Ezra 7:10 (New International Version)\nFor Ezra had devoted himself to the study and observance of the Law of the LORD, and to teaching<sup>^A</sup> its decrees and laws in Israel.\n\n### Crossrefs\n- A: S [[Deut-33-10|Dt 33:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

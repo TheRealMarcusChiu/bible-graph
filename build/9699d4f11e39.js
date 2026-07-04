@@ -1,0 +1,1 @@
+(function(){var b="9699d4f11e39",m="# Psalm 114:1 (New International Version)\nPsalm 114\nWhen Israel came out of Egypt,<sup>^A</sup>  \n    Jacob from a people of foreign tongue,\n\n### Crossrefs\n- A: S [[Exod-13-3|Ex 13:3]]; S [[Exod-29-46|29:46]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

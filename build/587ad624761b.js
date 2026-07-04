@@ -1,0 +1,1 @@
+(function(){var b="587ad624761b",m="# Ecclesiastes 10:16 (New International Version)\nWoe to the land whose king was a servant<sup>^A</sup>  \n    and whose princes feast in the morning.\n\n### Crossrefs\n- A: [[Isa-3-4|Isa 3:4-5]], [[Isa-3-12|12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="2514170e61b3",m="# Lamentations 4:1 (New International Version)\nHow the gold has lost its luster,  \n    the fine gold become dull!  \nThe sacred gems are scattered  \n    at every street corner.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-7-19|Eze 7:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

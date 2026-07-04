@@ -1,0 +1,1 @@
+(function(){var b="9a5d04c38dfa",m="# Psalm 86:12 (New International Version)\nI will praise you, Lord my God, with all my heart;<sup>^A</sup>  \n    I will glorify your name forever.\n\n### Crossrefs\n- A: S [[Ps-9-1|Ps 9:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

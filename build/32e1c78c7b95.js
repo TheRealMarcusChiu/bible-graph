@@ -1,0 +1,1 @@
+(function(){var b="32e1c78c7b95",m="# Psalm 21:2 (New International Version)\nYou have granted him his heart's desire<sup>^A</sup>  \n    and have not withheld the request of his lips.\n\n### Crossrefs\n- A: S [[Ps-20-4|Ps 20:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

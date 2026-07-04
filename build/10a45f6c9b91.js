@@ -1,0 +1,1 @@
+(function(){var b="10a45f6c9b91",m="# Job 7:13 (New International Version)\nWhen I think my bed will comfort me  \n    and my couch will ease my complaint,<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-7-11|ver 11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

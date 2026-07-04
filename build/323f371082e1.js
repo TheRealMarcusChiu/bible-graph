@@ -1,0 +1,1 @@
+(function(){var b="323f371082e1",m="# 2 Kings 8:21 (New International Version)\nSo Jehoram went to Zair with all his chariots. The Edomites surrounded him and his chariot commanders, but he rose up and broke through by night; his army, however, fled back home.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

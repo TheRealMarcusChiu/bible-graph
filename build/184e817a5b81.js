@@ -1,0 +1,1 @@
+(function(){var b="184e817a5b81",m="# Ezekiel 11:18 (New International Version)\n\"They will return to it and remove all its vile images<sup>^A</sup> and detestable idols.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Ezek-5-11|Eze 5:11]]\n- B: [[Ezek-37-23|Eze 37:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

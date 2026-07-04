@@ -1,0 +1,1 @@
+(function(){var b="0780ada85dc1",m="# Ezekiel 35:14 (New International Version)\nThis is what the Sovereign LORD says: While the whole earth rejoices, I will make you desolate.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-51-48|Jer 51:48]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

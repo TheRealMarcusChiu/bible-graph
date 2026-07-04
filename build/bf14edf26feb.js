@@ -1,0 +1,1 @@
+(function(){var b="bf14edf26feb",m="# Psalm 136:19 (New International Version)\nSihon king of the Amorites<sup>^A</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Num-21-21|Nu 21:21-25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

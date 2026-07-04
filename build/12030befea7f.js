@@ -1,0 +1,1 @@
+(function(){var b="12030befea7f",m="# Psalm 76:10 (New International Version)\nSurely your wrath against mankind brings you praise,<sup>^A</sup>  \n    and the survivors of your wrath are restrained.\n\n### Crossrefs\n- A: [[Exod-9-16|Ex 9:16]]; [[Rom-9-17|Ro 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

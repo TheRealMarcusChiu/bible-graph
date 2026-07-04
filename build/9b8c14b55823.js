@@ -1,0 +1,1 @@
+(function(){var b="9b8c14b55823",m="# Daniel 11:38 (New International Version)\nInstead of them, he will honor a god of fortresses; a god unknown to his ancestors he will honor with gold and silver, with precious stones and costly gifts.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

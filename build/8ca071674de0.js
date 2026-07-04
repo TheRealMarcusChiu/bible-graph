@@ -1,0 +1,1 @@
+(function(){var b="8ca071674de0",m="# Ezekiel 14:12 (New International Version)\nJerusalem's Judgment Inescapable\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

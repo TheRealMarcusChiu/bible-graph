@@ -1,0 +1,1 @@
+(function(){var b="7587eb640476",m="# Proverbs 25:20 (New International Version)\nLike one who takes away a garment on a cold day,  \n    or like vinegar poured on a wound,  \n    is one who sings songs to a heavy heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

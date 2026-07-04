@@ -1,0 +1,1 @@
+(function(){var b="fd270784a99e",m="# Psalm 33:22 (New International Version)\nMay your unfailing love<sup>^A</sup> be with us, LORD,  \n    even as we put our hope in you.\n\n### Crossrefs\n- A: [[Ps-6-4|Ps 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

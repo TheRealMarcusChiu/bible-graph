@@ -1,0 +1,1 @@
+(function(){var b="34515a893471",m="# 1 Chronicles 6:78 (New International Version)\nfrom the tribe of Reuben across the Jordan east of Jericho\nthey received Bezer<sup>^A</sup> in the wilderness, Jahzah, \n\n### Crossrefs\n- A: S [[Josh-20-8|Jos 20:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

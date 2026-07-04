@@ -1,0 +1,1 @@
+(function(){var b="d48096da3692",m="# 2 Kings 10:2 (New International Version)\n\"You have your master's sons with you and you have chariots and horses, a fortified city and weapons. Now as soon as this letter reaches you,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

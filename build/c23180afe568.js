@@ -1,0 +1,1 @@
+(function(){var b="c23180afe568",m="# Ezekiel 43:6 (New International Version)\nWhile the man was standing beside me, I heard someone speaking to me from inside the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

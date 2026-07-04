@@ -1,0 +1,1 @@
+(function(){var b="0bcb73129623",m="# Jeremiah 36:17 (New International Version)\nThen they asked Baruch, \"Tell us, how did you come to write<sup>^A</sup> all this? Did Jeremiah dictate it?\"\n\n### Crossrefs\n- A: [[Jer-30-2|Jer 30:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

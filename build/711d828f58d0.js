@@ -1,0 +1,1 @@
+(function(){var b="711d828f58d0",m="# Ezra 8:32 (New International Version)\nSo we arrived in Jerusalem, where we rested three days.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-40-13|Ge 40:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

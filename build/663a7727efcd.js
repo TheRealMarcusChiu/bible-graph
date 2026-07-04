@@ -1,0 +1,1 @@
+(function(){var b="663a7727efcd",m="# Psalm 24:5 (New International Version)\nThey will receive blessing<sup>^A</sup> from the LORD  \n    and vindication<sup>^B</sup> from God their Savior.\n\n### Crossrefs\n- A: [[Deut-11-26|Dt 11:26]]\n- B: [[Ps-17-2|Ps 17:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

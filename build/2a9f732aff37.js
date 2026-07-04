@@ -1,0 +1,1 @@
+(function(){var b="2a9f732aff37",m="# 2 Kings 9:4 (New International Version)\nSo the young prophet went to Ramoth Gilead.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

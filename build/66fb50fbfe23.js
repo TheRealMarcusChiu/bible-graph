@@ -1,0 +1,1 @@
+(function(){var b="66fb50fbfe23",m="# Psalm 77:15 (New International Version)\nWith your mighty arm you redeemed your people,<sup>^A</sup>  \n    the descendants of Jacob and Joseph.\n\n### Crossrefs\n- A: S [[Exod-6-6|Ex 6:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

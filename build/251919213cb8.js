@@ -1,0 +1,1 @@
+(function(){var b="251919213cb8",m="# Psalm 75:2 (New International Version)\nYou say, \"I choose the appointed time;<sup>^A</sup>  \n    it is I who judge with equity.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Exod-13-10|Ex 13:10]]\n- B: S [[Ps-7-11|Ps 7:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

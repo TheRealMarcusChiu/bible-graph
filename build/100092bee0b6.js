@@ -1,0 +1,1 @@
+(function(){var b="100092bee0b6",m="# 1 Chronicles 4:6 (New International Version)\nNaarah bore him Ahuzzam, Hepher, Temeni and Haahashtari. These were the descendants of Naarah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

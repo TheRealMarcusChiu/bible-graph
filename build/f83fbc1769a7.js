@@ -1,0 +1,1 @@
+(function(){var b="f83fbc1769a7",m="# 1 Chronicles 19:9 (New International Version)\nThe Ammonites came out and drew up in battle formation at the entrance to their city, while the kings who had come were by themselves in the open country.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

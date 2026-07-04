@@ -1,0 +1,1 @@
+(function(){var b="10c20ab3ae0a",m="# 1 Chronicles 1:35 (New International Version)\nEsau's Sons\nThe sons of Esau:<sup>^A</sup>\nEliphaz, Reuel,<sup>^B</sup> Jeush, Jalam and Korah.\n\n### Crossrefs\n- A: [[Gen-36-19|Ge 36:19]]\n- B: S [[Gen-36-4|Ge 36:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

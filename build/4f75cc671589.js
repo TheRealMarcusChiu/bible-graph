@@ -1,0 +1,1 @@
+(function(){var b="4f75cc671589",m="# Psalm 129:8 (New International Version)\nMay those who pass by not say to them,  \n    \"The blessing of the LORD be on you;  \n    we bless you<sup>^A</sup> in the name of the LORD.\"\n\n### Crossrefs\n- A: [[Ps-118-26|Ps 118:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

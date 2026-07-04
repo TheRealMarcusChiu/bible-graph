@@ -1,0 +1,1 @@
+(function(){var b="6d2f39042a5c",m="# Psalm 90:9 (New International Version)\nAll our days pass away under your wrath;  \n    we finish our years with a moan.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-78-33|Ps 78:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

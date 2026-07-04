@@ -1,0 +1,1 @@
+(function(){var b="45dc69a41165",m="# 2 Kings 4:6 (New International Version)\nWhen all the jars were full, she said to her son, \"Bring me another one.\"\nBut he replied, \"There is not a jar left.\" Then the oil stopped flowing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1aae01d75f77",m="# Job 21:9 (New International Version)\nTheir homes are safe and free from fear;<sup>^A</sup>  \n    the rod of God is not on them.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-5-24|Job 5:24]]\n- B: S [[Job-9-34|Job 9:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

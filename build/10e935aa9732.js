@@ -1,0 +1,1 @@
+(function(){var b="10e935aa9732",m="# Zechariah 8:11 (New International Version)\nBut now I will not deal with the remnant of this people as I did in the past,\"<sup>^A</sup> declares the LORD Almighty.\n\n### Crossrefs\n- A: [[Isa-12-1|Isa 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

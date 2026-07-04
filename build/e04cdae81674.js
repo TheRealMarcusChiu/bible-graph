@@ -1,0 +1,1 @@
+(function(){var b="e04cdae81674",m="# Job 41:13 (New International Version)\nWho can strip off its outer coat?  \n    Who can penetrate its double coat of armor?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-30-11|Job 30:11]]; S [[Job-39-10|39:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="669edb5b38d3",m="# Job 23\n\nA righteous sufferer wrestles with God over the meaning of his affliction.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

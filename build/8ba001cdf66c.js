@@ -1,0 +1,1 @@
+(function(){var b="8ba001cdf66c",m="# Psalm 119:148 (New International Version)\nMy eyes stay open through the watches of the night,<sup>^A</sup>  \n    that I may meditate on your promises.\n\n### Crossrefs\n- A: S [[Ps-63-6|Ps 63:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

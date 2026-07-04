@@ -1,0 +1,1 @@
+(function(){var b="87e59b718dee",m="# 2 Chronicles 21:15 (New International Version)\nYou yourself will be very ill with a lingering disease<sup>^A</sup> of the bowels, until the disease causes your bowels to come out.'\"\n\n### Crossrefs\n- A: S [[Num-12-10|Nu 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

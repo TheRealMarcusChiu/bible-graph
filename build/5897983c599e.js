@@ -1,0 +1,1 @@
+(function(){var b="5897983c599e",m="# 2 Kings 2:18 (New International Version)\nWhen they returned to Elisha, who was staying in Jericho, he said to them, \"Didn't I tell you not to go?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

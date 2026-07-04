@@ -1,0 +1,1 @@
+(function(){var b="99b1085d4bdd",m="# Isaiah 10:30 (New International Version)\nCry out, Daughter Gallim!<sup>^A</sup>  \n    Listen, Laishah!  \n    Poor Anathoth!<sup>^B</sup>\n\n### Crossrefs\n- A: [[1Sam-25-44|1Sa 25:44]]\n- B: S [[Neh-11-32|Ne 11:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

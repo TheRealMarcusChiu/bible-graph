@@ -1,0 +1,1 @@
+(function(){var b="0db515a57cba",m="# 2 Chronicles 26:17 (New International Version)\nAzariah<sup>^A</sup> the priest with eighty other courageous priests of the LORD followed him in. \n\n### Crossrefs\n- A: S [[1Kgs-4-2|1Ki 4:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="c09fab590ed5",m="# Psalm 24:9 (New International Version)\nLift up your heads, you gates;  \n    lift them up, you ancient doors,  \n    that the King of glory may come in.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

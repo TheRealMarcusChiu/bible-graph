@@ -1,0 +1,1 @@
+(function(){var b="4c76d1c38492",m="# 2 Chronicles 6:25 (New International Version)\nthen hear from heaven and forgive the sin of your people Israel and bring them back to the land you gave to them and their ancestors.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

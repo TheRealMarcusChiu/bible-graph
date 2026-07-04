@@ -1,0 +1,1 @@
+(function(){var b="dc78b4f84c7c",m="# Psalm 106:16 (New International Version)\nIn the camp they grew envious<sup>^A</sup> of Moses  \n    and of Aaron, who was consecrated to the LORD.\n\n### Crossrefs\n- A: [[Num-16-1|Nu 16:1-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="f7cca60a8177",m="# Ezekiel 26:6 (New International Version)\nand her settlements on the mainland will be ravaged by the sword. Then they will know that I am the LORD.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

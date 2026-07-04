@@ -1,0 +1,1 @@
+(function(){var b="dc34f3046b84",m="# Ezekiel 10:16 (New International Version)\nWhen the cherubim moved, the wheels beside them moved; and when the cherubim spread their wings to rise from the ground, the wheels did not leave their side.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

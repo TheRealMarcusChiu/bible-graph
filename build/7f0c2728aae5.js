@@ -1,0 +1,1 @@
+(function(){var b="7f0c2728aae5",m="# Ezekiel 30:7 (New International Version)\n\"'They will be desolate  \n    among desolate lands,  \nand their cities will lie  \n    among ruined cities.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-29-12|Eze 29:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

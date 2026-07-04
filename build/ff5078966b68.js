@@ -1,0 +1,1 @@
+(function(){var b="ff5078966b68",m="# 2 Chronicles 5:9 (New International Version)\nThese poles were so long that their ends, extending from the ark, could be seen from in front of the inner sanctuary, but not from outside the Holy Place; and they are still there today.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

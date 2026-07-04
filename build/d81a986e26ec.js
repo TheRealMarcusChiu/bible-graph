@@ -1,0 +1,1 @@
+(function(){var b="d81a986e26ec",m="# Psalm 89:13 (New International Version)\nYour arm is endowed with power;  \n    your hand is strong, your right hand exalted.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Josh-4-24|Jos 4:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

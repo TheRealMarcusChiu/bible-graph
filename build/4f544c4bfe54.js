@@ -1,0 +1,1 @@
+(function(){var b="4f544c4bfe54",m="# Zechariah 6:9 (New International Version)\nA Crown for Joshua\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

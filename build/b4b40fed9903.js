@@ -1,0 +1,1 @@
+(function(){var b="b4b40fed9903",m="# Job 38:6 (New International Version)\nOn what were its footings set,<sup>^A</sup>  \n    or who laid its cornerstone<sup>^B</sup>--\n\n### Crossrefs\n- A: [[Prov-8-25|Pr 8:25]]\n- B: S [[Job-26-7|Job 26:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

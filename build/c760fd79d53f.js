@@ -1,0 +1,1 @@
+(function(){var b="c760fd79d53f",m="# Psalm 66:14 (New International Version)\nvows my lips promised and my mouth spoke  \n    when I was in trouble.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

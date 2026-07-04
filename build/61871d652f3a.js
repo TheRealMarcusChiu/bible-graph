@@ -1,0 +1,1 @@
+(function(){var b="61871d652f3a",m="# Nehemiah 12:11 (New International Version)\nJoiada the father of Jonathan, and Jonathan the father of Jaddua.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

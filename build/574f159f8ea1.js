@@ -1,0 +1,1 @@
+(function(){var b="574f159f8ea1",m="# Jeremiah 34:12 (New International Version)\nThen the word of the LORD came to Jeremiah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

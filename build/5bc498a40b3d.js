@@ -1,0 +1,1 @@
+(function(){var b="5bc498a40b3d",m="# 2 Kings 17:38 (New International Version)\nDo not forget<sup>^A</sup> the covenant I have made with you, and do not worship other gods. \n\n### Crossrefs\n- A: S [[Deut-6-12|Dt 6:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

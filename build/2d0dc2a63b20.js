@@ -1,0 +1,1 @@
+(function(){var b="2d0dc2a63b20",m="# Psalm 118:11 (New International Version)\nThey surrounded me<sup>^A</sup> on every side,<sup>^B</sup>  \n    but in the name of the LORD I cut them down.\n\n### Crossrefs\n- A: [[Ps-88-17|Ps 88:17]]\n- B: [[Ps-3-6|Ps 3:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="dd00e5fd0619",m="# Ezekiel 11:6 (New International Version)\nYou have killed many people in this city and filled its streets with the dead.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-7-23|Eze 7:23]]; [[Ezek-22-6|22:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

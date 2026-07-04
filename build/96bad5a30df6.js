@@ -1,0 +1,1 @@
+(function(){var b="96bad5a30df6",m="# 1 Chronicles 18:2 (New International Version)\nDavid also defeated the Moabites,<sup>^A</sup> and they became subject to him and brought him tribute.\n\n### Crossrefs\n- A: S [[Num-21-29|Nu 21:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

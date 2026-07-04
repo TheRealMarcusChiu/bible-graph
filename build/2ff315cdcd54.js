@@ -1,0 +1,1 @@
+(function(){var b="2ff315cdcd54",m="# 2 Chronicles 4:15 (New International Version)\nthe Sea and the twelve bulls under it;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

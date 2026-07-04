@@ -1,0 +1,1 @@
+(function(){var b="e3c27e43d576",m="# 2 Chronicles 28:22 (New International Version)\nIn his time of trouble King Ahaz became even more unfaithful<sup>^A</sup> to the LORD. \n\n### Crossrefs\n- A: [[Jer-5-3|Jer 5:3]]; [[Jer-15-7|15:7]]; [[Jer-17-23|17:23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

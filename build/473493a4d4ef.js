@@ -1,0 +1,1 @@
+(function(){var b="473493a4d4ef",m="# Ezekiel 4:11 (New International Version)\nAlso measure out a sixth of a hin of water and drink it at set times.<sup>^A</sup> \n\n### Crossrefs\n- A: [[Ezek-4-16|ver 16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

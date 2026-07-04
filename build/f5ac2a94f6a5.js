@@ -1,0 +1,1 @@
+(function(){var b="f5ac2a94f6a5",m="# 2 Kings 9:31 (New International Version)\nAs Jehu entered the gate, she asked, \"Have you come in peace, you Zimri,<sup>^A</sup> you murderer of your master?\"\n\n### Crossrefs\n- A: [[1Kgs-16-9|1Ki 16:9-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

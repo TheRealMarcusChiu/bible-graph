@@ -1,0 +1,1 @@
+(function(){var b="5533fb4e5a04",m="# Ezra 8:5 (New International Version)\nof the descendants of Zattu, Shekaniah son of Jahaziel, and with him 300 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

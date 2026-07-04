@@ -1,0 +1,1 @@
+(function(){var b="20f0b1c21efd",m="# 1 Chronicles 3:22 (New International Version)\nThe descendants of Shekaniah:\nShemaiah and his sons:\nHattush,<sup>^A</sup> Igal, Bariah, Neariah and Shaphat--six in all.\n\n### Crossrefs\n- A: [[Ezra-8-2|Ezr 8:2-3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

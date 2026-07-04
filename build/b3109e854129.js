@@ -1,0 +1,1 @@
+(function(){var b="b3109e854129",m="# Psalm 148:10 (New International Version)\nwild animals<sup>^A</sup> and all cattle,  \n    small creatures and flying birds,\n\n### Crossrefs\n- A: [[Isa-43-20|Isa 43:20]]; [[Hos-2-18|Hos 2:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

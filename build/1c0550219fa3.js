@@ -1,0 +1,1 @@
+(function(){var b="1c0550219fa3",m="# Psalm 77:4 (New International Version)\nYou kept my eyes from closing;  \n    I was too troubled to speak.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-39-2|Ps 39:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

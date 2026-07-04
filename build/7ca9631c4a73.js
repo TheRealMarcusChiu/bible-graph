@@ -1,0 +1,1 @@
+(function(){var b="7ca9631c4a73",m="# Jeremiah 32:16 (New International Version)\n\"After I had given the deed of purchase to Baruch<sup>^A</sup> son of Neriah, I prayed to the LORD:\n\n### Crossrefs\n- A: S [[Jer-32-12|ver 12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

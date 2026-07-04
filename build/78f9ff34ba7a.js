@@ -1,0 +1,1 @@
+(function(){var b="78f9ff34ba7a",m="# Job 34:34 (New International Version)\n\"Men of understanding declare,  \n    wise men who hear me say to me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

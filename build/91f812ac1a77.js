@@ -1,0 +1,1 @@
+(function(){var b="91f812ac1a77",m="# Job 16:11 (New International Version)\nGod has turned me over to the ungodly  \n    and thrown me into the clutches of the wicked.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-24|Job 9:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

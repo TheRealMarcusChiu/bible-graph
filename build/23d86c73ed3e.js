@@ -1,0 +1,1 @@
+(function(){var b="23d86c73ed3e",m="# Micah 5:9 (New International Version)\nYour hand will be lifted up<sup>^A</sup> in triumph over your enemies,  \n    and all your foes will be destroyed.\n\n### Crossrefs\n- A: S [[Ps-10-12|Ps 10:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

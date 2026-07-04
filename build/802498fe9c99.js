@@ -1,0 +1,1 @@
+(function(){var b="802498fe9c99",m="# Nehemiah 12:12 (New International Version)\nIn the days of Joiakim, these were the heads of the priestly families:\nof Seraiah's family, Meraiah;\nof Jeremiah's, Hananiah;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

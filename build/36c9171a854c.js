@@ -1,0 +1,1 @@
+(function(){var b="36c9171a854c",m="# Ezekiel 35:7 (New International Version)\nI will make Mount Seir a desolate waste<sup>^A</sup> and cut off from it all who come and go.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Jer-46-19|Jer 46:19]]\n- B: S [[Jer-49-17|Jer 49:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

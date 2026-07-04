@@ -1,0 +1,1 @@
+(function(){var b="bfff4daffbe6",m="# Esther 1:21 (New International Version)\nThe king and his nobles were pleased with this advice, so the king did as Memukan proposed.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

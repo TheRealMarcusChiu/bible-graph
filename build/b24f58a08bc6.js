@@ -1,0 +1,1 @@
+(function(){var b="b24f58a08bc6",m="# 1 Chronicles 6:16 (New International Version)\nThe sons of Levi:<sup>^A</sup>\nGershon, Kohath and Merari.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-29-34|Ge 29:34]]; S [[Num-3-17|Nu 3:17-20]]\n- B: S [[Num-26-57|Nu 26:57]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

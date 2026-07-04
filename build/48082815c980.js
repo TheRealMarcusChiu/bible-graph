@@ -1,0 +1,1 @@
+(function(){var b="48082815c980",m="# 1 Chronicles 16:23 (New International Version)\nSing to the LORD, all the earth;  \n    proclaim his salvation day after day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

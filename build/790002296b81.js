@@ -1,0 +1,1 @@
+(function(){var b="790002296b81",m="# Job 10:6 (New International Version)\nthat you must search out my faults  \n    and probe after my sin<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Job-14-16|Job 14:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

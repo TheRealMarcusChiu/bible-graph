@@ -1,0 +1,1 @@
+(function(){var b="6123d340bf32",m="# Psalm 137:5 (New International Version)\nIf I forget you,<sup>^A</sup> Jerusalem,  \n    may my right hand forget its skill.\n\n### Crossrefs\n- A: [[Isa-2-3|Isa 2:3]]; [[Isa-56-7|56:7]]; [[Isa-65-11|65:11]]; [[Isa-66-20|66:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

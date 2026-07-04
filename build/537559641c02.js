@@ -1,0 +1,1 @@
+(function(){var b="537559641c02",m="# Ecclesiastes 7:12 (New International Version)\nWisdom is a shelter  \n    as money is a shelter,  \nbut the advantage of knowledge is this:  \n    Wisdom preserves those who have it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

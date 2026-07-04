@@ -1,0 +1,1 @@
+(function(){var b="c215bf27e7d1",m="# Psalm 105:36 (New International Version)\nThen he struck down all the firstborn<sup>^A</sup> in their land,  \n    the firstfruits of all their manhood.\n\n### Crossrefs\n- A: S [[Exod-4-23|Ex 4:23]]; S [[Exod-12-12|12:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

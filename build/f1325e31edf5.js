@@ -1,0 +1,1 @@
+(function(){var b="f1325e31edf5",m="# 1 Chronicles 16:16 (New International Version)\nthe covenant<sup>^A</sup> he made with Abraham,  \n    the oath he swore to Isaac.\n\n### Crossrefs\n- A: S [[Gen-12-7|Ge 12:7]]; S [[Gen-15-18|15:18]]; [[Gen-22-16|22:16-18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

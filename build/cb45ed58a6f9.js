@@ -1,0 +1,1 @@
+(function(){var b="cb45ed58a6f9",m="# 2 Chronicles 10:11 (New International Version)\nMy father laid on you a heavy yoke; I will make it even heavier. My father scourged you with whips; I will scourge you with scorpions.'\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

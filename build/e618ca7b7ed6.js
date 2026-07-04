@@ -1,0 +1,1 @@
+(function(){var b="e618ca7b7ed6",m="# 2 Kings 9:35 (New International Version)\nBut when they went out to bury her, they found nothing except her skull, her feet and her hands.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

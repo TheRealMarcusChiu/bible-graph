@@ -1,0 +1,1 @@
+(function(){var b="72a54f5dae53",m="# Jeremiah 19:10 (New International Version)\n\"Then break the jar<sup>^A</sup> while those who go with you are watching, \n\n### Crossrefs\n- A: [[Jer-19-1|ver 1]]; S [[Ps-2-9|Ps 2:9]]; [[Jer-13-14|Jer 13:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af39e8ce4720",m="# Ezekiel 16:1 (New International Version)\nJerusalem as an Adulterous Wife\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

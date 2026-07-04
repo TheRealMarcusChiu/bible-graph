@@ -1,0 +1,1 @@
+(function(){var b="0655c79ffd1f",m="# Ezekiel 41:14 (New International Version)\nThe width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-40-47|Eze 40:47]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

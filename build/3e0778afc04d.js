@@ -1,0 +1,1 @@
+(function(){var b="3e0778afc04d",m="# Psalm 124:2 (New International Version)\nif the LORD had not been on our side  \n    when people attacked us,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

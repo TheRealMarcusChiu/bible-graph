@@ -1,0 +1,1 @@
+(function(){var b="067d36cee01b",m="# Psalm 96:7 (New International Version)\nAscribe to the LORD,<sup>^A</sup> all you families of nations,<sup>^B</sup>  \n    ascribe to the LORD glory and strength.\n\n### Crossrefs\n- A: [[Ps-29-1|Ps 29:1]]\n- B: [[Ps-22-27|Ps 22:27]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

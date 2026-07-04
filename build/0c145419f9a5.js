@@ -1,0 +1,1 @@
+(function(){var b="0c145419f9a5",m="# Nehemiah 2:4 (New International Version)\nThe king said to me, \"What is it you want?\"\nThen I prayed to the God of heaven,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

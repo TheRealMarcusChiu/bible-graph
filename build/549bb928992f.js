@@ -1,0 +1,1 @@
+(function(){var b="549bb928992f",m="# Psalm 89:16 (New International Version)\nThey rejoice in your name<sup>^A</sup> all day long;  \n    they celebrate your righteousness.\n\n### Crossrefs\n- A: [[Ps-30-4|Ps 30:4]]; [[Ps-105-3|105:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="5923c1457b3c",m="# Ecclesiastes 10:11 (New International Version)\nIf a snake bites before it is charmed,  \n    the charmer receives no fee.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ps-58-5|Ps 58:5]]; S [[Isa-3-3|Isa 3:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

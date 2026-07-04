@@ -1,0 +1,1 @@
+(function(){var b="42e0585582bb",m="# Song of Songs 6:5 (New International Version)\nTurn your eyes from me;  \n    they overwhelm me.  \nYour hair is like a flock of goats  \n    descending from Gilead.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Song-4-1|SS 4:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

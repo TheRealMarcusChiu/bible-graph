@@ -1,0 +1,1 @@
+(function(){var b="ecc30aad654e",m="# Ezekiel 27:4 (New International Version)\nYour domain was on the high seas;  \n    your builders brought your beauty to perfection.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ezek-28-12|Eze 28:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

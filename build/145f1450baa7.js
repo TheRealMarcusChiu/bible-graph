@@ -1,0 +1,1 @@
+(function(){var b="145f1450baa7",m="# 2 Chronicles 27:9 (New International Version)\nJotham rested with his ancestors and was buried in the City of David. And Ahaz his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

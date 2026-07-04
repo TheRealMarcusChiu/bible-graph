@@ -1,0 +1,1 @@
+(function(){var b="3d0551f35d88",m="# Psalm 136:2 (New International Version)\nGive thanks<sup>^A</sup> to the God of gods.<sup>^B</sup>  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Ps-105-1|Ps 105:1]]\n- B: S [[Deut-10-17|Dt 10:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

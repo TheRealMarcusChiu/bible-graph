@@ -1,0 +1,1 @@
+(function(){var b="b91ccf6e2ec8",m="# Proverbs 7:21 (New International Version)\nWith persuasive words she led him astray;  \n    she seduced him with her smooth talk.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-7-5|ver 5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

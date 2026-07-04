@@ -1,0 +1,1 @@
+(function(){var b="959371eeb040",m="# Proverbs 4:9 (New International Version)\nShe will give you a garland to grace your head  \n    and present you with a glorious crown.<sup>^A</sup>\"\n\n### Crossrefs\n- A: S [[Prov-1-8|Pr 1:8-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

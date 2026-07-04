@@ -1,0 +1,1 @@
+(function(){var b="d0217e1561a8",m="# Proverbs 8:1 (New International Version)\nWisdom's Call\nDoes not wisdom call out?<sup>^A</sup>  \n    Does not understanding raise her voice?\n\n### Crossrefs\n- A: S [[Job-28-12|Job 28:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

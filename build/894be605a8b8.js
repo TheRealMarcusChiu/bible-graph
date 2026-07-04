@@ -1,0 +1,1 @@
+(function(){var b="894be605a8b8",m="# Psalm 119:13 (New International Version)\nWith my lips I recount  \n    all the laws that come from your mouth.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-119-72|ver 72]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

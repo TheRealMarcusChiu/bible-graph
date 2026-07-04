@@ -1,0 +1,1 @@
+(function(){var b="c3239d50a813",m="# 1 Chronicles 12:9 (New International Version)\nEzer was the chief,\nObadiah the second in command, Eliab the third,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

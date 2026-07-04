@@ -1,0 +1,1 @@
+(function(){var b="1a6b3dc8cc11",m="# Daniel 5:27 (New International Version)\n_Tekel_: You have been weighed on the scales<sup>^A</sup> and found wanting.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-6-2|Job 6:2]]\n- B: [[Ps-62-9|Ps 62:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

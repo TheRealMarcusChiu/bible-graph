@@ -1,0 +1,1 @@
+(function(){var b="d1ec0a4c0721",m="# Jonah 4:5 (New International Version)\nJonah had gone out and sat down at a place east of the city. There he made himself a shelter, sat in its shade and waited to see what would happen to the city.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

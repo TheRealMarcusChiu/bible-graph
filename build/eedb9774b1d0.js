@@ -1,0 +1,1 @@
+(function(){var b="eedb9774b1d0",m="# Proverbs 14:2 (New International Version)\nWhoever fears the LORD walks uprightly,  \n    but those who despise him are devious in their ways.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="72202a66cdf1",m="# 1 Chronicles 7:7 (New International Version)\nThe sons of Bela:\nEzbon, Uzzi, Uzziel, Jerimoth and Iri, heads of families--five in all. Their genealogical record listed 22,034 fighting men.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

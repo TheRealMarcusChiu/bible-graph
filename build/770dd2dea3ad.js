@@ -1,0 +1,1 @@
+(function(){var b="770dd2dea3ad",m="# Psalm 15:3 (New International Version)\nwhose tongue utters no slander,<sup>^A</sup>  \n    who does no wrong to a neighbor,  \n    and casts no slur on others;\n\n### Crossrefs\n- A: S [[Lev-19-16|Lev 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="718f4e65cadd",m="# Psalm 24:3 (New International Version)\nWho may ascend the mountain<sup>^A</sup> of the LORD?  \n    Who may stand in his holy place?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-2-6|Ps 2:6]]\n- B: [[Ps-15-1|Ps 15:1]]; [[Ps-65-4|65:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

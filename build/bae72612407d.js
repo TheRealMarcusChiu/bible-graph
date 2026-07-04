@@ -1,0 +1,1 @@
+(function(){var b="bae72612407d",m="# 1 Chronicles 4:29 (New International Version)\nBilhah, Ezem,<sup>^A</sup> Tolad, \n\n### Crossrefs\n- A: S [[Josh-15-29|Jos 15:29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

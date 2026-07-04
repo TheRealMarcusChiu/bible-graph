@@ -1,0 +1,1 @@
+(function(){var b="2241678187a6",m="# Job 32:12 (New International Version)\nI gave you my full attention.  \nBut not one of you has proved Job wrong;  \n    none of you has answered his arguments.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-32-3|ver 3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

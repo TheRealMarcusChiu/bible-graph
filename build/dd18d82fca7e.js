@@ -1,0 +1,1 @@
+(function(){var b="dd18d82fca7e",m="# Ezra 2:42 (New International Version)\nThe gatekeepers<sup>^A</sup> of the temple:\n\n### Crossrefs\n- A: [[1Sam-3-15|1Sa 3:15]]; S [[1Chr-9-17|1Ch 9:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

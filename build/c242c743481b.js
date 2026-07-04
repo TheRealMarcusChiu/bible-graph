@@ -1,0 +1,1 @@
+(function(){var b="c242c743481b",m="# Proverbs 22:7 (New International Version)\nThe rich rule over the poor,  \n    and the borrower is slave to the lender.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

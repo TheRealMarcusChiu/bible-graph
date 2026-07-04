@@ -1,0 +1,1 @@
+(function(){var b="c76bfd283ec8",m="# Psalm 41:7 (New International Version)\nAll my enemies whisper together<sup>^A</sup> against me;  \n    they imagine the worst for me, saying,\n\n### Crossrefs\n- A: [[Ps-71-10|Ps 71:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

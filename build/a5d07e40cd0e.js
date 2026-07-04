@@ -1,0 +1,1 @@
+(function(){var b="a5d07e40cd0e",m="# Proverbs 21:21 (New International Version)\nWhoever pursues righteousness and love  \n    finds life, prosperity<sup>^A</sup> and honor.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-25-13|Ps 25:13]]\n- B: [[Matt-5-6|Mt 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

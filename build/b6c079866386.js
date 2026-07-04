@@ -1,0 +1,1 @@
+(function(){var b="b6c079866386",m="# Psalm 41:8 (New International Version)\n\"A vile disease has afflicted him;  \n    he will never get up<sup>^A</sup> from the place where he lies.\"\n\n### Crossrefs\n- A: S [[2Kgs-1-4|2Ki 1:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

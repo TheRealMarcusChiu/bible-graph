@@ -1,0 +1,1 @@
+(function(){var b="6f7ab40b5f2a",m="# Psalm 14:6 (New International Version)\nYou evildoers frustrate the plans of the poor,  \n    but the LORD is their refuge.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[2Sam-22-3|2Sa 22:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

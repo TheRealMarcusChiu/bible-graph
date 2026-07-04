@@ -1,0 +1,1 @@
+(function(){var b="8bb2add82732",m="# 1 Chronicles 13:7 (New International Version)\nThey moved the ark of God from Abinadab's<sup>^A</sup> house on a new cart, with Uzzah and Ahio guiding it. \n\n### Crossrefs\n- A: S [[1Sam-7-1|1Sa 7:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="890380038cb3",m="# Isaiah 9:8 (New International Version)\nThe LORD's Anger Against Israel\nThe Lord has sent a message<sup>^A</sup> against Jacob;  \n    it will fall on Israel.\n\n### Crossrefs\n- A: S [[Deut-32-2|Dt 32:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

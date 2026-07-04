@@ -1,0 +1,1 @@
+(function(){var b="0cdfe313ff08",m="# 2 Chronicles 9:7 (New International Version)\nHow happy your people must be! How happy your officials, who continually stand before you and hear your wisdom!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

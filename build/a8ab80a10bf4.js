@@ -1,0 +1,1 @@
+(function(){var b="a8ab80a10bf4",m="# 2 Kings 7:18 (New International Version)\nIt happened as the man of God had said to the king: \"About this time tomorrow, a seah of the finest flour will sell for a shekel and two seahs of barley for a shekel at the gate of Samaria.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

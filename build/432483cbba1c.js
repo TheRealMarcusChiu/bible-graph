@@ -1,0 +1,1 @@
+(function(){var b="432483cbba1c",m="# Psalm 68:34 (New International Version)\nProclaim the power<sup>^A</sup> of God,  \n    whose majesty<sup>^B</sup> is over Israel,  \n    whose power is in the heavens.\n\n### Crossrefs\n- A: [[Ps-68-28|ver 28]]\n- B: [[Ps-45-3|Ps 45:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

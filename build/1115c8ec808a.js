@@ -1,0 +1,1 @@
+(function(){var b="1115c8ec808a",m="# Jeremiah 2:33 (New International Version)\nHow skilled you are at pursuing<sup>^A</sup> love!  \n    Even the worst of women can learn from your ways.\n\n### Crossrefs\n- A: S [[Jer-2-23|ver 23]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

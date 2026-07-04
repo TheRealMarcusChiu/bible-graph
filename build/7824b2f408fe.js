@@ -1,0 +1,1 @@
+(function(){var b="7824b2f408fe",m="# 1 Chronicles 7:32 (New International Version)\nHeber was the father of Japhlet, Shomer and Hotham and of their sister Shua.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

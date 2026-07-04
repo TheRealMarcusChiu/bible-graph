@@ -1,0 +1,1 @@
+(function(){var b="fe4f5f09c2ad",m="# 1 Chronicles 4:22 (New International Version)\nJokim, the men of Kozeba, and Joash and Saraph, who ruled in Moab and Jashubi Lehem. (These records are from ancient times.)";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

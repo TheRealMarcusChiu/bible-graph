@@ -1,0 +1,1 @@
+(function(){var b="8672f34e52ea",m="# Ecclesiastes 1:5 (New International Version)\nThe sun rises and the sun sets,  \n    and hurries back to where it rises.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-19-5|Ps 19:5-6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

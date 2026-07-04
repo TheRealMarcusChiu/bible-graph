@@ -1,0 +1,1 @@
+(function(){var b="ee1b881b9bc4",m="# Ecclesiastes 10:7 (New International Version)\nI have seen slaves on horseback,  \n    while princes go on foot like slaves.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-19-10|Pr 19:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

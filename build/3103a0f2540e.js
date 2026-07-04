@@ -1,0 +1,1 @@
+(function(){var b="3103a0f2540e",m="# Job 32:4 (New International Version)\nNow Elihu had waited before speaking to Job because they were older than he.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[Lev-19-32|Lev 19:32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

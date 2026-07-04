@@ -1,0 +1,1 @@
+(function(){var b="45e0b2ac8eb4",m="# Psalm 104:10 (New International Version)\nHe makes springs<sup>^A</sup> pour water into the ravines;  \n    it flows between the mountains.\n\n### Crossrefs\n- A: [[Ps-107-33|Ps 107:33]]; [[Isa-41-18|Isa 41:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

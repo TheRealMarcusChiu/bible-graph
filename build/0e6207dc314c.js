@@ -1,0 +1,1 @@
+(function(){var b="0e6207dc314c",m="# Proverbs 31:1 (New International Version)\nSayings of King Lemuel\nThe sayings<sup>^A</sup> of King Lemuel--an inspired utterance his mother taught him.\n\n### Crossrefs\n- A: S [[Prov-22-17|Pr 22:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

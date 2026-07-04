@@ -1,0 +1,1 @@
+(function(){var b="c18a67376352",m="# Ezekiel 40:34 (New International Version)\nIts portico<sup>^A</sup> faced the outer court; palm trees decorated the jambs on either side, and eight steps led up to it.\n\n### Crossrefs\n- A: [[Ezek-40-22|ver 22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="0fdbc279feb0",m="# 2 Kings 21:10 (New International Version)\nThe LORD said through his servants the prophets:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

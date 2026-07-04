@@ -1,0 +1,1 @@
+(function(){var b="ae3e12d1f3d8",m="# Ezekiel 14:10 (New International Version)\nThey will bear their guilt--the prophet will be as guilty as the one who consults him.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

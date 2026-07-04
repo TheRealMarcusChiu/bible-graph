@@ -1,0 +1,1 @@
+(function(){var b="ace566850865",m="# 2 Kings 18:23 (New International Version)\n\"'Come now, make a bargain with my master, the king of Assyria: I will give you two thousand horses--if you can put riders on them!";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

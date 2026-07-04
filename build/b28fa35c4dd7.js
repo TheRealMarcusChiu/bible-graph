@@ -1,0 +1,1 @@
+(function(){var b="b28fa35c4dd7",m="# 2 Chronicles 19:1 (New International Version)\nWhen Jehoshaphat king of Judah returned safely to his palace in Jerusalem,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

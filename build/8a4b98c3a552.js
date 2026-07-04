@@ -1,0 +1,1 @@
+(function(){var b="8a4b98c3a552",m="# Jeremiah 11:18 (New International Version)\nPlot Against Jeremiah\nBecause the LORD revealed their plot to me, I knew it, for at that time he showed me what they were doing.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="af9ac3fd1c14",m="# Nehemiah 4:22 (New International Version)\nAt that time I also said to the people, \"Have every man and his helper stay inside Jerusalem at night, so they can serve us as guards by night and as workers by day.\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

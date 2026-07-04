@@ -1,0 +1,1 @@
+(function(){var b="a672ed0d7439",m="# Psalm 105:21 (New International Version)\nHe made him master of his household,  \n    ruler over all he possessed,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

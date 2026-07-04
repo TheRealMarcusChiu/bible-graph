@@ -1,0 +1,1 @@
+(function(){var b="83bd4df528ae",m="# 2 Kings 14:16 (New International Version)\nJehoash rested with his ancestors and was buried in Samaria with the kings of Israel. And Jeroboam his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

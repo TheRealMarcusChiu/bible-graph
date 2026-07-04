@@ -1,0 +1,1 @@
+(function(){var b="d2abbdad4bc5",m="# 2 Chronicles 35:27 (New International Version)\nall the events, from beginning to end, are written in the book of the kings of Israel and Judah.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

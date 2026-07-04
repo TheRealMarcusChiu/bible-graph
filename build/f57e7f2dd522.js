@@ -1,0 +1,1 @@
+(function(){var b="f57e7f2dd522",m="# Jeremiah 35:3 (New International Version)\nSo I went to get Jaazaniah son of Jeremiah, the son of Habazziniah, and his brothers and all his sons--the whole family of the Rekabites.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7a84a324fd25",m="# Ecclesiastes 1:12 (New International Version)\nWisdom Is Meaningless\nI, the Teacher,<sup>^A</sup> was king over Israel in Jerusalem.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Eccl-1-1|ver 1]]\n- B: [[Eccl-2-9|Ecc 2:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="b85cf0a9fe06",m="# Jeremiah 4:15 (New International Version)\nA voice is announcing from Dan,<sup>^A</sup>  \n    proclaiming disaster from the hills of Ephraim.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-30-6|Ge 30:6]]\n- B: [[Jer-31-6|Jer 31:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

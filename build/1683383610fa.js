@@ -1,0 +1,1 @@
+(function(){var b="1683383610fa",m="# Nehemiah 3:12 (New International Version)\nShallum son of Hallohesh, ruler of a half-district of Jerusalem, repaired the next section with the help of his daughters.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

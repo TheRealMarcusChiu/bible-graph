@@ -1,0 +1,1 @@
+(function(){var b="3c6eaceb7764",m="# 1 Chronicles 7:27 (New International Version)\nNun his son\nand Joshua his son.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

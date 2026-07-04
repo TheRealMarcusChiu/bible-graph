@@ -1,0 +1,1 @@
+(function(){var b="0f06c65e0057",m="# Job 26:9 (New International Version)\nHe covers the face of the full moon,  \n    spreading his clouds<sup>^A</sup> over it.\n\n### Crossrefs\n- A: S [[2Sam-22-10|2Sa 22:10]]; S [[Job-22-14|Job 22:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="661d7f56b96c",m="# Psalm 140:7 (New International Version)\nSovereign LORD,<sup>^A</sup> my strong deliverer,  \n    you shield my head in the day of battle.\n\n### Crossrefs\n- A: [[Ps-68-20|Ps 68:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

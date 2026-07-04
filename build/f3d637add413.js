@@ -1,0 +1,1 @@
+(function(){var b="f3d637add413",m="# Psalm 27:8 (New International Version)\nMy heart says of you, \"Seek his face!<sup>^A</sup>\"  \n    Your face, LORD, I will seek.\n\n### Crossrefs\n- A: S [[1Chr-16-11|1Ch 16:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

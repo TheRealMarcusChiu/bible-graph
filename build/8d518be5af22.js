@@ -1,0 +1,1 @@
+(function(){var b="8d518be5af22",m="# Proverbs 22:21 (New International Version)\nteaching you to be honest and to speak the truth,<sup>^A</sup>  \n    so that you bring back truthful reports  \n    to those you serve?\n\n### Crossrefs\n- A: [[Eccl-12-10|Ecc 12:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9c7ee5df28f2",m="# Nehemiah 6:4 (New International Version)\nFour times they sent me the same message, and each time I gave them the same answer.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

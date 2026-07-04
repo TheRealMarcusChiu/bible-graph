@@ -1,0 +1,1 @@
+(function(){var b="4c51e7c12452",m="# 1 Chronicles 16:10 (New International Version)\nGlory in his holy name;<sup>^A</sup>  \n    let the hearts of those who seek the LORD rejoice.\n\n### Crossrefs\n- A: [[Ps-8-1|Ps 8:1]]; [[Ps-29-2|29:2]]; [[Ps-66-2|66:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

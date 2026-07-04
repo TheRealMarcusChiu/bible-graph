@@ -1,0 +1,1 @@
+(function(){var b="61d80f254e15",m="# Daniel 4:16 (New International Version)\nLet his mind be changed from that of a man and let him be given the mind of an animal, till seven times pass by for him.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Dan-4-23|ver 23]], [[Dan-4-32|32]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

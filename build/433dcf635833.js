@@ -1,0 +1,1 @@
+(function(){var b="433dcf635833",m="# Nehemiah 10:5 (New International Version)\nHarim,<sup>^A</sup> Meremoth, Obadiah,\n\n### Crossrefs\n- A: S [[1Chr-24-8|1Ch 24:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

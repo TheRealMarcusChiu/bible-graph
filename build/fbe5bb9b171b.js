@@ -1,0 +1,1 @@
+(function(){var b="fbe5bb9b171b",m="# 1 Chronicles 11:28 (New International Version)\nIra son of Ikkesh from Tekoa,\nAbiezer<sup>^A</sup> from Anathoth,\n\n### Crossrefs\n- A: [[1Chr-27-12|1Ch 27:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

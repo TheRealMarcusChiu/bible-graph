@@ -1,0 +1,1 @@
+(function(){var b="52d376b74e2b",m="# Proverbs 24:19 (New International Version)\nDo not fret<sup>^A</sup> because of evildoers  \n    or be envious of the wicked,\n\n### Crossrefs\n- A: [[Ps-37-1|Ps 37:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

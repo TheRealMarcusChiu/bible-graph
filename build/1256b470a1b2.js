@@ -1,0 +1,1 @@
+(function(){var b="1256b470a1b2",m="# 1 Chronicles 19:18 (New International Version)\nBut they fled before Israel, and David killed seven thousand of their charioteers and forty thousand of their foot soldiers. He also killed Shophak the commander of their army.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

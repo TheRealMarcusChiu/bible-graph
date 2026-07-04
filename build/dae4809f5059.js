@@ -1,0 +1,1 @@
+(function(){var b="dae4809f5059",m="# Nehemiah 10:10 (New International Version)\nand their associates: Shebaniah,\nHodiah, Kelita, Pelaiah, Hanan,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

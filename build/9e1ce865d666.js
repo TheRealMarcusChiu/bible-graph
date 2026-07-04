@@ -1,0 +1,1 @@
+(function(){var b="9e1ce865d666",m="# 1 Chronicles 20\n\nGenealogies of Israel and a priestly retelling of David's reign.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

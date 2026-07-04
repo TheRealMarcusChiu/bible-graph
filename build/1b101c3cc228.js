@@ -1,0 +1,1 @@
+(function(){var b="1b101c3cc228",m="# 1 Chronicles 11:27 (New International Version)\nShammoth<sup>^A</sup> the Harorite,\nHelez the Pelonite,\n\n### Crossrefs\n- A: [[1Chr-27-8|1Ch 27:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

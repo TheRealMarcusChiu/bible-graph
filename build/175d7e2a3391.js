@@ -1,0 +1,1 @@
+(function(){var b="175d7e2a3391",m="# Ecclesiastes 6:9 (New International Version)\nBetter what the eye sees  \n    than the roving of the appetite.  \nThis too is meaningless,  \n    a chasing after the wind.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Eccl-1-14|Ecc 1:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

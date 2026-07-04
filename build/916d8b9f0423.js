@@ -1,0 +1,1 @@
+(function(){var b="916d8b9f0423",m="# 1 Chronicles 2:38 (New International Version)\nObed the father of Jehu,\nJehu the father of Azariah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

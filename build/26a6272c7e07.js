@@ -1,0 +1,1 @@
+(function(){var b="26a6272c7e07",m="# Ezekiel 38:1 (New International Version)\nThe LORD's Great Victory Over the Nations\nThe word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

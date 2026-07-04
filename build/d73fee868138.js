@@ -1,0 +1,1 @@
+(function(){var b="d73fee868138",m="# Job 9:20 (New International Version)\nEven if I were innocent, my mouth would condemn me;  \n    if I were blameless, it would pronounce me guilty.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-15|ver 15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

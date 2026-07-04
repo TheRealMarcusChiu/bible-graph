@@ -1,0 +1,1 @@
+(function(){var b="9e657602cbf8",m="# Proverbs 16:1 (New International Version)\nTo humans belong the plans of the heart,  \n    but from the LORD comes the proper answer of the tongue.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-16-9|ver 9]]; [[Prov-19-21|Pr 19:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

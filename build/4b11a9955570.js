@@ -1,0 +1,1 @@
+(function(){var b="4b11a9955570",m="# Proverbs 30:20 (New International Version)\n\"This is the way of an adulterous woman:  \n    She eats and wipes her mouth  \n    and says, 'I've done nothing wrong.'<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-5-6|Pr 5:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="4abf15395129",m="# Psalm 21:10 (New International Version)\nYou will destroy their descendants from the earth,  \n    their posterity from mankind.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Deut-28-18|Dt 28:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

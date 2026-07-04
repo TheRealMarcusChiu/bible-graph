@@ -1,0 +1,1 @@
+(function(){var b="c1d97d54e56c",m="# Psalm 106:19 (New International Version)\nAt Horeb they made a calf<sup>^A</sup>  \n    and worshiped an idol cast from metal.\n\n### Crossrefs\n- A: S [[Exod-32-4|Ex 32:4]]; [[Acts-7-41|Ac 7:41]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

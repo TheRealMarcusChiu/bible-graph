@@ -1,0 +1,1 @@
+(function(){var b="dc80de21d414",m="# Esther 5:7 (New International Version)\nEsther replied, \"My petition and my request is this:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

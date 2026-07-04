@@ -1,0 +1,1 @@
+(function(){var b="f4d6c8906915",m="# Jeremiah 2:1 (New International Version)\nIsrael Forsakes God\nThe word<sup>^A</sup> of the LORD came to me: \n\n### Crossrefs\n- A: [[Isa-38-4|Isa 38:4]]; [[Ezek-1-3|Eze 1:3]]; [[Mic-1-1|Mic 1:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

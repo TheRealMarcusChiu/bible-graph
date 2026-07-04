@@ -1,0 +1,1 @@
+(function(){var b="3913a8190268",m="# 1 Chronicles 23:14 (New International Version)\nThe sons of Moses the man<sup>^A</sup> of God were counted as part of the tribe of Levi.\n\n### Crossrefs\n- A: [[Deut-33-1|Dt 33:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

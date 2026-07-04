@@ -1,0 +1,1 @@
+(function(){var b="1c0cb177d0cf",m="# Isaiah 19:10 (New International Version)\nThe workers in cloth will be dejected,  \n    and all the wage earners will be sick at heart.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

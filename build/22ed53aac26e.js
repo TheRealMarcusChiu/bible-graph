@@ -1,0 +1,1 @@
+(function(){var b="22ed53aac26e",m="# 1 Chronicles 5:24 (New International Version)\nThese were the heads of their families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah and Jahdiel. They were brave warriors, famous men, and heads of their families.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

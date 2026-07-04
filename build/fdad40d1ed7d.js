@@ -1,0 +1,1 @@
+(function(){var b="fdad40d1ed7d",m="# 1 Chronicles 2:52 (New International Version)\nThe descendants of Shobal the father of Kiriath Jearim were:\nHaroeh, half the Manahathites,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

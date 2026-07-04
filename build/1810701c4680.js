@@ -1,0 +1,1 @@
+(function(){var b="1810701c4680",m="# Proverbs 27:15 (New International Version)\nA quarrelsome wife is like the dripping<sup>^A</sup>  \n    of a leaky roof in a rainstorm;\n\n### Crossrefs\n- A: S [[Esth-1-18|Est 1:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="84f04a38727e",m="# Psalm 84:5 (New International Version)\nBlessed are those whose strength<sup>^A</sup> is in you,  \n    whose hearts are set on pilgrimage.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-81-1|Ps 81:1]]\n- B: [[Jer-31-6|Jer 31:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="1f4b10278f62",m="# Nehemiah 10:32 (New International Version)\n\"We assume the responsibility for carrying out the commands to give a third of a shekel each year for the service of the house of our God:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

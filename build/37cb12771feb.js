@@ -1,0 +1,1 @@
+(function(){var b="37cb12771feb",m="# Proverbs 11:16 (New International Version)\nA kindhearted woman gains honor,<sup>^A</sup>  \n    but ruthless men gain only wealth.\n\n### Crossrefs\n- A: [[Prov-31-31|Pr 31:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="aa0350cc6ef5",m="# Ecclesiastes 8:5 (New International Version)\nWhoever obeys his command will come to no harm,  \n    and the wise heart will know the proper time and procedure.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

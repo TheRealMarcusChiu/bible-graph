@@ -1,0 +1,1 @@
+(function(){var b="95ab3a7362e0",m="# Job 6:16 (New International Version)\nwhen darkened by thawing ice  \n    and swollen with melting snow,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-147-18|Ps 147:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

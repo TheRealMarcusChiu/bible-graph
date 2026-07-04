@@ -1,0 +1,1 @@
+(function(){var b="c666a49e5a6d",m="# 2 Kings 9:29 (New International Version)\n(In the eleventh<sup>^A</sup> year of Joram son of Ahab, Ahaziah had become king of Judah.)\n\n### Crossrefs\n- A: [[2Kgs-8-25|2Ki 8:25]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

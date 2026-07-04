@@ -1,0 +1,1 @@
+(function(){var b="27dcf0b2acfd",m="# Nehemiah 11:35 (New International Version)\nin Lod and Ono,<sup>^A</sup> and in Ge Harashim.\n\n### Crossrefs\n- A: S [[1Chr-8-12|1Ch 8:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

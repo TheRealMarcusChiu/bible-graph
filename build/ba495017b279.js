@@ -1,0 +1,1 @@
+(function(){var b="ba495017b279",m="# 2 Kings 22:15 (New International Version)\nShe said to them, \"This is what the LORD, the God of Israel, says: Tell the man who sent you to me,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

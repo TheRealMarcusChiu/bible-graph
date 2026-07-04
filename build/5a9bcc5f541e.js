@@ -1,0 +1,1 @@
+(function(){var b="5a9bcc5f541e",m="# Ecclesiastes 10:6 (New International Version)\nFools are put in many high positions,<sup>^A</sup>  \n    while the rich occupy the low ones.\n\n### Crossrefs\n- A: S [[Prov-29-2|Pr 29:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

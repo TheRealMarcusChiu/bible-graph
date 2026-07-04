@@ -1,0 +1,1 @@
+(function(){var b="4fb26aa69e57",m="# Jeremiah 41:3 (New International Version)\nIshmael also killed all the men of Judah who were with Gedaliah at Mizpah, as well as the Babylonian soldiers who were there.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

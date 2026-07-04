@@ -1,0 +1,1 @@
+(function(){var b="66fc0507fd1c",m="# Malachi 2\n\nGod's final Old Testament word -- a dispute with a complacent people and the promise of Elijah before the great day.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

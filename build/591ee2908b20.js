@@ -1,0 +1,1 @@
+(function(){var b="591ee2908b20",m="# Psalm 10:16 (New International Version)\nThe LORD is King for ever and ever;<sup>^A</sup>  \n    the nations<sup>^B</sup> will perish from his land.\n\n### Crossrefs\n- A: S [[Exod-15-18|Ex 15:18]]\n- B: S [[Deut-8-20|Dt 8:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

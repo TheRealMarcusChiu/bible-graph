@@ -1,0 +1,1 @@
+(function(){var b="de2d50791a2f",m="# Ezra 3:6 (New International Version)\nOn the first day of the seventh month they began to offer burnt offerings to the LORD, though the foundation of the LORD's temple had not yet been laid.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

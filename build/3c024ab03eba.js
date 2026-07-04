@@ -1,0 +1,1 @@
+(function(){var b="3c024ab03eba",m="# Ezekiel 23:21 (New International Version)\nSo you longed for the lewdness of your youth, when in Egypt your bosom was caressed and your young breasts fondled.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezek-16-26|Eze 16:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

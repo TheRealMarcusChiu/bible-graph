@@ -1,0 +1,1 @@
+(function(){var b="ccdeb8b3a8db",m="# Ezekiel 33:23 (New International Version)\nThen the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

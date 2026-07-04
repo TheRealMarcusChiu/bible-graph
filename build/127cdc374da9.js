@@ -1,0 +1,1 @@
+(function(){var b="127cdc374da9",m="# Nehemiah 12:2 (New International Version)\nAmariah, Malluk, Hattush,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

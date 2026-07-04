@@ -1,0 +1,1 @@
+(function(){var b="178f596de0bb",m="# 1 Chronicles 8:14 (New International Version)\nAhio, Shashak, Jeremoth,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

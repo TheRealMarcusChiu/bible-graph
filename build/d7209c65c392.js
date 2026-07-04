@@ -1,0 +1,1 @@
+(function(){var b="d7209c65c392",m="# Joel 1:8 (New International Version)\nMourn like a virgin in sackcloth<sup>^A</sup>  \n    grieving for the betrothed of her youth.\n\n### Crossrefs\n- A: [[Joel-1-13|ver 13]]; [[Isa-22-12|Isa 22:12]]; [[Amos-8-10|Am 8:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

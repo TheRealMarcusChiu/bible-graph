@@ -1,0 +1,1 @@
+(function(){var b="9670fa16265f",m="# 1 Chronicles 24:10 (New International Version)\nthe seventh to Hakkoz,\nthe eighth to Abijah,<sup>^A</sup>\n\n### Crossrefs\n- A: [[Neh-12-4|Ne 12:4]], [[Neh-12-17|17]]; [[Luke-1-5|Lk 1:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="7830348a99c9",m="# Proverbs 15:31 (New International Version)\nWhoever heeds life-giving correction  \n    will be at home among the wise.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-9-7|Pr 9:7-9]]; S [[Prov-12-1|12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

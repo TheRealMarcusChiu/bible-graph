@@ -1,0 +1,1 @@
+(function(){var b="e651d14a6f80",m="# Ezekiel 16:44 (New International Version)\n\"'Everyone who quotes proverbs<sup>^A</sup> will quote this proverb about you: \"Like mother, like daughter.\" \n\n### Crossrefs\n- A: S [[Ps-49-4|Ps 49:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

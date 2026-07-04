@@ -1,0 +1,1 @@
+(function(){var b="f33e991858ba",m="# Psalm 78:43 (New International Version)\nthe day he displayed his signs<sup>^A</sup> in Egypt,  \n    his wonders<sup>^B</sup> in the region of Zoan.\n\n### Crossrefs\n- A: [[Exod-10-1|Ex 10:1]]\n- B: S [[Exod-3-20|Ex 3:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

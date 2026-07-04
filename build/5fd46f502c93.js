@@ -1,0 +1,1 @@
+(function(){var b="5fd46f502c93",m="# Proverbs 23:26 (New International Version)\nMy son,<sup>^A</sup> give me your heart  \n    and let your eyes delight in my ways,<sup>^B</sup>\n\n### Crossrefs\n- A: [[Prov-5-1|Pr 5:1-6]]\n- B: S [[Ps-18-21|Ps 18:21]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

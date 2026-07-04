@@ -1,0 +1,1 @@
+(function(){var b="2acfdedb8dcb",m="# Job 39:2 (New International Version)\nDo you count the months till they bear?  \n    Do you know the time they give birth?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-31-7|Ge 31:7-9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="9ecc2b217940",m="# Hosea 5:2 (New International Version)\nThe rebels are knee-deep in slaughter.<sup>^A</sup>  \n    I will discipline all of them.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Hos-4-2|Hos 4:2]]\n- B: [[Hos-9-15|Hos 9:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

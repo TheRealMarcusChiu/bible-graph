@@ -1,0 +1,1 @@
+(function(){var b="b6257ac65219",m="# Nehemiah 11:36 (New International Version)\nSome of the divisions of the Levites of Judah settled in Benjamin.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

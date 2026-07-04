@@ -1,0 +1,1 @@
+(function(){var b="12122aca6047",m="# 2 Kings 6:28 (New International Version)\nThen he asked her, \"What's the matter?\"\nShe answered, \"This woman said to me, 'Give up your son so we may eat him today, and tomorrow we'll eat my son.'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

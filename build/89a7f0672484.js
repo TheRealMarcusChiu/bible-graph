@@ -1,0 +1,1 @@
+(function(){var b="89a7f0672484",m="# Proverbs 2:2 (New International Version)\nturning your ear to wisdom  \n    and applying your heart to understanding<sup>^A</sup>--\n\n### Crossrefs\n- A: [[Prov-22-17|Pr 22:17]]; [[Prov-23-12|23:12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

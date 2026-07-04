@@ -1,0 +1,1 @@
+(function(){var b="3e7e586e41ff",m="# Nehemiah 6:5 (New International Version)\nThen, the fifth time, Sanballat<sup>^A</sup> sent his aide to me with the same message, and in his hand was an unsealed letter \n\n### Crossrefs\n- A: S [[Neh-2-10|Ne 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

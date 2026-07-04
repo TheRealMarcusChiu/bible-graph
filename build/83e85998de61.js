@@ -1,0 +1,1 @@
+(function(){var b="83e85998de61",m="# Proverbs 23:8 (New International Version)\nYou will vomit up the little you have eaten  \n    and will have wasted your compliments.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

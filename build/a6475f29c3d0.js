@@ -1,0 +1,1 @@
+(function(){var b="a6475f29c3d0",m="# Nehemiah 3:22 (New International Version)\nThe repairs next to him were made by the priests from the surrounding region.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

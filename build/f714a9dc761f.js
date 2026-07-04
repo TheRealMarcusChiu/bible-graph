@@ -1,0 +1,1 @@
+(function(){var b="f714a9dc761f",m="# 1 Chronicles 27:16 (New International Version)\nLeaders of the Tribes\nThe leaders of the tribes of Israel:\nover the Reubenites: Eliezer son of Zikri;\nover the Simeonites: Shephatiah son of Maakah;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

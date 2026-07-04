@@ -1,0 +1,1 @@
+(function(){var b="80969c86b546",m="# Psalm 122:2 (New International Version)\nOur feet are standing  \n    in your gates, Jerusalem.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="125d994afddf",m="# Psalm 18:22 (New International Version)\nAll his laws are before me;<sup>^A</sup>  \n    I have not turned away from his decrees.\n\n### Crossrefs\n- A: [[Ps-119-30|Ps 119:30]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

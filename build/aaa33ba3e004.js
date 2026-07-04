@@ -1,0 +1,1 @@
+(function(){var b="aaa33ba3e004",m="# Ezra 10:33 (New International Version)\nFrom the descendants of Hashum:\nMattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh and Shimei.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

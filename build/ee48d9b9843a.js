@@ -1,0 +1,1 @@
+(function(){var b="ee48d9b9843a",m="# Proverbs 5:6 (New International Version)\nShe gives no thought to the way of life;  \n    her paths wander aimlessly, but she does not know it.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-9-13|Pr 9:13]]; [[Prov-30-20|30:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

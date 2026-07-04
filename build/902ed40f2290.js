@@ -1,0 +1,1 @@
+(function(){var b="902ed40f2290",m="# Job 38:13 (New International Version)\nthat it might take the earth by the edges  \n    and shake the wicked<sup>^A</sup> out of it?<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-104-35|Ps 104:35]]\n- B: S [[Job-8-22|Job 8:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

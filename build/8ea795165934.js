@@ -1,0 +1,1 @@
+(function(){var b="8ea795165934",m="# Jeremiah 20:15 (New International Version)\nCursed be the man who brought my father the news,  \n    who made him very glad, saying,  \n    \"A child is born to you--a son!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

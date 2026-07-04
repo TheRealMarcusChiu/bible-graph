@@ -1,0 +1,1 @@
+(function(){var b="d71e258d5cc9",m="# Psalm 105:20 (New International Version)\nThe king sent and released him,  \n    the ruler of peoples set him free.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-41-14|Ge 41:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

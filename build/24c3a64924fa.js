@@ -1,0 +1,1 @@
+(function(){var b="24c3a64924fa",m="# Job 39:29 (New International Version)\nFrom there it looks for food;<sup>^A</sup>  \n    its eyes detect it from afar.\n\n### Crossrefs\n- A: S [[Job-9-26|Job 9:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

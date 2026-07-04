@@ -1,0 +1,1 @@
+(function(){var b="8734cb377341",m="# Ezra 7:12 (New International Version)\nArtaxerxes, king of kings,<sup>^A</sup>\nTo Ezra the priest, teacher of the Law of the God of heaven:\nGreetings.\n\n### Crossrefs\n- A: [[Ezek-26-7|Eze 26:7]]; [[Dan-2-37|Da 2:37]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

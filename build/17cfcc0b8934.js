@@ -1,0 +1,1 @@
+(function(){var b="17cfcc0b8934",m="# Ezekiel 5:3 (New International Version)\nBut take a few hairs and tuck them away in the folds of your garment.<sup>^A</sup> \n\n### Crossrefs\n- A: [[2Kgs-25-12|2Ki 25:12]]; S [[Ps-74-11|Ps 74:11]]; [[Jer-39-10|Jer 39:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

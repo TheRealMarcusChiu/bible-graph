@@ -1,0 +1,1 @@
+(function(){var b="0651be5fc1e5",m="# 1 Chronicles 8:21 (New International Version)\nAdaiah, Beraiah and Shimrath were the sons of Shimei.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

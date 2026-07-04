@@ -1,0 +1,1 @@
+(function(){var b="df20c5cae89f",m="# Psalm 25:9 (New International Version)\nHe guides<sup>^A</sup> the humble in what is right  \n    and teaches them<sup>^B</sup> his way.\n\n### Crossrefs\n- A: S [[Ps-23-3|Ps 23:3]]\n- B: [[Ps-25-4|ver 4]]; [[Ps-27-11|Ps 27:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

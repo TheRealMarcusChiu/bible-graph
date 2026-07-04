@@ -1,0 +1,1 @@
+(function(){var b="d71d528895ab",m="# Ezekiel 36:34 (New International Version)\nThe desolate land will be cultivated instead of lying desolate in the sight of all who pass through it.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

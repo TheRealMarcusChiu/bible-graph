@@ -1,0 +1,1 @@
+(function(){var b="445d37b839df",m="# Job 39:17 (New International Version)\nfor God did not endow her with wisdom  \n    or give her a share of good sense.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-39-16|ver 16]]; S [[Job-21-22|Job 21:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

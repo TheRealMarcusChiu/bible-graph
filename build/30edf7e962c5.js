@@ -1,0 +1,1 @@
+(function(){var b="30edf7e962c5",m="# 2 Chronicles 33:24 (New International Version)\nAmon's officials conspired against him and assassinated him in his palace.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

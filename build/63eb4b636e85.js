@@ -1,0 +1,1 @@
+(function(){var b="63eb4b636e85",m="# Psalm 78:31 (New International Version)\nGod's anger rose against them;  \n    he put to death the sturdiest<sup>^A</sup> among them,  \n    cutting down the young men of Israel.\n\n### Crossrefs\n- A: [[Isa-10-16|Isa 10:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

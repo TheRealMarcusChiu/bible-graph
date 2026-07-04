@@ -1,0 +1,1 @@
+(function(){var b="1bce8e59a4ff",m="# Psalm 119:145 (New International Version)\nI call with all my heart;<sup>^A</sup> answer me, LORD,  \n    and I will obey your decrees.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Ps-119-10|ver 10]]\n- B: [[Ps-119-22|ver 22]], [[Ps-119-55|55]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

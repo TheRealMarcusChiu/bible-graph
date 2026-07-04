@@ -1,0 +1,1 @@
+(function(){var b="6b390707a9b9",m="# Proverbs 2:18 (New International Version)\nSurely her house leads down to death  \n    and her paths to the spirits of the dead.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Prov-5-5|Pr 5:5]]; [[Prov-7-27|7:27]]; [[Prov-9-18|9:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

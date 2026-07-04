@@ -1,0 +1,1 @@
+(function(){var b="d42bbf9a23ea",m="# 2 Chronicles 20:28 (New International Version)\nThey entered Jerusalem and went to the temple of the LORD with harps and lyres and trumpets.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

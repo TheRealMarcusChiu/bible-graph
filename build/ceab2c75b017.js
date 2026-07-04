@@ -1,0 +1,1 @@
+(function(){var b="ceab2c75b017",m="# Psalm 78:23 (New International Version)\nYet he gave a command to the skies above  \n    and opened the doors of the heavens;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Gen-7-11|Ge 7:11]]; S [[2Kgs-7-2|2Ki 7:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="435a24472d14",m="# Psalm 80:17 (New International Version)\nLet your hand rest on the man at your right hand,  \n    the son of man<sup>^A</sup> you have raised up for yourself.\n\n### Crossrefs\n- A: S [[Job-25-6|Job 25:6]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

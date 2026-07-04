@@ -1,0 +1,1 @@
+(function(){var b="86cc73234dc4",m="# Zechariah 5:8 (New International Version)\nHe said, \"This is wickedness,\" and he pushed her back into the basket and pushed its lead cover down on it.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Mic-6-11|Mic 6:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

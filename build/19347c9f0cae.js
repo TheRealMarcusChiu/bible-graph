@@ -1,0 +1,1 @@
+(function(){var b="19347c9f0cae",m="# Jeremiah 29:4 (New International Version)\nThis is what the LORD Almighty, the God of Israel, says to all those I carried<sup>^A</sup> into exile from Jerusalem to Babylon: \n\n### Crossrefs\n- A: S [[Jer-24-5|Jer 24:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

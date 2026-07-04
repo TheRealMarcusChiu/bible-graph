@@ -1,0 +1,1 @@
+(function(){var b="aaf5d2511de0",m="# Nehemiah 10:1 (New International Version)\nThose who sealed it were:\nNehemiah the governor, the son of Hakaliah.\nZedekiah,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

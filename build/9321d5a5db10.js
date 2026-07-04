@@ -1,0 +1,1 @@
+(function(){var b="9321d5a5db10",m="# Psalm 89:46 (New International Version)\nHow long, LORD? Will you hide yourself forever?  \n    How long will your wrath burn like fire?<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-79-5|Ps 79:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

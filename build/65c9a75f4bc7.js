@@ -1,0 +1,1 @@
+(function(){var b="65c9a75f4bc7",m="# Jeremiah 29:30 (New International Version)\nThen the word of the LORD came to Jeremiah:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

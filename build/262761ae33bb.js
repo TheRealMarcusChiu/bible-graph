@@ -1,0 +1,1 @@
+(function(){var b="262761ae33bb",m="# Isaiah 19:15 (New International Version)\nThere is nothing Egypt can do--  \n    head or tail, palm branch or reed.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Isa-9-14|Isa 9:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

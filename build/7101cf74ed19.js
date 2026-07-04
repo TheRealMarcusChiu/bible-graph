@@ -1,0 +1,1 @@
+(function(){var b="7101cf74ed19",m="# Proverbs 6:4 (New International Version)\nAllow no sleep to your eyes,  \n    no slumber to your eyelids.<sup>^A</sup>\n\n### Crossrefs\n- A: [[Ps-132-4|Ps 132:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

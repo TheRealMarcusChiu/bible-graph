@@ -1,0 +1,1 @@
+(function(){var b="689d247cad53",m="# Psalm 118:4 (New International Version)\nLet those who fear the LORD<sup>^A</sup> say:  \n    \"His love endures forever.\"\n\n### Crossrefs\n- A: S [[Ps-115-11|Ps 115:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

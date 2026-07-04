@@ -1,0 +1,1 @@
+(function(){var b="aa49a4e97abb",m="# Nehemiah 10:9 (New International Version)\nThe Levites:<sup>^A</sup>\nJeshua son of Azaniah, Binnui of the sons of Henadad, Kadmiel,\n\n### Crossrefs\n- A: [[Neh-12-1|Ne 12:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

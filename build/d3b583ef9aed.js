@@ -1,0 +1,1 @@
+(function(){var b="d3b583ef9aed",m="# Job 41:15 (New International Version)\nIts back has rows of shields  \n    tightly sealed together;<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-40-17|Job 40:17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

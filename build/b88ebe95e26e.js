@@ -1,0 +1,1 @@
+(function(){var b="b88ebe95e26e",m="# 2 Kings 6:27 (New International Version)\nThe king replied, \"If the LORD does not help you, where can I get help for you? From the threshing floor? From the winepress?\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

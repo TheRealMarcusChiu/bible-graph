@@ -1,0 +1,1 @@
+(function(){var b="b67c45fffddc",m="# Proverbs 16:22 (New International Version)\nPrudence is a fountain of life to the prudent,<sup>^A</sup>  \n    but folly brings punishment to fools.\n\n### Crossrefs\n- A: S [[Prov-10-11|Pr 10:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="93bbf64944d2",m="# Jeremiah 18:14 (New International Version)\nDoes the snow of Lebanon  \n    ever vanish from its rocky slopes?  \nDo its cool waters from distant sources  \n    ever stop flowing?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

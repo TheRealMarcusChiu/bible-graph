@@ -1,0 +1,1 @@
+(function(){var b="24a703c89830",m="# 2 Kings 3:23 (New International Version)\n\"That's blood!\" they said. \"Those kings must have fought and slaughtered each other. Now to the plunder, Moab!\"";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

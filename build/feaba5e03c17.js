@@ -1,0 +1,1 @@
+(function(){var b="feaba5e03c17",m="# Psalm 136:18 (New International Version)\nand killed mighty kings<sup>^A</sup>--  \n_His love endures forever._\n\n### Crossrefs\n- A: [[Deut-29-7|Dt 29:7]]; S [[Josh-12-7|Jos 12:7-24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

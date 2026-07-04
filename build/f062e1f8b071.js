@@ -1,0 +1,1 @@
+(function(){var b="f062e1f8b071",m="# Job 28:20 (New International Version)\nWhere then does wisdom come from?  \n    Where does understanding dwell?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Job-9-4|Job 9:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

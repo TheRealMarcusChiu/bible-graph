@@ -1,0 +1,1 @@
+(function(){var b="5bf5502b2e74",m="# Psalm 1:4 (New International Version)\nNot so the wicked!  \n    They are like chaff<sup>^A</sup>  \n    that the wind blows away.\n\n### Crossrefs\n- A: S [[Job-13-25|Job 13:25]]; [[Isa-40-24|Isa 40:24]]; [[Jer-13-24|Jer 13:24]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

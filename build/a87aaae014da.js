@@ -1,0 +1,1 @@
+(function(){var b="a87aaae014da",m="# Job 37:8 (New International Version)\nThe animals take cover;<sup>^A</sup>  \n    they remain in their dens.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-28-26|Job 28:26]]\n- B: [[Job-38-40|Job 38:40]]; [[Ps-104-22|Ps 104:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

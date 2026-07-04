@@ -1,0 +1,1 @@
+(function(){var b="e46891d7b350",m="# Psalm 119:157 (New International Version)\nMany are the foes who persecute me,<sup>^A</sup>  \n    but I have not turned<sup>^B</sup> from your statutes.\n\n### Crossrefs\n- A: S [[Ps-7-1|Ps 7:1]]\n- B: S [[Ps-44-18|Ps 44:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

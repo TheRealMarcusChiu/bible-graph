@@ -1,0 +1,1 @@
+(function(){var b="035efabc5d58",m="# Ezekiel 16:21 (New International Version)\nYou slaughtered my children and sacrificed them to the idols.<sup>^A</sup> \n\n### Crossrefs\n- A: S [[2Kgs-17-17|2Ki 17:17]]; S [[Jer-19-5|Jer 19:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

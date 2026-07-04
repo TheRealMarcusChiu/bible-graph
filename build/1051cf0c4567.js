@@ -1,0 +1,1 @@
+(function(){var b="1051cf0c4567",m="# 2 Chronicles 20:11 (New International Version)\nSee how they are repaying us by coming to drive us out of the possession<sup>^A</sup> you gave us as an inheritance. \n\n### Crossrefs\n- A: [[Ps-83-1|Ps 83:1-12]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

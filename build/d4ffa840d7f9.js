@@ -1,0 +1,1 @@
+(function(){var b="d4ffa840d7f9",m="# Ezra 2:69 (New International Version)\nAccording to their ability they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver and 100 priestly garments.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="33cd878d70cb",m="# Job 32:14 (New International Version)\nBut Job has not marshaled his words against me,<sup>^A</sup>  \n    and I will not answer him with your arguments.\n\n### Crossrefs\n- A: [[Job-23-4|Job 23:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

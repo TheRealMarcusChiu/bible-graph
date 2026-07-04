@@ -1,0 +1,1 @@
+(function(){var b="4ce0454d2381",m="# 2 Chronicles 1:8 (New International Version)\nSolomon answered God, \"You have shown great kindness to David my father and have made me<sup>^A</sup> king in his place. \n\n### Crossrefs\n- A: S [[1Chr-23-1|1Ch 23:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

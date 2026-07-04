@@ -1,0 +1,1 @@
+(function(){var b="3954fd946431",m="# Job 29:1 (New International Version)\nJob's Final Defense\nJob continued his discourse:<sup>^A</sup>\n\n### Crossrefs\n- A: [[Job-27-1|Job 27:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

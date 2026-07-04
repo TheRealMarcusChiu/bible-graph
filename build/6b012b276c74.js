@@ -1,0 +1,1 @@
+(function(){var b="6b012b276c74",m="# 2 Kings 2:25 (New International Version)\nAnd he went on to Mount Carmel<sup>^A</sup> and from there returned to Samaria.\n\n### Crossrefs\n- A: S [[1Kgs-18-20|1Ki 18:20]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

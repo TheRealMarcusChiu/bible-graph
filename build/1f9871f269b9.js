@@ -1,0 +1,1 @@
+(function(){var b="1f9871f269b9",m="# 2 Kings 8:17 (New International Version)\nHe was thirty-two years old when he became king, and he reigned in Jerusalem eight years.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

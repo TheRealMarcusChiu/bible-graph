@@ -1,0 +1,1 @@
+(function(){var b="76f437458126",m="# Psalm 62:6 (New International Version)\nTruly he is my rock and my salvation;  \n    he is my fortress, I will not be shaken.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

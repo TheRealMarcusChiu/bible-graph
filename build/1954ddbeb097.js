@@ -1,0 +1,1 @@
+(function(){var b="1954ddbeb097",m="# Job 13:10 (New International Version)\nHe would surely call you to account  \n    if you secretly showed partiality.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Lev-19-15|Lev 19:15]]; S [[2Chr-19-7|2Ch 19:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="856aa45cbb61",m="# Ecclesiastes 5:13 (New International Version)\nI have seen a grievous evil under the sun:<sup>^A</sup>\nwealth hoarded to the harm of its owners,\n\n### Crossrefs\n- A: [[Eccl-6-1|Ecc 6:1-2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

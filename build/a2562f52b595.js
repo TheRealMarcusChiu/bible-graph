@@ -1,0 +1,1 @@
+(function(){var b="a2562f52b595",m="# 2 Chronicles 1:13 (New International Version)\nThen Solomon went to Jerusalem from the high place at Gibeon, from before the tent of meeting. And he reigned over Israel.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

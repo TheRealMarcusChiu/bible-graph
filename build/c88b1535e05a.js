@@ -1,0 +1,1 @@
+(function(){var b="c88b1535e05a",m="# 2 Kings 11:11 (New International Version)\nThe guards, each with weapon in hand, stationed themselves around the king--near the altar and the temple, from the south side to the north side of the temple.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="720fcaa8887a",m="# Psalm 77:13 (New International Version)\nYour ways, God, are holy.  \n    What god is as great as our God?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Exod-15-11|Ex 15:11]]; S [[Ps-71-19|Ps 71:19]]; [[Ps-86-8|86:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

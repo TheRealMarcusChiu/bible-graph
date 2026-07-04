@@ -1,0 +1,1 @@
+(function(){var b="1110e4533071",m="# Proverbs 14:1 (New International Version)\nThe wise woman builds her house,<sup>^A</sup>  \n    but with her own hands the foolish one tears hers down.\n\n### Crossrefs\n- A: S [[Ruth-3-11|Ru 3:11]]; [[Prov-24-3|Pr 24:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

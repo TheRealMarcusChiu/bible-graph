@@ -1,0 +1,1 @@
+(function(){var b="98b97903fd2e",m="# 2 Chronicles 10:13 (New International Version)\nThe king answered them harshly. Rejecting the advice of the elders,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

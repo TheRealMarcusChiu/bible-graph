@@ -1,0 +1,1 @@
+(function(){var b="16eb1e9ba6bb",m="# Proverbs 16:30 (New International Version)\nWhoever winks<sup>^A</sup> with their eye is plotting perversity;  \n    whoever purses their lips is bent on evil.\n\n### Crossrefs\n- A: S [[Prov-6-13|Pr 6:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

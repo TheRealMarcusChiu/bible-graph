@@ -1,0 +1,1 @@
+(function(){var b="808c9659b5e2",m="# Job 33:8 (New International Version)\n\"But you have said in my hearing--  \n    I heard the very words--";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

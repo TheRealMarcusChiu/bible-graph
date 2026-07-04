@@ -1,0 +1,1 @@
+(function(){var b="5b4b0b0ccd2b",m="# Proverbs 21:4 (New International Version)\nHaughty eyes<sup>^A</sup> and a proud heart--  \n    the unplowed field of the wicked--produce sin.\n\n### Crossrefs\n- A: S [[Job-41-34|Job 41:34]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

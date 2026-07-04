@@ -1,0 +1,1 @@
+(function(){var b="1d6cc65e46e2",m="# Psalm 78:54 (New International Version)\nAnd so he brought them to the border of his holy land,  \n    to the hill country his right hand<sup>^A</sup> had taken.\n\n### Crossrefs\n- A: [[Ps-44-3|Ps 44:3]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

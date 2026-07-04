@@ -1,0 +1,1 @@
+(function(){var b="1e08911d823c",m="# Habakkuk 3\n\nThe prophet questions God's justice and learns that the righteous live by faith.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

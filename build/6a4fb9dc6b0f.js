@@ -1,0 +1,1 @@
+(function(){var b="6a4fb9dc6b0f",m="# Psalm 78:21 (New International Version)\nWhen the LORD heard them, he was furious;  \n    his fire broke out<sup>^A</sup> against Jacob,  \n    and his wrath rose against Israel,\n\n### Crossrefs\n- A: S [[Num-11-1|Nu 11:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

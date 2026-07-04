@@ -1,0 +1,1 @@
+(function(){var b="738e179560af",m="# Job 18:3 (New International Version)\nWhy are we regarded as cattle<sup>^A</sup>  \n    and considered stupid in your sight?<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Job-12-7|Job 12:7]]\n- B: [[Ps-73-22|Ps 73:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

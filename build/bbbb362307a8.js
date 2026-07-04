@@ -1,0 +1,1 @@
+(function(){var b="bbbb362307a8",m="# Psalm 120:5 (New International Version)\nWoe to me that I dwell in Meshek,  \n    that I live among the tents of Kedar!<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Gen-25-13|Ge 25:13]]; [[Jer-2-10|Jer 2:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

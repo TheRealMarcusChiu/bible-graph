@@ -1,0 +1,1 @@
+(function(){var b="db079234f914",m="# Hosea 6:8 (New International Version)\nGilead is a city of evildoers,<sup>^A</sup>  \n    stained with footprints of blood.\n\n### Crossrefs\n- A: [[Hos-12-11|Hos 12:11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

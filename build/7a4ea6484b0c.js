@@ -1,0 +1,1 @@
+(function(){var b="7a4ea6484b0c",m="# Ecclesiastes 7:19 (New International Version)\nWisdom<sup>^A</sup> makes one wise person more powerful<sup>^B</sup>  \n    than ten rulers in a city.\n\n### Crossrefs\n- A: S [[Eccl-2-13|Ecc 2:13]]\n- B: S [[Prov-8-14|Pr 8:14]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

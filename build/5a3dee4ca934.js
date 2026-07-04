@@ -1,0 +1,1 @@
+(function(){var b="5a3dee4ca934",m="# Psalm 143:2 (New International Version)\nDo not bring your servant into judgment,  \n    for no one living is righteous<sup>^A</sup> before you.\n\n### Crossrefs\n- A: S [[Ps-14-3|Ps 14:3]]; [[Rom-3-10|Ro 3:10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

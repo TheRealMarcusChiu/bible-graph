@@ -1,0 +1,1 @@
+(function(){var b="9eb7bf5ceeff",m="# Isaiah 7:10 (New International Version)\nAgain the LORD spoke to Ahaz,";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

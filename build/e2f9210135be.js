@@ -1,0 +1,1 @@
+(function(){var b="e2f9210135be",m="# Proverbs 30:29 (New International Version)\n\"There are three things that are stately in their stride,  \n    four that move with stately bearing:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

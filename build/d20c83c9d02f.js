@@ -1,0 +1,1 @@
+(function(){var b="d20c83c9d02f",m="# Isaiah 60:8 (New International Version)\n\"Who are these<sup>^A</sup> that fly along like clouds,<sup>^B</sup>  \n    like doves to their nests?\n\n### Crossrefs\n- A: [[Isa-49-21|Isa 49:21]]\n- B: [[Isa-19-1|Isa 19:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

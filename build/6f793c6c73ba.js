@@ -1,0 +1,1 @@
+(function(){var b="6f793c6c73ba",m="# Zechariah 2\n\nNight visions and promises of the coming king who arrives humble on a donkey.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

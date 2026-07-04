@@ -1,0 +1,1 @@
+(function(){var b="a808ca07fe7a",m="# 2 Kings 15:36 (New International Version)\nAs for the other events of Jotham's reign, and what he did, are they not written in the book of the annals of the kings of Judah?";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

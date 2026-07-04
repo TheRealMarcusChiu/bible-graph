@@ -1,0 +1,1 @@
+(function(){var b="3614b7d54cff",m="# Isaiah 43:18 (New International Version)\n\"Forget the former things;<sup>^A</sup>  \n    do not dwell on the past.\n\n### Crossrefs\n- A: S [[Isa-41-22|Isa 41:22]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

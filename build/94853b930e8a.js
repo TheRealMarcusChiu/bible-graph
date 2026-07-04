@@ -1,0 +1,1 @@
+(function(){var b="94853b930e8a",m="# Isaiah 45:10 (New International Version)\nWoe to the one who says to a father,  \n    'What have you begotten?'  \nor to a mother,  \n    'What have you brought to birth?'";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

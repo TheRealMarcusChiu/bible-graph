@@ -1,0 +1,1 @@
+(function(){var b="a07ce9746064",m="# 2 Kings 14:29 (New International Version)\nJeroboam rested with his ancestors, the kings of Israel. And Zechariah his son succeeded him as king.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

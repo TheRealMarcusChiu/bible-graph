@@ -1,0 +1,1 @@
+(function(){var b="d9a8e8ea7651",m="# 1 Chronicles 6:47 (New International Version)\nthe son of Mahli,\nthe son of Mushi, the son of Merari,\nthe son of Levi.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

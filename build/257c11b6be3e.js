@@ -1,0 +1,1 @@
+(function(){var b="257c11b6be3e",m="# Psalm 109:23 (New International Version)\nI fade away like an evening shadow;<sup>^A</sup>  \n    I am shaken off like a locust.\n\n### Crossrefs\n- A: S [[Job-14-2|Job 14:2]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

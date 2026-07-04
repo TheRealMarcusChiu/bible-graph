@@ -1,0 +1,1 @@
+(function(){var b="4e99f74a9272",m="# Jeremiah 23:31 (New International Version)\nYes,\" declares the LORD, \"I am against the prophets who wag their own tongues and yet declare, 'The LORD declares.'<sup>^A</sup> \n\n### Crossrefs\n- A: [[Jer-23-17|ver 17]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

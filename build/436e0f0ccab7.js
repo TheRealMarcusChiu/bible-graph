@@ -1,0 +1,1 @@
+(function(){var b="436e0f0ccab7",m="# Psalm 78:46 (New International Version)\nHe gave their crops to the grasshopper,<sup>^A</sup>  \n    their produce to the locust.<sup>^B</sup>\n\n### Crossrefs\n- A: [[Nah-3-15|Na 3:15]]\n- B: S [[Exod-10-13|Ex 10:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

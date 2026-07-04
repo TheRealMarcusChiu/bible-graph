@@ -1,0 +1,1 @@
+(function(){var b="ae6735985142",m="# Job 27:9 (New International Version)\nDoes God listen to their cry  \n    when distress comes upon them?<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Deut-1-45|Dt 1:45]]; S [[1Sam-8-18|1Sa 8:18]]; S [[Job-15-31|Job 15:31]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

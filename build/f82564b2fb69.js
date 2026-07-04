@@ -1,0 +1,1 @@
+(function(){var b="f82564b2fb69",m="# Jeremiah 36:15 (New International Version)\nThey said to him, \"Sit down, please, and read it to us.\"\nSo Baruch read it to them.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

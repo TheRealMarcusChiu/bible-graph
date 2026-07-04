@@ -1,0 +1,1 @@
+(function(){var b="6ba9ee12f09f",m="# Proverbs 22:27 (New International Version)\nif you lack the means to pay,  \n    your very bed will be snatched from under you.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Prov-11-15|Pr 11:15]]; S [[Prov-17-18|17:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

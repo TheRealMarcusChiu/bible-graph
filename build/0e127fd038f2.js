@@ -1,0 +1,1 @@
+(function(){var b="0e127fd038f2",m="# Ezra 8:34 (New International Version)\nEverything was accounted for by number and weight, and the entire weight was recorded at that time.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

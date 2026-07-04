@@ -1,0 +1,1 @@
+(function(){var b="b99f1ac0d28e",m="# Hosea 12:7 (New International Version)\nThe merchant uses dishonest scales<sup>^A</sup>  \n    and loves to defraud.\n\n### Crossrefs\n- A: S [[Lev-19-36|Lev 19:36]]; [[Amos-8-5|Am 8:5]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

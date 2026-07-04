@@ -1,0 +1,1 @@
+(function(){var b="d7f9624adc09",m="# Psalm 67:7 (New International Version)\nMay God bless us still,  \n    so that all the ends of the earth<sup>^A</sup> will fear him.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Ps-2-8|Ps 2:8]]\n- B: [[Ps-33-8|Ps 33:8]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

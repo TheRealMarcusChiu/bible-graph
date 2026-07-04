@@ -1,0 +1,1 @@
+(function(){var b="8296c97e649e",m="# Ezra 8:9 (New International Version)\nof the descendants of Joab, Obadiah son of Jehiel, and with him 218 men;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

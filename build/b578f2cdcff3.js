@@ -1,0 +1,1 @@
+(function(){var b="b578f2cdcff3",m="# Psalm 52:6 (New International Version)\nThe righteous will see and fear;  \n    they will laugh<sup>^A</sup> at you, saying,\n\n### Crossrefs\n- A: S [[Job-22-19|Job 22:19]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="768a7efa5156",m="# Jeremiah 16:1 (New International Version)\nDay of Disaster\nThen the word of the LORD came to me:";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

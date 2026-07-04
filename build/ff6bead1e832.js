@@ -1,0 +1,1 @@
+(function(){var b="ff6bead1e832",m="# Ezra 7:20 (New International Version)\nAnd anything else needed for the temple of your God that you are responsible to supply, you may provide from the royal treasury.<sup>^A</sup>\n\n### Crossrefs\n- A: S [[Ezra-6-4|Ezr 6:4]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="8771eb99fda0",m="# 2 Kings 5:3 (New International Version)\nShe said to her mistress, \"If only my master would see the prophet<sup>^A</sup> who is in Samaria! He would cure him of his leprosy.\"\n\n### Crossrefs\n- A: S [[Gen-20-7|Ge 20:7]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

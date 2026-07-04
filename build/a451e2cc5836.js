@@ -1,0 +1,1 @@
+(function(){var b="a451e2cc5836",m="# Jeremiah 23:39 (New International Version)\nTherefore, I will surely forget you and cast<sup>^A</sup> you out of my presence along with the city I gave to you and your ancestors. \n\n### Crossrefs\n- A: S [[Jer-7-15|Jer 7:15]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

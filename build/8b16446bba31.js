@@ -1,0 +1,1 @@
+(function(){var b="8b16446bba31",m="# Ecclesiastes 2:2 (New International Version)\n\"Laughter,\"<sup>^A</sup> I said, \"is madness. And what does pleasure accomplish?\" \n\n### Crossrefs\n- A: S [[Prov-14-13|Pr 14:13]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

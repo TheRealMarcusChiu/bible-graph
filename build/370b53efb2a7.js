@@ -1,0 +1,1 @@
+(function(){var b="370b53efb2a7",m="# Isaiah 37:34 (New International Version)\nBy the way that he came he will return;<sup>^A</sup>  \n    he will not enter this city,\"  \ndeclares the LORD.\n\n### Crossrefs\n- A: [[Isa-37-29|ver 29]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

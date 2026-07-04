@@ -1,0 +1,1 @@
+(function(){var b="33370090f153",m="# Daniel 10:3 (New International Version)\nI ate no choice food; no meat or wine touched my lips;<sup>^A</sup> and I used no lotions at all until the three weeks were over.\n\n### Crossrefs\n- A: S [[Dan-6-18|Da 6:18]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

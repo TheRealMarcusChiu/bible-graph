@@ -1,0 +1,1 @@
+(function(){var b="aed6040c55c4",m="# Ezekiel 12:15 (New International Version)\n\"They will know that I am the LORD, when I disperse them among the nations<sup>^A</sup> and scatter them through the countries. \n\n### Crossrefs\n- A: S [[Lev-26-33|Lev 26:33]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

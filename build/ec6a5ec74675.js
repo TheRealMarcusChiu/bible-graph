@@ -1,0 +1,1 @@
+(function(){var b="ec6a5ec74675",m="# Proverbs 21:20 (New International Version)\nThe wise store up choice food and olive oil,  \n    but fools gulp theirs down.";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

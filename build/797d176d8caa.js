@@ -1,0 +1,1 @@
+(function(){var b="797d176d8caa",m="# Nehemiah 11:21 (New International Version)\nThe temple servants<sup>^A</sup> lived on the hill of Ophel, and Ziha and Gishpa were in charge of them.\n\n### Crossrefs\n- A: S [[Ezra-2-43|Ezr 2:43]]; S [[Neh-3-26|Ne 3:26]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

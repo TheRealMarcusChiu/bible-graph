@@ -1,0 +1,1 @@
+(function(){var b="ad9d69a5e2f6",m="# Jeremiah 52:29 (New International Version)\nin Nebuchadnezzar's eighteenth year,\n832 people from Jerusalem;";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

@@ -1,0 +1,1 @@
+(function(){var b="ab1a9a954bd2",m="# Psalm 104:23 (New International Version)\nThen people go out to their work,<sup>^A</sup>  \n    to their labor until evening.<sup>^B</sup>\n\n### Crossrefs\n- A: S [[Gen-3-19|Ge 3:19]]\n- B: [[Judg-19-16|Jdg 19:16]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

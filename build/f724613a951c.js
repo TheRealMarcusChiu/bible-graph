@@ -1,0 +1,1 @@
+(function(){var b="f724613a951c",m="# Proverbs 14:33 (New International Version)\nWisdom reposes in the heart of the discerning<sup>^A</sup>  \n    and even among fools she lets herself be known.\n\n### Crossrefs\n- A: [[Prov-2-6|Pr 2:6-10]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

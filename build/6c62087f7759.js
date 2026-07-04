@@ -1,0 +1,1 @@
+(function(){var b="6c62087f7759",m="# Ezekiel 23:16 (New International Version)\nAs soon as she saw them, she lusted after them and sent messengers<sup>^A</sup> to them in Chaldea.<sup>^B</sup> \n\n### Crossrefs\n- A: S [[Isa-57-9|Isa 57:9]]\n- B: S [[Ezek-6-9|Eze 6:9]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

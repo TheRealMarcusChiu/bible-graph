@@ -1,0 +1,1 @@
+(function(){var b="51e0dd6c48ee",m="# Ezekiel 48:4 (New International Version)\n\"Manasseh<sup>^A</sup> will have one portion; it will border the territory of Naphtali from east to west.\n\n### Crossrefs\n- A: [[Josh-17-1|Jos 17:1-11]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();

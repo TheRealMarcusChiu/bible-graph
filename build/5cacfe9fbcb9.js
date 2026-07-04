@@ -1,0 +1,1 @@
+(function(){var b="5cacfe9fbcb9",m="# Ezekiel 42:15 (New International Version)\nWhen he had finished measuring what was inside the temple area, he led me out by the east gate<sup>^A</sup> and measured the area all around: \n\n### Crossrefs\n- A: [[Ezek-43-1|Eze 43:1]]";if(window.__kgBody){window.__kgBody(b,m);}else{(window.__kgBodyQ=window.__kgBodyQ||[]).push([b,m]);}})();
