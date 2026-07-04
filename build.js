@@ -479,6 +479,7 @@ function injectConfig() {
     site_url: { type: 'js', val: jsStr(cfg.site_url || '') },
     trigger: { type: 'js', val: jsStr(sig.trigger || '') },
     giscus: { type: 'js', val: giscusObj },
+    renderer: { type: 'js', val: jsStr(((cfg.graph || {}).renderer === 'webgl') ? 'webgl' : 'canvas') },
   };
 
   let html = fs.readFileSync(HTML_PATH, 'utf8');

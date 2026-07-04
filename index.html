@@ -2,16 +2,25 @@
 <html>
 <head>
 <meta charset="utf-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WKSFZQ4K6F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WKSFZQ4K6F');
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!--KG:title--><title>/bible/graph</title><!--/KG:title-->
+<!--KG:title--><title>/var/log</title><!--/KG:title-->
 <!--KG:og--><meta property="og:type" content="website">
-<meta property="og:site_name" content="/bible/graph">
-<meta property="og:title" content="/bible/graph">
-<meta property="og:description" content="the garden">
-<meta property="og:url" content="https://git.marcuschiu.com/bible-graph/">
+<meta property="og:site_name" content="/var/log">
+<meta property="og:title" content="/var/log">
+<meta property="og:description" content="knowledge garden">
+<meta property="og:url" content="https://git.marcuschiu.com/var-log/">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="/bible/graph">
-<meta name="twitter:description" content="the garden"><!--/KG:og-->
+<meta name="twitter:title" content="/var/log">
+<meta name="twitter:description" content="knowledge garden"><!--/KG:og-->
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 <script src="./support.js"></script>
 </head>
@@ -99,6 +108,11 @@
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
 <script src="https://unpkg.com/force-graph"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-dispatch@3/dist/d3-dispatch.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-quadtree@3/dist/d3-quadtree.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-timer@3/dist/d3-timer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3-force@3/dist/d3-force.min.js"></script>
+<script src="./webgl-graph.js"></script>
 </helmet>
 
 <div id="kg-app-root" data-screen-label="Knowledge Garden" style="position: fixed; inset: 0; background: #0f0c09; overflow: hidden; font-family: 'JetBrains Mono', monospace; color: #ece1cf; -webkit-font-smoothing: antialiased;">
@@ -128,8 +142,8 @@
   <!-- ===== TOP BAR ===== -->
   <header ref="{{ setHeaderEl }}" style="position: absolute; top: 0; left: 0; right: 0; z-index: 60; box-sizing: border-box; min-height: 62px; display: flex; align-items: center; justify-content: space-between; gap: 18px; flex-wrap: wrap; padding: 10px 10px 10px 17px; background: linear-gradient(180deg, rgba(15,12,9,0.96) 0%, rgba(15,12,9,0.86) 64%, rgba(15,12,9,0.66) 100%); backdrop-filter: blur(3px); border-bottom: 1px solid #2a2218;">
     <div onClick="{{ reloadPage }}" title="Reset to root" style="display: {{ brandDisplay }}; align-items: baseline; gap: 13px; cursor: pointer;">
-      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;"><!--KG:brand-->/bible/graph<!--/KG:brand--></span>
-      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};"><!--KG:subtitle-->the garden<!--/KG:subtitle--></span>
+      <span style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-weight: 500; font-size: 23px; color: #ece1cf; letter-spacing: -0.01em;"><!--KG:brand-->/var/log<!--/KG:brand--></span>
+      <span style="font-size: 10px; letter-spacing: 0.34em; text-transform: uppercase; color: #b78f3a; display: {{ subtitleDisplay }};"><!--KG:subtitle-->knowledge garden<!--/KG:subtitle--></span>
     </div>
 
     <div style="{{ searchWrapStyle }}">
@@ -208,6 +222,7 @@
             <button type="button" onClick="{{ menuToggleLegend }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ legendToggleLabel }}</span></button>
             <button type="button" onClick="{{ menuToggleMinimap }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>{{ minimapToggleLabel }}</span></button>
             <button type="button" onClick="{{ menuExportPng }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>⤓ Export graph as PNG</span></button>
+            <button type="button" onClick="{{ toggleRenderer }}" title="Switch how the graph is drawn. WebGL is experimental — much faster for very large graphs; Canvas 2D has the fullest visual detail." style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span>◈ Renderer</span><span style="font-size: 10px; color: #b78f3a;">{{ rendererLabel }}</span></button>
             <div style="height: 1px; background: #2a2218; margin: 5px 4px;"></div>
             <button type="button" onClick="{{ toggleTree }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: inline-flex; align-items: center; gap: 6px;">— Tree edges<span onClick="{{ infoStop }}" onMouseEnter="{{ infoTreeOn }}" onMouseLeave="{{ infoOff }}" style="cursor: help; color: #6c6354; display: inline-flex; align-items: center; position: relative;" style-hover="color: #d8a942;"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="6.5"></circle><line x1="8" y1="7" x2="8" y2="11.4"></line><circle cx="8" cy="4.6" r="0.75" fill="currentColor" stroke="none"></circle></svg><sc-if value="{{ infoTreeShow }}" hint-placeholder-val="{{ false }}"><span style="{{ infoTipStyle }}">Solid lines that trace each note's parent–child place in the hierarchy — every note links down to those nested beneath it. The backbone tree of the garden.</span></sc-if></span></span><span style="{{ treeChkStyle }}">{{ treeChk }}</span></button>
             <button type="button" onClick="{{ toggleWiki }}" style="{{ menuItemStyle }}" style-hover="background: #2c2316; color: #f4cf6a; box-shadow: inset 2px 0 0 #d8a942;"><span style="display: inline-flex; align-items: center; gap: 6px;">⋯ Wikilink edges<span onClick="{{ infoStop }}" onMouseEnter="{{ infoWikiOn }}" onMouseLeave="{{ infoOff }}" style="cursor: help; color: #6c6354; display: inline-flex; align-items: center; position: relative;" style-hover="color: #7fb0b8;"><svg width="13" height="13" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.3"><circle cx="8" cy="8" r="6.5"></circle><line x1="8" y1="7" x2="8" y2="11.4"></line><circle cx="8" cy="4.6" r="0.75" fill="currentColor" stroke="none"></circle></svg><sc-if value="{{ infoWikiShow }}" hint-placeholder-val="{{ false }}"><span style="{{ infoTipStyle }}">Dashed lines for [[wikilink]] references written inside notes — direct links between any two notes, independent of the tree, so related notes in different branches stay connected.</span></sc-if></span></span><span style="{{ wikiChkStyle }}">{{ wikiChk }}</span></button>
@@ -243,7 +258,7 @@
     <div style="position: fixed; inset: 0; z-index: 92; pointer-events: none; overflow: hidden;">
       <div style="position: absolute; left: 50%; top: 50%; width: 44px; height: 44px; border-radius: 50%; border: 2px solid #f4cf6a; box-shadow: 0 0 44px rgba(216,169,66,0.75); animation: eggRing 1.7s ease-out forwards;"></div>
       <div style="position: absolute; left: 50%; bottom: 64px; transform: translateX(-50%); animation: eggFade 4.2s ease both; text-align: center; background: rgba(20,16,11,0.92); border: 1px solid #d8a942; border-radius: 11px; padding: 16px 28px; box-shadow: 0 18px 50px -18px rgba(216,169,66,0.55);">
-        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;"><!--KG:sig_text-->✦ tended by Him ✦<!--/KG:sig_text--></div>
+        <div style="font-family: 'Newsreader', Georgia, serif; font-style: italic; font-size: 28px; color: #ece1cf;"><!--KG:sig_text-->✦ tended by Marcus Chiu ✦<!--/KG:sig_text--></div>
         <div style="margin-top: 6px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: 0.3em; text-transform: uppercase; color: #b78f3a;"><!--KG:sig_url-->git.marcuschiu.com<!--/KG:sig_url--></div>
       </div>
     </div>
@@ -702,11 +717,11 @@ class Component extends DCLogic {
   }
 
   GLOW_MS = 2000;
-  SITE = /*KG:site_url*/'https://git.marcuschiu.com/bible-graph/'/*/KG:site_url*/;
+  SITE = /*KG:site_url*/'https://git.marcuschiu.com/var-log/'/*/KG:site_url*/;
 
   // Hidden signature easter egg: typing this word flashes a credit overlay.
   // Empty string disables it. Injected from config.yml by build.js.
-  EGG_TRIGGER = /*KG:trigger*/'bible'/*/KG:trigger*/;
+  EGG_TRIGGER = /*KG:trigger*/'marcus'/*/KG:trigger*/;
 
   // giscus comments — fill these from https://giscus.app for YOUR GitHub repo.
   // Set enabled:false to hide the discussion section. Injected from config.yml.
@@ -790,7 +805,7 @@ class Component extends DCLogic {
   // Konami egg: the root becomes a black hole that swallows every node, explodes,
   // then the nodes drift back together into their normal layout. Pure 2D physics.
   blackHole = () => {
-    if (!this.graph || this._egg) return;
+    if (!this.graph || this._egg || this._renderer === 'webgl') return;
     const nodes = this.graph.graphData().nodes;
     if (!nodes.length) return;
     const root = this.nodeById[this.rootId] || nodes[0];
@@ -1220,6 +1235,13 @@ class Component extends DCLogic {
     this.navHist = []; this.navIdx = -1; this.navHistByKey = {};
     window.__kgBody = (id, md) => this.__receiveBody(id, md);
     if (window.__kgBodyQ && window.__kgBodyQ.length) { const q = window.__kgBodyQ.splice(0); q.forEach((d) => this.__receiveBody(d[0], d[1])); }
+    // Default renderer comes from config.yml (baked in by build.js); a visitor's
+    // explicit choice via Controls → Renderer (localStorage) overrides it.
+    const defaultRenderer = /*KG:renderer*/'webgl'/*/KG:renderer*/;
+    try {
+      const saved = localStorage.getItem('kg-renderer');
+      this._renderer = (saved === 'webgl' || saved === 'canvas') ? saved : defaultRenderer;
+    } catch (e) { this._renderer = defaultRenderer; }
     this.accent = this.props.accent || '#d8a942';
     this.accentBright = '#f4cf6a';
     this.ROOT_COLOR = '#fff1cf';
@@ -1593,6 +1615,26 @@ class Component extends DCLogic {
     const el = this.graphEl;
     const w = el.clientWidth, h = el.clientHeight;
     const data = this.getVisible();
+
+    // Experimental WebGL renderer: same d3-force physics, GPU-drawn bulk (see webgl-graph.js).
+    // Falls back to the Canvas 2D renderer if WebGL or the d3-force scripts are unavailable.
+    if (this._renderer === 'webgl') {
+      for (let i = 0; i < 80 && !(window.d3 && window.d3.forceSimulation && window.KGWebGLGraph); i++) await new Promise((r) => setTimeout(r, 25));
+      if (window.d3 && window.d3.forceSimulation && window.KGWebGLGraph) {
+        try {
+          const W = new KGWebGLGraph(el, this);
+          W.width(w).height(h);
+          W.onEngineTick(() => this.runCollide());
+          W.onEngineStop(() => { if (!this._fitDone) { this._fitDone = true; this.fitView(); } setTimeout(() => this.markReady(), 900); });
+          W.graphData(data);
+          this.graph = W;
+          return;
+        } catch (e) { console.warn('WebGL renderer unavailable — falling back to Canvas 2D.', e); this.destroyGraph(); }
+      } else { console.warn('WebGL renderer scripts failed to load — falling back to Canvas 2D.'); }
+      this._renderer = 'canvas';
+      try { localStorage.setItem('kg-renderer', 'canvas'); } catch (e) {}
+      this.setState((s) => ({ tick: (s.tick || 0) + 1 }));
+    }
 
     const G = ForceGraph()(el)
         .width(w).height(h)
@@ -3541,11 +3583,12 @@ class Component extends DCLogic {
   _addLegendFocus = (id) => { const fg = this._focusGroups || (this._focusGroups = new Set()); const has = fg.has(id); if (this._legAdd && !has) fg.add(id); else if (!this._legAdd && has) fg.delete(id); else return; this.setState((s) => ({ tick: (s.tick || 0) + 1 })); this._kickGraph(); };
   // Export the current graph canvas as a PNG (with the theme background painted behind it).
   exportGraphPNG = () => {
-    const cv = this.graphEl && this.graphEl.querySelector('canvas'); if (!cv) return;
-    const out = document.createElement('canvas'); out.width = cv.width; out.height = cv.height;
+    const cvs = this.graphEl ? Array.prototype.slice.call(this.graphEl.querySelectorAll('canvas')) : []; if (!cvs.length) return;
+    const out = document.createElement('canvas'); out.width = cvs[0].width; out.height = cvs[0].height;
     const c = out.getContext('2d');
     c.fillStyle = document.body.classList.contains('kg-light') ? '#eef1f4' : '#0f0c09';
-    c.fillRect(0, 0, out.width, out.height); c.drawImage(cv, 0, 0);
+    c.fillRect(0, 0, out.width, out.height);
+    cvs.forEach((cv) => { try { c.drawImage(cv, 0, 0, out.width, out.height); } catch (e) {} });
     try { out.toBlob((b) => { if (!b) return; const a = document.createElement('a'); a.href = URL.createObjectURL(b); a.download = 'knowledge-garden.png'; document.body.appendChild(a); a.click(); setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 1000); }, 'image/png'); } catch (e) {}
   };
   openStats = () => this.setState({ statsOpen: true, paletteOpen: false, menuOpen: false });
@@ -3568,6 +3611,22 @@ class Component extends DCLogic {
   toggleNodeDegree = () => { const next = !(this.state.nodeSizeByDegree !== false); this.setState({ nodeSizeByDegree: next }); try { sessionStorage.setItem('kg-node-degree', next ? '1' : '0'); } catch (_) {} this._kickGraph(); };
   setEdgeWidth = (e) => { const v = parseFloat(e.target.value); this.setState({ edgeWidthMul: v }); try { sessionStorage.setItem('kg-edge-width', v); } catch (_) {} this._kickGraph(); };
   setNodeColor = (c) => () => { this.setState({ nodeColorMode: c }); try { sessionStorage.setItem('kg-node-color', c); } catch (_) {} this._kickGraph(); };
+  // Swap the graph renderer (Canvas 2D <-> experimental WebGL), preserving the camera.
+  // Node positions live on the shared node objects, so the layout carries over seamlessly.
+  toggleRenderer = async () => {
+    if (this._switchingRenderer) return;
+    this._switchingRenderer = true;
+    const next = this._renderer === 'webgl' ? 'canvas' : 'webgl';
+    this._renderer = next;
+    try { localStorage.setItem('kg-renderer', next); } catch (e) {}
+    this.setState((s) => ({ tick: (s.tick || 0) + 1, menuOpen: false }));
+    let cam = null;
+    try { const cw = this.graphEl.clientWidth, ch = this.graphEl.clientHeight; const cc = this.graph.screen2GraphCoords(cw / 2, ch / 2); cam = { z: this.graph.zoom(), x: cc.x, y: cc.y }; } catch (e) {}
+    await this.buildGraph();
+    this._fitDone = true;   // keep the restored camera; don't auto-refit when the sim cools
+    if (cam && this.graph) { try { this.graph.zoom(cam.z); this.graph.centerAt(cam.x, cam.y); } catch (e) {} }
+    this._switchingRenderer = false;
+  };
   expandAll = () => {
     if (!this.nodeById) return;
     this.collapsed = new Set();
@@ -4341,6 +4400,8 @@ class Component extends DCLogic {
       setHeaderEl: this.setHeaderEl,
       setTipEl: this.setTipEl,
       eggMarcus: this.state.egg === 'marcus',
+      rendererLabel: this._renderer === 'webgl' ? 'WebGL' : 'Canvas 2D',
+      toggleRenderer: this.toggleRenderer,
       statusShown: (this.nodeById ? (this._visNodes || this.countVisible()) : 0) + ' shown · ',
       showAllLabel: 'Show All ' + (this.nodeById ? this.actingTotal() : 0),
       showAll: () => this.expandAll(),

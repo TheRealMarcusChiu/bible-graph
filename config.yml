@@ -7,22 +7,22 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Browser tab title.
-title: "/bible/graph"
+title: "/var/log"
 
 # Wordmark shown top-left in the header.
-brand: "/bible/graph"
+brand: "/var/log"
 
 # Small caption beside the wordmark.
-subtitle: "the garden"
+subtitle: "knowledge garden"
 
 # Your site's public URL (used internally; safe to leave blank).
-site_url: "https://git.marcuschiu.com/bible-graph/"
+site_url: "https://git.marcuschiu.com/var-log/"
 
 # Hidden signature easter egg: typing the `trigger` word anywhere flashes a
 # credit overlay. Leave `trigger` empty ("") to disable it entirely.
 signature:
-  trigger: "bible"
-  text: "✦ tended by Him ✦"
+  trigger: "marcus"
+  text: "✦ tended by Marcus Chiu ✦"
   url: "git.marcuschiu.com"
 
 # giscus comments (https://giscus.app). Set `enabled: false` to hide the
@@ -35,3 +35,10 @@ giscus:
   category: "General"
   category_id: "DIC_kwDOSxZkzc4C-tDZ"
   theme: "transparent_dark"
+
+# Graph view.
+graph:
+  # Default renderer: "canvas" (Canvas 2D — fullest visual detail) or
+  # "webgl" (experimental — much faster for very large graphs).
+  # Visitors can still switch per-browser via Controls → Renderer.
+  renderer: "webgl"
