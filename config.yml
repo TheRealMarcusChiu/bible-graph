@@ -7,16 +7,16 @@
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Browser tab title.
-title: "/var/log"
+title: "Bible Graph"
 
 # Wordmark shown top-left in the header.
-brand: "/var/log"
+brand: "/bible-graph"
 
 # Small caption beside the wordmark.
-subtitle: "knowledge garden"
+subtitle: "Kēpos Sophias"
 
 # Your site's public URL (used internally; safe to leave blank).
-site_url: "https://git.marcuschiu.com/var-log/"
+site_url: "https://git.marcuschiu.com/bible-graph/"
 
 # Hidden signature easter egg: typing the `trigger` word anywhere flashes a
 # credit overlay. Leave `trigger` empty ("") to disable it entirely.
